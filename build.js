@@ -1,4 +1,3 @@
-const fs = require('fs')
 const path = require('path')
 const Datauri = require('datauri').sync
 const yaml = require('yamljs')

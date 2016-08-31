@@ -6,7 +6,7 @@
   "scripts": {
     "build": "node build.js > index.json",
     "pretest": "npm run build",
-    "test": "node test.js | tap-spec"
+    "test": "node test.js | tap-spec && standard && standard-markdown"
   },
   "repository": "https://github.com/zeke/electron-apps",
   "keywords": [
@@ -26,6 +26,7 @@
     "datauri": "^1.0.4",
     "path-exists": "^3.0.0",
     "standard": "^8.0.0",
+    "standard-markdown": "^1.2.1",
     "tap-spec": "^4.1.1",
     "tape": "^4.6.0",
     "yamljs": "^0.2.8"
