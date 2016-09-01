@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
