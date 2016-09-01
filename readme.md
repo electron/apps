@@ -1,4 +1,4 @@
-# electron-apps [![Build Status](https://travis-ci.org/zeke/elecron-apps.svg?branch=master)](https://travis-ci.org/zeke/elecron-apps)
+# electron-apps [![Build Status](https://travis-ci.org/zeke/electron-apps.svg?branch=master)](https://travis-ci.org/zeke/electron-apps)
 
 A collection of apps built on Electron
 
