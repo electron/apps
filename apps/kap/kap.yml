@@ -1,0 +1,12 @@
+name: Kap
+description: 'An open-source screen recorder built with web technology'
+website: 'https://getkap.co'
+repository: 'https://github.com/wulkano/kap'
+keywords:
+    - kap
+    - screen
+    - capture
+    - record
+    - video
+license: MIT
+featuredOnHomepage: true

@@ -1,0 +1,9 @@
+name: Soundnode
+description: 'Soundnode App is the Soundcloud for desktop.'
+website: 'http://www.soundnodeapp.com'
+repository: 'https://github.com/Soundnode/soundnode-app'
+keywords:
+    - music
+    - sound
+    - soundcloud
+license: 'GNU GENERAL PUBLIC LICENSE Version 3'

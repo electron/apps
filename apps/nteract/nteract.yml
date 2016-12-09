@@ -1,0 +1,10 @@
+name: nteract
+description: 'Interactive literate coding notebook'
+website: 'https://nteract.io/'
+repository: 'https://github.com/nteract/nteract'
+keywords:
+    - jupyter
+    - notebook
+    - nteract
+    - data
+license: BSD-3-Clause

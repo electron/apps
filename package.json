@@ -4,9 +4,7 @@
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
-    "build": "node build.js > index.json",
-    "pretest": "npm run build",
-    "test": "node test.js | tap-spec && standard && standard-markdown"
+    "test": "mocha && standard && standard-markdown"
   },
   "repository": "https://github.com/zeke/electron-apps",
   "keywords": [
@@ -23,12 +21,22 @@
   },
   "homepage": "https://github.com/zeke/electron-apps#readme",
   "devDependencies": {
+    "chai": "^3.5.0",
+    "clean-deep": "^2.0.1",
     "datauri": "^1.0.4",
+    "is-url": "^1.2.2",
+    "mkdirp": "^0.5.1",
+    "mocha": "^3.2.0",
     "path-exists": "^3.0.0",
+    "slug": "^0.9.1",
+    "slugg": "^1.1.0",
     "standard": "^8.0.0",
     "standard-markdown": "^1.2.1",
-    "tap-spec": "^4.1.1",
-    "tape": "^4.6.0",
     "yamljs": "^0.2.8"
+  },
+  "standard": {
+    "env": {
+      "mocha": true
+    }
   }
 }

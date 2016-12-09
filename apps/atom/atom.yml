@@ -1,0 +1,13 @@
+name: Atom
+description: 'A hackable text editor for the 21 st Century'
+website: 'https://atom.io'
+repository: 'https://github.com/atom/atom'
+keywords:
+    - 'web development'
+    - writing
+    - editor
+    - programming
+    - git
+    - github
+license: MIT
+featuredOnHomepage: true

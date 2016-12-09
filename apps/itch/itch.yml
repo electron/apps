@@ -1,0 +1,7 @@
+name: itch
+description: 'The best way to play your itch.io games'
+website: 'https://itch.io/app'
+repository: 'https://github.com/itchio/itch'
+keywords:
+    - games
+license: MIT

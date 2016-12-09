@@ -1,0 +1,11 @@
+name: Alduin
+description: 'An RSS and Atom feed aggregator'
+website: 'https://github.com/Xstoudi/alduin'
+repository: 'https://github.com/Xstoudi/alduin'
+keywords:
+    - rss
+    - atom
+    - aggregator
+    - electron
+    - react
+license: MIT

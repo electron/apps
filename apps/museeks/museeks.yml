@@ -1,0 +1,10 @@
+name: Museeks
+description: 'A simple, clean and cross-platform music player'
+website: 'http://museeks.io/'
+repository: 'https://github.com/KeitIG/museeks'
+keywords:
+    - Electron
+    - music
+    - audio
+    - 'music player'
+license: MIT

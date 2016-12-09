@@ -1,0 +1,10 @@
+name: Negative
+description: 'An app for making visual comparisons'
+website: 'https://github.com/atdrago/negative'
+keywords:
+    - diff
+    - 'visual diff'
+    - 'web development'
+    - 'web design'
+    - 'developer tool'
+license: MIT

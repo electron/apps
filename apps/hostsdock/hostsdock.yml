@@ -1,0 +1,11 @@
+name: HostsDock
+description: 'Store, manage and switch your hosts easily'
+website: 'https://github.com/eshengsky/HostsDock'
+repository: 'https://github.com/eshengsky/HostsDock'
+keywords:
+    - HostsDock
+    - storage
+    - manage
+    - switch
+    - hosts
+license: MIT

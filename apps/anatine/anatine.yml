@@ -1,0 +1,9 @@
+name: Anatine
+description: 'Pristine Twitter app'
+website: 'https://github.com/sindresorhus/anatine'
+repository: 'https://github.com/sindresorhus/anatine'
+keywords:
+    - social
+    - news
+    - twitter
+license: MIT

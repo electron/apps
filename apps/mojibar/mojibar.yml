@@ -1,0 +1,10 @@
+name: Mojibar
+description: 'Emoji searcher menubar app'
+website: 'https://github.com/muan/mojibar'
+repository: 'https://github.com/muan/mojibar'
+keywords:
+    - emoji
+    - menubar
+    - 'open source'
+license: MIT
+featuredOnHomepage: true

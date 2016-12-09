@@ -1,0 +1,12 @@
+name: Now
+description: 'The desktop client for ZEIT''s now'
+website: 'https://zeit.co/app'
+repository: 'https://github.com/zeit/now-app'
+keywords:
+    - now
+    - zeit
+    - deployment
+    - sharing
+    - development
+license: MIT
+featuredOnHomepage: true

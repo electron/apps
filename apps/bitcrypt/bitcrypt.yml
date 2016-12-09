@@ -1,0 +1,9 @@
+name: BitCrypt
+description: 'A simple File Encryption application for Windows. Encrypt your bits.'
+website: 'https://github.com/Nazgul07/BitCrypt'
+repository: 'https://github.com/Nazgul07/BitCrypt'
+license: MIT
+keywords:
+    - encrypt
+    - file
+    - encryption

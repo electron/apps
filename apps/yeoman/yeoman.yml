@@ -1,0 +1,9 @@
+name: Yeoman
+description: 'Scaffolding tool for webapps'
+website: 'https://github.com/yeoman/yeoman-app'
+repository: ""
+keywords:
+    - 'web development'
+    - scaffolding
+    - productivity
+license: ""
