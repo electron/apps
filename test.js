@@ -45,6 +45,10 @@ describe('electron-apps', () => {
           expect(app.description).to.not.be.empty
         })
 
+        it('has a website with a valid URL', () => {
+          expect(isUrl(app.website)).to.equal(true)
+        })
+
         it('has a valid repository URL (or no repository)', () => {
           expect(!app.repository || isUrl(app.repository)).to.equal(true)
         })
