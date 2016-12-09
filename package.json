@@ -4,6 +4,7 @@
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
+    "install": "node build.js > index.json",
     "test": "mocha && standard && standard-markdown"
   },
   "repository": "https://github.com/zeke/electron-apps",
@@ -16,10 +17,6 @@
   ],
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/zeke/electron-apps/issues"
-  },
-  "homepage": "https://github.com/zeke/electron-apps#readme",
   "devDependencies": {
     "chai": "^3.5.0",
     "clean-deep": "^2.0.1",
@@ -31,7 +28,9 @@
     "slug": "^0.9.1",
     "slugg": "^1.1.0",
     "standard": "^8.0.0",
-    "standard-markdown": "^1.2.1",
+    "standard-markdown": "^1.2.1"
+  },
+  "dependencies": {
     "yamljs": "^0.2.8"
   },
   "standard": {

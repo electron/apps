@@ -9,9 +9,8 @@ const slugg = require('slugg')
 const slugs = fs.readdirSync(path.join(__dirname, '/apps'))
 
 describe('electron-apps', () => {
-
   it('includes lots of apps', () => {
-    expect(slugs.length).to.be.above(80)
+    expect(slugs.length).to.be.above(200)
   })
 
   slugs.forEach(slug => {
