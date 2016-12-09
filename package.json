@@ -31,5 +31,8 @@
   },
   "dependencies": {
     "yamljs": "^0.2.8"
+  },
+  "engines": {
+    "node": ">=4"
   }
 }
