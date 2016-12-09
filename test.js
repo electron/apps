@@ -30,10 +30,6 @@ describe('electron-apps', () => {
         expect(pathExists(yamlPath)).to.equal(true)
       })
 
-      it(`includes an icon named named ${slug}.png or ${slug}.svg`, () => {
-        expect(pathExists(pngPath) || pathExists(svgPath)).to.equal(true)
-      })
-
       describe(`${yamlFile}`, () => {
         const app = yaml.load(yamlPath)
 
@@ -59,6 +55,10 @@ describe('electron-apps', () => {
       })
 
       describe('icon', () => {
+        it(`exists as ${slug}.png or ${slug}.svg`, () => {
+          expect(pathExists(pngPath) || pathExists(svgPath)).to.equal(true, 'no icon file found')
+        })
+
         // TODO: fix some existing offenders first
         it('is a square')
         // it ('is a square', () => {
@@ -69,9 +69,11 @@ describe('electron-apps', () => {
         // })
 
         it('is at least 100px x 100px', () => {
-          const imagePath = pathExists(pngPath) ? pngPath : svgPath
-          const dimensions = imageSize(imagePath)
-          expect(dimensions.width).to.be.above(99)
+          if (pathExists(pngPath) || pathExists(svgPath)) {
+            const imagePath = pathExists(pngPath) ? pngPath : svgPath
+            const dimensions = imageSize(imagePath)
+            expect(dimensions.width).to.be.above(99)
+          }
         })
       })
     })

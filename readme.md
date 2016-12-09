@@ -2,17 +2,31 @@
 
 A collection of apps built on Electron. [electron.atom.io/apps](http://electron.atom.io/apps).
 
-## Adding Your App
+## Adding your App
 
 If you have an Electron application or project you'd like to see added, please
-open a pull request. **In your pull request, please make it clear if you are
-involved with the project or have an OK from the project team to add the app
-to the site**. We want to make sure each team is aware and OK with their project
-being added.
+open a pull request! All that's required is a basic YML file and an icon.
 
-Add your app to the list by creating a new directory in the `apps` directory,
-and including a `.yml` file and a `.png` or `.svg` icon file. The directory can
-only contain numbers, lowercase letters, and dashes.
+### Wizard 🔮
+
+This repository has a CLI wizard much like `npm init` that you can use to generate
+a datafile for your app. To use the wizard,
+[fork and clone this repository](https://help.github.com/articles/fork-a-repo/)
+then run:
+
+```sh
+npm install && npm run wizard
+```
+
+### Manual 💪
+
+Another easy way to add a new app is to copy an existing app and edit its metadata.
+
+To do so, create a new directory in the `apps` directory and include a `.yml`
+file and a `.png` or `.svg` icon file. The directory can only contain numbers,
+lowercase letters, and dashes.
+
+It should look like this:
 
 ```
 apps
@@ -36,7 +50,6 @@ Icon file rules:
 - Must be a square
 - Must be at least 256px x 256px
 
-:idea: ProTip: Copy an existing directory to get started!
 
 ## Tests
 
