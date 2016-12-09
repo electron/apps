@@ -58,13 +58,11 @@ describe('electron-apps', () => {
           expect(pathExists(iconPath)).to.equal(true, 'no icon file found')
         })
 
-        // TODO: fix some existing offenders first
-        it('is a square')
-        // it ('is a square', () => {
-        //   const dimensions = imageSize(iconPath)
-        //   expect(dimensions.width).to.be.a('number')
-        //   expect(dimensions.width).to.equal(dimensions.height)
-        // })
+        it('is a square', () => {
+          const dimensions = imageSize(iconPath)
+          expect(dimensions.width).to.be.a('number')
+          expect(dimensions.width).to.equal(dimensions.height)
+        })
 
         it('is at least 100px x 100px', () => {
           if (pathExists(iconPath)) {
