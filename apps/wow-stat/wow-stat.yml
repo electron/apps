@@ -1,0 +1,9 @@
+name: "WoW Stat"
+description: "World of Warcraft server uptime monitor"
+website: "http://wowst.at/"
+repository: "https://github.com/arzynik/wowstat"
+license: "MIT"
+keywords:
+  - "wow"
+  - "game"
+  - "warcraft"
