@@ -2,12 +2,12 @@
 
 A collection of apps built on Electron. [electron.atom.io/apps](http://electron.atom.io/apps).
 
-## Adding your App
+## Add your App!
 
 If you have an Electron application or project you'd like to see added, please
 open a pull request! All that's required is a basic YML file and an icon.
 
-### Wizard 🔮
+### Using the Wizard 🔮
 
 This repository has a CLI wizard much like `npm init` that you can use to generate
 a datafile for your app. To use the wizard,
@@ -18,15 +18,14 @@ then run:
 npm install && npm run wizard
 ```
 
-### Manual 💪
+### Using a Manual Approach 💪
 
 Another easy way to add a new app is to copy an existing app and edit its metadata.
 
 To do so, create a new directory in the `apps` directory and include a `.yml`
-file and a `.png` or `.svg` icon file. The directory can only contain numbers,
-lowercase letters, and dashes.
-
-It should look like this:
+file and `.png` or `.svg` icon file. The directory can only contain numbers,
+lowercase letters, and dashes, and the yml and icon files should be named to
+match the parent directory:
 
 ```
 apps
@@ -37,19 +36,19 @@ apps
 
 YML file rules:
 
-- Must have the same basename as the parent directory, e.g. `foo/foo.yml`
 - `name` is required.
 - `description` is required.
 - `website` is required, and must be a fully-qualified URL.
 - `repository` is optional, but must be a fully-qualified URL if provided.
+- `keywords` is optional, but should be an array if provided.
+- `license` is optional.
 - No fields should be left blank.
 
 Icon file rules:
 
-- Must be a `.png` or `.svg` with the same basename as the parent directory.
+- Must be a `.png` or `.svg`
 - Must be a square
-- Must be at least 256px x 256px
-
+- Must be at least 256px by 256px
 
 ## Tests
 
