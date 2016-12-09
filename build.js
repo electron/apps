@@ -3,7 +3,11 @@ const path = require('path')
 const yaml = require('yamljs')
 const apps = []
 
-fs.readdirSync(path.join(__dirname, 'apps')).forEach(slug => {
+fs.readdirSync(path.join(__dirname, 'apps'))
+.filter(filename => {
+  return fs.statSync(path.join(__dirname, `/apps/${filename}`)).isDirectory()
+})
+.forEach(slug => {
   const yamlFile = path.join(__dirname, `apps/${slug}/${slug}.yml`)
   const app = Object.assign(
     {slug: slug},
