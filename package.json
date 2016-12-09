@@ -7,7 +7,7 @@
     "install": "node build.js > index.json",
     "test": "mocha && standard && standard-markdown"
   },
-  "repository": "https://github.com/zeke/electron-apps",
+  "repository": "https://github.com/electron/electron-apps",
   "keywords": [
     "electron",
     "apps",
