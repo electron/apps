@@ -53,17 +53,21 @@ const questions = [{
 }
 ]
 
-inquirer.prompt(questions).then(function (answers) {
-  const app = cleanDeep(answers)
-  const slug = slugify(app.name)
-  const basepath = path.join(__dirname, `apps/${slug}`)
-  const yamlPath = path.join(basepath, `${slug}.yml`)
-  const yamlContent = yaml.stringify(app, 2)
-  mkdirp(basepath)
-  fs.writeFileSync(yamlPath, yamlContent)
-  console.log()
-  console.log(`Yay! Created ${path.relative(process.cwd(), yamlPath)}`)
-  console.log(`Now you just need to add an icon named ${slug}-icon.png\n`)
-  console.log(`Once you're done, run \`npm test\` to verify. Then open your pull request!`)
-  console.log()
-})
+inquirer.prompt(questions)
+  .then(function (answers) {
+    const app = cleanDeep(answers)
+    const slug = slugify(app.name)
+    const basepath = path.join(__dirname, `apps/${slug}`)
+    const yamlPath = path.join(basepath, `${slug}.yml`)
+    const yamlContent = yaml.stringify(app, 2)
+    mkdirp(basepath)
+    fs.writeFileSync(yamlPath, yamlContent)
+    console.log()
+    console.log(`Yay! Created ${path.relative(process.cwd(), yamlPath)}`)
+    console.log(`Now you just need to add an icon named ${slug}-icon.png\n`)
+    console.log(`Once you're done, run \`npm test\` to verify. Then open your pull request!`)
+    console.log()
+  })
+  .catch(error => {
+    console.error(error)
+  })
