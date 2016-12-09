@@ -2,7 +2,7 @@
 
 A collection of apps built on Electron. [electron.atom.io/apps](http://electron.atom.io/apps).
 
-## Add your App!
+## Adding your App
 
 If you have an Electron application or project you'd like to see added, please
 open a pull request! All that's required is a basic YML file and an icon.
