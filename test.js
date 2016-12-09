@@ -19,8 +19,7 @@ describe('electron-apps', () => {
       const basedir = path.join(__dirname, `/apps/${slug}`)
       const yamlFile = `${slug}.yml`
       const yamlPath = path.join(basedir, yamlFile)
-      const pngPath = path.join(basedir, `${slug}.png`)
-      const svgPath = path.join(basedir, `${slug}.svg`)
+      const iconPath = path.join(basedir, `${slug}-icon.png`)
 
       it('is in a directory whose name is lowercase with dashes as a delimiter', () => {
         expect(slugg(slug)).to.equal(slug)
@@ -55,23 +54,21 @@ describe('electron-apps', () => {
       })
 
       describe('icon', () => {
-        it(`exists as ${slug}.png or ${slug}.svg`, () => {
-          expect(pathExists(pngPath) || pathExists(svgPath)).to.equal(true, 'no icon file found')
+        it(`exists as ${slug}-icon.png`, () => {
+          expect(pathExists(iconPath)).to.equal(true, 'no icon file found')
         })
 
         // TODO: fix some existing offenders first
         it('is a square')
         // it ('is a square', () => {
-        //   const imagePath = pathExists(pngPath) ? pngPath : svgPath
-        //   const dimensions = imageSize(imagePath)
-        //   expect(dimensions.width).to.be.above(1)
+        //   const dimensions = imageSize(iconPath)
+        //   expect(dimensions.width).to.be.a('number')
         //   expect(dimensions.width).to.equal(dimensions.height)
         // })
 
         it('is at least 100px x 100px', () => {
-          if (pathExists(pngPath) || pathExists(svgPath)) {
-            const imagePath = pathExists(pngPath) ? pngPath : svgPath
-            const dimensions = imageSize(imagePath)
+          if (pathExists(iconPath)) {
+            const dimensions = imageSize(iconPath)
             expect(dimensions.width).to.be.above(99)
           }
         })

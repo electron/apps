@@ -61,11 +61,8 @@ inquirer.prompt(questions).then(function (answers) {
   const yamlContent = yaml.stringify(app, 2)
   mkdirp(basepath)
   fs.writeFileSync(yamlPath, yamlContent)
-  console.log(`
-Yay! Created ${path.relative(process.cwd(), yamlPath)}`)
-  console.log(`
-${yamlContent}
-`)
-  console.log(`Now you just need to add an icon:`)
-  console.log(`${slug}.png or ${slug}.svg`)
+  console.log()
+  console.log(`Yay! Created ${path.relative(process.cwd(), yamlPath)}`)
+  console.log(`Now you just need to add an icon named ${slug}-icon.png\n`)
+  console.log()
 })
