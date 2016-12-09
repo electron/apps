@@ -2,4 +2,3 @@ name: 'Visual Studio Code'
 description: 'Open source code editor developed by Microsoft'
 website: 'https://code.visualstudio.com'
 license: MIT
-featuredOnHomepage: true
