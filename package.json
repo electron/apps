@@ -5,7 +5,7 @@
   "main": "index.json",
   "scripts": {
     "install": "node build.js > index.json",
-    "test": "mocha && standard && standard-markdown",
+    "test": "mocha",
     "wizard": "node wizard.js"
   },
   "repository": "https://github.com/electron/electron-apps",
@@ -21,24 +21,15 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "clean-deep": "^2.0.1",
-    "datauri": "^1.0.4",
     "image-size": "^0.5.0",
     "inquirer": "^2.0.0",
     "is-url": "^1.2.2",
     "mkdirp": "^0.5.1",
     "mocha": "^3.2.0",
     "path-exists": "^3.0.0",
-    "slug": "^0.9.1",
-    "slugg": "^1.1.0",
-    "standard": "^8.0.0",
-    "standard-markdown": "^1.2.1"
+    "slugg": "^1.1.0"
   },
   "dependencies": {
     "yamljs": "^0.2.8"
-  },
-  "standard": {
-    "env": {
-      "mocha": true
-    }
   }
 }
