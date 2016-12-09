@@ -64,6 +64,6 @@ inquirer.prompt(questions).then(function (answers) {
   console.log()
   console.log(`Yay! Created ${path.relative(process.cwd(), yamlPath)}`)
   console.log(`Now you just need to add an icon named ${slug}-icon.png\n`)
-  console.log(`Once you're done, run `npm test` to verify. Then open your pull request!`)
+  console.log(`Once you're done, run \`npm test\` to verify. Then open your pull request!`)
   console.log()
 })
