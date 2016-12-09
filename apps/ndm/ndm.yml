@@ -1,0 +1,12 @@
+name: ndm
+description: 'npm desktop manager'
+website: 'https://720kb.github.io/ndm'
+repository: 'https://github.com/720kb/ndm'
+keywords:
+    - npm
+    - desktop
+    - manager
+    - gui
+    - app
+    - tool
+license: GPL-3.0
