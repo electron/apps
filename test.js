@@ -5,6 +5,7 @@ const pathExists = require('path-exists').sync
 const yaml = require('yamljs')
 const isUrl = require('is-url')
 const cleanDeep = require('clean-deep')
+const imageSize = require('image-size')
 const slugg = require('slugg')
 const slugs = fs.readdirSync(path.join(__dirname, '/apps'))
 
@@ -50,6 +51,23 @@ describe('electron-apps', () => {
 
         it('has no empty properties', () => {
           expect(cleanDeep(app)).to.deep.equal(app)
+        })
+      })
+
+      describe('icon', () => {
+        // TODO: fix some existing offenders first
+        it('is a square')
+        // it ('is a square', () => {
+        //   const imagePath = pathExists(pngPath) ? pngPath : svgPath
+        //   const dimensions = imageSize(imagePath)
+        //   expect(dimensions.width).to.be.above(1)
+        //   expect(dimensions.width).to.equal(dimensions.height)
+        // })
+
+        it('is at least 100px x 100px', () => {
+          const imagePath = pathExists(pngPath) ? pngPath : svgPath
+          const dimensions = imageSize(imagePath)
+          expect(dimensions.width).to.be.above(99)
         })
       })
     })
