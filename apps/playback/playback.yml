@@ -1,9 +1,7 @@
 name: Playback
 description: 'Experimental video player'
 website: 'https://github.com/mafintosh/playback'
-repository: ""
 keywords:
     - video
     - player
     - audio
-license: ""

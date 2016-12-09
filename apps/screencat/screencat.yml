@@ -1,9 +1,7 @@
 name: ScreenCat
 description: 'WebRTC screensharing'
 website: 'https://github.com/maxogden/screencat'
-repository: ""
 keywords:
     - screensharing
     - collaboration
     - WebRTC
-license: ""

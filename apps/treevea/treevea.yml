@@ -1,7 +1,6 @@
 name: Treevea
 description: 'Your PowerPoint® assistant - easily search and reuse all your contents'
 website: 'https://www.treevea.com/'
-repository: ""
 keywords:
     - powerpoint
     - presentations
@@ -9,4 +8,3 @@ keywords:
     - assistant
     - search
     - reuse
-license: ""

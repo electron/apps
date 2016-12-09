@@ -1,10 +1,8 @@
 name: GitKraken
 description: 'The downright luxurious Git client for Windows, Mac and Linux'
 website: 'https://www.gitkraken.com/'
-repository: ""
 keywords:
     - git
     - programming
     - productivity
-license: ""
 featuredOnHomepage: true

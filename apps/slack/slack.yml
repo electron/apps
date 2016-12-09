@@ -1,7 +1,4 @@
 name: Slack
 description: 'A messaging app for teams'
 website: 'https://slack.com'
-repository: ""
-keywords: []
-license: ""
 featuredOnHomepage: true
