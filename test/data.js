@@ -7,19 +7,19 @@ const isUrl = require('is-url')
 const cleanDeep = require('clean-deep')
 const imageSize = require('image-size')
 const slugg = require('slugg')
-const slugs = fs.readdirSync(path.join(__dirname, '/apps'))
+const slugs = fs.readdirSync(path.join(__dirname, '../apps'))
   .filter(filename => {
-    return fs.statSync(path.join(__dirname, `/apps/${filename}`)).isDirectory()
+    return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
   })
 
-describe('electron-apps', () => {
+describe('app data', () => {
   it('includes lots of apps', () => {
     expect(slugs.length).to.be.above(200)
   })
 
   slugs.forEach(slug => {
     describe(slug, () => {
-      const basedir = path.join(__dirname, `/apps/${slug}`)
+      const basedir = path.join(__dirname, `../apps/${slug}`)
       const yamlFile = `${slug}.yml`
       const yamlPath = path.join(basedir, yamlFile)
       const iconPath = path.join(basedir, `${slug}-icon.png`)
