@@ -4,8 +4,9 @@
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
-    "install": "node build.js > index.json",
-    "test": "mocha",
+    "build": "node build.js > index.json",
+    "install": "npm run build",
+    "test": "npm run build && mocha",
     "wizard": "node wizard.js"
   },
   "repository": "https://github.com/electron/electron-apps",
