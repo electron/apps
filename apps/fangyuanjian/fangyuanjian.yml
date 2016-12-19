@@ -4,3 +4,5 @@ website: 'http://bzsns.cn/'
 keywords:
     - "messaging"
     - "collaboration"
+locales:
+  - "zh-CN"
