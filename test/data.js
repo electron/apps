@@ -7,6 +7,7 @@ const isUrl = require('is-url')
 const cleanDeep = require('clean-deep')
 const imageSize = require('image-size')
 const slugg = require('slugg')
+const englishWords = require('an-array-of-english-words')
 const slugs = fs.readdirSync(path.join(__dirname, '../apps'))
   .filter(filename => {
     return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
@@ -49,6 +50,18 @@ describe('app data', () => {
 
         it('has a valid repository URL (or no repository)', () => {
           expect(!app.repository || isUrl(app.repository)).to.equal(true)
+        })
+
+        it.only('has a locales array if description is not English', () => {
+          const words = app.description.toLowerCase().split(' ')
+          const matches = words.filter(word => englishWords.includes(word))
+          const score = matches.length/words.length
+          if (score < 0.5) {
+            console.log(app.description)
+            console.log(matches)
+            console.log(score)
+            expect(app.locales).to.be.an('array')
+          }
         })
 
         it('has no empty properties', () => {
