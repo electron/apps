@@ -1,11 +1,6 @@
 name: fangyuanjian
-description: '办公即时通讯,自由办公,组织架构'
+description: 'a collaboration and messaging app for small-to-medium sized businesses.'
 website: 'http://bzsns.cn/'
 keywords:
-    - "即时通讯"
-    - "组织架构"
-    - "场地服务"
-    - "自由办公"
-    - "组织架构"
-locales:
-  - "zh-CN"
+    - "messaging"
+    - "collaboration"
