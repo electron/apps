@@ -1,0 +1,10 @@
+name: xcel
+description: 'An Ultimate EXCEL Data Filter'
+website: 'https://xcel.aotu.io/'
+repository: 'https://github.com/o2team/xcel'
+keywords:
+    - xcel
+    - excel
+    - data-cleaning
+    - aotu.io
+license: MIT
