@@ -1,0 +1,5 @@
+name: XiVO Desktop Assistant
+description: 'XiVO Telephony assistant for controlling your phone'
+website: 'http://www.xivo.solutions/'
+repository: 'https://gitlab.com/xivoxc/xucmgt/tree/master/electron'
+license: 'LGPL-3.0'
