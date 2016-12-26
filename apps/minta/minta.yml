@@ -1,0 +1,9 @@
+name: Minta
+description: 'Generate regular expressions'
+website: 'https://github.com/ecrmnn/minta'
+repository: 'https://github.com/ecrmnn/minta'
+keywords:
+    - regex
+    - generator
+    - regexgen
+license: 'MIT'
