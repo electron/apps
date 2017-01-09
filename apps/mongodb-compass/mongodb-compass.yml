@@ -2,5 +2,8 @@ name: 'MongoDB Compass'
 description: 'The MongoDB GUI'
 website: 'https://mongodb.com/compass'
 keywords:
-    - 'mongodb admin'
-    - 'mongodb windows gui'
+    - mongodb
+    - database
+    - gui
+    - admin
+    - management
