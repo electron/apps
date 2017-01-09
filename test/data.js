@@ -58,20 +58,22 @@ describe('app data', () => {
 
       describe('icon', () => {
         it(`exists as ${slug}-icon.png`, () => {
-          expect(pathExists(iconPath)).to.equal(true, 'no icon file found')
+          expect(pathExists(iconPath)).to.equal(true, `${slug}-icon.png not found`)
         })
 
-        it('is a square', () => {
+        it('is a square', function () {
+          if (!pathExists(iconPath)) return this.skip()
+
           const dimensions = imageSize(iconPath)
           expect(dimensions.width).to.be.a('number')
           expect(dimensions.width).to.equal(dimensions.height)
         })
 
-        it('is at least 100px x 100px', () => {
-          if (pathExists(iconPath)) {
-            const dimensions = imageSize(iconPath)
-            expect(dimensions.width).to.be.above(99)
-          }
+        it('is at least 100px x 100px', function () {
+          if (!pathExists(iconPath)) return this.skip()
+
+          const dimensions = imageSize(iconPath)
+          expect(dimensions.width).to.be.above(99)
         })
       })
     })
