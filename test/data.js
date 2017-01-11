@@ -75,6 +75,13 @@ describe('app data', () => {
           const dimensions = imageSize(iconPath)
           expect(dimensions.width).to.be.above(127)
         })
+
+        it('is not more than 1024px x 1024px', function () {
+          if (!pathExists(iconPath)) return this.skip()
+
+          const dimensions = imageSize(iconPath)
+          expect(dimensions.width).to.be.below(1025)
+        })
       })
     })
   })
