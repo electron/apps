@@ -7,15 +7,20 @@ const icons = recursiveReadSync(path.join(__dirname, '../apps'))
 
 console.log(`Resizing ${icons.length} icons...`)
 
-function resize (icon, size) {
-  const newFile = icon.replace('.png', `-${size}.png`)
-  return sharp(fs.readFileSync(icon))
+function resize (file, size) {
+  const newFile = file.replace('.png', `-${size}.png`)
+
+  if (fs.existsSync(newFile) && fs.statSync(newFile).mtime > fs.statSync(file).mtime) {
+    console.log(`${path.basename(newFile)} exists and is newer than original; skipping`)
+  }
+
+  return sharp(fs.readFileSync(file))
     .resize(size, size)
     .max()
     .toFormat('png')
     .toFile(newFile)
     .then(() => {
-      console.log(newFile)
+      console.log(path.basename(newFile))
     })
 }
 
