@@ -11,7 +11,8 @@ function resize (file, size) {
   const newFile = file.replace('.png', `-${size}.png`)
 
   if (fs.existsSync(newFile) && fs.statSync(newFile).mtime > fs.statSync(file).mtime) {
-    console.log(`${path.basename(newFile)} exists and is newer than original; skipping`)
+    console.log(`${path.basename(newFile)} (exists and is up to date; skipping)`)
+    return Promise.resolve(null)
   }
 
   return sharp(fs.readFileSync(file))
