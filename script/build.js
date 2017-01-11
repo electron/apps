@@ -12,7 +12,8 @@ fs.readdirSync(path.join(__dirname, 'apps'))
   const app = Object.assign(
     {slug: slug},
     yaml.load(yamlFile),
-    {icon: `${slug}-icon.png`}
+    {icon: `${slug}-icon.png`},
+    {icon50: `${slug}-icon-50.png`}
   )
   apps.push(app)
 })
