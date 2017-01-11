@@ -1,3 +1,6 @@
 yarn.lock
 index.json
 node_modules
+*-32.png
+*-64.png
+*-128.png
