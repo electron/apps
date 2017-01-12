@@ -4,7 +4,7 @@
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
-    "build": "node build.js > index.json",
+    "build": "node script/resize.js && node script/build.js > index.json",
     "install": "npm run build",
     "test": "npm run build && mocha",
     "wizard": "node wizard.js"
@@ -31,6 +31,8 @@
     "slugg": "^1.1.0"
   },
   "dependencies": {
+    "recursive-readdir-sync": "^1.0.6",
+    "sharp": "^0.17.0",
     "yamljs": "^0.2.8"
   },
   "engines": {
