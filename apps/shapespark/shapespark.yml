@@ -1,0 +1,7 @@
+name: Shapespark
+description: 'Create WebGL virtual tours from 3D models.'
+website: 'https://www.shapespark.com'
+keywords:
+    - WebGL
+    - 3D
+    - rendering
