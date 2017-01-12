@@ -1,0 +1,9 @@
+name: 'CovePDF'
+description: 'Free PDF reader with password protection.'
+website: 'http://www.covepdf.com'
+keywords:
+    - electron
+    - pdf
+    - protect
+    - free
+    - pdf reader
