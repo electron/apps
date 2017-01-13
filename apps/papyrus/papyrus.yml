@@ -1,0 +1,10 @@
+name: Papyrus
+description: 'Unofficial Dropbox Paper app'
+website: 'https://github.com/morkro/papyrus'
+repository: 'https://github.com/morkro/papyrus'
+keywords:
+    - dropbox
+    - paper
+    - notes
+    - 'file sharing'
+license: MIT
