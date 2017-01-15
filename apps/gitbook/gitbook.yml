@@ -1,3 +1,9 @@
 name: GitBook
 description: 'Editor for a modern publishing toolchain based on Git'
-website: 'https://www.gitbook.com'
+website: 'https://www.gitbook.com/?utm_source=electron&utm_medium=logo'
+keywords:
+    - writing
+    - editor
+    - documentation
+    - git
+    - gitbook
