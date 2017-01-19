@@ -3,3 +3,8 @@ description: 'Open-Source Lossless Audio/Music Player'
 website: 'http://destroyer.audio'
 repository: 'https://github.com/mashaal/destroyer'
 license: ISC
+keywords:
+    - audio
+    - music
+    - lossless
+    - audiophile
