@@ -1,0 +1,17 @@
+name: 'Opale Messenger'
+description: 'Facebook Messenger wrapper with an android-like bubble'
+website: 'https://github.com/DavidMellul/Opale-Messenger'
+repository: 'https://github.com/DavidMellul/Opale-Messenger'
+keywords:
+    - 'chat'
+    - 'message'
+    - 'social'
+    - 'facebook'
+    - 'bubble'
+    - 'wrapper'
+    - 'messenger'
+    - 'text'
+    - 'online'
+    - 'send'
+    - 'toggle'
+license: MIT
