@@ -1,0 +1,12 @@
+name: CryptoSeed
+description: 'Secure your bitcoin recovery seed.'
+website: 'https://github.com/anderson-arlen/cryptoseed'
+keywords:
+    - bitcoin
+    - cryptoseed
+    - encryption
+    - 'qr code'
+    - aes
+    - seed
+    - recovery
+license: MIT
