@@ -1,0 +1,10 @@
+name: Hirohisa
+description: 'Fast viewer'
+website: 'https://github.com/hirohisa/Jukeboks'
+repository: 'https://github.com/hirohisa/Jukeboks'
+keywords:
+    - viewer
+    - player
+    - image
+    - movie
+license: MIT
