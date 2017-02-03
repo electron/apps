@@ -5,13 +5,13 @@ const recursiveReadSync = require('recursive-readdir-sync')
 const icons = recursiveReadSync(path.join(__dirname, '../apps'))
   .filter(file => file.match(/icon\.png/))
 
-console.log(`Resizing ${icons.length} icons...`)
+process.stdout.write(`Resizing ${icons.length} icons...`)
 
 function resize (file, size) {
   const newFile = file.replace('.png', `-${size}.png`)
 
+  // skip files that are up to date
   if (fs.existsSync(newFile) && fs.statSync(newFile).mtime > fs.statSync(file).mtime) {
-    console.log(`${path.basename(newFile)} (exists and is up to date; skipping)`)
     return Promise.resolve(null)
   }
 
@@ -20,9 +20,6 @@ function resize (file, size) {
     .max()
     .toFormat('png')
     .toFile(newFile)
-    .then(() => {
-      console.log(path.basename(newFile))
-    })
 }
 
 const resizes = icons.map(icon => resize(icon, 32))
@@ -31,11 +28,11 @@ const resizes = icons.map(icon => resize(icon, 32))
 
 Promise.all(resizes)
   .then(function (results) {
-    console.log(`Done resizing ${icons.length} icons`)
+    process.stdout.write(` Done.`)
     process.exit()
   })
   .catch(function (err) {
-    console.error('Problem resizing icons')
+    console.error('Error resizing icons!')
     console.error(err)
     process.exit()
   })
