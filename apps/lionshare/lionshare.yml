@@ -1,0 +1,9 @@
+name: Lionshare
+description: 'Simple cryptocurrency price and portfolio monitor for macOS'
+website: 'https://lionshare.capital/'
+repository: 'https://github.com/lionsharecapital/lionshare-desktop'
+keywords:
+    - bitcoin
+    - ethereum
+    - cryptocurrency
+license: MIT
