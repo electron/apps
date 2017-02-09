@@ -4,7 +4,10 @@
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
-    "build": "node script/resize.js && node script/build.js > index.json",
+    "build": "npm-run-all build:*",
+    "build:resize": "node script/resize.js",
+    "build:dates": "node script/dates",
+    "build:pack": "node script/pack.js > index.json",
     "install": "npm run build",
     "test": "npm run build && mocha",
     "wizard": "node wizard.js"
@@ -27,6 +30,7 @@
     "is-url": "^1.2.2",
     "mkdirp": "^0.5.1",
     "mocha": "^3.2.0",
+    "npm-run-all": "^4.0.1",
     "path-exists": "^3.0.0",
     "slugg": "^1.1.0"
   },
