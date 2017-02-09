@@ -27,4 +27,8 @@ describe('index.json build artifact', () => {
     expect(apps.every(app => !!app.icon.match(/\.png$/))).to.equal(true)
   })
 
+  it('sets a (git-based) YYYY-MM-DD `date` property on every app', () => {
+    expect(apps.every(app => !!app.date.match(/\d{4}-\d{2}-\d{2}/))).to.equal(true)
+  })
+
 })
