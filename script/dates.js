@@ -12,7 +12,7 @@ fs.readdirSync(path.join(__dirname, '../apps'))
   .filter(filename => {
     return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
   })
-  .filter(slug => !existingSlugs.includes(slug))
+  .filter(slug => existingSlugs.indexOf(slug) === -1 )
   .forEach(slug => {
     const yamlFile = path.join(__dirname, `../apps/${slug}/${slug}.yml`)
     const app = yaml.load(yamlFile)
