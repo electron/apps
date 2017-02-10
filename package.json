@@ -8,7 +8,6 @@
     "build:resize": "node script/resize.js",
     "build:dates": "node script/dates",
     "build:pack": "node script/pack.js",
-    "install": "npm run build",
     "test": "npm run build && mocha",
     "wizard": "node wizard.js"
   },
@@ -31,9 +30,7 @@
     "mkdirp": "^0.5.1",
     "mocha": "^3.2.0",
     "path-exists": "^3.0.0",
-    "slugg": "^1.1.0"
-  },
-  "dependencies": {
+    "slugg": "^1.1.0",
     "npm-run-all": "^4.0.1",
     "recursive-readdir-sync": "^1.0.6",
     "sharp": "^0.17.0",
