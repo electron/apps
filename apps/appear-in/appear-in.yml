@@ -4,5 +4,8 @@ website: 'https://github.com/vitorgalvao/appear.in'
 repository: 'https://github.com/vitorgalvao/appear.in'
 keywords:
     - appear.in
+    - chat
+    - conference
+    - video
     - webrtc
 license: Unlicense
