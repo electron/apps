@@ -1,0 +1,8 @@
+name: appear.in
+description: 'Unofficial appear.in app.'
+website: 'https://github.com/vitorgalvao/appear.in'
+repository: 'https://github.com/vitorgalvao/appear.in'
+keywords:
+    - appear.in
+    - webrtc
+license: Unlicense
