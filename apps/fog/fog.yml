@@ -1,0 +1,8 @@
+name: Fog
+description: 'Unofficial overcast.fm podcast app.'
+website: 'https://github.com/vitorgalvao/fog'
+repository: 'https://github.com/vitorgalvao/fog'
+keywords:
+    - overcast.fm
+    - podcasts
+license: Unlicense
