@@ -1,0 +1,14 @@
+name: Whatever
+description: 'Unofficial Evernote client for Linux desktop'
+website: 'https://github.com/CellarD0-0r/whatever'
+repository: 'https://github.com/CellarD0-0r/whatever'
+keywords:
+ - Evernote
+ - Electron
+ - client
+ - note
+ - notes
+ - linux
+ - ubuntu
+ - desktop
+license: MIT
