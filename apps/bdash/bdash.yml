@@ -1,0 +1,8 @@
+name: Bdash
+description: 'Simple business intelligence application.'
+website: 'https://github.com/bdash-app/bdash'
+repository: 'https://github.com/bdash-app/bdash'
+keywords:
+    - SQL
+    - visualization
+license: MIT
