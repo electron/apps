@@ -17,7 +17,7 @@ fs.readdirSync(path.join(__dirname, '../apps'))
     const yamlFile = path.join(__dirname, `../apps/${slug}/${slug}.yml`)
     const app = yaml.load(yamlFile)
     // https://git-scm.com/docs/pretty-formats
-    cmd = `git log -S "${app.website}" --pretty=format:'%cI' | tail -n1`
+    cmd = `git log -S "${app.website}" --pretty=format:'%ci' | tail -n1`
     var date = String(execSync(cmd)).slice(0, 10)
     console.log(`${slug}: ${date}`)
     dates[slug] = date
