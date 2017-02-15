@@ -10,7 +10,7 @@
     "build:pack": "node script/pack.js",
     "test": "npm run build && mocha",
     "wizard": "node wizard.js",
-    "release": "node scripts/release.sh"
+    "release": "scripts/release.sh"
   },
   "repository": "https://github.com/electron/electron-apps",
   "keywords": [
