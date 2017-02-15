@@ -1,0 +1,14 @@
+name: Lepton
+description: 'Open-source snippet manager powered by GitHub Gist.'
+website: 'http://hackjutsu.com/Lepton/'
+repository: 'https://github.com/hackjutsu/Lepton.git'
+keywords:
+    - gist
+    - snippet
+    - github
+    - note
+    - markdown
+    - productivity
+    - code
+    - CodeMirror
+license: MIT
