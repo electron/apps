@@ -8,7 +8,7 @@
     "build:resize": "node script/resize.js",
     "build:dates": "node script/dates",
     "build:pack": "node script/pack.js",
-    "test": "npm run build && mocha",
+    "test": "mocha",
     "wizard": "node wizard.js",
     "release": "scripts/release.sh"
   },
