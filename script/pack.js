@@ -1,6 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 const yaml = require('yamljs')
+const dates = require('../meta/dates.json')
 const apps = []
 
 fs.readdirSync(path.join(__dirname, '../apps'))
@@ -12,10 +13,13 @@ fs.readdirSync(path.join(__dirname, '../apps'))
   const app = Object.assign(
     {slug: slug},
     yaml.load(yamlFile),
-    {icon: `${slug}-icon.png`},
-    {icon32: `${slug}-icon-32.png`},
-    {icon64: `${slug}-icon-64.png`},
-    {icon128: `${slug}-icon-128.png`}
+    {
+      icon: `${slug}-icon.png`,
+      icon32: `${slug}-icon-32.png`,
+      icon64: `${slug}-icon-64.png`,
+      icon128: `${slug}-icon-128.png`,
+      date: dates[slug]
+    }
   )
   apps.push(app)
 })

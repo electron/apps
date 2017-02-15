@@ -1,13 +1,16 @@
 {
   "name": "electron-apps",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
-    "build": "node script/resize.js && node script/build.js > index.json",
-    "install": "npm run build",
+    "build": "npm-run-all build:*",
+    "build:resize": "node script/resize.js",
+    "build:dates": "node script/dates",
+    "build:pack": "node script/pack.js",
     "test": "npm run build && mocha",
-    "wizard": "node wizard.js"
+    "wizard": "node wizard.js",
+    "release": "node scripts/release.sh"
   },
   "repository": "https://github.com/electron/electron-apps",
   "keywords": [
@@ -28,9 +31,8 @@
     "mkdirp": "^0.5.1",
     "mocha": "^3.2.0",
     "path-exists": "^3.0.0",
-    "slugg": "^1.1.0"
-  },
-  "dependencies": {
+    "slugg": "^1.1.0",
+    "npm-run-all": "^4.0.1",
     "recursive-readdir-sync": "^1.0.6",
     "sharp": "^0.17.0",
     "yamljs": "^0.2.8"
