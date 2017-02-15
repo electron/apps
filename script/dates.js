@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const yaml = require('yamljs')
 const execSync = require('child_process').execSync
-const datesPath = path.join(__dirname, '../dates.json')
+const datesPath = path.join(__dirname, '../meta/dates.json')
 const dates = require(datesPath)
 const existingSlugs = Object.keys(dates)
 

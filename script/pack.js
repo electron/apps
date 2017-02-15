@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 const yaml = require('yamljs')
-const dates = require('../dates.json')
+const dates = require('../meta/dates.json')
 const apps = []
 
 fs.readdirSync(path.join(__dirname, '../apps'))
