@@ -1,5 +1,5 @@
 name: Lepton
-description: 'Open-source GitHub Gist client built for macOS, Windows and Linux. '
+description: 'Open-source snippet manager powered by GitHub Gist.'
 website: 'http://hackjutsu.com/Lepton/'
 repository: 'https://github.com/hackjutsu/Lepton.git'
 keywords:
