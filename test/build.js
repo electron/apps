@@ -28,7 +28,11 @@ describe('index.json build artifact', () => {
   })
 
   it('sets a (git-based) YYYY-MM-DD `date` property on every app', () => {
-    expect(apps.every(app => !!app.date.match(/\d{4}-\d{2}-\d{2}/))).to.equal(true)
-  })
+    const datePattern = /\d{4}-\d{2}-\d{2}/
 
+    apps.forEach(app => {
+      console.log(app.slug)
+      expect(datePattern.test(app.date)).to.equal(true, `${app.slug} does not have date property`)
+    })
+  })
 })
