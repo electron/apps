@@ -3,7 +3,7 @@ const path = require('path')
 const apps = require('..')
 const expect = require('chai').expect
 
-describe('index.json build artifact', () => {
+describe('machine-generated app data', () => {
 
   it('is an array', () => {
     expect(apps).to.be.an('array')
