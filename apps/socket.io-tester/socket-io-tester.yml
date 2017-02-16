@@ -1,5 +1,5 @@
 name: Socket.io tester
-description: 'Socket.io tester lets you test your socket.io server, while developing'
+description: 'Test your socket.io server, while developing'
 website: 'http://appsaloon.github.io/socket.io-tester/'
 repository : https://github.com/AppSaloon/socket.io-tester
 keywords:
