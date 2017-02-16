@@ -12,7 +12,7 @@ const slugs = fs.readdirSync(path.join(__dirname, '../apps'))
     return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
   })
 
-describe('app data', () => {
+describe('human-submitted app data', () => {
   it('includes lots of apps', () => {
     expect(slugs.length).to.be.above(200)
   })

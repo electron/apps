@@ -9,7 +9,7 @@ git clone https://github.com/electron/electron-apps app
 cd app
 npm install
 npm run build
-npm test
+npm run test-all
 [[ `git status --porcelain` ]] || exit
 git add .
 git config user.email "kevinsawicki+electron-bot@github.com"
