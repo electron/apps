@@ -1,7 +1,6 @@
 const fs = require('fs')
 const path = require('path')
 const expect = require('chai').expect
-const pathExists = require('path-exists').sync
 const yaml = require('yamljs')
 const isUrl = require('is-url')
 const cleanDeep = require('clean-deep')
@@ -29,7 +28,7 @@ describe('human-submitted app data', () => {
       })
 
       it(`includes a data file named ${slug}.yml`, () => {
-        expect(pathExists(yamlPath)).to.equal(true)
+        expect(fs.existsSync(yamlPath)).to.equal(true)
       })
 
       describe(`${yamlFile}`, () => {

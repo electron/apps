@@ -5,21 +5,17 @@ const execSync = require('child_process').execSync
 const datesPath = path.join(__dirname, '../meta/dates.json')
 const dates = require(datesPath)
 const existingSlugs = Object.keys(dates)
+const apps = require('../lib/raw-app-list')()
 
 console.log('Checking app submission dates...')
 
-fs.readdirSync(path.join(__dirname, '../apps'))
-  .filter(filename => {
-    return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
-  })
-  .filter(slug => existingSlugs.indexOf(slug) === -1 )
-  .forEach(slug => {
-    const yamlFile = path.join(__dirname, `../apps/${slug}/${slug}.yml`)
-    const app = yaml.load(yamlFile)
+apps
+  .filter(app => existingSlugs.indexOf(app.slug) === -1 )
+  .forEach(app => {
     // https://git-scm.com/docs/pretty-formats
     cmd = `git log -S "${app.website}" --pretty=format:'%ci' | tail -n1`
-    var date = String(execSync(cmd)).slice(0, 10)
-    console.log(`${slug}: ${date}`)
+    const date = String(execSync(cmd)).slice(0, 10)
+    console.log(`${app.slug}: ${date}`)
     dates[slug] = date
   })
 
