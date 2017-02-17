@@ -1,7 +1,6 @@
 const fs = require('fs')
 const path = require('path')
 const expect = require('chai').expect
-const pathExists = require('path-exists').sync
 const yaml = require('yamljs')
 const isUrl = require('is-url')
 const cleanDeep = require('clean-deep')
@@ -29,7 +28,7 @@ describe('human-submitted app data', () => {
       })
 
       it(`includes a data file named ${slug}.yml`, () => {
-        expect(pathExists(yamlPath)).to.equal(true)
+        expect(fs.existsSync(yamlPath)).to.equal(true)
       })
 
       describe(`${yamlFile}`, () => {
@@ -58,11 +57,11 @@ describe('human-submitted app data', () => {
 
       describe('icon', () => {
         it(`exists as ${slug}-icon.png`, () => {
-          expect(pathExists(iconPath)).to.equal(true, `${slug}-icon.png not found`)
+          expect(fs.existsSync(iconPath)).to.equal(true, `${slug}-icon.png not found`)
         })
 
         it('is a square', function () {
-          if (!pathExists(iconPath)) return this.skip()
+          if (!fs.existsSync(iconPath)) return this.skip()
 
           const dimensions = imageSize(iconPath)
           expect(dimensions.width).to.be.a('number')
@@ -70,14 +69,14 @@ describe('human-submitted app data', () => {
         })
 
         it('is at least 128px x 128px', function () {
-          if (!pathExists(iconPath)) return this.skip()
+          if (!fs.existsSync(iconPath)) return this.skip()
 
           const dimensions = imageSize(iconPath)
           expect(dimensions.width).to.be.above(127)
         })
 
         it('is not more than 1024px x 1024px', function () {
-          if (!pathExists(iconPath)) return this.skip()
+          if (!fs.existsSync(iconPath)) return this.skip()
 
           const dimensions = imageSize(iconPath)
           expect(dimensions.width).to.be.below(1025)

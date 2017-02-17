@@ -7,6 +7,7 @@
     "build": "npm-run-all build:*",
     "build:resize": "node script/resize.js",
     "build:dates": "node script/dates",
+    "build:colors": "node script/colors",
     "build:pack": "node script/pack.js",
     "test": "mocha test/human-data.js",
     "test-all": "mocha",
@@ -26,16 +27,16 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "clean-deep": "^2.0.1",
+    "get-image-colors": "^1.8.1",
     "image-size": "^0.5.0",
     "inquirer": "^2.0.0",
     "is-url": "^1.2.2",
     "mkdirp": "^0.5.1",
     "mocha": "^3.2.0",
-    "path-exists": "^3.0.0",
-    "slugg": "^1.1.0",
     "npm-run-all": "^4.0.1",
     "recursive-readdir-sync": "^1.0.6",
     "sharp": "^0.17.0",
+    "slugg": "^1.1.0",
     "yamljs": "^0.2.8"
   },
   "engines": {

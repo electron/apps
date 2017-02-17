@@ -3,7 +3,7 @@ const path = require('path')
 const apps = require('..')
 const expect = require('chai').expect
 
-describe('machine-generated app data', () => {
+describe('machine-generated app data (exported by the module)', () => {
 
   it('is an array', () => {
     expect(apps).to.be.an('array')
@@ -31,8 +31,14 @@ describe('machine-generated app data', () => {
     const datePattern = /\d{4}-\d{2}-\d{2}/
 
     apps.forEach(app => {
-      console.log(app.slug)
       expect(datePattern.test(app.date)).to.equal(true, `${app.slug} does not have date property`)
+    })
+  })
+
+  it('sets an `iconColors` array on every app', () => {
+    apps.forEach(app => {
+      expect(app.iconColors).to.be.an('array', app.slug)
+      expect(app.iconColors.length).to.be.above(2, app.slug)
     })
   })
 })
