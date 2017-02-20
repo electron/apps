@@ -272,19 +272,19 @@
     "#7eafa7",
     "#acd530"
   ],
-  "mapbox": [
-    "#ddca97",
-    "#256698",
-    "#80b8ca",
-    "#0a143e",
-    "#4cacd4"
-  ],
   "mancy": [
     "#d41464",
     "#d4145c",
     "#d81464",
     "#d81464",
     "#d81464"
+  ],
+  "mapbox": [
+    "#ddca97",
+    "#256698",
+    "#80b8ca",
+    "#0a143e",
+    "#4cacd4"
   ],
   "microstockr": [
     "#2f5b7e",
@@ -559,13 +559,6 @@
     "#c4dc7c",
     "#a4cc3c"
   ],
-  "bitcrypt": [
-    "#3591db",
-    "#22273f",
-    "#3b6198",
-    "#384c80",
-    "#4864ac"
-  ],
   "blankup": [
     "#1b1464",
     "#0474bc",
@@ -573,19 +566,12 @@
     "#100a35",
     "#0454a4"
   ],
-  "booker": [
-    "#a5c149",
-    "#fafafa",
-    "#b5c38a",
-    "#7a874f",
-    "#ccda92"
-  ],
-  "brave-browser": [
-    "#fbfaf9",
-    "#f36831",
-    "#fbb534",
-    "#ec2904",
-    "#f49a83"
+  "bitcrypt": [
+    "#3591db",
+    "#22273f",
+    "#3b6198",
+    "#384c80",
+    "#4864ac"
   ],
   "caprine": [
     "#2ba3f2",
@@ -593,6 +579,13 @@
     "#4cd4fc",
     "#81c9f6",
     "#095ab2"
+  ],
+  "booker": [
+    "#a5c149",
+    "#fafafa",
+    "#b5c38a",
+    "#7a874f",
+    "#ccda92"
   ],
   "caret": [
     "#232323",
@@ -608,12 +601,12 @@
     "#8c908c",
     "#b48c8c"
   ],
-  "chronocube": [
-    "#dadadf",
-    "#7445c0",
-    "#a75dcd",
-    "#af98cc",
-    "#c4accc"
+  "brave-browser": [
+    "#fbfaf9",
+    "#f36831",
+    "#fbb534",
+    "#ec2904",
+    "#f49a83"
   ],
   "cocos-creator": [
     "#899195",
@@ -622,12 +615,12 @@
     "#c6c6c6",
     "#b4b4b5"
   ],
-  "cloudtag": [
-    "#2a76b2",
-    "#fbfbfb",
-    "#5c90b4",
-    "#a6c4dc",
-    "#91b4ce"
+  "chronocube": [
+    "#dadadf",
+    "#7445c0",
+    "#a75dcd",
+    "#af98cc",
+    "#c4accc"
   ],
   "code-rpgify": [
     "#151d21",
@@ -635,20 +628,6 @@
     "#f7a308",
     "#0d94d7",
     "#946c2c"
-  ],
-  "colibri": [
-    "#eff8f7",
-    "#1197d5",
-    "#27da5b",
-    "#20c188",
-    "#27d578"
-  ],
-  "colorpicker": [
-    "#fcfcfc",
-    "#51a8b3",
-    "#ec5c44",
-    "#ccffcc",
-    "#ccffcc"
   ],
   "collectie": [
     "#4d6797",
@@ -664,6 +643,13 @@
     "#f58180",
     "#df7c72"
   ],
+  "colibri": [
+    "#eff8f7",
+    "#1197d5",
+    "#27da5b",
+    "#20c188",
+    "#27d578"
+  ],
   "coypu": [
     "#ec7464",
     "#fbfbfa",
@@ -671,19 +657,12 @@
     "#f4bcb4",
     "#f4b4a6"
   ],
-  "covepdf": [
-    "#304b57",
-    "#57d9b5",
-    "#f6f9f9",
-    "#738a93",
-    "#8996a4"
-  ],
-  "cozy-desktop": [
-    "#fafafb",
-    "#2c99ec",
-    "#99c7ec",
-    "#c9dbeb",
-    "#bcbcbc"
+  "cloudtag": [
+    "#2a76b2",
+    "#fbfbfb",
+    "#5c90b4",
+    "#a6c4dc",
+    "#91b4ce"
   ],
   "crypter": [
     "#f28b47",
@@ -692,19 +671,33 @@
     "#9b5d3c",
     "#8e543c"
   ],
+  "colorpicker": [
+    "#fcfcfc",
+    "#51a8b3",
+    "#ec5c44",
+    "#ccffcc",
+    "#ccffcc"
+  ],
+  "cozy-desktop": [
+    "#fafafb",
+    "#2c99ec",
+    "#99c7ec",
+    "#c9dbeb",
+    "#bcbcbc"
+  ],
+  "covepdf": [
+    "#304b57",
+    "#57d9b5",
+    "#f6f9f9",
+    "#738a93",
+    "#8996a4"
+  ],
   "criptio": [
     "#4fb1a8",
     "#f5f6f6",
     "#a6d0cc",
     "#7ebec4",
     "#c4c4c4"
-  ],
-  "cycligent-git-tool": [
-    "#dbdbdb",
-    "#4d958c",
-    "#b4b4b4",
-    "#9eb8b4",
-    "#9c9c9c"
   ],
   "cypress": [
     "#3a3a3a",
@@ -713,13 +706,6 @@
     "#a4a4a4",
     "#949494"
   ],
-  "dataproofer": [
-    "#070707",
-    "#f9f9f9",
-    "#747474",
-    "#7c7c7c",
-    "#848484"
-  ],
   "dbglass": [
     "#fc5454",
     "#242424",
@@ -727,12 +713,19 @@
     "#ff383c",
     "#5c383c"
   ],
-  "demio": [
-    "#2bb38b",
-    "#f6faf9",
-    "#78cdb3",
-    "#5ac4a4",
-    "#4fbf9a"
+  "dataproofer": [
+    "#070707",
+    "#f9f9f9",
+    "#747474",
+    "#7c7c7c",
+    "#848484"
+  ],
+  "cycligent-git-tool": [
+    "#dbdbdb",
+    "#4d958c",
+    "#b4b4b4",
+    "#9eb8b4",
+    "#9c9c9c"
   ],
   "deco-ide": [
     "#04acfc",
@@ -755,6 +748,13 @@
     "#164c7b",
     "#246498"
   ],
+  "demio": [
+    "#2bb38b",
+    "#f6faf9",
+    "#78cdb3",
+    "#5ac4a4",
+    "#4fbf9a"
+  ],
   "donut": [
     "#ce4987",
     "#f3b33b",
@@ -769,19 +769,19 @@
     "#beb5cb",
     "#dcc1fc"
   ],
-  "etcher": [
-    "#45484c",
-    "#e1af15",
-    "#041332",
-    "#856c30",
-    "#9c8c54"
-  ],
   "fangyuanjian": [
     "#2c3c44",
     "#f9f9f9",
     "#9c9ca4",
     "#949ca4",
     "#8c949c"
+  ],
+  "etcher": [
+    "#45484c",
+    "#e1af15",
+    "#041332",
+    "#856c30",
+    "#9c8c54"
   ],
   "ffftp": [
     "#f8f8f8",
@@ -804,13 +804,6 @@
     "#080804",
     "#959ca4"
   ],
-  "flexpaper": [
-    "#657c97",
-    "#c2ccda",
-    "#98a9c0",
-    "#acbccc",
-    "#a6b4cc"
-  ],
   "foco": [
     "#28aec4",
     "#f8fafb",
@@ -818,19 +811,19 @@
     "#79c0d9",
     "#5cccd4"
   ],
-  "franz": [
-    "#5ca8e0",
-    "#fafafb",
-    "#9ccbed",
-    "#79c4f7",
-    "#2f85c6"
-  ],
   "forestpin-analytics": [
     "#c6c6c6",
     "#049ccc",
     "#3ca8c8",
     "#30a4c9",
     "#7cbccc"
+  ],
+  "franz": [
+    "#5ca8e0",
+    "#fafafb",
+    "#9ccbed",
+    "#79c4f7",
+    "#2f85c6"
   ],
   "fromscratch": [
     "#e8ebeb",
@@ -846,6 +839,13 @@
     "#a86ab2",
     "#f8824d"
   ],
+  "flexpaper": [
+    "#657c97",
+    "#c2ccda",
+    "#98a9c0",
+    "#acbccc",
+    "#a6b4cc"
+  ],
   "gala": [
     "#88d0d8",
     "#292351",
@@ -853,19 +853,19 @@
     "#0fa9b5",
     "#74a146"
   ],
-  "gf-trader": [
-    "#1386ba",
-    "#fafbfb",
-    "#60a5c9",
-    "#84c1dc",
-    "#94b4cc"
-  ],
   "gausssense-desktop": [
     "#f1ccd3",
     "#454344",
     "#50c0e1",
     "#04a1d3",
     "#959394"
+  ],
+  "gf-trader": [
+    "#1386ba",
+    "#fafbfb",
+    "#60a5c9",
+    "#84c1dc",
+    "#94b4cc"
   ],
   "ghost": [
     "#324153",
@@ -881,19 +881,19 @@
     "#303030",
     "#444444"
   ],
-  "gitscout": [
-    "#f6c61e",
-    "#132a3f",
-    "#988325",
-    "#806408",
-    "#b48c04"
-  ],
   "glyphr-studio": [
     "#cfedfb",
     "#04ace4",
     "#67cdee",
     "#8dd8f4",
     "#32bce5"
+  ],
+  "gitscout": [
+    "#f6c61e",
+    "#132a3f",
+    "#988325",
+    "#806408",
+    "#b48c04"
   ],
   "gordie": [
     "#f40454",
@@ -902,19 +902,19 @@
     "#f80454",
     "#f80454"
   ],
-  "grabcad-print": [
-    "#fbfbfc",
-    "#2cacdc",
-    "#77c8ec",
-    "#b1e0f4",
-    "#56bce4"
-  ],
   "grap": [
     "#2484d4",
     "#146cb4",
     "#1494e4",
     "#1486d2",
     "#1474c4"
+  ],
+  "grabcad-print": [
+    "#fbfbfc",
+    "#2cacdc",
+    "#77c8ec",
+    "#b1e0f4",
+    "#56bce4"
   ],
   "groupme": [
     "#05abeb",
@@ -930,19 +930,19 @@
     "#a69769",
     "#9e8cad"
   ],
-  "hostsdock": [
-    "#fbfafa",
-    "#e4242c",
-    "#f1787c",
-    "#f49494",
-    "#f48c94"
-  ],
   "hawkeye": [
     "#dfdfdf",
     "#21afaf",
     "#7ecbc4",
     "#868181",
     "#9c918c"
+  ],
+  "hostsdock": [
+    "#fbfafa",
+    "#e4242c",
+    "#f1787c",
+    "#f49494",
+    "#f48c94"
   ],
   "infinity": [
     "#4dacd4",
@@ -958,26 +958,12 @@
     "#6c6c6c",
     "#7c7c7c"
   ],
-  "inkdrop": [
-    "#ea0475",
-    "#040518",
-    "#04aac6",
-    "#f8f004",
-    "#f8f8f9"
-  ],
   "ionic-creator": [
     "#4f9ef5",
     "#fbfbfc",
     "#b4d7fc",
     "#d4e8fc",
     "#9cc4fc"
-  ],
-  "illyriad": [
-    "#353121",
-    "#d5be7c",
-    "#a6a17c",
-    "#898159",
-    "#999374"
   ],
   "istrolid": [
     "#3e5f71",
@@ -986,19 +972,19 @@
     "#343444",
     "#565961"
   ],
+  "illyriad": [
+    "#353121",
+    "#d5be7c",
+    "#a6a17c",
+    "#898159",
+    "#999374"
+  ],
   "itch": [
     "#fc5f5f",
     "#fcfafa",
     "#fcb4b4",
     "#fcacac",
     "#fc9292"
-  ],
-  "jandi": [
-    "#049be4",
-    "#fbbb04",
-    "#04baec",
-    "#c0ac80",
-    "#44acf0"
   ],
   "jasper": [
     "#dedddd",
@@ -1007,19 +993,19 @@
     "#d892a4",
     "#c44f70"
   ],
-  "kaku": [
-    "#784756",
-    "#f7eef2",
-    "#bb86c4",
-    "#d4887a",
-    "#301e2a"
-  ],
   "kap": [
     "#fbfbfb",
     "#33abd4",
     "#8a19f9",
     "#9bc8e2",
     "#ca94fc"
+  ],
+  "kaku": [
+    "#784756",
+    "#f7eef2",
+    "#bb86c4",
+    "#d4887a",
+    "#301e2a"
   ],
   "kongdash": [
     "#2e8ee0",
@@ -1028,13 +1014,6 @@
     "#5c5c5c",
     "#9c9c9c"
   ],
-  "laverna": [
-    "#04a393",
-    "#fbfbfb",
-    "#0bbca4",
-    "#5cbcac",
-    "#94bcb4"
-  ],
   "lepton": [
     "#cecece",
     "#343434",
@@ -1042,26 +1021,12 @@
     "#747474",
     "#848484"
   ],
-  "ling": [
-    "#0564ac",
-    "#fafafb",
-    "#97bcd7",
-    "#6ca2ca",
-    "#acc4dc"
-  ],
-  "lionshare": [
-    "#040404",
-    "#fa7304",
-    "#542604",
-    "#a04804",
-    "#bc5404"
-  ],
-  "light-table": [
-    "#187cae",
-    "#f7f9fa",
-    "#043050",
-    "#70bcdc",
-    "#043464"
+  "laverna": [
+    "#04a393",
+    "#fbfbfb",
+    "#0bbca4",
+    "#5cbcac",
+    "#94bcb4"
   ],
   "lightgallery": [
     "#24abe3",
@@ -1070,12 +1035,40 @@
     "#78c1e0",
     "#567c8c"
   ],
+  "lionshare": [
+    "#040404",
+    "#fa7304",
+    "#542604",
+    "#a04804",
+    "#bc5404"
+  ],
+  "inkdrop": [
+    "#ea0475",
+    "#040518",
+    "#04aac6",
+    "#f8f004",
+    "#f8f8f9"
+  ],
+  "light-table": [
+    "#187cae",
+    "#f7f9fa",
+    "#043050",
+    "#70bcdc",
+    "#043464"
+  ],
   "losslesscut": [
     "#22a0b8",
     "#eae0b9",
     "#0e353b",
     "#365561",
     "#647782"
+  ],
+  "ling": [
+    "#0564ac",
+    "#fafafb",
+    "#97bcd7",
+    "#6ca2ca",
+    "#acc4dc"
   ],
   "markdownify": [
     "#fa055d",
@@ -1084,12 +1077,12 @@
     "#641c74",
     "#b30d65"
   ],
-  "mdnote": [
-    "#fbab04",
-    "#312a2a",
-    "#f6f6f6",
-    "#706c6c",
-    "#8e6424"
+  "jandi": [
+    "#049be4",
+    "#fbbb04",
+    "#04baec",
+    "#c0ac80",
+    "#44acf0"
   ],
   "marp": [
     "#0b8ccf",
@@ -1097,6 +1090,13 @@
     "#60abd7",
     "#84c4e2",
     "#a0b4c4"
+  ],
+  "mdnote": [
+    "#fbab04",
+    "#312a2a",
+    "#f6f6f6",
+    "#706c6c",
+    "#8e6424"
   ],
   "medley": [
     "#fbf9f9",
@@ -1112,26 +1112,19 @@
     "#a080a4",
     "#9aa4b8"
   ],
-  "minta": [
-    "#5c32b1",
-    "#eae9ec",
-    "#937bc9",
-    "#ac94d4",
-    "#8454c4"
-  ],
-  "mixmax": [
-    "#f0a9fb",
-    "#2b3376",
-    "#9494ac",
-    "#696c89",
-    "#848c9c"
-  ],
   "mjml-app": [
     "#ea4e43",
     "#fbf9f9",
     "#f3897e",
     "#ec7474",
     "#f4a49c"
+  ],
+  "minta": [
+    "#5c32b1",
+    "#eae9ec",
+    "#937bc9",
+    "#ac94d4",
+    "#8454c4"
   ],
   "mockingbot": [
     "#fbfaf9",
@@ -1161,6 +1154,13 @@
     "#beb99e",
     "#9cc49c"
   ],
+  "mixmax": [
+    "#f0a9fb",
+    "#2b3376",
+    "#9494ac",
+    "#696c89",
+    "#848c9c"
+  ],
   "museeks": [
     "#32a9e0",
     "#eef1f2",
@@ -1189,19 +1189,19 @@
     "#c6996d",
     "#fcb45c"
   ],
-  "nylas-n1": [
-    "#4abb9b",
-    "#eff5f4",
-    "#91d3ae",
-    "#099f95",
-    "#7cbcbc"
-  ],
   "pamfax": [
     "#fbfafb",
     "#cc04cc",
     "#de5cde",
     "#eb9ceb",
     "#d42cd4"
+  ],
+  "nylas-n1": [
+    "#4abb9b",
+    "#eff5f4",
+    "#91d3ae",
+    "#099f95",
+    "#7cbcbc"
   ],
   "paws-for-trello": [
     "#065eb1",
@@ -1245,12 +1245,12 @@
     "#49969b",
     "#41a4a4"
   ],
-  "plain-email": [
-    "#9eda19",
-    "#f8f9f6",
-    "#b6e077",
-    "#c4e484",
-    "#6c9e04"
+  "pracontrol": [
+    "#fbfafa",
+    "#dc8c54",
+    "#ecc4ac",
+    "#ecb48d",
+    "#ecbc9c"
   ],
   "playback": [
     "#313232",
@@ -1259,12 +1259,12 @@
     "#2d452e",
     "#26102c"
   ],
-  "pracontrol": [
-    "#fbfafa",
-    "#dc8c54",
-    "#ecc4ac",
-    "#ecb48d",
-    "#ecbc9c"
+  "protopie": [
+    "#fc706e",
+    "#fcfbfb",
+    "#fca2a0",
+    "#fcb4b4",
+    "#fcbcbc"
   ],
   "qmui-web": [
     "#e2eaec",
@@ -1287,13 +1287,6 @@
     "#9484a4",
     "#6c5c7c"
   ],
-  "protopie": [
-    "#fc706e",
-    "#fcfbfb",
-    "#fca2a0",
-    "#fcb4b4",
-    "#fcbcbc"
-  ],
   "ramme": [
     "#fbfafa",
     "#c84987",
@@ -1301,12 +1294,12 @@
     "#cc8ccc",
     "#c47ccc"
   ],
-  "sencha-architect": [
-    "#2c7cb3",
-    "#fbfbfb",
-    "#0c446c",
-    "#7cacd4",
-    "#94bcdc"
+  "plain-email": [
+    "#9eda19",
+    "#f8f9f6",
+    "#b6e077",
+    "#c4e484",
+    "#6c9e04"
   ],
   "sealtalk": [
     "#1ba4fb",
@@ -1329,19 +1322,19 @@
     "#7badbb",
     "#8cc4d4"
   ],
+  "sencha-architect": [
+    "#2c7cb3",
+    "#fbfbfb",
+    "#0c446c",
+    "#7cacd4",
+    "#94bcdc"
+  ],
   "sencha-themer": [
     "#045a81",
     "#f5f6f8",
     "#51798e",
     "#74a4bc",
     "#649cb4"
-  ],
-  "shiba": [
-    "#e1b077",
-    "#37200a",
-    "#cb3742",
-    "#9e784e",
-    "#745424"
   ],
   "sheepchat": [
     "#044363",
@@ -1364,6 +1357,13 @@
     "#38ace4",
     "#38ace4"
   ],
+  "shiba": [
+    "#e1b077",
+    "#37200a",
+    "#cb3742",
+    "#9e784e",
+    "#745424"
+  ],
   "simplenote": [
     "#f4f4f4",
     "#4a93d5",
@@ -1385,13 +1385,6 @@
     "#b4d4ec",
     "#84c4e0"
   ],
-  "soundnode": [
-    "#9a3156",
-    "#f5ebec",
-    "#d53542",
-    "#ba7c95",
-    "#ba90ac"
-  ],
   "sqlectron": [
     "#3898a7",
     "#fafafa",
@@ -1405,6 +1398,13 @@
     "#99053f",
     "#9bc0ca",
     "#8a7e94"
+  ],
+  "soundnode": [
+    "#9a3156",
+    "#f5ebec",
+    "#d53542",
+    "#ba7c95",
+    "#ba90ac"
   ],
   "stoplight": [
     "#fbfbfb",
@@ -1427,19 +1427,12 @@
     "#bcbcbc",
     "#c4c4c4"
   ],
-  "tagflow": [
-    "#5484b4",
-    "#fafafb",
-    "#95b2d2",
-    "#acc4dc",
-    "#a4c4dc"
-  ],
-  "the-poker-timer": [
-    "#f4f1f1",
-    "#cb1d09",
-    "#0e0d0d",
-    "#f75136",
-    "#da8d82"
+  "temps": [
+    "#83bcb3",
+    "#93d3ca",
+    "#64948c",
+    "#74a49c",
+    "#74aca4"
   ],
   "theme-juice": [
     "#f3a420",
@@ -1455,13 +1448,6 @@
     "#6c6c6c",
     "#5c5c5c"
   ],
-  "temps": [
-    "#83bcb3",
-    "#93d3ca",
-    "#64948c",
-    "#74a49c",
-    "#74aca4"
-  ],
   "tiliq": [
     "#fafbfc",
     "#2493fb",
@@ -1469,12 +1455,12 @@
     "#68aff0",
     "#89c4fc"
   ],
-  "timestamp": [
-    "#1e9cf5",
-    "#33c4fc",
-    "#0763e7",
-    "#0c78ec",
-    "#1474cc"
+  "the-poker-timer": [
+    "#f4f1f1",
+    "#cb1d09",
+    "#0e0d0d",
+    "#f75136",
+    "#da8d82"
   ],
   "timetable": [
     "#bab9b9",
@@ -1483,12 +1469,12 @@
     "#5c5c5c",
     "#646464"
   ],
-  "treevea": [
-    "#3bb39b",
-    "#fafbfb",
-    "#6acab4",
-    "#84d2bf",
-    "#5cc4ac"
+  "timestamp": [
+    "#1e9cf5",
+    "#33c4fc",
+    "#0763e7",
+    "#0c78ec",
+    "#1474cc"
   ],
   "translation-editor": [
     "#05c1d8",
@@ -1497,12 +1483,26 @@
     "#979a9e",
     "#2c949c"
   ],
-  "trym": [
-    "#354253",
-    "#eff6e7",
-    "#4ec7e7",
-    "#1893f9",
-    "#6f838e"
+  "treevea": [
+    "#3bb39b",
+    "#fafbfb",
+    "#6acab4",
+    "#84d2bf",
+    "#5cc4ac"
+  ],
+  "tagflow": [
+    "#5484b4",
+    "#fafafb",
+    "#95b2d2",
+    "#acc4dc",
+    "#a4c4dc"
+  ],
+  "tweakstyle": [
+    "#04bae5",
+    "#1a2123",
+    "#f8d59a",
+    "#07809f",
+    "#0c6278"
   ],
   "tweeten": [
     "#f4f8fc",
@@ -1511,12 +1511,12 @@
     "#3cacfc",
     "#29a0fc"
   ],
-  "tweakstyle": [
-    "#04bae5",
-    "#1a2123",
-    "#f8d59a",
-    "#07809f",
-    "#0c6278"
+  "trym": [
+    "#354253",
+    "#eff6e7",
+    "#4ec7e7",
+    "#1893f9",
+    "#6f838e"
   ],
   "tweetman": [
     "#1d9ef4",
@@ -1532,12 +1532,12 @@
     "#f49890",
     "#f48c7c"
   ],
-  "uphone": [
-    "#b45659",
-    "#8c9494",
-    "#a3abab",
-    "#cccccc",
-    "#bcc4c4"
+  "vectr": [
+    "#212222",
+    "#f7f7f8",
+    "#7c8c94",
+    "#839496",
+    "#717d7f"
   ],
   "vagrant-manager": [
     "#54fc9c",
@@ -1546,12 +1546,12 @@
     "#6bfcc2",
     "#58fcb0"
   ],
-  "vectr": [
-    "#212222",
-    "#f7f7f8",
-    "#7c8c94",
-    "#839496",
-    "#717d7f"
+  "uphone": [
+    "#b45659",
+    "#8c9494",
+    "#a3abab",
+    "#cccccc",
+    "#bcc4c4"
   ],
   "wantedly-chat": [
     "#47cbb4",
@@ -1567,12 +1567,12 @@
     "#38974c",
     "#2c8c3c"
   ],
-  "world-history-ap": [
-    "#4c3919",
-    "#2ceceb",
-    "#c98485",
-    "#3a7860",
-    "#379684"
+  "wonder-reader": [
+    "#0c3f9c",
+    "#bf231e",
+    "#d3ba5b",
+    "#6d2b14",
+    "#6484bc"
   ],
   "wow-stat": [
     "#444444",
@@ -1588,6 +1588,20 @@
     "#a4bed2",
     "#3595c9"
   ],
+  "world-history-ap": [
+    "#4c3919",
+    "#2ceceb",
+    "#c98485",
+    "#3a7860",
+    "#379684"
+  ],
+  "yeoman": [
+    "#1c0e0b",
+    "#edbf79",
+    "#da1e2c",
+    "#807474",
+    "#a4845c"
+  ],
   "wp-express": [
     "#2da3d7",
     "#f5f6f6",
@@ -1601,20 +1615,6 @@
     "#646974",
     "#535868",
     "#6c6c7c"
-  ],
-  "yeoman": [
-    "#1c0e0b",
-    "#edbf79",
-    "#da1e2c",
-    "#807474",
-    "#a4845c"
-  ],
-  "wonder-reader": [
-    "#0c3f9c",
-    "#bf231e",
-    "#d3ba5b",
-    "#6d2b14",
-    "#6484bc"
   ],
   "zeplin": [
     "#fbf8f6",
@@ -1749,19 +1749,19 @@
     "#747474",
     "#7c7c7c"
   ],
-  "elite-journal": [
-    "#f4f5f7",
-    "#483b49",
-    "#fa9c4e",
-    "#7e9acb",
-    "#99aac9"
-  ],
   "electro": [
     "#3a5d68",
     "#04a4ea",
     "#1b7dac",
     "#046c9d",
     "#1c8cc4"
+  ],
+  "elite-journal": [
+    "#f4f5f7",
+    "#483b49",
+    "#fa9c4e",
+    "#7e9acb",
+    "#99aac9"
   ],
   "freeter": [
     "#464a51",
@@ -1917,19 +1917,19 @@
     "#e4a4a4",
     "#e48c94"
   ],
-  "youtube-mp3": [
-    "#b62a2c",
-    "#eaeaeb",
-    "#77181f",
-    "#dc9c9c",
-    "#bc949c"
-  ],
   "zector": [
     "#fbfbfb",
     "#141414",
     "#848484",
     "#8c8c8c",
     "#7c7c7c"
+  ],
+  "youtube-mp3": [
+    "#b62a2c",
+    "#eaeaeb",
+    "#77181f",
+    "#dc9c9c",
+    "#bc949c"
   ],
   "headlines": [
     "#213f92",
@@ -1987,19 +1987,19 @@
     "#6a43c4",
     "#98a4b0"
   ],
-  "remind": [
-    "#4c8cdc",
-    "#fbfbfb",
-    "#a4c4ec",
-    "#8eb4ea",
-    "#b4ccf4"
-  ],
   "voltra": [
     "#fbfbfb",
     "#252525",
     "#ababab",
     "#8c8c8c",
     "#949494"
+  ],
+  "remind": [
+    "#4c8cdc",
+    "#fbfbfb",
+    "#a4c4ec",
+    "#8eb4ea",
+    "#b4ccf4"
   ],
   "papyrus": [
     "#1385e4",
