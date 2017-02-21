@@ -3,9 +3,9 @@ description: 'Soundcloud wrapped in a Desktop player with user customizable keyb
 website: 'https://github.com/MSandeep96/SoundKeys'
 repository: 'https://github.com/MSandeep96/SoundKeys'
 keywords:
-	-music
-	-soundcloud
-	-shortcuts
-	-keymappings
-	-mediakeys
-	-notifications
+    - music
+    - soundcloud
+    - shortcuts
+    - keymappings
+    - mediakeys
+    - notifications
