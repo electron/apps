@@ -1,0 +1,7 @@
+name: devdocs-app
+description: 'A full-featured desktop app for DevDocs.io.'
+website: 'https://github.com/egoist/devdocs-app'
+repository: 'https://github.com/egoist/devdocs-app'
+keywords:
+    - devdocs
+license: MIT
