@@ -1,5 +1,5 @@
 name: nuclear
-description: 'A multiplatform music player that streams from multiple sources'
+description: 'Multiplatform music player that streams from multiple sources'
 website: 'http://nuclear.gumblert.tech'
 repository: 'https://github.com/nukeop/nuclear'
 keywords:
