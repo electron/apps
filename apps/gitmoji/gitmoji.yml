@@ -1,0 +1,9 @@
+name: gitmoji
+description: 'An emoji guide for your commit messages'
+website: 'https://github.com/Meadowcottage/gitmoji'
+keywords:
+    - git
+    - emoji
+    - 'developer tools'
+    - mac
+license: GPL-v3
