@@ -13,7 +13,7 @@ npm run test-all
 [[ `git status --porcelain` ]] || exit
 git add .
 git config user.email "kevinsawicki+electron-bot@github.com"
-git config user.name "Electron Bot"
+git config user.name "electron-bot"
 git commit -am "update apps"
 npm version minor -m "bump minor to %s"
 npm publish
