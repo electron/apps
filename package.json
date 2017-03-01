@@ -5,6 +5,7 @@
   "main": "index.json",
   "scripts": {
     "build": "npm-run-all build:*",
+    "build:clean": "node script/clean.js",
     "build:resize": "node script/resize.js",
     "build:dates": "node script/dates",
     "build:colors": "node script/colors",
@@ -35,6 +36,7 @@
     "mocha": "^3.2.0",
     "npm-run-all": "^4.0.1",
     "recursive-readdir-sync": "^1.0.6",
+    "rimraf": "^2.6.1",
     "sharp": "^0.17.0",
     "slugg": "^1.1.0",
     "yamljs": "^0.2.8"
