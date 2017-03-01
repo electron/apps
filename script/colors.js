@@ -6,6 +6,11 @@ const colors = {}
 
 console.log('Extracting color palettes from app icons...')
 
+// Prevent superficial diffs in the file by adding sorted keys first
+apps.forEach(app => {
+  colors[app.slug] = null
+})
+
 Promise.all(
   apps
   .filter(app => fs.existsSync(app.iconPath))
