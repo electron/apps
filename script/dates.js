@@ -16,7 +16,7 @@ apps
     cmd = `git log -S "${app.website}" --pretty=format:'%ci' | tail -n1`
     const date = String(execSync(cmd)).slice(0, 10)
     console.log(`${app.slug}: ${date}`)
-    dates[slug] = date
+    dates[app.slug] = date
   })
 
 fs.writeFileSync(datesPath, JSON.stringify(dates, null, 2))
