@@ -1,8 +1,4 @@
 name: BrowserDispatcher
-  description: 'Sends link to the right browser depending on a set of predefined rules'
-  website: 'https://github.com/andriyko/browser-dispatcher/releases'
-  repository: 'https://github.com/andriyko/browser-dispatcher'
-  keywords:
-    - browser
-    - developer
-    - tool
+description: 'Sends link to the right browser depending on a set of predefined rules'
+website: 'https://github.com/andriyko/browser-dispatcher/releases'
+repository: 'https://github.com/andriyko/browser-dispatcher'
