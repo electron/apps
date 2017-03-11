@@ -153,12 +153,12 @@
     "#7a874f",
     "#ccda92"
   ],
-  "boost": [
-    "#f7f9f8",
-    "#04ad6f",
-    "#04bc83",
-    "#58a587",
-    "#7cc4ac"
+  "boostnote": [
+    "#f1faf6",
+    "#04c484",
+    "#59d8ae",
+    "#94e7ce",
+    "#2fd19c"
   ],
   "brave-browser": [
     "#fbfaf9",
@@ -1216,6 +1216,13 @@
     "#f62444",
     "#07e0c6",
     "#7c7c7c"
+  ],
+  "neutrinometrics": [
+    "#3aa199",
+    "#f6f9f9",
+    "#5fc4bb",
+    "#65ccc4",
+    "#86c9c2"
   ],
   "nimble": [
     "#e7e7e6",
