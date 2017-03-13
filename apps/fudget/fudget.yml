@@ -1,7 +1,6 @@
 name: Fudget
 description: 'The budget planner you can actually use'
 website: 'https://itunes.apple.com/gb/app/fudget-budget-planner-personal-finance-tracker/id1211707701?mt=12'
-repository: 'https://bitbucket.org/fruitangdan/fudget'
 keywords:
     - budget
     - planner
