@@ -1,0 +1,13 @@
+name: "Buka"
+description: "EBook Management"
+website: "https://github.com/oguzhaninan/Buka"
+repository: "https://github.com/oguzhaninan/Buka.git"
+keywords:
+  - "book"
+  - "pdf"
+  - "ebook"
+  - "book library"
+  - "book management"
+  - "ebook reader"
+  - "pdf reader"
+license: "MIT"
