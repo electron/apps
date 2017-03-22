@@ -1,0 +1,14 @@
+name: Pomolectron
+description: 'A Pomodoro app in your menubar/tray.'
+website: 'https://github.com/amitmerchant1990/pomolectron'
+repository: 'https://github.com/amitmerchant1990/pomolectron'
+keywords:
+    - electron
+    - pomodoro
+    - productivity
+    - node
+    - minimal
+    - countdown
+    - timer
+    - html
+    - desktop
