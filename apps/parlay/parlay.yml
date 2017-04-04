@@ -1,0 +1,12 @@
+name: Parlay
+description: "Development framework that exposes the internals of embedded devices & provides interconnectivity, empowering engineering teams to reach their productivity potential."
+website: "http://promenadesoftware.com/parlay"
+repository: "https://github.com/PromenadeSoftware/Parlay"
+keywords:
+    - IoT
+    - Software Development
+    - Medical Device
+    - Industrial Device
+    - Embedded
+    - Angular
+    - Material
