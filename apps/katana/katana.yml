@@ -1,0 +1,9 @@
+name: Katana
+description: 'Open-source screenshot utility that lives in your menubar'
+website: 'https://getkatana.com/'
+repository: 'https://github.com/bluegill/katana'
+keywords:
+    - screenshot
+    - cloud
+    - share
+    - upload

@@ -1,3 +1,10 @@
 name: Wire
 description: 'Modern, private communications'
 website: 'https://wire.com'
+repository: 'https://github.com/wireapp'
+keywords:
+    - 'communication'
+    - 'privacy'
+    - 'security'
+    - 'messenger'
+    - 'messaging'

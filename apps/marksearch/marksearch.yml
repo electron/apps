@@ -1,0 +1,8 @@
+name: MarkSearch
+description: 'Desktop bookmarking app.'
+website: 'https://darkle.github.io/MarkSearch/'
+repository: 'https://github.com/Darkle/MarkSearch'
+keywords:
+    - bookmarking
+    - bookmarks
+license: MIT

@@ -1,13 +1,19 @@
 {
   "name": "electron-apps",
-  "version": "1.0.2",
+  "version": "1.764.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
-    "build": "node script/resize.js && node script/build.js > index.json",
-    "install": "npm run build",
-    "test": "npm run build && mocha",
-    "wizard": "node wizard.js"
+    "build": "npm-run-all build:*",
+    "build:clean": "node script/clean.js",
+    "build:resize": "node script/resize.js",
+    "build:dates": "node script/dates",
+    "build:colors": "node script/colors",
+    "build:pack": "node script/pack.js",
+    "test": "mocha test/human-data.js",
+    "test-all": "mocha",
+    "wizard": "node wizard.js",
+    "release": "scripts/release.sh"
   },
   "repository": "https://github.com/electron/electron-apps",
   "keywords": [
@@ -22,20 +28,20 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "clean-deep": "^2.0.1",
+    "get-image-colors": "^1.8.1",
     "image-size": "^0.5.0",
     "inquirer": "^2.0.0",
     "is-url": "^1.2.2",
     "mkdirp": "^0.5.1",
     "mocha": "^3.2.0",
-    "path-exists": "^3.0.0",
-    "slugg": "^1.1.0"
-  },
-  "dependencies": {
+    "npm-run-all": "^4.0.1",
     "recursive-readdir-sync": "^1.0.6",
+    "rimraf": "^2.6.1",
     "sharp": "^0.17.0",
+    "slugg": "^1.1.0",
     "yamljs": "^0.2.8"
   },
   "engines": {
-    "node": ">=4"
+    "node": "6.x"
   }
 }
