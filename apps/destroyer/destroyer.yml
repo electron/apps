@@ -1,7 +1,7 @@
 name: Destroyer
 description: 'Open-Source Lossless Audio Player'
 website: 'http://destroyer.audio'
-repository: 'https://github.com/mashaal/destroyer'
+repository: 'https://github.com/mutualrespect/destroyer'
 license: ISC
 keywords:
     - audio
