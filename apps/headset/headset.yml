@@ -1,0 +1,7 @@
+name: Headset
+description: 'Discover, collect and listen to music from YouTube'
+website: 'http://headsetapp.co'
+repository: 'https://github.com/headsetapp/headset-electron'
+keywords:
+  - Music
+  - YouTube
