@@ -1,5 +1,5 @@
 name: Alchemy
-description: 'Alchemy is a drag-and-drop file converter for your menubar.'
+description: 'A drag-and-drop file converter for your menubar.'
 website: 'http://dawnlabs.io/alchemy/'
 repository: 'https://github.com/dawnlabs/alchemy.git'
 keywords:
@@ -8,3 +8,4 @@ keywords:
     - images
     - drag-and-drop
     - menubar
+license: MIT
