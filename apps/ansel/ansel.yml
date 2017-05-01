@@ -1,0 +1,10 @@
+name: Ansel
+description: 'Digital image organizer powered by the web'
+website: 'https://github.com/m0g/ansel/'
+repository: 'https://github.com/m0g/ansel/'
+keywords:
+    - photography
+    - photo
+    - editing
+    - photo-manager
+license: MIT
