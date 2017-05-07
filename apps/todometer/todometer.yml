@@ -1,7 +1,7 @@
 name: todometer
 description: 'A meter-based to-do list.'
-website: 'cassidoo.github.io/todometer'
-repository: 'https://github.com/cassidoo/todometer'
+website: 'https://cassidoo.github.io/todometer/'
+repository: 'https://github.com/cassidoo/todometer/'
 keywords:
     - todometer
     - 'to-do list'
