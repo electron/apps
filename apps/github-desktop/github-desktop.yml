@@ -1,0 +1,16 @@
+name: 'GitHub Desktop'
+description: 'Simple collaboration from your desktop'
+website: 'https://desktop.github.com'
+repository: 'https://github.com/desktop/desktop'
+keywords:
+    - git
+    - github
+    - collaboration
+    - editor
+    - code
+    - commits
+    - review
+    - developer
+    - tool
+    - productivity
+license: MIT
