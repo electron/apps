@@ -1,7 +1,12 @@
 name: AstroPrint Desktop
-description: 'AstroPrint Desktop software takes 3D printer management to the next level with a mix of offline and cloud-connected features'
+description: 'Manage your 3D Printer offline and via the Cloud.'
 website: 'https://www.astroprint.com/products/p/astroprint-desktop'
 keywords:
   - 3d printing
   - iot
   - 3d design
+  - astroprint
+  - octoprint
+  - wireless 3d printing
+  - cad
+  - cad software
