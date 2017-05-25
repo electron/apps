@@ -1,0 +1,11 @@
+name: 'P3X OneNote'
+description: 'Linux based OneNote electron web app'
+repository: 'https://github.com/patrikx3/onenote'
+website: 'https://pages.corifeus.tk/onenote'
+keywords:
+    - Electron
+    - onenote
+    - linux
+    - web
+    - gnome
+license: MIT
