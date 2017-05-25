@@ -1,11 +1,8 @@
 name: 'P3X OneNote'
-description: 'Linux based OneNote electron web app'
+description: 'This is the Linux based OneNote, without needing a browser. It has a tray to ease your usage and some helper menus. OS X and Windows is given, but there is no Linux available alternative.'
 repository: 'https://github.com/patrikx3/onenote'
 website: 'https://pages.corifeus.tk/onenote'
 keywords:
-    - Electron
     - onenote
     - linux
-    - web
-    - gnome
 license: MIT
