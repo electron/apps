@@ -1,0 +1,9 @@
+name: SpotSpot
+description: 'Spotify mini-player for macOS'
+website: 'http://wstone.io/SpotSpot/'
+repository: 'https://github.com/will-stone/SpotSpot'
+keywords:
+    - spotify
+    - macos
+    - audio
+license: MIT
