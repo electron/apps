@@ -1,0 +1,11 @@
+name: ODrive
+description: 'Unofficial Google Drive app.'
+website: 'https://github.com/liberodark/ODrive'
+repository: 'https://github.com/liberodark/ODrive'
+keywords:
+    - google
+    - drive
+    - cloud
+    - sync
+    - google drive
+license: GPL v3
