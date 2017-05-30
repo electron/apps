@@ -510,6 +510,13 @@
     "#6b9bea",
     "#989cb8"
   ],
+  "easytongue": [
+    "#fcbb46",
+    "#fcfaf5",
+    "#fc9029",
+    "#fcdc64",
+    "#fcda91"
+  ],
   "egret-wing": [
     "#04a3f3",
     "#041c2c",
@@ -1412,6 +1419,13 @@
     "#91d3ae",
     "#099f95",
     "#7cbcbc"
+  ],
+  "odrive": [
+    "#ef990d",
+    "#121212",
+    "#c75005",
+    "#eadc9c",
+    "#605c40"
   ],
   "opale-messenger": [
     "#0477f1",
