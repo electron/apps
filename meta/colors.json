@@ -104,6 +104,13 @@
     "#685c5c",
     "#685c5c"
   ],
+  "autoedit": [
+    "#c6c2c2",
+    "#c73030",
+    "#2f2121",
+    "#752828",
+    "#b89295"
+  ],
   "avocode": [
     "#fbfbfb",
     "#42d807",
@@ -307,12 +314,26 @@
     "#31cde2",
     "#988eb5"
   ],
+  "colol": [
+    "#f835ae",
+    "#fbfbfb",
+    "#6c1454",
+    "#9d3a7d",
+    "#fc44cc"
+  ],
   "colorpicker": [
     "#fcfcfc",
     "#51a8b3",
     "#ec5c44",
     "#ccffcc",
     "#ccffcc"
+  ],
+  "composercat": [
+    "#ebebf3",
+    "#cb3404",
+    "#d4846c",
+    "#7c7c84",
+    "#989ca0"
   ],
   "correo": [
     "#eeeded",
@@ -397,6 +418,13 @@
     "#9a9c9a",
     "#a4a4a4",
     "#949494"
+  ],
+  "data-pixels-playground": [
+    "#c704a0",
+    "#050405",
+    "#e5cceb",
+    "#6f0497",
+    "#56043c"
   ],
   "dataproofer": [
     "#070707",
@@ -511,11 +539,11 @@
     "#989cb8"
   ],
   "easytongue": [
-    "#fcbb46",
-    "#fcfaf5",
-    "#fc9029",
+    "#fcb845",
+    "#fcfbf6",
     "#fcdc64",
-    "#fcda91"
+    "#fce2a8",
+    "#fccc8c"
   ],
   "egret-wing": [
     "#04a3f3",
@@ -1864,8 +1892,8 @@
   "soundkeys": [
     "#fa7304",
     "#080807",
-    "#f4f4f3",
-    "#979594",
+    "#f4f3f3",
+    "#949494",
     "#747474"
   ],
   "soundnode": [
@@ -1944,6 +1972,13 @@
     "#8cc43c",
     "#ec4b6b",
     "#ed546c"
+  ],
+  "streetviewdownload360": [
+    "#0c8c4c",
+    "#0e9c5c",
+    "#f9c004",
+    "#dc6125",
+    "#e4642c"
   ],
   "subordination": [
     "#7c9ebc",
