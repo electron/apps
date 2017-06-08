@@ -510,6 +510,13 @@
     "#6b9bea",
     "#989cb8"
   ],
+  "easytongue": [
+    "#fcbb46",
+    "#fcfaf5",
+    "#fc9029",
+    "#fcdc64",
+    "#fcda91"
+  ],
   "egret-wing": [
     "#04a3f3",
     "#041c2c",
@@ -1413,6 +1420,13 @@
     "#099f95",
     "#7cbcbc"
   ],
+  "odrive": [
+    "#ef990d",
+    "#121212",
+    "#c75005",
+    "#eadc9c",
+    "#605c40"
+  ],
   "opale-messenger": [
     "#0477f1",
     "#f2f6fc",
@@ -1433,6 +1447,13 @@
     "#1c2c3c",
     "#2b7ce3",
     "#7eb6dc"
+  ],
+  "p3x-onenote": [
+    "#fbfbfb",
+    "#7c3474",
+    "#bc9cbc",
+    "#b48cb4",
+    "#ac84ac"
   ],
   "pamfax": [
     "#fbfafb",
@@ -1861,6 +1882,13 @@
     "#4669b0",
     "#52513e"
   ],
+  "spotspot": [
+    "#1c1c14",
+    "#2cd363",
+    "#258f48",
+    "#226134",
+    "#1c442c"
+  ],
   "spreaker-studio": [
     "#f9f5f5",
     "#c92e31",
@@ -1888,6 +1916,13 @@
     "#99053f",
     "#9bc0ca",
     "#8a7e94"
+  ],
+  "standard-notes": [
+    "#0b6bd4",
+    "#f8f9fb",
+    "#7094dc",
+    "#5c8cdc",
+    "#3c7cdc"
   ],
   "steelseries-engine-3": [
     "#e9e9e9",
@@ -2182,6 +2217,13 @@
     "#848484",
     "#979797",
     "#7c7c7c"
+  ],
+  "wanna": [
+    "#2186f4",
+    "#fbebd3",
+    "#1a5fad",
+    "#759dc6",
+    "#89b4dc"
   ],
   "wantedly-chat": [
     "#47cbb4",
