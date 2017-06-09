@@ -14,5 +14,5 @@ npm run test-all
 git add .
 git commit -am "update apps" --author "Electron Bot <kevin+electronbot@github.com>"
 npm version minor -m "bump minor to %s"
-npm publish
 git push origin master --follow-tags
+npm publish
