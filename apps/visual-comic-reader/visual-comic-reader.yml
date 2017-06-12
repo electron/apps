@@ -1,0 +1,11 @@
+name: 'Visual Comic Reader'
+description: 'Modern Comic Reader for all platforms'
+website: 'https://github.com/evuz/VisualComicReader'
+repository: 'https://github.com/evuz/VisualComicReader'
+keywords:
+    - comic
+    - react
+    - electron
+    - reader
+    - cbz
+    - cbr
