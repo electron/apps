@@ -4,6 +4,7 @@ website: 'https://poi.io'
 repository: 'https://github.com/poooi/poi'
 keywords:
     - kantai-collection
+    - kancolle
     - game
     - electron
 license: MIT
