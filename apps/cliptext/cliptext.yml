@@ -1,0 +1,11 @@
+name: cliptext
+description: 'ClipText is a simple clipboard manager for os-x built with electron.'
+website: 'https://github.com/aaabhilash97/cliptext'
+repository: 'https://github.com/aaabhilash97/cliptext'
+keywords:
+    - clipbaord
+    - electron
+    - native
+    - osx
+    - mac
+    - 'clipboard manager'
