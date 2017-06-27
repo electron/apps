@@ -1,0 +1,10 @@
+name: DomTerm
+description: 'Multi-pane terminal emulator.'
+website: 'http://domterm.org'
+repository: 'https://github.com/PerBothner/DomTerm'
+keywords:
+    - terminal
+    - html
+    - css
+    - js
+license: MIT
