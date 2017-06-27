@@ -62,6 +62,25 @@ Icon file rules:
 - Must be at least 256px by 256px
 - Must **not** be a copy of another company's or application's icon (see submission guidelines below)
 
+### Locales
+
+By default, your app is assumed to be designed for English speakers. If your
+app supports a different language (or multiple languages), please add a 
+`locales` property that lists all locales supported.
+
+Example:
+
+```yml
+name: fangyuanjian
+description: 'collaboration and messaging for small-to-medium sized businesses.'
+website: 'http://bzsns.cn/'
+keywords:
+    - messaging
+    - collaboration
+locales:
+  - zh-CN
+```
+
 ### Submission Guidelines
 
 Some things to keep in mind when preparing your app for submission. Heavily inspired by the [awesome-electron](https://github.com/sindresorhus/awesome-electron) submission guidelines.
