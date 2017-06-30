@@ -5,3 +5,4 @@ node_modules
 *-64.png
 *-128.png
 .DS_Store
+.env
