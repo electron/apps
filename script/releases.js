@@ -1,5 +1,3 @@
-console.log('Fetching release data for apps that have a GitHub repo...')
-
 const fs = require('fs')
 const path = require('path')
 const github = require('../lib/github')
@@ -9,6 +7,15 @@ const apps = require('../lib/raw-app-list')()
 const outputFile = path.join(__dirname, '../meta/releases.json')
 const output = {}
 let i = -1
+
+// Don't fetch release data too often
+const outputFileAgeInHours = (new Date() - new Date(fs.statSync(outputFile).mtime)) / 1000 / 60
+if (outputFileAgeInHours < 1) {
+  console.log('Release data was updated less than an hour ago; skipping')
+  process.exit()
+} else {
+  console.log('Fetching release data for apps that have a GitHub repo...')
+}
 
 go()
 
