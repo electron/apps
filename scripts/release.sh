@@ -12,6 +12,8 @@ npm install --quiet
 npm run build
 npm run test-all
 [[ `git status --porcelain` ]] || exit
+git config user.email "kevin+electronbot@github.com" 
+git config user.name "Electron Bot" 
 git add .
 git commit -am "update apps" --author "Electron Bot <kevin+electronbot@github.com>"
 npm version minor -m "bump minor to %s"
