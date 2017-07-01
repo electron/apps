@@ -11,8 +11,8 @@
     "build:colors": "node script/colors",
     "build:releases": "node script/releases",
     "build:pack": "node script/pack",
-    "test": "mocha test/human-data.js",
-    "test-all": "mocha",
+    "test": "mocha --reporter min test/human-data.js",
+    "test-all": "mocha --reporter min",
     "wizard": "node wizard.js",
     "release": "scripts/release.sh"
   },
