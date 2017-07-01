@@ -14,7 +14,7 @@
     "test": "mocha --reporter min test/human-data.js",
     "test-all": "mocha --reporter min",
     "wizard": "node wizard.js",
-    "release": "scripts/release.sh"
+    "release": "script/release.sh"
   },
   "repository": "https://github.com/electron/electron-apps",
   "keywords": [
