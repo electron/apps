@@ -41,4 +41,15 @@ describe('machine-generated app data (exported by the module)', () => {
       expect(app.iconColors.length).to.be.above(2, app.slug)
     })
   })
+
+  it('sets a `releases` array on every app', () => {
+    apps.forEach(app => {
+      expect(app.releases).to.be.an('array', app.slug)
+    })
+
+    const app = apps.find(app => app.slug === 'hyper')
+    expect(app).to.be.an('object')
+    expect(app.releases.length).to.be.above(12)
+    expect(app.releases[5].assets.length).to.be.above(4)
+  })
 })
