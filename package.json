@@ -30,6 +30,7 @@
     "chai": "^3.5.0",
     "clean-deep": "^2.0.1",
     "dotenv-safe": "^4.0.4",
+    "duration": "^0.2.0",
     "get-image-colors": "^1.8.1",
     "github": "^9.2.0",
     "github-url-to-object": "^4.0.2",
