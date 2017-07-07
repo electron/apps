@@ -25,6 +25,9 @@ fs.readdirSync(path.join(__dirname, '../apps'))
     },
     releases[slug]
   )
+
+  if (!app.releases) app.releases = []
+  
   apps.push(app)
 })
 
