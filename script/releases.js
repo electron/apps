@@ -7,7 +7,7 @@ const apps = require('../lib/raw-app-list')()
   .filter(app => {
     if (!app.repository) return false
     if (!parseGitUrl(app.repository)) return false
-    let age = new Duration(new Date(app.releases_fetched_at), new Date())
+    let age = new Duration(new Date(app.releases_fetched_at || null), new Date())
     if (age.hours < 24) return false
     return true
   })
