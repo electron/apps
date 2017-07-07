@@ -45,7 +45,7 @@ function go () {
   .then(releases => {
     console.log(app.slug)
     output[app.slug] = {
-      releases: releases.data,
+      releases: releases.data || [],
       releases_fetched_at: new Date()
     }
     go()
