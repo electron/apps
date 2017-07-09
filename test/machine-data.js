@@ -1,10 +1,12 @@
+const mocha = require('mocha')
+const describe = mocha.describe
+const it = mocha.it
 const fs = require('fs')
 const path = require('path')
 const apps = require('..')
 const expect = require('chai').expect
 
 describe('machine-generated app data (exported by the module)', () => {
-
   it('is an array', () => {
     expect(apps).to.be.an('array')
   })
