@@ -1,3 +1,4 @@
+const {describe, it} = require('mocha')
 const fs = require('fs')
 const path = require('path')
 const expect = require('chai').expect
@@ -35,11 +36,11 @@ describe('human-submitted app data', () => {
         const app = yaml.load(yamlPath)
 
         it('has a name', () => {
-          expect(app.name).to.not.be.empty
+          expect(app.name.length).to.be.above(0)
         })
 
         it('has a description', () => {
-          expect(app.description).to.not.be.empty
+          expect(app.description.length).to.be.above(0)
         })
 
         it('has a website with a valid URL', () => {

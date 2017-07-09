@@ -11,8 +11,8 @@
     "build:colors": "node script/colors",
     "build:releases": "node script/releases",
     "build:pack": "node script/pack",
-    "test": "mocha --reporter min test/human-data.js",
-    "test-all": "mocha --reporter min",
+    "test": "mocha --reporter min test/human-data.js && standard --fix",
+    "test-all": "mocha --reporter min && standard --fix",
     "wizard": "node wizard.js",
     "release": "script/release.sh"
   },
@@ -44,6 +44,7 @@
     "rimraf": "^2.6.1",
     "sharp": "^0.17.0",
     "slugg": "^1.1.0",
+    "standard": "^10.0.2",
     "yamljs": "^0.2.8"
   },
   "engines": {
