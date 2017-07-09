@@ -1,3 +1,6 @@
+const mocha = require('mocha')
+const describe = mocha.describe
+const it = mocha.it
 const fs = require('fs')
 const path = require('path')
 const apps = require('..')
