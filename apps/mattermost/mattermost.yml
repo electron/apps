@@ -1,3 +1,6 @@
 name: Mattermost
 description: 'Open source, self-hosted Slack-alternative'
 website: 'https://www.mattermost.org/'
+keywords:
+    - messaging
+category: 'Social Networking'

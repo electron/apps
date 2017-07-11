@@ -102,6 +102,7 @@ const keywordMappings = {
   'music player': 'Music',
   'podcasts': 'News',
   'utorrent': 'Utilities',
+  'torrent': 'Utilities',
   'periodic-table': 'Utilities',
   'art': 'Photo & Video',
   'hardware': 'Utilities',
@@ -122,67 +123,70 @@ const keywordMappings = {
   'system': 'Utilities',
   'tournament': 'Games',
   'webrtc': 'Social Networking',
-  'build': 'Developer Tools'
+  'build': 'Developer Tools',
+  'trading': 'Finance',
+  'images': 'Photo & Video',
+  'time': 'Productivity',
+  'gif': 'Photo & Video',
+  'nodejs': 'Developer Tools',
+  'github': 'Developer Tools'
 }
 
 const keywordCounts = {}
 const usedCategories = {}
 
-function determineCategory (app, yamlPath, guessingKeywords) {
+function determineCategory (app, yamlPath) {
+  let guessingKeywords = false
   let updateYaml = false
   let matched = false
   let matchedKeyword
-  if (!app.category) {
-    app.keywords.some((keyword, index) => {
-      matched = categories.find((category) => {
-        if (keyword.toLowerCase() === category.toLowerCase()) {
-          matchedKeyword = keyword
-          return true
-        }
-      })
-      return matched
-    })
-    if (!matched) {
-      // look in mappings
-      app.keywords.some((keyword, index) => {
-        let lowerKeyword = keyword.toLowerCase()
-        if (keywordMappings[lowerKeyword]) {
-          matched = keywordMappings[lowerKeyword]
-          matchedKeyword = keyword
-          return true
-        } else {
-          return false
-        }
-      })
-    }
 
-    if (matched) {
-      app.category = matched
-      updateYaml = true
-      if (!usedCategories[matched]) {
-        usedCategories[matched] = 1
-      } else {
-        usedCategories[matched]++
+  if (!app.keywords) {
+    app.keywords = app.description.split(' ')
+    guessingKeywords = true
+  }
+
+  app.keywords.some((keyword, index) => {
+    matched = categories.find((category) => {
+      if (keyword.toLowerCase() === category.toLowerCase()) {
+        matchedKeyword = keyword
+        return true
       }
-    }
-    if (!updateYaml && !app.category) {
-      app.keywords.forEach((keyword) => {
-        let lowerKeyword = keyword.toLowerCase()
-        if (keywordCounts[lowerKeyword]) {
-          keywordCounts[lowerKeyword]++
-        } else {
-          keywordCounts[lowerKeyword] = 1
-        }
-      })
-      console.log(`Could not find category for ${app.name}, keywords are: ${app.keywords.join(',')}, description is: ${app.description}`)
+    })
+    return matched
+  })
+  if (!matched) {
+    // look in mappings
+    app.keywords.some((keyword, index) => {
+      let lowerKeyword = keyword.toLowerCase()
+      if (keywordMappings[lowerKeyword]) {
+        matched = keywordMappings[lowerKeyword]
+        matchedKeyword = keyword
+        return true
+      } else {
+        return false
+      }
+    })
+  }
+
+  if (matched) {
+    app.category = matched
+    updateYaml = true
+    if (!usedCategories[matched]) {
+      usedCategories[matched] = 1
+    } else {
+      usedCategories[matched]++
     }
   }
-  let electronIndex = app.keywords.findIndex((keyword) => {
-    return keyword.toLowerCase() === 'electron'
-  })
-  if (electronIndex > -1) {
-    app.keywords.splice(electronIndex, 1)
-    updateYaml = true
+  if (!updateYaml) {
+    app.keywords.forEach((keyword) => {
+      let lowerKeyword = keyword.toLowerCase()
+      if (keywordCounts[lowerKeyword]) {
+        keywordCounts[lowerKeyword]++
+      } else {
+        keywordCounts[lowerKeyword] = 1
+      }
+    })
   }
 
   if (updateYaml) {
@@ -190,26 +194,50 @@ function determineCategory (app, yamlPath, guessingKeywords) {
       app.keywords = [
         matchedKeyword
       ]
-      console.log(`${app.name} has been given ${app.category} by guessing keyword: ${matchedKeyword}`)
+      console.log(`SUCCESS ${app.name} has been given ${app.category} by guessing keyword: ${matchedKeyword}`)
+    } else {
+      console.log(`SUCCESS ${app.name} has been given ${app.category} by using keyword: ${matchedKeyword}`)
     }
-    const yamlContent = yaml.stringify(app, 2)
-    fs.writeFileSync(yamlPath, yamlContent)
+    saveYaml(app, yamlPath)
+  } else {
+    if (guessingKeywords) {
+      console.log(`${app.name} does not have keywords, its description is: ${app.description}.`)
+    } else {
+      console.log(`Could not find category for ${app.name}, keywords are: ${app.keywords.join(',')}, description is: ${app.description}`)
+    }
   }
+}
+
+function removeElectron (app, yamlPath) {
+  if (app.keywords) {
+    let electronIndex = app.keywords.findIndex((keyword) => {
+      return keyword.toLowerCase() === 'electron'
+    })
+    if (electronIndex > -1) {
+      app.keywords.splice(electronIndex, 1)
+      saveYaml(app, yamlPath)
+    }
+  }
+}
+
+function saveYaml (app, yamlPath) {
+  const yamlContent = yaml.stringify(app, 2)
+  fs.writeFileSync(yamlPath, yamlContent)
 }
 
 slugs.forEach((slug) => {
   const basedir = path.join(__dirname, `../apps/${slug}`)
   const yamlFile = `${slug}.yml`
   const yamlPath = path.join(basedir, yamlFile)
-  const app = yaml.load(yamlPath)
+  let app
+  try {
+    app = yaml.load(yamlPath)
+  } catch (err) {
+    console.log(`Error loading ${yamlPath}`, err)
+  }
+  removeElectron(app, yamlPath)
   if (!app.category) {
-    if (app.keywords) {
-      determineCategory(app, yamlPath)
-    } else {
-      app.keywords = app.description.split(' ')
-      determineCategory(app, yamlPath, true)
-      console.log(`${app.name} does not have keywords, its description is: ${app.description}.`)
-    }
+    determineCategory(app, yamlPath)
   }
 })
 

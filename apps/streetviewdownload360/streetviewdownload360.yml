@@ -1,3 +1,6 @@
 name: 'Street View Download 360'
 description: 'App for downloading 360° Street View images'
 website: 'https://istreetview.com'
+keywords:
+    - images
+category: 'Photo & Video'

@@ -1,3 +1,5 @@
 name: 'HTTPS Checker'
 description: 'The Most Advanced HTTPS Mixed Content Checker Available'
 website: 'https://www.ecommerce.co.uk/httpschecker'
+disabled: true
+category: 'Utilities'

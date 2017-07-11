@@ -1,3 +1,6 @@
 name: ColorPicker
 description: 'Minimal color picker tool to get code hex and rgb code'
 website: 'https://crea-th.at/p/colorpicker/'
+keywords:
+    - code
+category: 'Developer Tools'
