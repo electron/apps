@@ -4,5 +4,6 @@ website: 'https://www.cypress.io/'
 repository: 'https://github.com/cypress-io/cypress'
 keywords:
     - testing
-    - 'developer tool'
+    - 'developer tools'
     - 'web development'
+category: 'Developer Tools'

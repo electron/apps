@@ -3,12 +3,12 @@ description: 'Unofficial Evernote client for Linux desktop'
 website: 'https://cellard0-0r.github.io/whatever/'
 repository: 'https://github.com/CellarD0-0r/whatever'
 keywords:
- - Evernote
- - Electron
- - client
- - note
- - notes
- - linux
- - ubuntu
- - desktop
+    - Evernote
+    - client
+    - note
+    - notes
+    - linux
+    - ubuntu
+    - desktop
 license: MIT
+category: Productivity

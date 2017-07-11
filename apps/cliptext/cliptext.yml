@@ -3,9 +3,9 @@ description: 'A simple clipboard manager for macOS.'
 website: 'https://github.com/aaabhilash97/cliptext'
 repository: 'https://github.com/aaabhilash97/cliptext'
 keywords:
-    - clipbaord
-    - electron
+    - clipboard
     - native
     - osx
     - mac
     - 'clipboard manager'
+category: Utilities

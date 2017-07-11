@@ -1,6 +1,7 @@
-name: "Electro"
-description: "Open Source DJ App"
-website: "https://jspear29.github.io/electro/"
+name: Electro
+description: 'Open Source DJ App'
+website: 'https://jspear29.github.io/electro/'
 keywords:
-  - "music"
-  - "DJ"
+    - music
+    - DJ
+category: Music

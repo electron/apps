@@ -1,6 +1,7 @@
-name: "Galeri"
-description: "A perpetual artwork streaming app"
-website: "https://www.galeri.io"
+name: Galeri
+description: 'A perpetual artwork streaming app'
+website: 'https://www.galeri.io'
 keywords:
-  - "art"
-  - "painting"
+    - art
+    - painting
+category: 'Photo & Video'

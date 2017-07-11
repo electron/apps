@@ -4,3 +4,6 @@ website: 'https://www.5eplay.com/'
 keywords:
     - CSGO
     - PUG
+locales:
+    - zh_CN
+category: Games

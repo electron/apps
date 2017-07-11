@@ -3,5 +3,6 @@ description: 'Manage and switch your hosts files.'
 website: 'https://oldj.github.io/SwitchHosts/'
 repository: 'https://github.com/oldj/SwitchHosts'
 keywords:
-    - 'developer tool'
+    - 'developer tools'
 license: MIT
+category: 'Developer Tools'

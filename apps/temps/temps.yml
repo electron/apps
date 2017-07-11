@@ -4,9 +4,9 @@ website: 'https://jackd248.github.io/temps/'
 repository: 'https://github.com/jackd248/temps'
 keywords:
     - Temps
-    - Electron
     - Menubar
     - Weather
     - Temperature
     - Forecast
 license: MIT
+category: Utilities

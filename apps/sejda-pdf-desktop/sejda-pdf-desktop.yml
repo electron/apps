@@ -1,8 +1,9 @@
 name: 'Sejda PDF Desktop'
-description: "Pleasant and productive PDF software that you'll love to use"
+description: 'Pleasant and productive PDF software that you''ll love to use'
 website: 'https://www.sejda.com/desktop'
 keywords:
     - PDF
     - document
     - editor
     - productivity
+category: Productivity

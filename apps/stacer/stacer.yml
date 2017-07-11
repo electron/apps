@@ -1,7 +1,8 @@
-name: "Stacer"
-description: "Ubuntu System Optimizer"
-website: "https://github.com/oguzhaninan/Stacer"
+name: Stacer
+description: 'Ubuntu System Optimizer'
+website: 'https://github.com/oguzhaninan/Stacer'
 keywords:
-  - "ubuntu"
-  - "system"
-  - "optimizer"
+    - ubuntu
+    - system
+    - optimizer
+category: Utilities

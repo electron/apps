@@ -1,30 +1,31 @@
-name: "Cloud Commander"
-description: "Orthodox web file manager with console and editor"
-website: "https://cloudcmd.io"
-repository: "https://github.com/coderaiser/cloudcmd"
+name: 'Cloud Commander'
+description: 'Orthodox web file manager with console and editor'
+website: 'https://cloudcmd.io'
+repository: 'https://github.com/coderaiser/cloudcmd'
 keywords:
-  - "console"
-  - "edit"
-  - "editor"
-  - "file"
-  - "file manager"
-  - "folder"
-  - "orthodox"
-  - "view"
-  - "viewer"
-  - "copy"
-  - "rename"
-  - "move"
-  - "rm"
-  - "mv"
-  - "cp"
-  - "delete"
-  - "delete file"
-  - "delete directory"
-  - "remove"
-  - "remove file"
-  - "remove directory"
-  - "file operation"
-  - "pack"
-  - "server"
-license: "MIT"
+    - console
+    - edit
+    - editor
+    - file
+    - 'file manager'
+    - folder
+    - orthodox
+    - view
+    - viewer
+    - copy
+    - rename
+    - move
+    - rm
+    - mv
+    - cp
+    - delete
+    - 'delete file'
+    - 'delete directory'
+    - remove
+    - 'remove file'
+    - 'remove directory'
+    - 'file operation'
+    - pack
+    - server
+license: MIT
+category: Productivity

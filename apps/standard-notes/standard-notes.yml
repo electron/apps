@@ -1,4 +1,4 @@
-name: Standard Notes
+name: 'Standard Notes'
 description: 'A simple and private notes app. Encrypted, open-source, and extensible.'
 website: 'https://standardnotes.org'
 repository: 'https://github.com/standardnotes/desktop'
@@ -12,3 +12,4 @@ keywords:
     - task
     - markdown
     - sync
+category: Productivity

@@ -5,6 +5,7 @@ repository: 'https://github.com/decosoftware/deco-ide'
 keywords:
     - react
     - 'react native'
-    - 'developer tool'
+    - 'developer tools'
     - ide
 license: AGPLv3
+category: 'Developer Tools'

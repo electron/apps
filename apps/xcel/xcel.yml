@@ -8,3 +8,6 @@ keywords:
     - data-cleaning
     - aotu.io
 license: MIT
+locales:
+    - zh-CN
+category: Productivity
