@@ -3,6 +3,7 @@ const path = require('path')
 const yaml = require('yamljs')
 const dates = require('../meta/dates.json')
 const colors = require('../meta/colors.json')
+const releases = require('../meta/releases.json')
 const apps = []
 
 fs.readdirSync(path.join(__dirname, '../apps'))
@@ -21,8 +22,12 @@ fs.readdirSync(path.join(__dirname, '../apps'))
       icon128: `${slug}-icon-128.png`,
       date: dates[slug],
       iconColors: colors[slug]
-    }
+    },
+    releases[slug]
   )
+
+  if (!app.releases) app.releases = []
+
   apps.push(app)
 })
 

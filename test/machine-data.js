@@ -1,10 +1,12 @@
+const mocha = require('mocha')
+const describe = mocha.describe
+const it = mocha.it
 const fs = require('fs')
 const path = require('path')
 const apps = require('..')
 const expect = require('chai').expect
 
 describe('machine-generated app data (exported by the module)', () => {
-
   it('is an array', () => {
     expect(apps).to.be.an('array')
   })
@@ -40,5 +42,17 @@ describe('machine-generated app data (exported by the module)', () => {
       expect(app.iconColors).to.be.an('array', app.slug)
       expect(app.iconColors.length).to.be.above(2, app.slug)
     })
+  })
+
+  it('sets a `releases` array on every app', function () {
+    return this.skip()
+    // apps.forEach(app => {
+    //   expect(app.releases).to.be.an('array', app.slug)
+    // })
+
+    // const app = apps.find(app => app.slug === 'hyper')
+    // expect(app).to.be.an('object')
+    // expect(app.releases.length).to.be.above(12)
+    // expect(app.releases[5].assets.length).to.be.above(4)
   })
 })

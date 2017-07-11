@@ -1,0 +1,8 @@
+name: Wanna 
+description: 'Implementation of a 21st century to-do list app.'
+website: 'https://mkermani144.github.io/wanna/'
+repository: 'https://github.com/mkermani144/wanna'
+keywords:
+    - 'to-do list'
+    - productivity
+license: MIT
