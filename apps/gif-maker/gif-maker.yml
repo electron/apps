@@ -1,3 +1,6 @@
 name: 'Gif Maker'
 description: 'Animated GIF maker'
 website: 'http://gifmaker.io'
+keywords:
+    - GIF
+category: 'Photo & Video'

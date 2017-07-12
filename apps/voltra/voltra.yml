@@ -1,4 +1,4 @@
-name: 'Voltra'
+name: Voltra
 description: 'Digital Music Player and Store'
 website: 'https://voltra.co'
 keywords:
@@ -11,3 +11,4 @@ keywords:
     - songs
     - albums
     - artists
+category: Music

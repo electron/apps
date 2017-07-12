@@ -1,4 +1,6 @@
 name: Headlines
 description: 'View latest news headlines with categories'
 website: 'https://github.com/MedZed/Electron-Headlines'
-
+keywords:
+    - news
+category: News

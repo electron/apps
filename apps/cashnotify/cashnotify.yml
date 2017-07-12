@@ -1,4 +1,4 @@
-name: 'CashNotify'
+name: CashNotify
 description: 'Monitor your Stripe accounts from your menu bar.'
 website: 'https://cashnotify.com'
 keywords:
@@ -8,3 +8,4 @@ keywords:
     - payments
     - alerts
     - notifications
+category: Utilities

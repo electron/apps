@@ -1,3 +1,6 @@
 name: WordPress.com
 description: 'A desktop app for Wordpress'
 website: 'https://desktop.wordpress.com'
+keywords:
+    - Productivity
+category: Productivity

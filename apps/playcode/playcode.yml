@@ -4,6 +4,7 @@ website: 'http://github.com/meadowcottage/playcode-desktop'
 keywords:
     - playcode
     - editor
-    - developer tools
+    - 'developer tools'
     - mac
 license: GPL-v3
+category: 'Developer Tools'

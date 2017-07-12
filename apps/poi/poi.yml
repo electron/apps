@@ -5,6 +5,6 @@ repository: 'https://github.com/poooi/poi'
 keywords:
     - kantai-collection
     - kancolle
-    - game
-    - electron
+    - games
 license: MIT
+category: Games

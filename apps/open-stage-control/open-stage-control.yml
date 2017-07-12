@@ -1,3 +1,6 @@
 name: 'Open Stage Control'
 description: 'A libre desktop OSC bi-directionnal control surface application'
 website: 'http://osc.ammd.net'
+keywords:
+    - developer
+category: 'Developer Tools'

@@ -1,8 +1,9 @@
-name: "Hardinfo"
-description: "Collect and share information about your computer's hardware" 
-website: "https://foozzi.github.io/Hardinfo/"
-repository: "https://github.com/foozzi/Hardinfo"
+name: Hardinfo
+description: 'Collect and share information about your computer''s hardware'
+website: 'https://foozzi.github.io/Hardinfo/'
+repository: 'https://github.com/foozzi/Hardinfo'
 keywords:
-  - "hardware"
-  - "hardinfo"
-license: "MIT"
+    - hardware
+    - hardinfo
+license: MIT
+category: Utilities

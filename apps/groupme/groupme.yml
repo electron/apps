@@ -3,9 +3,9 @@ description: 'Unofficial GroupMe App'
 website: 'https://github.com/dcrousso/GroupMe#readme'
 repository: 'https://github.com/dcrousso/GroupMe'
 keywords:
-    - Electron
     - GroupMe
     - chat
     - messaging
     - social
 license: MIT
+category: 'Social Networking'

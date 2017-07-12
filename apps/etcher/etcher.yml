@@ -4,6 +4,7 @@ website: 'http://www.etcher.io/'
 repository: 'https://github.com/resin-io/etcher'
 keywords:
     - hardware
-    - 'developer tool'
+    - 'developer tools'
     - IoT
 license: 'Apache 2.0'
+category: 'Developer Tools'

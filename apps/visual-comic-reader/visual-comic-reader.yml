@@ -5,7 +5,7 @@ repository: 'https://github.com/evuz/VisualComicReader'
 keywords:
     - comic
     - react
-    - electron
     - reader
     - cbz
     - cbr
+category: Books

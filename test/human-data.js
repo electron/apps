@@ -1,3 +1,4 @@
+const categories = require('../lib/app-categories')
 const mocha = require('mocha')
 const describe = mocha.describe
 const it = mocha.it
@@ -51,6 +52,14 @@ describe('human-submitted app data', () => {
 
         it('has a valid repository URL (or no repository)', () => {
           expect(!app.repository || isUrl(app.repository)).to.equal(true)
+        })
+
+        it('has a category', () => {
+          expect(app.category.length).to.be.above(0)
+        })
+
+        it('has a valid category', () => {
+          expect(app.category).to.be.oneOf(categories)
         })
 
         it('has no empty properties', () => {

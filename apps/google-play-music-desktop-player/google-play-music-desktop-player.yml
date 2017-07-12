@@ -1,3 +1,6 @@
 name: 'Google Play Music Desktop Player'
 description: 'A beautiful cross platform Desktop Player for Google Play Music'
 website: 'http://www.googleplaymusicdesktopplayer.com/'
+keywords:
+    - Music
+category: Music

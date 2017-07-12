@@ -3,9 +3,9 @@ description: 'A Simple Friendly Markdown Note.'
 website: 'https://github.com/AnotherNote/anote'
 repository: 'https://github.com/AnotherNote/anote'
 keywords:
-    - Electron
     - React
     - Markdown
     - Note
     - Redux
     - Codemirror
+category: Productivity

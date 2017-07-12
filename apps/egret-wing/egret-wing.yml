@@ -1,3 +1,8 @@
 name: 'Egret Wing'
 description: 'Egret Wing'
 website: 'http://www.egret.com/products-wing'
+locales:
+    - zh_CN
+keywords:
+    - IDE
+category: 'Developer Tools'

@@ -1,3 +1,6 @@
 name: Slack
 description: 'A messaging app for teams'
 website: 'https://slack.com'
+keywords:
+    - messaging
+category: 'Social Networking'

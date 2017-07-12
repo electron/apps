@@ -2,7 +2,7 @@ name: Hoster
 description: 'Hosts configuration tools'
 website: 'http://houfeng.net/hoster'
 locales:
-  - zh-cn
+    - zh-cn
 keywords:
     - hosts
     - hoster
@@ -12,6 +12,7 @@ keywords:
     - manage
     - development
     - hostnames
-    - ip 
+    - ip
     - address
     - dns
+category: 'Developer Tools'

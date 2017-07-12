@@ -3,11 +3,12 @@ description: 'Smart sleep notifications'
 website: 'https://alexanderepstein.github.io/Sandman/'
 repository: 'https://github.com/alexanderepstein/Sandman/'
 keywords:
-      - Sandman
-      - sleep
-      - insomnia
-      - rest
-      - productivity
-      - utility
-      - notification
+    - Sandman
+    - sleep
+    - insomnia
+    - rest
+    - productivity
+    - utility
+    - notification
 license: MIT
+category: Productivity

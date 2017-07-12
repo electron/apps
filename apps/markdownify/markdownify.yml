@@ -3,7 +3,6 @@ description: 'This is a minimal Markdown Editor desktop app based on Electron.'
 website: 'https://markdownify.js.org'
 repository: 'https://github.com/amitmerchant1990/electron-markdownify'
 keywords:
-    - electron
     - markdown
     - plain
     - node
@@ -12,3 +11,4 @@ keywords:
     - preview
     - html
     - desktop
+category: Productivity

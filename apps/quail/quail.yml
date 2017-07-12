@@ -1,5 +1,6 @@
-name: "Quail"
-description: "Unofficial esa.io app"
-website: "https://github.com/1000ch/quail"
+name: Quail
+description: 'Unofficial esa.io app'
+website: 'https://github.com/1000ch/quail'
 keywords:
-  - "productivity"
+    - productivity
+category: Productivity
