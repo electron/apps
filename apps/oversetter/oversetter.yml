@@ -1,0 +1,9 @@
+name: Oversetter
+description: 'Translate text directly from your menubar.'
+website: 'https://4gray.github.io/oversetter/'
+repository: 'https://github.com/4gray/oversetter'
+keywords:
+    - translator
+    - menubar
+    - language
+license: MIT

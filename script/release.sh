@@ -7,7 +7,6 @@ set -o nounset    # fail on unset variables
 
 git clone https://github.com/electron/electron-apps app
 cd app
-npm config set loglevel warn
 npm install --quiet
 npm run build
 npm run test-all

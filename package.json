@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.1326.0",
+  "version": "1.1651.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -9,10 +9,10 @@
     "build:resize": "node script/resize",
     "build:dates": "node script/dates",
     "build:colors": "node script/colors",
-    "build:releases": "node script/releases",
+    "xbuild:releases": "node script/releases",
     "build:pack": "node script/pack",
-    "test": "mocha --reporter min test/human-data.js",
-    "test-all": "mocha --reporter min",
+    "test": "mocha --reporter min test/human-data.js && standard --fix",
+    "test-all": "mocha --reporter min && standard --fix",
     "wizard": "node wizard.js",
     "release": "script/release.sh"
   },
@@ -30,6 +30,7 @@
     "chai": "^3.5.0",
     "clean-deep": "^2.0.1",
     "dotenv-safe": "^4.0.4",
+    "duration": "^0.2.0",
     "get-image-colors": "^1.8.1",
     "github": "^9.2.0",
     "github-url-to-object": "^4.0.2",
@@ -43,9 +44,10 @@
     "rimraf": "^2.6.1",
     "sharp": "^0.17.0",
     "slugg": "^1.1.0",
+    "standard": "^10.0.2",
     "yamljs": "^0.2.8"
   },
   "engines": {
-    "node": ">=6"
+    "node": ">=4"
   }
 }

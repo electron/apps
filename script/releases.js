@@ -2,8 +2,15 @@ const fs = require('fs')
 const path = require('path')
 const github = require('../lib/github')
 const parseGitUrl = require('github-url-to-object')
+const Duration = require('duration')
 const apps = require('../lib/raw-app-list')()
-  .filter(app => app.repository && parseGitUrl(app.repository))
+  .filter(app => {
+    if (!app.repository) return false
+    if (!parseGitUrl(app.repository)) return false
+    let age = new Duration(new Date(app.releases_fetched_at || null), new Date())
+    if (age.hours < 24) return false
+    return true
+  })
 const outputFile = path.join(__dirname, '../meta/releases.json')
 const output = {}
 let i = -1
@@ -37,7 +44,10 @@ function go () {
   })
   .then(releases => {
     console.log(app.slug)
-    output[app.slug] = releases.data
+    output[app.slug] = {
+      releases: releases.data || [],
+      releases_fetched_at: new Date()
+    }
     go()
   })
 }

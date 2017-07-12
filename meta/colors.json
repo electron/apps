@@ -286,6 +286,13 @@
     "#b1d981",
     "#a4d36b"
   ],
+  "clipboard-anywhere": [
+    "#e9e3d3",
+    "#2abafb",
+    "#7fd1f5",
+    "#88a46c",
+    "#54bcdc"
+  ],
   "cliptext": [
     "#272727",
     "#fbfbfb",
@@ -1014,6 +1021,13 @@
     "#898159",
     "#999374"
   ],
+  "imagine": [
+    "#049bfb",
+    "#636464",
+    "#457597",
+    "#3484b4",
+    "#347cac"
+  ],
   "infinity": [
     "#4dacd4",
     "#fbfbfc",
@@ -1531,6 +1545,13 @@
     "#1c2c3c",
     "#2b7ce3",
     "#7eb6dc"
+  ],
+  "oversetter": [
+    "#3d3d3d",
+    "#cecdcd",
+    "#919ba3",
+    "#567aa0",
+    "#a47c44"
   ],
   "p3x-onenote": [
     "#fbfbfb",

@@ -21,10 +21,13 @@ fs.readdirSync(path.join(__dirname, '../apps'))
       icon64: `${slug}-icon-64.png`,
       icon128: `${slug}-icon-128.png`,
       date: dates[slug],
-      iconColors: colors[slug],
-      releases: releases[slug] || []
-    }
+      iconColors: colors[slug]
+    },
+    releases[slug]
   )
+
+  if (!app.releases) app.releases = []
+
   apps.push(app)
 })
 
