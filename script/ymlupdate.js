@@ -1,3 +1,4 @@
+const categories = require('../lib/app-categories')
 const fs = require('fs')
 const path = require('path')
 const yaml = require('yamljs')
@@ -5,34 +6,6 @@ const slugs = fs.readdirSync(path.join(__dirname, '../apps'))
   .filter(filename => {
     return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
   })
-
-const categories = [
-  'Books',
-  'Business',
-  'Catalogs',
-  'Developer Tools',
-  'Education',
-  'Entertainment',
-  'Finance',
-  'Food & Drink',
-  'Games',
-  'Health & Fitness',
-  'Lifestyle',
-  'Kids',
-  'Magazines & Newspapers',
-  'Medical',
-  'Music',
-  'Navigation',
-  'News',
-  'Photo & Video',
-  'Productivity',
-  'Reference',
-  'Shopping',
-  'Social Networking',
-  'Sports',
-  'Travel',
-  'Utilities'
-]
 
 const keywordMappings = {
   'book': 'Books',

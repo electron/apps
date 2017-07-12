@@ -1,3 +1,4 @@
+const categories = require('../lib/app-categories')
 const fs = require('fs')
 const path = require('path')
 const expect = require('chai').expect
@@ -48,6 +49,14 @@ describe('human-submitted app data', () => {
 
         it('has a valid repository URL (or no repository)', () => {
           expect(!app.repository || isUrl(app.repository)).to.equal(true)
+        })
+
+        it('has a category', () => {
+          expect(app.category).to.not.be.empty
+        })
+
+        it('has a valid category', () => {
+          expect(app.category).to.be.oneOf(categories)
         })
 
         it('has no empty properties', () => {

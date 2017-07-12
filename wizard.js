@@ -1,3 +1,4 @@
+const categories = require('./lib/app-categories')
 const inquirer = require('inquirer')
 const isUrl = require('is-url')
 const path = require('path')
@@ -34,6 +35,14 @@ const questions = [{
   validate: function (value) {
     if (!isUrl(value)) return 'Please enter a fully-qualified URL'
     return true
+  }
+}, {
+  type: 'list',
+  name: 'category',
+  message: 'App category',
+  choices: categories,
+  validate: function (value) {
+    if (!value) return 'Please select a category'
   }
 }, {
   type: 'input',
