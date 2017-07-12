@@ -55,7 +55,7 @@ describe('human-submitted app data', () => {
         })
 
         it('has a category', () => {
-          expect(app.category).to.not.be.empty
+          expect(app.category.length).to.be.above(0)
         })
 
         it('has a valid category', () => {
