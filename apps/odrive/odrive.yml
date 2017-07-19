@@ -10,3 +10,6 @@ keywords:
     - 'google drive'
 license: 'GPL v3'
 category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/liberodark/Odrive/master/public/logo.png'

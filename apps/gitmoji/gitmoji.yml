@@ -8,3 +8,7 @@ keywords:
     - mac
 license: GPL-v3
 category: 'Developer Tools'
+repository: 'https://github.com/Meadowcottage/gitmoji'
+screenshots:
+    -
+        imageUrl: 'https://github.com/Meadowcottage/gitmoji/blob/master/build/Screenshot.png?raw=true'

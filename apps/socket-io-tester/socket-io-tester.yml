@@ -11,3 +11,6 @@ keywords:
     - productivity
 license: GPL-2.0
 category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://github.com/AppSaloon/socket.io-tester/raw/master/assets/screenshotV110.png'

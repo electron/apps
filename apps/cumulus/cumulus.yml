@@ -8,3 +8,6 @@ keywords:
     - player
 license: MIT
 category: Music
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/gillesdemey/Cumulus/master/assets/cumulus_app.png'

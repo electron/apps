@@ -9,3 +9,6 @@ keywords:
     - js
 license: MIT
 category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/zeit/hyper/master/website/static/hyperyellow.gif'

@@ -11,3 +11,6 @@ keywords:
     - sketch
 license: 'GPL 2'
 category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/evolus/pencil/master/screenshot.png'

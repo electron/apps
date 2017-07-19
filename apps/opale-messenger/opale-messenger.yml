@@ -16,3 +16,6 @@ keywords:
     - toggle
 license: MIT
 category: 'Social Networking'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/DavidMellul/Opale-Messenger/master/images/screen.png'

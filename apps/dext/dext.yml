@@ -7,3 +7,7 @@ keywords:
     - search
 license: MIT
 category: Utilities
+repository: 'https://github.com/vutran/dext'
+screenshots:
+    -
+        imageUrl: 'https://github.com/vutran/dext/raw/develop/screenshot.gif'

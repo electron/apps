@@ -8,3 +8,6 @@ keywords:
     - language
 license: MIT
 category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/4gray/oversetter/master/screenshot.png'
