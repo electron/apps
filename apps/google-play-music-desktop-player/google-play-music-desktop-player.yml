@@ -1,6 +1,26 @@
 name: 'Google Play Music Desktop Player'
 description: 'A beautiful cross platform Desktop Player for Google Play Music'
-website: 'http://www.googleplaymusicdesktopplayer.com/'
+website: 'https://www.googleplaymusicdesktopplayer.com/'
 keywords:
     - Music
+    - Google Play Music
+    - GPMDP
 category: Music
+license: MIT
+repository: https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-
+locales:
+    - en-US
+    - cs
+    - da
+    - de
+    - fr-FR
+    - it
+    - ja
+    - nl-NL
+    - pl-PL
+    - pt-BR
+    - ro
+    - ru
+    - sk
+    - sv
+    - ua
