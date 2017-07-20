@@ -1,0 +1,11 @@
+name: github-browser
+description: 'browse github with order'
+website: 'https://github.com/tborychowski/github-browser/'
+category: 'Developer Tools'
+repository: 'https://github.com/tborychowski/github-browser/'
+keywords:
+    - browser
+    - github
+    - notifications
+    - bookmarks
+license: MIT
