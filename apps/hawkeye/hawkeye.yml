@@ -7,3 +7,6 @@ keywords:
     - notifications
     - 'developer tools'
 category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/harksys/HawkEye/master/.github/dark.png'

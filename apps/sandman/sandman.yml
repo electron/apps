@@ -12,3 +12,6 @@ keywords:
     - notification
 license: MIT
 category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://github.com/alexanderepstein/Sandman/raw/master/assets/Usage.gif'

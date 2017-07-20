@@ -4,3 +4,7 @@ website: 'https://github.com/1000ch/whale'
 keywords:
     - productivity
 category: Productivity
+repository: 'https://github.com/1000ch/whale'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/1000ch/whale/master/demo.png'

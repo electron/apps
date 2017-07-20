@@ -7,3 +7,6 @@ keywords:
     - editor
     - productivity
 category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/HoverBaum/BlankUp-Electron/master/img/BlankUpDemo.png'

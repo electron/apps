@@ -9,3 +9,6 @@ keywords:
     - social
 license: MIT
 category: 'Social Networking'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png'

@@ -10,3 +10,6 @@ keywords:
     - 'Play Music'
     - mp3
 category: Music
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/vincelwt/harmony/master/screenshot.png'

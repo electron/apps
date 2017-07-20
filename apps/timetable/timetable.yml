@@ -6,3 +6,6 @@ keywords:
     - Timetable
     - menubar
 category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://github.com/willyb321/electron-menubar-timetable/raw/master/example.gif'

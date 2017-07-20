@@ -10,3 +10,6 @@ keywords:
     - electronics
     - children
 category: Education
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/bq/bitbloq-offline/master/docs/onlineVSoffline.jpg'

@@ -8,3 +8,6 @@ keywords:
     - instagram
 license: MIT
 category: 'Photo & Video'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/terkelg/ramme/master/media/strip.png'

@@ -3,8 +3,21 @@ const path = require('path')
 const github = require('../lib/github')
 const parseGitUrl = require('github-url-to-object')
 const Duration = require('duration')
+const downloadExtensions = [
+  '.deb',
+  '.dmg',
+  '.exe',
+  '.gz',
+  '.zip'
+]
 const apps = require('../lib/raw-app-list')()
   .filter(app => {
+    if (!app.repository) {
+      if (parseGitUrl(app.website)) {
+        console.log(`${app.name} website is a giturl: ${app.website}`)
+        app.repository = app.website
+      }
+    }
     if (!app.repository) return false
     if (!parseGitUrl(app.repository)) return false
     let age = new Duration(new Date(app.releases_fetched_at || null), new Date())
@@ -36,18 +49,46 @@ function go () {
 
   const app = apps[i]
   const {user: owner, repo} = parseGitUrl(app.repository)
-
-  github.repos.getReleases({
+  const gitHubOptions = {
     owner: owner,
     repo: repo,
-    per_page: 100
-  })
-  .then(releases => {
+    headers: {
+      Accept: 'application/vnd.github.v3.html'
+    }
+  }
+
+  github.repos.getLatestRelease(gitHubOptions)
+  .then(release => {
     console.log(app.slug)
     output[app.slug] = {
-      releases: releases.data || [],
-      releases_fetched_at: new Date()
+      latestRelease: release.data || false,
+      release_fetched_at: new Date()
     }
+    if (release.data) {
+      output[app.slug].latestRelease = {
+        releaseUrl: release.data.html_url,
+        tagName: release.data.tag_name,
+        releaseName: release.data.name,
+        releaseNotes: release.data.body_html
+      }
+      output[app.slug].latestRelease.downloads = release.data.assets.filter((asset) => {
+        let fileExtension = path.extname(asset.browser_download_url)
+        return (downloadExtensions.indexOf(fileExtension) !== -1)
+      }).map((asset) => {
+        return Object.assign({
+          fileName: asset.name,
+          fileUrl: asset.browser_download_url
+        })
+      })
+    }
+    return github.repos.getReadme(gitHubOptions)
+  }).catch(() => {
+    output[app.slug] = {
+      latestRelease: false
+    }
+    return github.repos.getReadme(gitHubOptions)
+  }).then((readme) => {
+    output[app.slug].readme = readme.data
     go()
   })
 }

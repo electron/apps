@@ -12,3 +12,6 @@ keywords:
     - 'pdf reader'
 license: MIT
 category: Books
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/oguzhaninan/Buka/master/assets/screenshots/header.png'

@@ -9,3 +9,6 @@ keywords:
     - tracker
 license: MIT
 category: Finance
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/harshjv/donut/master/preview.gif'

@@ -7,3 +7,6 @@ keywords:
     - menubar
 license: MIT
 category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Cwoodall6/quickcalc/master/assets/quickcalc_design.jpg'

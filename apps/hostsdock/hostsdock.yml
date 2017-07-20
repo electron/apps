@@ -10,3 +10,6 @@ keywords:
     - hosts
 license: MIT
 category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://github.com/eshengsky/HostsDock/blob/master/public/image/review_new.png'

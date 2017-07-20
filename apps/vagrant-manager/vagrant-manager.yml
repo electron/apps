@@ -7,3 +7,6 @@ keywords:
     - manager
 license: MIT
 category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/vaibhav-sidapara/vagrant-manager/master/assets/images/demo.gif'

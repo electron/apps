@@ -7,3 +7,7 @@ keywords:
     - Developers
 license: GPLv2
 category: 'Developer Tools'
+disabled: true
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Meadowcottage/devRant/master/build/Screenshot-1.png'

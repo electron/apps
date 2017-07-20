@@ -5,3 +5,6 @@ repository: 'https://github.com/beakerbrowser/beaker'
 keywords:
     - browser
 category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/beakerbrowser/beaker/master/screenshot.png'

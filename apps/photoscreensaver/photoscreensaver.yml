@@ -6,3 +6,7 @@ keywords:
     - photography
 license: MIT
 category: 'Photo & Video'
+repository: 'https://github.com/RandScullard/photo-screen-saver'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/RandScullard/photo-screen-saver/master/img/icon.png'

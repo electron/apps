@@ -7,3 +7,6 @@ keywords:
     - bookmarks
 license: MIT
 category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Darkle/MarkSearch/gh-pages/assets/screenshots/MSsearch.png'

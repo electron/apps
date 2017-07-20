@@ -11,3 +11,6 @@ keywords:
     - customize
 license: MIT
 category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/mjswensen/themer-gui/master/screenshot.png'

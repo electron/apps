@@ -4,3 +4,7 @@ website: 'https://github.com/1000ch/quail'
 keywords:
     - productivity
 category: Productivity
+repository: 'https://github.com/1000ch/quail'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/1000ch/quail/master/demo.png'
