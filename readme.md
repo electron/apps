@@ -27,6 +27,7 @@ name: Hyper
 description: 'HTML/JS/CSS Terminal'
 website: 'https://hyper.is'
 repository: 'https://github.com/zeit/hyper'
+category: 'Developer Tools'
 ```
 
 Humans can include other data like `keywords` and `license`, but they're not required to do so.

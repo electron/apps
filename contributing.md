@@ -80,6 +80,17 @@ YML file rules:
 - `repository` is optional, but must be a fully-qualified URL if provided.
 - `keywords` is optional, but should be an array if provided.
 - `license` is optional.
+- `screenshots` are optional, but should be an array in the following format if provided:
+  ```
+  screenshots:
+      -
+          imageUrl: 'https://mysite/awsome.png'
+          caption: 'Awesome screenshot'
+          imageLink: 'https://mysite/awesome.html'
+  ```
+  * `imageUrl` - *required* - fully-qualified URL of screenshot image.  Allowed image types are png, jpg, and gif.
+  * `caption` - an optional caption to display with the screenshot.
+  * `imageLink` - an optional link URL to indicate the link that should be directed to when someone clicks on an image.  If this field is not specified, clicking on a screenshot will go to the application website.
 - No fields should be left blank.
 
 Icon file rules:
