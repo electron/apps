@@ -65,6 +65,26 @@ describe('human-submitted app data', () => {
         it('has no empty properties', () => {
           expect(cleanDeep(app)).to.deep.equal(app)
         })
+
+        describe('screenshots', () => {
+          const screenshots = app.screenshots || []
+
+          it('requires imageUrl to be a fully-qualified HTTPS URL', () => {  
+            screenshots.forEach(screenshot => {
+              expect(isUrl(screenshot.imageUrl) && /^https/.test(screenshot.imageUrl)).to.equal(true, 
+                `${app.slug} screenshot imageUrl must be a fully-qualified HTTPS URL`
+              )
+            })
+          })
+
+          it('requires linkUrl to be a fully-qualified URL, if present', () => {  
+            screenshots.forEach(screenshot => {
+              expect(!screenshot.linkUrl || isUrl(screenshot.linkUrl)).to.equal(true, 
+                `${app.slug} screenshot linkURL must be a fully qualified URL`
+              )
+            })
+          })
+        })
       })
 
       describe('icon', () => {
