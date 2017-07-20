@@ -1,0 +1,8 @@
+name: Appium Desktop
+description: 'A cross-platform app which gives you the power of the Appium automation server in a beautiful and flexible UI.'
+website: 'http://appium.io/'
+repository: 'https://github.com/appium/appium-desktop'
+keywords:
+    - appium
+license: 'Apache License 2.0'
+category: 'Developer Tools'
