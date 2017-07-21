@@ -10,7 +10,7 @@ cd app
 npm install --quiet
 npm run build
 npm run test-all
-[[ `git status --porcelain` ]] || exit
+[[ `git status --porcelain` ]] || exit 0
 git config user.email "kevin+electronbot@github.com" 
 git config user.name "Electron Bot" 
 git add .
