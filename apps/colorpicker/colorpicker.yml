@@ -1,5 +1,5 @@
 name: ColorPicker
-description: 'Colorpicker can show colors with hex/rgb code, and generate shading of your color.'
+description: 'Show colors with hex/rgb codes and generate shades'
 website: 'https://crea-th.at/p/colorpicker/'
 repository: 'https://github.com/Toinane/colorpicker'
 keywords:

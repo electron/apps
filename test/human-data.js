@@ -46,6 +46,10 @@ describe('human-submitted app data', () => {
           expect(app.description.length).to.be.above(0)
         })
 
+        it('should not start description with app name', () => {
+          expect(app.description.toLowerCase().indexOf(app.name.toLowerCase())).to.not.equal(0)
+        })
+
         it('has a website with a valid URL', () => {
           expect(isUrl(app.website)).to.equal(true)
         })

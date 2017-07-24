@@ -1,11 +1,12 @@
 name: appear.in
-description: 'Unofficial appear.in app.'
+description: 'Unofficial desktop client for appear.in'
 website: 'https://github.com/vitorgalvao/appear.in'
 repository: 'https://github.com/vitorgalvao/appear.in'
 keywords:
     - appear.in
     - chat
     - conference
+    - screensharing
     - video
     - webrtc
 license: Unlicense

@@ -1,5 +1,5 @@
 name: 'Vagrant Manager'
-description: 'Vagrant Manager is an status bar menu app that lets you manage all of your vagrant machines from one central location.'
+description: 'Menu bar app for managing your vagrant machines.'
 website: 'https://github.com/vaibhav-sidapara/vagrant-manager'
 repository: 'https://github.com/vaibhav-sidapara/vagrant-manager'
 keywords:
