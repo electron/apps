@@ -1,0 +1,10 @@
+name: Muno
+description: 'Music app that combines Soundcloud & Youtube into one native Mac app'
+website: 'http://munoapp.com'
+category: Music
+repository: 'https://github.com/SingletonIT/MUNO-release'
+keywords:
+    - Music
+    - Player
+    - Soundcloud
+    - Youtube
