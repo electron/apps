@@ -1,5 +1,5 @@
 name: 'QMUI Web'
-description: 'QMUI Web Desktop is an application for managing projects based on QMUI Web Framework.'
+description: 'Manage projects based on QMUI Web Framework.'
 website: 'http://qmuiteam.com/web'
 repository: 'https://github.com/QMUI/qmui_web_desktop'
 keywords:
