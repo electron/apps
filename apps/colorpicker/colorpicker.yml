@@ -1,6 +1,14 @@
 name: ColorPicker
-description: 'Minimal color picker tool to get code hex and rgb code'
+description: 'Colorpicker is a little Electron app that can show colors with hex/rgb code, and generate shading for your color.'
 website: 'https://crea-th.at/p/colorpicker/'
+repository: 'https://github.com/Toinane/colorpicker'
 keywords:
+    - colors
     - code
-category: 'Developer Tools'
+    - shading
+    - picker
+license: MIT
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/screenshots/screen1.png'
