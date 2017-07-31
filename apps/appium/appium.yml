@@ -4,5 +4,9 @@ website: 'http://appium.io/'
 repository: 'https://github.com/appium/appium-desktop'
 keywords:
     - appium
+    - automation
+    - hybrid
+    - webdriver
+    - testing
 license: 'Apache License 2.0'
 category: 'Developer Tools'
