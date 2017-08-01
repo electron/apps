@@ -81,7 +81,7 @@ YML file rules:
 - `keywords` is optional, but should be an array if provided.
 - `license` is optional.
 - `screenshots` are optional, but should be an array in the following format if provided:
-  ```
+  ```yml
   screenshots:
       -
           imageUrl: 'https://mysite/awsome.png'
@@ -118,6 +118,14 @@ keywords:
 locales:
   - zh-CN
 ```
+
+### Company Logos and Names
+
+Our legal team has advised us to disallow apps that are using the names of _other_ companies or icons that we find too similar to the logos of other companies without verifying their permission to do so. 
+
+App names should not start with the word "GitHub". In general, you may refer to GitHub in a relational phrase to say that the project is "compatible with", "on", or "for" GitHub, or something along those lines.
+
+For more details, see the [GitHub logo guidelines](https://github.com/logos).
 
 ### Submission Guidelines
 
