@@ -14,7 +14,7 @@ npm run test-all
 git config user.email "kevin+electronbot@github.com" 
 git config user.name "Electron Bot" 
 git add .
-git commit -am "update apps" --author "Electron Bot <kevin+electronbot@github.com>"
+git commit -am "update apps" --author "Electron Bot <electron@github.com>"
 npm version minor -m "bump minor to %s"
 git push origin master --follow-tags
 npm publish
