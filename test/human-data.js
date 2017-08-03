@@ -58,6 +58,10 @@ describe('human-submitted app data', () => {
           expect(!app.repository || isUrl(app.repository)).to.equal(true)
         })
 
+        it('has an array of keywords, or none at all', () => {
+          expect(!app.keywords || Array.isArray(app.keywords)).to.eq(true)
+        })
+
         it('has a category', () => {
           expect(app.category.length).to.be.above(0)
         })
