@@ -2,7 +2,7 @@ name: 'devRantron'
 description: 'An unofficial open source client for devRant.io'
 website: 'https://devrantron.firebaseapp.com/'
 repository: 'https://github.com/tahnik/devRantron/'
-keywords: 'Social Network'
+keywords: ['Social Network']
 category: 'Developer Tools'
 screenshots:
     -
