@@ -3,11 +3,6 @@ description: 'An open source IM resolution.'
 website: 'http://xuan.im/'
 repository: 'https://github.com/easysoft/xuanxuan'
 category: Productivity
-screenshots:
-    -
-        imageUrl: 'http://cdn.zsite.com/data/source/x/xuanxuan/default/blank/preview-lg-min.png'
-        caption: 'Xuanxuan IM preview'
-        imageLink: 'http://xuan.im/'
 keywords: 
   - im
   - messaging
