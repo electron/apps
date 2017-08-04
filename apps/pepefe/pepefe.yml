@@ -2,5 +2,6 @@ name: pepefe
 description: 'Unofficial desktop notification for free ebook from Packtpub'
 website: 'https://github.com/junwatu/pepefe'
 repository: 'https://github.com/junwatu/pepefe'
-category: 'Books'
+category: 'Books',
+keywords: ['Books', 'Education', 'Learning']
 license: MIT
