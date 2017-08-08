@@ -1,0 +1,8 @@
+name: Snake
+description: 'Old Classic Snake Game'
+website: 'http://alpcoskun.com/snake'
+repository: 'https://github.com/alpcoskun/snake'
+keywords:
+    - games
+    - snake
+category: Games
