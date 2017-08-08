@@ -1518,6 +1518,13 @@
     "#1ecbf2",
     "#465c78"
   ],
+  "nubido": [
+    "#1677d6",
+    "#df8aa1",
+    "#270c15",
+    "#43acfc",
+    "#692c79"
+  ],
   "nuclear": [
     "#767ae3",
     "#fbfbfb",
@@ -2021,6 +2028,13 @@
     "#bcff80",
     "#bcff80",
     "#bcff80"
+  ],
+  "snake": [
+    "#ededed",
+    "#6c6c6c",
+    "#bcbcbc",
+    "#acacac",
+    "#b4b4b4"
   ],
   "socialcast": [
     "#64b3db",
