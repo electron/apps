@@ -3,9 +3,11 @@ description: 'Explore a galaxy of ideas'
 website: 'https://intumind.github.io/'
 category: 'Utilities'
 keywords: 
-  -'Organize'
-  -writing
-  -ideas
+  -Organize
+  -Writing
+  -Ideas
+  -Share
+  -Social-Media
 screenshots:
   -
     imageURL: 'https://github.com/IntuMind/IntuMind.github.io/blob/master/Image/ss.PNG'
