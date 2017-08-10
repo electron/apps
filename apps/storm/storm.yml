@@ -1,0 +1,9 @@
+name: Storm
+description: 'Synchronizes files between computers, never gets tired. Oh, and no data limits either.'
+website: 'http://www.stormfolder.com'
+category: Productivity
+keywords:
+    - 'file synchronization'
+    - backup
+    - storage
+    - 'shared files'
