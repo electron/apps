@@ -11,9 +11,7 @@ console.log('Checking app submission dates...')
 apps
   .filter(app => existingSlugs.indexOf(app.slug) === -1)
   .forEach(app => {
-    // https://git-scm.com/docs/pretty-formats
-    const cmd = `git log -S "${app.website}" --pretty=format:'%ci' | tail -n1`
-    const date = String(execSync(cmd)).slice(0, 10)
+    const date = new Date().toISOString().slice(0,10)
     console.log(`${app.slug}: ${date}`)
     dates[app.slug] = date
   })
