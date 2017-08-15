@@ -1,0 +1,14 @@
+name: tim
+description: 'manage issues with order'
+website: 'https://github.com/tborychowski/tim/'
+category: 'Developer Tools'
+repository: 'https://github.com/tborychowski/tim/'
+keywords:
+    - browser
+    - electron-app
+    - productivity-booster
+    - manager
+    - github
+    - notifications
+    - bookmarks
+license: MIT
