@@ -11,4 +11,9 @@ keywords:
     - github
     - notifications
     - bookmarks
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/tborychowski/tim/master/screens/0-screenshot.png'
+        caption: 'TIM screenshot'
+        imageLink: 'https://github.com/tborychowski/tim'
 license: MIT
