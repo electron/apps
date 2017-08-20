@@ -1,0 +1,14 @@
+name: Backlog
+description: 'Simple desktop app for storing lists of items (todo, tasks, backlog items)'
+website: 'https://github.com/czytelny/backlog'
+category: Utilities
+repository: 'https://github.com/czytelny/backlog.git'
+keywords:
+    - tasks
+    - manager
+    - todo
+    - items
+    - backlog
+    - organizer
+    - simple
+license: MIT
