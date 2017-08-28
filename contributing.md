@@ -95,6 +95,7 @@ YML file rules:
   * `imageUrl` - *required* - fully-qualified URL of screenshot image.  Allowed image types are png, jpg, and gif.
   * `caption` - an optional caption to display with the screenshot.
   * `imageLink` - an optional link URL to indicate the link that should be directed to when someone clicks on an image.  If this field is not specified, clicking on a screenshot will go to the application website.
+- `youtube_video_url` is optional, but must be a fully-qualified URL if provided.
 - No fields should be left blank.
 
 Icon file rules:

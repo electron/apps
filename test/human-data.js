@@ -93,6 +93,10 @@ describe('human-submitted app data', () => {
             })
           })
         })
+
+        it('has a valid YouTube URL (or none)', () => {
+          expect(!app.youtube_video_url || isUrl(app.youtube_video_url)).to.equal(true)
+        })
       })
 
       describe('icon', () => {
