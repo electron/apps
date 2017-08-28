@@ -83,10 +83,10 @@ YML file rules:
 - `screenshots` are optional, but should be an array in the following format if provided:
   ```yml
   screenshots:
-      -
-          imageUrl: 'https://mysite/awsome.png'
-          caption: 'Awesome screenshot'
-          imageLink: 'https://mysite/awesome.html'
+    -
+      imageUrl: 'https://mysite.com/awesome.png'
+      caption: 'Awesome screenshot'
+      imageLink: 'https://mysite.com/awesome.html'
   ```
   * `imageUrl` - *required* - fully-qualified URL of screenshot image.  Allowed image types are png, jpg, and gif.
   * `caption` - an optional caption to display with the screenshot.
