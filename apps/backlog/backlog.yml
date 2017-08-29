@@ -12,3 +12,8 @@ keywords:
     - organizer
     - simple
 license: MIT
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/czytelny/backlog/master/screenshot.png'
+    caption: 'Backlog - simple desktop app for storing lists of items'
+    imageLink: 'https://czytelny.github.io/backlog/'
