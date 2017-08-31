@@ -7,3 +7,8 @@ keywords:
     - 'file manager'
     - developers
     - git
+screenshots:
+  -
+    imageUrl: 'http://jumpfm.org/jumpfm.png'
+    caption: 'JumpFm Screenshot'
+    imageLink: 'http://jumpfm.org/'
