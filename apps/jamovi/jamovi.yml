@@ -1,0 +1,9 @@
+name: jamovi
+description: 'a powerful statistical spreadsheet powered by R'
+website: 'https://www.jamovi.org'
+category: Productivity
+repository: 'https://github.com/jamovi/jamovi'
+keywords:
+    - spreadsheet
+    - statistics
+license: AGPL3
