@@ -9,6 +9,6 @@ keywords:
     - git
 screenshots:
     -
-    imageUrl: 'http://jumpfm.org/jumpfm.png'
-    caption: 'JumpFm Screenshot'
-    imageLink: 'http://jumpfm.org/'
+        imageUrl: 'http://jumpfm.org/jumpfm.png'
+        caption: 'JumpFm Screenshot'
+        imageLink: 'http://jumpfm.org/'
