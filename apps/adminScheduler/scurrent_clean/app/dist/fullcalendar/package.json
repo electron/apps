@@ -1,0 +1,143 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "fullcalendar@^3.4.0",
+        "scope": null,
+        "escapedName": "fullcalendar",
+        "name": "fullcalendar",
+        "rawSpec": "^3.4.0",
+        "spec": ">=3.4.0 <4.0.0",
+        "type": "range"
+      },
+      "/home/daniel/clone/fullcalendar"
+    ]
+  ],
+  "_from": "fullcalendar@>=3.4.0 <4.0.0",
+  "_id": "fullcalendar@3.4.0",
+  "_inCache": true,
+  "_location": "/fullcalendar",
+  "_nodeVersion": "7.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/fullcalendar-3.4.0.tgz_1493308653565_0.020708975847810507"
+  },
+  "_npmUser": {
+    "name": "arshaw",
+    "email": "arshaw@arshaw.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "fullcalendar@^3.4.0",
+    "scope": null,
+    "escapedName": "fullcalendar",
+    "name": "fullcalendar",
+    "rawSpec": "^3.4.0",
+    "spec": ">=3.4.0 <4.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/",
+    "/vue-full-calendar"
+  ],
+  "_resolved": "https://registry.npmjs.org/fullcalendar/-/fullcalendar-3.4.0.tgz",
+  "_shasum": "34dabff2abe5e85f70025c789a5b9dc3ea4c4762",
+  "_shrinkwrap": null,
+  "_spec": "fullcalendar@^3.4.0",
+  "_where": "/home/daniel/clone/fullcalendar",
+  "author": {
+    "name": "Adam Shaw",
+    "email": "arshaw@arshaw.com",
+    "url": "http://arshaw.com/"
+  },
+  "bugs": {
+    "url": "https://fullcalendar.io/wiki/Reporting-Bugs/"
+  },
+  "copyright": "2017 Adam Shaw",
+  "dependencies": {
+    "jquery": "2 - 3",
+    "moment": "^2.9.0"
+  },
+  "description": "Full-sized drag & drop event calendar",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "components-jqueryui": "github:components/jqueryui",
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-file": "^0.3.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-jscs": "^4.0.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-modify": "^0.1.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-template": "^4.0.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-util": "^3.0.7",
+    "gulp-zip": "^3.2.0",
+    "jasmine-core": "2.5.2",
+    "jasmine-fixture": "^2.0.0",
+    "jasmine-jquery": "^2.1.1",
+    "jquery-mockjax": "^2.2.0",
+    "jquery-simulate": "github:jquery/jquery-simulate",
+    "jshint": "^2.9.2",
+    "karma": "^0.13.22",
+    "karma-jasmine": "^1.0.2",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "lodash": "^4.14.1",
+    "moment-timezone": "^0.5.5",
+    "native-promise-only": "^0.8.1",
+    "phantomjs-prebuilt": "^2.1.7",
+    "socket.io": "1.4.5",
+    "yargs": "^4.8.1"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "34dabff2abe5e85f70025c789a5b9dc3ea4c4762",
+    "tarball": "https://registry.npmjs.org/fullcalendar/-/fullcalendar-3.4.0.tgz"
+  },
+  "files": [
+    "dist/*.js",
+    "dist/*.css",
+    "dist/locale/*.js",
+    "README.*",
+    "LICENSE.*",
+    "CHANGELOG.*",
+    "CONTRIBUTING.*"
+  ],
+  "gitHead": "447ab267528a211b253058dfb5d898b7a2296492",
+  "homepage": "https://fullcalendar.io/",
+  "keywords": [
+    "calendar",
+    "event",
+    "full-sized",
+    "jquery-plugin"
+  ],
+  "license": "MIT",
+  "main": "dist/fullcalendar.js",
+  "maintainers": [
+    {
+      "name": "arshaw",
+      "email": "arshaw@arshaw.com"
+    }
+  ],
+  "name": "fullcalendar",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "releaseDate": "2017-04-27",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullcalendar/fullcalendar.git"
+  },
+  "scripts": {
+    "lint": "gulp lint",
+    "test": "gulp test:single"
+  },
+  "title": "FullCalendar",
+  "version": "3.4.0"
+}

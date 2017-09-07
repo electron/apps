@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html id="ht" style="height:100%" >
+    <head>
+        <meta charset="utf-8">
+        <title>vueelectron</title>
+        <link rel="stylesheet" href="bootstrap/dist/css/bootstrap.css" integrity="" crossorigin="anonymous">
+        <link rel="stylesheet" type="text/css" href="theme.css">
+        <% if (htmlWebpackPlugin.options.appModules) { %>
+        <!-- Add `app/node_modules` to global paths so `require` works properly in development -->
+        <script>
+            require('module').globalPaths.push('<%= htmlWebpackPlugin.options.appModules.replace(/\\/g, '\\\\') %>')
+        </script>
+        <% } %>
+        <style>
+            .button:hover{
+                background-color: black;
+                color: black;
+            }
+        </style>
+    </head>
+    <body style="height:100%" >
+        <div id="app" style="height:100%"></div>
+            <script>
+                window.jQuery = window.$ = require('jquery');
+            </script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    </body>
+</html>
+<style>
+  /*background and background2 are the background images for login and signup pages respectively*/
+  .background {
+    background: url('/Adrenal-Fatigue-Doctors.jpeg') no-repeat center center fixed;
+    background-size: cover;
+  }
+  .background2{
+    background:  url('/shutterstock_158366573.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+   #basic-addon1{
+     background-color:white;
+   }
+   .button:hover #loginbtn{
+     color: black;
+   }
+   #activityAndYear{
+     float: left;
+     margin-right: 10px;
+   }
+   #start{
+     float:left;
+     margin-right: 10px;
+   }
+   #end{
+     float: left;
+     margin-right: 10px;
+   }
+  #calendarContainer{
+    margin:0px;
+    padding:0px;
+    margin-bottom: 30px;
+   }
+   #calLogout{
+     position:absolute;
+     top:0;
+     right:0;
+   }
+</style>

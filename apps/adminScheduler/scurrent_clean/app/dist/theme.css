@@ -1,0 +1,251 @@
+
+#signupbtn{
+  background-color: #1D2731;
+  border-color: #1D2731;
+  color: white;
+}
+#gotologin{
+  font-weight: bold;
+  background-color: #1D2731;
+  border-color: #1D2731;
+  color: white;
+  margin-top: 5px;
+  margin-left: 5px;
+  opacity: .8;
+}
+#gotologin:hover{
+  opacity: 1;
+}
+.conflictD{
+  opacity: 1;
+}
+
+dialog{
+  opacity:.7;
+  background-color:#e7fff9;
+}
+#mrowDocRequest{
+  margin-top: 20px;
+}
+
+#mrowDocRequest:hover{
+  background-color: #6790B1;
+  color:black;
+}
+
+#favDialog1{
+  opacity:.7;
+  background-color:#e7fff9;
+
+
+/*border:10px solid orange;
+opacity: .7;
+color: red;
+padding: 1.5em;
+  margin: 1em auto;
+  border: 0;
+  border-top: 5px solid #69c773;*/
+}
+#favDialog1 h3{
+ margin-left:70px;
+}
+
+
+#mrowDoc:hover{
+    background-color: #6790B1;
+    color:white;
+}
+
+
+#divcontainer2 .form-control:focus{
+/*  border-color: #1D2731;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(29, 39, 49, 1);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(29, 39, 49, 1);*/
+          border-color: #337ab7;
+          outline: 0;
+          -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(51, 122, 183, 1);
+                  box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(51, 122, 183, 1);
+
+}
+
+#calendarContainer .form-control:focus{
+  border-color: #337ab7;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(51, 122, 183, 1);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(51, 122, 183, 1);
+}
+#calendarContainer select:focus{
+  border-color: #337ab7;
+  outline: 0;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(51, 122, 183, 1);
+          box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgba(51, 122, 183, 1);
+}
+
+#calendarContainer .form-control{
+  margin-bottom: 5px;
+}
+
+#calSubBtn {
+  margin-top: 25px;
+}
+#caReqBtn{
+  margin-top: 25px;
+}
+#updatesDialog button{
+  margin-top: 10px;
+}
+#updatesDialog h3{
+  text-align: center;
+}
+.docbtns{
+  background-color: #E8E8E8;
+}
+.docbtns:hover{
+  background-color: #B6B6B6;
+  color:white;
+}
+.reqViewBtn{
+  margin-top: 25px;
+  margin-left: 200px;
+}
+.textC{
+  font-weight: bold;
+  color: #337ab7;
+  margin-bottom: 20px;
+  margin-top: 5px;
+  margin-left: 40px;
+
+}
+#colorSelect{
+  margin-top: 5px;
+}
+
+#cancellationsBtn{
+  margin-top: 25px;
+}
+
+
+#divcontainer2{
+  margin-left: auto;
+  width: 30%;
+  margin-right: auto;
+  height: 100%;
+  margin-top: 5%
+}
+
+#container2{
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+/* Popup container - can be anything you want */
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    width: 160px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+/* Toggle this class - hide and show the popup */
+.popup .show {
+    visibility: visible;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
+}
+
+#divcontainer{
+  margin-left: auto;
+  width: 20%;
+  margin-right: auto;
+  height: 100%;
+  margin-top: 10%
+}
+
+#container{
+  width: 100%;
+}
+.btn-primary {
+  color: #C09F80;
+  background-color: #76323F;
+  border-color: #76323F;
+  margin-top: 20px;
+  opacity: .8;
+}
+
+.btn-primary:hover{
+  color: #C09F80;
+  background-color: #76323F;
+  border-color: #76323F;
+  margin-top: 20px;
+    opacity: 1;
+}
+#loginbtn:hover {
+  opacity: 1;
+}
+#signbtn{
+  opacity: .8;
+  font-weight: bold;
+  margin-top: 5px;
+  margin-left: 5px;
+  background-color: #1D2731;
+  border-color: #1D2731;
+  color: white;
+}
+#signbtn:hover{
+  opacity: 1;
+}
+#loginbtn{
+  background-color:  #1D2731;
+  border-color: #1D2731;
+  color: white ;
+  opacity: .8;
+}
