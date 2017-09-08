@@ -1,0 +1,16 @@
+name: TeamSQL
+description: 'Multi-platform SQL Client - Extensible, Simple and Effortless'
+website: 'https://teamsql.io'
+category: 'Developer Tools'
+repository: 'https://github.com/TeamSQL/desktop-app'
+keywords:
+    - database
+    - sql
+    - data
+    - mysql
+    - redshift
+    - 'microsoft sql server'
+    - postgres
+    - redis
+    - client
+    - extensions
