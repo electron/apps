@@ -13,3 +13,8 @@ keywords:
     - downloader
 locales:
   - en-US
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/unhax/ghentai-downloader/master/docs/new-app.png'
+    caption: 'Main App (List Dowbloader)'
+
