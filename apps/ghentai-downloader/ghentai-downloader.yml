@@ -1,0 +1,21 @@
+name: 'Hentai Downloader'
+description: 'manga queue downloader from e-hentai.org'
+website: 'https://github.com/unhax/ghentai-downloader'
+category: Utilities
+repository: 'https://github.com/unhax/ghentai-downloader'
+keywords:
+    - manga
+    - download
+    - g-hentai
+    - gxhentai
+    - hentai
+    - app
+    - web
+    - downloader
+locales:
+  - en-US
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/unhax/ghentai-downloader/master/docs/app-items.png'
+    caption: 'Main App (List Dowbloader)'
+
