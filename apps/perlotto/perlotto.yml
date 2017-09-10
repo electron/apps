@@ -1,10 +1,11 @@
 name: perlotto
-description: 'Minimalistic wrapper around Google Music service'
+description: 'Minimalistic wrapper around Google Music and YouTube music services'
 website: 'https://github.com/can3p/perlotto'
 repository: 'https://github.com/can3p/perlotto'
 keywords:
     - music
     - player
+    - youtube
     - 'google music'
     - 'google play'
 license: MIT
