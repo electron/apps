@@ -16,18 +16,18 @@ locales:
   - de-de
 screenshots:
   -
-    imageUrl: 'http://www.autobeatplayer.com/img/devices.jpg'
+    imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/devices.jpg'
     caption: 'Autobeat Player'
     imageLink: 'http://www.autobeatplayer.com'
   -
-    imageUrl: 'http://www.autobeatplayer.com/img/features/search.png'
+    imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/search.jpg'
     caption: 'Unified Search'
     imageLink: 'http://www.autobeatplayer.com'
   -
-    imageUrl: 'http://www.autobeatplayer.com/img/features/discovery.png'
+    imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/discovery.jpg'
     caption: 'Music Discovery'
     imageLink: 'http://www.autobeatplayer.com'
   -
-    imageUrl: 'http://www.autobeatplayer.com/img/features/video.png'
+    imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/video.jpg'
     caption: 'Video Playback'
     imageLink: 'http://www.autobeatplayer.com'
