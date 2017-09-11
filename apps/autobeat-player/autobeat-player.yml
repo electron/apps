@@ -14,5 +14,22 @@ locales:
   - es-es
   - ru
   - de-de
+screenshots:
+  -
+    imageUrl: 'http://www.autobeatplayer.com/img/devices.jpg'
+    caption: 'Autobeat Player'
+    imageLink: 'http://www.autobeatplayer.com'
+  -
+    imageUrl: 'http://www.autobeatplayer.com/img/features/search.png'
+    caption: 'Unified Search'
+    imageLink: 'http://www.autobeatplayer.com'
+  -
+    imageUrl: 'http://www.autobeatplayer.com/img/features/discovery.png'
+    caption: 'Music Discovery'
+    imageLink: 'http://www.autobeatplayer.com'
+  -
+    imageUrl: 'http://www.autobeatplayer.com/img/features/video.png'
+    caption: 'Video Playback'
+    imageLink: 'http://www.autobeatplayer.com'
 
 
