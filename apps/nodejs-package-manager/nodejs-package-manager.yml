@@ -1,0 +1,12 @@
+name: 'NodeJs Package Manager'
+description: 'NodeJs Package Manager is organizer of your npm&bower packages'
+website: 'https://github.com/gurayyarar/NodeJsPackageManager'
+category: 'Developer Tools'
+repository: 'https://github.com/gurayyarar/NodeJsPackageManager'
+keywords:
+    - npm
+    - bower
+    - nodejs
+    - nodejs package
+    - package manager
+license: MIT
