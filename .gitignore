@@ -1,8 +1,9 @@
-yarn.lock
-index.json
-node_modules
-*-32.png
-*-64.png
-*-128.png
 .DS_Store
 .env
+.npmrc
+*-128.png
+*-32.png
+*-64.png
+index.json
+node_modules
+yarn.lock

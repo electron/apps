@@ -4,6 +4,7 @@ const it = mocha.it
 const fs = require('fs')
 const path = require('path')
 const apps = require('..')
+const categories = require('../categories')
 const expect = require('chai').expect
 
 describe('machine-generated app data (exported by the module)', () => {
@@ -54,5 +55,19 @@ describe('machine-generated app data (exported by the module)', () => {
     // expect(app).to.be.an('object')
     // expect(app.releases.length).to.be.above(12)
     // expect(app.releases[5].assets.length).to.be.above(4)
+  })
+})
+
+describe('machine-generated category data (exported by the module)', () => {
+  it('is an array', () => {
+    expect(categories).to.be.an('array')
+  })
+
+  it('sets a `slug` string on every category', () => {
+    expect(categories.every(category => category.slug.length > 0)).to.equal(true)
+  })
+
+  it('sets a `count` number on every category', () => {
+    expect(categories.every(category => category.count > 0)).to.equal(true)
   })
 })
