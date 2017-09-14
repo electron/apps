@@ -1,6 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 const github = require('../lib/github')
+const cheerio = require('cheerio')
 const parseGitUrl = require('github-url-to-object')
 const Duration = require('duration')
 const downloadExtensions = [
@@ -87,8 +88,25 @@ function go () {
       latestRelease: false
     }
     return github.repos.getReadme(gitHubOptions)
-  }).then((readme) => {
-    output[app.slug].readme = readme.data
+  }).then((response) => {
+    let readme = response.data
+    let $ = cheerio.load(readme)
+    let imagesChanged = false
+    
+    $('img').each(function (i, img) {
+      let currentImg = $(img)
+      let imageSrc = currentImg.attr('src')
+      if (imageSrc && imageSrc.indexOf('http') === -1) {
+        currentImg.attr('src', `${app.repository}/raw/master/${imageSrc}`)
+        imagesChanged = true
+      }
+    })
+    if (imagesChanged) {
+      console.log(`Updating relative image URLs in readme for ${app.name}`)
+      readme = $('body').html()
+    }
+
+    output[app.slug].readme = readme
     go()
   })
 }
