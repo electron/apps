@@ -92,7 +92,7 @@ function go () {
     let readme = response.data
     let $ = cheerio.load(readme)
     let imagesChanged = false
-    
+
     $('img').each(function (i, img) {
       let currentImg = $(img)
       let imageSrc = currentImg.attr('src')
