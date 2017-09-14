@@ -32,6 +32,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "check-for-leaks": "^1.0.2",
+    "cheerio": "^1.0.0-rc.2",
     "clean-deep": "^2.0.1",
     "count-array-values": "^1.2.1",
     "dotenv-safe": "^4.0.4",
