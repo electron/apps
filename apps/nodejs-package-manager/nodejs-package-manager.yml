@@ -1,5 +1,5 @@
 name: 'NodeJs Package Manager'
-description: 'An organizer of your npm&bower packages'
+description: 'An organizer of your npm & bower packages'
 website: 'https://github.com/gurayyarar/NodeJsPackageManager'
 category: 'Developer Tools'
 repository: 'https://github.com/gurayyarar/NodeJsPackageManager'
@@ -9,4 +9,20 @@ keywords:
     - nodejs
     - nodejs package
     - package manager
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/documentation/readme-main.gif'
+    caption: 'Overview'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/dark-theme.png'
+    caption: 'Dark Theme'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/light-theme.png'
+    caption: 'Light Theme'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/npm-init.png'
+    caption: 'npm init'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/bower-init.png'
+    caption: 'bower init'
 license: MIT
