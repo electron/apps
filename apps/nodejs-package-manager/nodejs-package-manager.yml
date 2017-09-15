@@ -12,7 +12,7 @@ keywords:
 screenshots:
   -
     imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/documentation/readme-main.gif'
-    caption: 'Overview',
+    caption: 'Overview'
     imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
   -
     imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/dark-theme.png'
