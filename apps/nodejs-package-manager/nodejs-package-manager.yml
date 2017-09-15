@@ -12,17 +12,22 @@ keywords:
 screenshots:
   -
     imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/documentation/readme-main.gif'
-    caption: 'Overview'
+    caption: 'Overview',
+    imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
   -
     imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/dark-theme.png'
     caption: 'Dark Theme'
+    imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
   -
     imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/light-theme.png'
     caption: 'Light Theme'
+    imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
   -
     imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/npm-init.png'
     caption: 'npm init'
+    imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
   -
     imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/bower-init.png'
     caption: 'bower init'
+    imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
 license: MIT
