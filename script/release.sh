@@ -11,7 +11,7 @@ npm install --quiet
 npm run build
 npm run test-all
 [[ `git status --porcelain` ]] || exit 0
-git config user.email "kevin+electronbot@github.com" 
+git config user.email "electron@github.com" 
 git config user.name "Electron Bot" 
 git add .
 git commit -am "update apps" --author "Electron Bot <electron@github.com>"
