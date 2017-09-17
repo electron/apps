@@ -56,6 +56,26 @@ describe('machine-generated app data (exported by the module)', () => {
     // expect(app.releases.length).to.be.above(12)
     // expect(app.releases[5].assets.length).to.be.above(4)
   })
+
+  it('adds readme data to apps with GitHub releases', () => {
+    const readmeApps = apps.filter(app => app.readme)
+    expect(readmeApps.length).to.be.above(10)
+
+    // make sure every app retains its original unmodified readme
+    expect(readmeApps.every(app => app.originalReadme.length > 0)).to.eq(true)
+  })
+
+  it('rewrites relative image source tags', () => {
+    const beaker = apps.find(app => app.slug === 'beaker-browser')
+    const local = '<img src="build/icons/256x256.png"'
+    const remote = '<img src="https://github.com/beakerbrowser/beaker/raw/master/build/icons/256x256.png"'
+
+    expect(beaker.originalReadme).to.include(local)
+    expect(beaker.originalReadme).to.not.include(remote)
+
+    expect(beaker.readme).to.not.include(local)
+    expect(beaker.readme).to.include(remote)
+  })
 })
 
 describe('machine-generated category data (exported by the module)', () => {

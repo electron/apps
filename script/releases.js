@@ -91,22 +91,17 @@ function go () {
   }).then((response) => {
     let readme = response.data
     let $ = cheerio.load(readme)
-    let imagesChanged = false
 
-    $('img').each(function (i, img) {
-      let currentImg = $(img)
-      let imageSrc = currentImg.attr('src')
-      if (imageSrc && imageSrc.indexOf('http') === -1) {
-        currentImg.attr('src', `${app.repository}/raw/master/${imageSrc}`)
-        imagesChanged = true
-      }
-    })
-    if (imagesChanged) {
-      console.log(`Updating relative image URLs in readme for ${app.name}`)
-      readme = $('body').html()
+    const $relativeImages = $('img').not('[src^="http"]')
+    if ($relativeImages.length) {
+      console.log(`Updating relative image URLs in ${app.name}`)
+      $relativeImages.each((i, img) => {
+        $(img).attr('src', `${app.repository}/raw/master/${$(img).attr('src')}`)
+      })
     }
 
-    output[app.slug].readme = readme
+    output[app.slug].originalReadme = readme
+    output[app.slug].readme = $('body').html()
     go()
   })
 }
