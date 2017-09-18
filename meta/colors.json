@@ -1560,6 +1560,13 @@
     "#c6996d",
     "#fcb45c"
   ],
+  "nodejs-package-manager": [
+    "#67952a",
+    "#fbfbfb",
+    "#9c9c94",
+    "#bce484",
+    "#a4a4a4"
+  ],
   "notr": [
     "#e7e215",
     "#ebebeb",
