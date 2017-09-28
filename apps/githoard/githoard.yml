@@ -10,3 +10,7 @@ keywords:
     - tool
     - productivity
 license: MIT
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/jojobyte/githoard/master/screens/demo.gif'
+        caption: 'GitHoard Demo'
