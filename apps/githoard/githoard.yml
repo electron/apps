@@ -1,0 +1,16 @@
+name: GitHoard
+description: 'Hoard git repositories with ease'
+website: 'https://github.com/jojobyte/githoard'
+repository: 'https://github.com/jojobyte/githoard'
+category: Productivity
+keywords:
+    - git
+    - code
+    - developer
+    - tool
+    - productivity
+license: MIT
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/jojobyte/githoard/master/screens/demo.gif'
+        caption: 'GitHoard Demo'
