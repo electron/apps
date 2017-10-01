@@ -1581,6 +1581,13 @@
     "#c6996d",
     "#fcb45c"
   ],
+  "node-red": [
+    "#fbfbfb",
+    "#8c0404",
+    "#b55757",
+    "#c47c7c",
+    "#ac3c3c"
+  ],
   "nodejs-package-manager": [
     "#67952a",
     "#fbfbfb",

@@ -407,5 +407,6 @@
   "nodejs-package-manager": "2017-09-18",
   "githoard": "2017-09-29",
   "mockoon": "2017-09-29",
-  "fotojet": "2017-09-30"
+  "fotojet": "2017-09-30",
+  "node-red": "2017-10-01"
 }
