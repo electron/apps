@@ -1,0 +1,16 @@
+name: Mist Ethereum
+description: 'Mist. Browse and use Ðapps on the Ethereum network.'
+website: 'https://ethereum.org/'
+repository: 'https://github.com/ethereum/mist.git'
+keywords:
+    - ethereum
+    - cryptocurrency
+    - ether
+    - browser
+    - meteor
+    - web3
+    - geth
+    - electron
+    - blockchain
+license: GPL-3.0
+category: Utilities
