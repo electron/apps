@@ -1,7 +1,7 @@
 name: Tusk
 description: 'Refined Evernote desktop app'
-website: 'https://champloohq.github.io/tusk/'
-repository: 'https://github.com/champloohq/tusk'
+website: 'https://klauscfhq.github.io/tusk'
+repository: 'https://github.com/klauscfhq/tusk'
 keywords:
     - note
     - productivity
@@ -11,4 +11,14 @@ license: MIT
 category: 'Productivity'
 screenshots:
     -
-        imageUrl: 'https://cdn.rawgit.com/champloohq/tusk/c0475c42/media/black-theme.png'
+        imageUrl: 'https://cdn.rawgit.com/klauscfhq/tusk/33f2eae5/media/dark-theme.png'
+        caption: 'Dark theme'
+        imageLink: 'https://klauscfhq.github.io/tusk'
+    -
+        imageUrl: 'https://cdn.rawgit.com/klauscfhq/tusk/33f2eae5/media/vibrant-theme.png'
+        caption: 'Vibrant theme'
+        imageLink: 'https://klauscfhq.github.io/tusk'
+    -
+        imageUrl: 'https://cdn.rawgit.com/klauscfhq/tusk/33f2eae5/media/black-theme.png'
+        caption: 'Black theme'
+        imageLink: 'https://klauscfhq.github.io/tusk'
