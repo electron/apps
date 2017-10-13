@@ -1,0 +1,17 @@
+name: Translatium
+description: 'Translate like a Pro'
+website: 'https://translatiumapp.com'
+repository: 'https://github.com/translatium/translatium'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/translatium/translatium-landing/master/public/images/screenshot_1.png'
+        caption: 'Translatium on macOS'
+keywords:
+    - translator
+    - 'google translate'
+    - 'voice recognition'
+    - 'handwriting recognition'
+    - tts
+    - ocr
+    - 'material design'
+category: Productivity
