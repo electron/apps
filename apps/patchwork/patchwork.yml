@@ -16,3 +16,7 @@ keywords:
     - subjectivity
     - offline
 license: AGPL-3.0
+screenshots:
+  -
+    imageUrl: 'https://github.com/ssbc/patchwork/raw/master/screenshot.jpg'
+    caption: 'Public Channels View'
