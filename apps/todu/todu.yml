@@ -1,0 +1,9 @@
+name: TODU
+description: 'An awesome, hackable to-do list.'
+website: 'https://github.com/CyanSalt/todu'
+category: Productivity
+repository: 'https://github.com/CyanSalt/todu'
+keywords:
+    - to-do
+    - productivity
+license: MIT
