@@ -4,3 +4,4 @@ website: 'https://www.nylas.com/nylas-mail/'
 keywords:
     - email
 category: Productivity
+disabled: true # nylas sunset; replaced by Mailspring
