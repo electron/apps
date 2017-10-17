@@ -2089,6 +2089,17 @@
     "goodColorOnWhite": "#0E353B",
     "goodColorOnBlack": "#22A0B8"
   },
+  "mailspring": {
+    "palette": [
+      "#55dae0",
+      "#f6f9f9",
+      "#92e2e8",
+      "#41a4b2",
+      "#169faf"
+    ],
+    "goodColorOnWhite": "#12828F",
+    "goodColorOnBlack": "#169FAF"
+  },
   "makeappicon-desktop": {
     "palette": [
       "#276f98",
