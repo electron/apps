@@ -4,3 +4,4 @@ website: 'https://www.nylas.com'
 keywords:
     - email
 category: Productivity
+disabled: true # nylas shut down; replaced by Mailspring
