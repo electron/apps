@@ -21,10 +21,13 @@ fs.readdirSync(path.join(__dirname, '../apps'))
       icon64: `${slug}-icon-64.png`,
       icon128: `${slug}-icon-128.png`,
       date: dates[slug],
-      iconColors: colors[slug]
+      iconColors: colors[slug].palette
     },
     releases[slug]
   )
+
+  app.goodColorOnWhite = app.goodColorOnWhite || colors[slug].goodColorOnWhite
+  app.goodColorOnBlack = app.goodColorOnBlack || colors[slug].goodColorOnBlack
 
   if (!app.latestRelease) app.latestRelease = false
 

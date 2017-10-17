@@ -96,6 +96,12 @@ YML file rules:
   * `caption` - an optional caption to display with the screenshot.
   * `imageLink` - an optional link URL to indicate the link that should be directed to when someone clicks on an image.  If this field is not specified, clicking on a screenshot will go to the application website.
 - `youtube_video_url` is optional, but must be a fully-qualified URL if provided.
+- `goodColorOnWhite` is an optional hex string. If unspecified, an 
+  [accessible color](https://github.com/zeke/make-color-accessible) will be
+  picked or derived from the provided icon file.
+- `goodColorOnBlack` is an optional hex string. If unspecified, an 
+[accessible color](https://github.com/zeke/make-color-accessible) will be
+picked or derived from the provided icon file.
 - No fields should be left blank.
 
 Icon file rules:

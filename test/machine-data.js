@@ -4,6 +4,7 @@ const it = mocha.it
 const fs = require('fs')
 const path = require('path')
 const apps = require('..')
+const isHexColor = require('is-hexcolor')
 const categories = require('../categories')
 const expect = require('chai').expect
 
@@ -43,6 +44,24 @@ describe('machine-generated app data (exported by the module)', () => {
       expect(app.iconColors).to.be.an('array', app.slug)
       expect(app.iconColors.length).to.be.above(2, app.slug)
     })
+  })
+
+  it('sets a `colors.goodColorOnWhite` hex value on every app', () => {
+    apps.forEach(app => {
+      expect(isHexColor(app.goodColorOnWhite)).to.eq(true)
+    })
+  })
+
+  it('sets a `colors.goodColorOnBlack` hex value on every app', () => {
+    apps.forEach(app => {
+      expect(isHexColor(app.goodColorOnBlack)).to.eq(true)
+    })
+  })
+
+  it('does not override good colors if they already exist', () => {
+    const hyper = apps.find(app => app.slug === 'hyper')
+    expect(hyper.goodColorOnWhite).to.eq('#000')
+    expect(hyper.goodColorOnBlack).to.eq('#FFF')
   })
 
   it('sets a `releases` array on every app', function () {
