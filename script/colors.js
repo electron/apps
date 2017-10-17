@@ -1,6 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 const getImageColors = require('get-image-colors')
+const pickAGoodColor = require('pick-a-good-color')
 const apps = require('../lib/raw-app-list')()
 const colors = {}
 
@@ -16,7 +17,12 @@ Promise.all(
   .filter(app => fs.existsSync(app.iconPath))
   .map(app => {
     return getImageColors(app.iconPath).then(iconColors => {
-      colors[app.slug] = iconColors.map(color => color.hex())
+      const palette = iconColors.map(color => color.hex())
+      colors[app.slug] = {
+        palette: palette,
+        goodColorOnWhite: pickAGoodColor(palette),
+        goodColorOnBlack: pickAGoodColor(palette, {background: 'black'})
+      }
       return Promise.resolve(true)
     })
     .catch(error => {
