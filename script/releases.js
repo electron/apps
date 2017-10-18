@@ -9,6 +9,7 @@ const downloadExtensions = [
   '.dmg',
   '.exe',
   '.gz',
+  '.rpm',
   '.zip'
 ]
 const apps = require('../lib/raw-app-list')()
