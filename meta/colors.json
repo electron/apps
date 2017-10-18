@@ -3915,6 +3915,17 @@
     "goodColorOnWhite": "#2C2C34",
     "goodColorOnBlack": "#63DBA3"
   },
+  "todu": {
+    "palette": [
+      "#fbfbfb",
+      "#62d6bc",
+      "#b5b5b5",
+      "#c4c4c4",
+      "#999999"
+    ],
+    "goodColorOnWhite": "#22836D",
+    "goodColorOnBlack": "#62D6BC"
+  },
   "tofino": {
     "palette": [
       "#5b94d4",
