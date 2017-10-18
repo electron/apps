@@ -10,7 +10,7 @@
     "build:dates": "node script/dates",
     "build:colors": "node script/colors",
     "build:categories": "node script/categories",
-    "xbuild:releases": "node script/releases",
+    "build:releases": "node script/releases",
     "build:pack": "node script/pack",
     "prepack": "check-for-leaks",
     "prepush": "check-for-leaks",
