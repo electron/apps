@@ -4,6 +4,7 @@ const yaml = require('yamljs')
 const dates = require('../meta/dates.json')
 const colors = require('../meta/colors.json')
 const releases = require('../meta/releases.json')
+const readmes = require('../meta/readmes.json')
 const apps = []
 
 fs.readdirSync(path.join(__dirname, '../apps'))
@@ -23,13 +24,12 @@ fs.readdirSync(path.join(__dirname, '../apps'))
       date: dates[slug],
       iconColors: colors[slug].palette
     },
-    releases[slug]
+    releases[slug],
+    readmes[slug]
   )
 
   app.goodColorOnWhite = app.goodColorOnWhite || colors[slug].goodColorOnWhite
   app.goodColorOnBlack = app.goodColorOnBlack || colors[slug].goodColorOnBlack
-
-  if (!app.latestRelease) app.latestRelease = false
 
   apps.push(app)
 })

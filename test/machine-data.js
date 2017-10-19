@@ -64,24 +64,40 @@ describe('machine-generated app data (exported by the module)', () => {
     expect(hyper.goodColorOnBlack).to.eq('#FFF')
   })
 
-  it('sets a `releases` array on every app', function () {
-    return this.skip()
-    // apps.forEach(app => {
-    //   expect(app.releases).to.be.an('array', app.slug)
-    // })
+  describe('releases', () => {
+    const releaseApps = apps.filter(app => app.latestRelease)
 
-    // const app = apps.find(app => app.slug === 'hyper')
-    // expect(app).to.be.an('object')
-    // expect(app.releases.length).to.be.above(12)
-    // expect(app.releases[5].assets.length).to.be.above(4)
+    it('collects latest GitHub release data for apps that have it', () => {
+      expect(releaseApps.length).to.be.above(50)
+    })
+
+    it('sets `latestRelease` on apps with GitHub repos that use Releases', () => {
+      expect(releaseApps.every(app => app.latestRelease)).to.eq(true)
+    })
+
+    it('sets `latestReleaseFetchedAt`', () => {
+      expect(releaseApps.every(app => app.latestReleaseFetchedAt)).to.eq(true)
+    })
   })
 
-  it('adds readme data to apps with GitHub releases', () => {
-    const readmeApps = apps.filter(app => app.readme)
-    expect(readmeApps.length).to.be.above(10)
+  describe('readmes', () => {
+    const readmeApps = apps.filter(app => app.readmeCleaned)
 
-    // make sure every app retains its original unmodified readme
-    expect(readmeApps.every(app => app.originalReadme.length > 0)).to.eq(true)
+    it('collects READMEs for apps with GitHub repos', () => {
+      expect(readmeApps.length).to.be.above(50)
+    })
+
+    it('sets `readmeCleaned`', () => {
+      expect(readmeApps.every(app => app.readmeCleaned.length > 0)).to.eq(true)
+    })
+
+    it('sets `readmeOriginal`', () => {
+      expect(readmeApps.every(app => app.readmeOriginal.length > 0)).to.eq(true)
+    })
+
+    it('sets `readmeFetchedAt`', () => {
+      expect(readmeApps.every(app => app.readmeFetchedAt.length > 0)).to.eq(true)
+    })
   })
 
   it('rewrites relative image source tags', () => {
@@ -89,11 +105,11 @@ describe('machine-generated app data (exported by the module)', () => {
     const local = '<img src="build/icons/256x256.png"'
     const remote = '<img src="https://github.com/beakerbrowser/beaker/raw/master/build/icons/256x256.png"'
 
-    expect(beaker.originalReadme).to.include(local)
-    expect(beaker.originalReadme).to.not.include(remote)
+    expect(beaker.readmeOriginal).to.include(local)
+    expect(beaker.readmeOriginal).to.not.include(remote)
 
-    expect(beaker.readme).to.not.include(local)
-    expect(beaker.readme).to.include(remote)
+    expect(beaker.readmeCleaned).to.not.include(local)
+    expect(beaker.readmeCleaned).to.include(remote)
   })
 })
 
