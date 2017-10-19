@@ -5,11 +5,11 @@ category: 'Social Networking'
 repository: 'https://github.com/bridgedotnet/Widgetoko'
 keywords:
     - c#
-	- dotnet
-	- tweet
-	- twitter
-	- bridge
-	- retyped
+    - dotnet
+    - tweet
+    - twitter
+    - bridge
+    - retyped
 screenshots:
     -
         imageUrl: 'https://user-images.githubusercontent.com/62210/31524623-2c2e3906-af78-11e7-9e00-4df7227fa219.png'
