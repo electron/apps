@@ -3299,6 +3299,17 @@
     "goodColorOnWhite": "#045A81",
     "goodColorOnBlack": "#74A4BC"
   },
+  "serina": {
+    "palette": [
+      "#8cba58",
+      "#f4f4f4",
+      "#6c6c6c",
+      "#bcbcbc",
+      "#b4b4b4"
+    ],
+    "goodColorOnWhite": "#6C6C6C",
+    "goodColorOnBlack": "#8CBA58"
+  },
   "shapespark": {
     "palette": [
       "#04b0ec",
@@ -4321,6 +4332,17 @@
     ],
     "goodColorOnWhite": "#046FB5",
     "goodColorOnBlack": "#6FC9F0"
+  },
+  "widgetoko": {
+    "palette": [
+      "#0575c9",
+      "#fafbfb",
+      "#65a8d9",
+      "#8cacd4",
+      "#84c4ec"
+    ],
+    "goodColorOnWhite": "#0575C9",
+    "goodColorOnBlack": "#84C4EC"
   },
   "wire": {
     "palette": [
