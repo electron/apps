@@ -49,6 +49,7 @@
     "inquirer": "^2.0.0",
     "is-hexcolor": "^1.0.0",
     "is-url": "^1.2.2",
+    "make-color-accessible": "^1.2.0",
     "mkdirp": "^0.5.1",
     "mocha": "^3.2.0",
     "npm-run-all": "^4.0.1",
