@@ -483,6 +483,17 @@
     "goodColorOnWhite": "#15263A",
     "goodColorOnBlack": "#F9CB24"
   },
+  "cemui": {
+    "palette": [
+      "#a6a6a6",
+      "#04accc",
+      "#e6e6e6",
+      "#bbd7dd",
+      "#62c9dc"
+    ],
+    "goodColorOnWhite": "#037D95",
+    "goodColorOnBlack": "#04ACCC"
+  },
   "cerebro": {
     "palette": [
       "#f8f7f9",
@@ -779,6 +790,17 @@
     ],
     "goodColorOnWhite": "#3A3A3A",
     "goodColorOnBlack": "#9A9C9A"
+  },
+  "dat": {
+    "palette": [
+      "#189528",
+      "#f7f8f7",
+      "#8cca94",
+      "#7ab880",
+      "#82c48a"
+    ],
+    "goodColorOnWhite": "#168624",
+    "goodColorOnBlack": "#189528"
   },
   "data-pixels-playground": {
     "palette": [
@@ -1528,6 +1550,17 @@
     "goodColorOnWhite": "#1474C4",
     "goodColorOnBlack": "#1494E4"
   },
+  "graphiql": {
+    "palette": [
+      "#e434ac",
+      "#f3a9da",
+      "#ec68c0",
+      "#ec54bc",
+      "#dc0494"
+    ],
+    "goodColorOnWhite": "#DC0494",
+    "goodColorOnBlack": "#EC54BC"
+  },
   "gravit-designer": {
     "palette": [
       "#a34b5e",
@@ -1703,6 +1736,17 @@
     ],
     "goodColorOnWhite": "#3D2F37",
     "goodColorOnBlack": "#8DF7FA"
+  },
+  "iease-music": {
+    "palette": [
+      "#f7740c",
+      "#fbefdb",
+      "#fbcc0c",
+      "#f3ac0a",
+      "#e8995e"
+    ],
+    "goodColorOnWhite": "#8C7102",
+    "goodColorOnBlack": "#FBCC0C"
   },
   "illyriad": {
     "palette": [
@@ -4267,6 +4311,17 @@
     "goodColorOnWhite": "#037DAC",
     "goodColorOnBlack": "#04ABEB"
   },
+  "webcatalog": {
+    "palette": [
+      "#176ec9",
+      "#eaeaeb",
+      "#38568c",
+      "#81bfee",
+      "#949494"
+    ],
+    "goodColorOnWhite": "#176EC9",
+    "goodColorOnBlack": "#81BFEE"
+  },
   "webtorrent": {
     "palette": [
       "#303840",
@@ -4291,14 +4346,14 @@
   },
   "wewe-chat": {
     "palette": [
-      "#df9082",
-      "#312a2c",
-      "#cd3d41",
-      "#f5f7f7",
-      "#d45a41"
+      "#eaf4f9",
+      "#1ba374",
+      "#86ccbe",
+      "#5ec4a4",
+      "#7cbcb4"
     ],
-    "goodColorOnWhite": "#CD3D41",
-    "goodColorOnBlack": "#D45A41"
+    "goodColorOnWhite": "#16825C",
+    "goodColorOnBlack": "#1BA374"
   },
   "whale": {
     "palette": [
