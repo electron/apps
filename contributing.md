@@ -53,6 +53,7 @@ apps
 - `repository` is optional, but must be a fully-qualified URL if provided.
 - `keywords` is optional, but should be an array if provided.
 - `license` is optional.
+- `homebrewCaskName` can be specified if you app is on [homebrew cask](https://caskroom.github.io).
 - `youtube_video_url` is optional, but must be a fully-qualified URL if provided.
 - No fields should be left blank.
 
