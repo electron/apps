@@ -1,6 +1,7 @@
 name: WebTorrent
 description: 'The streaming torrent client'
 website: 'https://webtorrent.io/desktop'
+homebrewCaskName: webtorrent
 keywords:
     - torrent
 category: Utilities

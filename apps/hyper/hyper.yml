@@ -2,6 +2,7 @@ name: Hyper
 description: 'HTML/JS/CSS Terminal'
 website: 'https://hyper.is'
 repository: 'https://github.com/zeit/hyper'
+homebrewCaskName: hyper
 keywords:
     - terminal
     - html
