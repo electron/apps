@@ -3,6 +3,7 @@ description: 'Peer to peer data sharing app built for humans'
 website: 'https://datproject.org'
 category: 'Developer Tools'
 repository: 'https://github.com/datproject/dat-desktop'
+homebrewCaskName: dat
 keywords:
     - p2p
     - filesharing
