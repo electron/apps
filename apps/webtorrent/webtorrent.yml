@@ -4,4 +4,14 @@ website: 'https://webtorrent.io/desktop'
 homebrewCaskName: webtorrent
 keywords:
     - torrent
+    - sharing
+    - data
+    - hosting
+    - p2p
+    - decentralized
+    - streaming
+    - video
 category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://webtorrent.io/img/screenshot-player.png'
