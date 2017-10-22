@@ -1561,6 +1561,17 @@
     "goodColorOnWhite": "#DC0494",
     "goodColorOnBlack": "#EC54BC"
   },
+  "graphql-playground": {
+    "palette": [
+      "#df0483",
+      "#fbf6f9",
+      "#ea64b0",
+      "#ec74bc",
+      "#e43c9c"
+    ],
+    "goodColorOnWhite": "#DF0483",
+    "goodColorOnBlack": "#EA64B0"
+  },
   "gravit-designer": {
     "palette": [
       "#a34b5e",
@@ -3782,6 +3793,17 @@
     ],
     "goodColorOnWhite": "#686778",
     "goodColorOnBlack": "#F29829"
+  },
+  "tasksq": {
+    "palette": [
+      "#fbfbfb",
+      "#f49621",
+      "#31b0e4",
+      "#a5dbf3",
+      "#fcd4a4"
+    ],
+    "goodColorOnWhite": "#A05A05",
+    "goodColorOnBlack": "#FCD4A4"
   },
   "tea-ebook": {
     "palette": [
