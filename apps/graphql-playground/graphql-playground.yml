@@ -4,7 +4,13 @@ website: 'https://github.com/graphcool/graphql-playground'
 category: 'Developer Tools'
 repository: 'https://github.com/graphcool/graphql-playground'
 keywords:
-    - 'GraphQL database IDE editor query developer API data'
+    - GraphQL
+    - data
+    - database
+    - IDE
+    - editor
+    - developer
+    - API
 license: MIT
 screenshots:
     -
