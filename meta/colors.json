@@ -1242,6 +1242,17 @@
     "goodColorOnWhite": "#747579",
     "goodColorOnBlack": "#FB9A09"
   },
+  "fontbase": {
+    "palette": [
+      "#34045c",
+      "#38045c",
+      "#38045c",
+      "#38045c",
+      "#38045c"
+    ],
+    "goodColorOnWhite": "#34045C",
+    "goodColorOnBlack": "#A33EF7"
+  },
   "forestpin-analytics": {
     "palette": [
       "#c6c6c6",
