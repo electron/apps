@@ -3893,6 +3893,17 @@
     "goodColorOnWhite": "#AC641C",
     "goodColorOnBlack": "#F3A420"
   },
+  "themebuilder": {
+    "palette": [
+      "#f4bb69",
+      "#b15870",
+      "#e4816a",
+      "#5d83a3",
+      "#d3cc94"
+    ],
+    "goodColorOnWhite": "#B15870",
+    "goodColorOnBlack": "#F4BB69"
+  },
   "themer": {
     "palette": [
       "#faf9f9",
