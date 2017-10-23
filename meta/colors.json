@@ -1308,17 +1308,6 @@
     "goodColorOnWhite": "#042C34",
     "goodColorOnBlack": "#6E868C"
   },
-  "front-end-box": {
-    "palette": [
-      "#d83a34",
-      "#40566a",
-      "#e6e3d7",
-      "#a86ab2",
-      "#f8824d"
-    ],
-    "goodColorOnWhite": "#D83A34",
-    "goodColorOnBlack": "#F8824D"
-  },
   "fudget": {
     "palette": [
       "#fc791d",
