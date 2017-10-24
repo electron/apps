@@ -2782,6 +2782,17 @@
     "goodColorOnWhite": "#1177CB",
     "goodColorOnBlack": "#1385E4"
   },
+  "particl": {
+    "palette": [
+      "#04ecb4",
+      "#04ecbc",
+      "#08ecb4",
+      "#08ecb4",
+      "#08ecb4"
+    ],
+    "goodColorOnWhite": "#027E60",
+    "goodColorOnBlack": "#04ECB4"
+  },
   "particle-dev": {
     "palette": [
       "#55b1e3",
