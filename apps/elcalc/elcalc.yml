@@ -1,0 +1,11 @@
+name: elcalc
+description: 'Simple, Cross-Platform Calculator Made with Electron'
+website: 'https://github.com/xxczaki/elcalc'
+category: Finance
+repository: 'https://github.com/xxczaki/elcalc'
+keywords:
+    - calculator
+    - electron
+    - calculate
+    - beautiful
+license: MIT
