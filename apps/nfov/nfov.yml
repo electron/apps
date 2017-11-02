@@ -1,0 +1,16 @@
+name: nfov
+description: 'Simple ASCII art viewer'
+website: 'https://github.com/nrlquaker/nfov'
+category: Utilities
+repository: 'https://github.com/nrlquaker/nfov'
+keywords:
+    - macos
+    - nfo
+    - diz
+    - ascii-art
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/nrlquaker/nfov/master/screenshots/crude.nfo.png'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/nrlquaker/nfov/master/screenshots/flt-1000.nfo.png'
