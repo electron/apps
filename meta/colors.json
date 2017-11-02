@@ -199,14 +199,14 @@
   },
   "atom": {
     "palette": [
-      "#645c5c",
-      "#685c5c",
-      "#685c5c",
-      "#685c5c",
-      "#685c5c"
+      "#4cb97f",
+      "#e4eae8",
+      "#a0d792",
+      "#b9d6c8",
+      "#616161"
     ],
-    "goodColorOnWhite": "#685C5C",
-    "goodColorOnBlack": "#897979"
+    "goodColorOnWhite": "#616161",
+    "goodColorOnBlack": "#A0D792"
   },
   "auryo": {
     "palette": [
@@ -2572,6 +2572,17 @@
     ],
     "goodColorOnWhite": "#297C76",
     "goodColorOnBlack": "#65CCC4"
+  },
+  "nfov": {
+    "palette": [
+      "#fafafa",
+      "#171717",
+      "#747473",
+      "#7c7c7c",
+      "#84847c"
+    ],
+    "goodColorOnWhite": "#171717",
+    "goodColorOnBlack": "#84847C"
   },
   "nimble": {
     "palette": [
