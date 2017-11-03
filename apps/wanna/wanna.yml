@@ -1,12 +1,12 @@
 name: Wanna
 description: 'Implementation of a 21st century to-do list app.'
-website: 'https://mkermani144.github.io/wanna/'
+website: 'https://wanna.js.org'
 repository: 'https://github.com/mkermani144/wanna'
 keywords:
-    - 'to-do list'
+    - to-do
     - productivity
 license: MIT
 category: Productivity
 screenshots:
     -
-        imageUrl: 'https://github.com/mkermani144/wanna/raw/master/current.gif'
+        imageUrl: 'https://raw.githubusercontent.com/mkermani144/wanna/master/screenshots/s1.png'
