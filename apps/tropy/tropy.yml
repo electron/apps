@@ -5,9 +5,9 @@ category: 'Photo & Video'
 repository: 'https://github.com/tropy/tropy/'
 keywords:
     - photo
+    - images
     - research
     - metadata
-    - electron
     - node-js
     - sqlite3
     - javascript
