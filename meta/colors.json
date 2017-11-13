@@ -1033,6 +1033,17 @@
     "goodColorOnWhite": "#04649C",
     "goodColorOnBlack": "#04A3F3"
   },
+  "elcalc": {
+    "palette": [
+      "#90a0a0",
+      "#304558",
+      "#ebf3f3",
+      "#e34c3c",
+      "#c47d7c"
+    ],
+    "goodColorOnWhite": "#304558",
+    "goodColorOnBlack": "#E34C3C"
+  },
   "electorrent": {
     "palette": [
       "#70c349",
@@ -1726,6 +1737,17 @@
     "goodColorOnWhite": "#2D3FA4",
     "goodColorOnBlack": "#909CD4"
   },
+  "hueify": {
+    "palette": [
+      "#377171",
+      "#dec8c4",
+      "#d44dc3",
+      "#cfd749",
+      "#74dbd2"
+    ],
+    "goodColorOnWhite": "#377171",
+    "goodColorOnBlack": "#CFD749"
+  },
   "hyper": {
     "palette": [
       "#ef7463",
@@ -2352,6 +2374,17 @@
     ],
     "goodColorOnWhite": "#737373",
     "goodColorOnBlack": "#F6F6F6"
+  },
+  "minimalist": {
+    "palette": [
+      "#f9f9f9",
+      "#040404",
+      "#7c7c7c",
+      "#444444",
+      "#646464"
+    ],
+    "goodColorOnWhite": "#040404",
+    "goodColorOnBlack": "#F9F9F9"
   },
   "minta": {
     "palette": [
@@ -3122,6 +3155,17 @@
     ],
     "goodColorOnWhite": "#387B44",
     "goodColorOnBlack": "#4CA75C"
+  },
+  "qbox": {
+    "palette": [
+      "#5b51fc",
+      "#fbfbfc",
+      "#1539fc",
+      "#8c64fc",
+      "#acb3fc"
+    ],
+    "goodColorOnWhite": "#5B51FC",
+    "goodColorOnBlack": "#8C64FC"
   },
   "qmui-web": {
     "palette": [
@@ -3937,6 +3981,17 @@
     "goodColorOnWhite": "#87741E",
     "goodColorOnBlack": "#CFB12E"
   },
+  "thrifty": {
+    "palette": [
+      "#f4931b",
+      "#fcfbfa",
+      "#fcbd72",
+      "#fcac4c",
+      "#fccc94"
+    ],
+    "goodColorOnWhite": "#AC5F03",
+    "goodColorOnBlack": "#FCAC4C"
+  },
   "thunder": {
     "palette": [
       "#2199a6",
@@ -4090,6 +4145,17 @@
     ],
     "goodColorOnWhite": "#2B8372",
     "goodColorOnBlack": "#3BB39B"
+  },
+  "tropy": {
+    "palette": [
+      "#5a92e1",
+      "#ebf1fb",
+      "#8eb3eb",
+      "#a3c4f2",
+      "#7cacec"
+    ],
+    "goodColorOnWhite": "#1E69D1",
+    "goodColorOnBlack": "#A3C4F2"
   },
   "trym": {
     "palette": [
@@ -4335,14 +4401,14 @@
   },
   "wanna": {
     "palette": [
-      "#2186f4",
-      "#fbebd3",
-      "#1a5fad",
-      "#759dc6",
-      "#89b4dc"
+      "#1197e4",
+      "#f8fafb",
+      "#69bef2",
+      "#44b4f4",
+      "#3ea2e1"
     ],
-    "goodColorOnWhite": "#1A5FAD",
-    "goodColorOnBlack": "#2186F4"
+    "goodColorOnWhite": "#0A72AD",
+    "goodColorOnBlack": "#44B4F4"
   },
   "wantedly-chat": {
     "palette": [
@@ -4607,6 +4673,17 @@
     ],
     "goodColorOnWhite": "#77181F",
     "goodColorOnBlack": "#DC9C9C"
+  },
+  "youtube-to-mp3": {
+    "palette": [
+      "#8ddad1",
+      "#fbef04",
+      "#768f88",
+      "#aed381",
+      "#ccd266"
+    ],
+    "goodColorOnWhite": "#757002",
+    "goodColorOnBlack": "#FBEF04"
   },
   "zazu-app": {
     "palette": [
