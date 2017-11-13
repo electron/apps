@@ -1,6 +1,7 @@
 name: WebTorrent
-description: 'The streaming torrent client'
-website: 'https://webtorrent.io/desktop'
+description: The streaming torrent client
+website: https://webtorrent.io/desktop
+repository: https://github.com/webtorrent/webtorrent
 homebrewCaskName: webtorrent
 keywords:
     - torrent
