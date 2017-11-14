@@ -4335,14 +4335,14 @@
   },
   "visual-studio-code": {
     "palette": [
-      "#edf3f9",
-      "#0492d4",
-      "#2594d4",
-      "#549fdc",
-      "#7cb4e4"
+      "#2f3033",
+      "#258dd2",
+      "#646064",
+      "#547c94",
+      "#0c5c9c"
     ],
-    "goodColorOnWhite": "#0376AB",
-    "goodColorOnBlack": "#0492D4"
+    "goodColorOnWhite": "#0C5C9C",
+    "goodColorOnBlack": "#258DD2"
   },
   "vk-messenger": {
     "palette": [
