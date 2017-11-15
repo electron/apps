@@ -2,6 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const getImageColors = require('get-image-colors')
 const pickAGoodColor = require('pick-a-good-color')
+const colorConvert = require('color-convert')
 const apps = require('../lib/raw-app-list')()
 const colors = {}
 
@@ -18,11 +19,16 @@ Promise.all(
   .map(app => {
     return getImageColors(app.iconPath).then(iconColors => {
       const palette = iconColors.map(color => color.hex())
+      const goodColorOnWhite = pickAGoodColor(palette)
+      const goodColorOnBlack = pickAGoodColor(palette, {background: 'black'})
+      const faintColorOnWhite = `rgba(${colorConvert.hex.rgb(goodColorOnWhite).join(', ')}, 0.1)`
       colors[app.slug] = {
         palette: palette,
-        goodColorOnWhite: pickAGoodColor(palette),
-        goodColorOnBlack: pickAGoodColor(palette, {background: 'black'})
+        goodColorOnWhite: goodColorOnWhite,
+        goodColorOnBlack: goodColorOnBlack,
+        faintColorOnWhite: faintColorOnWhite
       }
+
       return Promise.resolve(true)
     })
     .catch(error => {
