@@ -110,8 +110,9 @@ screenshots:
 
 ### Colors
 
-- `goodColorOnWhite` is an optional hex string. 
+- `goodColorOnWhite` is an optional hex string, e.g. `#660000`
 - `goodColorOnBlack` is an optional hex string.
+- `faintColorOnWhite` is an optional rgba string, e.g. `rgba(100, 0, 0, 0.1)`
 
 If unspecified, an [accessible colors](https://github.com/zeke/pick-a-good-color) 
 will be picked or derived from the provided icon file.
