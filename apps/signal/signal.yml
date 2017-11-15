@@ -1,0 +1,12 @@
+name: Signal
+description: 'Private Messenger'
+website: 'https://signal.org'
+repository: 'https://github.com/WhisperSystems/Signal-Desktop'
+keywords:
+    - communication
+    - privacy
+    - security
+    - messenger
+    - messaging
+category: 'Social Networking'
+license: GPL-3.0
