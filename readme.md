@@ -65,6 +65,7 @@ backgrounds:
 ```yml
 goodColorOnWhite: '#916E02'
 goodColorOnBlack: '#FCCC36'
+faintColorOnWhite: 'rgba(80, 0, 0, 0.1)
 ```
 
 Lastly, the bot commits changes to git, pushes to GitHub, and publishes a new release to npm.

@@ -30,6 +30,7 @@ fs.readdirSync(path.join(__dirname, '../apps'))
 
   app.goodColorOnWhite = app.goodColorOnWhite || colors[slug].goodColorOnWhite
   app.goodColorOnBlack = app.goodColorOnBlack || colors[slug].goodColorOnBlack
+  app.faintColorOnWhite = app.faintColorOnWhite || colors[slug].faintColorOnWhite
 
   apps.push(app)
 })
