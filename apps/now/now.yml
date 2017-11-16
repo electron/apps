@@ -2,6 +2,7 @@ name: Now Desktop
 description: 'Deploy your web app or API right from the tray menu'
 website: 'https://zeit.co/download'
 repository: 'https://github.com/zeit/now-desktop'
+homebrewCaskName: now
 keywords:
     - now
     - desktop
