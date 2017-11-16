@@ -2,6 +2,7 @@ name: Signal
 description: 'Private Messenger'
 website: 'https://signal.org'
 repository: 'https://github.com/WhisperSystems/Signal-Desktop'
+homebrewCaskName: signal
 keywords:
     - communication
     - privacy
