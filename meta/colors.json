@@ -2363,6 +2363,18 @@
     "goodColorOnBlack": "#22A0B8",
     "faintColorOnWhite": "rgba(14, 53, 59, 0.1)"
   },
+  "luna": {
+    "palette": [
+      "#f4544c",
+      "#fbf8f8",
+      "#f4a49c",
+      "#f4918e",
+      "#f47c74"
+    ],
+    "goodColorOnWhite": "#DD170E",
+    "goodColorOnBlack": "#F4544C",
+    "faintColorOnWhite": "rgba(221, 23, 14, 0.1)"
+  },
   "mailspring": {
     "palette": [
       "#55dae0",
@@ -2905,15 +2917,15 @@
   },
   "now": {
     "palette": [
-      "#f0f0f0",
-      "#040404",
+      "#dddddd",
+      "#0c0c0c",
+      "#8b8b8b",
       "#747474",
-      "#848484",
       "#6c6c6c"
     ],
-    "goodColorOnWhite": "#040404",
-    "goodColorOnBlack": "#F0F0F0",
-    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
+    "goodColorOnWhite": "#0C0C0C",
+    "goodColorOnBlack": "#DDD",
+    "faintColorOnWhite": "rgba(12, 12, 12, 0.1)"
   },
   "nteract": {
     "palette": [
@@ -3838,6 +3850,18 @@
     "goodColorOnWhite": "#1675A2",
     "goodColorOnBlack": "#34ACE4",
     "faintColorOnWhite": "rgba(22, 117, 162, 0.1)"
+  },
+  "signal": {
+    "palette": [
+      "#eaf1f3",
+      "#288fe6",
+      "#77b4e8",
+      "#1764b5",
+      "#8eccf4"
+    ],
+    "goodColorOnWhite": "#1764B5",
+    "goodColorOnBlack": "#8ECCF4",
+    "faintColorOnWhite": "rgba(23, 100, 181, 0.1)"
   },
   "simplenote": {
     "palette": [
