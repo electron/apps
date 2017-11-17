@@ -1,6 +1,16 @@
 name: Mattermost
 description: 'Open source, self-hosted Slack-alternative'
-website: 'https://www.mattermost.org/'
+website: 'https://mattermost.com/'
+repository: 'https://github.com/mattermost/desktop'
+homebrewCaskName: mattermost
 keywords:
     - messaging
+    - collaboration
+    - chat
+    - p2p
+    - community
+license: Apache-2.0
 category: 'Social Networking'
+screenshots:
+    -
+        imageUrl: 'https://user-images.githubusercontent.com/13119842/32963640-a33c9906-cb9e-11e7-9846-bea28a19ebbb.png'
