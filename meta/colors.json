@@ -455,6 +455,18 @@
     "goodColorOnBlack": "#94A1C4",
     "faintColorOnWhite": "rgba(58, 89, 148, 0.1)"
   },
+  "buttercup": {
+    "palette": [
+      "#e0f5f2",
+      "#28b8a9",
+      "#34ccac",
+      "#6cccc0",
+      "#5cc8bc"
+    ],
+    "goodColorOnWhite": "#1A796F",
+    "goodColorOnBlack": "#28B8A9",
+    "faintColorOnWhite": "rgba(26, 121, 111, 0.1)"
+  },
   "cansnippet": {
     "palette": [
       "#047bdb",
