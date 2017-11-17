@@ -51,8 +51,8 @@ describe('human-submitted app data', () => {
           expect(app.description.toLowerCase().indexOf(app.name.toLowerCase())).to.not.equal(0)
         })
 
-        it('has a website with a valid URL', () => {
-          expect(isUrl(app.website)).to.equal(true)
+        it('has a website with a valid URL (or no website)', () => {
+          expect(!app.website || isUrl(app.website)).to.equal(true)
         })
 
         it('has a valid repository URL (or no repository)', () => {
