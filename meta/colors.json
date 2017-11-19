@@ -575,6 +575,18 @@
     "goodColorOnBlack": "#F74435",
     "faintColorOnWhite": "rgba(55, 55, 47, 0.1)"
   },
+  "chronobreak": {
+    "palette": [
+      "#223341",
+      "#a8f1f7",
+      "#2d9dc1",
+      "#346173",
+      "#638fa3"
+    ],
+    "goodColorOnWhite": "#346173",
+    "goodColorOnBlack": "#A8F1F7",
+    "faintColorOnWhite": "rgba(52, 97, 115, 0.1)"
+  },
   "chronocube": {
     "palette": [
       "#dadadf",
@@ -1234,6 +1246,18 @@
     "goodColorOnWhite": "#041332",
     "goodColorOnBlack": "#E1AF15",
     "faintColorOnWhite": "rgba(4, 19, 50, 0.1)"
+  },
+  "everdo": {
+    "palette": [
+      "#64bb63",
+      "#549453",
+      "#447c44",
+      "#549c54",
+      "#5ca45a"
+    ],
+    "goodColorOnWhite": "#447C44",
+    "goodColorOnBlack": "#64BB63",
+    "faintColorOnWhite": "rgba(68, 124, 68, 0.1)"
   },
   "explorer": {
     "palette": [
