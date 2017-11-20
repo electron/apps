@@ -1,0 +1,11 @@
+name: Udeler
+description: 'A cross platform application for downloading Udemy Courses'
+website: 'https://github.com/FaisalUmair/udemy-downloader-gui'
+category: Utilities
+repository: 'https://github.com/FaisalUmair/udemy-downloader-gui'
+keywords:
+    - udemy
+    - udemy-dl
+    - udemy-downloader
+    - udemy-dl-gui
+    - udemy-downloader-gui
