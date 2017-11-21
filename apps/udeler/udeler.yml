@@ -12,3 +12,24 @@ keywords:
     - videos
     - download
     - offline
+screenshots:
+  -
+    imageUrl: 'https://imgur.com/ZxOob49.png'
+    caption: 'Login Screen'
+    imageLink: 'https://imgur.com/ZxOob49'
+  -
+    imageUrl: 'https://imgur.com/AELHIDK.png'
+    caption: 'View Subscribed Courses'
+    imageLink: 'https://imgur.com/AELHIDK'
+  -
+    imageUrl: 'https://imgur.com/2wVCAbJ.png'
+    caption: 'Download Course'
+    imageLink: 'https://imgur.com/2wVCAbJ'
+  -
+    imageUrl: 'https://imgur.com/Gt4Ki1n.png'
+    caption: 'Download in Progress'
+    imageLink: 'https://imgur.com/Gt4Ki1n'
+  -
+    imageUrl: 'https://imgur.com/wsmYOtS.png'
+    caption: 'Download Completed'
+    imageLink: 'https://imgur.com/wsmYOtS'
