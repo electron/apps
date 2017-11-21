@@ -4235,6 +4235,18 @@
     "goodColorOnBlack": "#D44454",
     "faintColorOnWhite": "rgba(205, 47, 65, 0.1)"
   },
+  "synap": {
+    "palette": [
+      "#ed4152",
+      "#fbfbfb",
+      "#f48e8d",
+      "#f49fb3",
+      "#ee5c89"
+    ],
+    "goodColorOnWhite": "#DE1529",
+    "goodColorOnBlack": "#ED4152",
+    "faintColorOnWhite": "rgba(222, 21, 41, 0.1)"
+  },
   "system-designer": {
     "palette": [
       "#7b939b",

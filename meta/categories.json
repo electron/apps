@@ -45,6 +45,11 @@
     "slug": "business"
   },
   {
+    "name": "Education",
+    "count": 5,
+    "slug": "education"
+  },
+  {
     "name": "Books",
     "count": 5,
     "slug": "books"
@@ -53,11 +58,6 @@
     "name": "Graphics & Design",
     "count": 5,
     "slug": "graphics-design"
-  },
-  {
-    "name": "Education",
-    "count": 4,
-    "slug": "education"
   },
   {
     "name": "News",
