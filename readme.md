@@ -81,4 +81,4 @@ The bot can be extended to collect other useful data, especially if the app has 
 
 ## License
 
-[MIT](htps://github.com/electron/electron/blob/master/LICENSE)
+[MIT](https://github.com/electron/electron/blob/master/LICENSE)
