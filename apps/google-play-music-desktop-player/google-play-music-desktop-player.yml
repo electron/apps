@@ -7,6 +7,8 @@ keywords:
     - GPMDP
 category: Music
 license: MIT
+goodColorOnWhite: '#DE2811'
+goodColorOnBlack: '#FFCA16'
 repository: https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-
 locales:
     - en-US
@@ -24,3 +26,6 @@ locales:
     - sk
     - sv
     - ua
+screenshots:
+    -
+        imageUrl: 'https://user-images.githubusercontent.com/2289/31847914-51585a3c-b5da-11e7-8082-4a8e62c12b77.gif'

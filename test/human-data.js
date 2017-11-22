@@ -9,6 +9,7 @@ const yaml = require('yamljs')
 const isUrl = require('is-url')
 const cleanDeep = require('clean-deep')
 const imageSize = require('image-size')
+const makeColorAccessible = require('make-color-accessible')
 const slugg = require('slugg')
 const slugs = fs.readdirSync(path.join(__dirname, '../apps'))
   .filter(filename => {
@@ -50,8 +51,8 @@ describe('human-submitted app data', () => {
           expect(app.description.toLowerCase().indexOf(app.name.toLowerCase())).to.not.equal(0)
         })
 
-        it('has a website with a valid URL', () => {
-          expect(isUrl(app.website)).to.equal(true)
+        it('has a website with a valid URL (or no website)', () => {
+          expect(!app.website || isUrl(app.website)).to.equal(true)
         })
 
         it('has a valid repository URL (or no repository)', () => {
@@ -62,12 +63,31 @@ describe('human-submitted app data', () => {
           expect(!app.keywords || Array.isArray(app.keywords)).to.eq(true)
         })
 
-        it('has a category', () => {
+        it('has a valid category', () => {
           expect(app.category.length).to.be.above(0)
+          expect(app.category).to.be.oneOf(categories)
         })
 
-        it('has a valid category', () => {
-          expect(app.category).to.be.oneOf(categories)
+        describe('colors', () => {
+          it(`allows goodColorOnWhite to be set, but it must be accessible`, () => {
+            // accessible: contrast ratio of 4.5:1 or greater (white background)
+            const color = app.goodColorOnWhite
+            if (color) {
+              const accessibleColor = makeColorAccessible(color)
+              expect(color === accessibleColor).to.equal(true,
+                `${slug}: contrast ratio too low for goodColorOnWhite. Try: ${accessibleColor}`)
+            }
+          })
+
+          it(`allows goodColorOnBlack to be set, but it must be accessible`, () => {
+            // accessible: contrast ratio of 4.5:1 or greater (black background)
+            const color = app.goodColorOnBlack
+            if (color) {
+              const accessibleColor = makeColorAccessible(color, {background: 'black'})
+              expect(color === accessibleColor).to.equal(true,
+                `${slug}: contrast ratio too low for goodColorOnBlack. Try: ${accessibleColor}`)
+            }
+          })
         })
 
         it('has no empty properties', () => {

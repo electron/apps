@@ -1,0 +1,11 @@
+name: elcalc
+description: 'Cross-platform calculator'
+website: 'https://github.com/xxczaki/elcalc'
+category: Finance
+repository: 'https://github.com/xxczaki/elcalc'
+keywords:
+    - calculator
+    - math
+    - arithmetic
+    - calculation
+license: MIT

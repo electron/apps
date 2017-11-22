@@ -1,0 +1,13 @@
+name: Ao
+description: 'Elegant Microsoft To-Do desktop app'
+website: 'https://klauscfhq.github.io/ao'
+repository: 'https://github.com/klauscfhq/ao'
+keywords:
+    - to-do
+    - productivity
+    - microsoft
+license: MIT
+category: 'Productivity'
+screenshots:
+    -
+        imageUrl: 'https://cdn.rawgit.com/klauscfhq/ao/125924ed/media/dark-theme.png'

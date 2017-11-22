@@ -4,6 +4,8 @@ const it = mocha.it
 const fs = require('fs')
 const path = require('path')
 const apps = require('..')
+const isHexColor = require('is-hexcolor')
+const categories = require('../categories')
 const expect = require('chai').expect
 
 describe('machine-generated app data (exported by the module)', () => {
@@ -44,15 +46,89 @@ describe('machine-generated app data (exported by the module)', () => {
     })
   })
 
-  it('sets a `releases` array on every app', function () {
-    return this.skip()
-    // apps.forEach(app => {
-    //   expect(app.releases).to.be.an('array', app.slug)
-    // })
+  it('sets a `colors.goodColorOnWhite` hex value on every app', () => {
+    apps.forEach(app => {
+      expect(isHexColor(app.goodColorOnWhite)).to.eq(true)
+    })
+  })
 
-    // const app = apps.find(app => app.slug === 'hyper')
-    // expect(app).to.be.an('object')
-    // expect(app.releases.length).to.be.above(12)
-    // expect(app.releases[5].assets.length).to.be.above(4)
+  it('sets a `colors.faintColorOnWhite` semi-transparent rgba value on every app', () => {
+    apps.forEach(app => {
+      expect(app.faintColorOnWhite).to.match(/rgba\(\d+, \d+, \d+, 0\.1\)/)
+    })
+  })
+
+  it('sets a `colors.goodColorOnBlack` hex value on every app', () => {
+    apps.forEach(app => {
+      expect(isHexColor(app.goodColorOnBlack)).to.eq(true)
+    })
+  })
+
+  it('does not override good colors if they already exist', () => {
+    const hyper = apps.find(app => app.slug === 'hyper')
+    expect(hyper.goodColorOnWhite).to.eq('#000')
+    expect(hyper.goodColorOnBlack).to.eq('#FFF')
+  })
+
+  describe('releases', () => {
+    const releaseApps = apps.filter(app => app.latestRelease)
+
+    it('collects latest GitHub release data for apps that have it', () => {
+      expect(releaseApps.length).to.be.above(50)
+    })
+
+    it('sets `latestRelease` on apps with GitHub repos that use Releases', () => {
+      expect(releaseApps.every(app => app.latestRelease)).to.eq(true)
+    })
+
+    it('sets `latestReleaseFetchedAt`', () => {
+      expect(releaseApps.every(app => app.latestReleaseFetchedAt)).to.eq(true)
+    })
+  })
+
+  describe('readmes', () => {
+    const readmeApps = apps.filter(app => app.readmeCleaned)
+
+    it('collects READMEs for apps with GitHub repos', () => {
+      expect(readmeApps.length).to.be.above(50)
+    })
+
+    it('sets `readmeCleaned`', () => {
+      expect(readmeApps.every(app => app.readmeCleaned.length > 0)).to.eq(true)
+    })
+
+    it('sets `readmeOriginal`', () => {
+      expect(readmeApps.every(app => app.readmeOriginal.length > 0)).to.eq(true)
+    })
+
+    it('sets `readmeFetchedAt`', () => {
+      expect(readmeApps.every(app => app.readmeFetchedAt.length > 0)).to.eq(true)
+    })
+  })
+
+  it('rewrites relative image source tags', () => {
+    const beaker = apps.find(app => app.slug === 'beaker-browser')
+    const local = '<img src="build/icons/256x256.png"'
+    const remote = '<img src="https://github.com/beakerbrowser/beaker/raw/master/build/icons/256x256.png"'
+
+    expect(beaker.readmeOriginal).to.include(local)
+    expect(beaker.readmeOriginal).to.not.include(remote)
+
+    expect(beaker.readmeCleaned).to.not.include(local)
+    expect(beaker.readmeCleaned).to.include(remote)
+  })
+})
+
+describe('machine-generated category data (exported by the module)', () => {
+  it('is an array', () => {
+    expect(categories).to.be.an('array')
+  })
+
+  it('sets a `slug` string on every category', () => {
+    expect(categories.every(category => category.slug.length > 0)).to.equal(true)
+  })
+
+  it('sets a `count` number on every category', () => {
+    expect(categories.every(category => category.count > 0)).to.equal(true)
   })
 })

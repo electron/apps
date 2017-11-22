@@ -56,7 +56,16 @@ hyper
 Then the bot extracts a color palette from the app icon:
 
 ```yml
-colors: ['#FF0000', '#C54F23', '#DD8833']
+iconColors: ['#FF0000', '#C54F23', '#DD8833']
+```
+
+And it also picks some colors that are "on brand" for use on black or white
+backgrounds:
+
+```yml
+goodColorOnWhite: '#916E02'
+goodColorOnBlack: '#FCCC36'
+faintColorOnWhite: 'rgba(80, 0, 0, 0.1)
 ```
 
 Lastly, the bot commits changes to git, pushes to GitHub, and publishes a new release to npm.
