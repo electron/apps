@@ -12,8 +12,8 @@ locales:
   - ru
 screenshots:
     -
-        imageUrl: 'http://cromberg.blweb.ru/screenshots/income.png'
+        imageUrl: 'https://raw.githubusercontent.com/z17/home-accounting-system/dbeaceaeef757247d95954d206ca5d2613716044/server/www/screenshots/income.png'
         caption: 'Income chart'
     -
-        imageUrl: 'http://cromberg.blweb.ru/screenshots/balance.png'
+        imageUrl: 'https://raw.githubusercontent.com/z17/home-accounting-system/dbeaceaeef757247d95954d206ca5d2613716044/server/www/screenshots/balance.png'
         caption: 'Balance chart'
