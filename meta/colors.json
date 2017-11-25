@@ -503,6 +503,18 @@
     "goodColorOnBlack": "#0497FB",
     "faintColorOnWhite": "rgba(3, 122, 203, 0.1)"
   },
+  "cards": {
+    "palette": [
+      "#24a9df",
+      "#98e3f1",
+      "#59d7ee",
+      "#4bc4e4",
+      "#4bd4f4"
+    ],
+    "goodColorOnWhite": "#09758F",
+    "goodColorOnBlack": "#4BD4F4",
+    "faintColorOnWhite": "rgba(9, 117, 143, 0.1)"
+  },
   "caret": {
     "palette": [
       "#f9f9f9",
