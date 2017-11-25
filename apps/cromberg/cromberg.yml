@@ -1,0 +1,19 @@
+name: 'Cromberg'
+description: 'Personal finance management application.'
+website: 'http://cromberg.blweb.ru'
+repository: 'https://github.com/z17/home-accounting-system'
+keywords:
+    - finance
+    - accounting
+    - balance
+category: Finance
+locales:
+  - en-US
+  - ru
+screenshots:
+    -
+        imageUrl: 'http://cromberg.blweb.ru/screenshots/income.png'
+        caption: 'Income chart'
+    -
+        imageUrl: 'http://cromberg.blweb.ru/screenshots/balance.png'
+        caption: 'Balance chart'
