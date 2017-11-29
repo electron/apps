@@ -827,6 +827,18 @@
     "goodColorOnBlack": "#4FB1A8",
     "faintColorOnWhite": "rgba(56, 127, 121, 0.1)"
   },
+  "cromberg": {
+    "palette": [
+      "#73a819",
+      "#f8f9f7",
+      "#aac57c",
+      "#bcdc8c",
+      "#9ccc54"
+    ],
+    "goodColorOnWhite": "#557C12",
+    "goodColorOnBlack": "#73A819",
+    "faintColorOnWhite": "rgba(85, 124, 18, 0.1)"
+  },
   "crypter": {
     "palette": [
       "#f28b47",
