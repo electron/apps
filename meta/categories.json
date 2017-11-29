@@ -1,7 +1,7 @@
 [
   {
     "name": "Productivity",
-    "count": 139,
+    "count": 141,
     "slug": "productivity"
   },
   {
@@ -11,18 +11,18 @@
   },
   {
     "name": "Utilities",
-    "count": 57,
+    "count": 58,
     "slug": "utilities"
+  },
+  {
+    "name": "Social Networking",
+    "count": 33,
+    "slug": "social-networking"
   },
   {
     "name": "Photo & Video",
     "count": 32,
     "slug": "photo-video"
-  },
-  {
-    "name": "Social Networking",
-    "count": 32,
-    "slug": "social-networking"
   },
   {
     "name": "Music",
