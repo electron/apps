@@ -4787,6 +4787,18 @@
     "goodColorOnBlack": "#F9F9F9",
     "faintColorOnWhite": "rgba(44, 44, 44, 0.1)"
   },
+  "udeler": {
+    "palette": [
+      "#14ab1c",
+      "#fbfbfb",
+      "#75c875",
+      "#8ccc8c",
+      "#84d48c"
+    ],
+    "goodColorOnWhite": "#108816",
+    "goodColorOnBlack": "#14AB1C",
+    "faintColorOnWhite": "rgba(16, 136, 22, 0.1)"
+  },
   "un-colored": {
     "palette": [
       "#fbfbfb",
