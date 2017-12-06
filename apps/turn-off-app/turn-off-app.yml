@@ -1,7 +1,7 @@
 name: 'Turn Off App'
 description: 'Shutdown your computer at selected hour or after specifed time period available on Windows platform.'
 website: 'https://turnoffapp.com'
-category: Entertainment
+category: Productivity
 repository: 'https://github.com/tomaszchlebek/turn-off-app'
 keywords:
     - '[shutdown'
