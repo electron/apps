@@ -1,0 +1,16 @@
+name: 'Vade Mecum Shelf'
+description: 'Modular utility app.'
+website: 'https://github.com/tonton-pixel/vade-mecum-shelf'
+category: Utilities
+keywords:
+    - app
+    - modular
+    - shelf
+    - shelf
+    - 'vade mecum'
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/tonton-pixel/vade-mecum-shelf/master/screenshots/system-information.png'
+    caption: 'System Information Screenshot'
+    imageLink: 'https://mysite.com/awesome.html'
