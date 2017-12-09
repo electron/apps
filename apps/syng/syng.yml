@@ -1,0 +1,10 @@
+name: Syng
+description: 'Chinese-to-English dictionary app and study toolset.'
+website: 'http://syngdict.com'
+category: Education
+repository: 'https://github.com/sotch-pr35mac/syng'
+keywords:
+    - chinese
+    - dictionary
+    - hanzi
+license: GPLv3
