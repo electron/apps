@@ -503,6 +503,18 @@
     "goodColorOnBlack": "#0497FB",
     "faintColorOnWhite": "rgba(3, 122, 203, 0.1)"
   },
+  "cards": {
+    "palette": [
+      "#24a9df",
+      "#98e3f1",
+      "#59d7ee",
+      "#4bc4e4",
+      "#4bd4f4"
+    ],
+    "goodColorOnWhite": "#09758F",
+    "goodColorOnBlack": "#4BD4F4",
+    "faintColorOnWhite": "rgba(9, 117, 143, 0.1)"
+  },
   "caret": {
     "palette": [
       "#f9f9f9",
@@ -814,6 +826,18 @@
     "goodColorOnWhite": "#387F79",
     "goodColorOnBlack": "#4FB1A8",
     "faintColorOnWhite": "rgba(56, 127, 121, 0.1)"
+  },
+  "cromberg": {
+    "palette": [
+      "#73a819",
+      "#f8f9f7",
+      "#aac57c",
+      "#bcdc8c",
+      "#9ccc54"
+    ],
+    "goodColorOnWhite": "#557C12",
+    "goodColorOnBlack": "#73A819",
+    "faintColorOnWhite": "rgba(85, 124, 18, 0.1)"
   },
   "crypter": {
     "palette": [
@@ -3923,6 +3947,18 @@
     "goodColorOnBlack": "#FCCC07",
     "faintColorOnWhite": "rgba(136, 110, 2, 0.1)"
   },
+  "skype": {
+    "palette": [
+      "#fbfbfc",
+      "#04acf4",
+      "#62cdf4",
+      "#9ddefa",
+      "#3cc4f4"
+    ],
+    "goodColorOnWhite": "#0373A3",
+    "goodColorOnBlack": "#04ACF4",
+    "faintColorOnWhite": "rgba(3, 115, 163, 0.1)"
+  },
   "slack": {
     "palette": [
       "#4bb398",
@@ -4415,6 +4451,18 @@
     "goodColorOnBlack": "#CFB12E",
     "faintColorOnWhite": "rgba(135, 116, 30, 0.1)"
   },
+  "thomas": {
+    "palette": [
+      "#fbf9f9",
+      "#c62b3f",
+      "#dd7181",
+      "#e48e9c",
+      "#de5c6c"
+    ],
+    "goodColorOnWhite": "#C62B3F",
+    "goodColorOnBlack": "#DE5C6C",
+    "faintColorOnWhite": "rgba(198, 43, 63, 0.1)"
+  },
   "thrifty": {
     "palette": [
       "#f4931b",
@@ -4486,6 +4534,18 @@
     "goodColorOnWhite": "#904D7F",
     "goodColorOnBlack": "#68A0B8",
     "faintColorOnWhite": "rgba(144, 77, 127, 0.1)"
+  },
+  "time-zone-converter": {
+    "palette": [
+      "#423c47",
+      "#e7e7eb",
+      "#9494a4",
+      "#54d681",
+      "#88858e"
+    ],
+    "goodColorOnWhite": "#423C47",
+    "goodColorOnBlack": "#54D681",
+    "faintColorOnWhite": "rgba(66, 60, 71, 0.1)"
   },
   "timestamp": {
     "palette": [
@@ -4726,6 +4786,18 @@
     "goodColorOnWhite": "#2C2C2C",
     "goodColorOnBlack": "#F9F9F9",
     "faintColorOnWhite": "rgba(44, 44, 44, 0.1)"
+  },
+  "udeler": {
+    "palette": [
+      "#14ab1c",
+      "#fbfbfb",
+      "#75c875",
+      "#8ccc8c",
+      "#84d48c"
+    ],
+    "goodColorOnWhite": "#108816",
+    "goodColorOnBlack": "#14AB1C",
+    "faintColorOnWhite": "rgba(16, 136, 22, 0.1)"
   },
   "un-colored": {
     "palette": [
@@ -5098,6 +5170,18 @@
     "goodColorOnWhite": "#11597A",
     "goodColorOnBlack": "#2DA3D7",
     "faintColorOnWhite": "rgba(17, 89, 122, 0.1)"
+  },
+  "wwii-stats-viewer": {
+    "palette": [
+      "#347ca4",
+      "#2c8c44",
+      "#3084a8",
+      "#3084a8",
+      "#3084a8"
+    ],
+    "goodColorOnWhite": "#347CA4",
+    "goodColorOnBlack": "#3084A8",
+    "faintColorOnWhite": "rgba(52, 124, 164, 0.1)"
   },
   "xcel": {
     "palette": [
