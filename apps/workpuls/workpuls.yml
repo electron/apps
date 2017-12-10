@@ -1,0 +1,12 @@
+name: WorkPuls
+description: 'Employee monitoring and time tracking software with screenshots.'
+website: 'https://www.workpuls.com/'
+category: Business
+keywords:
+    - 'employee monitoring'
+    - 'time tracking'
+    - screenshots
+license: Commercial
+screenshots:
+    -
+        imageUrl: 'https://www.workpuls.com/assets/img/timer.png'
