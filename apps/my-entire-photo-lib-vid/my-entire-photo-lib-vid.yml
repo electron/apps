@@ -1,0 +1,19 @@
+name: my entire photo lib.vid
+description: 'Easy photo library backing up tool'
+website: 'http://rebabre.com/app/my-entire-photo-lib-vid'
+category: 'Photo & Video'
+keywords:
+    - photos
+    - pictures
+    - backup
+    - backups
+    - photo library
+    - photo to video
+    - jpg to mp4
+    - jpeg to mp4
+    - png to mp4
+screenshots:
+  -
+    imageUrl: 'http://rebabre.com/app/my-entire-photo-lib-vid/screen.png'
+    imageLink: 'http://rebabre.com/app/my-entire-photo-lib-vid/'
+  -
