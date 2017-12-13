@@ -4,8 +4,8 @@ website: 'https://turnoffapp.com'
 category: Productivity
 repository: 'https://github.com/tomaszchlebek/turn-off-app'
 keywords:
-    - '[shutdown'
-    - 'turn off]'
+    - 'shutdown'
+    - 'turn off'
 license: MIT
 screenshots:
   -
