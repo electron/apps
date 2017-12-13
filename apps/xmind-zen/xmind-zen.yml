@@ -1,0 +1,17 @@
+name: XMind ZEN
+description: 'A whole new amazing mind mapping tool.'
+website: 'https://www.xmind.net/zen/'
+keywords:
+    - mind map
+    - mind mapping
+    - brainstorming
+    - snowbrush
+    - svg
+category: Productivity
+locales:
+    - de
+    - en-US
+    - fr
+    - ja
+    - zh-CN
+    - zh-TW
