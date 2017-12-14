@@ -7,4 +7,12 @@ keywords:
     - chinese
     - dictionary
     - hanzi
+    - language
+    - education
+    - words
+    - translation
 license: GPLv3
+locales
+    - 'en-US'
+    - 'zh-CN'
+    - 'zh-TW'
