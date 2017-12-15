@@ -1,7 +1,5 @@
-name: updrive
+name: Updrive
 description: 'upyun file manager'
 website: 'https://github.com/aniiantt/updrive'
 repository: 'https://github.com/aniiantt/updrive'
-keywords:
-    - upyun
 category: 'Developer Tools'
