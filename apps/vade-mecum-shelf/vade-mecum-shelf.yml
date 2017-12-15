@@ -1,9 +1,11 @@
 name: 'Vade Mecum Shelf'
-description: 'Modular utility app.'
+description: 'Collection of utilities wrapped into one single app.'
 website: 'https://github.com/tonton-pixel/vade-mecum-shelf'
 category: Utilities
 keywords:
     - app
+    - collection
+    - customizable
     - modular
     - shelf
     - utility
