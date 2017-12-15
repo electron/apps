@@ -5,12 +5,12 @@ category: Productivity
 repository: 'https://github.com/laurent22/joplin'
 homebrewCaskName: joplin
 keywords:
-    - note
-    - to-do
-    - onedrive
-    - synchronisation
-    - evernote
-    - enex
+  - note
+  - to-do
+  - onedrive
+  - synchronisation
+  - evernote
+  - enex
 license: MIT
 screenshots:
   -
