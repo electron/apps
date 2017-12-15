@@ -5,8 +5,6 @@ keywords:
     - mind map
     - mind mapping
     - brainstorming
-    - snowbrush
-    - svg
 category: Productivity
 locales:
     - de
@@ -15,3 +13,6 @@ locales:
     - ja
     - zh-CN
     - zh-TW
+screenshots:
+    -
+        imageUrl: https://s3.amazonaws.com/xmind-assets/assets/img/screenshot-xmind-zen-for-electron.png
