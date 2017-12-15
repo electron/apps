@@ -12,7 +12,7 @@ keywords:
     - words
     - translation
 license: GPLv3
-locales
+locales:
     - 'en-US'
     - 'zh-CN'
     - 'zh-TW'
