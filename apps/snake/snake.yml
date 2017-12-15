@@ -5,4 +5,5 @@ repository: 'https://github.com/alpcoskun/snake'
 keywords:
     - games
     - snake
+license: MIT
 category: Games
