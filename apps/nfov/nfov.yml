@@ -9,6 +9,7 @@ keywords:
     - diz
     - ascii-art
 license: MIT
+homebrewCaskName: nfov
 screenshots:
   -
     imageUrl: 'https://raw.githubusercontent.com/nrlquaker/nfov/master/screenshots/crude.nfo.png'
