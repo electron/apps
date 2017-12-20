@@ -4367,6 +4367,18 @@
     "goodColorOnBlack": "#84C4FC",
     "faintColorOnWhite": "rgba(5, 107, 197, 0.1)"
   },
+  "storaji": {
+    "palette": [
+      "#348cd4",
+      "#3494d4",
+      "#388cd4",
+      "#388cd4",
+      "#388cd4"
+    ],
+    "goodColorOnWhite": "#2673B2",
+    "goodColorOnBlack": "#348CD4",
+    "faintColorOnWhite": "rgba(38, 115, 178, 0.1)"
+  },
   "storm": {
     "palette": [
       "#333434",
