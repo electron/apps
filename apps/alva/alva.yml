@@ -9,3 +9,8 @@ keywords:
     - react
     - components
 license: MIT
+screenshots:
+  -
+    imageUrl: 'https://meetalva.io/images/application.png'
+    caption: 'Alva view with the integrated example project.'
+    imageLink: 'https://meetalva.io'
