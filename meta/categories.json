@@ -50,14 +50,14 @@
     "slug": "education"
   },
   {
+    "name": "Graphics & Design",
+    "count": 6,
+    "slug": "graphics-design"
+  },
+  {
     "name": "Books",
     "count": 5,
     "slug": "books"
-  },
-  {
-    "name": "Graphics & Design",
-    "count": 5,
-    "slug": "graphics-design"
   },
   {
     "name": "News",

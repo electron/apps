@@ -119,6 +119,18 @@
     "goodColorOnBlack": "#C45627",
     "faintColorOnWhite": "rgba(100, 44, 20, 0.1)"
   },
+  "alva": {
+    "palette": [
+      "#3990df",
+      "#f1f6fb",
+      "#69ace4",
+      "#c4dcf4",
+      "#74ace6"
+    ],
+    "goodColorOnWhite": "#1F74C2",
+    "goodColorOnBlack": "#3990DF",
+    "faintColorOnWhite": "rgba(31, 116, 194, 0.1)"
+  },
   "amium": {
     "palette": [
       "#fcfbfb",
