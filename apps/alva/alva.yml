@@ -1,0 +1,16 @@
+name: Alva
+description: 'Design interactive products based on the same components your engineers are using.'
+website: 'https://meetalva.io/'
+category: 'Graphics & Design'
+repository: 'https://github.com/meetalva/alva'
+keywords:
+    - design
+    - design-system
+    - react
+    - components
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://meetalva.io/images/application.png'
+    caption: 'Alva view with the integrated example project.'
+    imageLink: 'https://meetalva.io'
