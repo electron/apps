@@ -1,6 +1,6 @@
-name: Somiibo
-description: Social media bot and automation tool.
-website: https://somiibo.com
+name: 'Somiibo'
+description: 'Social media bot and automation tool.'
+website: 'https://somiibo.com'
 keywords:
     - somiibo
     - productivity
@@ -11,7 +11,7 @@ keywords:
     - soundcloud
     - instagram
     - twitter
-category: Utilities
+category: 'Utilities'
 screenshots:
     -
         imageUrl: 'https://iwiedenm.github.io/cdn/somiibo/images/screenshots/somiibo-social-media-automation-modules.png'
