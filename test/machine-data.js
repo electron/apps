@@ -117,6 +117,18 @@ describe('machine-generated app data (exported by the module)', () => {
     expect(beaker.readmeCleaned).to.not.include(local)
     expect(beaker.readmeCleaned).to.include(remote)
   })
+
+  it('rewrites relative link hrefs', () => {
+    const app = apps.find(app => app.slug === 'google-play-music-desktop-player')
+    const local = 'href="docs/PlaybackAPI.md"'
+    const remote = 'href="https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/blob/master/docs/PlaybackAPI.md"'
+
+    expect(app.readmeOriginal).to.include(local)
+    expect(app.readmeOriginal).to.not.include(remote)
+
+    expect(app.readmeCleaned).to.not.include(local)
+    expect(app.readmeCleaned).to.include(remote)
+  })
 })
 
 describe('machine-generated category data (exported by the module)', () => {
