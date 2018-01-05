@@ -1,0 +1,15 @@
+name: Play Torrent
+description: 'Watch videos from The Pirate Bay'
+website: 'https://github.com/samuelnovaes/play-torrent'
+keywords:
+    - video
+    - movie
+    - player
+    - torrent
+    - streaming
+    - watch
+category: 'Photo & Video'
+repository: 'https://github.com/samuelnovaes/play-torrent'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/samuelnovaes/play-torrent/master/assets/screenshot.png'
