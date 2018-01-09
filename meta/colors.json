@@ -3047,6 +3047,18 @@
     "goodColorOnBlack": "#07E0C6",
     "faintColorOnWhite": "rgba(41, 49, 45, 0.1)"
   },
+  "netron": {
+    "palette": [
+      "#aedde9",
+      "#54848c",
+      "#ededed",
+      "#a7adae",
+      "#7ca4b4"
+    ],
+    "goodColorOnWhite": "#257589",
+    "goodColorOnBlack": "#AEDDE9",
+    "faintColorOnWhite": "rgba(37, 117, 137, 0.1)"
+  },
   "neutrinometrics": {
     "palette": [
       "#3aa199",
