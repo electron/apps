@@ -1,0 +1,13 @@
+name: AccuMap
+description: 'VATSIMs' best flight and air traffic control tracking application'
+website: 'http://accumap-project.com'
+screenshots:
+    - imageUrl: 'http://accumap-project.com/img/homepage/mapDay.png'
+keywords:
+    - flight
+    - tracking
+    - VATSIM
+    - air
+    - traffic
+    - control
+category: Games
