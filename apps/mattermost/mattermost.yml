@@ -1,5 +1,5 @@
 name: Mattermost
-description: 'Open source, private cloud Slack-alternative'
+description: 'Open source, private cloud Slack-alternative.'
 website: 'https://about.mattermost.com/downloads/'
 repository: 'https://github.com/mattermost/desktop'
 homebrewCaskName: mattermost
