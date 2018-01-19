@@ -5471,6 +5471,18 @@
     "goodColorOnBlack": "#90939B",
     "faintColorOnWhite": "rgba(43, 51, 67, 0.1)"
   },
+  "xmind-zen": {
+    "palette": [
+      "#fbfaf9",
+      "#fb3319",
+      "#fb7618",
+      "#f89296",
+      "#fc575e"
+    ],
+    "goodColorOnWhite": "#DD1D04",
+    "goodColorOnBlack": "#FB3319",
+    "faintColorOnWhite": "rgba(221, 29, 4, 0.1)"
+  },
   "xuanxuan": {
     "palette": [
       "#fcfafa",
