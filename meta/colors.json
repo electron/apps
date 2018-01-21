@@ -3047,6 +3047,18 @@
     "goodColorOnBlack": "#07E0C6",
     "faintColorOnWhite": "rgba(41, 49, 45, 0.1)"
   },
+  "netron": {
+    "palette": [
+      "#aedde9",
+      "#54848c",
+      "#ededed",
+      "#a7adae",
+      "#7ca4b4"
+    ],
+    "goodColorOnWhite": "#257589",
+    "goodColorOnBlack": "#AEDDE9",
+    "faintColorOnWhite": "rgba(37, 117, 137, 0.1)"
+  },
   "neutrinometrics": {
     "palette": [
       "#3aa199",
@@ -5458,6 +5470,18 @@
     "goodColorOnWhite": "#2B3343",
     "goodColorOnBlack": "#90939B",
     "faintColorOnWhite": "rgba(43, 51, 67, 0.1)"
+  },
+  "xmind-zen": {
+    "palette": [
+      "#fbfaf9",
+      "#fb3319",
+      "#fb7618",
+      "#f89296",
+      "#fc575e"
+    ],
+    "goodColorOnWhite": "#DD1D04",
+    "goodColorOnBlack": "#FB3319",
+    "faintColorOnWhite": "rgba(221, 29, 4, 0.1)"
   },
   "xuanxuan": {
     "palette": [

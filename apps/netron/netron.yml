@@ -1,0 +1,15 @@
+name: 'Netron'
+description: 'Viewer for neural network models'
+website: 'https://github.com/lutzroeder/Netron'
+repository: 'https://github.com/lutzroeder/Netron'
+homebrewCaskName: netron
+license: MIT
+keywords:
+    - neural networks
+    - machine learning
+    - artificial intelligence
+    - deep learning
+    - AI
+    - ONNX
+    - TensorFlow
+category: 'Developer Tools'
