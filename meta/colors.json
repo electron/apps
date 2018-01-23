@@ -1211,6 +1211,18 @@
     "goodColorOnBlack": "#F3B33B",
     "faintColorOnWhite": "rgba(124, 100, 52, 0.1)"
   },
+  "dupfinder": {
+    "palette": [
+      "#398c8b",
+      "#f8bc63",
+      "#f1f1f2",
+      "#afb1b0",
+      "#936a2e"
+    ],
+    "goodColorOnWhite": "#936A2E",
+    "goodColorOnBlack": "#F8BC63",
+    "faintColorOnWhite": "rgba(147, 106, 46, 0.1)"
+  },
   "eagle": {
     "palette": [
       "#1777e5",
@@ -2927,6 +2939,18 @@
     "goodColorOnBlack": "#F3897E",
     "faintColorOnWhite": "rgba(218, 39, 20, 0.1)"
   },
+  "mocker": {
+    "palette": [
+      "#1494dc",
+      "#0c94dc",
+      "#1894dc",
+      "#1894dc",
+      "#1894dc"
+    ],
+    "goodColorOnWhite": "#0975AE",
+    "goodColorOnBlack": "#0C94DC",
+    "faintColorOnWhite": "rgba(9, 117, 174, 0.1)"
+  },
   "mockingbot": {
     "palette": [
       "#fbfaf9",
@@ -3598,6 +3622,18 @@
     "goodColorOnWhite": "#D33B34",
     "goodColorOnBlack": "#E77260",
     "faintColorOnWhite": "rgba(211, 59, 52, 0.1)"
+  },
+  "pomotron": {
+    "palette": [
+      "#67556a",
+      "#e6e6e6",
+      "#b17b75",
+      "#bbbbc6",
+      "#a8a8be"
+    ],
+    "goodColorOnWhite": "#67556A",
+    "goodColorOnBlack": "#B17B75",
+    "faintColorOnWhite": "rgba(103, 85, 106, 0.1)"
   },
   "popkey": {
     "palette": [
