@@ -1139,6 +1139,18 @@
     "goodColorOnBlack": "#06AAD3",
     "faintColorOnWhite": "rgba(18, 108, 130, 0.1)"
   },
+  "dict": {
+    "palette": [
+      "#bcbcbc",
+      "#2a2a2a",
+      "#545454",
+      "#747474",
+      "#5c5c5c"
+    ],
+    "goodColorOnWhite": "#2A2A2A",
+    "goodColorOnBlack": "#BCBCBC",
+    "faintColorOnWhite": "rgba(42, 42, 42, 0.1)"
+  },
   "digiexam": {
     "palette": [
       "#db2373",
@@ -2761,15 +2773,15 @@
   },
   "mattermost": {
     "palette": [
-      "#242424",
-      "#282424",
-      "#282424",
-      "#282424",
-      "#282424"
+      "#248cd4",
+      "#288cd4",
+      "#288cd4",
+      "#288cd4",
+      "#288cd4"
     ],
-    "goodColorOnWhite": "#282424",
-    "goodColorOnBlack": "#887A7A",
-    "faintColorOnWhite": "rgba(40, 36, 36, 0.1)"
+    "goodColorOnWhite": "#1D72AD",
+    "goodColorOnBlack": "#248CD4",
+    "faintColorOnWhite": "rgba(29, 114, 173, 0.1)"
   },
   "mdnote": {
     "palette": [
@@ -3382,6 +3394,18 @@
     "goodColorOnWhite": "#8C6C04",
     "goodColorOnBlack": "#F5B704",
     "faintColorOnWhite": "rgba(140, 108, 4, 0.1)"
+  },
+  "papercubes": {
+    "palette": [
+      "#83b94d",
+      "#fbfbfa",
+      "#c7d3b8",
+      "#acacac",
+      "#bcdc94"
+    ],
+    "goodColorOnWhite": "#557928",
+    "goodColorOnBlack": "#BCDC94",
+    "faintColorOnWhite": "rgba(85, 121, 40, 0.1)"
   },
   "papyrus": {
     "palette": [
