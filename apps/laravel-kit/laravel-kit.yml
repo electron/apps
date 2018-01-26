@@ -1,0 +1,15 @@
+name: 'Laravel Kit'
+description: 'Easy Laravel application management'
+website: 'https://github.com/tarequemdhanif/laravel-kit'
+repository: 'https://github.com/tarequemdhanif/laravel-kit'
+homebrewCaskName: ~
+license: MIT
+keywords:
+    - laravel
+    - kit
+category: 'Developer Tools'
+screenshots:
+  -
+    imageUrl: 'https://github.com/tarequemdhanif/laravel-kit/raw/master/screenshots/main.png'
+  -
+    imageUrl: 'https://github.com/tarequemdhanif/laravel-kit/raw/master/screenshots/make.png'
