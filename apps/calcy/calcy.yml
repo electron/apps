@@ -1,0 +1,10 @@
+name: Calcy
+description: 'A simple and basic calculator app.'
+repository: 'https://github.com/VarunDevPro/calcy'
+website: 'https://varundevpro.github.io/calcy'
+license: MIT
+keywords:
+    - calculator
+    - arithmetic
+    - math
+category: 'Productivity'
