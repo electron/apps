@@ -143,6 +143,18 @@
     "goodColorOnBlack": "#FC746C",
     "faintColorOnWhite": "rgba(234, 18, 5, 0.1)"
   },
+  "andcards": {
+    "palette": [
+      "#c4bca4",
+      "#c4b4a4",
+      "#c8bca4",
+      "#c8bca4",
+      "#c8bca4"
+    ],
+    "goodColorOnWhite": "#786849",
+    "goodColorOnBlack": "#C8BCA4",
+    "faintColorOnWhite": "rgba(120, 104, 73, 0.1)"
+  },
   "anote": {
     "palette": [
       "#fbefef",
@@ -527,18 +539,6 @@
     "goodColorOnBlack": "#0497FB",
     "faintColorOnWhite": "rgba(3, 122, 203, 0.1)"
   },
-  "cards": {
-    "palette": [
-      "#24a9df",
-      "#98e3f1",
-      "#59d7ee",
-      "#4bc4e4",
-      "#4bd4f4"
-    ],
-    "goodColorOnWhite": "#09758F",
-    "goodColorOnBlack": "#4BD4F4",
-    "faintColorOnWhite": "rgba(9, 117, 143, 0.1)"
-  },
   "caret": {
     "palette": [
       "#f9f9f9",
@@ -718,6 +718,18 @@
     "goodColorOnWhite": "#6D7579",
     "goodColorOnBlack": "#899195",
     "faintColorOnWhite": "rgba(109, 117, 121, 0.1)"
+  },
+  "code-notes": {
+    "palette": [
+      "#255469",
+      "#dbd4c4",
+      "#889ca5",
+      "#6b8092",
+      "#8494a4"
+    ],
+    "goodColorOnWhite": "#255469",
+    "goodColorOnBlack": "#DBD4C4",
+    "faintColorOnWhite": "rgba(37, 84, 105, 0.1)"
   },
   "code-rpgify": {
     "palette": [
@@ -2290,6 +2302,18 @@
     "goodColorOnWhite": "#DD0404",
     "goodColorOnBlack": "#FC5F5F",
     "faintColorOnWhite": "rgba(221, 4, 4, 0.1)"
+  },
+  "james": {
+    "palette": [
+      "#d42c3c",
+      "#fbfbfb",
+      "#d484cc",
+      "#e07c7a",
+      "#d43c94"
+    ],
+    "goodColorOnWhite": "#D42C3C",
+    "goodColorOnBlack": "#D43C94",
+    "faintColorOnWhite": "rgba(212, 44, 60, 0.1)"
   },
   "jamovi": {
     "palette": [
