@@ -2,7 +2,7 @@ name: 'Laravel Kit'
 description: 'Easy Laravel application management'
 website: 'https://github.com/tarequemdhanif/laravel-kit'
 repository: 'https://github.com/tarequemdhanif/laravel-kit'
-homebrewCaskName: ~
+homebrewCaskName: laravel-kit
 license: MIT
 keywords:
     - laravel
