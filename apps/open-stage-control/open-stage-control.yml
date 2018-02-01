@@ -9,8 +9,5 @@ keywords:
 category: 'Music'
 license: 'GNU/GPLv3'
 goodColorOnBlack: '#52a8ff'
-goodColorOnWhite: '#52a8ff'
+goodColorOnWhite: '#313f55'
 faintColorOnWhite: 'rgb(82, 168, 255, .25)'
-screenshots:
-  -
-    imageUrl: 'http://osc.ammd.net/img/ardour-osc.png'
