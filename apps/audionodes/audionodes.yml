@@ -1,7 +1,6 @@
 name: audionodes
 description: 'Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.'
 website: 'https://audionodes.com/'
-license: 'https://audionodes.com/eula'
 category: 'Productivity'
 keywords:
     - music
