@@ -1,0 +1,11 @@
+name: audionodes
+description: 'Modular audio production suite with multi-track audio mixing, audio effects, parameter automation, MIDI editing, synthesis, cloud production, and more.'
+website: 'https://audionodes.com/'
+keywords:
+    - music
+    - productivity
+screenshots:
+  -
+    imageUrl: 'https://audionodes.com/electron-screenshot.png'
+    caption: 'AudioNodes screenshow'
+    imageLink: 'https://audionodes.com/'
