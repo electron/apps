@@ -3923,6 +3923,18 @@
     "goodColorOnBlack": "#FBFBFB",
     "faintColorOnWhite": "rgba(55, 55, 55, 0.1)"
   },
+  "ray": {
+    "palette": [
+      "#3dbdc6",
+      "#ebe41c",
+      "#8cd8f0",
+      "#b1e4f9",
+      "#9ad88a"
+    ],
+    "goodColorOnWhite": "#0D7DAA",
+    "goodColorOnBlack": "#B1E4F9",
+    "faintColorOnWhite": "rgba(13, 125, 170, 0.1)"
+  },
   "reach-podcast-player": {
     "palette": [
       "#54dcfc",
