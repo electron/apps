@@ -251,6 +251,18 @@
     "goodColorOnBlack": "#A0D792",
     "faintColorOnWhite": "rgba(97, 97, 97, 0.1)"
   },
+  "audionodes": {
+    "palette": [
+      "#048e94",
+      "#04b8bf",
+      "#04a9b0",
+      "#04b4b4",
+      "#04a4a4"
+    ],
+    "goodColorOnWhite": "#03797E",
+    "goodColorOnBlack": "#04B8BF",
+    "faintColorOnWhite": "rgba(3, 121, 126, 0.1)"
+  },
   "auryo": {
     "palette": [
       "#4a86b2",
