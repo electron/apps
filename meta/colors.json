@@ -5543,6 +5543,18 @@
     "goodColorOnBlack": "#26845C",
     "faintColorOnWhite": "rgba(15, 56, 39, 0.1)"
   },
+  "whatsapp": {
+    "palette": [
+      "#f2f2f2",
+      "#4fca67",
+      "#a1c8a7",
+      "#b4d8bc",
+      "#80ca8c"
+    ],
+    "goodColorOnWhite": "#267F38",
+    "goodColorOnBlack": "#4FCA67",
+    "faintColorOnWhite": "rgba(38, 127, 56, 0.1)"
+  },
   "wheredat": {
     "palette": [
       "#6fc9f0",
