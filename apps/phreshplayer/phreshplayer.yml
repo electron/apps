@@ -8,9 +8,9 @@ keywords:
     - media
     - player
 category: 'Photo & Video'
-goodColorOnWhite: '#6CBB3C'
-goodColorOnBlack: '#6CBB3C'
+goodColorOnWhite: '#467A27'
+goodColorOnBlack: '#467A27'
 repository: 'https://github.com/Phreshhh/PhreshPlayer'
 screenshots:
     -
-        imageUrl: 'http://phresh-it.hu/apps/phreshplayer/img/5_rightclickmenu.jpg'
+        imageUrl: 'https://github.com/Phreshhh/PhreshPlayer/blob/master/screenshots/5_rightclickmenu.jpg'
