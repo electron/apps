@@ -54,7 +54,10 @@ describe('machine-generated app data (exported by the module)', () => {
 
   it('sets a `colors.faintColorOnWhite` semi-transparent rgba value on every app', () => {
     apps.forEach(app => {
-      expect(app.faintColorOnWhite).to.match(/rgba\(\d+, \d+, \d+, 0\.1\)/)
+      expect(
+        app.faintColorOnWhite,
+        `${app.slug}'s faintColorOnWhite is not right`
+      ).to.match(/rgba\(\d+, \d+, \d+, /)
     })
   })
 
