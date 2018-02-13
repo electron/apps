@@ -3743,6 +3743,18 @@
     "goodColorOnBlack": "#E77260",
     "faintColorOnWhite": "rgba(211, 59, 52, 0.1)"
   },
+  "pomotroid": {
+    "palette": [
+      "#fb4c4c",
+      "#2c3c4c",
+      "#7b404c",
+      "#b0444c",
+      "#513c4c"
+    ],
+    "goodColorOnWhite": "#B0444C",
+    "goodColorOnBlack": "#FB4C4C",
+    "faintColorOnWhite": "rgba(176, 68, 76, 0.1)"
+  },
   "pomotron": {
     "palette": [
       "#67556a",
