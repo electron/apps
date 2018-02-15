@@ -1,0 +1,11 @@
+name: Dotgrid
+description: 'A simple vector illustration tool, that works by adding control points and drawing different line-types between them.'
+website: 'http://hundredrabbits.itch.io/dotgrid'
+repository: 'http://hundredrabbits.itch.io/dotgrid'
+screenshots:
+    - imageUrl: 'https://raw.githubusercontent.com/hundredrabbits/Dotgrid/master/PREVIEW.jpg'
+keywords:
+    - illustration
+    - design
+    - vector
+category: Graphics & Design
