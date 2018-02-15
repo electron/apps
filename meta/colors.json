@@ -623,6 +623,18 @@
     "goodColorOnBlack": "#F74435",
     "faintColorOnWhite": "rgba(55, 55, 47, 0.1)"
   },
+  "checksum-validator": {
+    "palette": [
+      "#90519e",
+      "#fbfafb",
+      "#b3b3b3",
+      "#c4a1ca",
+      "#bc94cc"
+    ],
+    "goodColorOnWhite": "#90519E",
+    "goodColorOnBlack": "#BC94CC",
+    "faintColorOnWhite": "rgba(144, 81, 158, 0.1)"
+  },
   "chronobreak": {
     "palette": [
       "#223341",
