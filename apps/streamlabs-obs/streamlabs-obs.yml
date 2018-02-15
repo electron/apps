@@ -8,3 +8,6 @@ keywords:
     - streaming
     - streamlabs
 license: GPLv3
+goodColorOnWhite: '#32C3A2'
+goodColorOnBlack: '#32C3A2'
+faintColorOnWhite: 'rgba(50,195,162, .1)'
