@@ -1,0 +1,10 @@
+name: 'Streamlabs OBS'
+description: 'Simple, powerful, and efficient live streaming software'
+website: 'https://streamlabs.com/streamlabs-obs'
+category: 'Photo & Video'
+repository: 'https://github.com/stream-labs/streamlabs-obs'
+keywords:
+    - livestreaming
+    - streaming
+    - streamlabs
+license: GPLv3
