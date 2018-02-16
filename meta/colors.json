@@ -2903,6 +2903,18 @@
     "goodColorOnBlack": "#0ECAF5",
     "faintColorOnWhite": "rgba(6, 119, 145, 0.1)"
   },
+  "mercury": {
+    "palette": [
+      "#fbc604",
+      "#4a3104",
+      "#b28904",
+      "#946c04",
+      "#c49c04"
+    ],
+    "goodColorOnWhite": "#946C04",
+    "goodColorOnBlack": "#FBC604",
+    "faintColorOnWhite": "rgba(148, 108, 4, 0.1)"
+  },
   "messenger-demo-viewer": {
     "palette": [
       "#04b3ea",
@@ -3166,6 +3178,18 @@
     "goodColorOnWhite": "#1180A2",
     "goodColorOnBlack": "#44C4EB",
     "faintColorOnWhite": "rgba(17, 128, 162, 0.1)"
+  },
+  "musify": {
+    "palette": [
+      "#222222",
+      "#d93c3c",
+      "#727272",
+      "#5c5c5c",
+      "#6d2424"
+    ],
+    "goodColorOnWhite": "#D93C3C",
+    "goodColorOnBlack": "#D93C3C",
+    "faintColorOnWhite": "rgba(217, 60, 60, 0.1)"
   },
   "nattt": {
     "palette": [
@@ -4702,6 +4726,18 @@
     "goodColorOnWhite": "#C41C2C",
     "goodColorOnBlack": "#EB244B",
     "faintColorOnWhite": "rgba(196, 28, 44, 0.1)"
+  },
+  "streamlabs-obs": {
+    "palette": [
+      "#34c3a3",
+      "#f9f9f9",
+      "#36464e",
+      "#39867c",
+      "#84b4ac"
+    ],
+    "goodColorOnWhite": "#36464E",
+    "goodColorOnBlack": "#34C3A3",
+    "faintColorOnWhite": "rgba(54, 70, 78, 0.1)"
   },
   "streetviewdownload360": {
     "palette": [

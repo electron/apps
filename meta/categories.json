@@ -21,12 +21,12 @@
   },
   {
     "name": "Photo & Video",
-    "count": 34,
+    "count": 35,
     "slug": "photo-video"
   },
   {
     "name": "Music",
-    "count": 30,
+    "count": 31,
     "slug": "music"
   },
   {
@@ -35,14 +35,14 @@
     "slug": "games"
   },
   {
+    "name": "Finance",
+    "count": 13,
+    "slug": "finance"
+  },
+  {
     "name": "Business",
     "count": 12,
     "slug": "business"
-  },
-  {
-    "name": "Finance",
-    "count": 12,
-    "slug": "finance"
   },
   {
     "name": "Education",
