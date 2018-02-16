@@ -11,3 +11,16 @@ license: GPLv3
 goodColorOnWhite: '#32C3A2'
 goodColorOnBlack: '#32C3A2'
 faintColorOnWhite: 'rgba(50,195,162, .1)'
+screenshots:
+    -
+      imageUrl: 'https://cdn.streamlabs.com/slobs/slobs-recent-events.png'
+      caption: 'Live Tab'
+      imageLink: 'https://github.com/stream-labs/streamlabs-obs'
+    -
+      imageUrl: 'https://cdn.streamlabs.com/slobs/slobs-chatbox.png'
+      caption: 'Editor Tab'
+      imageLink: 'https://github.com/stream-labs/streamlabs-obs'
+    -
+      imageUrl: 'https://cdn.streamlabs.com/slobs/slobs-library.png'
+      caption: 'Overlay Library'
+      imageLink: 'https://github.com/stream-labs/streamlabs-obs'
