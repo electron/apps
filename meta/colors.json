@@ -2195,6 +2195,18 @@
     "goodColorOnBlack": "#D5BE7C",
     "faintColorOnWhite": "rgba(53, 49, 33, 0.1)"
   },
+  "image-shrinker": {
+    "palette": [
+      "#d4abaa",
+      "#435c68",
+      "#a34743",
+      "#75acca",
+      "#f0694f"
+    ],
+    "goodColorOnWhite": "#A34743",
+    "goodColorOnBlack": "#F0694F",
+    "faintColorOnWhite": "rgba(163, 71, 67, 0.1)"
+  },
   "imagine": {
     "palette": [
       "#049bfb",
