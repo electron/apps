@@ -511,5 +511,7 @@
   "checksum-validator": "2018-02-15",
   "mercury": "2018-02-16",
   "musify": "2018-02-16",
-  "streamlabs-obs": "2018-02-16"
+  "streamlabs-obs": "2018-02-16",
+  "laravel-kit": "2018-02-17",
+  "vocare-helpdesk": "2018-02-17"
 }
