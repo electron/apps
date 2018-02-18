@@ -1,5 +1,5 @@
 name: 'Rename Multiple File'
-description: 'windows application made with electron to rename multiple file with the same name just by single click'
+description: 'rename all of your files in a specified folder'
 repository: 'https://github.com/dhanyn10/rename-multiple-file'
 keywords:
     - file
