@@ -2605,15 +2605,15 @@
   },
   "laravel-kit": {
     "palette": [
-      "#f6f6fa",
-      "#4c2cb4",
-      "#a494dc",
-      "#8471cd",
-      "#745cc4"
+      "#3152d0",
+      "#fbfbfb",
+      "#0c86f5",
+      "#8790de",
+      "#84b4f4"
     ],
-    "goodColorOnWhite": "#4C2CB4",
-    "goodColorOnBlack": "#A494DC",
-    "faintColorOnWhite": "rgba(76, 44, 180, 0.1)"
+    "goodColorOnWhite": "#3152D0",
+    "goodColorOnBlack": "#0C86F5",
+    "faintColorOnWhite": "rgba(49, 82, 208, 0.1)"
   },
   "laverna": {
     "palette": [
