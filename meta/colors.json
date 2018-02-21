@@ -2605,15 +2605,15 @@
   },
   "laravel-kit": {
     "palette": [
-      "#f6f6fa",
-      "#4c2cb4",
-      "#a494dc",
-      "#8471cd",
-      "#745cc4"
+      "#3152d0",
+      "#fbfbfb",
+      "#0c86f5",
+      "#8790de",
+      "#84b4f4"
     ],
-    "goodColorOnWhite": "#4C2CB4",
-    "goodColorOnBlack": "#A494DC",
-    "faintColorOnWhite": "rgba(76, 44, 180, 0.1)"
+    "goodColorOnWhite": "#3152D0",
+    "goodColorOnBlack": "#0C86F5",
+    "faintColorOnWhite": "rgba(49, 82, 208, 0.1)"
   },
   "laverna": {
     "palette": [
@@ -3838,6 +3838,18 @@
     "goodColorOnWhite": "#101010",
     "goodColorOnBlack": "#FA43B3",
     "faintColorOnWhite": "rgba(16, 16, 16, 0.1)"
+  },
+  "popsql": {
+    "palette": [
+      "#fc7b45",
+      "#f67a75",
+      "#fc6462",
+      "#fc9c1f",
+      "#fc9424"
+    ],
+    "goodColorOnWhite": "#D04003",
+    "goodColorOnBlack": "#FC7B45",
+    "faintColorOnWhite": "rgba(208, 64, 3, 0.1)"
   },
   "postbird": {
     "palette": [
