@@ -4,3 +4,6 @@ website: 'https://ivan770.github.io/PiQture/'
 repository: 'https://github.com/ivan770/PiQture'
 category: 'Productivity'
 license: 'MIT'
+screenshots:
+    -
+        imageUrl: 'https://ivan770.github.io/PiQture/screenshots/screen_1.png'
