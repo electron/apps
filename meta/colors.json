@@ -2231,6 +2231,18 @@
     "goodColorOnBlack": "#9FDEFA",
     "faintColorOnWhite": "rgba(9, 117, 166, 0.1)"
   },
+  "infinitex": {
+    "palette": [
+      "#070707",
+      "#fbfbfb",
+      "#a0a0a0",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "goodColorOnWhite": "#070707",
+    "goodColorOnBlack": "#FBFBFB",
+    "faintColorOnWhite": "rgba(7, 7, 7, 0.1)"
+  },
   "infinity": {
     "palette": [
       "#4dacd4",
@@ -3742,6 +3754,18 @@
     "goodColorOnWhite": "#1D8088",
     "goodColorOnBlack": "#2CC2CF",
     "faintColorOnWhite": "rgba(29, 128, 136, 0.1)"
+  },
+  "piqture": {
+    "palette": [
+      "#343c54",
+      "#4352d4",
+      "#3c4489",
+      "#3c4070",
+      "#3c4c5c"
+    ],
+    "goodColorOnWhite": "#4352D4",
+    "goodColorOnBlack": "#727DDF",
+    "faintColorOnWhite": "rgba(67, 82, 212, 0.1)"
   },
   "plain-email": {
     "palette": [
