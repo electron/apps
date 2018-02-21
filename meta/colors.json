@@ -3179,6 +3179,18 @@
     "goodColorOnBlack": "#6484B4",
     "faintColorOnWhite": "rgba(36, 76, 124, 0.1)"
   },
+  "multiple-file-manager": {
+    "palette": [
+      "#06090c",
+      "#4a92d2",
+      "#386c9c",
+      "#ededed",
+      "#4484bc"
+    ],
+    "goodColorOnWhite": "#386C9C",
+    "goodColorOnBlack": "#4A92D2",
+    "faintColorOnWhite": "rgba(56, 108, 156, 0.1)"
+  },
   "muno": {
     "palette": [
       "#04b2e1",
@@ -4138,18 +4150,6 @@
     "goodColorOnWhite": "#2065D8",
     "goodColorOnBlack": "#B4CCF4",
     "faintColorOnWhite": "rgba(32, 101, 216, 0.1)"
-  },
-  "rename-multiple-file": {
-    "palette": [
-      "#06090c",
-      "#4a92d2",
-      "#386c9c",
-      "#ededed",
-      "#4484bc"
-    ],
-    "goodColorOnWhite": "#386C9C",
-    "goodColorOnBlack": "#4A92D2",
-    "faintColorOnWhite": "rgba(56, 108, 156, 0.1)"
   },
   "reqview": {
     "palette": [
