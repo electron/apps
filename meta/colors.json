@@ -2291,6 +2291,18 @@
     "goodColorOnBlack": "#C2BCE6",
     "faintColorOnWhite": "rgba(100, 92, 196, 0.1)"
   },
+  "instatron": {
+    "palette": [
+      "#34b6fb",
+      "#ece4da",
+      "#314957",
+      "#607773",
+      "#e2544b"
+    ],
+    "goodColorOnWhite": "#314957",
+    "goodColorOnBlack": "#34B6FB",
+    "faintColorOnWhite": "rgba(49, 73, 87, 0.1)"
+  },
   "intu-mind": {
     "palette": [
       "#04ab9b",
@@ -3238,6 +3250,18 @@
     "goodColorOnWhite": "#D93C3C",
     "goodColorOnBlack": "#D93C3C",
     "faintColorOnWhite": "rgba(217, 60, 60, 0.1)"
+  },
+  "mypsn": {
+    "palette": [
+      "#1c1c1c",
+      "#201c1c",
+      "#201c1c",
+      "#201c1c",
+      "#201c1c"
+    ],
+    "goodColorOnWhite": "#201C1C",
+    "goodColorOnBlack": "#897979",
+    "faintColorOnWhite": "rgba(32, 28, 28, 0.1)"
   },
   "nattt": {
     "palette": [
