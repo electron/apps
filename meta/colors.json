@@ -1499,6 +1499,18 @@
     "goodColorOnBlack": "#09AF70",
     "faintColorOnWhite": "rgba(68, 33, 86, 0.1)"
   },
+  "final-countdown": {
+    "palette": [
+      "#2c2c2c",
+      "#302c2c",
+      "#302c2c",
+      "#302c2c",
+      "#302c2c"
+    ],
+    "goodColorOnWhite": "#302C2C",
+    "goodColorOnBlack": "#877C7C",
+    "faintColorOnWhite": "rgba(48, 44, 44, 0.1)"
+  },
   "firebase-admin": {
     "palette": [
       "#fcc535",
