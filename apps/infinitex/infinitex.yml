@@ -12,4 +12,5 @@ keywords:
     - libgen
 license: GPL-3.0
 screenshots:
-    - imageUrl: 'https://github.com/fetacore/Infinitex/master/infinitex.gif'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/fetacore/Infinitex/master/infinitex.gif'
