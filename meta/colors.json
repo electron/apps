@@ -3779,6 +3779,18 @@
     "goodColorOnBlack": "#04A444",
     "faintColorOnWhite": "rgba(3, 134, 56, 0.1)"
   },
+  "picpipe": {
+    "palette": [
+      "#3535f4",
+      "#f8f8f8",
+      "#7676f1",
+      "#9494ec",
+      "#9c94f4"
+    ],
+    "goodColorOnWhite": "#3535F4",
+    "goodColorOnBlack": "#7676F1",
+    "faintColorOnWhite": "rgba(53, 53, 244, 0.1)"
+  },
   "pilemd": {
     "palette": [
       "#2cc2cf",
