@@ -4859,6 +4859,18 @@
     "goodColorOnBlack": "#F9C004",
     "faintColorOnWhite": "rgba(145, 111, 2, 0.1)"
   },
+  "studymd": {
+    "palette": [
+      "#040504",
+      "#77c44f",
+      "#0fb391",
+      "#30b87d",
+      "#467b36"
+    ],
+    "goodColorOnWhite": "#467B36",
+    "goodColorOnBlack": "#0FB391",
+    "faintColorOnWhite": "rgba(70, 123, 54, 0.1)"
+  },
   "subordination": {
     "palette": [
       "#7c9ebc",
