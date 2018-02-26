@@ -2423,6 +2423,18 @@
     "goodColorOnBlack": "#049BE4",
     "faintColorOnWhite": "rgba(3, 123, 180, 0.1)"
   },
+  "janus-workspace": {
+    "palette": [
+      "#f6f6f6",
+      "#2a2b2b",
+      "#7c7c80",
+      "#747474",
+      "#848484"
+    ],
+    "goodColorOnWhite": "#2A2B2B",
+    "goodColorOnBlack": "#7C7C80",
+    "faintColorOnWhite": "rgba(42, 43, 43, 0.1)"
+  },
   "jasper": {
     "palette": [
       "#dedddd",
