@@ -817,11 +817,11 @@
   },
   "colorpicker": {
     "palette": [
-      "#ececec",
-      "#56a8af",
+      "#f3f3f3",
+      "#4ca4d4",
       "#dc644c",
-      "#c4f0c4",
-      "#c4f0c4"
+      "#74b44c",
+      "#ecbcb4"
     ],
     "goodColorOnWhite": "#C84227",
     "goodColorOnBlack": "#DC644C",
