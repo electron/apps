@@ -4427,6 +4427,18 @@
     "goodColorOnBlack": "#8CBA58",
     "faintColorOnWhite": "rgba(108, 108, 108, 0.1)"
   },
+  "servpane": {
+    "palette": [
+      "#282928",
+      "#f2b6b4",
+      "#4bd662",
+      "#8b8783",
+      "#949494"
+    ],
+    "goodColorOnWhite": "#282928",
+    "goodColorOnBlack": "#F2B6B4",
+    "faintColorOnWhite": "rgba(40, 41, 40, 0.1)"
+  },
   "seton": {
     "palette": [
       "#740434",
