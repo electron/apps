@@ -172,6 +172,19 @@ Some things to keep in mind when preparing your app for submission. Heavily insp
 - Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
 
+## Removing or Disabling Apps
+
+Sometimes it's necessary to remove an app for this registry. To do so,
+add a `disabled` property to the app's YML file, followed a comment
+explaining the reason for removing it.
+
+```yml
+disabled: true # Nylas was sunset and replaced by Mailspring
+```
+
+This approach keeps the app data on hand, giving the app developer 
+an option to resurrect the app at a later date by simply removing the flag.
+
 ## Development
 
 To develop this thing locally, there are a few things you should know:
