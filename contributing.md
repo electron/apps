@@ -10,6 +10,23 @@ The following is a set of guidelines for contributing to `electron-apps`.
 These are just guidelines, not rules. Use your best judgment and feel free to
 propose changes to this document in a pull request.
 
+## Contents
+
+* [Adding your app](#adding-your-app)
+  + [Using the wizard 🔮](#using-the-wizard-%F0%9F%94%AE)
+  + [Adding your app by hand 💪](#adding-your-app-by-hand-%F0%9F%92%AA)
+  + [YML File Rules](#yml-file-rules)
+  + [Categories](#categories)
+  + [Screenshots](#screenshots)
+  + [Colors](#colors)
+  + [Icons](#icons)
+  + [Locales](#locales)
+  + [Company Logos and Names](#company-logos-and-names)
+  + [Submission Guidelines](#submission-guidelines)
+* [Removing or Disabling Apps](#removing-or-disabling-apps)
+* [Development](#development)
+* [Testing](#testing)
+
 ## Adding your app
 
 If you have an Electron application you'd like to see added, please
