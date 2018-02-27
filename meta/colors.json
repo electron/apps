@@ -2891,6 +2891,18 @@
     "goodColorOnBlack": "#349CDC",
     "faintColorOnWhite": "rgba(29, 115, 168, 0.1)"
   },
+  "marktext": {
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "goodColorOnWhite": "#080404",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
+  },
   "marp": {
     "palette": [
       "#0b8ccf",
