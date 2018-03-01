@@ -131,6 +131,18 @@
     "goodColorOnBlack": "#3990DF",
     "faintColorOnWhite": "rgba(31, 116, 194, 0.1)"
   },
+  "amipwned": {
+    "palette": [
+      "#04b79f",
+      "#e1eaf2",
+      "#6ac4bc",
+      "#047a6a",
+      "#3cbcac"
+    ],
+    "goodColorOnWhite": "#047A6A",
+    "goodColorOnBlack": "#04B79F",
+    "faintColorOnWhite": "rgba(4, 122, 106, 0.1)"
+  },
   "amium": {
     "palette": [
       "#fcfbfb",
@@ -2761,15 +2773,15 @@
   },
   "luna": {
     "palette": [
-      "#f4544c",
-      "#fbf8f8",
-      "#f4a49c",
-      "#f4918e",
-      "#f47c74"
+      "#fc7d04",
+      "#fcf9f7",
+      "#fca04c",
+      "#fcb46c",
+      "#fc9c38"
     ],
-    "goodColorOnWhite": "#DD170E",
-    "goodColorOnBlack": "#F4544C",
-    "faintColorOnWhite": "rgba(221, 23, 14, 0.1)"
+    "goodColorOnWhite": "#B55A02",
+    "goodColorOnBlack": "#FC7D04",
+    "faintColorOnWhite": "rgba(181, 90, 2, 0.1)"
   },
   "mailspring": {
     "palette": [
@@ -3226,6 +3238,18 @@
     "goodColorOnWhite": "#213250",
     "goodColorOnBlack": "#D2E4F2",
     "faintColorOnWhite": "rgba(33, 50, 80, 0.1)"
+  },
+  "montenote": {
+    "palette": [
+      "#2c2c3c",
+      "#f3f3f3",
+      "#949ca4",
+      "#9c9ca4",
+      "#9494a4"
+    ],
+    "goodColorOnWhite": "#2C2C3C",
+    "goodColorOnBlack": "#949CA4",
+    "faintColorOnWhite": "rgba(44, 44, 60, 0.1)"
   },
   "mstream": {
     "palette": [
