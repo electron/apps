@@ -1,5 +1,5 @@
 name: 'amipwned'
-description: 'amipwned is a desktop app that utilizes the haveibeenpwned API.'
+description: 'Desktop app that utilizes the haveibeenpwned API.'
 website: 'https://github.com/ImNotLiam/amipwned'
 repository: 'https://github.com/ImNotLiam/amipwned'
 keywords:
