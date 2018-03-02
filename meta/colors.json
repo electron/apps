@@ -1079,6 +1079,18 @@
     "goodColorOnBlack": "#98A4B0",
     "faintColorOnWhite": "rgba(106, 67, 196, 0.1)"
   },
+  "deckboard": {
+    "palette": [
+      "#2c3c53",
+      "#f9f9f9",
+      "#949ca4",
+      "#88909c",
+      "#9ca4ac"
+    ],
+    "goodColorOnWhite": "#2C3C53",
+    "goodColorOnBlack": "#88909C",
+    "faintColorOnWhite": "rgba(44, 60, 83, 0.1)"
+  },
   "deckhub": {
     "palette": [
       "#4bd4b5",
