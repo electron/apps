@@ -3865,15 +3865,15 @@
   },
   "piqture": {
     "palette": [
-      "#343c54",
-      "#4352d4",
-      "#3c4489",
-      "#3c4070",
-      "#3c4c5c"
+      "#242424",
+      "#e2e2e3",
+      "#7425a4",
+      "#965fb6",
+      "#848484"
     ],
-    "goodColorOnWhite": "#4352D4",
-    "goodColorOnBlack": "#727DDF",
-    "faintColorOnWhite": "rgba(67, 82, 212, 0.1)"
+    "goodColorOnWhite": "#7425A4",
+    "goodColorOnBlack": "#965FB6",
+    "faintColorOnWhite": "rgba(116, 37, 164, 0.1)"
   },
   "plain-email": {
     "palette": [
