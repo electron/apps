@@ -131,6 +131,18 @@
     "goodColorOnBlack": "#3990DF",
     "faintColorOnWhite": "rgba(31, 116, 194, 0.1)"
   },
+  "amipwned": {
+    "palette": [
+      "#04b79f",
+      "#e1eaf2",
+      "#6ac4bc",
+      "#047a6a",
+      "#3cbcac"
+    ],
+    "goodColorOnWhite": "#047A6A",
+    "goodColorOnBlack": "#04B79F",
+    "faintColorOnWhite": "rgba(4, 122, 106, 0.1)"
+  },
   "amium": {
     "palette": [
       "#fcfbfb",
@@ -817,11 +829,11 @@
   },
   "colorpicker": {
     "palette": [
-      "#ececec",
-      "#56a8af",
+      "#f3f3f3",
+      "#4ca4d4",
       "#dc644c",
-      "#c4f0c4",
-      "#c4f0c4"
+      "#74b44c",
+      "#ecbcb4"
     ],
     "goodColorOnWhite": "#C84227",
     "goodColorOnBlack": "#DC644C",
@@ -1066,6 +1078,18 @@
     "goodColorOnWhite": "#6A43C4",
     "goodColorOnBlack": "#98A4B0",
     "faintColorOnWhite": "rgba(106, 67, 196, 0.1)"
+  },
+  "deckboard": {
+    "palette": [
+      "#2c3c53",
+      "#f9f9f9",
+      "#949ca4",
+      "#88909c",
+      "#9ca4ac"
+    ],
+    "goodColorOnWhite": "#2C3C53",
+    "goodColorOnBlack": "#88909C",
+    "faintColorOnWhite": "rgba(44, 60, 83, 0.1)"
   },
   "deckhub": {
     "palette": [
@@ -1498,6 +1522,18 @@
     "goodColorOnWhite": "#442156",
     "goodColorOnBlack": "#09AF70",
     "faintColorOnWhite": "rgba(68, 33, 86, 0.1)"
+  },
+  "final-countdown": {
+    "palette": [
+      "#2c2c2c",
+      "#302c2c",
+      "#302c2c",
+      "#302c2c",
+      "#302c2c"
+    ],
+    "goodColorOnWhite": "#302C2C",
+    "goodColorOnBlack": "#877C7C",
+    "faintColorOnWhite": "rgba(48, 44, 44, 0.1)"
   },
   "firebase-admin": {
     "palette": [
@@ -2231,6 +2267,18 @@
     "goodColorOnBlack": "#9FDEFA",
     "faintColorOnWhite": "rgba(9, 117, 166, 0.1)"
   },
+  "infinitex": {
+    "palette": [
+      "#070707",
+      "#fbfbfb",
+      "#a0a0a0",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "goodColorOnWhite": "#070707",
+    "goodColorOnBlack": "#FBFBFB",
+    "faintColorOnWhite": "rgba(7, 7, 7, 0.1)"
+  },
   "infinity": {
     "palette": [
       "#4dacd4",
@@ -2278,6 +2326,18 @@
     "goodColorOnWhite": "#645CC4",
     "goodColorOnBlack": "#C2BCE6",
     "faintColorOnWhite": "rgba(100, 92, 196, 0.1)"
+  },
+  "instatron": {
+    "palette": [
+      "#34b6fb",
+      "#ece4da",
+      "#314957",
+      "#607773",
+      "#e2544b"
+    ],
+    "goodColorOnWhite": "#314957",
+    "goodColorOnBlack": "#34B6FB",
+    "faintColorOnWhite": "rgba(49, 73, 87, 0.1)"
   },
   "intu-mind": {
     "palette": [
@@ -2386,6 +2446,18 @@
     "goodColorOnWhite": "#037BB4",
     "goodColorOnBlack": "#049BE4",
     "faintColorOnWhite": "rgba(3, 123, 180, 0.1)"
+  },
+  "janus-workspace": {
+    "palette": [
+      "#f6f6f6",
+      "#2a2b2b",
+      "#7c7c80",
+      "#747474",
+      "#848484"
+    ],
+    "goodColorOnWhite": "#2A2B2B",
+    "goodColorOnBlack": "#7C7C80",
+    "faintColorOnWhite": "rgba(42, 43, 43, 0.1)"
   },
   "jasper": {
     "palette": [
@@ -2713,15 +2785,15 @@
   },
   "luna": {
     "palette": [
-      "#f4544c",
-      "#fbf8f8",
-      "#f4a49c",
-      "#f4918e",
-      "#f47c74"
+      "#fc7d04",
+      "#fcf9f7",
+      "#fca04c",
+      "#fcb46c",
+      "#fc9c38"
     ],
-    "goodColorOnWhite": "#DD170E",
-    "goodColorOnBlack": "#F4544C",
-    "faintColorOnWhite": "rgba(221, 23, 14, 0.1)"
+    "goodColorOnWhite": "#B55A02",
+    "goodColorOnBlack": "#FC7D04",
+    "faintColorOnWhite": "rgba(181, 90, 2, 0.1)"
   },
   "mailspring": {
     "palette": [
@@ -2842,6 +2914,18 @@
     "goodColorOnWhite": "#1D73A8",
     "goodColorOnBlack": "#349CDC",
     "faintColorOnWhite": "rgba(29, 115, 168, 0.1)"
+  },
+  "marktext": {
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "goodColorOnWhite": "#080404",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
   },
   "marp": {
     "palette": [
@@ -3167,6 +3251,18 @@
     "goodColorOnBlack": "#D2E4F2",
     "faintColorOnWhite": "rgba(33, 50, 80, 0.1)"
   },
+  "montenote": {
+    "palette": [
+      "#2c2c3c",
+      "#f3f3f3",
+      "#949ca4",
+      "#9c9ca4",
+      "#9494a4"
+    ],
+    "goodColorOnWhite": "#2C2C3C",
+    "goodColorOnBlack": "#949CA4",
+    "faintColorOnWhite": "rgba(44, 44, 60, 0.1)"
+  },
   "mstream": {
     "palette": [
       "#6484b4",
@@ -3226,6 +3322,18 @@
     "goodColorOnWhite": "#D93C3C",
     "goodColorOnBlack": "#D93C3C",
     "faintColorOnWhite": "rgba(217, 60, 60, 0.1)"
+  },
+  "mypsn": {
+    "palette": [
+      "#1c1c1c",
+      "#201c1c",
+      "#201c1c",
+      "#201c1c",
+      "#201c1c"
+    ],
+    "goodColorOnWhite": "#201C1C",
+    "goodColorOnBlack": "#897979",
+    "faintColorOnWhite": "rgba(32, 28, 28, 0.1)"
   },
   "nattt": {
     "palette": [
@@ -3731,6 +3839,18 @@
     "goodColorOnBlack": "#04A444",
     "faintColorOnWhite": "rgba(3, 134, 56, 0.1)"
   },
+  "picpipe": {
+    "palette": [
+      "#3535f4",
+      "#f8f8f8",
+      "#7676f1",
+      "#9494ec",
+      "#9c94f4"
+    ],
+    "goodColorOnWhite": "#3535F4",
+    "goodColorOnBlack": "#7676F1",
+    "faintColorOnWhite": "rgba(53, 53, 244, 0.1)"
+  },
   "pilemd": {
     "palette": [
       "#2cc2cf",
@@ -3742,6 +3862,18 @@
     "goodColorOnWhite": "#1D8088",
     "goodColorOnBlack": "#2CC2CF",
     "faintColorOnWhite": "rgba(29, 128, 136, 0.1)"
+  },
+  "piqture": {
+    "palette": [
+      "#343c54",
+      "#4352d4",
+      "#3c4489",
+      "#3c4070",
+      "#3c4c5c"
+    ],
+    "goodColorOnWhite": "#4352D4",
+    "goodColorOnBlack": "#727DDF",
+    "faintColorOnWhite": "rgba(67, 82, 212, 0.1)"
   },
   "plain-email": {
     "palette": [
@@ -4331,6 +4463,18 @@
     "goodColorOnBlack": "#8CBA58",
     "faintColorOnWhite": "rgba(108, 108, 108, 0.1)"
   },
+  "servpane": {
+    "palette": [
+      "#282928",
+      "#f2b6b4",
+      "#4bd662",
+      "#8b8783",
+      "#949494"
+    ],
+    "goodColorOnWhite": "#282928",
+    "goodColorOnBlack": "#F2B6B4",
+    "faintColorOnWhite": "rgba(40, 41, 40, 0.1)"
+  },
   "seton": {
     "palette": [
       "#740434",
@@ -4786,6 +4930,18 @@
     "goodColorOnWhite": "#916F02",
     "goodColorOnBlack": "#F9C004",
     "faintColorOnWhite": "rgba(145, 111, 2, 0.1)"
+  },
+  "studymd": {
+    "palette": [
+      "#040504",
+      "#77c44f",
+      "#0fb391",
+      "#30b87d",
+      "#467b36"
+    ],
+    "goodColorOnWhite": "#467B36",
+    "goodColorOnBlack": "#0FB391",
+    "faintColorOnWhite": "rgba(70, 123, 54, 0.1)"
   },
   "subordination": {
     "palette": [
