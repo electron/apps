@@ -13,8 +13,8 @@ propose changes to this document in a pull request.
 ## Contents
 
 * [Adding your app](#adding-your-app)
-  + [Using the wizard 🔮](#using-the-wizard-%F0%9F%94%AE)
-  + [Adding your app by hand 💪](#adding-your-app-by-hand-%F0%9F%92%AA)
+  + [Using the wizard 🔮](#using-the-wizard-)
+  + [Adding your app by hand 💪](#adding-your-app-by-hand-)
   + [YML File Rules](#yml-file-rules)
   + [Categories](#categories)
   + [Screenshots](#screenshots)
