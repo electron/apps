@@ -3325,15 +3325,15 @@
   },
   "mypsn": {
     "palette": [
-      "#1c1c1c",
-      "#201c1c",
-      "#201c1c",
-      "#201c1c",
-      "#201c1c"
+      "#7c7c7c",
+      "#343c3c",
+      "#d8d8d8",
+      "#6c7474",
+      "#64646c"
     ],
-    "goodColorOnWhite": "#201C1C",
-    "goodColorOnBlack": "#897979",
-    "faintColorOnWhite": "rgba(32, 28, 28, 0.1)"
+    "goodColorOnWhite": "#343C3C",
+    "goodColorOnBlack": "#7C7C7C",
+    "faintColorOnWhite": "rgba(52, 60, 60, 0.1)"
   },
   "nattt": {
     "palette": [
