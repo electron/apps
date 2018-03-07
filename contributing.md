@@ -107,7 +107,7 @@ apps
 
 ### Screenshots
 
-Screenshots are optional, but should be an array in the following format if provided:
+Screenshots are optional, but must be _https_ and should be an array in the following format if provided:
 
 ```yml
 screenshots:
