@@ -5651,6 +5651,18 @@
     "goodColorOnBlack": "#7C8C94",
     "faintColorOnWhite": "rgba(33, 34, 34, 0.1)"
   },
+  "video-hub-app": {
+    "palette": [
+      "#db0404",
+      "#b7c8f8",
+      "#5275fa",
+      "#570507",
+      "#dc8484"
+    ],
+    "goodColorOnWhite": "#DB0404",
+    "goodColorOnBlack": "#5275FA",
+    "faintColorOnWhite": "rgba(219, 4, 4, 0.1)"
+  },
   "visual-comic-reader": {
     "palette": [
       "#f4bd6e",
@@ -5734,6 +5746,18 @@
     "goodColorOnWhite": "#4E1C3C",
     "goodColorOnBlack": "#CF579F",
     "faintColorOnWhite": "rgba(78, 28, 60, 0.1)"
+  },
+  "vzl": {
+    "palette": [
+      "#04acfc",
+      "#aae4fc",
+      "#4bbffc",
+      "#34bcfc",
+      "#24b4fc"
+    ],
+    "goodColorOnWhite": "#027CB5",
+    "goodColorOnBlack": "#04ACFC",
+    "faintColorOnWhite": "rgba(2, 124, 181, 0.1)"
   },
   "wail": {
     "palette": [
@@ -6250,5 +6274,17 @@
     "goodColorOnWhite": "#5A59DC",
     "goodColorOnBlack": "#D49CFC",
     "faintColorOnWhite": "rgba(90, 89, 220, 0.1)"
+  },
+  "zuzu": {
+    "palette": [
+      "#049484",
+      "#f6f9f9",
+      "#042020",
+      "#76c4bc",
+      "#04544c"
+    ],
+    "goodColorOnWhite": "#04544C",
+    "goodColorOnBlack": "#049484",
+    "faintColorOnWhite": "rgba(4, 84, 76, 0.1)"
   }
 }
