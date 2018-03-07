@@ -13,8 +13,8 @@ propose changes to this document in a pull request.
 ## Contents
 
 * [Adding your app](#adding-your-app)
-  + [Using the wizard 🔮](#using-the-wizard-%F0%9F%94%AE)
-  + [Adding your app by hand 💪](#adding-your-app-by-hand-%F0%9F%92%AA)
+  + [Using the wizard 🔮](#using-the-wizard-)
+  + [Adding your app by hand 💪](#adding-your-app-by-hand-)
   + [YML File Rules](#yml-file-rules)
   + [Categories](#categories)
   + [Screenshots](#screenshots)
@@ -107,7 +107,7 @@ apps
 
 ### Screenshots
 
-Screenshots are optional, but should be an array in the following format if provided:
+Screenshots are optional, but must be _https_ and should be an array in the following format if provided:
 
 ```yml
 screenshots:
