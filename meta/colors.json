@@ -1979,6 +1979,18 @@
     "goodColorOnBlack": "#77C8EC",
     "faintColorOnWhite": "rgba(23, 121, 165, 0.1)"
   },
+  "gram-tools": {
+    "palette": [
+      "#a1b2b3",
+      "#182627",
+      "#626c6c",
+      "#4c5c5c",
+      "#4c5454"
+    ],
+    "goodColorOnWhite": "#182627",
+    "goodColorOnBlack": "#A1B2B3",
+    "faintColorOnWhite": "rgba(24, 38, 39, 0.1)"
+  },
   "grap": {
     "palette": [
       "#2484d4",
