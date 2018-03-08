@@ -4175,6 +4175,18 @@
     "goodColorOnBlack": "#4CA75C",
     "faintColorOnWhite": "rgba(56, 123, 68, 0.1)"
   },
+  "putler": {
+    "palette": [
+      "#cecec5",
+      "#646464",
+      "#8cae3c",
+      "#afcc68",
+      "#808d74"
+    ],
+    "goodColorOnWhite": "#646464",
+    "goodColorOnBlack": "#AFCC68",
+    "faintColorOnWhite": "rgba(100, 100, 100, 0.1)"
+  },
   "qbox": {
     "palette": [
       "#5b51fc",
