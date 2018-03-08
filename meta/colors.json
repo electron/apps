@@ -491,6 +491,18 @@
     "goodColorOnBlack": "#568C6E",
     "faintColorOnWhite": "rgba(4, 64, 38, 0.1)"
   },
+  "buckets": {
+    "palette": [
+      "#f9fbfc",
+      "#2cacf4",
+      "#7accf4",
+      "#5cc4f4",
+      "#51bcf4"
+    ],
+    "goodColorOnWhite": "#0973AF",
+    "goodColorOnBlack": "#2CACF4",
+    "faintColorOnWhite": "rgba(9, 115, 175, 0.1)"
+  },
   "buka": {
     "palette": [
       "#3a5994",
@@ -1667,6 +1679,18 @@
     "goodColorOnBlack": "#B3EBFB",
     "faintColorOnWhite": "rgba(47, 95, 134, 0.1)"
   },
+  "freeman": {
+    "palette": [
+      "#eaeaf7",
+      "#202030",
+      "#6c6c71",
+      "#64646a",
+      "#747474"
+    ],
+    "goodColorOnWhite": "#202030",
+    "goodColorOnBlack": "#EAEAF7",
+    "faintColorOnWhite": "rgba(32, 32, 48, 0.1)"
+  },
   "freeter": {
     "palette": [
       "#464a51",
@@ -2626,6 +2650,18 @@
     "goodColorOnWhite": "#2A6BE0",
     "goodColorOnBlack": "#7CA4EC",
     "faintColorOnWhite": "rgba(42, 107, 224, 0.1)"
+  },
+  "keyfant-offline-password-manager": {
+    "palette": [
+      "#a3214c",
+      "#faf8f8",
+      "#17060b",
+      "#c98c9c",
+      "#c47c91"
+    ],
+    "goodColorOnWhite": "#A3214C",
+    "goodColorOnBlack": "#C47C91",
+    "faintColorOnWhite": "rgba(163, 33, 76, 0.1)"
   },
   "kinesis-ci": {
     "palette": [
