@@ -2,7 +2,6 @@ name: 'Janus Workspace'
 description: 'Organize all of your sites into one window.'
 website: 'https://janusworkspace.com/'
 category: Productivity
-repository: 'https://github.com/KIvanow/janusWorkspaceNative'
 keywords:
     - Janus
     - Workspace
