@@ -5063,6 +5063,18 @@
     "goodColorOnBlack": "#D44454",
     "faintColorOnWhite": "rgba(205, 47, 65, 0.1)"
   },
+  "symphony": {
+    "palette": [
+      "#7a8a68",
+      "#f39f55",
+      "#3b3c3c",
+      "#4cacd4",
+      "#4c443c"
+    ],
+    "goodColorOnWhite": "#4C443C",
+    "goodColorOnBlack": "#F39F55",
+    "faintColorOnWhite": "rgba(76, 68, 60, 0.1)"
+  },
   "synap": {
     "palette": [
       "#ed4152",
