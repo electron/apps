@@ -1,0 +1,34 @@
+name: Picpipe
+description: 'Automate screenshots and photos optimization for Web and documentation writing'
+website: 'https://picpipe.io'
+category: Productivity
+keywords:
+    - documentation
+    - tutorial
+    - guide
+    - photos
+    - images
+    - resize
+    - rescale
+    - compression
+    - automation
+    - ghost
+    - s3
+    - 'responsive images'
+    - tutorials
+    - blogging
+    - 'screenshot sharing'
+    - upload
+screenshots:
+  -
+    imageUrl: 'https://picpi.pe/07R1jwm8/picpipe-image-optimization-tool.jpg'
+    caption: 'Automatically upload photos to your blog gallery and generate HTML/Markdown snippets'
+    imageLink: 'https://picpipe.io/how-it-works.html'
+  -
+    imageUrl: 'https://picpi.pe/3HQOYgm8/picpipe-main-screen-bulk-actions.jpg'
+    caption: 'Automatically resize, compress and rename images.'
+    imageLink: 'https://picpipe.io'
+  -
+    imageUrl: 'https://picpi.pe/NOVEiwm8/picpipe-landing-k6.jpg'
+    caption: 'Organize screenshots by stories.'
+    imageLink: 'https://picpipe.io/how-it-works.html'

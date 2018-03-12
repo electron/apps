@@ -1,0 +1,14 @@
+name: Vzl
+description: 'Minimal Visualization Editor'
+website: 'https://github.com/vutran/vzl'
+category: Productivity
+repository: 'https://github.com/vutran/vzl'
+keywords:
+    - dot
+    - graphviz
+    - charts
+    - flowchart
+    - graph
+    - diagram
+    - visualization
+license: MIT
