@@ -18,3 +18,7 @@ keywords:
     - protonmail
     - tweetdeck
 license: MIT
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/screenshots/mac.png'

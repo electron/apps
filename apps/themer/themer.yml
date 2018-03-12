@@ -1,0 +1,16 @@
+name: Themer
+description: 'Generate editor themes, terminal themes, and matching desktop wallpaper from your set of colors.'
+website: 'https://themer.mjswensen.com'
+repository: 'https://github.com/mjswensen/themer-gui'
+keywords:
+    - wallpaper
+    - theme
+    - editor
+    - terminal
+    - themer
+    - customize
+license: MIT
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/mjswensen/themer-gui/master/screenshot.png'

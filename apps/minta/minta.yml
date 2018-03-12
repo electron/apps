@@ -6,4 +6,8 @@ keywords:
     - regex
     - generator
     - regexgen
-license: 'MIT'
+license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/ecrmnn/minta/master/resources/demo.gif'

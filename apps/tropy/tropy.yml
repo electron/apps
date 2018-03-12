@@ -1,0 +1,16 @@
+name: Tropy
+description: 'Research photo management'
+website: 'https://tropy.org'
+category: 'Photo & Video'
+repository: 'https://github.com/tropy/tropy/'
+keywords:
+    - photo
+    - images
+    - research
+    - metadata
+    - node-js
+    - sqlite3
+    - javascript
+license: AGPL
+goodColorOnWhite: '#2971dd'
+goodColorOnBlack: '#6382cb'

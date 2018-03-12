@@ -8,3 +8,7 @@ keywords:
     - editing
     - photo-manager
 license: MIT
+category: 'Photo & Video'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/m0g/ansel/master/ansel.jpg'

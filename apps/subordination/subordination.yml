@@ -1,8 +1,12 @@
 name: Subordination
 description: 'A desktop app for translating and editing subtitles'
-website: 'http://subordination.cu.cc/'
+website: 'https://github.com/sunabozu/subordination'
 repository: 'https://github.com/sunabozu/subordination'
 keywords:
     - subtitles
     - translation
     - editor
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/sunabozu/subordination/gh-pages/img/screen_mac.png'

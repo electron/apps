@@ -3,8 +3,11 @@ description: 'Build amazing mobile apps, faster.'
 website: 'https://github.com/Meadowcottage/Ionic-Creator'
 repository: 'https://github.com/Meadowcottage/Ionic-Creator'
 keywords:
-    - Electron
     - Ionic
     - Creator
     - Prototyping
 license: GNU
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Meadowcottage/Ionic-Creator/master/build/Screenshot-light-1.png'

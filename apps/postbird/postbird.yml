@@ -1,0 +1,19 @@
+name: Postbird
+description: 'PostgreSQL GUI client'
+website: 'https://github.com/Paxa/postbird'
+repository: 'https://github.com/Paxa/postbird'
+keywords:
+  - postgresql
+  - postgres
+  - sql
+  - database
+  - developer
+  - heroku
+  - csv
+category: 'Developer Tools'
+license: MIT
+screenshots:
+  - imageUrl: https://cloud.githubusercontent.com/assets/26019/24329271/0758103e-1234-11e7-916c-40d407799580.png
+    caption: Viewing Table Content
+  - imageUrl: https://cloud.githubusercontent.com/assets/26019/24329272/075a06c8-1234-11e7-9fb8-fc800343e8ad.png
+    caption: Database Connection Form

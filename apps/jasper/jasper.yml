@@ -9,4 +9,8 @@ keywords:
     - tracker
     - notification
     - browser
-    - 'developer tool'
+    - 'developer tools'
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/jasperapp/jasper/master/top.png'

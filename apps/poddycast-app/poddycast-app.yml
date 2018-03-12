@@ -1,0 +1,10 @@
+name: Poddycast
+description: 'Podcast client to listen to all you favorite podcasts.'
+website: 'https://github.com/MrChuckomo/poddycast'
+repository: 'https://github.com/MrChuckomo/poddycast'
+category: 'Entertainment'
+keywords:
+    - podcast
+    - feed
+    - rss
+    - itunes

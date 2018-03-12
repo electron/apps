@@ -1,3 +1,20 @@
 name: WebTorrent
-description: 'The streaming torrent client'
-website: 'https://webtorrent.io/desktop'
+description: The streaming torrent client
+website: https://webtorrent.io/desktop
+repository: https://github.com/webtorrent/webtorrent-desktop
+homebrewCaskName: webtorrent
+keywords:
+    - torrent
+    - sharing
+    - data
+    - hosting
+    - p2p
+    - decentralized
+    - streaming
+    - video
+category: Utilities
+goodColorOnWhite: '#E5193B'
+goodColorOnBlack: '#E5193B'
+screenshots:
+    -
+        imageUrl: 'https://webtorrent.io/img/screenshot-player.png'

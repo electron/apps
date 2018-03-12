@@ -1,3 +1,6 @@
 name: 'Light Table'
 description: 'The next generation code editor'
 website: 'http://www.lighttable.com'
+keywords:
+    - code
+category: 'Developer Tools'

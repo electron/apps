@@ -1,0 +1,11 @@
+name: 'Multiple File Manager'
+description: 'modify all of your files in a specified folder'
+repository: 'https://github.com/dhanyn10/multiple-file-manager'
+keywords:
+    - file
+    - 'file management'
+license: MIT
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://github.com/dhanyn10/multiple-file-manager/wiki/multiple-file-manager.png'

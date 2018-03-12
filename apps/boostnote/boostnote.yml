@@ -2,3 +2,9 @@ name: Boostnote
 description: 'Simple note-taking app for programmers'
 website: 'https://boostnote.io'
 repository: 'https://github.com/BoostIO/Boostnote'
+keywords:
+    - notes
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/BoostIO/Boostnote/master/resources/repository/top.png'

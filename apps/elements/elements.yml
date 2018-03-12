@@ -1,0 +1,11 @@
+name: Elements
+description: 'Displays the periodic table'
+website: 'https://github.com/FlorianFe/Elements'
+repository: 'https://github.com/FlorianFe/Elements'
+keywords:
+    - periodic-table
+    - chemistry
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://camo.githubusercontent.com/d2e8151e1dce75ba49f5218342ed0ab59db0a469/68747470733a2f2f666c6f7269616e66652e6769746875622e696f2f73637265656e73686f74732f656c656d656e74732f73637265656e73686f742d312e706e67'

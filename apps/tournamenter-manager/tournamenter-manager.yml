@@ -17,3 +17,7 @@ keywords:
     - football
     - 'server runner'
 license: MIT
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/ivanseidel/TournamenterApp/master/midia/screenshot.png'

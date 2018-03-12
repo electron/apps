@@ -1,3 +1,6 @@
-name: PraControl
+name: Pracontrol
 description: 'Send awesome gCodes to your machine'
-website: 'http://pracontrol.pravdomil.cz'
+website: 'https://pracontrol.pravdomil.com'
+keywords:
+    - utility
+category: Utilities

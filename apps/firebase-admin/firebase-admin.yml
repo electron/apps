@@ -4,9 +4,9 @@ website: 'https://firebaseadmin.com'
 repository: 'https://github.com/codefoxes/firebase-admin'
 keywords:
     - Firebase
-    - Electron
     - database
     - management
     - 'user interface'
     - 'admin ui'
 license: GPLv3
+category: 'Developer Tools'

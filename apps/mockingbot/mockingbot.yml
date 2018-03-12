@@ -1,3 +1,6 @@
 name: MockingBot
 description: 'The Missing Wireframing Tool For Mobile'
 website: 'https://mockingbot.com'
+keywords:
+    - prototyping
+category: 'Developer Tools'

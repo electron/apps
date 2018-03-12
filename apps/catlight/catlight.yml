@@ -1,3 +1,6 @@
 name: CatLight
 description: 'Desktop build status notifications'
 website: 'https://catlight.io'
+keywords:
+    - build
+category: 'Developer Tools'

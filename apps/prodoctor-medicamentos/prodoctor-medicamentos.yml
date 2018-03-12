@@ -1,0 +1,10 @@
+name: 'ProDoctor Medicamentos'
+description: 'Look up medicines, read their information leaflets and find alternatives.'
+website: 'https://prodoctor.net/medicamentos'
+keywords:
+    - 'ProDoctor Software'
+    - 'Drugs Information Leaflet'
+    - Medicine
+locales:
+    - pt-BR
+category: Medical

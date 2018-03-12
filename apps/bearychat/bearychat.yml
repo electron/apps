@@ -1,3 +1,6 @@
 name: BearyChat
 description: 'Focused team communications'
 website: 'https://bearychat.com'
+keywords:
+    - chat
+category: 'Social Networking'

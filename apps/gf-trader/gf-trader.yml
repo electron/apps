@@ -2,5 +2,6 @@ name: GF-Trader
 description: 'Next generation securities trade application from GF Securities'
 website: 'http://it.gf.com.cn/cps'
 keywords:
-    - finace
+    - Finance
     - securities
+category: Finance

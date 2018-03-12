@@ -8,3 +8,7 @@ keywords:
     - KongDash
     - API
 license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/ajaysreedhar/kongdash/master/screenshot.png'

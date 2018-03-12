@@ -6,3 +6,7 @@ keywords:
     - SQL
     - visualization
 license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/bdash-app/bdash/master/assets/capture1.png'

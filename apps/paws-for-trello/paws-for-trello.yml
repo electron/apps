@@ -1,5 +1,5 @@
 name: 'Paws for Trello'
-description: 'Paws for Trello is a beautiful Trello client for Mac and Windows. It brings Trello to your desktop with native notifications, powerful shortcuts and more - away from the distractions of your browser.'
+description: 'Unofficial Trello client with native notifications, shortcuts, and more.'
 website: 'http://friendlyfox.es/pawsfortrello/'
 keywords:
     - trello
@@ -7,3 +7,4 @@ keywords:
     - 'to do'
     - productivity
     - paws
+category: Productivity

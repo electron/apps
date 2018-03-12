@@ -9,3 +9,7 @@ keywords:
     - audio
     - selfhosted
 license: GPL-3.0
+category: Music
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/IrosTheBeggar/mStream/master/public/img/mstream-express.png'

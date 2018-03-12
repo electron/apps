@@ -7,3 +7,7 @@ keywords:
     - debugger
     - nodejs
 license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/s-a/iron-node/master/docs/iron-node-demo.gif'

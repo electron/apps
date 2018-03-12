@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Productivity",
+    "count": 167,
+    "slug": "productivity"
+  },
+  {
+    "name": "Developer Tools",
+    "count": 105,
+    "slug": "developer-tools"
+  },
+  {
+    "name": "Utilities",
+    "count": 76,
+    "slug": "utilities"
+  },
+  {
+    "name": "Social Networking",
+    "count": 37,
+    "slug": "social-networking"
+  },
+  {
+    "name": "Photo & Video",
+    "count": 36,
+    "slug": "photo-video"
+  },
+  {
+    "name": "Music",
+    "count": 31,
+    "slug": "music"
+  },
+  {
+    "name": "Games",
+    "count": 21,
+    "slug": "games"
+  },
+  {
+    "name": "Finance",
+    "count": 15,
+    "slug": "finance"
+  },
+  {
+    "name": "Business",
+    "count": 14,
+    "slug": "business"
+  },
+  {
+    "name": "Education",
+    "count": 8,
+    "slug": "education"
+  },
+  {
+    "name": "Graphics & Design",
+    "count": 6,
+    "slug": "graphics-design"
+  },
+  {
+    "name": "Books",
+    "count": 5,
+    "slug": "books"
+  },
+  {
+    "name": "News",
+    "count": 3,
+    "slug": "news"
+  },
+  {
+    "name": "Entertainment",
+    "count": 3,
+    "slug": "entertainment"
+  },
+  {
+    "name": "Lifestyle",
+    "count": 2,
+    "slug": "lifestyle"
+  },
+  {
+    "name": "Travel",
+    "count": 1,
+    "slug": "travel"
+  },
+  {
+    "name": "Medical",
+    "count": 1,
+    "slug": "medical"
+  }
+]

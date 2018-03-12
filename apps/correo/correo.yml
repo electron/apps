@@ -3,7 +3,6 @@ description: 'A menubar/taskbar Gmail App for Windows, macOS and Linux.'
 website: 'https://github.com/amitmerchant1990/correo'
 repository: 'https://github.com/amitmerchant1990/correo'
 keywords:
-    - electron
     - gmail
     - mail
     - menubar
@@ -11,3 +10,7 @@ keywords:
     - tray
     - html
     - desktop
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/amitmerchant1990/correo/master/res/screenshot.png'

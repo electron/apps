@@ -1,0 +1,15 @@
+name: WebCatalog
+description: 'Run Thousands of Web Apps Like Real Apps'
+website: 'https://webcatalog.io'
+repository: 'https://github.com/webcatalog/webcatalog'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/webcatalog/webcatalog/master/build-resources/screenshot.png'
+        caption: 'WebCatalog on macOS'
+keywords:
+    - 'site-specific browser'
+    - browser
+    - fluid
+    - fluidapp
+    - 'app store'
+category: Productivity

@@ -1,0 +1,12 @@
+name: GraphiQL
+description: 'A GUI for editing and testing GraphQL queries and mutations'
+website: 'https://github.com/skevy/graphiql-app'
+category: 'Developer Tools'
+keywords:
+    - GraphQL
+    - data
+    - databases
+    - GitHub
+    - API
+    - development
+license: MIT
