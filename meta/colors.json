@@ -3887,6 +3887,18 @@
     "goodColorOnBlack": "#FBA736",
     "faintColorOnWhite": "rgba(19, 19, 19, 0.1)"
   },
+  "phreshistant": {
+    "palette": [
+      "#f5f9f6",
+      "#14ab4c",
+      "#6cbf88",
+      "#41b466",
+      "#84cca4"
+    ],
+    "goodColorOnWhite": "#10883C",
+    "goodColorOnBlack": "#14AB4C",
+    "faintColorOnWhite": "rgba(16, 136, 60, 0.1)"
+  },
   "phreshplayer": {
     "palette": [
       "#04a444",
