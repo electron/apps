@@ -35,14 +35,14 @@
     "slug": "games"
   },
   {
+    "name": "Finance",
+    "count": 15,
+    "slug": "finance"
+  },
+  {
     "name": "Business",
     "count": 14,
     "slug": "business"
-  },
-  {
-    "name": "Finance",
-    "count": 14,
-    "slug": "finance"
   },
   {
     "name": "Education",

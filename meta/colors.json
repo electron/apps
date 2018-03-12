@@ -3263,6 +3263,18 @@
     "goodColorOnBlack": "#FBCC5B",
     "faintColorOnWhite": "rgba(143, 102, 3, 0.1)"
   },
+  "monerite": {
+    "palette": [
+      "#2cf404",
+      "#30f404",
+      "#30f404",
+      "#30f404",
+      "#30f404"
+    ],
+    "goodColorOnWhite": "#188302",
+    "goodColorOnBlack": "#2CF404",
+    "faintColorOnWhite": "rgba(24, 131, 2, 0.1)"
+  },
   "mongoclient": {
     "palette": [
       "#0b0c08",
