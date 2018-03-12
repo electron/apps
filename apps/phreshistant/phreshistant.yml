@@ -1,0 +1,13 @@
+name: Phreshistant
+description: 'Simple cross-platform project manager and todo app.'
+website: 'http://phresh-it.hu/apps/phreshistant/'
+license: MIT
+keywords:
+    - project
+    - todo
+    - manage
+    - phresh
+    - reminder
+    - timetrack
+category: 'Productivity'
+repository: 'https://github.com/Phreshhh/Phreshistant'
