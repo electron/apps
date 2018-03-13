@@ -6,4 +6,10 @@ keywords:
     - composer
     - programming
     - productivity
-category: Productivity
+category: 'Developer Tools'
+license: COMMERCIAL
+screenshots:
+  -
+    imageUrl: 'https://www.getcomposercat.com/img/screenshot.png'
+    caption: 'Composercat - GUI for Composer'
+    imageLink: 'https://getcomposercat.com'
