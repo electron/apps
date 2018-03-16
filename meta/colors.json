@@ -3395,6 +3395,18 @@
     "goodColorOnBlack": "#D93C3C",
     "faintColorOnWhite": "rgba(217, 60, 60, 0.1)"
   },
+  "mylottery": {
+    "palette": [
+      "#fc0404",
+      "#ff0404",
+      "#ff0404",
+      "#ff0404",
+      "#ff0404"
+    ],
+    "goodColorOnWhite": "#EA0000",
+    "goodColorOnBlack": "#FF0404",
+    "faintColorOnWhite": "rgba(234, 0, 0, 0.1)"
+  },
   "mypsn": {
     "palette": [
       "#7c7c7c",
