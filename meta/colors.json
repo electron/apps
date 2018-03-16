@@ -3803,6 +3803,18 @@
     "goodColorOnBlack": "#74A4D4",
     "faintColorOnWhite": "rgba(6, 94, 177, 0.1)"
   },
+  "paymo-time-tracker": {
+    "palette": [
+      "#04ccb4",
+      "#fafbfb",
+      "#aafa95",
+      "#62e1cc",
+      "#33d6c4"
+    ],
+    "goodColorOnWhite": "#027A6B",
+    "goodColorOnBlack": "#04CCB4",
+    "faintColorOnWhite": "rgba(2, 122, 107, 0.1)"
+  },
   "pencil": {
     "palette": [
       "#fbfaf9",
