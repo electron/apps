@@ -2939,6 +2939,18 @@
     "goodColorOnBlack": "#4CACD4",
     "faintColorOnWhite": "rgba(10, 20, 62, 0.1)"
   },
+  "markdown-explorer": {
+    "palette": [
+      "#160b2a",
+      "#c6caf7",
+      "#5d606d",
+      "#777a95",
+      "#595f80"
+    ],
+    "goodColorOnWhite": "#160B2A",
+    "goodColorOnBlack": "#C6CAF7",
+    "faintColorOnWhite": "rgba(22, 11, 42, 0.1)"
+  },
   "markdown-office": {
     "palette": [
       "#787979",
