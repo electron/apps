@@ -3971,6 +3971,18 @@
     "goodColorOnBlack": "#7676F1",
     "faintColorOnWhite": "rgba(53, 53, 244, 0.1)"
   },
+  "pile": {
+    "palette": [
+      "#e8e8e9",
+      "#b63ae5",
+      "#dc44fb",
+      "#938596",
+      "#7c6088"
+    ],
+    "goodColorOnWhite": "#7C6088",
+    "goodColorOnBlack": "#DC44FB",
+    "faintColorOnWhite": "rgba(124, 96, 136, 0.1)"
+  },
   "pilemd": {
     "palette": [
       "#2cc2cf",
