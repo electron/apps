@@ -4811,6 +4811,18 @@
     "goodColorOnBlack": "#BCFF80",
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
   },
+  "smallpdf": {
+    "palette": [
+      "#d4c11e",
+      "#c646fc",
+      "#04c4fc",
+      "#04d464",
+      "#fc5404"
+    ],
+    "goodColorOnWhite": "#027FA3",
+    "goodColorOnBlack": "#04C4FC",
+    "faintColorOnWhite": "rgba(2, 127, 163, 0.1)"
+  },
   "snake": {
     "palette": [
       "#ededed",
@@ -5926,6 +5938,18 @@
     "goodColorOnWhite": "#040404",
     "goodColorOnBlack": "#FFF",
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
+  },
+  "wakefy": {
+    "palette": [
+      "#99e1ac",
+      "#b7e9ac",
+      "#4fcaac",
+      "#7bd8ac",
+      "#68d4ac"
+    ],
+    "goodColorOnWhite": "#317B21",
+    "goodColorOnBlack": "#B7E9AC",
+    "faintColorOnWhite": "rgba(49, 123, 33, 0.1)"
   },
   "wallapatta": {
     "palette": [
