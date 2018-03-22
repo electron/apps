@@ -15,5 +15,4 @@ locales:
 category: 'Photo & Video'
 repository: 'https://github.com/danielsidev/playlist'
 screenshots:
-    -
-        imageUrl: 'http://danielsiqueira.net/assets/images/works/playlist.png'
+    - imageUrl: 'http://danielsiqueira.net/assets/images/works/playlist.png'
