@@ -4067,6 +4067,18 @@
     "goodColorOnBlack": "#74A146",
     "faintColorOnWhite": "rgba(96, 96, 88, 0.1)"
   },
+  "playlist": {
+    "palette": [
+      "#2f2e27",
+      "#e4ce29",
+      "#9c8408",
+      "#948c24",
+      "#746c3c"
+    ],
+    "goodColorOnWhite": "#746C3C",
+    "goodColorOnBlack": "#9C8408",
+    "faintColorOnWhite": "rgba(116, 108, 60, 0.1)"
+  },
   "poddycast-app": {
     "palette": [
       "#eef7f9",
