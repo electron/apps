@@ -959,6 +959,18 @@
     "goodColorOnBlack": "#F28B47",
     "faintColorOnWhite": "rgba(155, 93, 60, 0.1)"
   },
+  "crypto-bot": {
+    "palette": [
+      "#f5f5fc",
+      "#9e92f5",
+      "#b4a9fc",
+      "#beb7fc",
+      "#ccc4fc"
+    ],
+    "goodColorOnWhite": "#5840F8",
+    "goodColorOnBlack": "#B4A9FC",
+    "faintColorOnWhite": "rgba(88, 64, 248, 0.1)"
+  },
   "cryptocat": {
     "palette": [
       "#f85752",
