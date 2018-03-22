@@ -1,0 +1,19 @@
+name: Playlist
+description: 'A player for video lists and sharing with Chromecast.'
+website: 'https://github.com/danielsidev/playlist'
+keywords:
+    - videos list
+    - chromecast
+    - online videos
+    - player
+    - audio
+    - animes
+    - movies
+    - cartoon
+locales:
+    - pt-BR
+category: 'Photo & Video'
+repository: 'https://github.com/danielsidev/playlist'
+screenshots:
+    -
+        imageUrl: 'http://danielsiqueira.net/assets/images/works/playlist.png'
