@@ -15,4 +15,4 @@ locales:
 category: 'Photo & Video'
 repository: 'https://github.com/danielsidev/playlist'
 screenshots:
-    - imageUrl: 'https://github.com/danielsidev/playlist/blob/master/build_resources/screenshot.png'
+    - imageUrl: 'https://raw.githubusercontent.com/danielsidev/playlist/master/build_resources/screenshot.png'
