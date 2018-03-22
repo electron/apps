@@ -2435,6 +2435,18 @@
     "goodColorOnBlack": "#0B81ED",
     "faintColorOnWhite": "rgba(10, 117, 215, 0.1)"
   },
+  "iperius-console": {
+    "palette": [
+      "#06a7da",
+      "#fbfbfb",
+      "#a2ddf3",
+      "#69c1e5",
+      "#34bce4"
+    ],
+    "goodColorOnWhite": "#047BA1",
+    "goodColorOnBlack": "#06A7DA",
+    "faintColorOnWhite": "rgba(4, 123, 161, 0.1)"
+  },
   "ironnode": {
     "palette": [
       "#447cc4",
@@ -4066,6 +4078,18 @@
     "goodColorOnWhite": "#606058",
     "goodColorOnBlack": "#74A146",
     "faintColorOnWhite": "rgba(96, 96, 88, 0.1)"
+  },
+  "playlist": {
+    "palette": [
+      "#2f2e27",
+      "#e4ce29",
+      "#9c8408",
+      "#948c24",
+      "#746c3c"
+    ],
+    "goodColorOnWhite": "#746C3C",
+    "goodColorOnBlack": "#9C8408",
+    "faintColorOnWhite": "rgba(116, 108, 60, 0.1)"
   },
   "poddycast-app": {
     "palette": [
