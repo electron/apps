@@ -1259,6 +1259,18 @@
     "goodColorOnBlack": "#BCBCBC",
     "faintColorOnWhite": "rgba(42, 42, 42, 0.1)"
   },
+  "diffuse": {
+    "palette": [
+      "#fbfbfb",
+      "#231c23",
+      "#7f7c7c",
+      "#747474",
+      "#858484"
+    ],
+    "goodColorOnWhite": "#231C23",
+    "goodColorOnBlack": "#7F7C7C",
+    "faintColorOnWhite": "rgba(35, 28, 35, 0.1)"
+  },
   "digiexam": {
     "palette": [
       "#db2373",
