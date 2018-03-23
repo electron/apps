@@ -875,6 +875,18 @@
     "goodColorOnBlack": "#D4846C",
     "faintColorOnWhite": "rgba(203, 52, 4, 0.1)"
   },
+  "container-ps": {
+    "palette": [
+      "#248cb4",
+      "#2cacd4",
+      "#3c4c54",
+      "#30909c",
+      "#306cc8"
+    ],
+    "goodColorOnWhite": "#306CC8",
+    "goodColorOnBlack": "#248CB4",
+    "faintColorOnWhite": "rgba(48, 108, 200, 0.1)"
+  },
   "correo": {
     "palette": [
       "#eeeded",
