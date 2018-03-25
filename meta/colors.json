@@ -4259,6 +4259,18 @@
     "goodColorOnBlack": "#E84C3C",
     "faintColorOnWhite": "rgba(209, 42, 25, 0.1)"
   },
+  "pretzel": {
+    "palette": [
+      "#f8f8fb",
+      "#4e72e0",
+      "#8fa4eb",
+      "#a1bcf4",
+      "#6994ea"
+    ],
+    "goodColorOnWhite": "#2563E5",
+    "goodColorOnBlack": "#A1BCF4",
+    "faintColorOnWhite": "rgba(37, 99, 229, 0.1)"
+  },
   "prexview": {
     "palette": [
       "#76c46e",
