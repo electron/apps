@@ -515,6 +515,18 @@
     "goodColorOnBlack": "#94A1C4",
     "faintColorOnWhite": "rgba(58, 89, 148, 0.1)"
   },
+  "bunqdesktop": {
+    "palette": [
+      "#3d8a90",
+      "#f9faf9",
+      "#cd3624",
+      "#adbc4c",
+      "#2f2534"
+    ],
+    "goodColorOnWhite": "#CD3624",
+    "goodColorOnBlack": "#ADBC4C",
+    "faintColorOnWhite": "rgba(205, 54, 36, 0.1)"
+  },
   "buttercup": {
     "palette": [
       "#e0f5f2",
