@@ -1199,6 +1199,18 @@
     "goodColorOnBlack": "#2BB38B",
     "faintColorOnWhite": "rgba(32, 133, 103, 0.1)"
   },
+  "deplify": {
+    "palette": [
+      "#133d73",
+      "#fbfbfb",
+      "#6e829c",
+      "#7c94b4",
+      "#849cb4"
+    ],
+    "goodColorOnWhite": "#133D73",
+    "goodColorOnBlack": "#7C94B4",
+    "faintColorOnWhite": "rgba(19, 61, 115, 0.1)"
+  },
   "destroyer": {
     "palette": [
       "#5845c2",
