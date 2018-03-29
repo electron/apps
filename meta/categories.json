@@ -15,14 +15,14 @@
     "slug": "utilities"
   },
   {
+    "name": "Photo & Video",
+    "count": 38,
+    "slug": "photo-video"
+  },
+  {
     "name": "Social Networking",
     "count": 37,
     "slug": "social-networking"
-  },
-  {
-    "name": "Photo & Video",
-    "count": 37,
-    "slug": "photo-video"
   },
   {
     "name": "Music",

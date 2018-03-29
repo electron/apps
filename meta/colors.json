@@ -2123,6 +2123,18 @@
     "goodColorOnBlack": "#0ADCFC",
     "faintColorOnWhite": "rgba(4, 116, 140, 0.1)"
   },
+  "gsubs": {
+    "palette": [
+      "#f3f3f3",
+      "#723bce",
+      "#bca2e8",
+      "#a48dc5",
+      "#b29ec4"
+    ],
+    "goodColorOnWhite": "#723BCE",
+    "goodColorOnBlack": "#BCA2E8",
+    "faintColorOnWhite": "rgba(114, 59, 206, 0.1)"
+  },
   "hain": {
     "palette": [
       "#f8fbfb",
