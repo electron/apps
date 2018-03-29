@@ -88,6 +88,15 @@ describe('human-submitted app data', () => {
                 `${slug}: contrast ratio too low for goodColorOnBlack. Try: ${accessibleColor}`)
             }
           })
+
+          it(`allows faintColorOnWhite to be set`, () => {
+            const color = app.faintColorOnWhite
+            if (color) {
+              expect(color).to.match(/rgba\(\d+, \d+, \d+, /,
+                `${slug}'s faintColorOnWhite must be an rgba string`
+              )
+            }
+          })
         })
 
         it('has no empty properties', () => {

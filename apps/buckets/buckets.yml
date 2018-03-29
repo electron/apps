@@ -1,0 +1,11 @@
+name: Buckets
+description: 'Beautiful, private budgeting.'
+website: 'https://www.budgetwithbuckets.com'
+keywords:
+    - budgeting
+    - finance
+category: 'Finance'
+locales:
+    - pt
+    - en
+    - es

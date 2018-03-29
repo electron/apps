@@ -74,5 +74,14 @@ function cleanReadme (readme, app) {
       $(img).attr('src', `${app.repository}/raw/master/${$(img).attr('src')}`)
     })
   }
+
+  const $relativeLinks = $('a').not('[href^="http"]')
+  if ($relativeLinks.length) {
+    console.log(`${app.slug}: updating ${$relativeLinks.length} relative links`)
+    $relativeLinks.each((i, link) => {
+      $(link).attr('href', `${app.repository}/blob/master/${$(link).attr('href')}`)
+    })
+  }
+
   return $('body').html()
 }

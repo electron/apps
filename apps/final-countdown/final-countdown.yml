@@ -1,0 +1,10 @@
+name: Final-Countdown
+description: 'Generates a running clock counting down to the second of one''s death.'
+website: 'https://github.com/hunterphillips/countdown'
+category: Productivity
+repository: 'https://github.com/hunterphillips/countdown'
+keywords:
+    - desktop
+    - angularJS
+    - cross-platform
+    - productivity

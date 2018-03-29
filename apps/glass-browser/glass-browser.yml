@@ -1,0 +1,9 @@
+name: 'Glass Browser'
+description: 'A floating transparent browser for Windows'
+website: 'https://mitch.works/apps/glass'
+category: Productivity
+repository: 'https://github.com/mitchas/glass-browser'
+keywords:
+    - Browser
+    - Windows
+    - Multitask

@@ -1,0 +1,24 @@
+name: PopSQL
+description: 'Modern, collaborative SQL editor for your team'
+website: 'https://popsql.io'
+keywords:
+    - sql
+    - postgresql
+    - mysql
+    - mssql
+    - bigquery
+    - sqlite
+    - cassandra
+    - presto
+    - oracle
+    - odbc
+    - editor
+    - analytics
+    - 'developer tools'
+    - database
+    - db
+license: Commercial
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://d2396xwzgx97rb.cloudfront.net/assets/landing/main-64aedbf69bbdf630051e20f27944da8e124e5a12ae9e07fecff479bc348ce8c1.png'

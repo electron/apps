@@ -54,7 +54,10 @@ describe('machine-generated app data (exported by the module)', () => {
 
   it('sets a `colors.faintColorOnWhite` semi-transparent rgba value on every app', () => {
     apps.forEach(app => {
-      expect(app.faintColorOnWhite).to.match(/rgba\(\d+, \d+, \d+, 0\.1\)/)
+      expect(
+        app.faintColorOnWhite,
+        `${app.slug}'s faintColorOnWhite is not right`
+      ).to.match(/rgba\(\d+, \d+, \d+, /)
     })
   })
 
@@ -116,6 +119,18 @@ describe('machine-generated app data (exported by the module)', () => {
 
     expect(beaker.readmeCleaned).to.not.include(local)
     expect(beaker.readmeCleaned).to.include(remote)
+  })
+
+  it('rewrites relative link hrefs', () => {
+    const app = apps.find(app => app.slug === 'google-play-music-desktop-player')
+    const local = 'href="docs/PlaybackAPI.md"'
+    const remote = 'href="https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/blob/master/docs/PlaybackAPI.md"'
+
+    expect(app.readmeOriginal).to.include(local)
+    expect(app.readmeOriginal).to.not.include(remote)
+
+    expect(app.readmeCleaned).to.not.include(local)
+    expect(app.readmeCleaned).to.include(remote)
   })
 })
 

@@ -4,3 +4,4 @@ website: 'https://tweetman.kksg.net/en'
 keywords:
     - Twitter
 category: 'Social Networking'
+disabled: true # website offline
