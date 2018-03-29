@@ -1,6 +1,6 @@
 name: Joplin
 description: 'A note taking and to-do application with synchronization capabilities. Also available on mobile and terminal.'
-website: 'http://joplin.cozic.net/'
+website: 'https://joplin.cozic.net/'
 category: Productivity
 repository: 'https://github.com/laurent22/joplin'
 homebrewCaskName: joplin
@@ -14,16 +14,26 @@ keywords:
 license: MIT
 screenshots:
   -
-    imageUrl: 'https://raw.githubusercontent.com/laurent22/joplin/master/docs/images/AllClients.jpg'
+    imageUrl: 'https://joplin.cozic.net/images/AllClients.jpg'
     caption: 'Mobile, CLI and Desktop version of Joplin'
-    imageLink: 'http://joplin.cozic.net'
+    imageLink: 'https://joplin.cozic.net'
   -
-    imageUrl: 'https://raw.githubusercontent.com/laurent22/joplin/master/docs/images/DemoDesktop.png'
+    imageUrl: 'https://joplin.cozic.net/images/DemoDesktop.png'
     caption: 'Description of Joplin''s user interface'
-    imageLink: 'http://joplin.cozic.net/desktop/'
+    imageLink: 'https://joplin.cozic.net/desktop/'
 locales:
-  - en-GB
-  - fr-FR
-  - es-CR
+  - cs-CZ
+  - da-DK
   - de-DE
+  - en-GB
+  - es-ES
+  - eu
+  - fr-FR
+  - gl-ES
+  - hr-HR
+  - it-IT
+  - ja-JP
+  - nl-BE
   - pt-BR
+  - ru-RU
+  - zh-CN
