@@ -2627,6 +2627,18 @@
     "goodColorOnBlack": "#09C4FC",
     "faintColorOnWhite": "rgba(2, 116, 150, 0.1)"
   },
+  "joplin": {
+    "palette": [
+      "#0a72d3",
+      "#fbfbfb",
+      "#044283",
+      "#5cb4fb",
+      "#04449c"
+    ],
+    "goodColorOnWhite": "#04449C",
+    "goodColorOnBlack": "#5CB4FB",
+    "faintColorOnWhite": "rgba(4, 68, 156, 0.1)"
+  },
   "jqi": {
     "palette": [
       "#048880",
