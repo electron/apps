@@ -1,0 +1,29 @@
+name: Joplin
+description: 'A note taking and to-do application with synchronization capabilities. Also available on mobile and terminal.'
+website: 'http://joplin.cozic.net/'
+category: Productivity
+repository: 'https://github.com/laurent22/joplin'
+homebrewCaskName: joplin
+keywords:
+  - note
+  - to-do
+  - onedrive
+  - synchronisation
+  - evernote
+  - enex
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/laurent22/joplin/master/docs/images/AllClients.jpg'
+    caption: 'Mobile, CLI and Desktop version of Joplin'
+    imageLink: 'http://joplin.cozic.net'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/laurent22/joplin/master/docs/images/DemoDesktop.png'
+    caption: 'Description of Joplin''s user interface'
+    imageLink: 'http://joplin.cozic.net/desktop/'
+locales:
+  - en-GB
+  - fr-FR
+  - es-CR
+  - de-DE
+  - pt-BR
