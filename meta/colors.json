@@ -1367,6 +1367,18 @@
     "goodColorOnBlack": "#F3B33B",
     "faintColorOnWhite": "rgba(124, 100, 52, 0.1)"
   },
+  "dotgrid": {
+    "palette": [
+      "#040404",
+      "#f2f2f2",
+      "#6c6c6c",
+      "#7c7c7c",
+      "#545454"
+    ],
+    "goodColorOnWhite": "#040404",
+    "goodColorOnBlack": "#F2F2F2",
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
+  },
   "dupfinder": {
     "palette": [
       "#398c8b",
@@ -2842,6 +2854,18 @@
     "goodColorOnWhite": "#03796D",
     "goodColorOnBlack": "#04A393",
     "faintColorOnWhite": "rgba(3, 121, 109, 0.1)"
+  },
+  "left": {
+    "palette": [
+      "#040404",
+      "#fafafa",
+      "#8c8c8c",
+      "#545454",
+      "#2c2c2c"
+    ],
+    "goodColorOnWhite": "#040404",
+    "goodColorOnBlack": "#FAFAFA",
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
   },
   "lepton": {
     "palette": [
