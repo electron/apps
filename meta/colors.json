@@ -131,6 +131,18 @@
     "goodColorOnBlack": "#3990DF",
     "faintColorOnWhite": "rgba(31, 116, 194, 0.1)"
   },
+  "amipwned": {
+    "palette": [
+      "#04b79f",
+      "#e1eaf2",
+      "#6ac4bc",
+      "#047a6a",
+      "#3cbcac"
+    ],
+    "goodColorOnWhite": "#047A6A",
+    "goodColorOnBlack": "#04B79F",
+    "faintColorOnWhite": "rgba(4, 122, 106, 0.1)"
+  },
   "amium": {
     "palette": [
       "#fcfbfb",
@@ -479,6 +491,18 @@
     "goodColorOnBlack": "#568C6E",
     "faintColorOnWhite": "rgba(4, 64, 38, 0.1)"
   },
+  "buckets": {
+    "palette": [
+      "#f9fbfc",
+      "#2cacf4",
+      "#7accf4",
+      "#5cc4f4",
+      "#51bcf4"
+    ],
+    "goodColorOnWhite": "#0973AF",
+    "goodColorOnBlack": "#2CACF4",
+    "faintColorOnWhite": "rgba(9, 115, 175, 0.1)"
+  },
   "buka": {
     "palette": [
       "#3a5994",
@@ -490,6 +514,18 @@
     "goodColorOnWhite": "#3A5994",
     "goodColorOnBlack": "#94A1C4",
     "faintColorOnWhite": "rgba(58, 89, 148, 0.1)"
+  },
+  "bunqdesktop": {
+    "palette": [
+      "#3d8a90",
+      "#f9faf9",
+      "#cd3624",
+      "#adbc4c",
+      "#2f2534"
+    ],
+    "goodColorOnWhite": "#CD3624",
+    "goodColorOnBlack": "#ADBC4C",
+    "faintColorOnWhite": "rgba(205, 54, 36, 0.1)"
   },
   "buttercup": {
     "palette": [
@@ -622,6 +658,18 @@
     "goodColorOnWhite": "#37372F",
     "goodColorOnBlack": "#F74435",
     "faintColorOnWhite": "rgba(55, 55, 47, 0.1)"
+  },
+  "checksum": {
+    "palette": [
+      "#6b7aab",
+      "#eac31a",
+      "#c3cbc3",
+      "#9cacbc",
+      "#8c8c84"
+    ],
+    "goodColorOnWhite": "#8B730D",
+    "goodColorOnBlack": "#EAC31A",
+    "faintColorOnWhite": "rgba(139, 115, 13, 0.1)"
   },
   "checksum-validator": {
     "palette": [
@@ -817,11 +865,11 @@
   },
   "colorpicker": {
     "palette": [
-      "#ececec",
-      "#56a8af",
+      "#f3f3f3",
+      "#4ca4d4",
       "#dc644c",
-      "#c4f0c4",
-      "#c4f0c4"
+      "#74b44c",
+      "#ecbcb4"
     ],
     "goodColorOnWhite": "#C84227",
     "goodColorOnBlack": "#DC644C",
@@ -838,6 +886,18 @@
     "goodColorOnWhite": "#CB3404",
     "goodColorOnBlack": "#D4846C",
     "faintColorOnWhite": "rgba(203, 52, 4, 0.1)"
+  },
+  "container-ps": {
+    "palette": [
+      "#248cb4",
+      "#2cacd4",
+      "#3c4c54",
+      "#30909c",
+      "#306cc8"
+    ],
+    "goodColorOnWhite": "#306CC8",
+    "goodColorOnBlack": "#248CB4",
+    "faintColorOnWhite": "rgba(48, 108, 200, 0.1)"
   },
   "correo": {
     "palette": [
@@ -922,6 +982,18 @@
     "goodColorOnWhite": "#9B5D3C",
     "goodColorOnBlack": "#F28B47",
     "faintColorOnWhite": "rgba(155, 93, 60, 0.1)"
+  },
+  "crypto-bot": {
+    "palette": [
+      "#f5f5fc",
+      "#9e92f5",
+      "#b4a9fc",
+      "#beb7fc",
+      "#ccc4fc"
+    ],
+    "goodColorOnWhite": "#5840F8",
+    "goodColorOnBlack": "#B4A9FC",
+    "faintColorOnWhite": "rgba(88, 64, 248, 0.1)"
   },
   "cryptocat": {
     "palette": [
@@ -1067,6 +1139,18 @@
     "goodColorOnBlack": "#98A4B0",
     "faintColorOnWhite": "rgba(106, 67, 196, 0.1)"
   },
+  "deckboard": {
+    "palette": [
+      "#2c3c53",
+      "#f9f9f9",
+      "#949ca4",
+      "#88909c",
+      "#9ca4ac"
+    ],
+    "goodColorOnWhite": "#2C3C53",
+    "goodColorOnBlack": "#88909C",
+    "faintColorOnWhite": "rgba(44, 60, 83, 0.1)"
+  },
   "deckhub": {
     "palette": [
       "#4bd4b5",
@@ -1114,6 +1198,18 @@
     "goodColorOnWhite": "#208567",
     "goodColorOnBlack": "#2BB38B",
     "faintColorOnWhite": "rgba(32, 133, 103, 0.1)"
+  },
+  "deplify": {
+    "palette": [
+      "#133d73",
+      "#fbfbfb",
+      "#6e829c",
+      "#7c94b4",
+      "#849cb4"
+    ],
+    "goodColorOnWhite": "#133D73",
+    "goodColorOnBlack": "#7C94B4",
+    "faintColorOnWhite": "rgba(19, 61, 115, 0.1)"
   },
   "destroyer": {
     "palette": [
@@ -1186,6 +1282,18 @@
     "goodColorOnWhite": "#2A2A2A",
     "goodColorOnBlack": "#BCBCBC",
     "faintColorOnWhite": "rgba(42, 42, 42, 0.1)"
+  },
+  "diffuse": {
+    "palette": [
+      "#fbfbfb",
+      "#231c23",
+      "#7f7c7c",
+      "#747474",
+      "#858484"
+    ],
+    "goodColorOnWhite": "#231C23",
+    "goodColorOnBlack": "#7F7C7C",
+    "faintColorOnWhite": "rgba(35, 28, 35, 0.1)"
   },
   "digiexam": {
     "palette": [
@@ -1499,6 +1607,18 @@
     "goodColorOnBlack": "#09AF70",
     "faintColorOnWhite": "rgba(68, 33, 86, 0.1)"
   },
+  "final-countdown": {
+    "palette": [
+      "#2c2c2c",
+      "#302c2c",
+      "#302c2c",
+      "#302c2c",
+      "#302c2c"
+    ],
+    "goodColorOnWhite": "#302C2C",
+    "goodColorOnBlack": "#877C7C",
+    "faintColorOnWhite": "rgba(48, 44, 44, 0.1)"
+  },
   "firebase-admin": {
     "palette": [
       "#fcc535",
@@ -1630,6 +1750,18 @@
     "goodColorOnWhite": "#2F5F86",
     "goodColorOnBlack": "#B3EBFB",
     "faintColorOnWhite": "rgba(47, 95, 134, 0.1)"
+  },
+  "freeman": {
+    "palette": [
+      "#eaeaf7",
+      "#202030",
+      "#6c6c71",
+      "#64646a",
+      "#747474"
+    ],
+    "goodColorOnWhite": "#202030",
+    "goodColorOnBlack": "#EAEAF7",
+    "faintColorOnWhite": "rgba(32, 32, 48, 0.1)"
   },
   "freeter": {
     "palette": [
@@ -1919,6 +2051,18 @@
     "goodColorOnBlack": "#77C8EC",
     "faintColorOnWhite": "rgba(23, 121, 165, 0.1)"
   },
+  "gram-tools": {
+    "palette": [
+      "#a1b2b3",
+      "#182627",
+      "#626c6c",
+      "#4c5c5c",
+      "#4c5454"
+    ],
+    "goodColorOnWhite": "#182627",
+    "goodColorOnBlack": "#A1B2B3",
+    "faintColorOnWhite": "rgba(24, 38, 39, 0.1)"
+  },
   "grap": {
     "palette": [
       "#2484d4",
@@ -2195,6 +2339,18 @@
     "goodColorOnBlack": "#D5BE7C",
     "faintColorOnWhite": "rgba(53, 49, 33, 0.1)"
   },
+  "image-shrinker": {
+    "palette": [
+      "#d4abaa",
+      "#435c68",
+      "#a34743",
+      "#75acca",
+      "#f0694f"
+    ],
+    "goodColorOnWhite": "#A34743",
+    "goodColorOnBlack": "#F0694F",
+    "faintColorOnWhite": "rgba(163, 71, 67, 0.1)"
+  },
   "imagine": {
     "palette": [
       "#049bfb",
@@ -2218,6 +2374,18 @@
     "goodColorOnWhite": "#0975A6",
     "goodColorOnBlack": "#9FDEFA",
     "faintColorOnWhite": "rgba(9, 117, 166, 0.1)"
+  },
+  "infinitex": {
+    "palette": [
+      "#070707",
+      "#fbfbfb",
+      "#a0a0a0",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "goodColorOnWhite": "#070707",
+    "goodColorOnBlack": "#FBFBFB",
+    "faintColorOnWhite": "rgba(7, 7, 7, 0.1)"
   },
   "infinity": {
     "palette": [
@@ -2267,6 +2435,18 @@
     "goodColorOnBlack": "#C2BCE6",
     "faintColorOnWhite": "rgba(100, 92, 196, 0.1)"
   },
+  "instatron": {
+    "palette": [
+      "#34b6fb",
+      "#ece4da",
+      "#314957",
+      "#607773",
+      "#e2544b"
+    ],
+    "goodColorOnWhite": "#314957",
+    "goodColorOnBlack": "#34B6FB",
+    "faintColorOnWhite": "rgba(49, 73, 87, 0.1)"
+  },
   "intu-mind": {
     "palette": [
       "#04ab9b",
@@ -2302,6 +2482,18 @@
     "goodColorOnWhite": "#0A75D7",
     "goodColorOnBlack": "#0B81ED",
     "faintColorOnWhite": "rgba(10, 117, 215, 0.1)"
+  },
+  "iperius-console": {
+    "palette": [
+      "#06a7da",
+      "#fbfbfb",
+      "#a2ddf3",
+      "#69c1e5",
+      "#34bce4"
+    ],
+    "goodColorOnWhite": "#047BA1",
+    "goodColorOnBlack": "#06A7DA",
+    "faintColorOnWhite": "rgba(4, 123, 161, 0.1)"
   },
   "ironnode": {
     "palette": [
@@ -2374,6 +2566,18 @@
     "goodColorOnWhite": "#037BB4",
     "goodColorOnBlack": "#049BE4",
     "faintColorOnWhite": "rgba(3, 123, 180, 0.1)"
+  },
+  "janus-workspace": {
+    "palette": [
+      "#f6f6f6",
+      "#2a2b2b",
+      "#7c7c80",
+      "#747474",
+      "#848484"
+    ],
+    "goodColorOnWhite": "#2A2B2B",
+    "goodColorOnBlack": "#7C7C80",
+    "faintColorOnWhite": "rgba(42, 43, 43, 0.1)"
   },
   "jasper": {
     "palette": [
@@ -2543,6 +2747,18 @@
     "goodColorOnBlack": "#7CA4EC",
     "faintColorOnWhite": "rgba(42, 107, 224, 0.1)"
   },
+  "keyfant-offline-password-manager": {
+    "palette": [
+      "#a3214c",
+      "#faf8f8",
+      "#17060b",
+      "#c98c9c",
+      "#c47c91"
+    ],
+    "goodColorOnWhite": "#A3214C",
+    "goodColorOnBlack": "#C47C91",
+    "faintColorOnWhite": "rgba(163, 33, 76, 0.1)"
+  },
   "kinesis-ci": {
     "palette": [
       "#fc6404",
@@ -2590,6 +2806,18 @@
     "goodColorOnWhite": "#5C5C5C",
     "goodColorOnBlack": "#2E8EE0",
     "faintColorOnWhite": "rgba(92, 92, 92, 0.1)"
+  },
+  "laravel-kit": {
+    "palette": [
+      "#3152d0",
+      "#fbfbfb",
+      "#0c86f5",
+      "#8790de",
+      "#84b4f4"
+    ],
+    "goodColorOnWhite": "#3152D0",
+    "goodColorOnBlack": "#0C86F5",
+    "faintColorOnWhite": "rgba(49, 82, 208, 0.1)"
   },
   "laverna": {
     "palette": [
@@ -2689,15 +2917,15 @@
   },
   "luna": {
     "palette": [
-      "#f4544c",
-      "#fbf8f8",
-      "#f4a49c",
-      "#f4918e",
-      "#f47c74"
+      "#fc7d04",
+      "#fcf9f7",
+      "#fca04c",
+      "#fcb46c",
+      "#fc9c38"
     ],
-    "goodColorOnWhite": "#DD170E",
-    "goodColorOnBlack": "#F4544C",
-    "faintColorOnWhite": "rgba(221, 23, 14, 0.1)"
+    "goodColorOnWhite": "#B55A02",
+    "goodColorOnBlack": "#FC7D04",
+    "faintColorOnWhite": "rgba(181, 90, 2, 0.1)"
   },
   "mailspring": {
     "palette": [
@@ -2783,6 +3011,18 @@
     "goodColorOnBlack": "#4CACD4",
     "faintColorOnWhite": "rgba(10, 20, 62, 0.1)"
   },
+  "markdown-explorer": {
+    "palette": [
+      "#160b2a",
+      "#c6caf7",
+      "#5d606d",
+      "#777a95",
+      "#595f80"
+    ],
+    "goodColorOnWhite": "#160B2A",
+    "goodColorOnBlack": "#C6CAF7",
+    "faintColorOnWhite": "rgba(22, 11, 42, 0.1)"
+  },
   "markdown-office": {
     "palette": [
       "#787979",
@@ -2818,6 +3058,18 @@
     "goodColorOnWhite": "#1D73A8",
     "goodColorOnBlack": "#349CDC",
     "faintColorOnWhite": "rgba(29, 115, 168, 0.1)"
+  },
+  "marktext": {
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "goodColorOnWhite": "#080404",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
   },
   "marp": {
     "palette": [
@@ -2902,6 +3154,18 @@
     "goodColorOnWhite": "#067791",
     "goodColorOnBlack": "#0ECAF5",
     "faintColorOnWhite": "rgba(6, 119, 145, 0.1)"
+  },
+  "mercury": {
+    "palette": [
+      "#fbc604",
+      "#4a3104",
+      "#b28904",
+      "#946c04",
+      "#c49c04"
+    ],
+    "goodColorOnWhite": "#946C04",
+    "goodColorOnBlack": "#FBC604",
+    "faintColorOnWhite": "rgba(148, 108, 4, 0.1)"
   },
   "messenger-demo-viewer": {
     "palette": [
@@ -3095,6 +3359,18 @@
     "goodColorOnBlack": "#FBCC5B",
     "faintColorOnWhite": "rgba(143, 102, 3, 0.1)"
   },
+  "monerite": {
+    "palette": [
+      "#2cf404",
+      "#30f404",
+      "#30f404",
+      "#30f404",
+      "#30f404"
+    ],
+    "goodColorOnWhite": "#188302",
+    "goodColorOnBlack": "#2CF404",
+    "faintColorOnWhite": "rgba(24, 131, 2, 0.1)"
+  },
   "mongoclient": {
     "palette": [
       "#0b0c08",
@@ -3131,6 +3407,18 @@
     "goodColorOnBlack": "#D2E4F2",
     "faintColorOnWhite": "rgba(33, 50, 80, 0.1)"
   },
+  "montenote": {
+    "palette": [
+      "#2c2c3c",
+      "#f3f3f3",
+      "#949ca4",
+      "#9c9ca4",
+      "#9494a4"
+    ],
+    "goodColorOnWhite": "#2C2C3C",
+    "goodColorOnBlack": "#949CA4",
+    "faintColorOnWhite": "rgba(44, 44, 60, 0.1)"
+  },
   "mstream": {
     "palette": [
       "#6484b4",
@@ -3142,6 +3430,18 @@
     "goodColorOnWhite": "#244C7C",
     "goodColorOnBlack": "#6484B4",
     "faintColorOnWhite": "rgba(36, 76, 124, 0.1)"
+  },
+  "multiple-file-manager": {
+    "palette": [
+      "#06090c",
+      "#4a92d2",
+      "#386c9c",
+      "#ededed",
+      "#4484bc"
+    ],
+    "goodColorOnWhite": "#386C9C",
+    "goodColorOnBlack": "#4A92D2",
+    "faintColorOnWhite": "rgba(56, 108, 156, 0.1)"
   },
   "muno": {
     "palette": [
@@ -3166,6 +3466,42 @@
     "goodColorOnWhite": "#1180A2",
     "goodColorOnBlack": "#44C4EB",
     "faintColorOnWhite": "rgba(17, 128, 162, 0.1)"
+  },
+  "musify": {
+    "palette": [
+      "#222222",
+      "#d93c3c",
+      "#727272",
+      "#5c5c5c",
+      "#6d2424"
+    ],
+    "goodColorOnWhite": "#D93C3C",
+    "goodColorOnBlack": "#D93C3C",
+    "faintColorOnWhite": "rgba(217, 60, 60, 0.1)"
+  },
+  "mylottery": {
+    "palette": [
+      "#fc0404",
+      "#ff0404",
+      "#ff0404",
+      "#ff0404",
+      "#ff0404"
+    ],
+    "goodColorOnWhite": "#EA0000",
+    "goodColorOnBlack": "#FF0404",
+    "faintColorOnWhite": "rgba(234, 0, 0, 0.1)"
+  },
+  "mypsn": {
+    "palette": [
+      "#7c7c7c",
+      "#343c3c",
+      "#d8d8d8",
+      "#6c7474",
+      "#64646c"
+    ],
+    "goodColorOnWhite": "#343C3C",
+    "goodColorOnBlack": "#7C7C7C",
+    "faintColorOnWhite": "rgba(52, 60, 60, 0.1)"
   },
   "nattt": {
     "palette": [
@@ -3202,6 +3538,18 @@
     "goodColorOnWhite": "#057B76",
     "goodColorOnBlack": "#068A84",
     "faintColorOnWhite": "rgba(5, 123, 118, 0.1)"
+  },
+  "neko": {
+    "palette": [
+      "#363636",
+      "#e7e0e3",
+      "#6d6267",
+      "#959595",
+      "#7c7c7c"
+    ],
+    "goodColorOnWhite": "#6D6267",
+    "goodColorOnBlack": "#E7E0E3",
+    "faintColorOnWhite": "rgba(109, 98, 103, 0.1)"
   },
   "netbeast": {
     "palette": [
@@ -3551,6 +3899,18 @@
     "goodColorOnBlack": "#74A4D4",
     "faintColorOnWhite": "rgba(6, 94, 177, 0.1)"
   },
+  "paymo-time-tracker": {
+    "palette": [
+      "#04ccb4",
+      "#fafbfb",
+      "#aafa95",
+      "#62e1cc",
+      "#33d6c4"
+    ],
+    "goodColorOnWhite": "#027A6B",
+    "goodColorOnBlack": "#04CCB4",
+    "faintColorOnWhite": "rgba(2, 122, 107, 0.1)"
+  },
   "pencil": {
     "palette": [
       "#fbfaf9",
@@ -3659,6 +4019,18 @@
     "goodColorOnBlack": "#FBA736",
     "faintColorOnWhite": "rgba(19, 19, 19, 0.1)"
   },
+  "phreshistant": {
+    "palette": [
+      "#f5f9f6",
+      "#14ab4c",
+      "#6cbf88",
+      "#41b466",
+      "#84cca4"
+    ],
+    "goodColorOnWhite": "#10883C",
+    "goodColorOnBlack": "#14AB4C",
+    "faintColorOnWhite": "rgba(16, 136, 60, 0.1)"
+  },
   "phreshplayer": {
     "palette": [
       "#04a444",
@@ -3671,6 +4043,30 @@
     "goodColorOnBlack": "#04A444",
     "faintColorOnWhite": "rgba(3, 134, 56, 0.1)"
   },
+  "picpipe": {
+    "palette": [
+      "#3535f4",
+      "#f8f8f8",
+      "#7676f1",
+      "#9494ec",
+      "#9c94f4"
+    ],
+    "goodColorOnWhite": "#3535F4",
+    "goodColorOnBlack": "#7676F1",
+    "faintColorOnWhite": "rgba(53, 53, 244, 0.1)"
+  },
+  "pile": {
+    "palette": [
+      "#e8e8e9",
+      "#b63ae5",
+      "#dc44fb",
+      "#938596",
+      "#7c6088"
+    ],
+    "goodColorOnWhite": "#7C6088",
+    "goodColorOnBlack": "#DC44FB",
+    "faintColorOnWhite": "rgba(124, 96, 136, 0.1)"
+  },
   "pilemd": {
     "palette": [
       "#2cc2cf",
@@ -3682,6 +4078,18 @@
     "goodColorOnWhite": "#1D8088",
     "goodColorOnBlack": "#2CC2CF",
     "faintColorOnWhite": "rgba(29, 128, 136, 0.1)"
+  },
+  "piqture": {
+    "palette": [
+      "#242424",
+      "#e2e2e3",
+      "#7425a4",
+      "#965fb6",
+      "#848484"
+    ],
+    "goodColorOnWhite": "#7425A4",
+    "goodColorOnBlack": "#965FB6",
+    "faintColorOnWhite": "rgba(116, 37, 164, 0.1)"
   },
   "plain-email": {
     "palette": [
@@ -3718,6 +4126,18 @@
     "goodColorOnWhite": "#606058",
     "goodColorOnBlack": "#74A146",
     "faintColorOnWhite": "rgba(96, 96, 88, 0.1)"
+  },
+  "playlist": {
+    "palette": [
+      "#2f2e27",
+      "#e4ce29",
+      "#9c8408",
+      "#948c24",
+      "#746c3c"
+    ],
+    "goodColorOnWhite": "#746C3C",
+    "goodColorOnBlack": "#9C8408",
+    "faintColorOnWhite": "rgba(116, 108, 60, 0.1)"
   },
   "poddycast-app": {
     "palette": [
@@ -3791,6 +4211,18 @@
     "goodColorOnBlack": "#FA43B3",
     "faintColorOnWhite": "rgba(16, 16, 16, 0.1)"
   },
+  "popsql": {
+    "palette": [
+      "#fc7b45",
+      "#f67a75",
+      "#fc6462",
+      "#fc9c1f",
+      "#fc9424"
+    ],
+    "goodColorOnWhite": "#D04003",
+    "goodColorOnBlack": "#FC7B45",
+    "faintColorOnWhite": "rgba(208, 64, 3, 0.1)"
+  },
   "postbird": {
     "palette": [
       "#e2e2e2",
@@ -3850,6 +4282,18 @@
     "goodColorOnWhite": "#D12A19",
     "goodColorOnBlack": "#E84C3C",
     "faintColorOnWhite": "rgba(209, 42, 25, 0.1)"
+  },
+  "pretzel": {
+    "palette": [
+      "#f8f8fb",
+      "#4e72e0",
+      "#8fa4eb",
+      "#a1bcf4",
+      "#6994ea"
+    ],
+    "goodColorOnWhite": "#2563E5",
+    "goodColorOnBlack": "#A1BCF4",
+    "faintColorOnWhite": "rgba(37, 99, 229, 0.1)"
   },
   "prexview": {
     "palette": [
@@ -3934,6 +4378,18 @@
     "goodColorOnWhite": "#387B44",
     "goodColorOnBlack": "#4CA75C",
     "faintColorOnWhite": "rgba(56, 123, 68, 0.1)"
+  },
+  "putler": {
+    "palette": [
+      "#cecec5",
+      "#646464",
+      "#8cae3c",
+      "#afcc68",
+      "#808d74"
+    ],
+    "goodColorOnWhite": "#646464",
+    "goodColorOnBlack": "#AFCC68",
+    "faintColorOnWhite": "rgba(100, 100, 100, 0.1)"
   },
   "qbox": {
     "palette": [
@@ -4078,18 +4534,6 @@
     "goodColorOnWhite": "#2065D8",
     "goodColorOnBlack": "#B4CCF4",
     "faintColorOnWhite": "rgba(32, 101, 216, 0.1)"
-  },
-  "rename-multiple-file": {
-    "palette": [
-      "#06090c",
-      "#4a92d2",
-      "#386c9c",
-      "#ededed",
-      "#4484bc"
-    ],
-    "goodColorOnWhite": "#386C9C",
-    "goodColorOnBlack": "#4A92D2",
-    "faintColorOnWhite": "rgba(56, 108, 156, 0.1)"
   },
   "reqview": {
     "palette": [
@@ -4270,6 +4714,18 @@
     "goodColorOnWhite": "#6C6C6C",
     "goodColorOnBlack": "#8CBA58",
     "faintColorOnWhite": "rgba(108, 108, 108, 0.1)"
+  },
+  "servpane": {
+    "palette": [
+      "#282928",
+      "#f2b6b4",
+      "#4bd662",
+      "#8b8783",
+      "#949494"
+    ],
+    "goodColorOnWhite": "#282928",
+    "goodColorOnBlack": "#F2B6B4",
+    "faintColorOnWhite": "rgba(40, 41, 40, 0.1)"
   },
   "seton": {
     "palette": [
@@ -4462,6 +4918,18 @@
     "goodColorOnWhite": "#040404",
     "goodColorOnBlack": "#BCFF80",
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
+  },
+  "smallpdf": {
+    "palette": [
+      "#d4c11e",
+      "#c646fc",
+      "#04c4fc",
+      "#04d464",
+      "#fc5404"
+    ],
+    "goodColorOnWhite": "#027FA3",
+    "goodColorOnBlack": "#04C4FC",
+    "faintColorOnWhite": "rgba(2, 127, 163, 0.1)"
   },
   "snake": {
     "palette": [
@@ -4703,6 +5171,18 @@
     "goodColorOnBlack": "#EB244B",
     "faintColorOnWhite": "rgba(196, 28, 44, 0.1)"
   },
+  "streamlabs-obs": {
+    "palette": [
+      "#34c3a3",
+      "#f9f9f9",
+      "#36464e",
+      "#39867c",
+      "#84b4ac"
+    ],
+    "goodColorOnWhite": "#36464E",
+    "goodColorOnBlack": "#34C3A3",
+    "faintColorOnWhite": "rgba(54, 70, 78, 0.1)"
+  },
   "streetviewdownload360": {
     "palette": [
       "#0c8c4c",
@@ -4714,6 +5194,18 @@
     "goodColorOnWhite": "#916F02",
     "goodColorOnBlack": "#F9C004",
     "faintColorOnWhite": "rgba(145, 111, 2, 0.1)"
+  },
+  "studymd": {
+    "palette": [
+      "#040504",
+      "#77c44f",
+      "#0fb391",
+      "#30b87d",
+      "#467b36"
+    ],
+    "goodColorOnWhite": "#467B36",
+    "goodColorOnBlack": "#0FB391",
+    "faintColorOnWhite": "rgba(70, 123, 54, 0.1)"
   },
   "subordination": {
     "palette": [
@@ -4774,6 +5266,18 @@
     "goodColorOnWhite": "#CD2F41",
     "goodColorOnBlack": "#D44454",
     "faintColorOnWhite": "rgba(205, 47, 65, 0.1)"
+  },
+  "symphony": {
+    "palette": [
+      "#7a8a68",
+      "#f39f55",
+      "#3b3c3c",
+      "#4cacd4",
+      "#4c443c"
+    ],
+    "goodColorOnWhite": "#4C443C",
+    "goodColorOnBlack": "#F39F55",
+    "faintColorOnWhite": "rgba(76, 68, 60, 0.1)"
   },
   "synap": {
     "palette": [
@@ -5423,6 +5927,18 @@
     "goodColorOnBlack": "#7C8C94",
     "faintColorOnWhite": "rgba(33, 34, 34, 0.1)"
   },
+  "video-hub-app": {
+    "palette": [
+      "#db0404",
+      "#b7c8f8",
+      "#5275fa",
+      "#570507",
+      "#dc8484"
+    ],
+    "goodColorOnWhite": "#DB0404",
+    "goodColorOnBlack": "#5275FA",
+    "faintColorOnWhite": "rgba(219, 4, 4, 0.1)"
+  },
   "visual-comic-reader": {
     "palette": [
       "#f4bd6e",
@@ -5471,6 +5987,18 @@
     "goodColorOnBlack": "#34ACF4",
     "faintColorOnWhite": "rgba(10, 118, 183, 0.1)"
   },
+  "vocare-helpdesk": {
+    "palette": [
+      "#e1e1e1",
+      "#e1534b",
+      "#dfa39d",
+      "#dd8a85",
+      "#d9847c"
+    ],
+    "goodColorOnWhite": "#D12C23",
+    "goodColorOnBlack": "#E1534B",
+    "faintColorOnWhite": "rgba(209, 44, 35, 0.1)"
+  },
   "voltra": {
     "palette": [
       "#fbfbfb",
@@ -5495,6 +6023,18 @@
     "goodColorOnBlack": "#CF579F",
     "faintColorOnWhite": "rgba(78, 28, 60, 0.1)"
   },
+  "vzl": {
+    "palette": [
+      "#04acfc",
+      "#aae4fc",
+      "#4bbffc",
+      "#34bcfc",
+      "#24b4fc"
+    ],
+    "goodColorOnWhite": "#027CB5",
+    "goodColorOnBlack": "#04ACFC",
+    "faintColorOnWhite": "rgba(2, 124, 181, 0.1)"
+  },
   "wail": {
     "palette": [
       "#040404",
@@ -5506,6 +6046,18 @@
     "goodColorOnWhite": "#040404",
     "goodColorOnBlack": "#FFF",
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
+  },
+  "wakefy": {
+    "palette": [
+      "#99e1ac",
+      "#b7e9ac",
+      "#4fcaac",
+      "#7bd8ac",
+      "#68d4ac"
+    ],
+    "goodColorOnWhite": "#317B21",
+    "goodColorOnBlack": "#B7E9AC",
+    "faintColorOnWhite": "rgba(49, 123, 33, 0.1)"
   },
   "wallapatta": {
     "palette": [
@@ -6010,5 +6562,17 @@
     "goodColorOnWhite": "#5A59DC",
     "goodColorOnBlack": "#D49CFC",
     "faintColorOnWhite": "rgba(90, 89, 220, 0.1)"
+  },
+  "zuzu": {
+    "palette": [
+      "#049484",
+      "#f6f9f9",
+      "#042020",
+      "#76c4bc",
+      "#04544c"
+    ],
+    "goodColorOnWhite": "#04544C",
+    "goodColorOnBlack": "#049484",
+    "faintColorOnWhite": "rgba(4, 84, 76, 0.1)"
   }
 }

@@ -1,0 +1,11 @@
+name: 'MyPSN'
+description: 'unofficial desktop app for the My Playstation service'
+website: 'https://github.com/ImNotLiam/MyPSN'
+repository: 'https://github.com/ImNotLiam/MyPSN'
+keywords:
+    - statistics
+    - games
+    - PSN
+    - playstation
+category: 'Productivity'
+license: 'MIT license'

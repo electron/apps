@@ -1,0 +1,14 @@
+name: MarkText
+description: 'A realtime preview MarkDown Editor'
+website: 'https://github.com/marktext/marktext'
+keywords:
+    - markdown
+    - performance
+    - efficiency
+    - eidtor
+category: Productivity
+license: MIT
+repository: 'https://github.com/marktext/marktext'
+screenshots:
+    -
+        imageUrl: 'https://github.com/marktext/marktext/raw/master/static/logo-small.png'
