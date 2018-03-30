@@ -2867,6 +2867,18 @@
     "goodColorOnBlack": "#04A393",
     "faintColorOnWhite": "rgba(3, 121, 109, 0.1)"
   },
+  "lectrote": {
+    "palette": [
+      "#aca4e3",
+      "#f1eff4",
+      "#7b6ed3",
+      "#837cd8",
+      "#ded4ee"
+    ],
+    "goodColorOnWhite": "#6B63D1",
+    "goodColorOnBlack": "#837CD8",
+    "faintColorOnWhite": "rgba(107, 99, 209, 0.1)"
+  },
   "left": {
     "palette": [
       "#040404",
