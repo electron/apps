@@ -4,7 +4,7 @@ website: 'https://github.com/rvpanoz/luna'
 repository: 'https://github.com/rvpanoz/luna'
 screenshots:
     -
-        imageUrl: 'https://github.com/rvpanoz/luna/blob/master/luna.png'
+        imageUrl: 'https://github.com/rvpanoz/luna/blob/master/luna-icon.png'
         caption: 'luna - npm management'
 keywords:
     - npm
