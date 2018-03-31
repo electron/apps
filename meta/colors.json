@@ -2977,15 +2977,15 @@
   },
   "luna": {
     "palette": [
-      "#fc7d04",
-      "#fcf9f7",
-      "#fca04c",
-      "#fcb46c",
-      "#fc9c38"
+      "#f3544c",
+      "#fcf6f6",
+      "#f49a99",
+      "#fcaca4",
+      "#f47c74"
     ],
-    "goodColorOnWhite": "#B55A02",
-    "goodColorOnBlack": "#FC7D04",
-    "faintColorOnWhite": "rgba(181, 90, 2, 0.1)"
+    "goodColorOnWhite": "#DA1A07",
+    "goodColorOnBlack": "#FCACA4",
+    "faintColorOnWhite": "rgba(218, 26, 7, 0.1)"
   },
   "mailspring": {
     "palette": [
