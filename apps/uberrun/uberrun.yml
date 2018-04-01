@@ -1,0 +1,13 @@
+name: Uber Run
+description: 'Simple automation desktop app to download and organize your tax invoices from Uber.'
+website: 'https://www.uberrun.io'
+repository: 'https://github.com/mrgodhani/uberrun'
+license: MIT
+keywords:
+    - uber
+    - uber invoice
+    - invoice
+    - tax
+    - invoice download
+    - uber invoice download
+category: 'Productivity'
