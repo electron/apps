@@ -4403,6 +4403,18 @@
     "goodColorOnBlack": "#F2F2F2",
     "faintColorOnWhite": "rgba(104, 104, 106, 0.1)"
   },
+  "protegopdf": {
+    "palette": [
+      "#f2f2f2",
+      "#1c66a2",
+      "#949596",
+      "#848484",
+      "#7c7c7c"
+    ],
+    "goodColorOnWhite": "#1C66A2",
+    "goodColorOnBlack": "#949596",
+    "faintColorOnWhite": "rgba(28, 102, 162, 0.1)"
+  },
   "protopie": {
     "palette": [
       "#fc706e",
@@ -6310,6 +6322,18 @@
     "goodColorOnWhite": "#0575C9",
     "goodColorOnBlack": "#84C4EC",
     "faintColorOnWhite": "rgba(5, 117, 201, 0.1)"
+  },
+  "wildlink": {
+    "palette": [
+      "#375f8d",
+      "#f9fafa",
+      "#2f91ba",
+      "#89b6ce",
+      "#77accc"
+    ],
+    "goodColorOnWhite": "#375F8D",
+    "goodColorOnBlack": "#2F91BA",
+    "faintColorOnWhite": "rgba(55, 95, 141, 0.1)"
   },
   "wire": {
     "palette": [
