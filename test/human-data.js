@@ -145,7 +145,7 @@ describe('human-submitted app data', () => {
         it('is at least 256px x 256px (or 128px x 128px for grandfathered apps)', function () {
           if (!fs.existsSync(iconPath)) return this.skip()
           const dimensions = imageSize(iconPath)
-          const min = grandfatheredSlugs.includes(slug) ? 128 : 256
+          const min = (grandfatheredSlugs.indexOf(slug) > -1) ? 128 : 256
           expect(dimensions.width).to.be.at.least(min)
         })
 
