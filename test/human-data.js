@@ -11,6 +11,7 @@ const cleanDeep = require('clean-deep')
 const imageSize = require('image-size')
 const makeColorAccessible = require('make-color-accessible')
 const slugg = require('slugg')
+const grandfatheredSlugs = require('../lib/grandfathered-small-icons')
 const slugs = fs.readdirSync(path.join(__dirname, '../apps'))
   .filter(filename => {
     return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
@@ -141,11 +142,11 @@ describe('human-submitted app data', () => {
           expect(dimensions.width).to.equal(dimensions.height)
         })
 
-        it('is at least 128px x 128px', function () {
+        it('is at least 256px x 256px (or 128px x 128px for grandfathered apps)', function () {
           if (!fs.existsSync(iconPath)) return this.skip()
-
           const dimensions = imageSize(iconPath)
-          expect(dimensions.width).to.be.above(127)
+          const min = (grandfatheredSlugs.indexOf(slug) > -1) ? 128 : 256
+          expect(dimensions.width).to.be.at.least(min)
         })
 
         it('is not more than 1024px x 1024px', function () {
