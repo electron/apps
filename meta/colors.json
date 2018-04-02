@@ -2627,6 +2627,18 @@
     "goodColorOnBlack": "#09C4FC",
     "faintColorOnWhite": "rgba(2, 116, 150, 0.1)"
   },
+  "joplin": {
+    "palette": [
+      "#0a72d3",
+      "#fbfbfb",
+      "#044283",
+      "#5cb4fb",
+      "#04449c"
+    ],
+    "goodColorOnWhite": "#04449C",
+    "goodColorOnBlack": "#5CB4FB",
+    "faintColorOnWhite": "rgba(4, 68, 156, 0.1)"
+  },
   "jqi": {
     "palette": [
       "#048880",
@@ -2855,6 +2867,18 @@
     "goodColorOnBlack": "#04A393",
     "faintColorOnWhite": "rgba(3, 121, 109, 0.1)"
   },
+  "lectrote": {
+    "palette": [
+      "#aca4e3",
+      "#f1eff4",
+      "#7b6ed3",
+      "#837cd8",
+      "#ded4ee"
+    ],
+    "goodColorOnWhite": "#6B63D1",
+    "goodColorOnBlack": "#837CD8",
+    "faintColorOnWhite": "rgba(107, 99, 209, 0.1)"
+  },
   "left": {
     "palette": [
       "#040404",
@@ -2953,15 +2977,15 @@
   },
   "luna": {
     "palette": [
-      "#fc7d04",
-      "#fcf9f7",
-      "#fca04c",
-      "#fcb46c",
-      "#fc9c38"
+      "#f3544c",
+      "#fcf6f6",
+      "#f49a99",
+      "#fcaca4",
+      "#f47c74"
     ],
-    "goodColorOnWhite": "#B55A02",
-    "goodColorOnBlack": "#FC7D04",
-    "faintColorOnWhite": "rgba(181, 90, 2, 0.1)"
+    "goodColorOnWhite": "#DA1A07",
+    "goodColorOnBlack": "#FCACA4",
+    "faintColorOnWhite": "rgba(218, 26, 7, 0.1)"
   },
   "mailspring": {
     "palette": [
@@ -4378,6 +4402,18 @@
     "goodColorOnWhite": "#68686A",
     "goodColorOnBlack": "#F2F2F2",
     "faintColorOnWhite": "rgba(104, 104, 106, 0.1)"
+  },
+  "protegopdf": {
+    "palette": [
+      "#f2f2f2",
+      "#1c66a2",
+      "#949596",
+      "#848484",
+      "#7c7c7c"
+    ],
+    "goodColorOnWhite": "#1C66A2",
+    "goodColorOnBlack": "#949596",
+    "faintColorOnWhite": "rgba(28, 102, 162, 0.1)"
   },
   "protopie": {
     "palette": [
@@ -6286,6 +6322,18 @@
     "goodColorOnWhite": "#0575C9",
     "goodColorOnBlack": "#84C4EC",
     "faintColorOnWhite": "rgba(5, 117, 201, 0.1)"
+  },
+  "wildlink": {
+    "palette": [
+      "#375f8d",
+      "#f9fafa",
+      "#2f91ba",
+      "#89b6ce",
+      "#77accc"
+    ],
+    "goodColorOnWhite": "#375F8D",
+    "goodColorOnBlack": "#2F91BA",
+    "faintColorOnWhite": "rgba(55, 95, 141, 0.1)"
   },
   "wire": {
     "palette": [
