@@ -146,7 +146,7 @@ describe('human-submitted app data', () => {
           if (!fs.existsSync(iconPath)) return this.skip()
           const dimensions = imageSize(iconPath)
           const min = grandfatheredSlugs.includes(slug) ? 128 : 256
-          expect(dimensions.width).to.be.above(min - 1)
+          expect(dimensions.width).to.be.at.least(min)
         })
 
         it('is not more than 1024px x 1024px', function () {
