@@ -431,6 +431,18 @@
     "goodColorOnBlack": "#0481D1",
     "faintColorOnWhite": "rgba(4, 116, 188, 0.1)"
   },
+  "blockbench": {
+    "palette": [
+      "#fcfcfc",
+      "#0e77b7",
+      "#1b94d5",
+      "#04507c",
+      "#c4ffb0"
+    ],
+    "goodColorOnWhite": "#04507C",
+    "goodColorOnBlack": "#C4FFB0",
+    "faintColorOnWhite": "rgba(4, 80, 124, 0.1)"
+  },
   "booker": {
     "palette": [
       "#a5c149",
