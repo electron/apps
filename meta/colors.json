@@ -6287,6 +6287,18 @@
     "goodColorOnBlack": "#047BBB",
     "faintColorOnWhite": "rgba(4, 123, 187, 0.1)"
   },
+  "wharf": {
+    "palette": [
+      "#fcfafa",
+      "#f47444",
+      "#fcb494",
+      "#f9a37e",
+      "#f4946c"
+    ],
+    "goodColorOnWhite": "#CD4306",
+    "goodColorOnBlack": "#FCB494",
+    "faintColorOnWhite": "rgba(205, 67, 6, 0.1)"
+  },
   "whatever": {
     "palette": [
       "#26845c",
