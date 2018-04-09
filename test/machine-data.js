@@ -27,8 +27,14 @@ describe('machine-generated app data (exported by the module)', () => {
     expect(apps.every(app => app.slug.length > 0)).to.equal(true)
   })
 
-  it('sets a .png `icon` property on every app', () => {
-    expect(apps.every(app => !!app.icon.match(/\.png$/))).to.equal(true)
+  it('sets a multi-size icon properties on every app', () => {
+    expect(apps.every(app => {
+      return app.icon.endsWith('.png') &&
+      app.icon32.endsWith('-icon-32.png') &&
+      app.icon64.endsWith('-icon-64.png') &&
+      app.icon128.endsWith('-icon-128.png') &&
+      app.icon256.endsWith('-icon-256.png')
+    })).to.equal(true)
   })
 
   it('sets a (git-based) YYYY-MM-DD `date` property on every app', () => {
