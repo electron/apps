@@ -131,6 +131,18 @@
     "goodColorOnBlack": "#3990DF",
     "faintColorOnWhite": "rgba(31, 116, 194, 0.1)"
   },
+  "amanote": {
+    "palette": [
+      "#39d17f",
+      "#f7fbf9",
+      "#84e3b0",
+      "#9aebc4",
+      "#67e3a5"
+    ],
+    "goodColorOnWhite": "#18844E",
+    "goodColorOnBlack": "#67E3A5",
+    "faintColorOnWhite": "rgba(24, 132, 78, 0.1)"
+  },
   "amipwned": {
     "palette": [
       "#04b79f",
