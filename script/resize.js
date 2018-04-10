@@ -25,6 +25,7 @@ function resize (file, size) {
 const resizes = icons.map(icon => resize(icon, 32))
   .concat(icons.map(icon => resize(icon, 64)))
   .concat(icons.map(icon => resize(icon, 128)))
+  .concat(icons.map(icon => resize(icon, 256)))
 
 Promise.all(resizes)
   .then(function (results) {

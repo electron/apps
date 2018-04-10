@@ -22,6 +22,7 @@ fs.readdirSync(path.join(__dirname, '../apps'))
       icon32: `${slug}-icon-32.png`,
       icon64: `${slug}-icon-64.png`,
       icon128: `${slug}-icon-128.png`,
+      icon256: `${slug}-icon-256.png`,
       date: dates[slug],
       iconColors: colors[slug].palette
     },
