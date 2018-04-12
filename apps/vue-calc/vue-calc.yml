@@ -1,0 +1,12 @@
+name: Vue Calc
+description: 'A Simple VueJS Calculator built with ElectronJS'
+website: 'https://github.com/el3um4s/vue-calc'
+repository: 'https://github.com/el3um4s/vue-calc'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/el3um4s/vue-calc/master/altro/screenshot.JPG'
+keywords:
+    - calculator
+    - vuetify
+    - vue
+category: Utilities
