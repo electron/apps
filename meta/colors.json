@@ -4643,6 +4643,18 @@
     "goodColorOnBlack": "#F55D04",
     "faintColorOnWhite": "rgba(201, 79, 4, 0.1)"
   },
+  "ridereceipts": {
+    "palette": [
+      "#fbfbfb",
+      "#3b0ebf",
+      "#b607cb",
+      "#a4a3bd",
+      "#8c8c8c"
+    ],
+    "goodColorOnWhite": "#B607CB",
+    "goodColorOnBlack": "#A4A3BD",
+    "faintColorOnWhite": "rgba(182, 7, 203, 0.1)"
+  },
   "riot": {
     "palette": [
       "#7ecca5",
