@@ -1,0 +1,15 @@
+name: Ride Receipts
+description: 'Simple automation desktop app to download and organize your tax invoices from Uber.'
+website: 'https://www.ridereceipts.io'
+repository: 'https://github.com/ridereceipts/ridereceipts'
+license: MIT
+keywords:
+    - uber
+    - lyft
+    - lyft receipts
+    - uber invoice
+    - invoice
+    - tax
+    - invoice download
+    - uber invoice download
+category: 'Productivity'
