@@ -6119,6 +6119,18 @@
     "goodColorOnBlack": "#CF579F",
     "faintColorOnWhite": "rgba(78, 28, 60, 0.1)"
   },
+  "vue-calc": {
+    "palette": [
+      "#ececec",
+      "#445464",
+      "#4cbb84",
+      "#9ba4ac",
+      "#949ca4"
+    ],
+    "goodColorOnWhite": "#445464",
+    "goodColorOnBlack": "#4CBB84",
+    "faintColorOnWhite": "rgba(68, 84, 100, 0.1)"
+  },
   "vzl": {
     "palette": [
       "#04acfc",
