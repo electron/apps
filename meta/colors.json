@@ -2678,14 +2678,14 @@
   "jukeboks": {
     "palette": [
       "#d34b73",
-      "#f7eac4",
-      "#8c0c34",
-      "#e09098",
-      "#dc748c"
+      "#faf3f5",
+      "#e18fa9",
+      "#e9a4bc",
+      "#dc7494"
     ],
-    "goodColorOnWhite": "#8C0C34",
-    "goodColorOnBlack": "#F7EAC4",
-    "faintColorOnWhite": "rgba(140, 12, 52, 0.1)"
+    "goodColorOnWhite": "#CD3461",
+    "goodColorOnBlack": "#D34B73",
+    "faintColorOnWhite": "rgba(205, 52, 97, 0.1)"
   },
   "jumblepassword": {
     "palette": [
