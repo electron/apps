@@ -6133,15 +6133,15 @@
   },
   "vue-calc": {
     "palette": [
-      "#ececec",
-      "#445464",
-      "#4cbb84",
-      "#9ba4ac",
-      "#949ca4"
+      "#d5d2d3",
+      "#1f954d",
+      "#043c54",
+      "#7999a4",
+      "#6cc494"
     ],
-    "goodColorOnWhite": "#445464",
-    "goodColorOnBlack": "#4CBB84",
-    "faintColorOnWhite": "rgba(68, 84, 100, 0.1)"
+    "goodColorOnWhite": "#043C54",
+    "goodColorOnBlack": "#1F954D",
+    "faintColorOnWhite": "rgba(4, 60, 84, 0.1)"
   },
   "vzl": {
     "palette": [
