@@ -1,0 +1,16 @@
+name: ueli
+description: 'This is an alt+space launcher for Windows and macOS.'
+website: 'https://github.com/oliverschwendener/ueli'
+repository: 'https://github.com/oliverschwendener/ueli'
+keywords:
+    - launcher
+    - search
+    - alt
+    - space
+license: MIT
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://github.com/oliverschwendener/ueli/raw/master/img/ueli-example.png'
+        caption: 'Example screenshot'
+        imageLink: 'https://github.com/oliverschwendener/ueli'
