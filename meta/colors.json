@@ -5951,6 +5951,18 @@
     "goodColorOnBlack": "#049714",
     "faintColorOnWhite": "rgba(4, 69, 4, 0.1)"
   },
+  "ueli": {
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "goodColorOnWhite": "#080404",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
+  },
   "un-colored": {
     "palette": [
       "#fbfbfb",
