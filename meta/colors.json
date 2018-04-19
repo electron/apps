@@ -6203,6 +6203,18 @@
     "goodColorOnBlack": "#EEE",
     "faintColorOnWhite": "rgba(78, 78, 78, 0.1)"
   },
+  "wallpaperviewer": {
+    "palette": [
+      "#40afa6",
+      "#ecdf97",
+      "#283d45",
+      "#85d4e8",
+      "#347474"
+    ],
+    "goodColorOnWhite": "#347474",
+    "goodColorOnBlack": "#ECDF97",
+    "faintColorOnWhite": "rgba(52, 116, 116, 0.1)"
+  },
   "wanna": {
     "palette": [
       "#1197e4",
