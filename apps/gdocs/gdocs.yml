@@ -1,0 +1,9 @@
+name: GDocs
+description: 'Unofficial Google Docs Desktop App'
+website: 'https://vista1nik.github.io/gdocs/'
+category: Productivity
+repository: 'https://github.com/Vista1nik/GDocs'
+keywords:
+    - office
+    - 'google docs'
+license: MIT
