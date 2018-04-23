@@ -5603,6 +5603,18 @@
     "goodColorOnBlack": "#F9B81F",
     "faintColorOnWhite": "rgba(143, 102, 4, 0.1)"
   },
+  "thunderdocs": {
+    "palette": [
+      "#fbfbfc",
+      "#0481f0",
+      "#04b7fa",
+      "#54aef5",
+      "#74ccfc"
+    ],
+    "goodColorOnWhite": "#0474D9",
+    "goodColorOnBlack": "#0481F0",
+    "faintColorOnWhite": "rgba(4, 116, 217, 0.1)"
+  },
   "tidal": {
     "palette": [
       "#f1f1f1",
