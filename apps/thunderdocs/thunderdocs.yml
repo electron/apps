@@ -1,0 +1,9 @@
+name: ThunderDocs
+description: 'Unofficial Google Docs Desktop App'
+website: 'https://vista1nik.github.io/gdocs/'
+category: Productivity
+repository: 'https://github.com/Vista1nik/ThunderDocs'
+keywords:
+    - office
+    - 'google docs'
+license: MIT
