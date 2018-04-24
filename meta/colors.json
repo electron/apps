@@ -4427,6 +4427,18 @@
     "goodColorOnBlack": "#F2F2F2",
     "faintColorOnWhite": "rgba(104, 104, 106, 0.1)"
   },
+  "prosecrec": {
+    "palette": [
+      "#040404",
+      "#0c0c0c",
+      "#080404",
+      "#040c08",
+      "#04040c"
+    ],
+    "goodColorOnWhite": "#040C08",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(4, 12, 8, 0.1)"
+  },
   "protegopdf": {
     "palette": [
       "#f2f2f2",
