@@ -2053,15 +2053,15 @@
   },
   "google-play-music-desktop-player": {
     "palette": [
-      "#f76d1a",
-      "#fbd21c",
-      "#eee7dc",
-      "#f8c018",
-      "#fab669"
+      "#f5681c",
+      "#fcd027",
+      "#fbfbfb",
+      "#fba60e",
+      "#b48954"
     ],
-    "goodColorOnWhite": "#836B02",
-    "goodColorOnBlack": "#FBD21C",
-    "faintColorOnWhite": "rgba(131, 107, 2, 0.1)"
+    "goodColorOnWhite": "#886C02",
+    "goodColorOnBlack": "#FCD027",
+    "faintColorOnWhite": "rgba(136, 108, 2, 0.1)"
   },
   "gordie": {
     "palette": [
