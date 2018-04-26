@@ -935,6 +935,18 @@
     "goodColorOnBlack": "#F58180",
     "faintColorOnWhite": "rgba(226, 20, 18, 0.1)"
   },
+  "coursehunt": {
+    "palette": [
+      "#e8e8e8",
+      "#060606",
+      "#707070",
+      "#7c7c7c",
+      "#646464"
+    ],
+    "goodColorOnWhite": "#060606",
+    "goodColorOnBlack": "#E8E8E8",
+    "faintColorOnWhite": "rgba(6, 6, 6, 0.1)"
+  },
   "covepdf": {
     "palette": [
       "#304b57",
