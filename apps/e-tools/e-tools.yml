@@ -1,0 +1,9 @@
+name: e-tools
+description: 'A more convenient tool that doesn‘t need networking, for platforms of OS X 、Windows and Linux'
+website: 'https://github.com/Suremotoo/e-tools'
+category: 'Developer Tools'
+repository: 'https://github.com/Suremotoo/e-tools'
+keywords:
+    - electron
+    - tools
+license: MIT
