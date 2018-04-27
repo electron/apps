@@ -4487,6 +4487,18 @@
     "goodColorOnBlack": "#F49487",
     "faintColorOnWhite": "rgba(204, 67, 53, 0.1)"
   },
+  "punycodeconverter": {
+    "palette": [
+      "#f3a34b",
+      "#dce2e2",
+      "#2c3c44",
+      "#fc6c1c",
+      "#ecb681"
+    ],
+    "goodColorOnWhite": "#2C3C44",
+    "goodColorOnBlack": "#FC6C1C",
+    "faintColorOnWhite": "rgba(44, 60, 68, 0.1)"
+  },
   "pupafm": {
     "palette": [
       "#fbfbfb",
