@@ -1,5 +1,5 @@
 name: ZLILITH
-description: 'GPU Access Risk Analyzer for use with SAP® R/3®. Identify SoD/CA violations in your roles and users.'
+description: 'GPU Access Risk Analyzer for use with SAP® R/3®.'
 website: 'https://zunburst.com/?m=zlilith_acs_risk_analyzer&p=info&q=0'
 keywords:
   - gpu
