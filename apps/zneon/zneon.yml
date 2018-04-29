@@ -1,5 +1,5 @@
 name: ZNEON
-description: 'Table Downloader for use with SAP® R/3®. Designed for large datasets and many threads.'
+description: 'Table Downloader for use with SAP® R/3®.'
 website: 'https://zunburst.com/?m=zneon_table_downloader&p=info&q=0'
 keywords:
   - 'basis support'
