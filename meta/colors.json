@@ -1427,6 +1427,18 @@
     "goodColorOnBlack": "#F8BC63",
     "faintColorOnWhite": "rgba(147, 106, 46, 0.1)"
   },
+  "e-tools": {
+    "palette": [
+      "#203c36",
+      "#f08515",
+      "#fbdc0a",
+      "#df4124",
+      "#f48534"
+    ],
+    "goodColorOnWhite": "#203C36",
+    "goodColorOnBlack": "#FBDC0A",
+    "faintColorOnWhite": "rgba(32, 60, 54, 0.1)"
+  },
   "eagle": {
     "palette": [
       "#1777e5",
