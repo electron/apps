@@ -6707,6 +6707,18 @@
     "goodColorOnBlack": "#FBEF04",
     "faintColorOnWhite": "rgba(117, 112, 2, 0.1)"
   },
+  "z11and2": {
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "goodColorOnWhite": "#080404",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
+  },
   "zazu-app": {
     "palette": [
       "#040404",
@@ -6778,6 +6790,30 @@
     "goodColorOnWhite": "#053B04",
     "goodColorOnBlack": "#3DB634",
     "faintColorOnWhite": "rgba(5, 59, 4, 0.1)"
+  },
+  "zlilith": {
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "goodColorOnWhite": "#080404",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
+  },
+  "zneon": {
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "goodColorOnWhite": "#080404",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
   },
   "zoommy": {
     "palette": [
