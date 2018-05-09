@@ -1,0 +1,8 @@
+name: Weatherapp
+description: 'Cute, minimal weather app'
+website: 'https://0-1-0-1.github.io/weatherapp'
+category: Utilities
+repository: 'https://github.com/0-1-0-1/weatherapp'
+keywords:
+    - 'electron openweathermap openweathermap-api weather cute minimal sweet windows win win32 mac macos darwin'
+license: MIT
