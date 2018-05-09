@@ -6323,6 +6323,18 @@
     "goodColorOnBlack": "#F2DECE",
     "faintColorOnWhite": "rgba(132, 84, 28, 0.1)"
   },
+  "weatherapp": {
+    "palette": [
+      "#fcfcfc",
+      "#fffcfc",
+      "#fffcfc",
+      "#fffcfc",
+      "#fffcfc"
+    ],
+    "goodColorOnWhite": "#D80000",
+    "goodColorOnBlack": "#FFFCFC",
+    "faintColorOnWhite": "rgba(216, 0, 0, 0.1)"
+  },
   "webcatalog": {
     "palette": [
       "#176ec9",
