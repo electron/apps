@@ -1,0 +1,32 @@
+name: Cleaver
+description: 'Server provisioning and deployments made easy for you'
+website: 'https://getcleaver.com/'
+category: 'Developer Tools'
+keywords:
+    - 'Server provisioning'
+    - Laravel
+    - WordPress
+    - 'Jekyll deployments'
+    - 'Laravel deployments'
+    - 'WordPress deployments'
+    - 'Static site deployments'
+    - 'Free SSL certificates'
+    - 'Laravel LetsEncrypt'
+    - Certbot
+    - 'zero downtime'
+    - 'Laravel SSH Keys'
+    - deployments
+    - 'Laravel Nginx'
+    - 'WordPress Nginx'
+    - 'push to deploy'
+    - 'PHP deploy'
+    - MySQL
+    - MariaDB
+    - Redis
+    - Memcached
+    - 'deploy desktop'
+    - macos
+    - osx
+screenshots:
+    - 
+      imageUrl: 'https://getcleaver.com/images/app_ss.png'
