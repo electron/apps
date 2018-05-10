@@ -767,6 +767,18 @@
     "goodColorOnBlack": "#B1D981",
     "faintColorOnWhite": "rgba(87, 127, 38, 0.1)"
   },
+  "cleaver": {
+    "palette": [
+      "#7630be",
+      "#e8ecf0",
+      "#2c2c2d",
+      "#b488d4",
+      "#572c8a"
+    ],
+    "goodColorOnWhite": "#7630BE",
+    "goodColorOnBlack": "#B488D4",
+    "faintColorOnWhite": "rgba(118, 48, 190, 0.1)"
+  },
   "clipboard-anywhere": {
     "palette": [
       "#e9e3d3",
