@@ -563,6 +563,18 @@
     "goodColorOnBlack": "#28B8A9",
     "faintColorOnWhite": "rgba(26, 121, 111, 0.1)"
   },
+  "c-ip": {
+    "palette": [
+      "#040404",
+      "#0c0c0c",
+      "#080404",
+      "#040c08",
+      "#04040c"
+    ],
+    "goodColorOnWhite": "#040C08",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(4, 12, 8, 0.1)"
+  },
   "calcy": {
     "palette": [
       "#be4339",
@@ -5494,6 +5506,18 @@
     "goodColorOnWhite": "#686778",
     "goodColorOnBlack": "#F29829",
     "faintColorOnWhite": "rgba(104, 103, 120, 0.1)"
+  },
+  "taskade": {
+    "palette": [
+      "#fbfbfb",
+      "#040404",
+      "#848484",
+      "#7c7c7c",
+      "#747474"
+    ],
+    "goodColorOnWhite": "#040404",
+    "goodColorOnBlack": "#FBFBFB",
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
   },
   "tasksq": {
     "palette": [
