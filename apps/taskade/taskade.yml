@@ -1,0 +1,18 @@
+name: Taskade
+description: 'Team task lists & notes.'
+website: 'https://www.taskade.com/downloads'
+keywords:
+    - tasks
+    - todos
+    - collaboration
+    - editor
+    - productivity
+    - lists
+    - real-time
+    - brainstorm
+    - outliner
+    - checklist
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://i.imgur.com/3imycN8.png'
