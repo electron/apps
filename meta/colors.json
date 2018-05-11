@@ -4295,6 +4295,18 @@
     "goodColorOnBlack": "#F7E8D3",
     "faintColorOnWhite": "rgba(150, 85, 61, 0.1)"
   },
+  "pokerclock": {
+    "palette": [
+      "#e6e5e7",
+      "#f0070e",
+      "#090808",
+      "#646c6a",
+      "#747474"
+    ],
+    "goodColorOnWhite": "#090808",
+    "goodColorOnBlack": "#F0070E",
+    "faintColorOnWhite": "rgba(9, 8, 8, 0.1)"
+  },
   "pomolectron": {
     "palette": [
       "#d33b34",
