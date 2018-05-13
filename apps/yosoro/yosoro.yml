@@ -1,0 +1,14 @@
+name: Yosoro
+description: 'Beautiful Cloud Drive Markdown NoteBook Desktop App.'
+website: 'https://yosoro.coolecho.net'
+category: Productivity
+repository: 'https://github.com/IceEnd/Yosoro'
+keywords:
+    - markdown
+    - onedrive
+    - react
+    - notebook
+license: GPL-3.0
+screenshots:
+    -
+        imageUrl: 'https://yosoro.coolecho.net/static/img/osx.9c37ed1.png'
