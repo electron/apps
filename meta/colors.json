@@ -1453,15 +1453,15 @@
   },
   "e-tools": {
     "palette": [
-      "#203c36",
-      "#f08515",
-      "#fbdc0a",
-      "#df4124",
-      "#f48534"
+      "#23ace4",
+      "#1c73bb",
+      "#185f8c",
+      "#237cc8",
+      "#1f83b0"
     ],
-    "goodColorOnWhite": "#203C36",
-    "goodColorOnBlack": "#FBDC0A",
-    "faintColorOnWhite": "rgba(32, 60, 54, 0.1)"
+    "goodColorOnWhite": "#1C73BB",
+    "goodColorOnBlack": "#23ACE4",
+    "faintColorOnWhite": "rgba(28, 115, 187, 0.1)"
   },
   "eagle": {
     "palette": [
@@ -5303,6 +5303,18 @@
     "goodColorOnBlack": "#3C7CDC",
     "faintColorOnWhite": "rgba(11, 107, 212, 0.1)"
   },
+  "standup-picker": {
+    "palette": [
+      "#363636",
+      "#fbfafa",
+      "#fa0e0e",
+      "#c69c9c",
+      "#c09494"
+    ],
+    "goodColorOnWhite": "#363636",
+    "goodColorOnBlack": "#FA0E0E",
+    "faintColorOnWhite": "rgba(54, 54, 54, 0.1)"
+  },
   "steelseries-engine-3": {
     "palette": [
       "#e9e9e9",
@@ -6730,6 +6742,18 @@
     "goodColorOnWhite": "#D03703",
     "goodColorOnBlack": "#FC5C26",
     "faintColorOnWhite": "rgba(208, 55, 3, 0.1)"
+  },
+  "yosoro": {
+    "palette": [
+      "#36393d",
+      "#f3f3f3",
+      "#9fa1a2",
+      "#acacac",
+      "#94949c"
+    ],
+    "goodColorOnWhite": "#36393D",
+    "goodColorOnBlack": "#94949C",
+    "faintColorOnWhite": "rgba(54, 57, 61, 0.1)"
   },
   "yout": {
     "palette": [
