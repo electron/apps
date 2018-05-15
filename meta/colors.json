@@ -3419,6 +3419,18 @@
     "goodColorOnBlack": "#F3897E",
     "faintColorOnWhite": "rgba(218, 39, 20, 0.1)"
   },
+  "mmrcalculator": {
+    "palette": [
+      "#fa9b0d",
+      "#e4e4e3",
+      "#4d4c4b",
+      "#fccc84",
+      "#80888c"
+    ],
+    "goodColorOnWhite": "#4D4C4B",
+    "goodColorOnBlack": "#FA9B0D",
+    "faintColorOnWhite": "rgba(77, 76, 75, 0.1)"
+  },
   "mobirise": {
     "palette": [
       "#ec346c",
