@@ -5423,6 +5423,18 @@
     "goodColorOnBlack": "#F1A648",
     "faintColorOnWhite": "rgba(171, 101, 13, 0.1)"
   },
+  "sunder": {
+    "palette": [
+      "#241c43",
+      "#4babfb",
+      "#fb9d0e",
+      "#314e85",
+      "#1c849c"
+    ],
+    "goodColorOnWhite": "#314E85",
+    "goodColorOnBlack": "#FB9D0E",
+    "faintColorOnWhite": "rgba(49, 78, 133, 0.1)"
+  },
   "superpowers-html5-2d-3d-game-maker": {
     "palette": [
       "#b3f43b",
