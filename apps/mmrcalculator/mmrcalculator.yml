@@ -1,0 +1,19 @@
+name: MMRCalculator
+description: 'The Rainbow Six: Siege | MMR Calculator uses a users current MMR and ELO to display how many matches the user has to win or lose to reach their goal. The Rainbow Six: Siege | MMR Calculator is in no way shape or form affiliated with Ubisoft and its partners. Any "Rainbow Six: Siege" logos and images are registered trademarks of Ubisoft.'
+repository: 'https://github.com/austinleath/mmrcalculator'
+website: 'https://www.r6rc.com/mmrcalculator.html'
+keywords:
+    - Rainbow
+    - Six
+    - Siege
+    - Operator
+    - Math
+    - Rank
+    - Mmrcalculator
+    - Calculator
+    - Pc
+    - Windows
+    - Win
+locales:
+    - en_US
+category: Utilities
