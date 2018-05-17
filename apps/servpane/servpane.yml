@@ -1,6 +1,7 @@
 name: ServPane
 description: 'Manage Homebrew services from the menu bar'
 website: 'https://github.com/aderyabin/ServPane'
+homebrewCaskName: servpane
 category: 'Developer Tools'
 repository: 'https://github.com/aderyabin/ServPane'
 keywords:
