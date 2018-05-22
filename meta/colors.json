@@ -1345,15 +1345,15 @@
   },
   "diffuse": {
     "palette": [
-      "#fbfbfb",
-      "#231c23",
-      "#7f7c7c",
-      "#747474",
-      "#858484"
+      "#8c91a9",
+      "#f6dee0",
+      "#775366",
+      "#5a6b84",
+      "#c4ccd4"
     ],
-    "goodColorOnWhite": "#231C23",
-    "goodColorOnBlack": "#7F7C7C",
-    "faintColorOnWhite": "rgba(35, 28, 35, 0.1)"
+    "goodColorOnWhite": "#5A6B84",
+    "goodColorOnBlack": "#F6DEE0",
+    "faintColorOnWhite": "rgba(90, 107, 132, 0.1)"
   },
   "digiexam": {
     "palette": [
