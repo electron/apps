@@ -3611,6 +3611,18 @@
     "goodColorOnBlack": "#44C4EB",
     "faintColorOnWhite": "rgba(17, 128, 162, 0.1)"
   },
+  "music-player": {
+    "palette": [
+      "#ee4747",
+      "#efeded",
+      "#1d4444",
+      "#546464",
+      "#f49c9c"
+    ],
+    "goodColorOnWhite": "#1D4444",
+    "goodColorOnBlack": "#EE4747",
+    "faintColorOnWhite": "rgba(29, 68, 68, 0.1)"
+  },
   "musify": {
     "palette": [
       "#222222",
