@@ -6587,6 +6587,18 @@
     "goodColorOnBlack": "#2F91BA",
     "faintColorOnWhite": "rgba(55, 95, 141, 0.1)"
   },
+  "winds": {
+    "palette": [
+      "#37b566",
+      "#fbfbfb",
+      "#aee0c2",
+      "#94d4ac",
+      "#c4e4d1"
+    ],
+    "goodColorOnWhite": "#288249",
+    "goodColorOnBlack": "#37B566",
+    "faintColorOnWhite": "rgba(40, 130, 73, 0.1)"
+  },
   "wire": {
     "palette": [
       "#f9f9f9",
