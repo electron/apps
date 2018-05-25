@@ -1,0 +1,11 @@
+name: 'Crucible Dashboard'
+description: 'Code Review Dashboard for Atlassian''s Crucible'
+website: 'https://github.com/InViN/crucible-dashboard'
+category: Utilities
+repository: 'https://github.com/InViN/crucible-dashboard'
+keywords:
+    - atlassian
+    - crucible
+    - dashboard
+    - 'code review'
+license: 'Apache License 2.0'
