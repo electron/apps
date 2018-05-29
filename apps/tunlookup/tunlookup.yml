@@ -1,6 +1,7 @@
 name: Tunlookup
 description: 'Translate selected text with a keystroke'
 website: 'https://tun-application.github.io/'
+repository: 'https://github.com/tun-application/Tunlookup'
 keywords:
     - Translator
     - Vocabulary
