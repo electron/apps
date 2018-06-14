@@ -1,6 +1,7 @@
 name: 'Netron'
 description: 'Viewer for neural network models'
 website: 'https://github.com/lutzroeder/Netron'
+appgetName: netron
 repository: 'https://github.com/lutzroeder/Netron'
 homebrewCaskName: netron
 license: MIT

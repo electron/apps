@@ -1,6 +1,7 @@
 name: 'Brave Browser'
 description: 'Web browser that automatically blocks ads and trackers'
 website: 'https://brave.com/'
+appgetName: brave
 keywords:
     - browser
 category: Productivity

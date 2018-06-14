@@ -1,6 +1,7 @@
 name: Simplenote
 description: 'An easy way to keep notes, lists, ideas and more.'
 website: 'https://simplenote.com'
+appgetName: simplenote
 repository: 'https://github.com/Automattic/simplenote-electron'
 homebrewCaskName: simplenote
 keywords:

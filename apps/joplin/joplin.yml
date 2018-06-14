@@ -1,6 +1,7 @@
 name: Joplin
 description: 'A note taking and to-do application with synchronization capabilities. Also available on mobile and terminal.'
 website: 'https://joplin.cozic.net/'
+appgetName: joplin
 category: Productivity
 repository: 'https://github.com/laurent22/joplin'
 homebrewCaskName: joplin

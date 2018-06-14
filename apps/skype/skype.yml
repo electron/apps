@@ -1,6 +1,7 @@
 name: Skype
 description: 'Free IM & video calls'
 website: 'https://skype.com'
+appgetName: skype
 keywords:
     - free calls
     - free online calls

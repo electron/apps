@@ -1,6 +1,7 @@
 name: Caprine
 description: 'Facebook Messenger app'
 website: 'https://github.com/sindresorhus/caprine'
+appgetName: caprine
 repository: 'https://github.com/sindresorhus/caprine'
 keywords:
     - chat

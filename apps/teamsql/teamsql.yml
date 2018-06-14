@@ -1,6 +1,7 @@
 name: TeamSQL
 description: 'Multi-platform SQL Client - Extensible, Simple and Effortless'
 website: 'https://teamsql.io'
+appgetName: teamsql
 category: 'Developer Tools'
 repository: 'https://github.com/TeamSQL/desktop-app'
 keywords:

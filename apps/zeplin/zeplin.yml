@@ -1,6 +1,7 @@
 name: Zeplin
 description: 'Collaboration app for designers and developers'
 website: 'https://zeplin.io'
+appgetName: zeplin
 keywords:
     - design
     - development

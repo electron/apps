@@ -1,6 +1,7 @@
 name: nteract
 description: 'Interactive literate coding notebook'
 website: 'https://nteract.io/'
+appgetName: nteract
 repository: 'https://github.com/nteract/nteract'
 keywords:
     - jupyter

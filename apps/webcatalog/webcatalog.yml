@@ -1,6 +1,8 @@
 name: WebCatalog
 description: 'Run Thousands of Web Apps Like Real Apps'
 website: 'https://webcatalog.io'
+license: 'Mozilla Public License 2.0'
+appgetName: webcatalog
 repository: 'https://github.com/webcatalog/webcatalog'
 screenshots:
     -

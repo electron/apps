@@ -1,6 +1,7 @@
 name: PopSQL
 description: 'Modern, collaborative SQL editor for your team'
 website: 'https://popsql.io'
+appgetName: popsql
 keywords:
     - sql
     - postgresql

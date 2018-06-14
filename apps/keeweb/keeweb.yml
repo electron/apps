@@ -1,6 +1,8 @@
 name: KeeWeb
 description: 'Free cross-platform password manager compatible with KeePass'
 website: 'https://keeweb.info'
+repository: https://github.com/keeweb/keeweb
+appgetName: keeweb
 keywords:
     - manager
 category: Utilities

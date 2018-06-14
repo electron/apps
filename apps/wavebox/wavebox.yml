@@ -1,6 +1,8 @@
 name: Wavebox
 description: 'Previously WMail. Gmail, Google Inbox, Outlook, Office 365, Slack, Trello & more'
 website: 'https://wavebox.io'
+license: 'Mozilla Public License 2.0'
+appgetName: wavebox
 repository: 'https://github.com/wavebox/waveboxapp/'
 keywords:
     - Google

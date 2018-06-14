@@ -1,6 +1,7 @@
 name: Rambox
 description: 'Free and Open Source messaging and emailing app that combines common web applications into one.'
 website: 'http://rambox.pro'
+appgetName: rambox
 repository: 'https://github.com/saenzramiro/rambox'
 keywords:
     - productivity

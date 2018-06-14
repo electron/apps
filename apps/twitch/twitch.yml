@@ -1,6 +1,7 @@
 name: Twitch
 description: 'Fast and free communication for gamers'
 website: 'https://app.twitch.tv'
+appgetName: twitch
 keywords:
     - games
 category: Games

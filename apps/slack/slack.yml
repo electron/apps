@@ -1,6 +1,7 @@
 name: Slack
 description: 'A messaging app for teams'
 website: 'https://slack.com'
+appgetName: slack
 homebrewCaskName: slack
 keywords:
     - messaging

@@ -1,6 +1,7 @@
 name: Atom
 description: 'A hackable text editor for the 21st Century'
 website: 'https://atom.io'
+appgetName: atom
 repository: 'https://github.com/atom/atom'
 homebrewCaskName: atom
 keywords:

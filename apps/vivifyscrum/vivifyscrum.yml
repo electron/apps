@@ -1,6 +1,7 @@
 name: VivifyScrum
 description: 'Scrum and Kanban Tool.'
 website: 'https://www.vivifyscrum.com/'
+appgetName: vivifyscrum
 repository: 'https://github.com/Vivify-Ideas/vivifyscrum2-electron/'
 category: Productivity
 keywords:
@@ -18,4 +19,3 @@ screenshots:
       imageUrl: 'https://i.imgur.com/BIBeaMD.png'
     -
       imageUrl: 'https://i.imgur.com/BuQTRcT.png'
-

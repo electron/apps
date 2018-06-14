@@ -1,6 +1,7 @@
 name: Wire
 description: 'Modern, private communications'
 website: 'https://wire.com'
+appgetName: winscp
 repository: 'https://github.com/wireapp'
 keywords:
     - communication

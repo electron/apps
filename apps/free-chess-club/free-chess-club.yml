@@ -1,6 +1,7 @@
 name: 'Free Chess Club'
 description: 'Play Online Chess on the Free Internet Chess Server!'
 website: 'https://www.freechess.club'
+appgetName: winscp
 category: Games
 repository: 'https://github.com/freechessclub'
 keywords:

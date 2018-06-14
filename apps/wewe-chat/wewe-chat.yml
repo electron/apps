@@ -1,6 +1,7 @@
 name: weweChat
 description: 'Unofficial WeChat client built with React, MobX and Electron.'
 website: 'https://github.com/trazyn/weweChat'
+appgetName: wewechat
 repository: 'https://github.com/trazyn/weweChat'
 keywords:
     - chat
@@ -14,4 +15,3 @@ screenshots:
         imageUrl: 'https://raw.githubusercontent.com/trazyn/weweChat/master/screenshots/1.png'
 locales:
   - zh-CN
-

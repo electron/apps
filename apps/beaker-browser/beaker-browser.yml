@@ -1,6 +1,8 @@
 name: 'Beaker Browser'
 description: 'An experimental P2P browser'
 website: 'https://beakerbrowser.com'
+license: 'MIT License'
+appgetName: beaker-browser
 repository: 'https://github.com/beakerbrowser/beaker'
 homebrewCaskName: beaker-browser
 keywords:

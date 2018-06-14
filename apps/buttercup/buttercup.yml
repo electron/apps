@@ -1,6 +1,7 @@
 name: Buttercup
 description: 'Easy-to-use Password Manager'
 website: 'https://buttercup.pw'
+appgetName: buttercup
 repository: 'https://github.com/buttercup/buttercup-desktop'
 license: MIT
 keywords:

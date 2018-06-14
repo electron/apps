@@ -1,6 +1,7 @@
 name: MarkText
 description: 'A realtime preview MarkDown Editor'
 website: 'https://github.com/marktext/marktext'
+appgetName: mark-text
 keywords:
     - markdown
     - performance

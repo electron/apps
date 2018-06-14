@@ -1,6 +1,7 @@
 name: Cerebro
 description: 'Productivity booster with a brain'
 website: 'https://cerebroapp.com'
+appgetName: cerebro
 repository: 'https://github.com/KELiON/cerebro'
 keywords:
     - search

@@ -1,6 +1,7 @@
 name: 'Visual Studio Code'
 description: 'Open source code editor developed by Microsoft'
 website: 'https://code.visualstudio.com'
+appgetName: visual-studio-code
 homebrewCaskName: visual-studio-code
 license: MIT / Proprietary
 keywords:

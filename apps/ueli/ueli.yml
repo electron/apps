@@ -1,6 +1,7 @@
 name: ueli
 description: 'This is a keystroke launcher for Windows and macOS.'
 website: 'https://github.com/oliverschwendener/ueli'
+appgetName: ueli
 repository: 'https://github.com/oliverschwendener/ueli'
 keywords:
     - keystroke

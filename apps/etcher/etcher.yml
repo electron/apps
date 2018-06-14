@@ -1,6 +1,7 @@
 name: Etcher
 description: 'Flash OS images to SD cards & USB drives, safely and easily.'
 website: 'http://www.etcher.io/'
+appgetName: etcher
 repository: 'https://github.com/resin-io/etcher'
 keywords:
     - hardware

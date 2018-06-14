@@ -1,6 +1,7 @@
 name: Udeler
 description: 'A cross platform application for downloading Udemy Courses'
 website: 'https://github.com/FaisalUmair/udemy-downloader-gui'
+appgetName: udeler
 category: Utilities
 repository: 'https://github.com/FaisalUmair/udemy-downloader-gui'
 license: MIT

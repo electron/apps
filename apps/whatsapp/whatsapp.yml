@@ -1,6 +1,7 @@
 name: WhatsApp
 description: 'Free IM, voice & video calls'
 website: 'https://www.whatsapp.com'
+appgetName: whatsapp
 keywords:
     - free calls
     - free online calls

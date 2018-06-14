@@ -1,6 +1,7 @@
 name: Signal
 description: 'Private Messenger'
 website: 'https://signal.org'
+appgetName: signal
 repository: 'https://github.com/signalapp/Signal-Desktop'
 homebrewCaskName: signal
 keywords:

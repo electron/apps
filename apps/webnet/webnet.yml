@@ -1,5 +1,6 @@
 name: Web Net
 description: 'Chromium Web Browser'
 website: 'http://www.web-net.tk'
+appgetName: winscp
 repository: 'https://github.com/MEGAMINDMK'
 category: 'Utilities'

@@ -1,6 +1,7 @@
 name: Ramme
 description: 'Unofficial Instagram Desktop App.'
 website: 'https://github.com/terkelg/ramme'
+appgetName: ramme
 repository: 'https://github.com/terkelg/ramme'
 keywords:
     - photos

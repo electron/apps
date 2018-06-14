@@ -1,6 +1,7 @@
 name: Boostnote
 description: 'Simple note-taking app for programmers'
 website: 'https://boostnote.io'
+appgetName: boostnote
 repository: 'https://github.com/BoostIO/Boostnote'
 keywords:
     - notes

@@ -72,6 +72,7 @@ apps
 - `license` is optional.
 - `homebrewCaskName` can be specified if your app is on [homebrew cask](https://caskroom.github.io).
 - `snapcraftName` can be specified if your app is on [snapcraft](https://snapcraft.io/).
+- `appgetName` can be specified if your app is on [appget](https://appget.net/).
 - `youtube_video_url` is optional, but must be a fully-qualified URL if provided.
 - No fields should be left blank.
 

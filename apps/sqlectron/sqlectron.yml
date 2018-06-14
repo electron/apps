@@ -1,6 +1,7 @@
 name: Sqlectron
 description: 'A simple and lightweight SQL client desktop with cross database and platform support'
 website: 'https://sqlectron.github.io'
+appgetName: sqlectron
 repository: 'https://github.com/sqlectron/sqlectron-gui'
 keywords:
     - sql

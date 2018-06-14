@@ -1,6 +1,7 @@
 name: 'Standard Notes'
 description: 'A simple and private notes app. Encrypted, open-source, and extensible.'
 website: 'https://standardnotes.org'
+appgetName: standard-notes
 repository: 'https://github.com/standardnotes/desktop'
 keywords:
     - note

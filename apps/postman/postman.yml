@@ -1,6 +1,7 @@
 name: Postman
 description: 'Build, test and document your APIs'
 website: 'https://www.getpostman.com/'
+appgetName: postman
 keywords:
   - developer
 category: 'Developer Tools'

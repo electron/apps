@@ -1,6 +1,7 @@
 name: Inboxer
 description: 'Unofficial, free and open-source Inbox by Gmail Desktop App'
 website: 'https://denysdovhan.com/inboxer'
+appgetName: inboxer
 category: 'Social Networking'
 repository: 'https://github.com/denysdovhan/inboxer'
 keywords:
