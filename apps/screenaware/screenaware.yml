@@ -1,0 +1,24 @@
+name: 'ScreenAware Time Tracker'
+description: 'Automatically relate the time you spend in front of the computer to your projects or clients.'
+website: 'https://www.screenaware.com/'
+category: Productivity
+goodColorOnWhite: '#67488D'
+goodColorOnBlack: '#ffffff'
+faintColorOnWhite: 'rgba(0, 0, 0, 0.65)'
+keywords:
+    - 'automatic time tracking'
+    - 'time tracker'
+    - 'timesheet'
+    - 'worktime'
+    - 'hours'
+    - 'work time tracker'
+screenshots:
+  -
+    imageUrl: 'https://s3.eu-central-1.amazonaws.com/screenaware-public/marketing/electronapps/sa-screenshot_sensor-20180615.png'
+    imageLink: 'https://s3.eu-central-1.amazonaws.com/screenaware-public/marketing/electronapps/sa-screenshot_sensor-20180615.png'
+  -
+    imageUrl: 'https://s3.eu-central-1.amazonaws.com/screenaware-public/marketing/electronapps/sa-screenshot_combo-20180615.png'
+    imageLink: 'https://s3.eu-central-1.amazonaws.com/screenaware-public/marketing/electronapps/sa-screenshot_combo-20180615.png'
+  -
+    imageUrl: 'https://s3.eu-central-1.amazonaws.com/screenaware-public/marketing/electronapps/sa-screenshot_sensor-login-20180615.png'
+    imageLink: 'https://s3.eu-central-1.amazonaws.com/screenaware-public/marketing/electronapps/sa-screenshot_sensor-login-20180615.png'
