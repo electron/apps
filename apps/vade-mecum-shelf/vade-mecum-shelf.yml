@@ -9,19 +9,3 @@ keywords:
     - utility
     - 'vade mecum'
 license: MIT
-screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/tonton-pixel/vade-mecum-shelf/master/screenshots/color-names.png'
-    caption: 'Lists of color names, with live search'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/tonton-pixel/vade-mecum-shelf/master/screenshots/digital-clock.png'
-    caption: 'Customizable clock, using language-sensitive text formatting for date and time'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/tonton-pixel/vade-mecum-shelf/master/screenshots/latex-math-renderer.png'
-    caption: 'LaTeX math expression renderer, using the KaTeX JavaScript library'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/tonton-pixel/vade-mecum-shelf/master/screenshots/roman-numerals.png'
-    caption: 'Converters between roman and arabic numerals'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/tonton-pixel/vade-mecum-shelf/master/screenshots/system-information.png'
-    caption: 'Detailed list of system information, by category'
