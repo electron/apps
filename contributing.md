@@ -190,6 +190,11 @@ Some things to keep in mind when preparing your app for submission. Heavily insp
 - Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
 
+## Releases
+
+Once your pull request has been merged, your changes will automatically be published in a new release of the `electron-apps` npm module, and will be displayed on the electronjs.org website shortly thereafter. This process
+involves a number of scheduled process, and typically takes 20-30 minutes.
+
 ## Removing or Disabling Apps
 
 Sometimes it's necessary to remove an app for this registry. To do so,
