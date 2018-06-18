@@ -1,6 +1,7 @@
 name: Vue Calc
 description: 'A Simple VueJS Calculator built with ElectronJS'
 website: 'https://github.com/el3um4s/vue-calc'
+license: 'MIT License'
 repository: 'https://github.com/el3um4s/vue-calc'
 screenshots:
     -

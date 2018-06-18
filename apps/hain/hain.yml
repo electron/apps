@@ -1,6 +1,7 @@
 name: Hain
 description: 'An ''alt+space'' launcher for Windows'
 website: 'https://github.com/appetizermonster/hain'
+license: 'MIT License'
 keywords:
     - launcher
 category: Utilities

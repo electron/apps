@@ -1,6 +1,7 @@
 name: CemUI
 description: 'Powerful all-in-one frontend UI for the WiiU emulator, Cemu'
 website: 'http://cemui.com'
+license: 'GNU General Public License v3.0'
 repository: 'https://github.com/RedDuckss/CemUI'
 keywords:
     - cemu

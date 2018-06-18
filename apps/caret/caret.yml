@@ -1,6 +1,7 @@
 name: Caret
 description: 'Markdown editor for Mac / Windows / Linux'
 website: 'https://caret.io'
+repository: https://github.com/careteditor/issues
 keywords:
     - editor
 category: Productivity

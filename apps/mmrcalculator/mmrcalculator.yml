@@ -2,6 +2,7 @@ name: MMRCalculator
 description: 'A Minimalistic Rank Calculator For Rainbow Six: Siege'
 repository: 'https://github.com/austinleath/mmrcalculator'
 website: 'https://www.r6rc.com/mmrcalculator.html'
+license: 'MIT License'
 keywords:
     - Rainbow
     - Six

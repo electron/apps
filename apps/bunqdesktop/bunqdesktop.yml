@@ -1,6 +1,7 @@
 name: BunqDesktop
 description: 'A desktop implementation for the bunq API.'
 website: 'https://bunqdesktop.com'
+license: 'MIT License'
 repository: 'https://github.com/BunqCommunity/BunqDesktop'
 category: 'Finance'
 homebrewCaskName: bunq
