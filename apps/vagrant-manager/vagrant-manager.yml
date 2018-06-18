@@ -5,8 +5,11 @@ repository: 'https://github.com/absalomedia/vagrant-manager'
 keywords:
     - vagrant
     - manager
+    - virtualbox
+    - vmware
+    - 'developer tools'
 license: MIT
-category: Developer Tools
+category: 'Developer Tools'
 screenshots:
     -
         imageUrl: 'https://raw.githubusercontent.com/absalomedia/vagrant-manager/master/assets/images/demo.gif'
