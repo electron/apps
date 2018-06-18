@@ -1,0 +1,11 @@
+name: Waqt
+description: 'View current Islamic prayer times'
+website: 'https://arafatamim.github.io/projects/waqt.html'
+repository: 'https://github.com/arafatamim/waqt'
+keywords:
+  - prayer-times
+  - islam
+  - islamic
+  - waqt
+  - prayer
+category: 'Utilities'
