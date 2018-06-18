@@ -1,12 +1,12 @@
 [
   {
     "name": "Productivity",
-    "count": 179,
+    "count": 182,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 111,
+    "count": 113,
     "slug": "developer-tools"
   },
   {
@@ -26,12 +26,12 @@
   },
   {
     "name": "Music",
-    "count": 33,
+    "count": 35,
     "slug": "music"
   },
   {
     "name": "Games",
-    "count": 23,
+    "count": 24,
     "slug": "games"
   },
   {
@@ -51,7 +51,7 @@
   },
   {
     "name": "Graphics & Design",
-    "count": 8,
+    "count": 9,
     "slug": "graphics-design"
   },
   {
