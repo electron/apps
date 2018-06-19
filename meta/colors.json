@@ -3935,6 +3935,18 @@
     "goodColorOnBlack": "#099F95",
     "faintColorOnWhite": "rgba(7, 130, 122, 0.1)"
   },
+  "octopi-init": {
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "goodColorOnWhite": "#080404",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
+  },
   "odrive": {
     "palette": [
       "#ef990d",
@@ -4834,6 +4846,18 @@
     "goodColorOnWhite": "#C94F04",
     "goodColorOnBlack": "#F55D04",
     "faintColorOnWhite": "rgba(201, 79, 4, 0.1)"
+  },
+  "reversee": {
+    "palette": [
+      "#0b0b0b",
+      "#da924d",
+      "#9f1410",
+      "#519a2e",
+      "#efdecb"
+    ],
+    "goodColorOnWhite": "#9F1410",
+    "goodColorOnBlack": "#DA924D",
+    "faintColorOnWhite": "rgba(159, 20, 16, 0.1)"
   },
   "ridereceipts": {
     "palette": [
