@@ -6395,6 +6395,18 @@
     "goodColorOnBlack": "#E1534B",
     "faintColorOnWhite": "rgba(209, 44, 35, 0.1)"
   },
+  "voice-notifies": {
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "goodColorOnWhite": "#080404",
+    "goodColorOnBlack": "#FFF",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)"
+  },
   "voltra": {
     "palette": [
       "#fbfbfb",
