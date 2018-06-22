@@ -5087,6 +5087,18 @@
     "goodColorOnBlack": "#04B0EC",
     "faintColorOnWhite": "rgba(28, 108, 212, 0.1)"
   },
+  "sharp-tune": {
+    "palette": [
+      "#070708",
+      "#c9102c",
+      "#646468",
+      "#74747c",
+      "#747c7c"
+    ],
+    "goodColorOnWhite": "#C9102C",
+    "goodColorOnBlack": "#74747C",
+    "faintColorOnWhite": "rgba(201, 16, 44, 0.1)"
+  },
   "sheepchat": {
     "palette": [
       "#044363",
