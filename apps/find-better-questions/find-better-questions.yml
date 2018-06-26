@@ -27,5 +27,5 @@ screenshots:
     caption: 'Example List'
     imageLink: 'https://findbetterquestions.com'
 colors:
-    goodColorOnWhite: #2E4057
-    goodColorOnBlack: #FFF8E8
+    goodColorOnWhite: '#2E4057'
+    goodColorOnBlack: '#FFF8E8'
