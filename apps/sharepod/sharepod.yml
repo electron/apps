@@ -1,0 +1,21 @@
+name: SharePod
+description: 'listen to music from YouTube'
+website: 'https://github.com/kimyearho/SharePod'
+category: Music
+repository: 'https://github.com/kimyearho/SharePod'
+keywords:
+    - Music
+    - Youtube
+screenshots:
+  -
+    imageUrl: 'https://i.imgur.com/tvYePQr.png'
+    caption: 'Search List'
+  -
+    imageUrl: 'https://i.imgur.com/6nrEhsM.png'
+    caption: 'Recent Music'
+  -
+    imageUrl: 'https://i.imgur.com/lbnGtQX.png'
+    caption: 'Collection'
+  -
+    imageUrl: 'https://i.imgur.com/BtujoDE.png'
+    caption: 'Play List'
