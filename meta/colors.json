@@ -3455,18 +3455,6 @@
     "goodColorOnBlack": "#F3897E",
     "faintColorOnWhite": "rgba(218, 39, 20, 0.1)"
   },
-  "mmrcalculator": {
-    "palette": [
-      "#fa9b0d",
-      "#e4e4e3",
-      "#4d4c4b",
-      "#fccc84",
-      "#80888c"
-    ],
-    "goodColorOnWhite": "#4D4C4B",
-    "goodColorOnBlack": "#FA9B0D",
-    "faintColorOnWhite": "rgba(77, 76, 75, 0.1)"
-  },
   "mobirise": {
     "palette": [
       "#ec346c",
@@ -5087,6 +5075,18 @@
     "goodColorOnBlack": "#04B0EC",
     "faintColorOnWhite": "rgba(28, 108, 212, 0.1)"
   },
+  "sharepod": {
+    "palette": [
+      "#dc2424",
+      "#fbf8f8",
+      "#e66f70",
+      "#ec9494",
+      "#ec8c8c"
+    ],
+    "goodColorOnWhite": "#DC2424",
+    "goodColorOnBlack": "#EC8C8C",
+    "faintColorOnWhite": "rgba(220, 36, 36, 0.1)"
+  },
   "sharp-tune": {
     "palette": [
       "#070708",
@@ -5590,6 +5590,18 @@
     "goodColorOnWhite": "#314E85",
     "goodColorOnBlack": "#FB9D0E",
     "faintColorOnWhite": "rgba(49, 78, 133, 0.1)"
+  },
+  "super-productivity": {
+    "palette": [
+      "#a5b2f7",
+      "#050505",
+      "#69759d",
+      "#5a5a8c",
+      "#546484"
+    ],
+    "goodColorOnWhite": "#5A5A8C",
+    "goodColorOnBlack": "#A5B2F7",
+    "faintColorOnWhite": "rgba(90, 90, 140, 0.1)"
   },
   "superpowers-html5-2d-3d-game-maker": {
     "palette": [
