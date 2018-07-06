@@ -4715,6 +4715,18 @@
     "goodColorOnBlack": "#7CD424",
     "faintColorOnWhite": "rgba(73, 126, 21, 0.1)"
   },
+  "quickwords": {
+    "palette": [
+      "#2cace4",
+      "#fbfbfc",
+      "#86d0ef",
+      "#ade2f4",
+      "#5cc4ec"
+    ],
+    "goodColorOnWhite": "#12769C",
+    "goodColorOnBlack": "#5CC4EC",
+    "faintColorOnWhite": "rgba(18, 118, 156, 0.1)"
+  },
   "rambox": {
     "palette": [
       "#3294b3",
