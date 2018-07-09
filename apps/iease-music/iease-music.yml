@@ -11,7 +11,9 @@ license: MIT
 category: 'Music'
 screenshots:
     -
-        imageUrl: 'https://github.com/trazyn/ieaseMusic/blob/master/screenshots/preview.gif'
+        imageUrl: 'https://github.com/trazyn/ieaseMusic/blob/dev/screenshots/home.png?raw=true'
+    -
+        imageUrl: 'https://github.com/trazyn/ieaseMusic/blob/dev/screenshots/fm.png?raw=true'
 locales:
   - zh-CN
 
