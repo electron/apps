@@ -2437,15 +2437,15 @@
   },
   "iease-music": {
     "palette": [
-      "#f7740c",
-      "#fbefdb",
-      "#fbcc0c",
-      "#f3ac0a",
-      "#e8995e"
+      "#d93cf3",
+      "#f7f4f8",
+      "#b148fc",
+      "#d780f6",
+      "#de05f1"
     ],
-    "goodColorOnWhite": "#8C7102",
-    "goodColorOnBlack": "#FBCC0C",
-    "faintColorOnWhite": "rgba(140, 113, 2, 0.1)"
+    "goodColorOnWhite": "#A42AFC",
+    "goodColorOnBlack": "#B148FC",
+    "faintColorOnWhite": "rgba(164, 42, 252, 0.1)"
   },
   "illyriad": {
     "palette": [
@@ -4355,6 +4355,18 @@
     "goodColorOnBlack": "#9C8408",
     "faintColorOnWhite": "rgba(116, 108, 60, 0.1)"
   },
+  "playme": {
+    "palette": [
+      "#3ca8eb",
+      "#fafbfb",
+      "#6269f4",
+      "#8fb5f4",
+      "#87d9f1"
+    ],
+    "goodColorOnWhite": "#424AF2",
+    "goodColorOnBlack": "#6269F4",
+    "faintColorOnWhite": "rgba(66, 74, 242, 0.1)"
+  },
   "poddycast-app": {
     "palette": [
       "#eef7f9",
@@ -4726,6 +4738,18 @@
     "goodColorOnWhite": "#12769C",
     "goodColorOnBlack": "#5CC4EC",
     "faintColorOnWhite": "rgba(18, 118, 156, 0.1)"
+  },
+  "r6rc": {
+    "palette": [
+      "#fa9b0d",
+      "#e4e4e3",
+      "#4d4c4b",
+      "#fccc84",
+      "#80888c"
+    ],
+    "goodColorOnWhite": "#4D4C4B",
+    "goodColorOnBlack": "#FA9B0D",
+    "faintColorOnWhite": "rgba(77, 76, 75, 0.1)"
   },
   "rambox": {
     "palette": [
