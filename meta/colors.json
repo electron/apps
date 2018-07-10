@@ -3947,6 +3947,18 @@
     "goodColorOnBlack": "#C75005",
     "faintColorOnWhite": "rgba(199, 80, 5, 0.1)"
   },
+  "one-left": {
+    "palette": [
+      "#b6b2b4",
+      "#343c86",
+      "#686d7e",
+      "#594b56",
+      "#595454"
+    ],
+    "goodColorOnWhite": "#343C86",
+    "goodColorOnBlack": "#B6B2B4",
+    "faintColorOnWhite": "rgba(52, 60, 134, 0.1)"
+  },
   "opale-messenger": {
     "palette": [
       "#0477f1",
