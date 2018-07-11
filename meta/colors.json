@@ -827,6 +827,18 @@
     "goodColorOnBlack": "#2ABAFB",
     "faintColorOnWhite": "rgba(3, 116, 167, 0.1)"
   },
+  "clippo": {
+    "palette": [
+      "#040404",
+      "#fafafa",
+      "#848484",
+      "#7c7c7c",
+      "#747474"
+    ],
+    "goodColorOnWhite": "#040404",
+    "goodColorOnBlack": "#FAFAFA",
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
+  },
   "cliptext": {
     "palette": [
       "#272727",
@@ -2854,6 +2866,18 @@
     "goodColorOnWhite": "#784756",
     "goodColorOnBlack": "#D4887A",
     "faintColorOnWhite": "rgba(120, 71, 86, 0.1)"
+  },
+  "kalk": {
+    "palette": [
+      "#fc2951",
+      "#2894fc",
+      "#20fc1c",
+      "#0404fc",
+      "#fc9c04"
+    ],
+    "goodColorOnWhite": "#0404FC",
+    "goodColorOnBlack": "#FC9C04",
+    "faintColorOnWhite": "rgba(4, 4, 252, 0.1)"
   },
   "kap": {
     "palette": [
@@ -4894,6 +4918,18 @@
     "goodColorOnWhite": "#6363C4",
     "goodColorOnBlack": "#8C8CF9",
     "faintColorOnWhite": "rgba(99, 99, 196, 0.1)"
+  },
+  "recollectr": {
+    "palette": [
+      "#fafafa",
+      "#2f5874",
+      "#262626",
+      "#88a1b4",
+      "#8cacb9"
+    ],
+    "goodColorOnWhite": "#2F5874",
+    "goodColorOnBlack": "#8CACB9",
+    "faintColorOnWhite": "rgba(47, 88, 116, 0.1)"
   },
   "redp": {
     "palette": [
