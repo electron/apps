@@ -539,6 +539,18 @@
     "goodColorOnBlack": "#2CACF4",
     "faintColorOnWhite": "rgba(9, 115, 175, 0.1)"
   },
+  "budgie": {
+    "palette": [
+      "#747473",
+      "#6c6c6c",
+      "#646464",
+      "#545454",
+      "#6c6c64"
+    ],
+    "goodColorOnWhite": "#6C6C64",
+    "goodColorOnBlack": "#77776F",
+    "faintColorOnWhite": "rgba(108, 108, 100, 0.1)"
+  },
   "buka": {
     "palette": [
       "#3a5994",
@@ -1607,6 +1619,18 @@
     "goodColorOnBlack": "#6FD661",
     "faintColorOnWhite": "rgba(61, 105, 50, 0.1)"
   },
+  "esteem-surfer": {
+    "palette": [
+      "#fbfbfb",
+      "#1d549c",
+      "#63bbfc",
+      "#92b6da",
+      "#7c94c4"
+    ],
+    "goodColorOnWhite": "#1D549C",
+    "goodColorOnBlack": "#63BBFC",
+    "faintColorOnWhite": "rgba(29, 84, 156, 0.1)"
+  },
   "etcher": {
     "palette": [
       "#45484c",
@@ -1726,6 +1750,18 @@
     "goodColorOnWhite": "#302C2C",
     "goodColorOnBlack": "#877C7C",
     "faintColorOnWhite": "rgba(48, 44, 44, 0.1)"
+  },
+  "find-better-questions": {
+    "palette": [
+      "#2c4454",
+      "#304454",
+      "#304454",
+      "#304454",
+      "#304454"
+    ],
+    "goodColorOnWhite": "#2C4454",
+    "goodColorOnBlack": "#5583A2",
+    "faintColorOnWhite": "rgba(44, 68, 84, 0.1)"
   },
   "firebase-admin": {
     "palette": [
@@ -3587,6 +3623,18 @@
     "goodColorOnBlack": "#949CA4",
     "faintColorOnWhite": "rgba(44, 44, 60, 0.1)"
   },
+  "moonitor": {
+    "palette": [
+      "#d3d2b9",
+      "#2f9882",
+      "#8f968c",
+      "#dc3d5d",
+      "#7c7a60"
+    ],
+    "goodColorOnWhite": "#D6274A",
+    "goodColorOnBlack": "#DC3D5D",
+    "faintColorOnWhite": "rgba(214, 39, 74, 0.1)"
+  },
   "mstream": {
     "palette": [
       "#6484b4",
@@ -4306,6 +4354,18 @@
     "goodColorOnWhite": "#1D8088",
     "goodColorOnBlack": "#2CC2CF",
     "faintColorOnWhite": "rgba(29, 128, 136, 0.1)"
+  },
+  "pinesql": {
+    "palette": [
+      "#f9f9f9",
+      "#343c54",
+      "#4454d4",
+      "#8f949f",
+      "#797c8c"
+    ],
+    "goodColorOnWhite": "#4454D4",
+    "goodColorOnBlack": "#8F949F",
+    "faintColorOnWhite": "rgba(68, 84, 212, 0.1)"
   },
   "piqture": {
     "palette": [
@@ -5482,6 +5542,18 @@
     "goodColorOnWhite": "#2E7D89",
     "goodColorOnBlack": "#3898A7",
     "faintColorOnWhite": "rgba(46, 125, 137, 0.1)"
+  },
+  "stack": {
+    "palette": [
+      "#f9f9f9",
+      "#233445",
+      "#657584",
+      "#84949c",
+      "#7c8494"
+    ],
+    "goodColorOnWhite": "#233445",
+    "goodColorOnBlack": "#84949C",
+    "faintColorOnWhite": "rgba(35, 52, 69, 0.1)"
   },
   "stamp": {
     "palette": [
