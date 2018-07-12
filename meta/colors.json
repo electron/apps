@@ -6191,6 +6191,18 @@
     "goodColorOnBlack": "#7CBCE4",
     "faintColorOnWhite": "rgba(35, 119, 171, 0.1)"
   },
+  "top-browser": {
+    "palette": [
+      "#536f7b",
+      "#4da3d9",
+      "#ecf4f4",
+      "#eb9b40",
+      "#bcdcf4"
+    ],
+    "goodColorOnWhite": "#536F7B",
+    "goodColorOnBlack": "#EB9B40",
+    "faintColorOnWhite": "rgba(83, 111, 123, 0.1)"
+  },
   "tournamenter-manager": {
     "palette": [
       "#1974d3",
