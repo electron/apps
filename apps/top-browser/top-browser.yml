@@ -1,0 +1,9 @@
+name: 'Top Browser'
+description: 'Minimal browser that always stays on top of your screen'
+website: 'https://bitbucket.org/speedydemon/electron_top_browser/'
+category: Utilities
+repository: 'https://bitbucket.org/speedydemon/electron_top_browser/'
+keywords:
+    - browser
+    - top
+license: MIT
