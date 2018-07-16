@@ -3395,6 +3395,18 @@
     "goodColorOnBlack": "#04B3EA",
     "faintColorOnWhite": "rgba(3, 117, 153, 0.1)"
   },
+  "metrogit": {
+    "palette": [
+      "#f8f8f9",
+      "#202838",
+      "#848c94",
+      "#747c84",
+      "#5f6870"
+    ],
+    "goodColorOnWhite": "#202838",
+    "goodColorOnBlack": "#F8F8F9",
+    "faintColorOnWhite": "rgba(32, 40, 56, 0.1)"
+  },
   "microstockr": {
     "palette": [
       "#2f5b7e",
