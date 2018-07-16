@@ -1,5 +1,5 @@
 name: MetroGit
-description: 'A git UI client with integration to JIRA and other tools'
+description: 'Native desktop git client that integrates with JIRA and other tools.'
 website: 'https://github.com/Yamazaki93/MetroGit'
 category: 'Developer Tools'
 repository: 'https://github.com/Yamazaki93/MetroGit'
