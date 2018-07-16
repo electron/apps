@@ -1,0 +1,21 @@
+name: R6RC
+description: 'A minimalistic rank calculator for Rainbow Six: Siege'
+repository: 'https://github.com/austinleath/mmrcalculator'
+website: 'https://www.r6rc.com/mmrcalculator.html'
+keywords:
+    - Rainbow
+    - Six
+    - Siege
+    - R6rc
+    - Operator
+    - Math
+    - Rank
+    - Mmrcalculator
+    - Mmr
+    - Calculator
+    - Pc
+    - Windows
+    - Win
+locales:
+    - en_US
+category: Utilities

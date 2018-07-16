@@ -1,12 +1,24 @@
 name: 'Vagrant Manager'
 description: 'Menu bar app for managing your vagrant machines.'
-website: 'https://github.com/vaibhav-sidapara/vagrant-manager'
-repository: 'https://github.com/vaibhav-sidapara/vagrant-manager'
+website: 'https://github.com/absalomedia/vagrant-manager'
+repository: 'https://github.com/absalomedia/vagrant-manager'
 keywords:
     - vagrant
     - manager
+    - virtualbox
+    - vmware
+    - 'developer tools'
 license: MIT
-category: Utilities
+category: 'Developer Tools'
 screenshots:
     -
-        imageUrl: 'https://raw.githubusercontent.com/vaibhav-sidapara/vagrant-manager/master/assets/images/demo.gif'
+        imageUrl: 'https://raw.githubusercontent.com/absalomedia/vagrant-manager/master/assets/images/demo.gif'
+locales:
+  - cs-CZ
+  - hi-IN
+  - ja-JP
+  - en-GB
+  - de-DE
+  - pt-PT
+  - uk-UA
+  - zh-CN

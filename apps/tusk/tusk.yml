@@ -2,6 +2,7 @@ name: Tusk
 description: 'Refined Evernote desktop app'
 website: 'https://klauscfhq.github.io/tusk'
 repository: 'https://github.com/klauscfhq/tusk'
+snapcraftName: tusk
 keywords:
     - note
     - productivity

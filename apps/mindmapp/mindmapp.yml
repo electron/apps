@@ -1,0 +1,13 @@
+name: Mindmapp
+description: 'Draw effective mind maps in a few minutes.'
+website: 'https://mindmapp.org'
+repository: 'https://github.com/Mindmapp/mindmapp'
+keywords:
+  - map
+  - mind
+  - mindmapp
+  - organization
+  - memorise
+  - productivity
+license: MIT
+category: Productivity
