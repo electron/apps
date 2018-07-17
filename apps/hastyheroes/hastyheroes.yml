@@ -1,0 +1,24 @@
+name: Hasty Heroes
+description: 'An endless 2D jumping game, select a avatar, choose a environment and start playing.'
+website: 'https://aveek-saha.github.io/'
+repository: 'https://github.com/Aveek-Saha/HastyHeroes'
+screenshots:
+    -
+        imageUrl: 'https://img.itch.zone/aW1hZ2UvMjc4NDU2LzEzNTA4ODMucG5n/347x500/6v2CT%2B.png'
+
+    -
+        imageUrl: 'https://img.itch.zone/aW1hZ2UvMjc4NDU2LzEzNTA4ODEucG5n/347x500/qBmSnj.png'
+
+    -
+        imageUrl: 'https://img.itch.zone/aW1hZ2UvMjc4NDU2LzEzNTA4ODUucG5n/347x500/1gYtrq.png'
+
+    -
+        imageUrl: 'https://img.itch.zone/aW1hZ2UvMjc4NDU2LzEzNTA4ODcucG5n/347x500/tj7%2F6Y.png'
+keywords:
+    - game
+    - 2D
+    - fun
+    - heroes
+    - endless
+    - jumping
+category: Games
