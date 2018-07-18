@@ -5447,6 +5447,18 @@
     "goodColorOnBlack": "#EDEDED",
     "faintColorOnWhite": "rgba(108, 108, 108, 0.1)"
   },
+  "snippetstore": {
+    "palette": [
+      "#0484f4",
+      "#fbfbfc",
+      "#9dc9fb",
+      "#63aff6",
+      "#3ca4f4"
+    ],
+    "goodColorOnWhite": "#036BC7",
+    "goodColorOnBlack": "#0484F4",
+    "faintColorOnWhite": "rgba(3, 107, 199, 0.1)"
+  },
   "socialcast": {
     "palette": [
       "#64b3db",
