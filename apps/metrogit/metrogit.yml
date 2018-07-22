@@ -1,0 +1,32 @@
+name: MetroGit
+description: 'Native desktop git client that integrates with JIRA and other tools.'
+website: 'https://github.com/Yamazaki93/MetroGit'
+category: 'Developer Tools'
+repository: 'https://github.com/Yamazaki93/MetroGit'
+keywords:
+    - git
+    - jira
+    - appveyor
+    - angular
+    - nodegit
+screenshots:
+  -
+    imageUrl: 'https://github.com/Yamazaki93/MetroGit/raw/master/misc/metrogit1.PNG'
+    caption: 'Metro styled git UI'
+    imageLink: 'https://github.com/Yamazaki93/MetroGit'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/MetroGit/raw/master/misc/metrogit2.PNG'
+    caption: 'Detailed file diff view with selective staging'
+    imageLink: 'https://github.com/Yamazaki93/MetroGit'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/MetroGit/raw/master/misc/metrogit3.PNG'
+    caption: 'Multiple file diff window'
+    imageLink: 'https://github.com/Yamazaki93/MetroGit'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/MetroGit/raw/master/misc/metrogit4.PNG'
+    caption: 'Native JIRA integration'
+    imageLink: 'https://github.com/Yamazaki93/MetroGit'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/MetroGit/raw/master/misc/metrogit5.PNG'
+    caption: 'Map integrated CI build status'
+    imageLink: 'https://github.com/Yamazaki93/MetroGit'

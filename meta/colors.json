@@ -2891,6 +2891,18 @@
     "goodColorOnBlack": "#CA94FC",
     "faintColorOnWhite": "rgba(138, 25, 249, 0.1)"
   },
+  "kappo": {
+    "palette": [
+      "#040404",
+      "#f8f8f8",
+      "#848484",
+      "#7c7c7c",
+      "#747474"
+    ],
+    "goodColorOnWhite": "#040404",
+    "goodColorOnBlack": "#F8F8F8",
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
+  },
   "katana": {
     "palette": [
       "#f9fbfb",
@@ -3394,6 +3406,18 @@
     "goodColorOnWhite": "#037599",
     "goodColorOnBlack": "#04B3EA",
     "faintColorOnWhite": "rgba(3, 117, 153, 0.1)"
+  },
+  "metrogit": {
+    "palette": [
+      "#f8f8f9",
+      "#202838",
+      "#848c94",
+      "#747c84",
+      "#5f6870"
+    ],
+    "goodColorOnWhite": "#202838",
+    "goodColorOnBlack": "#F8F8F9",
+    "faintColorOnWhite": "rgba(32, 40, 56, 0.1)"
   },
   "microstockr": {
     "palette": [
@@ -4126,6 +4150,18 @@
     "goodColorOnWhite": "#8C6C04",
     "goodColorOnBlack": "#F5B704",
     "faintColorOnWhite": "rgba(140, 108, 4, 0.1)"
+  },
+  "paperarxiv": {
+    "palette": [
+      "#d4c77a",
+      "#732a7d",
+      "#ae49bf",
+      "#be9819",
+      "#9a771d"
+    ],
+    "goodColorOnWhite": "#732A7D",
+    "goodColorOnBlack": "#BE9819",
+    "faintColorOnWhite": "rgba(115, 42, 125, 0.1)"
   },
   "papercubes": {
     "palette": [
@@ -5434,6 +5470,18 @@
     "goodColorOnWhite": "#6C6C6C",
     "goodColorOnBlack": "#EDEDED",
     "faintColorOnWhite": "rgba(108, 108, 108, 0.1)"
+  },
+  "snippetstore": {
+    "palette": [
+      "#0484f4",
+      "#fbfbfc",
+      "#9dc9fb",
+      "#63aff6",
+      "#3ca4f4"
+    ],
+    "goodColorOnWhite": "#036BC7",
+    "goodColorOnBlack": "#0484F4",
+    "faintColorOnWhite": "rgba(3, 107, 199, 0.1)"
   },
   "socialcast": {
     "palette": [

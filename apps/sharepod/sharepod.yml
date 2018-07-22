@@ -1,6 +1,6 @@
 name: SharePod
 description: 'listen to music from YouTube'
-website: 'http://sharepod.kr/'
+website: 'http://sharepod.kr'
 category: Music
 repository: 'https://github.com/kimyearho/SharePod'
 keywords:
