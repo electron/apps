@@ -1,0 +1,8 @@
+name: kappo
+description: 'Application Launcher'
+website: 'https://github.com/monsterkodi/kappo'
+category: 'Utilities'
+repository: 'https://github.com/monsterkodi/kappo'
+keywords:
+    - launcher
+license: Unlicense
