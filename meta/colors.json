@@ -4847,6 +4847,18 @@
     "goodColorOnBlack": "#1D9C94",
     "faintColorOnWhite": "rgba(23, 124, 118, 0.1)"
   },
+  "quickbooks": {
+    "palette": [
+      "#2ba31b",
+      "#f9faf9",
+      "#93d08c",
+      "#7abf72",
+      "#5cb054"
+    ],
+    "goodColorOnWhite": "#228216",
+    "goodColorOnBlack": "#2BA31B",
+    "faintColorOnWhite": "rgba(34, 130, 22, 0.1)"
+  },
   "quickcalc": {
     "palette": [
       "#7cd424",
