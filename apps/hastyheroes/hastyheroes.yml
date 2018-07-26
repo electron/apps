@@ -1,0 +1,29 @@
+name: 'HastyHeroes'
+description: 'An endless 2D jumping game, select a avatar, choose a environment and start playing. Dont fall off the platforms and dont hit the spike balls!'
+website: 'https://aveek-saha.github.io/'
+repository: 'https://github.com/Aveek-Saha/HastyHeroes'
+keywords:
+    - 2D
+    - endless
+    - game
+    - jump
+    - fun
+    - hero
+category: Games
+screenshots:
+  -
+    imageUrl: 'https://img.itch.zone/aW1hZ2UvMjc4NDU2LzEzNTA4ODEucG5n/original/o%2Fxb6C.png'
+    caption: 'Character selection'
+    imageLink: 'https://github.com/Aveek-Saha/HastyHeroes/releases'
+  -
+    imageUrl: 'https://img.itch.zone/aW1hZ2UvMjc4NDU2LzEzNTA4ODMucG5n/original/K7iHYi.png'
+    caption: 'Gameplay'
+    imageLink: 'https://github.com/Aveek-Saha/HastyHeroes/releases'
+  -
+    imageUrl: 'https://img.itch.zone/aW1hZ2UvMjc4NDU2LzEzNTA4ODUucG5n/original/8P68RQ.png'
+    caption: 'More gameplay'
+    imageLink: 'https://github.com/Aveek-Saha/HastyHeroes/releases'
+  -
+    imageUrl: 'https://img.itch.zone/aW1hZ2UvMjc4NDU2LzEzNTA4ODcucG5n/original/BZJtDX.png'
+    caption: 'Game over'
+    imageLink: 'https://github.com/Aveek-Saha/HastyHeroes/releases'
