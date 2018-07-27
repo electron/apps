@@ -1451,6 +1451,18 @@
     "goodColorOnBlack": "#C1E5F6",
     "faintColorOnWhite": "rgba(84, 108, 124, 0.1)"
   },
+  "doki-doki-mod-manager": {
+    "palette": [
+      "#ebcae8",
+      "#5fa3b8",
+      "#f08085",
+      "#ad3965",
+      "#876167"
+    ],
+    "goodColorOnWhite": "#AD3965",
+    "goodColorOnBlack": "#F08085",
+    "faintColorOnWhite": "rgba(173, 57, 101, 0.1)"
+  },
   "domterm": {
     "palette": [
       "#e3ebe3",
@@ -2326,6 +2338,18 @@
     "goodColorOnWhite": "#A25F1F",
     "goodColorOnBlack": "#D88332",
     "faintColorOnWhite": "rgba(162, 95, 31, 0.1)"
+  },
+  "hastyheroes": {
+    "palette": [
+      "#64bb74",
+      "#fafafa",
+      "#8c5dd3",
+      "#a4d4b4",
+      "#9cd4a4"
+    ],
+    "goodColorOnWhite": "#8C5DD3",
+    "goodColorOnBlack": "#8C5DD3",
+    "faintColorOnWhite": "rgba(140, 93, 211, 0.1)"
   },
   "hawkeye": {
     "palette": [
@@ -6586,6 +6610,18 @@
     "goodColorOnWhite": "#DB0404",
     "goodColorOnBlack": "#5275FA",
     "faintColorOnWhite": "rgba(219, 4, 4, 0.1)"
+  },
+  "vii": {
+    "palette": [
+      "#ea4b3c",
+      "#2c2c2c",
+      "#793632",
+      "#a53f35",
+      "#54302c"
+    ],
+    "goodColorOnWhite": "#A53F35",
+    "goodColorOnBlack": "#EA4B3C",
+    "faintColorOnWhite": "rgba(165, 63, 53, 0.1)"
   },
   "visual-comic-reader": {
     "palette": [
