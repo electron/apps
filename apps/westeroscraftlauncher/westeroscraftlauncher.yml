@@ -1,0 +1,11 @@
+name: WesterosCraft Launcher
+description: 'A custom modded launcher for WesterosCraft'
+website: 'https://westeroscraft.com/'
+repository: 'https://github.com/WesterosCraftCode/ElectronLauncher'
+category: Games
+keywords:
+    - westeroscraft
+    - minecraft
+    - minecraft launcher
+    - forge
+    - game of thrones
