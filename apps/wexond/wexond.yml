@@ -1,15 +1,12 @@
 name: Wexond
-description: 'Extensible, fast and innovative web browser with Material UI'
-website: 'https://wexond.nersent.tk'
+description: 'Extensible web browser with beautiful UI'
 category: Productivity
-repository: 'https://github.com/Nersent/wexond'
+repository: 'https://github.com/wexond/wexond'
 keywords:
     - web-browser
-    - material-ui
-    - sass
+    - material
+    - styled-components
     - webpack
     - mobx
     - react
-    - web
-    - browser
-license: Apache-2.0
+license: MIT
