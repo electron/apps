@@ -623,6 +623,18 @@
     "goodColorOnBlack": "#047BDB",
     "faintColorOnWhite": "rgba(4, 76, 136, 0.1)"
   },
+  "canvas-file-sync": {
+    "palette": [
+      "#ef901b",
+      "#040404",
+      "#5a360c",
+      "#3b2404",
+      "#7c4c0c"
+    ],
+    "goodColorOnWhite": "#3B2404",
+    "goodColorOnBlack": "#EF901B",
+    "faintColorOnWhite": "rgba(59, 36, 4, 0.1)"
+  },
   "caprine": {
     "palette": [
       "#2ba3f2",
@@ -1438,6 +1450,18 @@
     "goodColorOnWhite": "#4061CF",
     "goodColorOnBlack": "#748CDC",
     "faintColorOnWhite": "rgba(64, 97, 207, 0.1)"
+  },
+  "dixa": {
+    "palette": [
+      "#2c2d74",
+      "#fafafb",
+      "#6bbdea",
+      "#8092f1",
+      "#9c9cbc"
+    ],
+    "goodColorOnWhite": "#2C2D74",
+    "goodColorOnBlack": "#8092F1",
+    "faintColorOnWhite": "rgba(44, 45, 116, 0.1)"
   },
   "dockstation": {
     "palette": [
@@ -5111,6 +5135,18 @@
     "goodColorOnBlack": "#D47C7C",
     "faintColorOnWhite": "rgba(196, 36, 43, 0.1)"
   },
+  "sai": {
+    "palette": [
+      "#3eba5d",
+      "#eef1f0",
+      "#f8ae0b",
+      "#4810ca",
+      "#865be0"
+    ],
+    "goodColorOnWhite": "#4810CA",
+    "goodColorOnBlack": "#F8AE0B",
+    "faintColorOnWhite": "rgba(72, 16, 202, 0.1)"
+  },
   "sandman": {
     "palette": [
       "#9990ab",
@@ -5638,6 +5674,18 @@
     "goodColorOnWhite": "#226134",
     "goodColorOnBlack": "#2CD363",
     "faintColorOnWhite": "rgba(34, 97, 52, 0.1)"
+  },
+  "spraybottle": {
+    "palette": [
+      "#1d2eaa",
+      "#fbb32c",
+      "#281f1e",
+      "#a09d9d",
+      "#8c746c"
+    ],
+    "goodColorOnWhite": "#1D2EAA",
+    "goodColorOnBlack": "#FBB32C",
+    "faintColorOnWhite": "rgba(29, 46, 170, 0.1)"
   },
   "spreaker-studio": {
     "palette": [
@@ -6359,6 +6407,18 @@
     "goodColorOnBlack": "#A3C4F2",
     "faintColorOnWhite": "rgba(30, 105, 209, 0.1)"
   },
+  "trunk": {
+    "palette": [
+      "#fc2c64",
+      "#fcf7f9",
+      "#fc8dac",
+      "#fc7d9f",
+      "#fc5984"
+    ],
+    "goodColorOnWhite": "#EB0342",
+    "goodColorOnBlack": "#FC2C64",
+    "faintColorOnWhite": "rgba(235, 3, 66, 0.1)"
+  },
   "trym": {
     "palette": [
       "#354253",
@@ -6911,6 +6971,18 @@
     "goodColorOnBlack": "#1CD45C",
     "faintColorOnWhite": "rgba(21, 77, 14, 0.1)"
   },
+  "westeroscraftlauncher": {
+    "palette": [
+      "#e0c3b4",
+      "#9c1515",
+      "#ba5f59",
+      "#c47b74",
+      "#c48474"
+    ],
+    "goodColorOnWhite": "#9C1515",
+    "goodColorOnBlack": "#E0C3B4",
+    "faintColorOnWhite": "rgba(156, 21, 21, 0.1)"
+  },
   "wewe-chat": {
     "palette": [
       "#eaf4f9",
@@ -6925,15 +6997,15 @@
   },
   "wexond": {
     "palette": [
-      "#3b54b4",
-      "#43a3f3",
-      "#3b4baa",
-      "#3d56bc",
-      "#5193d4"
+      "#7b93df",
+      "#fbfbfb",
+      "#b9bed2",
+      "#a4a4a4",
+      "#acacac"
     ],
-    "goodColorOnWhite": "#3B54B4",
-    "goodColorOnBlack": "#43A3F3",
-    "faintColorOnWhite": "rgba(59, 84, 180, 0.1)"
+    "goodColorOnWhite": "#4668D2",
+    "goodColorOnBlack": "#7B93DF",
+    "faintColorOnWhite": "rgba(70, 104, 210, 0.1)"
   },
   "whale": {
     "palette": [

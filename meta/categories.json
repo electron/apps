@@ -11,7 +11,7 @@
   },
   {
     "name": "Utilities",
-    "count": 98,
+    "count": 100,
     "slug": "utilities"
   },
   {
@@ -31,8 +31,13 @@
   },
   {
     "name": "Games",
-    "count": 27,
+    "count": 28,
     "slug": "games"
+  },
+  {
+    "name": "Business",
+    "count": 20,
+    "slug": "business"
   },
   {
     "name": "Finance",
@@ -40,18 +45,13 @@
     "slug": "finance"
   },
   {
-    "name": "Business",
-    "count": 19,
-    "slug": "business"
-  },
-  {
     "name": "Education",
-    "count": 12,
+    "count": 13,
     "slug": "education"
   },
   {
     "name": "Graphics & Design",
-    "count": 9,
+    "count": 10,
     "slug": "graphics-design"
   },
   {
