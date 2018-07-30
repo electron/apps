@@ -1,0 +1,10 @@
+name: canvasFileSync
+description: 'Tool that syncs Canvas files to your local machine'
+website: 'https://www.canvasfilesync.com'
+repository: 'https://github.com/drew-royster/canvasFileSync'
+keywords:
+    - canvas
+    - sync
+    - education
+    - developers
+category: Education
