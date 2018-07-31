@@ -1139,6 +1139,18 @@
     "goodColorOnBlack": "#F6F6F6",
     "faintColorOnWhite": "rgba(12, 12, 12, 0.1)"
   },
+  "csv-to-sqlite": {
+    "palette": [
+      "#04fbdb",
+      "#040606",
+      "#04937d",
+      "#047c64",
+      "#04bc9c"
+    ],
+    "goodColorOnWhite": "#047C64",
+    "goodColorOnBlack": "#04FBDB",
+    "faintColorOnWhite": "rgba(4, 124, 100, 0.1)"
+  },
   "cuba-studio": {
     "palette": [
       "#046cac",
