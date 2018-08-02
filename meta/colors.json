@@ -1655,6 +1655,18 @@
     "goodColorOnBlack": "#FA9C4E",
     "faintColorOnWhite": "rgba(72, 59, 73, 0.1)"
   },
+  "email-securely-app": {
+    "palette": [
+      "#1ca48c",
+      "#c8eae4",
+      "#62bfab",
+      "#84ccbc",
+      "#4cbca4"
+    ],
+    "goodColorOnWhite": "#178572",
+    "goodColorOnBlack": "#1CA48C",
+    "faintColorOnWhite": "rgba(23, 133, 114, 0.1)"
+  },
   "englishextra-app": {
     "palette": [
       "#d44c4c",
