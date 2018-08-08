@@ -1,0 +1,15 @@
+name: Shaper
+description: 'Build code templates with an intuitive GUI.'
+website: 'https://getshaper.com/'
+category: 'Developer Tools'
+keywords:
+    - code
+    - snippets
+    - boilerplate
+    - scaffolding
+    - templating
+screenshots:
+  -
+    imageUrl: 'https://getshaper.com/images/demo-segmentation.gif'
+    caption: 'Creating segments with Shaper'
+    imageLink: 'https://getshaper.com/'
