@@ -251,6 +251,18 @@
     "goodColorOnBlack": "#D3C3E0",
     "faintColorOnWhite": "rgba(100, 44, 148, 0.1)"
   },
+  "appserver": {
+    "palette": [
+      "#244454",
+      "#baeaed",
+      "#64909a",
+      "#799faa",
+      "#6c848c"
+    ],
+    "goodColorOnWhite": "#244454",
+    "goodColorOnBlack": "#BAEAED",
+    "faintColorOnWhite": "rgba(36, 68, 84, 0.1)"
+  },
   "argo": {
     "palette": [
       "#9fbeb7",
@@ -3491,6 +3503,18 @@
     "goodColorOnBlack": "#F8F8F9",
     "faintColorOnWhite": "rgba(32, 40, 56, 0.1)"
   },
+  "metronome-wallet": {
+    "palette": [
+      "#f6f6f8",
+      "#6547f3",
+      "#9e8cec",
+      "#8c74eb",
+      "#b4a4f4"
+    ],
+    "goodColorOnWhite": "#6547F3",
+    "goodColorOnBlack": "#B4A4F4",
+    "faintColorOnWhite": "rgba(101, 71, 243, 0.1)"
+  },
   "microstockr": {
     "palette": [
       "#2f5b7e",
@@ -4114,6 +4138,18 @@
     "goodColorOnWhite": "#C75005",
     "goodColorOnBlack": "#C75005",
     "faintColorOnWhite": "rgba(199, 80, 5, 0.1)"
+  },
+  "oh-my-desk": {
+    "palette": [
+      "#5468f1",
+      "#141415",
+      "#07c56b",
+      "#34dfbe",
+      "#443484"
+    ],
+    "goodColorOnWhite": "#5468F1",
+    "goodColorOnBlack": "#07C56B",
+    "faintColorOnWhite": "rgba(84, 104, 241, 0.1)"
   },
   "one-left": {
     "palette": [
@@ -5698,6 +5734,18 @@
     "goodColorOnWhite": "#4669B0",
     "goodColorOnBlack": "#EDE864",
     "faintColorOnWhite": "rgba(70, 105, 176, 0.1)"
+  },
+  "sportfx-studio": {
+    "palette": [
+      "#fbfbfb",
+      "#1c94e4",
+      "#a4d4f4",
+      "#6cbbef",
+      "#d4d4d4"
+    ],
+    "goodColorOnWhite": "#1476B6",
+    "goodColorOnBlack": "#6CBBEF",
+    "faintColorOnWhite": "rgba(20, 118, 182, 0.1)"
   },
   "spotspot": {
     "palette": [

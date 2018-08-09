@@ -6,23 +6,23 @@
   },
   {
     "name": "Developer Tools",
-    "count": 119,
+    "count": 120,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 100,
+    "count": 101,
     "slug": "utilities"
+  },
+  {
+    "name": "Photo & Video",
+    "count": 39,
+    "slug": "photo-video"
   },
   {
     "name": "Social Networking",
     "count": 39,
     "slug": "social-networking"
-  },
-  {
-    "name": "Photo & Video",
-    "count": 38,
-    "slug": "photo-video"
   },
   {
     "name": "Music",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Finance",
-    "count": 19,
+    "count": 20,
     "slug": "finance"
   },
   {
