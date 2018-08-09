@@ -1,0 +1,21 @@
+name: SportFX Studio
+description: 'Sports Graphics Editor for Photos and Videos'
+website: 'https://scorestream.com/sportfx'
+keywords:
+    - scoreboards
+    - schedules
+    - 'high school'
+    - customizable
+    - templates
+category: 'Photo & Video'
+screenshots:
+    -
+        imageUrl: 'https://s3-us-west-2.amazonaws.com/sportfx-studio-releases/screenshots/screenshot_football_player_stats_1440x900.jpg'
+        caption: 'Editor w/ Football Player Stats'
+    -
+        imageUrl: 'https://s3-us-west-2.amazonaws.com/sportfx-studio-releases/screenshots/screenshot_jumbo_scoreboard_1440x900.jpg'
+        caption: 'Customizable Templates'
+    -
+        imageUrl: 'https://s3-us-west-2.amazonaws.com/sportfx-studio-releases/screenshots/screenshot_baseball_slide_1440x900.jpg'
+        caption: 'Baseball Player Highlight'
+
