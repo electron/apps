@@ -5339,6 +5339,18 @@
     "goodColorOnBlack": "#BC7C94",
     "faintColorOnWhite": "rgba(116, 4, 52, 0.1)"
   },
+  "shaper": {
+    "palette": [
+      "#2f8ee8",
+      "#f3f3f6",
+      "#9b37de",
+      "#cc19da",
+      "#8f9cd2"
+    ],
+    "goodColorOnWhite": "#9B37DE",
+    "goodColorOnBlack": "#2F8EE8",
+    "faintColorOnWhite": "rgba(155, 55, 222, 0.1)"
+  },
   "shapespark": {
     "palette": [
       "#04b0ec",
