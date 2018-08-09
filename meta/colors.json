@@ -5375,6 +5375,18 @@
     "goodColorOnBlack": "#BC7C94",
     "faintColorOnWhite": "rgba(116, 4, 52, 0.1)"
   },
+  "sftpclient": {
+    "palette": [
+      "#d4e7ef",
+      "#4b8ba4",
+      "#5bacd4",
+      "#8ab2c5",
+      "#a3c4d3"
+    ],
+    "goodColorOnWhite": "#29769C",
+    "goodColorOnBlack": "#5BACD4",
+    "faintColorOnWhite": "rgba(41, 118, 156, 0.1)"
+  },
   "shaper": {
     "palette": [
       "#2f8ee8",
