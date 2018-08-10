@@ -2147,6 +2147,18 @@
     "goodColorOnBlack": "#FFF",
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)"
   },
+  "gitblade": {
+    "palette": [
+      "#e4c48c",
+      "#e8c48c",
+      "#e8c48c",
+      "#e8c48c",
+      "#e8c48c"
+    ],
+    "goodColorOnWhite": "#95661E",
+    "goodColorOnBlack": "#E8C48C",
+    "faintColorOnWhite": "rgba(149, 102, 30, 0.1)"
+  },
   "gitbook": {
     "palette": [
       "#4692fa",
