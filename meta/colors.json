@@ -1739,6 +1739,18 @@
     "goodColorOnBlack": "#64BB63",
     "faintColorOnWhite": "rgba(68, 124, 68, 0.1)"
   },
+  "evetrade": {
+    "palette": [
+      "#070c11",
+      "#eceff1",
+      "#2c5b8c",
+      "#585858",
+      "#7c7c7c"
+    ],
+    "goodColorOnWhite": "#2C5B8C",
+    "goodColorOnBlack": "#ECEFF1",
+    "faintColorOnWhite": "rgba(44, 91, 140, 0.1)"
+  },
   "explorer": {
     "palette": [
       "#bb8bf3",
