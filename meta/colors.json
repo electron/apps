@@ -5987,6 +5987,18 @@
     "goodColorOnBlack": "#0FB391",
     "faintColorOnWhite": "rgba(70, 123, 54, 0.1)"
   },
+  "subgenesis": {
+    "palette": [
+      "#156eda",
+      "#f3f6fb",
+      "#6ea4ee",
+      "#8cbcf2",
+      "#4c94e4"
+    ],
+    "goodColorOnWhite": "#156EDA",
+    "goodColorOnBlack": "#8CBCF2",
+    "faintColorOnWhite": "rgba(21, 110, 218, 0.1)"
+  },
   "subordination": {
     "palette": [
       "#7c9ebc",
