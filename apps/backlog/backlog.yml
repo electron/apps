@@ -1,6 +1,6 @@
 name: Backlog
 description: 'Simple desktop app for storing lists of items (todo, tasks, backlog items)'
-website: 'https://github.com/czytelny/backlog'
+website: 'http://www.backlog.cloud'
 category: Utilities
 repository: 'https://github.com/czytelny/backlog.git'
 keywords:
@@ -14,6 +14,6 @@ keywords:
 license: MIT
 screenshots:
   -
-    imageUrl: 'https://raw.githubusercontent.com/czytelny/backlog/master/screenshot.png'
+    imageUrl: 'https://raw.githubusercontent.com/czytelny/backlog/master/backlog_screenshot_1.png'
     caption: 'Backlog - simple desktop app for storing lists of items'
     imageLink: 'https://czytelny.github.io/backlog/'
