@@ -3143,6 +3143,18 @@
     "goodColorOnBlack": "#04A393",
     "faintColorOnWhite": "rgba(3, 121, 109, 0.1)"
   },
+  "lbry-desktop": {
+    "palette": [
+      "#145c4b",
+      "#f1f4f3",
+      "#7ea49b",
+      "#669489",
+      "#84aca4"
+    ],
+    "goodColorOnWhite": "#145C4B",
+    "goodColorOnBlack": "#84ACA4",
+    "faintColorOnWhite": "rgba(20, 92, 75, 0.1)"
+  },
   "lectrote": {
     "palette": [
       "#aca4e3",
