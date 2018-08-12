@@ -1,0 +1,10 @@
+name: FridayAI
+description: 'High purpose Artificial Assistant can help you with organize your life'
+website: 'http://api.fridaytec.com/site'
+category: Lifestyle
+repository: 'https://github.com/IntelligentThings/FridayAI-PC'
+keywords:
+    - ai
+    - assistant
+    - 'artificial intelligence'
+license: 'BSD 3-Clause'
