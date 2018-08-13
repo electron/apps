@@ -2015,6 +2015,18 @@
     "goodColorOnBlack": "#F3F3F4",
     "faintColorOnWhite": "rgba(84, 92, 100, 0.1)"
   },
+  "fridayai": {
+    "palette": [
+      "#b404b4",
+      "#bc04b4",
+      "#b404bc",
+      "#bc04bc",
+      "#b804b4"
+    ],
+    "goodColorOnWhite": "#B404B4",
+    "goodColorOnBlack": "#DC05DC",
+    "faintColorOnWhite": "rgba(180, 4, 180, 0.1)"
+  },
   "friends": {
     "palette": [
       "#040404",
