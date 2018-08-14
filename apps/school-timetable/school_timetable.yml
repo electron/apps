@@ -1,0 +1,9 @@
+name: Timetable
+description: 'Simple, useful timetable application.'
+repository: ''
+category: Education
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://imgur.com/a/kKTmsQQ'
+    caption: 'Screenshot'
