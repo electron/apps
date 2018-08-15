@@ -5,8 +5,8 @@ category: Education
 license: MIT
 screenshots:
   -
-    imageUrl: '/screenshot.png'
+    imageUrl: 'https://raw.githubusercontent.com/KDani-99/school_timetable/master/ui.png'
     caption: 'Screenshot'
   -
-    imageUrl: '/screenshot2.png'
+    imageUrl: 'https://raw.githubusercontent.com/KDani-99/school_timetable/master/addUI.png'
     caption: 'Screenshot'
