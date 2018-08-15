@@ -1,0 +1,619 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,600");
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default; }
+
+body {
+  overflow-x: hidden;
+  overflow-y: hidden; }
+
+.addLessonOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 9999;
+  display: none;
+  opacity: 0; }
+  .addLessonOverlay .innerBox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 500px;
+    background: #23232E;
+    border-radius: 20px; }
+    .addLessonOverlay .innerBox #exitOverlay {
+      font-size: 20px;
+      color: #8B8DA1;
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      cursor: pointer; }
+    .addLessonOverlay .innerBox input[type="text"] {
+      width: 220px;
+      height: 40px;
+      background: #2B2C38;
+      border: none;
+      outline: none;
+      color: #8B8DA1;
+      position: absolute;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%);
+      font-family: Roboto;
+      font-size: 16px;
+      padding-left: 15px;
+      padding-right: 15px;
+      cursor: text; }
+    .addLessonOverlay .innerBox select {
+      width: 250px;
+      height: 40px;
+      background: #2B2C38;
+      border-radius: 0px;
+      border: none;
+      outline: none;
+      color: #8B8DA1;
+      font-family: Roboto;
+      font-size: 16px;
+      cursor: pointer; }
+    .addLessonOverlay .innerBox .startTime {
+      position: absolute;
+      top: 20px;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%);
+      width: 250px;
+      height: 40px; }
+      .addLessonOverlay .innerBox .startTime p {
+        line-height: 40px;
+        color: #8B8DA1;
+        font-family: Raleway;
+        font-size: 16px;
+        font-weight: 400; }
+      .addLessonOverlay .innerBox .startTime #start_time_h {
+        position: absolute;
+        top: 0;
+        right: 70px;
+        width: 60px; }
+      .addLessonOverlay .innerBox .startTime #start_time_mm {
+        position: absolute;
+        top: 0;
+        right: 0px;
+        width: 60px; }
+    .addLessonOverlay .innerBox .finishTime {
+      position: absolute;
+      top: 70px;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%);
+      width: 250px;
+      height: 40px; }
+      .addLessonOverlay .innerBox .finishTime p {
+        line-height: 40px;
+        color: #8B8DA1;
+        font-family: Raleway;
+        font-size: 16px;
+        font-weight: 400; }
+      .addLessonOverlay .innerBox .finishTime #finish_time_h {
+        position: absolute;
+        top: 0;
+        right: 70px;
+        width: 60px; }
+      .addLessonOverlay .innerBox .finishTime #finish_time_mm {
+        position: absolute;
+        top: 0;
+        right: 0px;
+        width: 60px; }
+    .addLessonOverlay .innerBox #lesson_name {
+      position: absolute;
+      top: 130px; }
+    .addLessonOverlay .innerBox #teacher_name {
+      position: absolute;
+      top: 180px; }
+    .addLessonOverlay .innerBox #class_room {
+      position: absolute;
+      top: 230px; }
+    .addLessonOverlay .innerBox #week {
+      position: absolute;
+      top: 280px; }
+    .addLessonOverlay .innerBox #day {
+      position: absolute;
+      top: 330px;
+      position: absolute;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%); }
+    .addLessonOverlay .innerBox #bgColor {
+      position: absolute;
+      top: 380px; }
+    .addLessonOverlay .innerBox .addNewLesson {
+      position: absolute;
+      top: 430px;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%);
+      background: #2B2C38;
+      width: 250px;
+      height: 40px;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      font-family: Raleway;
+      font-size: 18px;
+      color: white;
+      background: #09BC8A; }
+
+.editLessonOverlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.8);
+  z-index: 9999;
+  display: none;
+  opacity: 0; }
+  .editLessonOverlay .innerBox {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 500px;
+    background: #23232E;
+    border-radius: 20px; }
+    .editLessonOverlay .innerBox #exitOverlay {
+      font-size: 20px;
+      color: #8B8DA1;
+      position: absolute;
+      top: 15px;
+      right: 15px;
+      cursor: pointer; }
+    .editLessonOverlay .innerBox input[type="text"] {
+      width: 220px;
+      height: 40px;
+      background: #2B2C38;
+      border: none;
+      outline: none;
+      color: #8B8DA1;
+      position: absolute;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%);
+      font-family: Roboto;
+      font-size: 16px;
+      padding-left: 15px;
+      padding-right: 15px;
+      cursor: text; }
+    .editLessonOverlay .innerBox select {
+      width: 250px;
+      height: 40px;
+      background: #2B2C38;
+      border-radius: 0px;
+      border: none;
+      outline: none;
+      color: #8B8DA1;
+      font-family: Roboto;
+      font-size: 16px;
+      cursor: pointer; }
+    .editLessonOverlay .innerBox .startTime {
+      position: absolute;
+      top: 20px;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%);
+      width: 250px;
+      height: 40px; }
+      .editLessonOverlay .innerBox .startTime p {
+        line-height: 40px;
+        color: #8B8DA1;
+        font-family: Raleway;
+        font-size: 16px;
+        font-weight: 400; }
+      .editLessonOverlay .innerBox .startTime #start_time_h {
+        position: absolute;
+        top: 0;
+        right: 70px;
+        width: 60px; }
+      .editLessonOverlay .innerBox .startTime #start_time_mm {
+        position: absolute;
+        top: 0;
+        right: 0px;
+        width: 60px; }
+    .editLessonOverlay .innerBox .finishTime {
+      position: absolute;
+      top: 70px;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%);
+      width: 250px;
+      height: 40px; }
+      .editLessonOverlay .innerBox .finishTime p {
+        line-height: 40px;
+        color: #8B8DA1;
+        font-family: Raleway;
+        font-size: 16px;
+        font-weight: 400; }
+      .editLessonOverlay .innerBox .finishTime #finish_time_h {
+        position: absolute;
+        top: 0;
+        right: 70px;
+        width: 60px; }
+      .editLessonOverlay .innerBox .finishTime #finish_time_mm {
+        position: absolute;
+        top: 0;
+        right: 0px;
+        width: 60px; }
+    .editLessonOverlay .innerBox #lesson_name {
+      position: absolute;
+      top: 130px; }
+    .editLessonOverlay .innerBox #teacher_name {
+      position: absolute;
+      top: 180px; }
+    .editLessonOverlay .innerBox #class_room {
+      position: absolute;
+      top: 230px; }
+    .editLessonOverlay .innerBox #week {
+      position: absolute;
+      top: 280px; }
+    .editLessonOverlay .innerBox #bgColor {
+      position: absolute;
+      top: 330px; }
+    .editLessonOverlay .innerBox .editLesson {
+      position: absolute;
+      top: 380px;
+      left: 50%;
+      -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+      transform: translateX(-50%);
+      background: #2B2C38;
+      width: 250px;
+      height: 40px;
+      border: none;
+      outline: none;
+      cursor: pointer;
+      font-family: Raleway;
+      font-size: 18px;
+      color: white;
+      background: #09BC8A; }
+
+.hideOverlay {
+  display: block; }
+
+.menubar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 30px;
+  background: #23232E; }
+  .menubar .deleteBTN {
+    position: absolute;
+    top: 0;
+    left: 600px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    cursor: pointer; }
+    .menubar .deleteBTN:hover i {
+      color: #09BC8A; }
+    .menubar .deleteBTN i {
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      left: 10px;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+      font-size: 20px;
+      color: #8B8DA1; }
+    .menubar .deleteBTN p {
+      cursor: pointer;
+      font-family: Raleway;
+      font-weight: 700;
+      font-size: 14px;
+      color: #8B8DA1;
+      position: absolute;
+      top: 50%;
+      left: 40px;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%); }
+  .menubar .addBTN {
+    position: absolute;
+    top: 0;
+    left: 300px;
+    width: 150px;
+    height: 30px;
+    cursor: pointer; }
+    .menubar .addBTN:hover i {
+      color: #09BC8A; }
+    .menubar .addBTN i {
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      left: 10px;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+      font-size: 20px;
+      color: #8B8DA1; }
+    .menubar .addBTN p {
+      cursor: pointer;
+      font-family: Raleway;
+      font-weight: 700;
+      font-size: 14px;
+      color: #8B8DA1;
+      position: absolute;
+      top: 50%;
+      left: 40px;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%); }
+  .menubar .editBTN {
+    position: absolute;
+    top: 0;
+    left: 450px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    cursor: pointer; }
+    .menubar .editBTN:hover i {
+      color: #09BC8A; }
+    .menubar .editBTN i {
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      left: 10px;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+      font-size: 20px;
+      color: #8B8DA1; }
+    .menubar .editBTN p {
+      cursor: pointer;
+      font-family: Raleway;
+      font-weight: 700;
+      font-size: 14px;
+      color: #8B8DA1;
+      position: absolute;
+      top: 50%;
+      left: 40px;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%); }
+  .menubar .changeWeekBTN {
+    position: absolute;
+    top: 0;
+    left: 150px;
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    cursor: pointer; }
+    .menubar .changeWeekBTN:hover i {
+      color: #09BC8A; }
+    .menubar .changeWeekBTN i {
+      cursor: pointer;
+      position: absolute;
+      top: 50%;
+      left: 10px;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%);
+      font-size: 20px;
+      color: #8B8DA1; }
+    .menubar .changeWeekBTN p {
+      cursor: pointer;
+      font-family: Raleway;
+      font-weight: 700;
+      font-size: 14px;
+      color: #8B8DA1;
+      position: absolute;
+      top: 50%;
+      left: 40px;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%); }
+  .menubar .selectedWeek {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 150px;
+    height: 30px;
+    text-align: center; }
+    .menubar .selectedWeek p {
+      font-family: Raleway;
+      font-weight: 700;
+      font-size: 16px;
+      color: #09BC8A;
+      position: absolute;
+      top: 50%;
+      left: 40px;
+      -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+      transform: translateY(-50%); }
+  .menubar #weeks {
+    position: absolute;
+    top: 30px;
+    left: 150px;
+    width: 150px;
+    height: auto;
+    cursor: pointer;
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    color: #8B8DA1;
+    text-align: center;
+    line-height: 30px;
+    width: 150px;
+    height: 30px;
+    background: #23232E;
+    z-index: 90;
+    display: none; }
+    .menubar #weeks:hover {
+      background: #2B2C38; }
+    .menubar #weeks li {
+      list-style: none;
+      width: 100%;
+      height: 30px;
+      background: #23232E;
+      cursor: pointer; }
+      .menubar #weeks li:hover {
+        color: #09BC8A; }
+  .menubar .exitBTN {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 30px;
+    cursor: pointer;
+    text-align: center; }
+    .menubar .exitBTN:hover i {
+      color: #09BC8A; }
+    .menubar .exitBTN i {
+      cursor: pointer;
+      line-height: 30px;
+      font-size: 24px;
+      color: #8B8DA1; }
+
+.topbar {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  width: 100vw;
+  height: 50px;
+  background: #2B2C38; }
+  .topbar ul {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px; }
+    .topbar ul li {
+      position: relative;
+      float: left;
+      width: 14.28%;
+      text-align: center;
+      line-height: 50px;
+      list-style: none;
+      font-family: Raleway;
+      font-weight: 700;
+      font-size: 18px;
+      color: #8B8DA1; }
+
+.container {
+  position: absolute;
+  top: 80px;
+  left: 0;
+  width: 100vw;
+  height: calc(100vh - 80px);
+  padding-top: 10px;
+  padding-left: 30px;
+  padding-right: 30px;
+  overflow: hidden; }
+  .container .innerContainer {
+    background: #f2f2f2;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 10px);
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    overflow-y: auto; }
+  .container .week {
+    position: absolute;
+    display: none;
+    left: 0; }
+  .container .day {
+    position: relative;
+    float: left;
+    width: 235px;
+    height: 500px;
+    margin-left: 20px;
+    margin-right: 20px; }
+    .container .day .lesson {
+      position: relative;
+      width: 100%;
+      height: 100px;
+      border-radius: 20px;
+      margin-bottom: 40px; }
+      .container .day .lesson:after {
+        content: '';
+        position: absolute;
+        bottom: -20px;
+        left: 0;
+        width: 100%;
+        height: 1px;
+        background: #8B8DA1; }
+      .container .day .lesson:last-of-type:after {
+        display: none; }
+    .container .day i {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      font-size: 25px;
+      color: white;
+      display: none;
+      cursor: pointer; }
+    .container .day .hide {
+      display: block; }
+    .container .day #className {
+      position: absolute;
+      top: 10px;
+      left: 15px;
+      font-family: Raleway;
+      font-size: 20px;
+      font-weight: 600;
+      color: white; }
+    .container .day #teacherName {
+      position: absolute;
+      bottom: 10px;
+      right: 15px;
+      font-family: Roboto;
+      font-size: 18px;
+      font-weight: 400;
+      color: white; }
+    .container .day #classRoom {
+      position: absolute;
+      bottom: 10px;
+      left: 15px;
+      font-family: Roboto;
+      font-size: 18px;
+      font-weight: 400;
+      color: white; }
+    .container .day #time {
+      position: absolute;
+      bottom: 40px;
+      left: 15px;
+      font-family: Roboto;
+      font-size: 18px;
+      font-weight: 400;
+      color: white; }
+
+@media screen and (max-width: 1360px) {
+  .container .innerContainer .day {
+    width: 155px; } }

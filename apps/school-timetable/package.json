@@ -1,0 +1,52 @@
+{
+  "name": "Timetable",
+  "version": "1.0.0",
+  "description": "Simple, useful timetable application",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder",
+    "package": "electron-packager . Timetable --platform=all --asar --icon=256.ico"
+  },
+  "author": "Patrick&Daniel",
+  "license": "ISC",
+  "devDependencies": {
+	"electron-builder": "^20.28.1"
+  },
+  "build": {
+    "appId": "timetable.io",
+    "mac": {
+      "category": "timetable.education",
+      "target": "default",
+      "icon": "256.ico"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "256.ico"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "256.ico"
+    }
+  },
+  "dependencies": {
+    "electron-packager": "^12.1.0",
+    "jquery": "^3.3.1"
+  },
+  "build": {
+    "appId": "timetable.education",
+    "mac": {
+      "category": "timetable.education",
+      "target":"default",
+      "icon": "256.ico"
+    },
+    "win": {
+      "target": "nsis",
+      "icon": "256.ico"
+    },
+    "linux": {
+      "target":"AppImage",
+      "icon":"256.ico"
+    }
+  }
+}
