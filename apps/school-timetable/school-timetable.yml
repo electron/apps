@@ -1,0 +1,12 @@
+name: Timetable
+description: 'Simple, useful timetable application.'
+repository: 'https://github.com/KDani-99/school_timetable'
+category: Education
+license: MIT
+screenshots:
+  -
+    imageUrl: '/screenshot.png'
+    caption: 'Screenshot'
+  -
+    imageUrl: '/screenshot2.png'
+    caption: 'Screenshot'
