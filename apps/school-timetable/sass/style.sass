@@ -1,0 +1,664 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700')
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,600')
+
+$black: #23232E
+$gray: #2B2C38
+$lightgray: #8B8DA1
+$green: #09BC8A
+$red: #DB2B39
+$blue: #103C75
+$yellow: #D8C141
+$orange: #EE6352
+
+*
+  margin: 0
+  padding: 0
+  user-select: none
+  cursor: default
+
+body
+  overflow-x: hidden
+  overflow-y: hidden
+
+.addLessonOverlay
+  position: absolute
+  top: 0
+  left: 0
+  width: 100vw
+  height: 100vh
+  background: rgba(0,0,0,.8)
+  z-index: 9999
+  display: none
+  opacity: 0
+
+  .innerBox
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 400px
+    height: 500px
+    background: $black
+    border-radius: 20px
+
+    #exitOverlay
+      font-size: 20px
+      color: $lightgray
+      position: absolute
+      top: 15px
+      right: 15px
+      cursor: pointer
+
+    input[type="text"]
+      width: 220px
+      height: 40px
+      background: $gray
+      // border-radius: 8px
+      border: none
+      outline: none
+      color: $lightgray
+      position: absolute
+      left: 50%
+      transform: translateX(-50%)
+      font-family: Roboto
+      font-size: 16px
+      padding-left: 15px
+      padding-right: 15px
+      cursor: text
+
+    select
+      width: 250px
+      height: 40px
+      background: $gray
+      border-radius: 0px
+      border: none
+      outline: none
+      color: $lightgray
+      font-family: Roboto
+      font-size: 16px
+      cursor: pointer
+
+    .startTime
+      position: absolute
+      top: 20px
+      left: 50%
+      transform: translateX(-50%)
+      width: 250px
+      height: 40px
+
+      p
+        line-height: 40px
+        color: $lightgray
+        font-family: Raleway
+        font-size: 16px
+        font-weight: 400
+
+      #start_time_h
+        position: absolute
+        top: 0
+        right: 70px
+        width: 60px
+
+      #start_time_mm
+        position: absolute
+        top: 0
+        right: 0px
+        width: 60px
+
+    .finishTime
+      position: absolute
+      top: 70px
+      left: 50%
+      transform: translateX(-50%)
+      width: 250px
+      height: 40px
+
+      p
+        line-height: 40px
+        color: $lightgray
+        font-family: Raleway
+        font-size: 16px
+        font-weight: 400
+
+      #finish_time_h
+        position: absolute
+        top: 0
+        right: 70px
+        width: 60px
+
+      #finish_time_mm
+        position: absolute
+        top: 0
+        right: 0px
+        width: 60px
+
+    #lesson_name
+      position: absolute
+      top: 130px
+
+    #teacher_name
+      position: absolute
+      top: 180px
+
+    #class_room
+      position: absolute
+      top: 230px
+
+    #week
+      position: absolute
+      top: 280px
+
+    #day
+      position: absolute
+      top: 330px
+      position: absolute
+      left: 50%
+      transform: translateX(-50%)
+
+    #bgColor
+      position: absolute
+      top: 380px
+
+    .addNewLesson
+      position: absolute
+      top: 430px
+      left: 50%
+      transform: translateX(-50%)
+      background: $gray
+      width: 250px
+      height: 40px
+      border: none
+      outline: none
+      cursor: pointer
+      font-family: Raleway
+      font-size: 18px
+      color: white
+      background: $green
+
+.editLessonOverlay
+  position: absolute
+  top: 0
+  left: 0
+  width: 100vw
+  height: 100vh
+  background: rgba(0,0,0,.8)
+  z-index: 9999
+  display: none
+  opacity: 0
+
+  .innerBox
+    position: absolute
+    top: 50%
+    left: 50%
+    transform: translate(-50%,-50%)
+    width: 400px
+    height: 500px
+    background: $black
+    border-radius: 20px
+
+    #exitOverlay
+      font-size: 20px
+      color: $lightgray
+      position: absolute
+      top: 15px
+      right: 15px
+      cursor: pointer
+
+    input[type="text"]
+      width: 220px
+      height: 40px
+      background: $gray
+      // border-radius: 8px
+      border: none
+      outline: none
+      color: $lightgray
+      position: absolute
+      left: 50%
+      transform: translateX(-50%)
+      font-family: Roboto
+      font-size: 16px
+      padding-left: 15px
+      padding-right: 15px
+      cursor: text
+
+    select
+      width: 250px
+      height: 40px
+      background: $gray
+      border-radius: 0px
+      border: none
+      outline: none
+      color: $lightgray
+      font-family: Roboto
+      font-size: 16px
+      cursor: pointer
+
+    .startTime
+      position: absolute
+      top: 20px
+      left: 50%
+      transform: translateX(-50%)
+      width: 250px
+      height: 40px
+
+      p
+        line-height: 40px
+        color: $lightgray
+        font-family: Raleway
+        font-size: 16px
+        font-weight: 400
+
+      #start_time_h
+        position: absolute
+        top: 0
+        right: 70px
+        width: 60px
+
+      #start_time_mm
+        position: absolute
+        top: 0
+        right: 0px
+        width: 60px
+
+    .finishTime
+      position: absolute
+      top: 70px
+      left: 50%
+      transform: translateX(-50%)
+      width: 250px
+      height: 40px
+
+      p
+        line-height: 40px
+        color: $lightgray
+        font-family: Raleway
+        font-size: 16px
+        font-weight: 400
+
+      #finish_time_h
+        position: absolute
+        top: 0
+        right: 70px
+        width: 60px
+
+      #finish_time_mm
+        position: absolute
+        top: 0
+        right: 0px
+        width: 60px
+
+    #lesson_name
+      position: absolute
+      top: 130px
+
+    #teacher_name
+      position: absolute
+      top: 180px
+
+    #class_room
+      position: absolute
+      top: 230px
+
+    #week
+      position: absolute
+      top: 280px
+
+    #bgColor
+      position: absolute
+      top: 330px
+
+    .editLesson
+      position: absolute
+      top: 380px
+      left: 50%
+      transform: translateX(-50%)
+      background: $gray
+      width: 250px
+      height: 40px
+      border: none
+      outline: none
+      cursor: pointer
+      font-family: Raleway
+      font-size: 18px
+      color: white
+      background: $green
+
+.hideOverlay
+  display: block
+
+.menubar
+  position: absolute
+  top: 0
+  left: 0
+  width: 100vw
+  height: 30px
+  background: $black
+
+  .deleteBTN
+    position: absolute
+    top: 0
+    left: 600px
+    width: 150px
+    height: 30px
+    text-align: center
+    cursor: pointer
+    &:hover
+      i
+        color: $green
+    i
+      cursor: pointer
+      position: absolute
+      top: 50%
+      left: 10px
+      transform: translateY(-50%)
+      font-size: 20px
+      color: $lightgray
+
+    p
+      cursor: pointer
+      font-family: Raleway
+      font-weight: 700
+      font-size: 14px
+      color: $lightgray
+      position: absolute
+      top: 50%
+      left: 40px
+      transform: translateY(-50%)
+
+  .addBTN
+    position: absolute
+    top: 0
+    left: 300px
+    width: 150px
+    height: 30px
+    cursor: pointer
+    &:hover
+      i
+        color: $green
+    i
+      cursor: pointer
+      position: absolute
+      top: 50%
+      left: 10px
+      transform: translateY(-50%)
+      font-size: 20px
+      color: $lightgray
+
+    p
+      cursor: pointer
+      font-family: Raleway
+      font-weight: 700
+      font-size: 14px
+      color: $lightgray
+      position: absolute
+      top: 50%
+      left: 40px
+      transform: translateY(-50%)
+
+  .editBTN
+    position: absolute
+    top: 0
+    left: 450px
+    width: 150px
+    height: 30px
+    text-align: center
+    cursor: pointer
+    &:hover
+      i
+        color: $green
+
+    i
+      cursor: pointer
+      position: absolute
+      top: 50%
+      left: 10px
+      transform: translateY(-50%)
+      font-size: 20px
+      color: $lightgray
+
+    p
+      cursor: pointer
+      font-family: Raleway
+      font-weight: 700
+      font-size: 14px
+      color: $lightgray
+      position: absolute
+      top: 50%
+      left: 40px
+      transform: translateY(-50%)
+
+  .changeWeekBTN
+    position: absolute
+    top: 0
+    left: 150px
+    width: 150px
+    height: 30px
+    text-align: center
+    cursor: pointer
+    &:hover
+      i
+        color: $green
+
+    i
+      cursor: pointer
+      position: absolute
+      top: 50%
+      left: 10px
+      transform: translateY(-50%)
+      font-size: 20px
+      color: $lightgray
+
+    p
+      cursor: pointer
+      font-family: Raleway
+      font-weight: 700
+      font-size: 14px
+      color: $lightgray
+      position: absolute
+      top: 50%
+      left: 40px
+      transform: translateY(-50%)
+
+  .selectedWeek
+    position: absolute
+    top: 0
+    left: 0
+    width: 150px
+    height: 30px
+    text-align: center
+
+    p
+      font-family: Raleway
+      font-weight: 700
+      font-size: 16px
+      color: $green
+      position: absolute
+      top: 50%
+      left: 40px
+      transform: translateY(-50%)
+
+
+  #weeks
+    position: absolute
+    top: 30px
+    left: 150px
+    width: 150px
+    height: auto
+    cursor: pointer
+    font-family: Raleway
+    font-size: 18px
+    font-weight: 700
+    color: $lightgray
+    text-align: center
+    line-height: 30px
+    width: 150px
+    height: 30px
+    background: $black
+    z-index: 90
+    display: none
+    &:hover
+      background: $gray
+
+    li
+      list-style: none
+      width: 100%
+      height: 30px
+      background: $black
+      cursor: pointer
+      &:hover
+        color: $green
+
+  .exitBTN
+    position: absolute
+    top: 0
+    right: 0
+    width: 50px
+    height: 30px
+    cursor: pointer
+    text-align: center
+    &:hover
+      i
+        color: $green
+
+    i
+      cursor: pointer
+      line-height: 30px
+      font-size: 24px
+      color: $lightgray
+
+.topbar
+  position: absolute
+  top: 30px
+  right: 0
+  width: 100vw
+  height: 50px
+  background: $gray
+
+  ul
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 50px
+
+    li
+      position: relative
+      float: left
+      width: 14.28%
+      text-align: center
+      line-height: 50px
+      list-style: none
+      font-family: Raleway
+      font-weight: 700
+      font-size: 18px
+      color: $lightgray
+
+.container
+  position: absolute
+  top: 80px
+  left: 0
+  width: 100vw
+  // height: 100vh
+  height: calc(100vh - #{80px})
+  padding-top: 10px
+  padding-left: 30px
+  padding-right: 30px
+  overflow: hidden
+  // background: blue
+
+  .innerContainer
+    background: #f2f2f2
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: calc(100% - #{10px})
+    padding-top: 10px
+    padding-left: 30px
+    padding-right: 30px
+    overflow-y: auto
+
+  .week
+    position: absolute
+    display: none
+    left: 0
+
+  .day
+    position: relative
+    float: left
+    width: 235px
+    height: 500px
+    margin-left: 20px
+    margin-right: 20px
+
+    .lesson
+      position: relative
+      width: 100%
+      height: 100px
+      border-radius: 20px
+      margin-bottom: 40px
+      &:after
+        content: ''
+        position: absolute
+        bottom: -20px
+        left: 0
+        width: 100%
+        height: 1px
+        background: $lightgray
+      &:last-of-type:after
+        display: none
+
+    i
+      position: absolute
+      top: 10px
+      right: 10px
+      font-size: 25px
+      color: white
+      display: none
+      cursor: pointer
+
+    .hide
+      display: block
+
+    #className
+      position: absolute
+      top: 10px
+      left: 15px
+      font-family: Raleway
+      font-size: 20px
+      font-weight: 600
+      color: white
+
+    #teacherName
+      position: absolute
+      bottom: 10px
+      right: 15px
+      font-family: Roboto
+      font-size: 18px
+      font-weight: 400
+      color: white
+
+    #classRoom
+      position: absolute
+      bottom: 10px
+      left: 15px
+      font-family: Roboto
+      font-size: 18px
+      font-weight: 400
+      color: white
+
+    #time
+      position: absolute
+      bottom: 40px
+      left: 15px
+      font-family: Roboto
+      font-size: 18px
+      font-weight: 400
+      color: white
+
+@media screen and (max-width: 1360px)
+  .container
+    .innerContainer
+      .week
+      .day
+        width: 155px
