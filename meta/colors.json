@@ -2819,6 +2819,18 @@
     "goodColorOnBlack": "#FC5F5F",
     "faintColorOnWhite": "rgba(221, 4, 4, 0.1)"
   },
+  "j": {
+    "palette": [
+      "#3c3c3c",
+      "#e9e9e9",
+      "#828282",
+      "#9c9c9c",
+      "#a4a4a4"
+    ],
+    "goodColorOnWhite": "#3C3C3C",
+    "goodColorOnBlack": "#E9E9E9",
+    "faintColorOnWhite": "rgba(60, 60, 60, 0.1)"
+  },
   "james": {
     "palette": [
       "#d42c3c",
