@@ -1,6 +1,7 @@
 const fs = require('fs')
 const colorConvert = require('color-convert')
 const getImageColors = require('get-image-colors')
+const mime = require('mime-types')
 const path = require('path')
 const pickAGoodColor = require('pick-a-good-color')
 const revHash = require('rev-hash')
@@ -22,14 +23,15 @@ Promise.all(
   apps.map(async (app) => {
     const slug = app.slug
     try {
-      const hash = revHash(app.iconPath)
+      const data = fs.readFileSync(app.iconPath)
+      const hash = revHash(data)
 
       // if nothing's changed, don't recalculate
       let o = oldColors[slug]
       if (o && o.source && o.source.revHash === hash) return {[slug]: o}
 
       console.log(`calculating good colors for ${slug}`)
-      return await getImageColors(app.iconPath)
+      return await getImageColors(data, mime.lookup(app.iconPath))
         .then(iconColors => {
           const palette = iconColors.map(color => color.hex())
           const goodColorOnWhite = pickAGoodColor(palette)

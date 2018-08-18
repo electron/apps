@@ -67,6 +67,7 @@
   },
   "dependencies": {
     "json-stable-stringify": "^1.0.1",
+    "mime-types": "^2.1.19",
     "rev-hash": "^2.0.0"
   }
 }
