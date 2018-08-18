@@ -1,14 +1,14 @@
 const fs = require('fs')
-const path = require('path')
-const getImageColors = require('get-image-colors')
-const pickAGoodColor = require('pick-a-good-color')
 const colorConvert = require('color-convert')
+const getImageColors = require('get-image-colors')
+const path = require('path')
+const pickAGoodColor = require('pick-a-good-color')
 const stringify = require('json-stable-stringify')
 const apps = require('../lib/raw-app-list')()
-const colors = {}
 
 console.log('Extracting color palettes from app icons...')
 
+const colors = {}
 Promise.all(
   apps
   .filter(app => fs.existsSync(app.iconPath))
