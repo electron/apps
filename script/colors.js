@@ -3,10 +3,11 @@ const colorConvert = require('color-convert')
 const getImageColors = require('get-image-colors')
 const path = require('path')
 const pickAGoodColor = require('pick-a-good-color')
+const revHash = require('rev-hash')
 const stringify = require('json-stable-stringify')
 const apps = require('../lib/raw-app-list')()
 
-
+// load the colors generated during the last session
 const colorsFile = path.normalize(path.join(__dirname, '../meta/colors.json'))
 let oldColors
 try {
@@ -21,8 +22,11 @@ Promise.all(
   apps.map(async (app) => {
     const slug = app.slug
     try {
+      const hash = revHash(app.iconPath)
+
+      // if nothing's changed, don't recalculate
       let o = oldColors[slug]
-      if (o) return {[slug]: o}
+      if (o && o.source && o.source.revHash === hash) return {[slug]: o}
 
       console.log(`calculating good colors for ${slug}`)
       return await getImageColors(app.iconPath)
@@ -32,7 +36,7 @@ Promise.all(
           const goodColorOnBlack = pickAGoodColor(palette, {background: 'black'})
           const faintColorOnWhite = `rgba(${colorConvert.hex.rgb(goodColorOnWhite).join(', ')}, 0.1)`
           const iconPath = path.relative(path.join(__dirname, '..'), app.iconPath)
-          return {[slug]: {palette, goodColorOnWhite, goodColorOnBlack, faintColorOnWhite}}
+          return {[slug]: {source: {revHash: hash, path: iconPath}, palette, goodColorOnWhite, goodColorOnBlack, faintColorOnWhite}}
         })
     } catch (e) {
       console.error(`Error processing ${app.iconPath}`)

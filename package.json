@@ -66,6 +66,7 @@
     "node": "8"
   },
   "dependencies": {
-    "json-stable-stringify": "^1.0.1"
+    "json-stable-stringify": "^1.0.1",
+    "rev-hash": "^2.0.0"
   }
 }
