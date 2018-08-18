@@ -6,12 +6,25 @@ const pickAGoodColor = require('pick-a-good-color')
 const stringify = require('json-stable-stringify')
 const apps = require('../lib/raw-app-list')()
 
+
 const colorsFile = path.normalize(path.join(__dirname, '../meta/colors.json'))
+let oldColors
+try {
+  oldColors = require(colorsFile)
+} catch(e) {
+  oldColors = {}
+}
+
+// generate new color info for apps that need it
 console.log(`generating ${colorsFile}...`)
 Promise.all(
   apps.map(async (app) => {
     const slug = app.slug
     try {
+      let o = oldColors[slug]
+      if (o) return {[slug]: o}
+
+      console.log(`calculating good colors for ${slug}`)
       return await getImageColors(app.iconPath)
         .then(iconColors => {
           const palette = iconColors.map(color => color.hex())
