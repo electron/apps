@@ -1,9 +1,13 @@
 'use strict'
 
 const path = require('path')
+const slugsAndIconPaths = require('../lib/raw-app-list')()
+const updateComplimentaryColorsFile = require('../lib/colors')
 
 const root = path.normalize(path.join(__dirname, '..'))
-const slugsAndIconPaths = require(path.join(root, 'lib', 'raw-app-list'))()
 const colorsFile = path.normalize(path.join(root, 'meta', 'colors.json'))
-
-require(path.join(root, 'lib', 'colors'))(slugsAndIconPaths, colorsFile, root)
+updateComplimentaryColorsFile(
+  slugsAndIconPaths,
+  colorsFile,
+  root
+)
