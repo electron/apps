@@ -3,15 +3,11 @@ const path = require('path')
 const getImageColors = require('get-image-colors')
 const pickAGoodColor = require('pick-a-good-color')
 const colorConvert = require('color-convert')
+const stringify = require('json-stable-stringify')
 const apps = require('../lib/raw-app-list')()
 const colors = {}
 
 console.log('Extracting color palettes from app icons...')
-
-// Prevent superficial diffs in the file by adding sorted keys first
-apps.forEach(app => {
-  colors[app.slug] = null
-})
 
 Promise.all(
   apps
@@ -40,7 +36,7 @@ Promise.all(
 .then(apps => {
   fs.writeFileSync(
     path.join(__dirname, '../meta/colors.json'),
-    JSON.stringify(colors, null, 2)
+    stringify(colors, null, 2)
   )
 })
 .catch(error => {
