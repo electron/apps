@@ -6,39 +6,29 @@ const pickAGoodColor = require('pick-a-good-color')
 const stringify = require('json-stable-stringify')
 const apps = require('../lib/raw-app-list')()
 
-console.log('Extracting color palettes from app icons...')
-
-const colors = {}
+const colorsFile = path.normalize(path.join(__dirname, '../meta/colors.json'))
+console.log(`generating ${colorsFile}...`)
 Promise.all(
-  apps
-  .filter(app => fs.existsSync(app.iconPath))
-  .map(app => {
-    return getImageColors(app.iconPath).then(iconColors => {
-      const palette = iconColors.map(color => color.hex())
-      const goodColorOnWhite = pickAGoodColor(palette)
-      const goodColorOnBlack = pickAGoodColor(palette, {background: 'black'})
-      const faintColorOnWhite = `rgba(${colorConvert.hex.rgb(goodColorOnWhite).join(', ')}, 0.1)`
-      colors[app.slug] = {
-        palette: palette,
-        goodColorOnWhite: goodColorOnWhite,
-        goodColorOnBlack: goodColorOnBlack,
-        faintColorOnWhite: faintColorOnWhite
-      }
-
-      return Promise.resolve(true)
-    })
-    .catch(error => {
-      console.log(`problem with ${app.slug} icon: ${app.iconPath}`)
-      console.error(error)
-    })
+  apps.map(async (app) => {
+    const slug = app.slug
+    try {
+      return await getImageColors(app.iconPath)
+        .then(iconColors => {
+          const palette = iconColors.map(color => color.hex())
+          const goodColorOnWhite = pickAGoodColor(palette)
+          const goodColorOnBlack = pickAGoodColor(palette, {background: 'black'})
+          const faintColorOnWhite = `rgba(${colorConvert.hex.rgb(goodColorOnWhite).join(', ')}, 0.1)`
+          const iconPath = path.relative(path.join(__dirname, '..'), app.iconPath)
+          return {[slug]: {palette, goodColorOnWhite, goodColorOnBlack, faintColorOnWhite}}
+        })
+    } catch (e) {
+      console.error(`Error processing ${app.iconPath}`)
+      console.error(e)
+    }
   })
 )
-.then(apps => {
-  fs.writeFileSync(
-    path.join(__dirname, '../meta/colors.json'),
-    stringify(colors, null, 2)
-  )
+.then(values => {
+  const colors = Object.assign({}, ...values)
+  fs.writeFileSync(colorsFile, stringify(colors, {space: 2}))
 })
-.catch(error => {
-  console.error(error)
-})
+.catch(e => console.error(e))
