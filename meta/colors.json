@@ -5255,6 +5255,18 @@
     "goodColorOnBlack": "#D47C7C",
     "faintColorOnWhite": "rgba(196, 36, 43, 0.1)"
   },
+  "rss-reader": {
+    "palette": [
+      "#fbfbfb",
+      "#050505",
+      "#7c7c7c",
+      "#a3a3a3",
+      "#848484"
+    ],
+    "goodColorOnWhite": "#050505",
+    "goodColorOnBlack": "#FBFBFB",
+    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)"
+  },
   "sai": {
     "palette": [
       "#3eba5d",
