@@ -5,6 +5,8 @@ const os = require('os')
 const path = require('path')
 
 const chai = require('chai')
+const sinon = require('sinon')
+const sinonChai = require('sinon-chai')
 const Jimp = require('jimp')
 const tinyColor = require('tinycolor2')
 
@@ -15,13 +17,11 @@ const Colors = require('../lib/colors.js')
 
 describe('colors', function () {
   let testDir
+  let errorSpy
   const slugsAndIconPaths = []
 
   before(async function () {
-    console.info = () => {}
-    console.error = () => {}
-
-    // create a couple of test icons in a tmpdir
+   // create a couple of test icons in a tmpdir
     testDir = fs.mkdtempSync(path.join(os.tmpdir(), 'colors-spec'))
     const colors = ['white', 'black']
     for (const colorName of colors) {
@@ -37,6 +37,14 @@ describe('colors', function () {
     // remove the temporaries that were created in before()
     for (const entry of slugsAndIconPaths) { fs.unlinkSync(entry.iconPath) }
     fs.rmdirSync(testDir)
+  })
+
+  beforeEach(() => {
+    errorSpy = sinon.spy(console, 'error')
+  })
+
+  afterEach(() => {
+    errorSpy.restore()
   })
 
   it('should create entries with the expected properties', async () => {
@@ -93,7 +101,9 @@ describe('colors', function () {
       .and
       .not.have.keys(badEntry.slug)
 
-    // restore the file permission
+    expect(errorSpy).to.be.be.calledOnce
+
+    // cleanup
     fs.chmodSync(badEntry.iconPath, oldMode)
   })
 
@@ -109,6 +119,8 @@ describe('colors', function () {
       .have.keys(goodEntry.slug)
       .and
       .not.have.keys(badEntry.slug)
+
+    expect(errorSpy).to.be.be.calledOnce
 
     // cleanup
     fs.unlinkSync(badEntry.iconPath)
