@@ -143,8 +143,8 @@ describe('colors', function () {
     // the revHash on the changed entry should be different
     expect(newColors)
       .property(changedEntry.slug)
-        .property('source')
-           .property('revHash')
-             .should.not.equal(oldColors[changedEntry.slug].source.revHash)
+      .property('source')
+      .property('revHash')
+      .should.not.equal(oldColors[changedEntry.slug].source.revHash)
   })
 })
