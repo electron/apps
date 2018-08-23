@@ -1,0 +1,13 @@
+name: 'Unicode Plus'
+description: 'Set of Unicode & emoji utilities wrapped into one single app.'
+website: 'https://github.com/tonton-pixel/unicode-plus'
+category: Utilities
+keywords:
+    - characters
+    - code points
+    - emoji
+    - javascript
+    - set
+    - unicode
+    - utility
+license: MIT
