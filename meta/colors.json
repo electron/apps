@@ -6767,6 +6767,18 @@
     "goodColorOnBlack": "#FBFBFB",
     "faintColorOnWhite": "rgba(40, 40, 40, 0.1)"
   },
+  "unicode-plus": {
+    "palette": [
+      "#fbfbfb",
+      "#247c94",
+      "#83b4c4",
+      "#b5d5de",
+      "#92bccb"
+    ],
+    "goodColorOnWhite": "#247C94",
+    "goodColorOnBlack": "#B5D5DE",
+    "faintColorOnWhite": "rgba(36, 124, 148, 0.1)"
+  },
   "unofficial-zalo": {
     "palette": [
       "#0c83c6",
