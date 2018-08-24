@@ -1187,6 +1187,18 @@
     "goodColorOnBlack": "#FA3D09",
     "faintColorOnWhite": "rgba(207, 48, 4, 0.1)"
   },
+  "cycle": {
+    "palette": [
+      "#a4bcdc",
+      "#24547c",
+      "#3c7cbc",
+      "#3e84ca",
+      "#b0c4ea"
+    ],
+    "goodColorOnWhite": "#24547C",
+    "goodColorOnBlack": "#B0C4EA",
+    "faintColorOnWhite": "rgba(36, 84, 124, 0.1)"
+  },
   "cycligent-git-tool": {
     "palette": [
       "#dbdbdb",
