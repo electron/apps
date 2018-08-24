@@ -1,0 +1,40 @@
+name: Cycle
+description: 'Behavior Focused Continuous Testing for Your Entire Team'
+website: 'https://www.cycleautomation.com/'
+category: 'Developer Tools'
+keywords:
+    - BDD
+    - Behavior Driven Strategies
+    - Behavior Focused
+    - Behaivor
+    - 'Communication'
+    - 'Collaboration'
+    - Testing
+    - 'Continuous Testing'
+    - 'Test Automation'
+    - 'Performance Testing'
+    - 'Continuous Integration'
+    - 'Continuous Delivery'
+    - 'DevOps'
+youtube_video_url: 'https://www.youtube.com/watch?v=i75C5hIqxJA'
+screenshots:
+  -
+    imageUrl: 'https://www.cycleautomation.com/wp-content/uploads/webstepsfeature.png'
+    caption: 'In-browser testing'
+    imageLink: 'https://www.cycleautomation.com/features/'
+  - 
+    imageUrl: 'https://www.cycleautomation.com/wp-content/uploads/playlist.png'
+    caption: 'Serialized Testing Playlists'
+    imageLink: 'https://www.cycleautomation.com/features/'
+  - 
+    imageUrl: 'https://www.cycleautomation.com/wp-content/uploads/grouptest.png'
+    caption: 'Visual Parallel Testing'
+    imageLink: 'https://www.cycleautomation.com/features/'
+  - 
+    imageUrl: 'https://www.cycleautomation.com/wp-content/uploads/dataextractwithblur.png'
+    caption: 'In-line Data Management'
+    imageLink: 'https://www.cycleautomation.com/features/'
+  - 
+    imageUrl: 'https://www.cycleautomation.com/wp-content/uploads/2018-08-13_15-00-38.png'
+    caption: 'Inspector Panel for Step documentation, Execution Settings, and Real-time Test Output'
+    imageLink: 'https://www.cycleautomation.com/features/'
