@@ -1,0 +1,15 @@
+name: d-tools
+description: 'A toolbox for developers. Formatter, Base64, Regex test, Host manager and so on.'
+website: 'https://github.com/geminate/d-tools'
+repository: 'https://github.com/geminate/d-tools'
+keywords:
+    - 'developer tools'
+    - 'web development'
+    - format
+    - cryption
+    - tools
+license: MIT
+category: 'Developer Tools'
+locales:
+    - en
+    - zh-CN
