@@ -1,28 +1,24 @@
 'use strict'
 
-/* https://github.com/domenic/sinon-chai/issues/20 */
-/* eslint no-unused-expressions: 0 */
-
 const fs = require('fs')
 const os = require('os')
 const path = require('path')
 
 const chai = require('chai')
-const sinon = require('sinon')
-const sinonChai = require('sinon-chai')
 const Jimp = require('jimp')
 const tinyColor = require('tinycolor2')
 
 chai.should()
-chai.use(sinonChai)
 
 const expect = chai.expect
 
 const Colors = require('../lib/colors.js')
 
 describe('colors', function () {
-  let testDir
   let errorSpy
+  let errors
+  let consoleError
+  let testDir
   const slugsAndIconPaths = []
 
   before(async function () {
@@ -45,11 +41,13 @@ describe('colors', function () {
   })
 
   beforeEach(() => {
-    errorSpy = sinon.spy(console, 'error')
+    errors = []
+    consoleError = console.error
+    console.error = (...args) => errors.push(args)
   })
 
   afterEach(() => {
-    errorSpy.restore()
+    console.error = consoleError
   })
 
   it('should create entries with the expected properties', async () => {
@@ -106,7 +104,12 @@ describe('colors', function () {
       .and
       .not.have.keys(badEntry.slug)
 
-    expect(errorSpy).to.be.be.calledOnce
+    console.log(errors)
+
+    expect(errors)
+      .to.have.lengthOf(1)
+      .and
+      .to.satisfy(errors => JSON.stringify(errors).contains(badEntry.iconPath))
 
     // cleanup
     fs.chmodSync(badEntry.iconPath, oldMode)
@@ -125,7 +128,10 @@ describe('colors', function () {
       .and
       .not.have.keys(badEntry.slug)
 
-    expect(errorSpy).to.be.be.calledOnce
+    expect(errors)
+      .to.have.lengthOf(1)
+      .and
+      .to.satisfy(errors => JSON.stringify(errors).contains(badEntry.iconPath))
 
     // cleanup
     fs.unlinkSync(badEntry.iconPath)
