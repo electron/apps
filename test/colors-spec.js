@@ -15,7 +15,6 @@ const expect = chai.expect
 const Colors = require('../lib/colors.js')
 
 describe('colors', function () {
-  let errorSpy
   let errors
   let consoleError
   let testDir
@@ -103,8 +102,6 @@ describe('colors', function () {
       .have.keys(goodEntry.slug)
       .and
       .not.have.keys(badEntry.slug)
-
-    console.log(errors)
 
     expect(errors)
       .to.have.lengthOf(1)
