@@ -1,12 +1,14 @@
-name: Timetable
+name: 'School Timetable'
 description: 'Simple, useful timetable application.'
-repository: 'https://github.com/KDani-99/school_timetable'
+website: 'https://github.com/simon-fraser/MusicTube-Player'
 category: Education
-license: MIT
-screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/KDani-99/school_timetable/master/ui.png'
-    caption: 'Screenshot'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/KDani-99/school_timetable/master/addUI.png'
-    caption: 'Screenshot'
+repository: 'https://github.com/KDani-99/school_timetable'
+keywords:
+    - School
+    - Timetable
+    - Management
+    - Time
+    - Desktop
+ screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/KDani-99/school_timetable/master/ui.png'
