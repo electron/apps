@@ -1223,6 +1223,18 @@
     "goodColorOnBlack": "#9A9C9A",
     "faintColorOnWhite": "rgba(58, 58, 58, 0.1)"
   },
+  "d-tools": {
+    "palette": [
+      "#4193df",
+      "#f8f9fa",
+      "#89aed3",
+      "#2e649b",
+      "#9cccf4"
+    ],
+    "goodColorOnWhite": "#2E649B",
+    "goodColorOnBlack": "#9CCCF4",
+    "faintColorOnWhite": "rgba(46, 100, 155, 0.1)"
+  },
   "dat": {
     "palette": [
       "#189528",
@@ -3910,6 +3922,18 @@
     "goodColorOnWhite": "#1D4444",
     "goodColorOnBlack": "#EE4747",
     "faintColorOnWhite": "rgba(29, 68, 68, 0.1)"
+  },
+  "musictube-player": {
+    "palette": [
+      "#c0165f",
+      "#dc175d",
+      "#a11564",
+      "#d4185e",
+      "#ac1664"
+    ],
+    "goodColorOnWhite": "#DC175D",
+    "goodColorOnBlack": "#E8256A",
+    "faintColorOnWhite": "rgba(220, 23, 93, 0.1)"
   },
   "musify": {
     "palette": [
@@ -6862,6 +6886,18 @@
     "goodColorOnWhite": "#212222",
     "goodColorOnBlack": "#7C8C94",
     "faintColorOnWhite": "rgba(33, 34, 34, 0.1)"
+  },
+  "vega-clipboard": {
+    "palette": [
+      "#fbf9f9",
+      "#1c97a5",
+      "#d92a38",
+      "#9398a7",
+      "#f47c7c"
+    ],
+    "goodColorOnWhite": "#D92A38",
+    "goodColorOnBlack": "#F47C7C",
+    "faintColorOnWhite": "rgba(217, 42, 56, 0.1)"
   },
   "video-hub-app": {
     "palette": [
