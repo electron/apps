@@ -59,8 +59,6 @@
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^2.6.1",
     "sharp": "^0.17.0",
-    "sinon": "^6.1.5",
-    "sinon-chai": "^3.2.0",
     "slugg": "^1.1.0",
     "standard": "^10.0.2",
     "yamljs": "^0.2.8"
