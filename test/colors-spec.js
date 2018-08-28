@@ -109,7 +109,7 @@ describe('colors', function () {
     expect(errors)
       .to.have.lengthOf(1)
       .and
-      .to.satisfy(errors => JSON.stringify(errors).contains(badEntry.iconPath))
+      .to.satisfy(errors => JSON.stringify(errors).includes(badEntry.iconPath))
 
     // cleanup
     fs.chmodSync(badEntry.iconPath, oldMode)
@@ -131,7 +131,7 @@ describe('colors', function () {
     expect(errors)
       .to.have.lengthOf(1)
       .and
-      .to.satisfy(errors => JSON.stringify(errors).contains(badEntry.iconPath))
+      .to.satisfy(errors => JSON.stringify(errors).includes(badEntry.iconPath))
 
     // cleanup
     fs.unlinkSync(badEntry.iconPath)
