@@ -1,5 +1,8 @@
 'use strict'
 
+/* https://github.com/domenic/sinon-chai/issues/20 */
+/* eslint no-unused-expressions: 0 */
+
 const fs = require('fs')
 const os = require('os')
 const path = require('path')
@@ -11,6 +14,8 @@ const Jimp = require('jimp')
 const tinyColor = require('tinycolor2')
 
 chai.should()
+chai.use(sinonChai)
+
 const expect = chai.expect
 
 const Colors = require('../lib/colors.js')
