@@ -13,7 +13,9 @@ screenshots:
     -
         imageUrl: 'https://github.com/TianlunXiong/DataStore/blob/master/static/p1.JPG?raw=true'
         caption: 'Home page to set the Server Ports'
+    -
         imageUrl: 'https://github.com/TianlunXiong/DataStore/blob/master/static/p2.JPG?raw=true'
         caption: 'key-value factory'
+    -
         imageUrl: 'https://github.com/TianlunXiong/DataStore/blob/master/static/p3.JPG?raw=true'
         caption: 'json-object management'
