@@ -1259,6 +1259,18 @@
     "goodColorOnBlack": "#E5CCEB",
     "faintColorOnWhite": "rgba(199, 4, 160, 0.1)"
   },
+  "data-store": {
+    "palette": [
+      "#e2f3f3",
+      "#04bca4",
+      "#6bd9c9",
+      "#39ccbc",
+      "#91e0d8"
+    ],
+    "goodColorOnWhite": "#037E6E",
+    "goodColorOnBlack": "#04BCA4",
+    "faintColorOnWhite": "rgba(3, 126, 110, 0.1)"
+  },
   "dataproofer": {
     "palette": [
       "#070707",
