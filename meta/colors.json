@@ -7119,6 +7119,22 @@
       "revHash": "e69b320c8c"
     }
   },
+  "school-timetable": {
+    "faintColorOnWhite": "rgba(44, 116, 100, 0.1)",
+    "goodColorOnBlack": "#0CBC8C",
+    "goodColorOnWhite": "#2C7464",
+    "palette": [
+      "#2b2b3a",
+      "#0cbc8c",
+      "#149c7c",
+      "#3c4c4c",
+      "#2c7464"
+    ],
+    "source": {
+      "path": "apps/school-timetable/school-timetable-icon.png",
+      "revHash": "b0066cd4b4"
+    }
+  },
   "sciencefair": {
     "faintColorOnWhite": "rgba(114, 100, 57, 0.1)",
     "goodColorOnBlack": "#CAAA4B",
