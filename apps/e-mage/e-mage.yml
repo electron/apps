@@ -1,0 +1,22 @@
+name: E-Mage
+description: 'Cross-platform tool to help with image compression'
+website: 'https://github.com/douglasjunior/emage'
+category: 'Developer Tools'
+repository: 'https://github.com/douglasjunior/emage'
+keywords:
+    - image-optimization
+    - electron
+    - developer-tools
+    - pngcrush
+    - advpng
+    - pngout
+    - imagemin
+    - optipng
+    - zopfli
+    - jpegoptim
+    - jpegtran
+    - mozjpeg
+    - svgo
+    - giflossy
+    - gifsicle
+license: MIT
