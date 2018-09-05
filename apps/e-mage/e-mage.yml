@@ -20,3 +20,7 @@ keywords:
     - giflossy
     - gifsicle
 license: MIT
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/douglasjunior/emage/master/screenshot/screen.png'
+    caption: 'E-Mage home screen'
