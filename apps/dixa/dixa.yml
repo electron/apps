@@ -1,6 +1,7 @@
 name: Dixa
-description: 'Customer service platform - all in one'
+description: 'Customer Service Software'
 website: 'https://dixa.com'
+repository: 'https://github.com/dixahq/dixa-desktop-app-release'
 keywords:
     - customer service
     - phone
@@ -9,4 +10,5 @@ keywords:
     - call center
     - contact center
     - help desk
+    - support
 category: 'Business'
