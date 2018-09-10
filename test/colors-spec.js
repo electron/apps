@@ -20,8 +20,6 @@ describe('colors', function () {
   let testDir
   const slugsAndIconPaths = []
 
-  this.timeout(5000)
-
   before(async function () {
    // create a couple of test icons in a tmpdir
     testDir = fs.mkdtempSync(path.join(os.tmpdir(), 'colors-spec'))
@@ -66,7 +64,7 @@ describe('colors', function () {
           .and
           .property('path')
             .equals(path.basename(entry.iconPath))
-  })
+  }).timeout(5000)
 
   it('should add an entry when a new app is added', async () => {
     const oldColors = await Colors.getColors(slugsAndIconPaths.slice(0, 1), {}, testDir)
