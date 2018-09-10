@@ -20,6 +20,8 @@ describe('colors', function () {
   let testDir
   const slugsAndIconPaths = []
 
+  this.timeout(5000)
+
   before(async function () {
    // create a couple of test icons in a tmpdir
     testDir = fs.mkdtempSync(path.join(os.tmpdir(), 'colors-spec'))
