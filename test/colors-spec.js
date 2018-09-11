@@ -64,7 +64,7 @@ describe('colors', function () {
           .and
           .property('path')
             .equals(path.basename(entry.iconPath))
-  })
+  }).timeout(5000)
 
   it('should add an entry when a new app is added', async () => {
     const oldColors = await Colors.getColors(slugsAndIconPaths.slice(0, 1), {}, testDir)
