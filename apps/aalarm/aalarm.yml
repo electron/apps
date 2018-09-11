@@ -1,0 +1,9 @@
+name: Aalarm
+description: 'Simple alarm app with a lot of neon effects'
+website: 'http://api.fridaytec.com/site'
+category: Lifestyle
+repository: 'https://github.com/ahmtcn123/Aalarm'
+keywords:
+    - alarm
+    - neon
+license: 'Apache-2.0'
