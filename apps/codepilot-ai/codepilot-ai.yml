@@ -1,4 +1,4 @@
-name: CodePilot.ai
+name: 'CodePilot.ai'
 description: 'Code search tool for software developers'
 website: 'https://codepilot.ai/'
 keywords:
@@ -10,7 +10,6 @@ keywords:
     - developer
     - tool
     - productivity
-    - vuejs
 category: 'Developer Tools'
 screenshots:
     -
