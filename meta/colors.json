@@ -31,6 +31,22 @@
       "revHash": "8453e2a3a1"
     }
   },
+  "aalarm": {
+    "faintColorOnWhite": "rgba(68, 4, 252, 0.1)",
+    "goodColorOnBlack": "#FFC0FC",
+    "goodColorOnWhite": "#4404FC",
+    "palette": [
+      "#fcfcfc",
+      "#4404fc",
+      "#ffc0fc",
+      "#a440fc",
+      "#4444fc"
+    ],
+    "source": {
+      "path": "apps/aalarm/aalarm-icon.png",
+      "revHash": "332f877987"
+    }
+  },
   "abricotine": {
     "faintColorOnWhite": "rgba(181, 72, 2, 0.1)",
     "goodColorOnBlack": "#FC6404",
@@ -2125,6 +2141,22 @@
     "source": {
       "path": "apps/dupfinder/dupfinder-icon.png",
       "revHash": "bab223dc7b"
+    }
+  },
+  "e-mage": {
+    "faintColorOnWhite": "rgba(147, 108, 45, 0.1)",
+    "goodColorOnBlack": "#F9C10E",
+    "goodColorOnWhite": "#936C2D",
+    "palette": [
+      "#9b8ed3",
+      "#f9c10e",
+      "#70496d",
+      "#ad8120",
+      "#936c2d"
+    ],
+    "source": {
+      "path": "apps/e-mage/e-mage-icon.png",
+      "revHash": "c90e02ccae"
     }
   },
   "e-tools": {
