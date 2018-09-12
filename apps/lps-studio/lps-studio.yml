@@ -1,0 +1,23 @@
+name: 'LPS Studio'
+description: 'Interactive storytelling tool for visualising LPS programs using Logic Production System'
+website: 'https://lps.is.org/'
+repository: 'https://github.com/mauris/lps-studio'
+keywords:
+    - visualization
+    - visualisation
+    - lps
+    - logic
+    - production system
+    - html5
+    - canvas
+    - electron
+    - graphics
+    - runtime environment
+    - interpreter
+    - compiler
+    - illustration
+    - storytelling
+    - logic programming
+    - logic production system
+    - production system
+category: 'Developer Tools'
