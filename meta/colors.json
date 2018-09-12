@@ -1279,6 +1279,22 @@
       "revHash": "ff6d9cbb86"
     }
   },
+  "codepilot-ai": {
+    "faintColorOnWhite": "rgba(110, 111, 111, 0.1)",
+    "goodColorOnBlack": "#E9ECED",
+    "goodColorOnWhite": "#6E6F6F",
+    "palette": [
+      "#e9eced",
+      "#6e6f6f",
+      "#949494",
+      "#b1b8bd",
+      "#999c9c"
+    ],
+    "source": {
+      "path": "apps/codepilot-ai/codepilot-ai-icon.png",
+      "revHash": "9a87f6aae6"
+    }
+  },
   "colibri": {
     "faintColorOnWhite": "rgba(14, 121, 170, 0.1)",
     "goodColorOnBlack": "#1197D5",
@@ -4461,6 +4477,22 @@
     "source": {
       "path": "apps/losslesscut/losslesscut-icon.png",
       "revHash": "d7966380fd"
+    }
+  },
+  "lps-studio": {
+    "faintColorOnWhite": "rgba(32, 113, 131, 0.1)",
+    "goodColorOnBlack": "#B96F10",
+    "goodColorOnWhite": "#207183",
+    "palette": [
+      "#b96f10",
+      "#207183",
+      "#f7f8f8",
+      "#686c40",
+      "#4c5c3c"
+    ],
+    "source": {
+      "path": "apps/lps-studio/lps-studio-icon.png",
+      "revHash": "6812fdca7a"
     }
   },
   "luna": {
