@@ -11,7 +11,7 @@
   },
   {
     "name": "Utilities",
-    "count": 104,
+    "count": 105,
     "slug": "utilities"
   },
   {
@@ -55,14 +55,14 @@
     "slug": "graphics-design"
   },
   {
+    "name": "Entertainment",
+    "count": 6,
+    "slug": "entertainment"
+  },
+  {
     "name": "Books",
     "count": 5,
     "slug": "books"
-  },
-  {
-    "name": "Entertainment",
-    "count": 5,
-    "slug": "entertainment"
   },
   {
     "name": "Lifestyle",

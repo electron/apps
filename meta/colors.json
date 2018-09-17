@@ -5231,6 +5231,22 @@
       "revHash": "ba9f7071f1"
     }
   },
+  "moviescores": {
+    "faintColorOnWhite": "rgba(54, 68, 88, 0.1)",
+    "goodColorOnBlack": "#D07651",
+    "goodColorOnWhite": "#364458",
+    "palette": [
+      "#364458",
+      "#d07651",
+      "#60975a",
+      "#79524d",
+      "#547464"
+    ],
+    "source": {
+      "path": "apps/moviescores/moviescores-icon.png",
+      "revHash": "315dd889b0"
+    }
+  },
   "mstream": {
     "faintColorOnWhite": "rgba(36, 76, 124, 0.1)",
     "goodColorOnBlack": "#6484B4",
@@ -10157,6 +10173,22 @@
     "source": {
       "path": "apps/yosoro/yosoro-icon.png",
       "revHash": "0625e93175"
+    }
+  },
+  "youget": {
+    "faintColorOnWhite": "rgba(202, 63, 71, 0.1)",
+    "goodColorOnBlack": "#F24C54",
+    "goodColorOnWhite": "#CA3F47",
+    "palette": [
+      "#ca3f47",
+      "#f24c54",
+      "#e44450",
+      "#dc444c",
+      "#ec4454"
+    ],
+    "source": {
+      "path": "apps/youget/youget-icon.png",
+      "revHash": "c742326620"
     }
   },
   "yout": {
