@@ -21,7 +21,7 @@
     "wizard": "node wizard.js",
     "release": "script/release.sh"
   },
-  "repository": "https://github.com/electron/electron-apps",
+  "repository": "https://github.com/electron/apps",
   "keywords": [
     "electron",
     "apps",
