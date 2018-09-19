@@ -4463,6 +4463,22 @@
       "revHash": "840249e094"
     }
   },
+  "lisk-hub": {
+    "faintColorOnWhite": "rgba(4, 110, 223, 0.1)",
+    "goodColorOnBlack": "#71A4D6",
+    "goodColorOnWhite": "#046EDF",
+    "palette": [
+      "#08428b",
+      "#ebecec",
+      "#046edf",
+      "#71a4d6",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/lisk-hub/lisk-hub-icon.png",
+      "revHash": "551386e586"
+    }
+  },
   "losslesscut": {
     "faintColorOnWhite": "rgba(14, 53, 59, 0.1)",
     "goodColorOnBlack": "#22A0B8",
@@ -4877,6 +4893,22 @@
     "source": {
       "path": "apps/metronome-wallet/metronome-wallet-icon.png",
       "revHash": "b4482ca7ba"
+    }
+  },
+  "metube": {
+    "faintColorOnWhite": "rgba(220, 36, 36, 0.1)",
+    "goodColorOnBlack": "#EC8C8C",
+    "goodColorOnWhite": "#DC2424",
+    "palette": [
+      "#dc2424",
+      "#fbf9f9",
+      "#e67171",
+      "#ec9494",
+      "#ec8c8c"
+    ],
+    "source": {
+      "path": "apps/metube/metube-icon.png",
+      "revHash": "16cc991b33"
     }
   },
   "microstockr": {
