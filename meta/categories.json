@@ -1,12 +1,12 @@
 [
   {
     "name": "Productivity",
-    "count": 186,
+    "count": 187,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 128,
+    "count": 129,
     "slug": "developer-tools"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "name": "Education",
-    "count": 14,
+    "count": 15,
     "slug": "education"
   },
   {

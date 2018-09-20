@@ -1119,6 +1119,22 @@
       "revHash": "1b0c2c2312"
     }
   },
+  "citrus": {
+    "faintColorOnWhite": "rgba(150, 106, 2, 0.1)",
+    "goodColorOnBlack": "#FCB407",
+    "goodColorOnWhite": "#966A02",
+    "palette": [
+      "#fcc937",
+      "#fbfbfa",
+      "#fcb407",
+      "#797979",
+      "#a4a4a4"
+    ],
+    "source": {
+      "path": "apps/citrus/citrus-icon.png",
+      "revHash": "544f469eee"
+    }
+  },
   "cleaver": {
     "faintColorOnWhite": "rgba(118, 48, 190, 0.1)",
     "goodColorOnBlack": "#B488D4",
@@ -3549,6 +3565,22 @@
     "source": {
       "path": "apps/hyper/hyper-icon.png",
       "revHash": "b4d9035301"
+    }
+  },
+  "i18n-manager": {
+    "faintColorOnWhite": "rgba(4, 100, 227, 0.1)",
+    "goodColorOnBlack": "#E1B124",
+    "goodColorOnWhite": "#0464E3",
+    "palette": [
+      "#2dcb53",
+      "#e1b124",
+      "#0464e3",
+      "#fbf9f4",
+      "#817634"
+    ],
+    "source": {
+      "path": "apps/i18n-manager/i18n-manager-icon.png",
+      "revHash": "c91af34b4e"
     }
   },
   "i5sing": {
@@ -6445,6 +6477,22 @@
     "source": {
       "path": "apps/pokerclock/pokerclock-icon.png",
       "revHash": "408538e6d8"
+    }
+  },
+  "polar": {
+    "faintColorOnWhite": "rgba(92, 84, 108, 0.1)",
+    "goodColorOnBlack": "#F3331C",
+    "goodColorOnWhite": "#5C546C",
+    "palette": [
+      "#f3331c",
+      "#289da4",
+      "#bda58f",
+      "#e99c31",
+      "#5c546c"
+    ],
+    "source": {
+      "path": "apps/polar/polar-icon.png",
+      "revHash": "5540369288"
     }
   },
   "pomolectron": {
