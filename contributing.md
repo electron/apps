@@ -62,7 +62,7 @@ apps
     └── my-cool-app.yml
 ```
 
-### YML File Rules 
+### YML File Rules
 
 - `name` is required.
 - `description` is required.
@@ -72,6 +72,7 @@ apps
 - `license` is optional.
 - `homebrewCaskName` can be specified if your app is on [homebrew cask](https://caskroom.github.io).
 - `snapcraftName` can be specified if your app is on [snapcraft](https://snapcraft.io/).
+- `npmPackageName` can be specified if your app is on [npm](https://npmjs.org/).
 - `youtube_video_url` is optional, but must be a fully-qualified URL if provided.
 - No fields should be left blank.
 
@@ -132,13 +133,13 @@ screenshots:
 - `goodColorOnBlack` is an optional hex string.
 - `faintColorOnWhite` is an optional rgba string, e.g. `rgba(100, 0, 0, 0.1)`
 
-If unspecified, an [accessible colors](https://github.com/zeke/pick-a-good-color) 
+If unspecified, an [accessible colors](https://github.com/zeke/pick-a-good-color)
 will be picked or derived from the provided icon file.
 
-Colors must meet the 
+Colors must meet the
 [WCAG contrast guidelines](https://www.w3.org/TR/WCAG/#visual-audio-contrast).
-You can use 
-[leaverou.github.io/contrast-ratio](http://leaverou.github.io/contrast-ratio/) 
+You can use
+[leaverou.github.io/contrast-ratio](http://leaverou.github.io/contrast-ratio/)
 to help pick accessible colors.
 
 ### Icons
@@ -169,7 +170,7 @@ locales:
 
 ### Company Logos and Names
 
-Our legal team has advised us to disallow apps that are using the names of _other_ companies or icons that we find too similar to the logos of other companies without verifying their permission to do so. 
+Our legal team has advised us to disallow apps that are using the names of _other_ companies or icons that we find too similar to the logos of other companies without verifying their permission to do so.
 
 App names should not start with the word "GitHub". In general, you may refer to GitHub in a relational phrase to say that the project is "compatible with", "on", or "for" GitHub, or something along those lines.
 
@@ -205,7 +206,7 @@ explaining the reason for removing it.
 disabled: true # Nylas was sunset and replaced by Mailspring
 ```
 
-This approach keeps the app data on hand, giving the app developer 
+This approach keeps the app data on hand, giving the app developer
 an option to resurrect the app at a later date by simply removing the flag.
 
 ## How it Works

@@ -1,0 +1,13 @@
+name: 'Lisk Hub'
+description: 'Lisk graphical user interface for desktop'
+website: 'http://lisk.io/hub'
+repository: 'https://github.com/LiskHQ/lisk-hub'
+screenshots:
+    -
+        imageUrl: 'https://cdn-images-1.medium.com/max/1400/0*kD6gB4LkzkDDTbtI'
+keywords:
+    - blockchain
+    - cryptocurrency
+    - wallet
+    - token
+category: Finance
