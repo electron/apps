@@ -95,6 +95,22 @@
       "revHash": "3d06a1b6dc"
     }
   },
+  "advanced-rest-client": {
+    "faintColorOnWhite": "rgba(6, 109, 192, 0.1)",
+    "goodColorOnBlack": "#7AC2FB",
+    "goodColorOnWhite": "#066DC0",
+    "palette": [
+      "#f8fafc",
+      "#2393f4",
+      "#7ac2fb",
+      "#52abf4",
+      "#54b4f4"
+    ],
+    "source": {
+      "path": "apps/advanced-rest-client/advanced-rest-client-icon.png",
+      "revHash": "9abec9a51f"
+    }
+  },
   "aipo-com": {
     "faintColorOnWhite": "rgba(168, 104, 2, 0.1)",
     "goodColorOnBlack": "#FC9D07",
@@ -192,19 +208,19 @@
     }
   },
   "alva": {
-    "faintColorOnWhite": "rgba(31, 116, 194, 0.1)",
-    "goodColorOnBlack": "#3990DF",
-    "goodColorOnWhite": "#1F74C2",
+    "faintColorOnWhite": "rgba(165, 5, 139, 0.1)",
+    "goodColorOnBlack": "#F484B4",
+    "goodColorOnWhite": "#A5058B",
     "palette": [
-      "#3990df",
-      "#f1f6fb",
-      "#69ace4",
-      "#c4dcf4",
-      "#74ace6"
+      "#a5058b",
+      "#fbfbfb",
+      "#f484b4",
+      "#b48cec",
+      "#dca5dc"
     ],
     "source": {
       "path": "apps/alva/alva-icon.png",
-      "revHash": "d7a7d17aef"
+      "revHash": "272e4c08db"
     }
   },
   "amanote": {

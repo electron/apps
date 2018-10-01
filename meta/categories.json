@@ -6,7 +6,7 @@
   },
   {
     "name": "Developer Tools",
-    "count": 129,
+    "count": 130,
     "slug": "developer-tools"
   },
   {
@@ -15,14 +15,14 @@
     "slug": "utilities"
   },
   {
-    "name": "Social Networking",
-    "count": 40,
-    "slug": "social-networking"
-  },
-  {
     "name": "Music",
     "count": 40,
     "slug": "music"
+  },
+  {
+    "name": "Social Networking",
+    "count": 40,
+    "slug": "social-networking"
   },
   {
     "name": "Photo & Video",
