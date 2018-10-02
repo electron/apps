@@ -142,18 +142,14 @@ describe('human-submitted app data', () => {
           expect(dimensions.width).to.equal(dimensions.height)
         })
 
-        it('is at least 256px x 256px (or 128px x 128px for grandfathered apps)', function () {
+        const minPixels = (grandfatheredSlugs.indexOf(slug) > -1) ? 128 : 256
+        const maxPixels = 1024
+
+        it(`is between ${minPixels}px x ${minPixels}px and ${maxPixels}px x ${maxPixels}px`, function () {
           if (!fs.existsSync(iconPath)) return this.skip()
           const dimensions = imageSize(iconPath)
-          const min = (grandfatheredSlugs.indexOf(slug) > -1) ? 128 : 256
-          expect(dimensions.width).to.be.at.least(min)
-        })
-
-        it('is not more than 1024px x 1024px', function () {
-          if (!fs.existsSync(iconPath)) return this.skip()
-
-          const dimensions = imageSize(iconPath)
-          expect(dimensions.width).to.be.below(1025)
+          expect(dimensions.width).to.be.within(minPixels, maxPixels)
+          expect(dimensions.height).to.be.within(minPixels, maxPixels)
         })
       })
     })
