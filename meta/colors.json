@@ -5903,6 +5903,22 @@
       "revHash": "c8ec5fb3d4"
     }
   },
+  "overlay": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#04FCFC",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#040404",
+      "#04fcfc",
+      "#fb0404",
+      "#0cdcdc",
+      "#c08480"
+    ],
+    "source": {
+      "path": "apps/overlay/overlay-icon.png",
+      "revHash": "d7bc2be9c9"
+    }
+  },
   "oversetter": {
     "faintColorOnWhite": "rgba(61, 61, 61, 0.1)",
     "goodColorOnBlack": "#A47C44",
