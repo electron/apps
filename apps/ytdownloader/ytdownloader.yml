@@ -13,3 +13,5 @@ keywords:
 screenshots:
   -
     imageUrl: 'https://raw.githubusercontent.com/myazarc/ytdownloader/master/build/images/YT.Downloader.png'
+locales:
+  - en-US
