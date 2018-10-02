@@ -6447,6 +6447,22 @@
       "revHash": "b2c7037044"
     }
   },
+  "playork": {
+    "faintColorOnWhite": "rgba(34, 127, 31, 0.1)",
+    "goodColorOnBlack": "#0CFB04",
+    "goodColorOnWhite": "#227F1F",
+    "palette": [
+      "#333433",
+      "#0cfb04",
+      "#19ac15",
+      "#227f1f",
+      "#2b5c28"
+    ],
+    "source": {
+      "path": "apps/playork/playork-icon.png",
+      "revHash": "19831156c2"
+    }
+  },
   "poddycast-app": {
     "faintColorOnWhite": "rgba(3, 124, 176, 0.1)",
     "goodColorOnBlack": "#15B6FB",
@@ -7757,6 +7773,22 @@
     "source": {
       "path": "apps/skrifa/skrifa-icon.png",
       "revHash": "32592e0bf7"
+    }
+  },
+  "skutti": {
+    "faintColorOnWhite": "rgba(194, 31, 104, 0.1)",
+    "goodColorOnBlack": "#F69348",
+    "goodColorOnWhite": "#C21F68",
+    "palette": [
+      "#f69348",
+      "#169f94",
+      "#c21f68",
+      "#f8f5f5",
+      "#744c94"
+    ],
+    "source": {
+      "path": "apps/skutti/skutti-icon.png",
+      "revHash": "9cb55384dd"
     }
   },
   "skype": {
