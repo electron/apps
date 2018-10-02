@@ -15,7 +15,9 @@ const expect = chai.expect
 const Colors = require('../lib/colors.js')
 
 describe('colors', function () {
+  let infos
   let errors
+  let consoleInfo
   let consoleError
   let testDir
   const slugsAndIconPaths = []
@@ -43,10 +45,15 @@ describe('colors', function () {
     errors = []
     consoleError = console.error
     console.error = (...args) => errors.push(args)
+
+    infos = []
+    consoleInfo = console.info
+    console.info = (...args) => infos.push(args)
   })
 
   afterEach(() => {
     console.error = consoleError
+    console.infos = consoleInfo
   })
 
   it('should create entries with the expected properties', async () => {
@@ -72,6 +79,7 @@ describe('colors', function () {
     // newColors should be a superset of oldColors
     newColors.should.deep.contain(oldColors)
     oldColors.should.not.deep.contain(newColors)
+    expect(infos).to.have.lengthOf(2)
   })
 
   it('should remove an entry when an app is removed', async () => {
@@ -80,12 +88,14 @@ describe('colors', function () {
     // newColors should be a subset of oldColors
     newColors.should.not.deep.contain(oldColors)
     oldColors.should.deep.contain(newColors)
+    expect(infos).to.have.lengthOf(2)
   })
 
   it('should create reproducible output', async () => {
     const a = await Colors.getColors(slugsAndIconPaths, {}, testDir)
     const b = await Colors.getColors(slugsAndIconPaths, {}, testDir)
     a.should.deep.equal(b)
+    expect(infos).to.have.lengthOf(4)
   })
 
   it('should skip entries whose icons are unreadable', async() => {
@@ -108,6 +118,8 @@ describe('colors', function () {
       .and
       .to.satisfy(errors => JSON.stringify(errors).includes(badEntry.iconPath))
 
+    expect(infos).to.have.lengthOf(1)
+
     // cleanup
     fs.chmodSync(badEntry.iconPath, oldMode)
   })
@@ -129,6 +141,8 @@ describe('colors', function () {
       .to.have.lengthOf(1)
       .and
       .to.satisfy(errors => JSON.stringify(errors).includes(badEntry.iconPath))
+
+    expect(infos).to.have.lengthOf(2)
 
     // cleanup
     fs.unlinkSync(badEntry.iconPath)
@@ -154,5 +168,7 @@ describe('colors', function () {
       .property('source')
       .property('revHash')
       .should.not.equal(oldColors[changedEntry.slug].source.revHash)
+
+    expect(infos).to.have.lengthOf(3)
   })
 })
