@@ -207,6 +207,22 @@
       "revHash": "e1045737ce"
     }
   },
+  "allow2automate": {
+    "faintColorOnWhite": "rgba(124, 92, 20, 0.1)",
+    "goodColorOnBlack": "#FBCB2B",
+    "goodColorOnWhite": "#7C5C14",
+    "palette": [
+      "#fbcb2b",
+      "#080705",
+      "#977c22",
+      "#747474",
+      "#7c5c14"
+    ],
+    "source": {
+      "path": "apps/allow2automate/allow2automate-icon.png",
+      "revHash": "90e3841777"
+    }
+  },
   "alva": {
     "faintColorOnWhite": "rgba(165, 5, 139, 0.1)",
     "goodColorOnBlack": "#F484B4",
@@ -10381,6 +10397,22 @@
     "source": {
       "path": "apps/youtube-to-mp3/youtube-to-mp3-icon.png",
       "revHash": "70aefea233"
+    }
+  },
+  "ytdownloader": {
+    "faintColorOnWhite": "rgba(227, 29, 21, 0.1)",
+    "goodColorOnBlack": "#F48C88",
+    "goodColorOnWhite": "#E31D15",
+    "palette": [
+      "#e42c24",
+      "#fbfafa",
+      "#f48c88",
+      "#ec726c",
+      "#f49c9c"
+    ],
+    "source": {
+      "path": "apps/ytdownloader/ytdownloader-icon.png",
+      "revHash": "03c0614d12"
     }
   },
   "z11and2": {
