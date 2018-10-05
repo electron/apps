@@ -1,0 +1,27 @@
+name: odio
+description: 'odio is a free radio streaming software with more than 20,000 radio stations radio stations from around the world for Windows, MacOs and Linux.'
+website: 'http://www.odio.io'
+category: Music
+repository: 'https://github.com/odioapp/odio'
+keywords:
+    - odio
+    - music
+    - radio
+    - free
+    - streaming
+screenshots:
+  -
+    imageUrl: 'http://odio.io/imgs/screenshots/2.png'
+    caption: 'odio - free radio streaming'
+    imageLink: 'https://www.odio.io'
+  -
+    imageUrl: 'http://odio.io/imgs/screenshots/1.png'
+    caption: 'odio - free radio streaming'
+    imageLink: 'https://www.odio.io'
+  -
+    imageUrl: 'http://odio.io/imgs/screenshots/4.png'
+    caption: 'odio - free radio streaming'
+    imageLink: 'https://www.odio.io'
+
+license: MIT
+
