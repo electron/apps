@@ -5823,6 +5823,22 @@
       "revHash": "eb2b2e7ad0"
     }
   },
+  "odio": {
+    "faintColorOnWhite": "rgba(144, 56, 83, 0.1)",
+    "goodColorOnBlack": "#E35694",
+    "goodColorOnWhite": "#903853",
+    "palette": [
+      "#e35694",
+      "#f8f7f8",
+      "#903853",
+      "#eca0c4",
+      "#ac4464"
+    ],
+    "source": {
+      "path": "apps/odio/odio-icon.png",
+      "revHash": "a8a10b5a97"
+    }
+  },
   "odrive": {
     "faintColorOnWhite": "rgba(199, 80, 5, 0.1)",
     "goodColorOnBlack": "#C75005",
