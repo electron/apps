@@ -1727,6 +1727,22 @@
       "revHash": "1f02065679"
     }
   },
+  "darkj": {
+    "faintColorOnWhite": "rgba(34, 42, 55, 0.1)",
+    "goodColorOnBlack": "#747C84",
+    "goodColorOnWhite": "#222A37",
+    "palette": [
+      "#f2f3f3",
+      "#222a37",
+      "#747c84",
+      "#74747c",
+      "#5c646c"
+    ],
+    "source": {
+      "path": "apps/darkj/darkj-icon.png",
+      "revHash": "28c96ad04e"
+    }
+  },
   "dat": {
     "faintColorOnWhite": "rgba(22, 134, 36, 0.1)",
     "goodColorOnBlack": "#189528",
