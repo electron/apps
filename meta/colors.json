@@ -8271,6 +8271,22 @@
       "revHash": "f517df034e"
     }
   },
+  "station": {
+    "faintColorOnWhite": "rgba(45, 45, 45, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#2D2D2D",
+    "palette": [
+      "#fbfbfb",
+      "#2d2d2d",
+      "#949494",
+      "#a4a4a4",
+      "#b2b2b2"
+    ],
+    "source": {
+      "path": "apps/station/station-icon.png",
+      "revHash": "3e630ff55e"
+    }
+  },
   "steelseries-engine-3": {
     "faintColorOnWhite": "rgba(69, 69, 69, 0.1)",
     "goodColorOnBlack": "#E9E9E9",
