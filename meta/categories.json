@@ -1,48 +1,63 @@
 [
   {
     "name": "Productivity",
-    "count": 137,
+    "count": 190,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 87,
+    "count": 131,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 55,
+    "count": 107,
     "slug": "utilities"
   },
   {
-    "name": "Photo & Video",
-    "count": 30,
-    "slug": "photo-video"
-  },
-  {
-    "name": "Social Networking",
-    "count": 30,
-    "slug": "social-networking"
-  },
-  {
     "name": "Music",
-    "count": 27,
+    "count": 41,
     "slug": "music"
   },
   {
+    "name": "Social Networking",
+    "count": 41,
+    "slug": "social-networking"
+  },
+  {
+    "name": "Photo & Video",
+    "count": 38,
+    "slug": "photo-video"
+  },
+  {
     "name": "Games",
-    "count": 19,
+    "count": 29,
     "slug": "games"
   },
   {
     "name": "Finance",
-    "count": 10,
+    "count": 21,
     "slug": "finance"
   },
   {
     "name": "Business",
-    "count": 8,
+    "count": 20,
     "slug": "business"
+  },
+  {
+    "name": "Education",
+    "count": 15,
+    "slug": "education"
+  },
+  {
+    "name": "Graphics & Design",
+    "count": 11,
+    "slug": "graphics-design"
+  },
+  {
+    "name": "Entertainment",
+    "count": 6,
+    "slug": "entertainment"
   },
   {
     "name": "Books",
@@ -50,24 +65,14 @@
     "slug": "books"
   },
   {
-    "name": "Graphics & Design",
-    "count": 5,
-    "slug": "graphics-design"
-  },
-  {
-    "name": "Education",
+    "name": "Lifestyle",
     "count": 4,
-    "slug": "education"
+    "slug": "lifestyle"
   },
   {
     "name": "News",
-    "count": 3,
+    "count": 4,
     "slug": "news"
-  },
-  {
-    "name": "Entertainment",
-    "count": 2,
-    "slug": "entertainment"
   },
   {
     "name": "Travel",

@@ -1,0 +1,18 @@
+name: XMind ZEN
+description: 'A whole new amazing mind mapping tool.'
+website: 'https://www.xmind.net/zen/'
+keywords:
+    - mind map
+    - mind mapping
+    - brainstorming
+category: Productivity
+locales:
+    - de
+    - en-US
+    - fr
+    - ja
+    - zh-CN
+    - zh-TW
+screenshots:
+    -
+        imageUrl: https://s3.amazonaws.com/xmind-assets/assets/img/screenshot-xmind-zen-for-electron.png

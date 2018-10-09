@@ -1,0 +1,24 @@
+name: 'Time Zone Converter and World Clock'
+description: 'Calculate exact time anywhere in the world across time zones. Available as macOS app, Windows app, iOS app, Android app, Web app.'
+website: 'https://timezoneconverterapp.com/'
+category: Productivity
+keywords:
+    - time
+    - zone
+    - converter
+    - world
+    - clock
+    - calc
+    - gmt
+    - utc
+    - travel
+    - business
+    - planner
+    - calculator
+    - call
+    - meeting
+    - date
+screenshots:
+    -
+        imageUrl: 'https://timezoneconverterapp.com/assets/img/screenshot.png'
+        caption: 'Calculate Exact Time in Any Time Zone'

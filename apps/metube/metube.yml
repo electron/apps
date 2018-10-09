@@ -1,0 +1,14 @@
+name: MeTube
+description: 'listen to music from YouTube'
+website: 'https://github.com/kimyearho/MeTube'
+category: Music
+repository: 'https://github.com/kimyearho/MeTube'
+keywords:
+    - Youtube
+    - Music
+    - Audio
+    - Video
+    - Electron
+    - Desktop
+    - Music-Player
+    - Audio-Player

@@ -1,0 +1,20 @@
+name: Stack
+description: 'Tweetdeck for all your social apps'
+website: 'https://stackapp.download/'
+category: 'Social Networking'
+keywords:
+    - mac
+    - facebook
+    - twitter
+    - instagram
+    - social
+    - tweetdeck
+screenshots:
+  -
+    imageUrl: 'https://ph-files.imgix.net/0dc5a357-908c-4459-8185-37ad87a70972?auto=format&auto=compress&codec=mozjpeg&cs=strip'
+    caption: 'Stack'
+    imageLink: 'https://stackapp.download/'
+  -
+    imageUrl: 'https://ph-files.imgix.net/a799f76a-8c14-40bf-950b-9df3c8bc8494?auto=format&auto=compress&codec=mozjpeg&cs=strip'
+    caption: 'Stack'
+    imageLink: 'https://stackapp.download/'

@@ -1,0 +1,15 @@
+name: email-securely-app
+description: 'Unofficial desktop client for ProtonMail and Tutanota end-to-end encrypted email providers'
+website: 'https://github.com/vladimiry/email-securely-app'
+license: MIT
+category: Productivity
+keywords:
+- office
+- email
+- encryption
+- notification
+- tutanota
+- protonmail
+- typescript
+screenshots:
+- imageUrl: 'https://user-images.githubusercontent.com/1560781/43053165-d2e46be0-8e33-11e8-8b93-07d22d5f1677.gif'

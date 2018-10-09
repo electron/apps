@@ -1,0 +1,10 @@
+name: 'budgie'
+description: 'Your personal budget planner.'
+website: 'https://budgie.lierrmm.space'
+repository: 'https://github.com/ImNotLiam/budgie'
+keywords:
+    - Finance
+    - Budget
+    - Planner
+category: 'Finance'
+license: 'MIT license' 

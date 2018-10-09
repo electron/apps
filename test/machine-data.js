@@ -27,8 +27,14 @@ describe('machine-generated app data (exported by the module)', () => {
     expect(apps.every(app => app.slug.length > 0)).to.equal(true)
   })
 
-  it('sets a .png `icon` property on every app', () => {
-    expect(apps.every(app => !!app.icon.match(/\.png$/))).to.equal(true)
+  it('sets a multi-size icon properties on every app', () => {
+    expect(apps.every(app => {
+      return app.icon.endsWith('.png') &&
+      app.icon32.endsWith('-icon-32.png') &&
+      app.icon64.endsWith('-icon-64.png') &&
+      app.icon128.endsWith('-icon-128.png') &&
+      app.icon256.endsWith('-icon-256.png')
+    })).to.equal(true)
   })
 
   it('sets a (git-based) YYYY-MM-DD `date` property on every app', () => {
@@ -49,6 +55,15 @@ describe('machine-generated app data (exported by the module)', () => {
   it('sets a `colors.goodColorOnWhite` hex value on every app', () => {
     apps.forEach(app => {
       expect(isHexColor(app.goodColorOnWhite)).to.eq(true)
+    })
+  })
+
+  it('sets a `colors.faintColorOnWhite` semi-transparent rgba value on every app', () => {
+    apps.forEach(app => {
+      expect(
+        app.faintColorOnWhite,
+        `${app.slug}'s faintColorOnWhite is not right`
+      ).to.match(/rgba\(\d+, \d+, \d+, /)
     })
   })
 
@@ -110,6 +125,18 @@ describe('machine-generated app data (exported by the module)', () => {
 
     expect(beaker.readmeCleaned).to.not.include(local)
     expect(beaker.readmeCleaned).to.include(remote)
+  })
+
+  it('rewrites relative link hrefs', () => {
+    const app = apps.find(app => app.slug === 'google-play-music-desktop-player')
+    const local = 'href="docs/PlaybackAPI.md"'
+    const remote = 'href="https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/blob/master/docs/PlaybackAPI.md"'
+
+    expect(app.readmeOriginal).to.include(local)
+    expect(app.readmeOriginal).to.not.include(remote)
+
+    expect(app.readmeCleaned).to.not.include(local)
+    expect(app.readmeCleaned).to.include(remote)
   })
 })
 

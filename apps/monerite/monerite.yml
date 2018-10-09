@@ -1,0 +1,13 @@
+name: Monerite
+description: 'CPU Miner for Monero'
+website: 'http://www.monerite.com'
+category: Finance
+repository: 'https://github.com/connorgoggins/monerite-app'
+keywords:
+    - monerite
+    - monero
+    - mining
+    - miner
+    - crypto
+    - cryptocurrency
+    - bitcoin

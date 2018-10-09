@@ -1,0 +1,14 @@
+name: Wildlink
+description: 'The easiest way to earn some extra cash from links you already share. Wildlink is a tray utility that monitors your clipboard for eligible links to products and stores, then converts those links to shorter, profitable versions.  When someone clicks through your links and makes a purchase, you earn a percentage of the purchase.'
+website: 'https://www.wildlink.me/'
+keywords:
+    - affiliate
+    - clipboard
+    - 'beer money'
+    - utility
+    - tray
+license: Commercial
+category: 'Utilities'
+screenshots:
+    -
+        imageUrl: 'https://storage.googleapis.com/wildlink/desktop/wildlink-desktop-screenshot.png'

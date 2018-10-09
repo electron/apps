@@ -1,0 +1,26 @@
+name: ProtegoPDF
+description: 'A simple application to password-protect your PDF Documents'
+website: 'https://bbalvanera.github.io/protego-pdf/'
+category: Productivity
+repository: 'https://github.com/bbalvanera/protego-pdf'
+keywords:
+    - pdf
+    - protect
+license: 'AGPL 3.0 or later'
+screenshots:
+  -
+    imageUrl: 'https://i.imgur.com/Ce0G0Mg.png'
+    caption: 'ProtegoPDF'
+    imageLink: 'https://bbalvanera.github.io/protego-pdf/'
+  -
+    imageUrl: 'https://i.imgur.com/kqj9yMH.png'
+    caption: 'Drag & Drop'
+    imageLink: 'https://bbalvanera.github.io/protego-pdf/'
+  -
+    imageUrl: 'https://i.imgur.com/0Wvryp8.png'
+    caption: 'Set password'
+    imageLink: 'https://bbalvanera.github.io/protego-pdf/'
+  -
+    imageUrl: 'https://i.imgur.com/DeK8XP2.png'
+    caption: 'Protect!'
+    imageLink: 'https://bbalvanera.github.io/protego-pdf/'

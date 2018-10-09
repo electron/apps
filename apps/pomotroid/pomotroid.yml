@@ -1,0 +1,16 @@
+name: Pomotroid
+description: 'Simple and visually-pleasing Pomodoro timer.'
+website: 'https://splode.github.io/pomotroid/'
+category: Productivity
+repository: 'https://github.com/Splode/pomotroid'
+keywords:
+    - pomodoro
+    - productivity
+    - timer
+    - vuejs
+license: MIT
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Splode/pomotroid/master/.github/images/pomotroid-title.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Splode/pomotroid/master/.github/images/pomotroid-screens.png'

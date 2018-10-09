@@ -1,0 +1,9 @@
+name: Standup Picker
+description: 'A desktop application which can be used in Scrum teams to initiate the daily Scrum meeting.'
+website: 'https://mokkapps.de'
+repository: 'https://github.com/Mokkapps/scrum-daily-standup-picker'
+keywords:
+    - Scrum
+    - Standup
+    - Picker
+category: 'Utilities'

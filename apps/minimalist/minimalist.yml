@@ -1,0 +1,11 @@
+name: minimalist 
+description: 'Bring only what you need.'
+website: 'https://github.com/wurde/minimalist'
+category: 'Lifestyle'
+repository: 'https://github.com/wurde/minimalist.git'
+keywords:
+  - possessions
+  - inventory
+  - stuff
+  - list
+license: MIT

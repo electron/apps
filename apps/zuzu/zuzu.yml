@@ -1,0 +1,13 @@
+name: zuzu
+description: 'Zawgyi <=> Unicode Converter that lives in your menu bar.'
+website: 'https://github.com/AungMyoKyaw/zuzu-menubar-app'
+category: Utilities
+repository: 'https://github.com/AungMyoKyaw/zuzu-menubar-app'
+keywords:
+    - 'myanmar zawgyi to unicode converter'
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/AungMyoKyaw/zuzu-menubar-app/master/assets/zuzu.gif'
+    caption: 'ZUZU'
+    imageLink: 'https://electronjs.org/apps/zuzu'
+license: MIT

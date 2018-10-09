@@ -2,7 +2,7 @@ name: 'Visual Studio Code'
 description: 'Open source code editor developed by Microsoft'
 website: 'https://code.visualstudio.com'
 homebrewCaskName: visual-studio-code
-license: MIT
+license: MIT / Proprietary
 keywords:
     - code
 category: 'Developer Tools'

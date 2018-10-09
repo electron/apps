@@ -1,0 +1,14 @@
+name: Transee
+description: 'Simple and useful tool for quick translation'
+website: 'https://alessioforte.github.io/transee/'
+repository: 'https://github.com/alessioforte/transee'
+keywords:
+    - translator
+    - 'google translate'
+    - language
+license: MIT
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://alessioforte.github.io/transee/assets/screenshot.png'
+        caption: 'Transee on macOS'

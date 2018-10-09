@@ -1,0 +1,20 @@
+name: 'Checksum Validator'
+description: 'Generate and validate checksums with ease.'
+website: 'https://github.com/alexanderwe/checksum-validator'
+category: Productivity
+repository: 'https://github.com/alexanderwe/checksum-validator'
+keywords:
+    - checksum
+    - productivity
+    - integrity
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://github.com/alexanderwe/checksum-validator/blob/master/.github/img/img3.png'
+    caption: 'Validate Checksums'
+  -
+    imageUrl: 'https://github.com/alexanderwe/checksum-validator/blob/master/.github/img/img4.png'
+    caption: 'Configure for your use'
+locales:
+  - de
+  - en

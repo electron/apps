@@ -1,6 +1,7 @@
 name: Missive
 description: 'The one app for team email and chat.'
 website: 'https://missiveapp.com'
+homebrewCaskName: missive
 keywords:
     - team
     - shared

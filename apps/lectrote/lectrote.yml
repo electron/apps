@@ -1,0 +1,11 @@
+name: Lectrote
+description: 'player for interactive fiction, or text adventure games.'
+website: 'https://github.com/erkyrath/lectrote'
+category: Games
+repository: 'https://github.com/erkyrath/lectrote'
+keywords:
+    - 'interactive fiction'
+    - books
+    - games
+    - RPG
+license: 'MIT license'

@@ -1,0 +1,21 @@
+name: 'One Left'
+description: 'Classic board game.'
+website: 'https://github.com/drscaon/electron-react-one-left-game'
+repository: 'https://github.com/drscaon/electron-react-one-left-game'
+category: Games
+keywords:
+    - "left"
+    - "game"
+    - "one"
+license: MIT
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/drscaon/electron-react-one-left-game/master/resources/one_left_screenshot.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/drscaon/electron-react-one-left-game/master/resources/one_left_screenshot_2.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/drscaon/electron-react-one-left-game/master/resources/one_left_screenshot_3.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/drscaon/electron-react-one-left-game/master/resources/one_left_screenshot_4.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/drscaon/electron-react-one-left-game/master/resources/one_left_screenshot_5.png'

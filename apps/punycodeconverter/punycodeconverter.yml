@@ -1,0 +1,11 @@
+name: 'Punycode Converter'
+description: 'Convert non-ascii to Punycode and vice versa..'
+website: 'https://github.com/ImNotLiam/punycodeconverter'
+repository: 'https://github.com/ImNotLiam/punycodeconverter'
+keywords:
+    - creativity
+    - desktop
+    - punycode
+    - emojis
+    - domains
+category: 'Utilities'

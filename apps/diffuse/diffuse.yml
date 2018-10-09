@@ -1,0 +1,18 @@
+name: Diffuse
+description: 'A music player which connects to your cloud/distributed storage'
+website: 'https://github.com/icidasset/diffuse'
+category: Music
+repository: 'https://github.com/icidasset/diffuse'
+keywords:
+    - music
+    - cloud
+    - s3
+    - distributed
+    - dropbox
+    - google
+    - azure
+    - remotestorage
+screenshots:
+  -
+    imageUrl: 'https://icidasset-public.s3.amazonaws.com/diffuse.jpg'
+license: MIT

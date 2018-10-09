@@ -1,0 +1,22 @@
+name: 'i18n Manager'
+description: 'The app that will help to manage your app translations.'
+website: 'https://github.com/gilmarsquinelato/i18n-manager'
+category: 'Developer Tools'
+repository: 'https://github.com/gilmarsquinelato/i18n-manager'
+keywords:
+    - i18n
+    - translation
+    - internationalization
+    - locales
+    - 'Google Translate'
+    - translation tool
+license: MIT
+locales:
+    - en-US
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/gilmarsquinelato/i18n-manager/master/picture1.jpg'
+        caption: 'Translation changes detection'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/gilmarsquinelato/i18n-manager/master/picture2.jpg'
+        caption: 'Translation missing detection'

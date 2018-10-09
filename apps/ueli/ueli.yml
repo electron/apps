@@ -1,0 +1,10 @@
+name: ueli
+description: 'This is a keystroke launcher for Windows and macOS.'
+website: 'https://github.com/oliverschwendener/ueli'
+repository: 'https://github.com/oliverschwendener/ueli'
+keywords:
+    - keystroke
+    - launcher
+    - search
+license: MIT
+category: Utilities

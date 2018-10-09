@@ -1,18 +1,30 @@
 name: ColorPicker
-description: 'Show colors with hex/rgb codes and generate shades'
-website: 'https://crea-th.at/p/colorpicker/'
+description: 'A mininal but complete colorpicker desktop app'
+website: 'https://colorpicker.crea-th.at'
 repository: 'https://github.com/Toinane/colorpicker'
 keywords:
     - colors
     - code
     - shading
     - picker
-license: MIT
+    - hexadecimal
+    - rgb
+    - storage
+license: GPL-3.0
 category: 'Graphics & Design'
 screenshots:
     -
-        imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/screenshots/screen1.png'
-        caption: 'Main interface'
+        imageUrl: 'https://github.com/Toinane/colorpicker-website/blob/master/gifs/colorpicker.gif?raw=true'
+        caption: 'Main Interface'
     -
-        imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/screenshots/screen2.png'
-        caption: 'Shading menu'
+        imageUrl: 'https://github.com/Toinane/colorpicker-website/blob/master/gifs/picker.gif?raw=true'
+        caption: 'Picker Feature'
+    -
+        imageUrl: 'https://github.com/Toinane/colorpicker-website/blob/master/gifs/shades.gif?raw=true'
+        caption: 'Shading Feature'
+    -
+        imageUrl: 'https://github.com/Toinane/colorpicker-website/blob/master/gifs/colorsbook.gif?raw=true'
+        caption: 'Colorsbook System Storage'
+goodColorOnWhite: '#1678AD'
+goodColorOnBlack: '#1A8AC7'
+faintColorOnWhite: 'rgba(26, 138, 174, 0.1)'

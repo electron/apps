@@ -1,0 +1,13 @@
+name: 'eSteem Surfer'
+description: 'eSteem desktop application reimagined for Windows, Mac, Linux users, start earning cryptocurrency!'
+website: 'https://esteem.app'
+repository: 'https://github.com/eSteemApp/esteem-surfer'
+keywords:
+    - 'steem'
+    - 'cryptocurrency'
+    - 'blockchain'
+license: MIT
+category: 'Finance'
+screenshots:
+    -
+        imageUrl: 'https://camo.githubusercontent.com/595741d101b0e267c1f46967ae7a6406d8c9f8be/68747470733a2f2f737465656d6974696d616765732e636f6d2f44516d64765635477268394c4a69526b313162435454483178437170377177474b635155424a584a56526453624e732f6769745f70726f66696c655f707265766965772e706e67'

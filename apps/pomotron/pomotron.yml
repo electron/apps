@@ -1,0 +1,8 @@
+name: Pomotron
+description: 'Pomodoro Timer in the App Tray.'
+website: 'https://mattbudde.github.io/pomotron-website/'
+category: Productivity
+repository: 'https://github.com/mattbudde/pomotron'
+keywords:
+    - "Pomodoro"
+    - "Timer"

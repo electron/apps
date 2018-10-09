@@ -1,0 +1,12 @@
+name: PhreshPlayer
+description: 'Media player.'
+website: 'http://phresh-it.hu/apps/phreshplayer/'
+license: MIT
+keywords:
+    - audio
+    - video
+    - media
+    - phresh
+    - player
+category: 'Photo & Video'
+repository: 'https://github.com/Phreshhh/PhreshPlayer'

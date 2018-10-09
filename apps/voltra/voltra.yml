@@ -1,14 +1,17 @@
 name: Voltra
-description: 'Digital Music Player and Store'
+description: 'A modern, hi-def, distraction-free music player'
 website: 'https://voltra.co'
 keywords:
     - music
     - audio
     - player
     - library
-    - store
-    - collection
-    - songs
-    - albums
-    - artists
+    - playlist
+    - tracks
+    - lossless
+    - flac
+    - mp3
 category: Music
+screenshots:
+    -
+        imageUrl: 'https://voltra.co/images/desktop-preview-dark.png'

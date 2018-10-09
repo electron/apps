@@ -1,0 +1,22 @@
+name: Moonitor
+description: 'elegant cryptocurrencies tracker with exchanges API key support'
+website: 'https://moonitor.io'
+category: Finance
+homebrewCaskName: moonitor
+keywords:
+    - bitcoin
+    - ethereum
+    - litecoin
+    - altcoins
+    - cryptocurrency
+    - 'crypto tracker'
+screenshots:
+  -
+    imageUrl: 'https://i.imgur.com/DWSiEEt.png'
+    caption: 'main window'
+  -
+    imageUrl: 'https://i.imgur.com/zouQj1U.png'
+    caption: 'coins management'
+  -
+    imageUrl: 'https://i.imgur.com/QMBE8z0.png'
+    caption: 'coins management'

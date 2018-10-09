@@ -1,0 +1,12 @@
+name: 'Container PS'
+description: 'This little app help you to manage your Docker containers'
+website: 'https://github.com/Toinane/container-ps'
+repository: 'https://github.com/Toinane/container-ps'
+keywords:
+    - docker
+    - containers
+    - ps
+    - list
+    - management
+license: MIT
+category: 'Developer Tools'

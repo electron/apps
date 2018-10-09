@@ -1,0 +1,11 @@
+name: e-tools
+description: 'A toolbox for developers. Color picker, code formatter, and more.'
+website: 'https://github.com/Suremotoo/e-tools'
+category: 'Developer Tools'
+repository: 'https://github.com/Suremotoo/e-tools'
+keywords:
+    - offline
+    - format
+    - cryption
+    - tools
+license: MIT

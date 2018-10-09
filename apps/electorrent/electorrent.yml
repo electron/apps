@@ -1,6 +1,7 @@
 name: Electorrent
 description: 'An Electron remote client app for uTorrent server'
 website: 'https://github.com/Tympanix/Electorrent'
+homebrewCaskName: electorrent
 repository: 'https://github.com/Tympanix/Electorrent'
 keywords:
     - utorrent

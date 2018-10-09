@@ -1,0 +1,17 @@
+name: WriteBar
+description: 'Distraction-free text editor, that displays focus text line right over the keyboard (on the Macbook Pro TouchBar).'
+website: 'https://writebar.js.org'
+repository: 'https://github.com/alexander-shvets/writebar'
+screenshots:
+    -
+        imageUrl: 'https://writebar.js.org/assets/screenshot.jpg'
+keywords:
+    - macbook-pro
+    - touchbar
+    - distraction-free
+    - text-editor
+    - quill
+    - macos
+    - text
+    - editor
+category: Productivity

@@ -1,0 +1,23 @@
+name: 'Streamlabs OBS'
+description: 'Simple, powerful, and efficient live streaming software.'
+website: 'https://streamlabs.com/streamlabs-obs'
+category: 'Photo & Video'
+repository: 'https://github.com/stream-labs/streamlabs-obs'
+keywords:
+    - livestreaming
+    - streaming
+    - streamlabs
+license: GPLv3
+goodColorOnWhite: '#17242D'
+goodColorOnBlack: '#32C3A2'
+faintColorOnWhite: 'rgba(50, 195, 162, .1)'
+screenshots:
+    -
+      imageUrl: 'https://cdn.streamlabs.com/slobs/slobs-recent-events.png'
+      caption: 'Live Tab'
+    -
+      imageUrl: 'https://cdn.streamlabs.com/slobs/slobs-chatbox.png'
+      caption: 'Editor Tab'
+    -
+      imageUrl: 'https://cdn.streamlabs.com/slobs/slobs-library.png'
+      caption: 'Overlay Library'

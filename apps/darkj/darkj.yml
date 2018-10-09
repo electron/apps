@@ -1,0 +1,29 @@
+name: DarkJ
+description: 'A fluid, dark themed native desktop UI for JIRA.'
+website: 'https://github.com/Yamazaki93/DarkJ-Release'
+category: Productivity
+keywords:
+    - jira
+    - angular
+    - dark-theme
+screenshots:
+  -
+    imageUrl: 'https://github.com/Yamazaki93/DarkJ-Release/raw/master/darkj-1.PNG'
+    caption: 'Dark themed JIRA UI'
+    imageLink: 'https://github.com/Yamazaki93/DarkJ-Release'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/DarkJ-Release/raw/master/darkj-2.PNG'
+    caption: 'Collapsed side bar for more viewing space for big issues'
+    imageLink: 'https://github.com/Yamazaki93/DarkJ-Release'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/DarkJ-Release/raw/master/darkj-3.PNG'
+    caption: 'Simple issue creation window'
+    imageLink: 'https://github.com/Yamazaki93/DarkJ-Release'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/DarkJ-Release/raw/master/darkj-4.PNG'
+    caption: 'Text based search page'
+    imageLink: 'https://github.com/Yamazaki93/DarkJ-Release'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/DarkJ-Release/raw/master/darkj-5.PNG'
+    caption: 'Quick filter issue list'
+    imageLink: 'https://github.com/Yamazaki93/DarkJ-Release' 

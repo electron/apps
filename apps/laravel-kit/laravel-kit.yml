@@ -1,0 +1,31 @@
+name: 'Laravel Kit'
+description: 'Easy Laravel application management'
+website: 'https://github.com/tarequemdhanif/laravel-kit'
+repository: 'https://github.com/tarequemdhanif/laravel-kit'
+homebrewCaskName: laravel-kit
+license: MIT
+keywords:
+    - laravel
+    - kit
+category: 'Developer Tools'
+screenshots:
+  -
+    imageUrl: 'https://i.imgur.com/w9QRG65.png'
+  -
+    imageUrl: 'https://i.imgur.com/vnT1CyC.png'
+  -
+    imageUrl: 'https://i.imgur.com/C5gChi9.png'
+  -
+    imageUrl: 'https://i.imgur.com/kOJZBFI.png'
+  -
+    imageUrl: 'https://i.imgur.com/F2VsVFR.png'
+  -
+    imageUrl: 'https://i.imgur.com/Us0YBb2.png'
+  -
+    imageUrl: 'https://i.imgur.com/pwbXui7.png'
+  -
+    imageUrl: 'https://i.imgur.com/nNfGSku.png'
+  -
+    imageUrl: 'https://i.imgur.com/tIGD8EI.png'
+  -
+    imageUrl: 'https://i.imgur.com/0CNIpZM.png'

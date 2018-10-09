@@ -1,0 +1,16 @@
+name: InfiniTex
+description: 'LaTeX and WYSIWYG editor with productivity hacks.'
+website: 'https://github.com/fetacore/Infinitex'
+category: Productivity
+repository: 'https://github.com/fetacore/Infinitex'
+keywords:
+    - react
+    - latex
+    - material-ui
+    - electron
+    - uglifyjs
+    - libgen
+license: GPL-3.0
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/fetacore/Infinitex/master/infinitex.gif'

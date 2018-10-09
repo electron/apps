@@ -1,0 +1,9 @@
+name: PaperCubes
+description: 'An App which converts your minecraft .schematic files into blueprints for papercraft'
+website: 'https://github.com/FlorianFe/PaperCubes'
+category: Games
+repository: 'https://github.com/FlorianFe/PaperCubes'
+keywords:
+    - minecraft
+    - printing
+    - papercraft

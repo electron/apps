@@ -1,0 +1,15 @@
+name: 'VII'
+description: 'It allows you to download high quality video and audio over Youtube. The video or audio you want to download will be downloaded at the highest quality it supports.'
+repository: 'https://github.com/ardagedikk/VII'
+keywords:
+    - youtube
+    - converter
+    - download
+    - high quality
+    - video
+    - audio
+license: MIT
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/ardagedikk/VII/master/media/Screenshot_1.jpg'

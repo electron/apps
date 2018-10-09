@@ -1,0 +1,13 @@
+name: 'YouTube To MP3'
+description: 'Convert and download YouTube videos as MP3s.'
+website: 'https://github.com/leerob/youtube-to-mp3'
+repository: 'https://github.com/leerob/youtube-to-mp3'
+keywords:
+    - YouTube
+    - MP3
+    - Convert
+license: MIT
+category: 'Photo & Video'
+screenshots:
+    -
+        imageUrl: 'https://i.imgur.com/kvxMMwp.gif'

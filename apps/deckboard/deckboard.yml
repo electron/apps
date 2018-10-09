@@ -1,0 +1,14 @@
+name: Deckboard
+description: 'Custom shortcut for your PC on your phone.'
+website: 'https://rivafarabi.github.io/deckboard'
+repository: 'https://github.com/rivafarabi/deckboard'
+category: Productivity
+keywords:
+    - shortcut
+    - macro
+    - remote
+    - deck
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/rivafarabi/deckboard/master/01.PNG'
+
