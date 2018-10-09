@@ -1919,6 +1919,22 @@
       "revHash": "509ca52ebc"
     }
   },
+  "deer": {
+    "faintColorOnWhite": "rgba(27, 130, 82, 0.1)",
+    "goodColorOnBlack": "#24B070",
+    "goodColorOnWhite": "#1B8252",
+    "palette": [
+      "#f2f5f4",
+      "#24b070",
+      "#72c9a1",
+      "#8cd2b4",
+      "#9ec6b4"
+    ],
+    "source": {
+      "path": "apps/deer/deer-icon.png",
+      "revHash": "74936f1830"
+    }
+  },
   "demio": {
     "faintColorOnWhite": "rgba(32, 133, 103, 0.1)",
     "goodColorOnBlack": "#2BB38B",
