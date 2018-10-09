@@ -1,0 +1,16 @@
+name: Station
+description: 'Unifies all your web apps in one neat & productive interface.'
+website: 'https://getstation.com/'
+category: Productivity
+keywords:
+  - browser
+screenshots:
+  -
+    imageUrl: 'https://getstation.com/public/images/feature@2x.png'
+    caption: 'Keep your work neatly organized with the smart dock'
+  -
+    imageUrl: 'https://getstation.com/public/images/feature-2-v2@2x.png'
+    caption: 'Become a multitasking beast with quick switch'
+  -
+    imageUrl: 'https://getstation.com/public/images/feature-3@2x.png'
+    caption: 'Station has been designed as a work only, distraction-free platform'
