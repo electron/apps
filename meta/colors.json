@@ -863,6 +863,22 @@
       "revHash": "4c6cb578fa"
     }
   },
+  "cacher": {
+    "faintColorOnWhite": "rgba(4, 114, 179, 0.1)",
+    "goodColorOnBlack": "#7CCCFC",
+    "goodColorOnWhite": "#0472B3",
+    "palette": [
+      "#4fa1db",
+      "#f8fafb",
+      "#6fbdf4",
+      "#95c6ea",
+      "#7cccfc"
+    ],
+    "source": {
+      "path": "apps/cacher/cacher-icon.png",
+      "revHash": "834fd16265"
+    }
+  },
   "calcy": {
     "faintColorOnWhite": "rgba(190, 67, 57, 0.1)",
     "goodColorOnBlack": "#F47C74",
@@ -6541,6 +6557,22 @@
     "source": {
       "path": "apps/playork/playork-icon.png",
       "revHash": "19831156c2"
+    }
+  },
+  "poddr": {
+    "faintColorOnWhite": "rgba(174, 82, 38, 0.1)",
+    "goodColorOnBlack": "#FB8F07",
+    "goodColorOnWhite": "#AE5226",
+    "palette": [
+      "#fb8f07",
+      "#fcf7f5",
+      "#353433",
+      "#ae5226",
+      "#fcc484"
+    ],
+    "source": {
+      "path": "apps/poddr/poddr-icon.png",
+      "revHash": "5b135bd8a5"
     }
   },
   "poddycast-app": {
