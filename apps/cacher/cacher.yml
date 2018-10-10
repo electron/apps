@@ -1,0 +1,20 @@
+name: Cacher
+description: 'Cloud-based, team-enabled code snippet manager with Gists sync.'
+website: 'https://www.cacher.io/'
+keywords:
+    - snippets
+    - programming
+    - coding
+    - gists
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://cdn.cacher.io/app-assets/cacher-demo.gif'
+        caption: 'Cacher Demo'
+    -
+        imageUrl: 'https://cdn.cacher.io/app-assets/cacher-dark.png'
+        caption: 'Cacher Desktop Client with Monokai Theme'
+    -
+        imageUrl: 'https://cdn.cacher.io/app-assets/atom-demo.gif'
+        caption: 'Cacher for Atom'
+        imageLink: 'https://atom.io/packages/cacher'
