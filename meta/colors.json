@@ -5231,6 +5231,22 @@
       "revHash": "48a07a8c2b"
     }
   },
+  "mockman": {
+    "faintColorOnWhite": "rgba(13, 130, 130, 0.1)",
+    "goodColorOnBlack": "#3AECEC",
+    "goodColorOnWhite": "#0D8282",
+    "palette": [
+      "#25cdd7",
+      "#f9fbfb",
+      "#79dee4",
+      "#3aecec",
+      "#4adfe3"
+    ],
+    "source": {
+      "path": "apps/mockman/mockman-icon.png",
+      "revHash": "65310053aa"
+    }
+  },
   "mockoon": {
     "faintColorOnWhite": "rgba(36, 44, 52, 0.1)",
     "goodColorOnBlack": "#94949C",
@@ -7008,19 +7024,19 @@
     }
   },
   "qbox": {
-    "faintColorOnWhite": "rgba(91, 81, 252, 0.1)",
-    "goodColorOnBlack": "#8C64FC",
-    "goodColorOnWhite": "#5B51FC",
+    "faintColorOnWhite": "rgba(78, 76, 252, 0.1)",
+    "goodColorOnBlack": "#8D67FC",
+    "goodColorOnWhite": "#4E4CFC",
     "palette": [
-      "#5b51fc",
-      "#fbfbfc",
-      "#1539fc",
-      "#8c64fc",
-      "#acb3fc"
+      "#4e4cfc",
+      "#fafafc",
+      "#8d67fc",
+      "#afb5fc",
+      "#7586fc"
     ],
     "source": {
       "path": "apps/qbox/qbox-icon.png",
-      "revHash": "89cdcc8490"
+      "revHash": "344e16e912"
     }
   },
   "qmui-web": {
