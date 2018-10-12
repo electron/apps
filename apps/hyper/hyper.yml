@@ -14,4 +14,4 @@ goodColorOnBlack: '#FFF'
 category: 'Developer Tools'
 screenshots:
     -
-        imageUrl: 'https://raw.githubusercontent.com/zeit/hyper/master/website/static/hyperyellow.gif'
+        imageUrl: 'https://hyper.is/static/hyperyellow.gif'
