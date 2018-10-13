@@ -1,0 +1,34 @@
+name: MoviePrint
+description: 'With MoviePrint you can create screenshots of entire movies in an instant.'
+website: 'https://movieprint.fakob.com'
+category: 'Photo & Video'
+repository: 'https://github.com/fakob/MoviePrint_v004'
+keywords:
+    - MoviePrint
+    - screenshot
+    - movie
+    - film
+    - image
+    - 'contact sheet'
+    - 'index print'
+    - 'thumbnail view'
+license: MIT
+screenshots:
+    -
+      imageUrl: 'https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-19.00.59.jpg'
+    -
+      imageUrl: 'https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-19.01.55.jpg'
+    -
+      imageUrl: 'https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-18.56.42.jpg'
+    -
+      imageUrl: 'https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-18.55.53.jpg'
+    -
+      imageUrl: 'https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-19.00.29.jpg'
+    -
+      imageUrl: 'https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-19.04.35.jpg'
+    -
+      imageUrl: 'https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-19.05.28.jpg'
+    -
+      imageUrl: 'https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-18.57.14.jpg'
+    -
+      imageUrl: 'https://movieprint.fakob.com/wp-content/uploads/2018/09/Screen-Shot-2018-09-11-at-19.22.03.jpg'
