@@ -1215,6 +1215,22 @@
       "revHash": "2a3d8cadea"
     }
   },
+  "clipboard-manager-electron": {
+    "faintColorOnWhite": "rgba(129, 100, 129, 0.1)",
+    "goodColorOnBlack": "#F1EDF1",
+    "goodColorOnWhite": "#816481",
+    "palette": [
+      "#9c90a4",
+      "#f1edf1",
+      "#b3acbb",
+      "#c2bac7",
+      "#bcb4bc"
+    ],
+    "source": {
+      "path": "apps/clipboard-manager-electron/clipboard-manager-electron-icon.png",
+      "revHash": "1548d2585e"
+    }
+  },
   "clippo": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#FAFAFA",
