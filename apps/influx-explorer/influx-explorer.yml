@@ -22,13 +22,13 @@ screenshots:
     caption: 'Selectable time format'
   -
     imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--panel-connect.png'
-		caption: 'Saved connections list'
-	-
+    caption: 'Saved connections list'
+  -
     imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--panel-explorer.png'
-		caption: 'Explorer panel'
-	-
-		imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--panel-history.png'
-		caption: 'Query history panel'
-	-
-		imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--understand-errors.png'
-		caption: 'Detailed error messages'
+    caption: 'Explorer panel'
+  -
+    imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--panel-history.png'
+    caption: 'Query history panel'
+  -
+    imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--understand-errors.png'
+    caption: 'Detailed error messages'
