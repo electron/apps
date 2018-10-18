@@ -1,0 +1,34 @@
+name: Influx Explorer
+description: InfuxDB query editor and administrator UI
+website: https://influx-explorer.github.io
+repository: https://github.com/influx-explorer/influx-explorer
+keywords:
+  - influxdb
+  - influx
+  - admin
+  - ui
+  - webui
+license: MIT
+npmPackageName: influx-explorer
+category: Developer Tools
+goodColorOnWhite: '#000000'
+goodColorOnBlack: '#02e5ff'
+screenshots:
+  -
+    imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--browse-results.png'
+    caption: 'Influx query results easily browsable'
+  -
+    imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--time-format.png'
+    caption: 'Selectable time format'
+  -
+    imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--panel-connect.png'
+		caption: 'Saved connections list'
+	-
+    imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--panel-explorer.png'
+		caption: 'Explorer panel'
+	-
+		imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--panel-history.png'
+		caption: 'Query history panel'
+	-
+		imageUrl: 'https://influx-explorer.github.io/images-mini/influx-explorer--understand-errors.png'
+		caption: 'Detailed error messages'
