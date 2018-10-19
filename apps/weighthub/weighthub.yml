@@ -1,0 +1,34 @@
+name: WeightHub
+description: 'Easily synchronize your body weight data.'
+website: 'https://www.weemple.com/weighthub'
+category: 'Health & Fitness'
+keywords:
+    - weight
+    - sync
+    - convert
+    - scale
+    - fitbit
+    - garmin
+    - withings
+locales:
+    - en
+    - es
+    - de
+    - fr
+    - it
+screenshots:
+    -
+      imageUrl: 'https://www.weemple.com/images/weighthub/screenshot_1.png'
+      caption: '1. Select your parameters on General, Source and Target, then click Continue'
+    -
+      imageUrl: 'https://www.weemple.com/images/weighthub/screenshot_2.png'
+      caption: '2. The application analyze the data from source and target'
+    -
+      imageUrl: 'https://www.weemple.com/images/weighthub/screenshot_3.png'
+      caption: '3. Review the proposed changes, then Continue'
+    -
+      imageUrl: 'https://www.weemple.com/images/weighthub/screenshot_4.png'
+      caption: '4. Approve the synchronization'
+    -
+      imageUrl: 'https://www.weemple.com/images/weighthub/screenshot_5.png'
+      caption: '5. Finally, the application perform the changes'
