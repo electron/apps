@@ -83,5 +83,10 @@
     "name": "Medical",
     "count": 1,
     "slug": "medical"
+  },
+  {
+    "name": "Health & Fitness",
+    "count": 1,
+    "slug": "health-fitness"
   }
 ]

@@ -10015,6 +10015,22 @@
       "revHash": "3cc25e0ad1"
     }
   },
+  "weighthub": {
+    "faintColorOnWhite": "rgba(42, 107, 156, 0.1)",
+    "goodColorOnBlack": "#2C8CD4",
+    "goodColorOnWhite": "#2A6B9C",
+    "palette": [
+      "#2a6b9c",
+      "#fbfbfb",
+      "#233644",
+      "#2c8cd4",
+      "#92b8d4"
+    ],
+    "source": {
+      "path": "apps/weighthub/weighthub-icon.png",
+      "revHash": "7047ac3570"
+    }
+  },
   "westeroscraftlauncher": {
     "faintColorOnWhite": "rgba(156, 21, 21, 0.1)",
     "goodColorOnBlack": "#E0C3B4",
