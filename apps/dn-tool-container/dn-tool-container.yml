@@ -1,0 +1,11 @@
+name: Dn Tool Container
+description: 'This is an extendable application which can install multiple packages with one click.'
+website: 'https://github.com/como65416/DnToolContainer'
+category: Developer Tools
+repository: 'https://github.com/como65416/DnToolContainer'
+keywords:
+    - format
+    - editor
+    - encryption
+    - extendable
+license: MIT
