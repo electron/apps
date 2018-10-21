@@ -9023,6 +9023,22 @@
       "revHash": "460d23a239"
     }
   },
+  "timeseriesadmin": {
+    "faintColorOnWhite": "rgba(36, 103, 112, 0.1)",
+    "goodColorOnBlack": "#24DEF6",
+    "goodColorOnWhite": "#246770",
+    "palette": [
+      "#232424",
+      "#24def6",
+      "#246770",
+      "#24848c",
+      "#245454"
+    ],
+    "source": {
+      "path": "apps/timeseriesadmin/timeseriesadmin-icon.png",
+      "revHash": "3948f20ab2"
+    }
+  },
   "timestamp": {
     "faintColorOnWhite": "rgba(7, 99, 231, 0.1)",
     "goodColorOnBlack": "#33C4FC",
