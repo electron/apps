@@ -34,7 +34,7 @@
   "devDependencies": {
     "bottleneck": "^1.16.0",
     "chai": "^3.5.0",
-    "check-for-leaks": "^1.0.2",
+    "check-for-leaks": "^1.2.0",
     "cheerio": "^1.0.0-rc.2",
     "clean-deep": "^2.0.1",
     "color-convert": "^1.9.1",
