@@ -42,7 +42,7 @@
     "dotenv-safe": "^4.0.4",
     "duration": "^0.2.0",
     "get-image-colors": "^1.8.1",
-    "github": "^14.0.0",
+    "@octokit/rest": "^15.15.1",
     "github-url-to-object": "^4.0.2",
     "human-interval": "^0.1.6",
     "husky": "^0.14.3",
