@@ -8703,6 +8703,22 @@
       "revHash": "3bec8fea3c"
     }
   },
+  "tape": {
+    "faintColorOnWhite": "rgba(214, 38, 56, 0.1)",
+    "goodColorOnBlack": "#DC3C4C",
+    "goodColorOnWhite": "#D62638",
+    "palette": [
+      "#dc3c4c",
+      "#e3e3db",
+      "#dc7b83",
+      "#dc8c94",
+      "#dc6474"
+    ],
+    "source": {
+      "path": "apps/tape/tape-icon.png",
+      "revHash": "17b3114474"
+    }
+  },
   "taskade": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
