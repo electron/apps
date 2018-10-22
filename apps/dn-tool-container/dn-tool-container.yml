@@ -4,8 +4,8 @@ website: 'https://github.com/como65416/DnToolContainer'
 category: Developer Tools
 repository: 'https://github.com/como65416/DnToolContainer'
 keywords:
+    - extendable
     - format
     - editor
     - encryption
-    - extendable
 license: MIT
