@@ -2175,6 +2175,22 @@
       "revHash": "811eeda804"
     }
   },
+  "dn-tool-container": {
+    "faintColorOnWhite": "rgba(13, 112, 170, 0.1)",
+    "goodColorOnBlack": "#4CB4F1",
+    "goodColorOnWhite": "#0D70AA",
+    "palette": [
+      "#4cb4f1",
+      "#e3e9b9",
+      "#87bcf5",
+      "#58ebef",
+      "#a0bea9"
+    ],
+    "source": {
+      "path": "apps/dn-tool-container/dn-tool-container-icon.png",
+      "revHash": "ebaf757fa5"
+    }
+  },
   "dockstation": {
     "faintColorOnWhite": "rgba(84, 108, 124, 0.1)",
     "goodColorOnBlack": "#C1E5F6",
@@ -4989,6 +5005,22 @@
     "source": {
       "path": "apps/messenger-demo-viewer/messenger-demo-viewer-icon.png",
       "revHash": "277bc14a37"
+    }
+  },
+  "metastream": {
+    "faintColorOnWhite": "rgba(189, 79, 54, 0.1)",
+    "goodColorOnBlack": "#EABFB5",
+    "goodColorOnWhite": "#BD4F36",
+    "palette": [
+      "#eabfb5",
+      "#978bad",
+      "#fbfbfb",
+      "#b89cb4",
+      "#ecdee3"
+    ],
+    "source": {
+      "path": "apps/metastream/metastream-icon.png",
+      "revHash": "f89a33a08d"
     }
   },
   "metrogit": {
