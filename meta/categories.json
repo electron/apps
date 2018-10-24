@@ -21,7 +21,7 @@
   },
   {
     "name": "Social Networking",
-    "count": 41,
+    "count": 40,
     "slug": "social-networking"
   },
   {
@@ -65,14 +65,14 @@
     "slug": "books"
   },
   {
-    "name": "Lifestyle",
-    "count": 4,
-    "slug": "lifestyle"
-  },
-  {
     "name": "News",
     "count": 4,
     "slug": "news"
+  },
+  {
+    "name": "Lifestyle",
+    "count": 4,
+    "slug": "lifestyle"
   },
   {
     "name": "Travel",

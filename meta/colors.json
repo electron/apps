@@ -287,22 +287,6 @@
       "revHash": "c3d48fda68"
     }
   },
-  "andcards": {
-    "faintColorOnWhite": "rgba(120, 104, 73, 0.1)",
-    "goodColorOnBlack": "#C8BCA4",
-    "goodColorOnWhite": "#786849",
-    "palette": [
-      "#c4bca4",
-      "#c4b4a4",
-      "#c8bca4",
-      "#c8bca4",
-      "#c8bca4"
-    ],
-    "source": {
-      "path": "apps/andcards/andcards-icon.png",
-      "revHash": "ed0b2ee015"
-    }
-  },
   "anote": {
     "faintColorOnWhite": "rgba(217, 4, 4, 0.1)",
     "goodColorOnBlack": "#F10404",
