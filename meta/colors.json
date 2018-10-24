@@ -1631,6 +1631,22 @@
       "revHash": "0d65148170"
     }
   },
+  "cryptowallet": {
+    "faintColorOnWhite": "rgba(216, 0, 0, 0.1)",
+    "goodColorOnBlack": "#FFFCFC",
+    "goodColorOnWhite": "#D80000",
+    "palette": [
+      "#fcfcfc",
+      "#fffcfc",
+      "#fffcfc",
+      "#fffcfc",
+      "#fffcfc"
+    ],
+    "source": {
+      "path": "apps/cryptowallet/cryptowallet-icon.png",
+      "revHash": "8d210773e7"
+    }
+  },
   "csv-to-sqlite": {
     "faintColorOnWhite": "rgba(4, 124, 100, 0.1)",
     "goodColorOnBlack": "#04FBDB",
@@ -6029,6 +6045,22 @@
     "source": {
       "path": "apps/openbazaar/openbazaar-icon.png",
       "revHash": "c8ec5fb3d4"
+    }
+  },
+  "opus": {
+    "faintColorOnWhite": "rgba(3, 114, 163, 0.1)",
+    "goodColorOnBlack": "#04ADF7",
+    "goodColorOnWhite": "#0372A3",
+    "palette": [
+      "#f2f2f2",
+      "#04adf7",
+      "#55bef7",
+      "#9cd7f5",
+      "#28c4f9"
+    ],
+    "source": {
+      "path": "apps/opus/opus-icon.png",
+      "revHash": "e0bcd30e1e"
     }
   },
   "overlay": {
@@ -10573,6 +10605,22 @@
     "source": {
       "path": "apps/youtube-mp3/youtube-mp3-icon.png",
       "revHash": "a1437cfdd3"
+    }
+  },
+  "youtube-music-desktop-app": {
+    "faintColorOnWhite": "rgba(227, 3, 3, 0.1)",
+    "goodColorOnBlack": "#FC0404",
+    "goodColorOnWhite": "#E30303",
+    "palette": [
+      "#fcfbfb",
+      "#fc0404",
+      "#fc5555",
+      "#fc7c7c",
+      "#fc3434"
+    ],
+    "source": {
+      "path": "apps/youtube-music-desktop-app/youtube-music-desktop-app-icon.png",
+      "revHash": "fd464b53b6"
     }
   },
   "youtube-to-mp3": {
