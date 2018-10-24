@@ -5,7 +5,6 @@ category: Finance
 repository: 'https://github.com/bhavayAnand9/cryptoWallet'
 keywords:
     - bitcoin
-    - electron
     - nodejs
     - react
     - wallet
