@@ -1,0 +1,17 @@
+name: 'YTMDesktop App'
+description: 'A Desktop App for YouTube Music'
+website: 'https://ytmdesktop.app'
+category: Music
+repository: 'https://github.com/adlerluiz/ytmdesktop'
+keywords:
+    - youtube
+    - music
+    - desktop
+    - app
+    - electron
+    - node
+    - javascript
+    - materializecss
+screenshots:
+    -
+        imageUrl: 'https://ytmdesktop.app/img/product/main.png'
