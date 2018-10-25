@@ -1599,6 +1599,22 @@
       "revHash": "87cf56f6fa"
     }
   },
+  "cryptobar": {
+    "faintColorOnWhite": "rgba(227, 3, 3, 0.1)",
+    "goodColorOnBlack": "#FC0404",
+    "goodColorOnWhite": "#E30303",
+    "palette": [
+      "#fcfbfb",
+      "#fc0404",
+      "#fc5555",
+      "#fc7c7c",
+      "#fc3434"
+    ],
+    "source": {
+      "path": "apps/cryptobar/cryptobar-icon.png",
+      "revHash": "fd464b53b6"
+    }
+  },
   "cryptocat": {
     "faintColorOnWhite": "rgba(133, 44, 87, 0.1)",
     "goodColorOnBlack": "#F85752",
