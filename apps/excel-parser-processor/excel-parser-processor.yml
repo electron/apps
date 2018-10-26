@@ -2,7 +2,7 @@ name: 'Excel Parser Processor'
 description: 'A Cross-Platform Desktop App for processing all rows of excel files'
 website: 'https://github.com/btargac/excel-parser-processor'
 category: Productivity
-repository: 'https://github.com/btargac/excel-parser-processor.git'
+repository: 'https://github.com/btargac/excel-parser-processor'
 keywords:
     - 'download images from excel'
     - 'batch image download'
