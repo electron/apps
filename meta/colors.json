@@ -399,6 +399,22 @@
       "revHash": "d03558eebf"
     }
   },
+  "asarui": {
+    "faintColorOnWhite": "rgba(45, 46, 61, 0.1)",
+    "goodColorOnBlack": "#F7FAFA",
+    "goodColorOnWhite": "#2D2E3D",
+    "palette": [
+      "#2d2e3d",
+      "#f7fafa",
+      "#8e949e",
+      "#849ca4",
+      "#949ca4"
+    ],
+    "source": {
+      "path": "apps/asarui/asarui-icon.png",
+      "revHash": "356dc8fefb"
+    }
+  },
   "astroprint": {
     "faintColorOnWhite": "rgba(213, 12, 12, 0.1)",
     "goodColorOnBlack": "#FBB7B7",
@@ -2573,6 +2589,22 @@
     "source": {
       "path": "apps/evetrade/evetrade-icon.png",
       "revHash": "79d2328a21"
+    }
+  },
+  "excel-parser-processor": {
+    "faintColorOnWhite": "rgba(104, 62, 182, 0.1)",
+    "goodColorOnBlack": "#9480D4",
+    "goodColorOnWhite": "#683EB6",
+    "palette": [
+      "#683eb6",
+      "#a159ba",
+      "#f2eef7",
+      "#bc9cd4",
+      "#9480d4"
+    ],
+    "source": {
+      "path": "apps/excel-parser-processor/excel-parser-processor-icon.png",
+      "revHash": "8bababb586"
     }
   },
   "explorer": {
@@ -7101,6 +7133,22 @@
     "source": {
       "path": "apps/putler/putler-icon.png",
       "revHash": "c320efaf48"
+    }
+  },
+  "qawl": {
+    "faintColorOnWhite": "rgba(124, 116, 108, 0.1)",
+    "goodColorOnBlack": "#FBF6EB",
+    "goodColorOnWhite": "#7C746C",
+    "palette": [
+      "#0d0d0d",
+      "#fbf6eb",
+      "#9a968d",
+      "#7c746c",
+      "#7c7c6c"
+    ],
+    "source": {
+      "path": "apps/qawl/qawl-icon.png",
+      "revHash": "dd31997f64"
     }
   },
   "qbox": {
