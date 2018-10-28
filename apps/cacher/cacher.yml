@@ -7,14 +7,15 @@ keywords:
     - coding
     - gists
 category: 'Developer Tools'
+snapcraftName: cacher
 screenshots:
     -
         imageUrl: 'https://cdn.cacher.io/app-assets/cacher-demo.gif'
-        caption: 'Cacher Demo'
     -
-        imageUrl: 'https://cdn.cacher.io/app-assets/cacher-dark.png'
-        caption: 'Cacher Desktop Client with Monokai Theme'
+        imageUrl: 'https://cdn.cacher.io/app-assets/tour/full-featured.png'
     -
-        imageUrl: 'https://cdn.cacher.io/app-assets/atom-demo.gif'
-        caption: 'Cacher for Atom'
-        imageLink: 'https://atom.io/packages/cacher'
+        imageUrl: 'https://cdn.cacher.io/app-assets/tour/labels.png'
+    -
+        imageUrl: 'https://cdn.cacher.io/app-assets/tour/teams.png'
+    -
+        imageUrl: 'https://cdn.cacher.io/app-assets/tour/editors.png'
