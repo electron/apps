@@ -1,0 +1,44 @@
+name: Tagstoo
+description: 'Software to tag folders and files, with multimedia and epubs preview.'
+website: 'https://tagstoo.sourceforge.io/'
+category: Productivity
+repository: 'https://sourceforge.net/projects/tagstoo/files/Tagstoo__sourcecode/'
+keywords:
+    - 'tag folders'
+    - 'tag files'
+    - tagging
+    - classification
+    - 'file mannagement'
+    - search
+    - images
+    - multimedia
+    - epub
+    - label
+license: GPL-3.0
+
+locales:
+  - en-US
+  - fr-FR
+  - es-ES
+
+screenshots:
+  -
+    imageUrl: 'https://tagstoo.sourceforge.io/img/01-b-Specific_Searches.png'
+    caption: 'Specific Searches'
+    
+  -
+    imageUrl: 'https://tagstoo.sourceforge.io/img/02-e-Various_tag_Shapes_to_select.png'
+    caption: 'Various tag Shapes to select'
+
+  -
+    imageUrl: 'https://tagstoo.sourceforge.io/img/02-a-Video_Previews.png'
+    caption: 'Video previews'
+
+  -
+    imageUrl: 'https://tagstoo.sourceforge.io/img/02-d-Grey_and_Color_modes.png'
+    caption: 'Interface in Grey'
+
+  -
+    imageUrl: 'https://tagstoo.sourceforge.io/img/02-b-Epub_Previews.png'
+    caption: 'Epub previews'
+    
