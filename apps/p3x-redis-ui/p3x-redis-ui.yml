@@ -1,5 +1,5 @@
 name: 'P3X Redis UI'
-description: 'A Redis UI based on redis-commander and phpRedisAdmin.'
+description: 'Redis UI based on redis-commander and phpRedisAdmin.'
 repository: 'https://github.com/patrikx3/redis-ui'
 website: 'https://pages.corifeus.com/redis-ui'
 keywords:
