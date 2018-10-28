@@ -223,6 +223,22 @@
       "revHash": "90e3841777"
     }
   },
+  "altair": {
+    "faintColorOnWhite": "rgba(52, 120, 158, 0.1)",
+    "goodColorOnBlack": "#348CBC",
+    "goodColorOnWhite": "#34789E",
+    "palette": [
+      "#7bbb5b",
+      "#34343c",
+      "#348cbc",
+      "#34789e",
+      "#60a4a0"
+    ],
+    "source": {
+      "path": "apps/altair/altair-icon.png",
+      "revHash": "7c45c6b986"
+    }
+  },
   "alva": {
     "faintColorOnWhite": "rgba(165, 5, 139, 0.1)",
     "goodColorOnBlack": "#F484B4",
@@ -1616,19 +1632,19 @@
     }
   },
   "cryptobar": {
-    "faintColorOnWhite": "rgba(227, 3, 3, 0.1)",
-    "goodColorOnBlack": "#FC0404",
-    "goodColorOnWhite": "#E30303",
+    "faintColorOnWhite": "rgba(140, 114, 2, 0.1)",
+    "goodColorOnBlack": "#FCDB4B",
+    "goodColorOnWhite": "#8C7202",
     "palette": [
-      "#fcfbfb",
-      "#fc0404",
-      "#fc5555",
-      "#fc7c7c",
-      "#fc3434"
+      "#f9c12a",
+      "#cd9c14",
+      "#fcdb4b",
+      "#dcac17",
+      "#fcd43c"
     ],
     "source": {
       "path": "apps/cryptobar/cryptobar-icon.png",
-      "revHash": "fd464b53b6"
+      "revHash": "44e0d65b51"
     }
   },
   "cryptocat": {
@@ -3085,6 +3101,22 @@
     "source": {
       "path": "apps/gausssense-desktop/gausssense-desktop-icon.png",
       "revHash": "0921c55bfb"
+    }
+  },
+  "genotify": {
+    "faintColorOnWhite": "rgba(4, 86, 84, 0.1)",
+    "goodColorOnBlack": "#04867B",
+    "goodColorOnWhite": "#045654",
+    "palette": [
+      "#040c04",
+      "#04867b",
+      "#045654",
+      "#04433b",
+      "#042f2c"
+    ],
+    "source": {
+      "path": "apps/genotify/genotify-icon.png",
+      "revHash": "100cbc00a0"
     }
   },
   "gf-trader": {
@@ -5487,6 +5519,22 @@
       "revHash": "ba9f7071f1"
     }
   },
+  "movieprint": {
+    "faintColorOnWhite": "rgba(7, 7, 7, 0.1)",
+    "goodColorOnBlack": "#F45408",
+    "goodColorOnWhite": "#070707",
+    "palette": [
+      "#f9f0ec",
+      "#070707",
+      "#f45408",
+      "#848484",
+      "#7c7c7c"
+    ],
+    "source": {
+      "path": "apps/movieprint/movieprint-icon.png",
+      "revHash": "acfa54a20b"
+    }
+  },
   "moviescores": {
     "faintColorOnWhite": "rgba(54, 68, 88, 0.1)",
     "goodColorOnBlack": "#D07651",
@@ -7311,6 +7359,22 @@
       "revHash": "9900f58863"
     }
   },
+  "raven-reader": {
+    "faintColorOnWhite": "rgba(24, 50, 72, 0.1)",
+    "goodColorOnBlack": "#65DEC4",
+    "goodColorOnWhite": "#183248",
+    "palette": [
+      "#dde398",
+      "#183248",
+      "#65dec4",
+      "#688b83",
+      "#78a0ab"
+    ],
+    "source": {
+      "path": "apps/raven-reader/raven-reader-icon.png",
+      "revHash": "03c3600ffa"
+    }
+  },
   "ray": {
     "faintColorOnWhite": "rgba(13, 125, 170, 0.1)",
     "goodColorOnBlack": "#B1E4F9",
@@ -7517,22 +7581,6 @@
     "source": {
       "path": "apps/rocket-chat/rocket-chat-icon.png",
       "revHash": "8815ec69bc"
-    }
-  },
-  "rss-reader": {
-    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
-    "goodColorOnBlack": "#FBFBFB",
-    "goodColorOnWhite": "#050505",
-    "palette": [
-      "#fbfbfb",
-      "#050505",
-      "#7c7c7c",
-      "#a3a3a3",
-      "#848484"
-    ],
-    "source": {
-      "path": "apps/rss-reader/rss-reader-icon.png",
-      "revHash": "e1dfedb4ec"
     }
   },
   "sai": {
@@ -8815,6 +8863,22 @@
       "revHash": "3bec8fea3c"
     }
   },
+  "tagstoo": {
+    "faintColorOnWhite": "rgba(146, 82, 27, 0.1)",
+    "goodColorOnBlack": "#FAD869",
+    "goodColorOnWhite": "#92521B",
+    "palette": [
+      "#fad869",
+      "#44b1e7",
+      "#92521b",
+      "#ae7029",
+      "#96c6b6"
+    ],
+    "source": {
+      "path": "apps/tagstoo/tagstoo-icon.png",
+      "revHash": "9f83200ac2"
+    }
+  },
   "tape": {
     "faintColorOnWhite": "rgba(214, 38, 56, 0.1)",
     "goodColorOnBlack": "#DC3C4C",
@@ -9197,6 +9261,22 @@
     "source": {
       "path": "apps/timetable/timetable-icon.png",
       "revHash": "7740eef2b9"
+    }
+  },
+  "tiny-timer": {
+    "faintColorOnWhite": "rgba(3, 126, 79, 0.1)",
+    "goodColorOnBlack": "#04C47B",
+    "goodColorOnWhite": "#037E4F",
+    "palette": [
+      "#f3eddb",
+      "#04c47b",
+      "#6bd449",
+      "#78798b",
+      "#8ec594"
+    ],
+    "source": {
+      "path": "apps/tiny-timer/tiny-timer-icon.png",
+      "revHash": "b80a75565b"
     }
   },
   "todokit": {
