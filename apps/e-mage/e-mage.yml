@@ -1,5 +1,5 @@
 name: E-Mage
-description: 'Cross-platform tool to help with image compression.'
+description: 'Cross-platform tool for lossless image compression.'
 website: 'https://github.com/douglasjunior/emage'
 category: 'Developer Tools'
 repository: 'https://github.com/douglasjunior/emage'
@@ -23,4 +23,4 @@ license: MIT
 screenshots:
   -
     imageUrl: 'https://raw.githubusercontent.com/douglasjunior/emage/master/screenshot/screen.png'
-    caption: 'E-Mage Home Screen'
+    caption: 'Home Screen'
