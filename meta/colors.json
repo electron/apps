@@ -6207,6 +6207,22 @@
       "revHash": "7e72cda144"
     }
   },
+  "p3x-redis-ui": {
+    "faintColorOnWhite": "rgba(171, 43, 40, 0.1)",
+    "goodColorOnBlack": "#D76D68",
+    "goodColorOnWhite": "#AB2B28",
+    "palette": [
+      "#ab2b28",
+      "#fbf8f8",
+      "#d76d68",
+      "#de8c8c",
+      "#cc544c"
+    ],
+    "source": {
+      "path": "apps/p3x-redis-ui/p3x-redis-ui-icon.png",
+      "revHash": "6e24bc6c78"
+    }
+  },
   "paintsupreme3d": {
     "faintColorOnWhite": "rgba(39, 48, 55, 0.1)",
     "goodColorOnBlack": "#F89B08",
@@ -8717,6 +8733,22 @@
     "source": {
       "path": "apps/superpowers-html5-2d-3d-game-maker/superpowers-html5-2d-3d-game-maker-icon.png",
       "revHash": "9e15c2ad1f"
+    }
+  },
+  "superscript": {
+    "faintColorOnWhite": "rgba(78, 71, 133, 0.1)",
+    "goodColorOnBlack": "#9CBCD7",
+    "goodColorOnWhite": "#4E4785",
+    "palette": [
+      "#4e4785",
+      "#fbfbfb",
+      "#af9cbb",
+      "#93a7c9",
+      "#9cbcd7"
+    ],
+    "source": {
+      "path": "apps/superscript/superscript-icon.png",
+      "revHash": "098c9a0be9"
     }
   },
   "surf": {
