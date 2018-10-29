@@ -1,0 +1,17 @@
+name: 'P3X Redis UI'
+description: 'Redis UI based on redis-commander and phpRedisAdmin.'
+repository: 'https://github.com/patrikx3/redis-ui'
+website: 'https://pages.corifeus.com/redis-ui'
+keywords:
+    - redis
+    - ui
+    - admin
+    - gui
+    - dark
+    - theme
+    - internationalization
+license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://camo.githubusercontent.com/32b64f5717685da54e053c3398b029657a852676/68747470733a2f2f63646e2e636f7269666575732e636f6d2f6769742f72656469732d75692f6172746966616374732f707265766965772d696d616765732f707265766965772d312e706e67'
