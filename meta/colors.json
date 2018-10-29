@@ -2383,6 +2383,22 @@
       "revHash": "8f766f53ce"
     }
   },
+  "easyhand": {
+    "faintColorOnWhite": "rgba(4, 94, 108, 0.1)",
+    "goodColorOnBlack": "#EC256C",
+    "goodColorOnWhite": "#045E6C",
+    "palette": [
+      "#daa95a",
+      "#045e6c",
+      "#ec256c",
+      "#8c6535",
+      "#eae8e9"
+    ],
+    "source": {
+      "path": "apps/easyhand/easyhand-icon.png",
+      "revHash": "67c9a3f1b0"
+    }
+  },
   "easytongue": {
     "faintColorOnWhite": "rgba(149, 95, 2, 0.1)",
     "goodColorOnBlack": "#FCB845",
