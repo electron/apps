@@ -1,0 +1,21 @@
+name: EasyHand
+description: 'Helpful tool of making easier to work with huge quantity of files, folders and IDEsin the same time.'
+website: 'https://easyhand.org'
+category: 'Developer Tools'
+keywords:
+    - files
+    - folders
+    - search
+    - easy
+    - fast
+    - ide
+screenshots:
+  -
+    imageUrl: 'https://easyhand.org/images/easyHand-view.png'
+    caption: 'Files tab screenshot'
+    imageLink: 'https://easyhand.org/features'
+  -
+    imageUrl: 'https://easyhand.org/images/screenshots/folder-edit.png'
+    caption: 'Edit folder Icons screenshot'
+    imageLink: 'https://easyhand.org/features'
+
