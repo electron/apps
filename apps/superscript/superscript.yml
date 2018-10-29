@@ -1,0 +1,33 @@
+name: Superscript
+description: 'A text editor for comic book writers'
+website: 'https://www.superscript.app'
+category: Productivity
+keywords:
+    - comic
+    - comics
+    - 'comic book'
+    - 'comic books'
+    - editor
+    - 'script editor'
+    - 'text editor'
+    - writing
+    - 'word processor'
+screenshots:
+    -
+        imageUrl: 'https://storage.googleapis.com/superscript-screenshots/superscript-script.jpg'
+        caption: 'Superscript formats and numbers script elements as you type.'
+        imageLink: 'https://www.superscript.app'
+    -
+        imageUrl: 'https://storage.googleapis.com/superscript-screenshots/superscript-word-count.jpg'
+        caption: 'Word count displays the number of spoken words in each speech bubble, each panel and each page.'
+        imageLink: 'https://www.superscript.app'
+    -
+        imageUrl: 'https://storage.googleapis.com/superscript-screenshots/superscript-lettering-mode.jpg'
+        caption: 'Letterer mode allows users to copy blocks of dialog with one click and via global hotkeys.'
+        imageLink: 'https://www.superscript.app'
+    -
+        imageUrl: 'https://storage.googleapis.com/superscript-screenshots/superscript-zen-mode.jpg'
+        caption: 'Distraction-free zen mode.'
+        imageLink: 'https://www.superscript.app'
+goodColorOnWhite: '#5f2165'
+goodColorOnBlack: '#3382ba'
