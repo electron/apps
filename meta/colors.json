@@ -7551,6 +7551,22 @@
       "revHash": "c2d3755a90"
     }
   },
+  "ride": {
+    "faintColorOnWhite": "rgba(142, 62, 12, 0.1)",
+    "goodColorOnBlack": "#FCC481",
+    "goodColorOnWhite": "#8E3E0C",
+    "palette": [
+      "#f38926",
+      "#fbf9f7",
+      "#8e3e0c",
+      "#f9b569",
+      "#fcc481"
+    ],
+    "source": {
+      "path": "apps/ride/ride-icon.png",
+      "revHash": "23bbdab8f0"
+    }
+  },
   "ridereceipts": {
     "faintColorOnWhite": "rgba(182, 7, 203, 0.1)",
     "goodColorOnBlack": "#A4A3BD",
