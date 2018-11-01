@@ -2335,6 +2335,22 @@
       "revHash": "bab223dc7b"
     }
   },
+  "dusk-player": {
+    "faintColorOnWhite": "rgba(23, 24, 27, 0.1)",
+    "goodColorOnBlack": "#D54353",
+    "goodColorOnWhite": "#17181B",
+    "palette": [
+      "#17181b",
+      "#d54353",
+      "#cad2da",
+      "#606468",
+      "#6c6c74"
+    ],
+    "source": {
+      "path": "apps/dusk-player/dusk-player-icon.png",
+      "revHash": "cebc79dcc1"
+    }
+  },
   "e-mage": {
     "faintColorOnWhite": "rgba(147, 108, 45, 0.1)",
     "goodColorOnBlack": "#F9C10E",
