@@ -9,7 +9,7 @@ keywords:
     - graphql-client
     - opensource
 license: MIT
-homebrewCaskName: altair
+homebrewCaskName: altair-graphql-client
 snapcraftName: altair
 youtube_video_url: 'https://www.youtube.com/watch?v=zTFYOo4uD-M'
 screenshots:
