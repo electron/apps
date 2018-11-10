@@ -1,5 +1,5 @@
 name: S3Uploader
-description: 'A minimalistic UI to conveniently upload and download files from AWS S3'
+description: 'A minimalistic UI to conveniently upload and download files from AWS S3.'
 website: 'https://github.com/Yamazaki93/S3Uploader'
 category: Utilities
 repository: 'https://github.com/Yamazaki93/S3Uploader'
