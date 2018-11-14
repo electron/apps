@@ -1,0 +1,29 @@
+name: S3Uploader
+description: 'A minimalistic UI to conveniently upload and download files from AWS S3.'
+website: 'https://github.com/Yamazaki93/S3Uploader'
+category: Utilities
+repository: 'https://github.com/Yamazaki93/S3Uploader'
+keywords:
+    - AWS
+    - S3
+    - uploader
+    - downloader
+    - angular
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://github.com/Yamazaki93/S3Uploader/raw/master/misc/sc-1.PNG'
+    caption: 'Minimalistic UI for browsing files on AWS S3'
+    imageLink: 'https://github.com/Yamazaki93/S3Uploader'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/S3Uploader/raw/master/misc/sc-2.PNG'
+    caption: 'Tree like file browser'
+    imageLink: 'https://github.com/Yamazaki93/S3Uploader'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/S3Uploader/raw/master/misc/sc-3.PNG'
+    caption: 'Centralized upload and download tracking'
+    imageLink: 'https://github.com/Yamazaki93/S3Uploader'
+  -
+    imageUrl: 'https://github.com/Yamazaki93/S3Uploader/raw/master/misc/sc-4.PNG'
+    caption: 'Multi-file upload with rename options'
+    imageLink: 'https://github.com/Yamazaki93/S3Uploader'
