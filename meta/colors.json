@@ -3679,6 +3679,22 @@
       "revHash": "92063c3744"
     }
   },
+  "hexo-client": {
+    "faintColorOnWhite": "rgba(11, 118, 182, 0.1)",
+    "goodColorOnBlack": "#0C84CC",
+    "goodColorOnWhite": "#0B76B6",
+    "palette": [
+      "#0c84cc",
+      "#1084cc",
+      "#1084cc",
+      "#1084cc",
+      "#1084cc"
+    ],
+    "source": {
+      "path": "apps/hexo-client/hexo-client-icon.png",
+      "revHash": "f47eabd9df"
+    }
+  },
   "hive": {
     "faintColorOnWhite": "rgba(162, 104, 12, 0.1)",
     "goodColorOnBlack": "#F2B452",
@@ -6991,6 +7007,22 @@
       "revHash": "1f9d5128f0"
     }
   },
+  "premid": {
+    "faintColorOnWhite": "rgba(90, 106, 169, 0.1)",
+    "goodColorOnBlack": "#A4ACD4",
+    "goodColorOnWhite": "#5A6AA9",
+    "palette": [
+      "#fbfbfb",
+      "#5a6aa9",
+      "#989fbe",
+      "#acb4cc",
+      "#a4acd4"
+    ],
+    "source": {
+      "path": "apps/premid/premid-icon.png",
+      "revHash": "0505f86dd9"
+    }
+  },
   "preserver": {
     "faintColorOnWhite": "rgba(139, 107, 36, 0.1)",
     "goodColorOnBlack": "#D3AC55",
@@ -7645,6 +7677,22 @@
     "source": {
       "path": "apps/rocket-chat/rocket-chat-icon.png",
       "revHash": "8815ec69bc"
+    }
+  },
+  "s3uploader": {
+    "faintColorOnWhite": "rgba(32, 40, 55, 0.1)",
+    "goodColorOnBlack": "#767E84",
+    "goodColorOnWhite": "#202837",
+    "palette": [
+      "#202837",
+      "#f4f4f5",
+      "#767e84",
+      "#616a72",
+      "#898c94"
+    ],
+    "source": {
+      "path": "apps/s3uploader/s3uploader-icon.png",
+      "revHash": "b178be1635"
     }
   },
   "sai": {
