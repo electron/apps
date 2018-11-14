@@ -1,0 +1,22 @@
+name: PreMiD
+description: "Discord Rich Presence Integration for websites."
+website: "https://premid.app/"
+category: Utilities
+repository: "https://github.com/Timeraa/PreMiD"
+keywords:
+  - Discord
+  - "Rich Presence"
+  - YouTube
+  - SoundCloud
+  - Twitch
+  - "YouTube Music"
+  - Netflix
+license: MIT
+screenshots:
+  - imageUrl: "https://github.com/Timeraa/PreMiD/raw/master/gitassets/PreMiDExample.png"
+locales:
+  - en
+  - de
+  - da
+  - he
+  - la
