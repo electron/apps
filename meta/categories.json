@@ -6,7 +6,7 @@
   },
   {
     "name": "Developer Tools",
-    "count": 139,
+    "count": 140,
     "slug": "developer-tools"
   },
   {
@@ -20,14 +20,14 @@
     "slug": "music"
   },
   {
+    "name": "Photo & Video",
+    "count": 41,
+    "slug": "photo-video"
+  },
+  {
     "name": "Social Networking",
     "count": 40,
     "slug": "social-networking"
-  },
-  {
-    "name": "Photo & Video",
-    "count": 40,
-    "slug": "photo-video"
   },
   {
     "name": "Games",
@@ -65,14 +65,14 @@
     "slug": "books"
   },
   {
-    "name": "News",
-    "count": 4,
-    "slug": "news"
-  },
-  {
     "name": "Lifestyle",
     "count": 4,
     "slug": "lifestyle"
+  },
+  {
+    "name": "News",
+    "count": 4,
+    "slug": "news"
   },
   {
     "name": "Medical",

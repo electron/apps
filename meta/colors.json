@@ -3871,6 +3871,22 @@
       "revHash": "f9a0a6c81e"
     }
   },
+  "image-resizer-tech": {
+    "faintColorOnWhite": "rgba(36, 84, 124, 0.1)",
+    "goodColorOnBlack": "#ABE5FB",
+    "goodColorOnWhite": "#24547C",
+    "palette": [
+      "#248bc3",
+      "#24547c",
+      "#abe5fb",
+      "#84cdf4",
+      "#68b9e3"
+    ],
+    "source": {
+      "path": "apps/image-resizer-tech/image-resizer-tech-icon.png",
+      "revHash": "c45947ddd0"
+    }
+  },
   "image-shrinker": {
     "faintColorOnWhite": "rgba(163, 71, 67, 0.1)",
     "goodColorOnBlack": "#F0694F",
@@ -7245,6 +7261,22 @@
     "source": {
       "path": "apps/pupafm/pupafm-icon.png",
       "revHash": "89aea315d0"
+    }
+  },
+  "puppetry": {
+    "faintColorOnWhite": "rgba(16, 108, 195, 0.1)",
+    "goodColorOnBlack": "#52A4F1",
+    "goodColorOnWhite": "#106CC3",
+    "palette": [
+      "#1c81e6",
+      "#f3f7fb",
+      "#6eb0f1",
+      "#8cc4f4",
+      "#52a4f1"
+    ],
+    "source": {
+      "path": "apps/puppetry/puppetry-icon.png",
+      "revHash": "5940617539"
     }
   },
   "putler": {
