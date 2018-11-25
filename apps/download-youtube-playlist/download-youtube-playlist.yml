@@ -1,0 +1,28 @@
+name: Download Youtube Playlist
+description: 'An app to download youtube playlist and convert it to mp3s'
+website: 'https://github.com/moshfeu/download-youtube-playlist'
+category: Music
+repository: 'https://github.com/moshfeu/download-youtube-playlist'
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/moshfeu/download-youtube-playlist/master/app-resources/screenshots/screenshot1.png'
+    caption: 'Search'
+    imageLink: 'https://github.com/moshfeu/download-youtube-playlist'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/moshfeu/download-youtube-playlist/master/app-resources/screenshots/screenshot2.png'
+    caption: 'Explore'
+    imageLink: 'https://github.com/moshfeu/download-youtube-playlist'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/moshfeu/download-youtube-playlist/master/app-resources/screenshots/screenshot3.png'
+    caption: 'Download'
+    imageLink: 'https://github.com/moshfeu/download-youtube-playlist'
+keywords:
+    - youtube
+    - playlist
+    - download
+    - mp3
+    - free
+license: MIT
+colors:
+    goodColorOnWhite: '#148544'
+    goodColorOnBlack: '#27ae60'
