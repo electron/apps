@@ -1,0 +1,26 @@
+name: 'Fight over dat Ancient'
+description: 'FODA - Free to play Online card game'
+website: 'https://foda.app'
+category: Games
+repository: 'https://github.com/rafaelcastrocouto/foda'
+keywords:
+    - games
+    - cards
+    - dota
+    - rpg
+    - tcg
+    - ccg
+screenshots:
+  -
+    imageUrl: 'https://foda-app.herokuapp.com/client/img/banner.jpg'
+    caption: 'Artwork'
+    imageLink: 'https://foda.app'
+  -
+    imageUrl: 'https://img.itch.zone/aW1hZ2UvMTg5NDU3Lzk4Nzk5My5qcGc=/original/irOhAE.jpg'
+    caption: 'Game Menu'
+    imageLink: 'https://foda.app'
+  -
+    imageUrl: 'https://img.itch.zone/aW1hZ2UvMTg5NDU3LzExNDk0MjAuanBn/original/RqdrSa.jpgg'
+    caption: 'Game Play'
+    imageLink: 'https://foda.app'
+    
