@@ -16,6 +16,10 @@ screenshots:
     imageUrl: 'https://raw.githubusercontent.com/moshfeu/download-youtube-playlist/master/app-resources/screenshots/screenshot3.png'
     caption: 'Download'
     imageLink: 'https://github.com/moshfeu/download-youtube-playlist'
+  -
+    imageUrl: 'https://github.com/moshfeu/download-youtube-playlist/blob/master/app-resources/video.gif'
+    caption: 'Full flow'
+    imageLink: 'https://github.com/moshfeu/download-youtube-playlist'
 keywords:
     - youtube
     - playlist
@@ -26,3 +30,5 @@ license: MIT
 colors:
     goodColorOnWhite: '#148544'
     goodColorOnBlack: '#27ae60'
+locales:
+    - en-US
