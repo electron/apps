@@ -170,11 +170,13 @@ locales:
 
 ### Company Logos and Names
 
-Our legal team has advised us to disallow apps that are using the names of _other_ companies or icons that we find too similar to the logos of other companies without verifying their permission to do so.
+Please do not directly use another company's name or product without permission. It's generally better to refer to it in a dependent clause; for example, after "compatible with", "on", or "for."
 
-App names should not start with the word "GitHub". In general, you may refer to GitHub in a relational phrase to say that the project is "compatible with", "on", or "for" GitHub, or something along those lines.
+For example, a third-party app named "GitHub Notifications" would be difficult to add, but "Yourname Notifications for GitHub" would be a better candidate.
 
-For more details, see the [GitHub logo guidelines](https://github.com/logos).
+And because several submissions have asked: Yes, some grandfathered apps in the collection predate this rule. No, that doesn't mean we're allowing more.
+
+For the specific case of GitHub, there are also [guidelines](https://github.com/logos) for use of its logos.
 
 ### Submission Guidelines
 
