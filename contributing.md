@@ -172,7 +172,7 @@ locales:
 
 Please do not directly use another company's name or product without permission. It's generally better to refer to it in a dependent clause; for example, after "compatible with", "on", or "for."
 
-For example, a third-party app named "GitHub Notifications" would be difficult to add, but "Yourname Notifications for GitHub" would be a better candidate.
+For example, while we would not accept a third-party app named "GitHub Notifications", we would consider "Yourname Notifications for GitHub".
 
 And because several submissions have asked: Yes, some grandfathered apps in the collection predate this rule. No, that doesn't mean we're allowing more.
 
