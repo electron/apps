@@ -2879,6 +2879,22 @@
       "revHash": "282750e231"
     }
   },
+  "foda": {
+    "faintColorOnWhite": "rgba(69, 76, 96, 0.1)",
+    "goodColorOnBlack": "#80E6F6",
+    "goodColorOnWhite": "#454C60",
+    "palette": [
+      "#5181d0",
+      "#121318",
+      "#a2cee9",
+      "#80e6f6",
+      "#454c60"
+    ],
+    "source": {
+      "path": "apps/foda/foda-icon.png",
+      "revHash": "7585a34dca"
+    }
+  },
   "fog": {
     "faintColorOnWhite": "rgba(116, 117, 121, 0.1)",
     "goodColorOnBlack": "#FB9A09",
@@ -4925,6 +4941,22 @@
     "source": {
       "path": "apps/mapbox/mapbox-icon.png",
       "revHash": "0574cb16f1"
+    }
+  },
+  "markdown-c3": {
+    "faintColorOnWhite": "rgba(3, 130, 117, 0.1)",
+    "goodColorOnBlack": "#05E3CC",
+    "goodColorOnWhite": "#038275",
+    "palette": [
+      "#93acbc",
+      "#fbfbfb",
+      "#05e3cc",
+      "#b4becd",
+      "#57e2d5"
+    ],
+    "source": {
+      "path": "apps/markdown-c3/markdown-c3-icon.png",
+      "revHash": "008006f5d0"
     }
   },
   "markdown-explorer": {
@@ -7823,6 +7855,22 @@
       "revHash": "9d2bbbb50a"
     }
   },
+  "screentray": {
+    "faintColorOnWhite": "rgba(44, 84, 156, 0.1)",
+    "goodColorOnBlack": "#5BBB8C",
+    "goodColorOnWhite": "#2C549C",
+    "palette": [
+      "#5bbb8c",
+      "#2c549c",
+      "#448c94",
+      "#3c7898",
+      "#447e94"
+    ],
+    "source": {
+      "path": "apps/screentray/screentray-icon.png",
+      "revHash": "d1dd9e16c0"
+    }
+  },
   "sealtalk": {
     "faintColorOnWhite": "rgba(3, 123, 198, 0.1)",
     "goodColorOnBlack": "#1BA4FB",
@@ -9597,6 +9645,22 @@
     "source": {
       "path": "apps/treevea/treevea-icon.png",
       "revHash": "66d3cbb95f"
+    }
+  },
+  "trilium-notes": {
+    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
+    "goodColorOnBlack": "#EBEBEB",
+    "goodColorOnWhite": "#050505",
+    "palette": [
+      "#ebebeb",
+      "#050505",
+      "#6c6c6c",
+      "#7c7c7c",
+      "#747474"
+    ],
+    "source": {
+      "path": "apps/trilium-notes/trilium-notes-icon.png",
+      "revHash": "d3cee657a9"
     }
   },
   "tropy": {
