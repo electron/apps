@@ -1,5 +1,12 @@
-name: Web Net
+name: 'Web Net'
 description: 'Chromium Web Browser'
 website: 'http://www.web-net.tk'
 repository: 'https://github.com/MEGAMINDMK'
+keywords:
+- browser
+- web browser
+- webnet browser
 category: 'Utilities'
+screenshots:
+    -
+imageUrl: 'https://i.imgur.com/LxNhJ5U.png'
