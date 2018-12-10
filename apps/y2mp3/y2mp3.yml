@@ -17,7 +17,7 @@ screenshots:
     caption: 'Download'
     imageLink: 'https://github.com/moshfeu/y2mp3'
   -
-    imageUrl: 'https://github.com/moshfeu/y2mp3/blob/master/app-resources/video.gif'
+    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/video.gif'
     caption: 'Full flow'
     imageLink: 'https://github.com/moshfeu/y2mp3'
 keywords:
