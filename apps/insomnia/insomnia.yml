@@ -8,7 +8,7 @@ keywords:
     - API
     - developer tools
     - GraphQL
-license: AGPL-3.0
+license: MIT
 category: 'Developer Tools'
 homebrewCaskName: insomnia
 screenshots:
