@@ -1,0 +1,28 @@
+name: 'TiCodeX SQL Schema Compare'
+description: 'Compares the schema of two database instances, showing the differences and the migration script.'
+website: 'https://www.ticodex.com'
+category: Productivity
+goodColorOnWhite: '#2A8536'
+goodColorOnBlack: '#39B54A'
+keywords:
+    - sql
+    - 'sql server'
+    - database
+    - 'microsoft sql'
+    - postgresql
+    - mysql
+    - 'sql database comparison'
+    - 'schema compare'
+    - 'database synchronization'
+locales:
+    - en-US
+    - de-DE
+    - it-IT
+license: Commercial
+screenshots:
+    -
+        imageUrl: 'https://www.ticodex.com/images/sqlcompare-screenshot1.png'
+    -
+        imageUrl: 'https://www.ticodex.com/images/sqlcompare-screenshot2.png'
+    -
+        imageUrl: 'https://www.ticodex.com/images/sqlcompare-screenshot3.png'
