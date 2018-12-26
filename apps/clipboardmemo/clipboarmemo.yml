@@ -13,6 +13,10 @@ keywords:
     - productivity
     - 'clipboard manager'
 category: Utilities
+locales:
+  - en-US
+  - es-ES
+  - fr-FR
 screenshots:
     -
         imageUrl: 'https://fabrom.gitlab.io/clipboardmemo/img/clipboardmnu.png'
