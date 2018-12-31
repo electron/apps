@@ -1,8 +1,8 @@
 name: Altus
-description: 'An electron-based WhatsApp client for Windows, Mac and Linux.'
-website: 'https://github.com/ShadyThGod/altus'
-category: 'Social Networking'
-repository: 'git+https://github.com/ShadyThGod/altus.git'
+description: "An electron-based WhatsApp client for Windows, Mac and Linux."
+website: "https://github.com/ShadyThGod/altus"
+category: "Social Networking"
+repository: "https://github.com/ShadyThGod/altus"
 keywords:
-    - ""
-license: 'GNU GPLv3'
+  - ""
+license: "GNU GPLv3"
