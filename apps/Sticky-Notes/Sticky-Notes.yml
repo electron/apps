@@ -1,0 +1,19 @@
+name: Sticki-Notes
+description: 'A Sticky Notes Application'
+repository: 'https://github.com/Playork/Sticky-Note'
+category: Productivity
+keywords:
+    - 'playork'
+    - 'tool'
+    - 'play'
+    - 'game'
+    - 'desktop'
+    - 'gui'
+    - 'work'
+    - 'productivity'
+    - 'note'
+    - 'sticky-note'
+license: MIT
+screenshots:
+    -
+imageUrl: 'https://raw.githubusercontent.com/Playork/Sticky-Note/master/screen.png'
