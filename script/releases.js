@@ -20,7 +20,7 @@ console.log(`${appsWithRepos.filter(shouldUpdateAppReleaseData).length} of those
 
 appsWithRepos.forEach(app => {
   if (shouldUpdateAppReleaseData(app)) {
-  limiter.schedule(getLatestRelease, app)
+    limiter.schedule(getLatestRelease, app)
   } else {
     output[app.slug] = oldReleaseData[app.slug]
   }
