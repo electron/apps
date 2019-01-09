@@ -32,6 +32,7 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "devDependencies": {
+    "@octokit/rest": "^15.15.1",
     "bottleneck": "^1.16.0",
     "chai": "^3.5.0",
     "check-for-leaks": "^1.2.0",
@@ -40,9 +41,7 @@
     "color-convert": "^1.9.1",
     "count-array-values": "^1.2.1",
     "dotenv-safe": "^4.0.4",
-    "duration": "^0.2.0",
     "get-image-colors": "^1.8.1",
-    "@octokit/rest": "^15.15.1",
     "github-url-to-object": "^4.0.2",
     "human-interval": "^0.1.6",
     "husky": "^0.14.3",
