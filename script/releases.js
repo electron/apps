@@ -14,18 +14,16 @@ const limiter = new Bottleneck(MAX_CONCURRENCY)
 
 const apps = require('../lib/raw-app-list')()
 const appsWithRepos = require('../lib/apps-with-github-repos')
-const appsToUpdate = appsWithRepos.filter(app => {
-  const oldData = oldReleaseData[app.slug]
-  if (!oldData) return true
-  const oldDate = new Date(oldData.latestReleaseFetchedAt || null).getTime()
-  return oldDate + RELEASE_CACHE_TTL < Date.now()
-})
 
 console.log(`${appsWithRepos.length} of ${apps.length} apps have a GitHub repo.`)
-console.log(`${appsToUpdate.length} of those ${appsWithRepos.length} have missing or outdated release data.`)
+console.log(`${appsWithRepos.filter(shouldUpdateAppReleaseData).length} of those ${appsWithRepos.length} have missing or outdated release data.`)
 
-appsToUpdate.forEach(app => {
+appsWithRepos.forEach(app => {
+  if (shouldUpdateAppReleaseData(app)) {
   limiter.schedule(getLatestRelease, app)
+  } else {
+    output[app.slug] = oldReleaseData[app.slug]
+  }
 })
 
 limiter.on('idle', () => {
@@ -33,6 +31,13 @@ limiter.on('idle', () => {
   console.log(`Done fetching release data.\nWrote ${outputFile}`)
   process.exit()
 })
+
+function shouldUpdateAppReleaseData (app) {
+  const oldData = oldReleaseData[app.slug]
+  if (!oldData || !oldData.latestReleaseFetchedAt) return true
+  const oldDate = new Date(oldData.latestReleaseFetchedAt || null).getTime()
+  return oldDate + RELEASE_CACHE_TTL < Date.now()
+}
 
 function getLatestRelease (app) {
   const {user: owner, repo} = parseGitUrl(app.repository)
