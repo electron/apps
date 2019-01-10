@@ -1,6 +1,6 @@
 name: gitmoji
 description: 'An emoji guide for your commit messages'
-website: 'https://github.com/Meadowcottage/gitmoji'
+website: 'https://github.com/carloscuesta/gitmoji'
 keywords:
     - git
     - emoji
@@ -8,7 +8,7 @@ keywords:
     - mac
 license: GPL-v3
 category: 'Developer Tools'
-repository: 'https://github.com/Meadowcottage/gitmoji'
+repository: 'https://github.com/carloscuesta/gitmoji'
 screenshots:
     -
-        imageUrl: 'https://github.com/Meadowcottage/gitmoji/blob/master/build/Screenshot.png?raw=true'
+        imageUrl: 'https://github.com/carloscuesta/gitmoji/blob/master/build/Screenshot.png?raw=true'
