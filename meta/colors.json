@@ -623,6 +623,22 @@
       "revHash": "6a2334e7cb"
     }
   },
+  "bearsweeper": {
+    "faintColorOnWhite": "rgba(132, 116, 68, 0.1)",
+    "goodColorOnBlack": "#EDD88E",
+    "goodColorOnWhite": "#847444",
+    "palette": [
+      "#edd88e",
+      "#232221",
+      "#fafafa",
+      "#7c6c46",
+      "#847444"
+    ],
+    "source": {
+      "path": "apps/bearsweeper/bearsweeper-icon.png",
+      "revHash": "ebfdca8c60"
+    }
+  },
   "bearychat": {
     "faintColorOnWhite": "rgba(31, 134, 71, 0.1)",
     "goodColorOnBlack": "#2CBC64",
@@ -1247,6 +1263,22 @@
       "revHash": "1548d2585e"
     }
   },
+  "clipboardmemo": {
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#080404",
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "source": {
+      "path": "apps/clipboardmemo/clipboardmemo-icon.png",
+      "revHash": "b00c4b03c2"
+    }
+  },
   "clippo": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#FAFAFA",
@@ -1437,6 +1469,22 @@
     "source": {
       "path": "apps/colol/colol-icon.png",
       "revHash": "14057903cd"
+    }
+  },
+  "colon": {
+    "faintColorOnWhite": "rgba(129, 76, 4, 0.1)",
+    "goodColorOnBlack": "#FB9304",
+    "goodColorOnWhite": "#814C04",
+    "palette": [
+      "#fb9304",
+      "#130b04",
+      "#562e04",
+      "#814c04",
+      "#8c4c04"
+    ],
+    "source": {
+      "path": "apps/colon/colon-icon.png",
+      "revHash": "4003ce883b"
     }
   },
   "colorpicker": {
@@ -2319,6 +2367,22 @@
       "revHash": "bf5b06c945"
     }
   },
+  "downline": {
+    "faintColorOnWhite": "rgba(15, 106, 252, 0.1)",
+    "goodColorOnBlack": "#2C7CFC",
+    "goodColorOnWhite": "#0F6AFC",
+    "palette": [
+      "#2c7cfc",
+      "#f9fafc",
+      "#94bcfc",
+      "#80aefc",
+      "#9cbcfc"
+    ],
+    "source": {
+      "path": "apps/downline/downline-icon.png",
+      "revHash": "d00c76e8dc"
+    }
+  },
   "dupfinder": {
     "faintColorOnWhite": "rgba(147, 106, 46, 0.1)",
     "goodColorOnBlack": "#F8BC63",
@@ -3149,6 +3213,22 @@
     "source": {
       "path": "apps/gausssense-desktop/gausssense-desktop-icon.png",
       "revHash": "0921c55bfb"
+    }
+  },
+  "geeks-diary": {
+    "faintColorOnWhite": "rgba(36, 36, 36, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#242424",
+    "palette": [
+      "#242424",
+      "#fbfbfb",
+      "#6c6c6c",
+      "#747474",
+      "#5c5c5c"
+    ],
+    "source": {
+      "path": "apps/geeks-diary/geeks-diary-icon.png",
+      "revHash": "4d45f74199"
     }
   },
   "genotify": {
@@ -4845,6 +4925,22 @@
     "source": {
       "path": "apps/luna/luna-icon.png",
       "revHash": "60916abbc3"
+    }
+  },
+  "magiccap": {
+    "faintColorOnWhite": "rgba(115, 77, 125, 0.1)",
+    "goodColorOnBlack": "#BC7C8C",
+    "goodColorOnWhite": "#734D7D",
+    "palette": [
+      "#734d7d",
+      "#fbfbfb",
+      "#858ab5",
+      "#bc7c8c",
+      "#bc848c"
+    ],
+    "source": {
+      "path": "apps/magiccap/magiccap-icon.png",
+      "revHash": "06bb62f49d"
     }
   },
   "mailspring": {
@@ -8415,6 +8511,22 @@
       "revHash": "b597845c31"
     }
   },
+  "snowyowl": {
+    "faintColorOnWhite": "rgba(59, 62, 69, 0.1)",
+    "goodColorOnBlack": "#B4630B",
+    "goodColorOnWhite": "#3B3E45",
+    "palette": [
+      "#3b3e45",
+      "#f5f6f5",
+      "#eabe3b",
+      "#b4630b",
+      "#97989a"
+    ],
+    "source": {
+      "path": "apps/snowyowl/snowyowl-icon.png",
+      "revHash": "d1fa7b5403"
+    }
+  },
   "socialcast": {
     "faintColorOnWhite": "rgba(35, 113, 153, 0.1)",
     "goodColorOnBlack": "#64B3DB",
@@ -8733,6 +8845,22 @@
     "source": {
       "path": "apps/steelseries-engine-3/steelseries-engine-3-icon.png",
       "revHash": "7a70a3a671"
+    }
+  },
+  "sticky-notes": {
+    "faintColorOnWhite": "rgba(6, 6, 4, 0.1)",
+    "goodColorOnBlack": "#FBFB04",
+    "goodColorOnWhite": "#060604",
+    "palette": [
+      "#060604",
+      "#fbfb04",
+      "#a4a404",
+      "#7c7c04",
+      "#bcbc04"
+    ],
+    "source": {
+      "path": "apps/sticky-notes/sticky-notes-icon.png",
+      "revHash": "ae7ab1c179"
     }
   },
   "stoplight": {
@@ -9357,6 +9485,22 @@
     "source": {
       "path": "apps/thunderdocs/thunderdocs-icon.png",
       "revHash": "75b71b536b"
+    }
+  },
+  "ticodex-sql-schema-compare": {
+    "faintColorOnWhite": "rgba(41, 124, 59, 0.1)",
+    "goodColorOnBlack": "#329848",
+    "goodColorOnWhite": "#297C3B",
+    "palette": [
+      "#f3f3f3",
+      "#329848",
+      "#97caa2",
+      "#7ecc88",
+      "#80849a"
+    ],
+    "source": {
+      "path": "apps/ticodex-sql-schema-compare/ticodex-sql-schema-compare-icon.png",
+      "revHash": "eaca8a8700"
     }
   },
   "tidal": {
@@ -10141,6 +10285,22 @@
     "source": {
       "path": "apps/vivifyscrum/vivifyscrum-icon.png",
       "revHash": "3f820f37cb"
+    }
+  },
+  "vizgraph": {
+    "faintColorOnWhite": "rgba(126, 60, 17, 0.1)",
+    "goodColorOnBlack": "#F3884A",
+    "goodColorOnWhite": "#7E3C11",
+    "palette": [
+      "#f07827",
+      "#f3884a",
+      "#48230b",
+      "#9c4e1b",
+      "#7e3c11"
+    ],
+    "source": {
+      "path": "apps/vizgraph/vizgraph-icon.png",
+      "revHash": "b19d1ee43e"
     }
   },
   "vk-messenger": {
@@ -11053,6 +11213,22 @@
     "source": {
       "path": "apps/ytdownloader/ytdownloader-icon.png",
       "revHash": "03c0614d12"
+    }
+  },
+  "ytdx": {
+    "faintColorOnWhite": "rgba(219, 44, 67, 0.1)",
+    "goodColorOnBlack": "#DF4559",
+    "goodColorOnWhite": "#DB2C43",
+    "palette": [
+      "#db2c43",
+      "#242424",
+      "#2c2a2c",
+      "#48282c",
+      "#5e2c2e"
+    ],
+    "source": {
+      "path": "apps/ytdx/ytdx-icon.png",
+      "revHash": "d8d57f77df"
     }
   },
   "z11and2": {
