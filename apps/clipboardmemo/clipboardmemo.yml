@@ -1,0 +1,22 @@
+name: clipboardmemo
+description: 'A full cross-platform clipboard manager.'
+website: 'https://fabrom.gitlab.io/clipboardmemo/'
+repository: 'https://gitlab.com/fabrom/clipboardmemo'
+keywords:
+    - clipboard
+    - native
+    - osx
+    - mac
+    - windows
+    - linux
+    - utilities
+    - productivity
+    - 'clipboard manager'
+category: Utilities
+locales:
+  - en-US
+  - es-ES
+  - fr-FR
+screenshots:
+    -
+        imageUrl: 'https://fabrom.gitlab.io/clipboardmemo/img/clipboardmnu.png'
