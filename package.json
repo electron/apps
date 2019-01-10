@@ -15,9 +15,9 @@
     "build:pack": "node script/pack",
     "prepack": "check-for-leaks",
     "prepush": "check-for-leaks",
-    "test": "mocha --reporter min test/human-data.js test/colors-spec.js && standard --fix",
+    "test": "mocha --reporter spec test/human-data.js test/colors-spec.js && standard --fix",
     "pretest-all": "npm run build",
-    "test-all": "mocha --reporter min && standard --fix",
+    "test-all": "mocha --reporter spec && standard --fix",
     "wizard": "node wizard.js",
     "release": "script/release.sh"
   },
@@ -34,7 +34,7 @@
   "devDependencies": {
     "@octokit/rest": "^15.15.1",
     "bottleneck": "^1.16.0",
-    "chai": "^3.5.0",
+    "chai": "^4.2.0",
     "check-for-leaks": "^1.2.0",
     "cheerio": "^1.0.0-rc.2",
     "clean-deep": "^2.0.1",
@@ -58,6 +58,7 @@
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^2.6.1",
     "sharp": "^0.20.8",
+    "sinon": "^7.2.2",
     "slugg": "^1.1.0",
     "standard": "^10.0.2",
     "yamljs": "^0.2.8"
