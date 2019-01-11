@@ -1,10 +1,10 @@
-name: udemy-dl
+name: udl-gui
 description: 'App to download udemy.com course for personal offline use.'
 website: 'http://riazxrazor.in'
 category: Education
 repository: 'https://github.com/riazXrazor/udemy-dl-gui'
 keywords:
-    - udemy-dl
+    - udl
     - download
     - videos
     - courses
