@@ -1007,6 +1007,22 @@
       "revHash": "93e0c7c13a"
     }
   },
+  "cargo-messenger": {
+    "faintColorOnWhite": "rgba(46, 94, 94, 0.1)",
+    "goodColorOnBlack": "#FAD973",
+    "goodColorOnWhite": "#2E5E5E",
+    "palette": [
+      "#7fcece",
+      "#fad973",
+      "#af7a31",
+      "#2e5e5e",
+      "#467875"
+    ],
+    "source": {
+      "path": "apps/cargo-messenger/cargo-messenger-icon.png",
+      "revHash": "d1f6175f09"
+    }
+  },
   "cashnotify": {
     "faintColorOnWhite": "rgba(60, 36, 124, 0.1)",
     "goodColorOnBlack": "#C4A4E4",
@@ -10045,6 +10061,22 @@
     "source": {
       "path": "apps/udeler/udeler-icon.png",
       "revHash": "9814b40093"
+    }
+  },
+  "udl-gui": {
+    "faintColorOnWhite": "rgba(135, 117, 48, 0.1)",
+    "goodColorOnBlack": "#D3C284",
+    "goodColorOnWhite": "#877530",
+    "palette": [
+      "#44886d",
+      "#fbfbfa",
+      "#977858",
+      "#d3c284",
+      "#8cc4ac"
+    ],
+    "source": {
+      "path": "apps/udl-gui/udl-gui-icon.png",
+      "revHash": "a559588eea"
     }
   },
   "ueli": {
