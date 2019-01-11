@@ -1,10 +1,15 @@
 name: 'Mobile Locker'
-description: 'Mobile Locker is a powerful sales enablement platform for companies with remote sales teams.'
+description: 'Simple sales enablement.'
 youtube_video_url: 'https://www.youtube.com/watch?v=76MBKJrMEn0'
-website: 'https://www.mobilelocker.com'
+website: 'https://www.mobilelocker.com/'
 category: Business
 keywords:
     - sales
     - 'sales enablement'
     - CRM
     - marketing
+screenshots:
+    -
+        imageUrl: 'https://teams.mobilelocker.com/demo_team/assets/mobilelocker-electron-mac.png'
+        caption: 'Mobile Locker for macOS'
+        imageLink: 'https://www.mobilelocker.com/?utm_source=github&utm_medium=repo&utm_campaign=electron-apps'
