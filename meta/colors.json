@@ -8432,19 +8432,19 @@
     }
   },
   "slack": {
-    "faintColorOnWhite": "rgba(219, 19, 77, 0.1)",
-    "goodColorOnBlack": "#EAA923",
-    "goodColorOnWhite": "#DB134D",
+    "faintColorOnWhite": "rgba(228, 28, 92, 0.1)",
+    "goodColorOnBlack": "#34C4F4",
+    "goodColorOnWhite": "#E41C5C",
     "palette": [
-      "#4bb398",
-      "#f2f6f6",
-      "#db134d",
-      "#eaa923",
-      "#32133a"
+      "#2cb47c",
+      "#e41c5c",
+      "#ecb42c",
+      "#34c4f4",
+      "#3cc4f4"
     ],
     "source": {
       "path": "apps/slack/slack-icon.png",
-      "revHash": "b9cbfd3be9"
+      "revHash": "d3cfdb0722"
     }
   },
   "slack-catchup": {
