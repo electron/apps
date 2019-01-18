@@ -16,6 +16,7 @@
     "prepack": "check-for-leaks",
     "prepush": "check-for-leaks",
     "test": "mocha --reporter min test/human-data.js test/colors-spec.js && standard --fix",
+    "test:debug": "mocha --reporter spec test/human-data.js test/colors-spec.js && standard --fix",
     "pretest-all": "npm run build",
     "test-all": "mocha --reporter min && standard --fix",
     "wizard": "node wizard.js",
