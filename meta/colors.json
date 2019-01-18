@@ -5375,6 +5375,22 @@
       "revHash": "16cc991b33"
     }
   },
+  "microsoft-teams": {
+    "faintColorOnWhite": "rgba(84, 84, 172, 0.1)",
+    "goodColorOnBlack": "#9192CC",
+    "goodColorOnWhite": "#5454AC",
+    "palette": [
+      "#5454ac",
+      "#fbfbfb",
+      "#acacd7",
+      "#9192cc",
+      "#a4acd4"
+    ],
+    "source": {
+      "path": "apps/microsoft-teams/microsoft-teams-icon.png",
+      "revHash": "55f01b5081"
+    }
+  },
   "microstockr": {
     "faintColorOnWhite": "rgba(47, 91, 126, 0.1)",
     "goodColorOnBlack": "#8DCBF3",
