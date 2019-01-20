@@ -1,0 +1,20 @@
+name: Assetizr
+description: 'The easiest image resizer & optimizer.'
+website: 'https://assetizr.com'
+category: 'Graphics & Design'
+screenshots:
+    - imageUrl: 'https://assetizr.com/screenshot.c9eba54d.png'
+      caption: 'Assetizr main window'
+locales:
+    - 'en'
+keywords:
+    - design
+    - image
+    - resize
+    - resizer
+    - compress
+    - compression
+    - optimize
+    - optimization
+    - bulk
+    - batch
