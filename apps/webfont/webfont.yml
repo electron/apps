@@ -1,0 +1,14 @@
+name: Webfont
+description: 'Streamline the process of creating and maintaining custom SVG icon fonts.'
+website: 'https://webfontapp.com'
+category: 'Developer Tools'
+keywords:
+    - svg
+    - icon
+    - font
+    - design
+    - sprites
+screenshots:
+  -
+    imageUrl: 'https://webfontapp.com/static/images/hero-image.jpg'
+    caption: 'Webfont app for Moac'
