@@ -12,14 +12,14 @@ license: MIT
 category: 'Productivity'
 screenshots:
     -
-        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/master/media/dark-theme.png'
+        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/dark-theme.png'
         caption: 'Dark theme'
         imageLink: 'https://klaussinani.github.io/tusk'
     -
-        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/master/media/vibrant-theme.png'
+        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/vibrant-theme.png'
         caption: 'Vibrant theme'
         imageLink: 'https://klaussinani.github.io/tusk'
     -
-        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/master/media/black-theme.png'
+        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/black-theme.png'
         caption: 'Black theme'
         imageLink: 'https://klaussinani.github.io/tusk'

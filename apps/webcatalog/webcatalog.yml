@@ -1,10 +1,10 @@
 name: WebCatalog
 description: 'Run Thousands of Web Apps Like Real Apps'
 website: 'https://webcatalog.io'
-repository: 'https://github.com/webcatalog/webcatalog'
+repository: 'https://github.com/quanglam2807/webcatalog'
 screenshots:
     -
-        imageUrl: 'https://raw.githubusercontent.com/webcatalog/webcatalog/master/build-resources/screenshot.png'
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/c1863aabe4d0728ee4fc423a05d3b51ab4245257/build-resources/screenshot.png'
         caption: 'WebCatalog on macOS'
 keywords:
     - 'site-specific browser'
