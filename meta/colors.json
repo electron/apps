@@ -3871,6 +3871,22 @@
       "revHash": "704cd9da1c"
     }
   },
+  "http-toolkit": {
+    "faintColorOnWhite": "rgba(213, 59, 22, 0.1)",
+    "goodColorOnBlack": "#E8441C",
+    "goodColorOnWhite": "#D53B16",
+    "palette": [
+      "#e4441c",
+      "#e44424",
+      "#e8441c",
+      "#e8441c",
+      "#e8441c"
+    ],
+    "source": {
+      "path": "apps/http-toolkit/http-toolkit-icon.png",
+      "revHash": "6eb9290ef0"
+    }
+  },
   "https-checker": {
     "faintColorOnWhite": "rgba(45, 63, 164, 0.1)",
     "goodColorOnBlack": "#909CD4",
@@ -5551,6 +5567,22 @@
       "revHash": "4652e2dcf7"
     }
   },
+  "mobile-locker": {
+    "faintColorOnWhite": "rgba(4, 52, 76, 0.1)",
+    "goodColorOnBlack": "#0C9898",
+    "goodColorOnWhite": "#04344C",
+    "palette": [
+      "#1494b4",
+      "#04344c",
+      "#0c9898",
+      "#0c9898",
+      "#0c9898"
+    ],
+    "source": {
+      "path": "apps/mobile-locker/mobile-locker-icon.png",
+      "revHash": "db388ffe45"
+    }
+  },
   "mobirise": {
     "faintColorOnWhite": "rgba(218, 16, 76, 0.1)",
     "goodColorOnBlack": "#F0346C",
@@ -6127,6 +6159,22 @@
       "revHash": "79041d79e9"
     }
   },
+  "notable": {
+    "faintColorOnWhite": "rgba(35, 35, 34, 0.1)",
+    "goodColorOnBlack": "#F9B646",
+    "goodColorOnWhite": "#232322",
+    "palette": [
+      "#f9b646",
+      "#f4c2b4",
+      "#232322",
+      "#a59490",
+      "#8c7c74"
+    ],
+    "source": {
+      "path": "apps/notable/notable-icon.png",
+      "revHash": "dc8f01be7c"
+    }
+  },
   "notion": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
@@ -6157,6 +6205,22 @@
     "source": {
       "path": "apps/notr/notr-icon.png",
       "revHash": "8b28820d5d"
+    }
+  },
+  "noty": {
+    "faintColorOnWhite": "rgba(105, 100, 65, 0.1)",
+    "goodColorOnBlack": "#FBE748",
+    "goodColorOnWhite": "#696441",
+    "palette": [
+      "#fbf19c",
+      "#fbe748",
+      "#696441",
+      "#aaa36b",
+      "#8c8c5c"
+    ],
+    "source": {
+      "path": "apps/noty/noty-icon.png",
+      "revHash": "f4bcd48f39"
     }
   },
   "now": {
