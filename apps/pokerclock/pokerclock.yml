@@ -1,6 +1,6 @@
 name: PokerClock
 description: 'Poker time & blind tracker.'
-website: 'http://phresh-it.hu/apps/pokerclock/'
+website: 'https://phresh-it.hu/apps/pokerclock/'
 license: MIT
 keywords:
     - poker
