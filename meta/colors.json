@@ -8575,6 +8575,22 @@
       "revHash": "e00b86dd14"
     }
   },
+  "smokerstopper": {
+    "faintColorOnWhite": "rgba(212, 51, 54, 0.1)",
+    "goodColorOnBlack": "#E1D3C1",
+    "goodColorOnWhite": "#D43336",
+    "palette": [
+      "#d43336",
+      "#e1d3c1",
+      "#ab846b",
+      "#1d1817",
+      "#cb9da1"
+    ],
+    "source": {
+      "path": "apps/smokerstopper/smokerstopper-icon.png",
+      "revHash": "64897eee00"
+    }
+  },
   "snake": {
     "faintColorOnWhite": "rgba(108, 108, 108, 0.1)",
     "goodColorOnBlack": "#EDEDED",
@@ -10541,6 +10557,22 @@
     "source": {
       "path": "apps/wail/wail-icon.png",
       "revHash": "913621e7d1"
+    }
+  },
+  "waiterio-restaurant-pos": {
+    "faintColorOnWhite": "rgba(3, 116, 180, 0.1)",
+    "goodColorOnBlack": "#0491E1",
+    "goodColorOnWhite": "#0374B4",
+    "palette": [
+      "#0491e1",
+      "#fbfbfb",
+      "#5dace2",
+      "#9fd0ef",
+      "#3aacec"
+    ],
+    "source": {
+      "path": "apps/waiterio-restaurant-pos/waiterio-restaurant-pos-icon.png",
+      "revHash": "b7ca9caa5c"
     }
   },
   "wakefy": {

@@ -41,7 +41,7 @@
   },
   {
     "name": "Business",
-    "count": 23,
+    "count": 24,
     "slug": "business"
   },
   {
@@ -80,13 +80,13 @@
     "slug": "medical"
   },
   {
+    "name": "Health & Fitness",
+    "count": 2,
+    "slug": "health-fitness"
+  },
+  {
     "name": "Travel",
     "count": 1,
     "slug": "travel"
-  },
-  {
-    "name": "Health & Fitness",
-    "count": 1,
-    "slug": "health-fitness"
   }
 ]
