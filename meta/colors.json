@@ -1535,6 +1535,22 @@
       "revHash": "956bc095da"
     }
   },
+  "concats": {
+    "faintColorOnWhite": "rgba(163, 90, 44, 0.1)",
+    "goodColorOnBlack": "#D1A67B",
+    "goodColorOnWhite": "#A35A2C",
+    "palette": [
+      "#d1a67b",
+      "#2f2e2d",
+      "#a35a2c",
+      "#93846d",
+      "#907c74"
+    ],
+    "source": {
+      "path": "apps/concats/concats-icon.png",
+      "revHash": "0df2871568"
+    }
+  },
   "container-ps": {
     "faintColorOnWhite": "rgba(48, 108, 200, 0.1)",
     "goodColorOnBlack": "#248CB4",
