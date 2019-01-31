@@ -1,0 +1,16 @@
+name: Freelook
+description: 'Microsoft Outlook Live desktop email client.'
+website: 'https://github.com/eNkru/electron-outlook'
+category: Productivity
+repository: 'https://github.com/eNkru/electron-outlook'
+keywords:
+    - Email
+    - Outlook
+    - Hotmail
+    - Productivity
+    - Utility
+screenshots:
+    -
+        imageUrl: 'https://user-images.githubusercontent.com/13460738/35953459-a0875872-0ce9-11e8-9bca-880564b9beee.png'
+        caption: 'Main Interface'
+license: MIT
