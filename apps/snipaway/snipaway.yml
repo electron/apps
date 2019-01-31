@@ -1,0 +1,15 @@
+name: SnipAway
+description: 'Customizable snippet manager made for developers and 
+people who work with code'
+website: 'https://snipaway.futureglobe.de/'
+category: 'Productivity'
+keywords:
+    - snippetmanager
+    - snippet
+    - manager
+screenshots:
+  -
+    imageUrl: 'https://snipaway.futureglobe.de/img/banner-img.jpg'
+    caption: 'SnipAway'
+    imageLink: 'https://snipaway.futureglobe.de/'
+
