@@ -1,0 +1,17 @@
+
+name: moemusic
+description: 'A moe music by netease-cloud-music'
+website: 'http://moe.kozo4.ooo'
+repository: 'https://github.com/d1y/moemusic'
+screenshots:
+    -
+        imageUrl: 'https://i.loli.net/2019/02/06/5c5aba941158a.gif'
+    -
+        imageUrl: 'https://i.loli.net/2019/02/06/5c5abaa789777.gif'
+    -
+        imageUrl: 'https://i.loli.net/2019/02/06/5c5abab58eb2e.gif'
+keywords:
+    - moe
+    - music
+    - netease
+category: music
