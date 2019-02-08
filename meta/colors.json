@@ -8591,6 +8591,22 @@
       "revHash": "e00b86dd14"
     }
   },
+  "smartholdem": {
+    "faintColorOnWhite": "rgba(220, 52, 76, 0.1)",
+    "goodColorOnBlack": "#E0344C",
+    "goodColorOnWhite": "#DC344C",
+    "palette": [
+      "#dc344c",
+      "#e0344c",
+      "#e0344c",
+      "#e0344c",
+      "#e0344c"
+    ],
+    "source": {
+      "path": "apps\\smartholdem\\smartholdem-icon.png",
+      "revHash": "8a7036b334"
+    }
+  },
   "smokerstopper": {
     "faintColorOnWhite": "rgba(212, 51, 54, 0.1)",
     "goodColorOnBlack": "#E1D3C1",
