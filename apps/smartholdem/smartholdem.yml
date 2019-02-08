@@ -1,5 +1,5 @@
 name: SmartHoldem
-description: 'SmartHoldem graphical user interface for desktop'
+description: 'Graphical user interface for desktop decentralized gaming platform'
 website: 'https://smartholdem.io'
 category: Finance
 repository: 'https://github.com/smartholdem/smartholdem-wallet'
@@ -15,3 +15,14 @@ keywords:
     - coin
     - token
 license: MIT
+locales:
+    - zh-CN
+    - pt-BR
+    - en
+    - ru
+    - de
+    - ja
+    - ko
+    - it
+    - tr
+

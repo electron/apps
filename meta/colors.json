@@ -8592,19 +8592,19 @@
     }
   },
   "smartholdem": {
-    "faintColorOnWhite": "rgba(220, 52, 76, 0.1)",
-    "goodColorOnBlack": "#E0344C",
-    "goodColorOnWhite": "#DC344C",
+    "faintColorOnWhite": "rgba(7, 34, 34, 0.1)",
+    "goodColorOnBlack": "#E3354E",
+    "goodColorOnWhite": "#072222",
     "palette": [
-      "#dc344c",
-      "#e0344c",
-      "#e0344c",
-      "#e0344c",
-      "#e0344c"
+      "#e3354e",
+      "#2a242b",
+      "#952e3f",
+      "#072222",
+      "#5f2c34"
     ],
     "source": {
       "path": "apps\\smartholdem\\smartholdem-icon.png",
-      "revHash": "8a7036b334"
+      "revHash": "f757ca042f"
     }
   },
   "smokerstopper": {
