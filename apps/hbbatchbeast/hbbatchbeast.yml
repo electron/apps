@@ -1,0 +1,13 @@
+name: HBBatchBeast
+description: 'A GUI application for Handbrake on Windows, macOS and Linux with an emphasis on batch conversion (including recursive folder scans and folder watching). Can also perform a basic scan for corrupt videos.'
+website: 'https://github.com/HaveAGitGat/HBBatchBeast'
+repository: 'https://github.com/HaveAGitGat/HBBatchBeast'
+screenshots:
+    -
+        imageUrl: 'https://i.imgur.com/XMLxDxs.png'
+        caption: 'Health check example'
+keywords:
+    - conversion
+    - transcoding
+    - videos
+category: Utilities
