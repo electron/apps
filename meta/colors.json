@@ -3167,6 +3167,22 @@
       "revHash": "2f9d5dc3a6"
     }
   },
+  "front": {
+    "faintColorOnWhite": "rgba(234, 5, 5, 0.1)",
+    "goodColorOnBlack": "#FC6C6C",
+    "goodColorOnWhite": "#EA0505",
+    "palette": [
+      "#fc6c6c",
+      "#fcfbfb",
+      "#fcb9b9",
+      "#fca4a4",
+      "#fccccc"
+    ],
+    "source": {
+      "path": "apps/front/front-icon.png",
+      "revHash": "91b8139c04"
+    }
+  },
   "fudget": {
     "faintColorOnWhite": "rgba(181, 76, 2, 0.1)",
     "goodColorOnBlack": "#FC791D",
