@@ -1,6 +1,6 @@
-name: 'Unicode Plus'
+name: 'Unicopedia Plus'
 description: 'Set of Unicode, Unihan & emoji utilities wrapped into one single app.'
-website: 'https://github.com/tonton-pixel/unicode-plus'
+website: 'https://github.com/tonton-pixel/unicopedia-plus'
 category: Utilities
 keywords:
     - characters
@@ -14,4 +14,3 @@ keywords:
     - unihan
     - utility
 license: MIT
-disabled: true # Renamed Unicode Plus to Unicopedia Plus
