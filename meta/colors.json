@@ -3759,6 +3759,22 @@
       "revHash": "0da7fdf0de"
     }
   },
+  "hbbatchbeast": {
+    "faintColorOnWhite": "rgba(41, 50, 54, 0.1)",
+    "goodColorOnBlack": "#CCECF9",
+    "goodColorOnWhite": "#293236",
+    "palette": [
+      "#ccecf9",
+      "#293236",
+      "#7e9eae",
+      "#64666c",
+      "#7c7c7c"
+    ],
+    "source": {
+      "path": "apps/hbbatchbeast/hbbatchbeast-icon.png",
+      "revHash": "82c16864d9"
+    }
+  },
   "headlines": {
     "faintColorOnWhite": "rgba(33, 63, 146, 0.1)",
     "goodColorOnBlack": "#8494C4",
@@ -3965,6 +3981,22 @@
     "source": {
       "path": "apps/hyper/hyper-icon.png",
       "revHash": "b4d9035301"
+    }
+  },
+  "hyperspace": {
+    "faintColorOnWhite": "rgba(75, 38, 120, 0.1)",
+    "goodColorOnBlack": "#946CBC",
+    "goodColorOnWhite": "#4B2678",
+    "palette": [
+      "#4b2678",
+      "#e8e2f0",
+      "#946cbc",
+      "#8d73aa",
+      "#a48cbc"
+    ],
+    "source": {
+      "path": "apps/hyperspace/hyperspace-icon.png",
+      "revHash": "5467ab16e9"
     }
   },
   "i18n-manager": {
@@ -5917,6 +5949,22 @@
     "source": {
       "path": "apps/museeks/museeks-icon.png",
       "revHash": "d1d666bc67"
+    }
+  },
+  "music-kitten": {
+    "faintColorOnWhite": "rgba(226, 17, 64, 0.1)",
+    "goodColorOnBlack": "#F8A3B6",
+    "goodColorOnWhite": "#E21140",
+    "palette": [
+      "#f04364",
+      "#f5f5f5",
+      "#e88c9e",
+      "#f8a3b6",
+      "#d7adb4"
+    ],
+    "source": {
+      "path": "apps/music-kitten/music-kitten-icon.png",
+      "revHash": "9b9b5e1092"
     }
   },
   "music-player": {
@@ -8976,19 +9024,19 @@
     }
   },
   "station": {
-    "faintColorOnWhite": "rgba(45, 45, 45, 0.1)",
-    "goodColorOnBlack": "#FBFBFB",
-    "goodColorOnWhite": "#2D2D2D",
+    "faintColorOnWhite": "rgba(22, 26, 188, 0.1)",
+    "goodColorOnBlack": "#47C0DF",
+    "goodColorOnWhite": "#161ABC",
     "palette": [
-      "#fbfbfb",
-      "#2d2d2d",
-      "#949494",
-      "#a4a4a4",
-      "#b2b2b2"
+      "#2b60c9",
+      "#47c0df",
+      "#3993d5",
+      "#161abc",
+      "#2444c4"
     ],
     "source": {
       "path": "apps/station/station-icon.png",
-      "revHash": "3e630ff55e"
+      "revHash": "71dca6c043"
     }
   },
   "steelseries-engine-3": {
@@ -10271,6 +10319,22 @@
       "revHash": "b72cca16c2"
     }
   },
+  "unicopedia-plus": {
+    "faintColorOnWhite": "rgba(35, 124, 156, 0.1)",
+    "goodColorOnBlack": "#A9CADA",
+    "goodColorOnWhite": "#237C9C",
+    "palette": [
+      "#237c9c",
+      "#fbfbfb",
+      "#8cbccc",
+      "#a9cada",
+      "#7cb4c4"
+    ],
+    "source": {
+      "path": "apps/unicopedia-plus/unicopedia-plus-icon.png",
+      "revHash": "efb5c7c27d"
+    }
+  },
   "unofficial-zalo": {
     "faintColorOnWhite": "rgba(11, 117, 177, 0.1)",
     "goodColorOnBlack": "#0C83C6",
@@ -11439,6 +11503,22 @@
       "revHash": "6db6737e5c"
     }
   },
+  "zap": {
+    "faintColorOnWhite": "rgba(36, 36, 52, 0.1)",
+    "goodColorOnBlack": "#E99411",
+    "goodColorOnWhite": "#242434",
+    "palette": [
+      "#242434",
+      "#dbdbdb",
+      "#e99411",
+      "#7b777b",
+      "#8b8c90"
+    ],
+    "source": {
+      "path": "apps/zap/zap-icon.png",
+      "revHash": "8baf8a2cd3"
+    }
+  },
   "zazu-app": {
     "faintColorOnWhite": "rgba(36, 36, 28, 0.1)",
     "goodColorOnBlack": "#818165",
@@ -11520,19 +11600,19 @@
     }
   },
   "zettlr": {
-    "faintColorOnWhite": "rgba(5, 59, 4, 0.1)",
-    "goodColorOnBlack": "#3DB634",
-    "goodColorOnWhite": "#053B04",
+    "faintColorOnWhite": "rgba(38, 127, 98, 0.1)",
+    "goodColorOnBlack": "#33AB83",
+    "goodColorOnWhite": "#267F62",
     "palette": [
-      "#3db634",
-      "#ecedd9",
-      "#053b04",
-      "#74ae6c",
-      "#92a88c"
+      "#fbfbfb",
+      "#33ab83",
+      "#90d0bc",
+      "#84cab1",
+      "#5dbc9a"
     ],
     "source": {
       "path": "apps/zettlr/zettlr-icon.png",
-      "revHash": "5f81ccb113"
+      "revHash": "2e85eaaf6f"
     }
   },
   "zlilith": {

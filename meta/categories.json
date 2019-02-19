@@ -11,7 +11,7 @@
   },
   {
     "name": "Utilities",
-    "count": 115,
+    "count": 117,
     "slug": "utilities"
   },
   {
@@ -20,14 +20,14 @@
     "slug": "music"
   },
   {
+    "name": "Social Networking",
+    "count": 41,
+    "slug": "social-networking"
+  },
+  {
     "name": "Photo & Video",
     "count": 41,
     "slug": "photo-video"
-  },
-  {
-    "name": "Social Networking",
-    "count": 40,
-    "slug": "social-networking"
   },
   {
     "name": "Games",
@@ -56,7 +56,7 @@
   },
   {
     "name": "Entertainment",
-    "count": 6,
+    "count": 7,
     "slug": "entertainment"
   },
   {
@@ -65,14 +65,14 @@
     "slug": "books"
   },
   {
-    "name": "Lifestyle",
-    "count": 4,
-    "slug": "lifestyle"
-  },
-  {
     "name": "News",
     "count": 4,
     "slug": "news"
+  },
+  {
+    "name": "Lifestyle",
+    "count": 4,
+    "slug": "lifestyle"
   },
   {
     "name": "Medical",
