@@ -1,12 +1,11 @@
 name: Wexond
-description: 'Extensible web browser with beautiful UI'
+description: 'An extensible web browser with beautiful UI and some innovative features.'
 category: Productivity
 repository: 'https://github.com/wexond/wexond'
 keywords:
-    - web-browser
+    - browser
     - material
-    - styled-components
-    - webpack
-    - mobx
+    - extensions
+    - plugins
     - react
 license: MIT
