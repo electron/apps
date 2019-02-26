@@ -1,8 +1,8 @@
 name: Freelook
-description: 'Microsoft Outlook Live desktop email client.'
-website: 'https://github.com/eNkru/electron-outlook'
+description: 'Freelook, an Electron-based client for Microsoft Outlook.'
+website: 'https://github.com/eNkru/freelook'
 category: Productivity
-repository: 'https://github.com/eNkru/electron-outlook'
+repository: 'https://github.com/eNkru/freelook'
 keywords:
     - Email
     - Outlook
