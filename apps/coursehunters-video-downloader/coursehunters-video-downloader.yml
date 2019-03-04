@@ -1,0 +1,13 @@
+name: coursehunters-video-downloader
+description: 'A useful tool to help you download thousands of tutorial from coursehunters.net'
+website: 'https://github.com/qiandongyq/coursehunters-video-downloader'
+category: Education
+repository: 'https://github.com/qiandongyq/coursehunters-video-downloader'
+keywords:
+    - education
+    - video
+    - download
+    - coursehunter
+    - tool
+    - productivity
+license: MIT
