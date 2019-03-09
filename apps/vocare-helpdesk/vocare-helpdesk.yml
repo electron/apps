@@ -5,3 +5,4 @@ category: Business
 keywords:
     - helpdesk
     - support
+disabled: true # no longer uses electron
