@@ -1,0 +1,12 @@
+name: MeTube-electron
+description: 'listen to music from YouTube'
+website: 'https://hazel-7kekw351w.now.sh'
+category: Music
+repository: 'https://github.com/kimyearho/Metube-electron'
+keywords:
+    - Youtube
+    - Music
+    - Video
+    - Electron
+    - Desktop
+    - Music Player
