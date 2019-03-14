@@ -1,6 +1,6 @@
-name: email-securely-app
+name: 'ElectronMail'
 description: 'Unofficial desktop client for ProtonMail and Tutanota end-to-end encrypted email providers'
-website: 'https://github.com/vladimiry/email-securely-app'
+website: 'https://github.com/vladimiry/ElectronMail'
 license: MIT
 category: Productivity
 keywords:
@@ -12,4 +12,4 @@ keywords:
 - protonmail
 - typescript
 screenshots:
-- imageUrl: 'https://user-images.githubusercontent.com/1560781/43053165-d2e46be0-8e33-11e8-8b93-07d22d5f1677.gif'
+- imageUrl: 'https://user-images.githubusercontent.com/1560781/54371103-e7818600-4689-11e9-89a1-c62f2bda16f0.gif'
