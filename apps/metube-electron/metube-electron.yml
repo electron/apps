@@ -1,6 +1,6 @@
 name: Metube-electron
 description: 'A program to manage your simple YouTube music player and enjoy your music'
-website: 'https://hazel-7kekw351w.now.sh'
+website: 'https://www.metube-official.com'
 category: Music
 repository: 'https://github.com/kimyearho/Metube-electron'
 keywords:
@@ -9,4 +9,4 @@ keywords:
     - Video
     - Electron
     - Desktop
-    - Music Player
+    - MusicPlayer
