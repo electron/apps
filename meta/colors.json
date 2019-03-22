@@ -303,6 +303,22 @@
       "revHash": "c3d48fda68"
     }
   },
+  "android-messages": {
+    "faintColorOnWhite": "rgba(51, 92, 196, 0.1)",
+    "goodColorOnBlack": "#7690CF",
+    "goodColorOnWhite": "#335CC4",
+    "palette": [
+      "#335cc4",
+      "#e9e9e9",
+      "#7690cf",
+      "#94a4d4",
+      "#a4acd4"
+    ],
+    "source": {
+      "path": "apps/android-messages/android-messages-icon.png",
+      "revHash": "36e1b694af"
+    }
+  },
   "anote": {
     "faintColorOnWhite": "rgba(217, 4, 4, 0.1)",
     "goodColorOnBlack": "#F10404",
@@ -541,6 +557,22 @@
     "source": {
       "path": "apps/avocode/avocode-icon.png",
       "revHash": "de8d4ad2b6"
+    }
+  },
+  "aws-s3-backup": {
+    "faintColorOnWhite": "rgba(134, 25, 158, 0.1)",
+    "goodColorOnBlack": "#65E0F3",
+    "goodColorOnWhite": "#86199E",
+    "palette": [
+      "#5127a5",
+      "#65e0f3",
+      "#356fdc",
+      "#86199e",
+      "#d94e93"
+    ],
+    "source": {
+      "path": "apps/aws-s3-backup/aws-s3-backup-icon.png",
+      "revHash": "449b72bb28"
     }
   },
   "backlog": {
@@ -3087,6 +3119,22 @@
       "revHash": "5a3695cf00"
     }
   },
+  "freelook": {
+    "faintColorOnWhite": "rgba(4, 101, 169, 0.1)",
+    "goodColorOnBlack": "#7CB4E4",
+    "goodColorOnWhite": "#0465A9",
+    "palette": [
+      "#0465a9",
+      "#fbfbfb",
+      "#6b9abe",
+      "#88accc",
+      "#7cb4e4"
+    ],
+    "source": {
+      "path": "apps/freelook/freelook-icon.png",
+      "revHash": "c0e7dc699e"
+    }
+  },
   "freeman": {
     "faintColorOnWhite": "rgba(32, 32, 48, 0.1)",
     "goodColorOnBlack": "#EAEAF7",
@@ -3295,6 +3343,22 @@
       "revHash": "100cbc00a0"
     }
   },
+  "getraenkeliste": {
+    "faintColorOnWhite": "rgba(129, 116, 44, 0.1)",
+    "goodColorOnBlack": "#FBE658",
+    "goodColorOnWhite": "#81742C",
+    "palette": [
+      "#fbe658",
+      "#040404",
+      "#fafafa",
+      "#81742c",
+      "#8e7e2c"
+    ],
+    "source": {
+      "path": "apps/getraenkeliste/getraenkeliste-icon.png",
+      "revHash": "ed267c4d12"
+    }
+  },
   "gf-trader": {
     "faintColorOnWhite": "rgba(17, 120, 167, 0.1)",
     "goodColorOnBlack": "#1386BA",
@@ -3501,6 +3565,22 @@
     "source": {
       "path": "apps/glass-browser/glass-browser-icon.png",
       "revHash": "a1f1290243"
+    }
+  },
+  "gluppi": {
+    "faintColorOnWhite": "rgba(205, 65, 29, 0.1)",
+    "goodColorOnBlack": "#EC917A",
+    "goodColorOnWhite": "#CD411D",
+    "palette": [
+      "#fbfafa",
+      "#dc542c",
+      "#ec917a",
+      "#f0ac94",
+      "#e57c5c"
+    ],
+    "source": {
+      "path": "apps/gluppi/gluppi-icon.png",
+      "revHash": "659a965581"
     }
   },
   "glyphr-studio": {
@@ -3984,19 +4064,19 @@
     }
   },
   "hyperspace": {
-    "faintColorOnWhite": "rgba(75, 38, 120, 0.1)",
-    "goodColorOnBlack": "#946CBC",
-    "goodColorOnWhite": "#4B2678",
+    "faintColorOnWhite": "rgba(35, 14, 52, 0.1)",
+    "goodColorOnBlack": "#FAE19F",
+    "goodColorOnWhite": "#230E34",
     "palette": [
-      "#4b2678",
-      "#e8e2f0",
-      "#946cbc",
-      "#8d73aa",
-      "#a48cbc"
+      "#fae19f",
+      "#563a81",
+      "#230e34",
+      "#b6997c",
+      "#9672c4"
     ],
     "source": {
       "path": "apps/hyperspace/hyperspace-icon.png",
-      "revHash": "5467ab16e9"
+      "revHash": "c80b0e4fcc"
     }
   },
   "i18n-manager": {
@@ -4975,6 +5055,22 @@
       "revHash": "551386e586"
     }
   },
+  "local-browser": {
+    "faintColorOnWhite": "rgba(76, 14, 4, 0.1)",
+    "goodColorOnBlack": "#FB3414",
+    "goodColorOnWhite": "#4C0E04",
+    "palette": [
+      "#230404",
+      "#fb3414",
+      "#781909",
+      "#a7230c",
+      "#4c0e04"
+    ],
+    "source": {
+      "path": "apps/local-browser/local-browser-icon.png",
+      "revHash": "0ff53575d4"
+    }
+  },
   "losslesscut": {
     "faintColorOnWhite": "rgba(14, 53, 59, 0.1)",
     "goodColorOnBlack": "#22A0B8",
@@ -5295,6 +5391,22 @@
       "revHash": "98783428ce"
     }
   },
+  "md5app": {
+    "faintColorOnWhite": "rgba(180, 36, 20, 0.1)",
+    "goodColorOnBlack": "#E63521",
+    "goodColorOnWhite": "#B42414",
+    "palette": [
+      "#b42414",
+      "#b82414",
+      "#b82414",
+      "#b82414",
+      "#b82414"
+    ],
+    "source": {
+      "path": "apps/md5app/md5app-icon.png",
+      "revHash": "830c23bf81"
+    }
+  },
   "mdnote": {
     "faintColorOnWhite": "rgba(142, 100, 36, 0.1)",
     "goodColorOnBlack": "#FBAB04",
@@ -5439,20 +5551,20 @@
       "revHash": "b4482ca7ba"
     }
   },
-  "metube": {
+  "metube-electron": {
     "faintColorOnWhite": "rgba(220, 36, 36, 0.1)",
     "goodColorOnBlack": "#EC8C8C",
     "goodColorOnWhite": "#DC2424",
     "palette": [
       "#dc2424",
-      "#fbf9f9",
-      "#e67171",
+      "#fbf8f8",
+      "#e66f70",
       "#ec9494",
       "#ec8c8c"
     ],
     "source": {
-      "path": "apps/metube/metube-icon.png",
-      "revHash": "16cc991b33"
+      "path": "apps/metube-electron/metube-electron-icon.png",
+      "revHash": "b8263e860e"
     }
   },
   "microsoft-teams": {
@@ -5919,6 +6031,22 @@
       "revHash": "11e13eea37"
     }
   },
+  "multrin": {
+    "faintColorOnWhite": "rgba(230, 14, 86, 0.1)",
+    "goodColorOnBlack": "#FCCCDC",
+    "goodColorOnWhite": "#E60E56",
+    "palette": [
+      "#b96ed1",
+      "#fbfbfb",
+      "#7dced7",
+      "#deade7",
+      "#fcccdc"
+    ],
+    "source": {
+      "path": "apps/multrin/multrin-icon.png",
+      "revHash": "07785457c5"
+    }
+  },
   "muno": {
     "faintColorOnWhite": "rgba(4, 94, 121, 0.1)",
     "goodColorOnBlack": "#04B2E1",
@@ -6173,6 +6301,22 @@
     "source": {
       "path": "apps/nfov/nfov-icon.png",
       "revHash": "c94238d597"
+    }
+  },
+  "nicepage": {
+    "faintColorOnWhite": "rgba(26, 100, 249, 0.1)",
+    "goodColorOnBlack": "#84ACFC",
+    "goodColorOnWhite": "#1A64F9",
+    "palette": [
+      "#f9fafc",
+      "#3c84f4",
+      "#649cf4",
+      "#9cc4fc",
+      "#84acfc"
+    ],
+    "source": {
+      "path": "apps/nicepage/nicepage-icon.png",
+      "revHash": "50dd69356b"
     }
   },
   "nighthawk": {
@@ -6493,6 +6637,22 @@
     "source": {
       "path": "apps/opale-messenger/opale-messenger-icon.png",
       "revHash": "ba50a99247"
+    }
+  },
+  "open-log-viewer": {
+    "faintColorOnWhite": "rgba(6, 6, 6, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#060606",
+    "palette": [
+      "#060606",
+      "#fbfbfb",
+      "#a2a2a2",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/open-log-viewer/open-log-viewer-icon.png",
+      "revHash": "f5f9b9818f"
     }
   },
   "open-stage-control": {
@@ -7743,6 +7903,22 @@
       "revHash": "8ba2fe61af"
     }
   },
+  "radio5050": {
+    "faintColorOnWhite": "rgba(190, 55, 11, 0.1)",
+    "goodColorOnBlack": "#EADF41",
+    "goodColorOnWhite": "#BE370B",
+    "palette": [
+      "#9b923d",
+      "#be370b",
+      "#353419",
+      "#d6ddd3",
+      "#eadf41"
+    ],
+    "source": {
+      "path": "apps/radio5050/radio5050-icon.png",
+      "revHash": "40e7fbe1bd"
+    }
+  },
   "rambox": {
     "faintColorOnWhite": "rgba(41, 49, 98, 0.1)",
     "goodColorOnBlack": "#3294B3",
@@ -8047,6 +8223,22 @@
       "revHash": "b178be1635"
     }
   },
+  "saadhn": {
+    "faintColorOnWhite": "rgba(44, 131, 117, 0.1)",
+    "goodColorOnBlack": "#78D2C4",
+    "goodColorOnWhite": "#2C8375",
+    "palette": [
+      "#62c5b3",
+      "#fbfbfb",
+      "#9ad7ca",
+      "#78d2c4",
+      "#43c0ac"
+    ],
+    "source": {
+      "path": "apps/saadhn/saadhn-icon.png",
+      "revHash": "c6f3893580"
+    }
+  },
   "sai": {
     "faintColorOnWhite": "rgba(72, 16, 202, 0.1)",
     "goodColorOnBlack": "#F8AE0B",
@@ -8077,6 +8269,22 @@
     "source": {
       "path": "apps/sandman/sandman-icon.png",
       "revHash": "e69b320c8c"
+    }
+  },
+  "scancode-workbench": {
+    "faintColorOnWhite": "rgba(4, 100, 204, 0.1)",
+    "goodColorOnBlack": "#5092DE",
+    "goodColorOnWhite": "#0464CC",
+    "palette": [
+      "#0464cc",
+      "#f2f6fa",
+      "#5092de",
+      "#74ace4",
+      "#3484d4"
+    ],
+    "source": {
+      "path": "apps/scancode-workbench/scancode-workbench-icon.png",
+      "revHash": "cb4370cf23"
     }
   },
   "school-timetable": {
@@ -8527,6 +8735,22 @@
       "revHash": "d6e245c1a6"
     }
   },
+  "simpico": {
+    "faintColorOnWhite": "rgba(20, 68, 99, 0.1)",
+    "goodColorOnBlack": "#9BF323",
+    "goodColorOnWhite": "#144463",
+    "palette": [
+      "#9bf323",
+      "#144463",
+      "#58994a",
+      "#428448",
+      "#3c745c"
+    ],
+    "source": {
+      "path": "apps/simpico/simpico-icon.png",
+      "revHash": "305af3112d"
+    }
+  },
   "simplenote": {
     "faintColorOnWhite": "rgba(43, 118, 186, 0.1)",
     "goodColorOnBlack": "#4A93D5",
@@ -8701,6 +8925,22 @@
     "source": {
       "path": "apps/snake/snake-icon.png",
       "revHash": "0864d06769"
+    }
+  },
+  "snipaway": {
+    "faintColorOnWhite": "rgba(68, 76, 84, 0.1)",
+    "goodColorOnBlack": "#74C4FB",
+    "goodColorOnWhite": "#444C54",
+    "palette": [
+      "#74c4fb",
+      "#fbfbfb",
+      "#444c54",
+      "#8e9497",
+      "#c4c4c7"
+    ],
+    "source": {
+      "path": "apps/snipaway/snipaway-icon.png",
+      "revHash": "63654be646"
     }
   },
   "snippetstore": {
@@ -8975,6 +9215,22 @@
       "revHash": "34a8f50824"
     }
   },
+  "stacker": {
+    "faintColorOnWhite": "rgba(102, 116, 31, 0.1)",
+    "goodColorOnBlack": "#ACC434",
+    "goodColorOnWhite": "#66741F",
+    "palette": [
+      "#9cb433",
+      "#a4b933",
+      "#acc434",
+      "#a4c434",
+      "#9cbc34"
+    ],
+    "source": {
+      "path": "apps/stacker/stacker-icon.png",
+      "revHash": "a11c9c6ef2"
+    }
+  },
   "stamp": {
     "faintColorOnWhite": "rgba(153, 5, 63, 0.1)",
     "goodColorOnBlack": "#9BC0CA",
@@ -9055,7 +9311,7 @@
       "revHash": "7a70a3a671"
     }
   },
-  "sticky-notes": {
+  "stickynotes": {
     "faintColorOnWhite": "rgba(6, 6, 4, 0.1)",
     "goodColorOnBlack": "#FBFB04",
     "goodColorOnWhite": "#060604",
@@ -9067,7 +9323,7 @@
       "#bcbc04"
     ],
     "source": {
-      "path": "apps/sticky-notes/sticky-notes-icon.png",
+      "path": "apps/stickynotes/stickynotes-icon.png",
       "revHash": "ae7ab1c179"
     }
   },
@@ -9855,6 +10111,22 @@
       "revHash": "b80a75565b"
     }
   },
+  "todo-sticker": {
+    "faintColorOnWhite": "rgba(163, 106, 3, 0.1)",
+    "goodColorOnBlack": "#FBA304",
+    "goodColorOnWhite": "#A36A03",
+    "palette": [
+      "#fbe383",
+      "#fba304",
+      "#48b064",
+      "#f44434",
+      "#8b8d8a"
+    ],
+    "source": {
+      "path": "apps/todo-sticker/todo-sticker-icon.png",
+      "revHash": "6f3dc65699"
+    }
+  },
   "todokit": {
     "faintColorOnWhite": "rgba(23, 23, 23, 0.1)",
     "goodColorOnBlack": "#F5F5F5",
@@ -10013,6 +10285,22 @@
     "source": {
       "path": "apps/treevea/treevea-icon.png",
       "revHash": "66d3cbb95f"
+    }
+  },
+  "trico": {
+    "faintColorOnWhite": "rgba(4, 20, 28, 0.1)",
+    "goodColorOnBlack": "#34E1E9",
+    "goodColorOnWhite": "#04141C",
+    "palette": [
+      "#04141c",
+      "#f1b4aa",
+      "#34e1e9",
+      "#4e5b67",
+      "#747c84"
+    ],
+    "source": {
+      "path": "apps/trico/trico-icon.png",
+      "revHash": "7709554c59"
     }
   },
   "trilium-notes": {
@@ -10301,6 +10589,22 @@
     "source": {
       "path": "apps/un-colored/un-colored-icon.png",
       "revHash": "0439ee9e91"
+    }
+  },
+  "unfx-proxy-checker": {
+    "faintColorOnWhite": "rgba(34, 122, 86, 0.1)",
+    "goodColorOnBlack": "#34BC84",
+    "goodColorOnWhite": "#227A56",
+    "palette": [
+      "#34bc84",
+      "#38bc84",
+      "#38bc84",
+      "#38bc84",
+      "#38bc84"
+    ],
+    "source": {
+      "path": "apps/unfx-proxy-checker/unfx-proxy-checker-icon.png",
+      "revHash": "29f6219303"
     }
   },
   "unicode-plus": {
@@ -10944,19 +11248,19 @@
     }
   },
   "wexond": {
-    "faintColorOnWhite": "rgba(70, 104, 210, 0.1)",
-    "goodColorOnBlack": "#7B93DF",
-    "goodColorOnWhite": "#4668D2",
+    "faintColorOnWhite": "rgba(2, 120, 186, 0.1)",
+    "goodColorOnBlack": "#09A5FC",
+    "goodColorOnWhite": "#0278BA",
     "palette": [
-      "#7b93df",
-      "#fbfbfb",
-      "#b9bed2",
-      "#a4a4a4",
-      "#acacac"
+      "#2280fc",
+      "#fbfbfc",
+      "#09a5fc",
+      "#79ccfc",
+      "#6cb3fc"
     ],
     "source": {
       "path": "apps/wexond/wexond-icon.png",
-      "revHash": "0298c5f8ed"
+      "revHash": "701bd49604"
     }
   },
   "whale": {
@@ -11101,6 +11405,22 @@
     "source": {
       "path": "apps/wire/wire-icon.png",
       "revHash": "bb1cac7914"
+    }
+  },
+  "wnr": {
+    "faintColorOnWhite": "rgba(61, 104, 237, 0.1)",
+    "goodColorOnBlack": "#5C80F0",
+    "goodColorOnWhite": "#3D68ED",
+    "palette": [
+      "#5493ec",
+      "#e95456",
+      "#a1b9e4",
+      "#ec9696",
+      "#5c80f0"
+    ],
+    "source": {
+      "path": "apps/wnr/wnr-icon.png",
+      "revHash": "45fc9c0860"
     }
   },
   "wonder-reader": {
@@ -11661,6 +11981,22 @@
     "source": {
       "path": "apps/zoommy/zoommy-icon.png",
       "revHash": "0251ba8754"
+    }
+  },
+  "zulip": {
+    "faintColorOnWhite": "rgba(34, 108, 66, 0.1)",
+    "goodColorOnBlack": "#B2DBCF",
+    "goodColorOnWhite": "#226C42",
+    "palette": [
+      "#226c42",
+      "#b2dbcf",
+      "#59a476",
+      "#71a487",
+      "#6c8c74"
+    ],
+    "source": {
+      "path": "apps/zulip/zulip-icon.png",
+      "revHash": "03bc3fc7ff"
     }
   },
   "zuzu": {
