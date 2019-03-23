@@ -1,5 +1,5 @@
 name: WordofTheHour
-description: 'WordofTheHour helps expand your vocabulary. Every hour, a new vocabulary word is featured along with translations into 10+ languages. Available for Linux Debian platforms.'
+description: 'Every hour, a new vocabulary word is featured along with translations into 10+ languages. Available for Linux Debian platforms.'
 website: 'https://wordofthehour.org/desktopapp.html'
 keywords:
     - education
