@@ -1,0 +1,31 @@
+name: Agantty
+description: 'Free project management for unlimited projects, tasks and teams neatly organized in gantt chart'
+website: 'https://www.agantty.com/downloads'
+keywords:
+    - project management
+    - gantt
+    - chart
+    - todo
+    - project
+    - agantty
+    - team
+    - productivity
+    - planning
+youtube_video_url: https://www.youtube.com/watch?v=oPaJuGIewbc
+category: Productivity
+screenshots:
+    -
+      imageUrl: 'https://www.agantty.com/wp-content/uploads/2019/01/free-easy-gantt-chart.jpg'
+      caption: 'free gantt chart project management tool'
+      imageLink: 'https://www.agantty.com/en/'
+    -
+      imageUrl: 'https://www.agantty.com/wp-content/uploads/2019/01/gantt-chart-agantty.jpg'
+      caption: 'resize, drag & drop unlimited projects in your gantt chart view and organize your team'
+      imageLink: 'https://www.agantty.com/en/#about'
+    -
+      imageUrl: 'https://www.agantty.com/wp-content/uploads/2019/01/todo-dashboard-agantty.jpg'
+      caption: 'see all relevant tasks for your and your team members in the agantty dashboard'
+      imageLink: 'https://www.agantty.com/en/#functions'
+locales:
+  - en-gb
+  - de-de
