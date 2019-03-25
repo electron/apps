@@ -79,6 +79,22 @@
       "revHash": "a8bc36e2fb"
     }
   },
+  "activechart": {
+    "faintColorOnWhite": "rgba(4, 108, 199, 0.1)",
+    "goodColorOnBlack": "#0486F3",
+    "goodColorOnWhite": "#046CC7",
+    "palette": [
+      "#0486f3",
+      "#046cc7",
+      "#044d8e",
+      "#107cdc",
+      "#339df6"
+    ],
+    "source": {
+      "path": "apps/activechart/activechart-icon.png",
+      "revHash": "5d764c48b4"
+    }
+  },
   "admin-scheduler": {
     "faintColorOnWhite": "rgba(5, 69, 93, 0.1)",
     "goodColorOnBlack": "#86D2D9",
