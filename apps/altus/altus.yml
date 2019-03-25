@@ -1,0 +1,20 @@
+name: Altus
+description: 'Desktop client for WhatsApp with themes and multiple account support'
+website: 'https://shadythgod.github.io/altus'
+repository: 'https://github.com/shadythgod/altus'
+keywords:
+    - altus
+    - chat
+    - themes
+license: GPLv3
+category: 'Social Networking'
+screenshots:
+    - 
+        imageUrl: 'https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-First-Start.png'
+        caption: 'First Start'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-Default-Theme.png'
+        caption: 'Default Theme'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-Dark-Theme.png'
+        caption: 'Dark Theme'

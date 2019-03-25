@@ -1,0 +1,14 @@
+name: HexoClient
+description: 'A client for hexo'
+website: 'https://www.mspring.org'
+repository: 'https://github.com/gaoyoubo/hexo-client'
+keywords:
+    - writing
+    - editor
+    - blog
+    - hexo
+license: 'Apache License Version 2.0'
+category: 'Utilities'
+screenshots:
+    -
+        imageUrl: 'https://camo.githubusercontent.com/4137b3f1df6632bc47c272520186d3c2ad3681b9/687474703a2f2f66696c652e6d737072696e672e6f72672f3030323164373464333639303835633931653836316434383336353966613332'

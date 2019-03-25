@@ -15,5 +15,6 @@ git config user.name "Electron Bot"
 git add .
 git commit -am "update apps" --author "Electron Bot <electron@github.com>"
 npm version minor -m "bump minor to %s"
-git push origin master --follow-tags
+git push origin master
+git push origin master --tags
 npm publish

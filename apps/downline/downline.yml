@@ -1,0 +1,19 @@
+name: Downline
+description: 'Cross-platform media downloader for YouTube and many other sites.'
+website: 'https://jarbun.github.io/downline/'
+category: Utilities
+repository: 'https://github.com/jarbun/downline'
+keywords:
+  - downline
+  - download
+  - offline
+  - windows
+  - macos
+  - linux
+  - video
+  - audio
+  - media
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://user-images.githubusercontent.com/23068820/50515866-42650180-0acd-11e9-9e8f-02b0292929a5.png'

@@ -1,0 +1,25 @@
+name: 'wnr'
+description: 'A timer app with strong expansibility for computers.'
+website: 'https://wnr.scris.top/'
+repository: 'https://github.com/RoderickQiu/wnr'
+keywords:
+    - timer
+    - work
+    - rest
+    - time-management
+    - electron-based
+    - pomodoro
+    - productivity
+    - time
+    - minimalist
+    - basic
+    - efficiency
+license: MIT
+category: Productivity
+screenshots:
+  -    
+    imageUrl: 'https://raw.githubusercontent.com/RoderickQiu/wnr/master/res/preview/preview-1.png'
+    caption: 'Preview 1'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/RoderickQiu/wnr/master/res/preview/preview-2.png'
+    caption: 'Preview 2'

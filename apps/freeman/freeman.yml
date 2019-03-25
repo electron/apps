@@ -5,7 +5,7 @@ repository: 'https://github.com/matthew-matvei/freeman'
 license: "GPL-3.0"
 screenshots:
     -
-        imageUrl: 'https://github.com/matthew-matvei/freeman/blob/develop/resources/freeManScreenshot.png'
+        imageUrl: 'https://raw.githubusercontent.com/matthew-matvei/freeman/develop/resources/freeManLogo.png'
         caption: 'Dual-pane with open integrated terminal'
 keywords:
     - File Manager

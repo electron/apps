@@ -1,0 +1,10 @@
+name: Deer
+description: 'A modern, fast, beautiful note taking app'
+website: 'https://github.com/abahmed/Deer'
+category: Productivity
+repository: 'https://github.com/abahmed/Deer'
+keywords:
+    - note-taking
+    - note-app
+    - notes
+license: MIT

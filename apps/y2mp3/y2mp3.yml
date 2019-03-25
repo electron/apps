@@ -1,0 +1,34 @@
+name: y2mp3
+description: 'Download youtube videos to mp3s.'
+website: 'https://github.com/moshfeu/y2mp3'
+category: Music
+repository: 'https://github.com/moshfeu/y2mp3'
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot1.png'
+    caption: 'Search'
+    imageLink: 'https://github.com/moshfeu/y2mp3'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot2.png'
+    caption: 'Explore'
+    imageLink: 'https://github.com/moshfeu/y2mp3'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot3.png'
+    caption: 'Download'
+    imageLink: 'https://github.com/moshfeu/y2mp3'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/video.gif'
+    caption: 'Full flow'
+    imageLink: 'https://github.com/moshfeu/y2mp3'
+keywords:
+    - youtube
+    - playlist
+    - download
+    - mp3
+    - free
+license: MIT
+colors:
+    goodColorOnWhite: '#148544'
+    goodColorOnBlack: '#27ae60'
+locales:
+    - en-US

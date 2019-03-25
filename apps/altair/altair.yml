@@ -1,0 +1,26 @@
+name: Altair GraphQL Client
+description: 'Beautiful feature-rich GraphQL Client for all platforms'
+website: 'https://altair.sirmuel.design/'
+category: 'Developer Tools'
+repository: 'https://github.com/imolorhe/altair'
+keywords:
+    - graphql
+    - graphql-ide
+    - graphql-client
+    - opensource
+license: MIT
+homebrewCaskName: altair-graphql-client
+snapcraftName: altair
+youtube_video_url: 'https://www.youtube.com/watch?v=zTFYOo4uD-M'
+screenshots:
+    -
+      imageUrl: 'https://altair.sirmuel.design/assets/img/app-shot.jpg'
+locales:
+    - en-US
+    - fr-FR
+    - es-ES
+    - cs-CZ
+    - de-DE
+    - pt-BR
+    - zh-CN
+

@@ -1,5 +1,5 @@
 name: Alva
-description: 'Design interactive products based on the same components your engineers are using.'
+description: 'Create living prototypes with code components.'
 website: 'https://meetalva.io/'
 category: 'Graphics & Design'
 repository: 'https://github.com/meetalva/alva'
@@ -9,8 +9,9 @@ keywords:
     - react
     - components
 license: MIT
+youtube_video_url: 'https://www.youtube.com/watch?v=ULotS8U5n9k'
 screenshots:
   -
-    imageUrl: 'https://meetalva.io/images/application.png'
-    caption: 'Alva view with the integrated example project.'
+    imageUrl: 'https://media.meetalva.io/video/website-02.png'
+    caption: 'Alva view with the Alva website as a example.'
     imageLink: 'https://meetalva.io'

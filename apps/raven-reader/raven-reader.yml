@@ -1,0 +1,12 @@
+name: Raven Reader
+description: 'Simple RSS Reader for desktop without any distraction.'
+repository: 'https://github.com/mrgodhani/raven-reader'
+license: MIT
+keywords:
+    - reader
+    - feed reader
+    - rss reader
+    - news reader
+    - reading
+    - news
+category: 'News'

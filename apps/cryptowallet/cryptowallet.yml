@@ -1,0 +1,10 @@
+name: cryptoWallet
+description: 'node.js/react based bitcoin wallet.'
+website: 'https://github.com/bhavayAnand9/cryptoWallet'
+category: Finance
+repository: 'https://github.com/bhavayAnand9/cryptoWallet'
+keywords:
+    - bitcoin
+    - nodejs
+    - react
+    - wallet

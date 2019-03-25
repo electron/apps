@@ -1,0 +1,23 @@
+name: 'Metastream'
+description: 'Watch streaming media with friends'
+website: 'https://getmetastream.com'
+repository: 'https://github.com/samuelmaddock/metastream'
+category: Photo & Video
+keywords:
+    - media-player
+    - media
+    - player
+    - video
+    - streaming
+    - music
+    - audio
+    - browser
+    - p2p
+license: 'MIT'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/samuelmaddock/metastream/master/resources/screenshots/screenshot1.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/samuelmaddock/metastream/master/resources/screenshots/screenshot2.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/samuelmaddock/metastream/master/resources/screenshots/screenshot3.png'

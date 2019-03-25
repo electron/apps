@@ -80,18 +80,23 @@ describe('machine-generated app data (exported by the module)', () => {
   })
 
   describe('releases', () => {
-    const releaseApps = apps.filter(app => app.latestRelease)
+    const appsWithRepos = require('../lib/apps-with-github-repos')
+    const appsWithLatestRelease = apps.filter(app => app.latestRelease)
+
+    it('tries to fetch a release for every app with a GitHub repo', () => {
+      expect(apps.filter(app => app.latestReleaseFetchedAt).length).to.equal(appsWithRepos.length)
+    })
 
     it('collects latest GitHub release data for apps that have it', () => {
-      expect(releaseApps.length).to.be.above(50)
+      expect(appsWithLatestRelease.length).to.be.above(50)
     })
 
     it('sets `latestRelease` on apps with GitHub repos that use Releases', () => {
-      expect(releaseApps.every(app => app.latestRelease)).to.eq(true)
+      expect(appsWithLatestRelease.every(app => app.latestRelease)).to.eq(true)
     })
 
     it('sets `latestReleaseFetchedAt`', () => {
-      expect(releaseApps.every(app => app.latestReleaseFetchedAt)).to.eq(true)
+      expect(appsWithLatestRelease.every(app => app.latestReleaseFetchedAt)).to.eq(true)
     })
   })
 

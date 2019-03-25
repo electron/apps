@@ -3,6 +3,7 @@
 const fs = require('fs')
 const os = require('os')
 const path = require('path')
+const sinon = require('sinon')
 
 const chai = require('chai')
 const Jimp = require('jimp')
@@ -15,38 +16,51 @@ const expect = chai.expect
 const Colors = require('../lib/colors.js')
 
 describe('colors', function () {
-  let errors
+  let consoleInfo
   let consoleError
   let testDir
   const slugsAndIconPaths = []
 
+  const colors = ['white', 'black']
+
   before(async function () {
    // create a couple of test icons in a tmpdir
-    testDir = fs.mkdtempSync(path.join(os.tmpdir(), 'colors-spec'))
-    const colors = ['white', 'black']
+    testDir = fs.mkdtempSync(path.join(os.tmpdir(), 'colors-spec-'))
     for (const colorName of colors) {
       const c = parseInt(tinyColor(colorName).toHex8(), 16)
-      const image = await new Jimp(2, 2, c)
+      const image = new Jimp(2, 2, c)
       const iconPath = path.join(testDir, colorName + '.png')
-      image.write(iconPath)
+      await new Promise((resolve, reject) =>
+        image.write(iconPath, (err, buffer) =>
+          err ? reject(err) : resolve(buffer)
+        )
+      )
+      fs.chmodSync(iconPath, 511)
       slugsAndIconPaths.push({'slug': colorName, iconPath})
+    }
+  })
+
+  beforeEach(() => {
+    for (const colorName of colors) {
+      const iconPath = path.join(testDir, colorName + '.png')
+      fs.chmodSync(iconPath, 511)
     }
   })
 
   after(() => {
     // remove the temporaries that were created in before()
-    for (const entry of slugsAndIconPaths) { fs.unlinkSync(entry.iconPath) }
+    for (const entry of fs.readdirSync(testDir)) { fs.unlinkSync(path.resolve(testDir, entry)) }
     fs.rmdirSync(testDir)
   })
 
   beforeEach(() => {
-    errors = []
-    consoleError = console.error
-    console.error = (...args) => errors.push(args)
+    consoleError = sinon.stub(console, 'error')
+    consoleInfo = sinon.stub(console, 'info')
   })
 
   afterEach(() => {
-    console.error = consoleError
+    consoleError.restore()
+    consoleInfo.restore()
   })
 
   it('should create entries with the expected properties', async () => {
@@ -64,7 +78,7 @@ describe('colors', function () {
           .and
           .property('path')
             .equals(path.basename(entry.iconPath))
-  })
+  }).timeout(5000)
 
   it('should add an entry when a new app is added', async () => {
     const oldColors = await Colors.getColors(slugsAndIconPaths.slice(0, 1), {}, testDir)
@@ -72,6 +86,7 @@ describe('colors', function () {
     // newColors should be a superset of oldColors
     newColors.should.deep.contain(oldColors)
     oldColors.should.not.deep.contain(newColors)
+    expect(consoleInfo.callCount).to.equal(2)
   })
 
   it('should remove an entry when an app is removed', async () => {
@@ -80,12 +95,14 @@ describe('colors', function () {
     // newColors should be a subset of oldColors
     newColors.should.not.deep.contain(oldColors)
     oldColors.should.deep.contain(newColors)
+    expect(consoleInfo.callCount).to.equal(2)
   })
 
   it('should create reproducible output', async () => {
     const a = await Colors.getColors(slugsAndIconPaths, {}, testDir)
     const b = await Colors.getColors(slugsAndIconPaths, {}, testDir)
     a.should.deep.equal(b)
+    expect(consoleInfo.callCount).to.equal(4)
   })
 
   it('should skip entries whose icons are unreadable', async() => {
@@ -94,7 +111,6 @@ describe('colors', function () {
     const input = [badEntry, goodEntry]
 
     // make the first icon unreadable
-    const oldMode = fs.statSync(badEntry.iconPath).mode
     fs.chmodSync(badEntry.iconPath, 0)
 
     const colors = await Colors.getColors(input, {}, testDir)
@@ -103,13 +119,10 @@ describe('colors', function () {
       .and
       .not.have.keys(badEntry.slug)
 
-    expect(errors)
-      .to.have.lengthOf(1)
-      .and
-      .to.satisfy(errors => JSON.stringify(errors).includes(badEntry.iconPath))
+    expect(consoleError.callCount).to.equal(1)
+    expect(consoleError.firstCall.args[0]).to.include(badEntry.iconPath)
 
-    // cleanup
-    fs.chmodSync(badEntry.iconPath, oldMode)
+    expect(consoleInfo.callCount).to.equal(1)
   })
 
   it('should skip entries whose icons are unparsable', async() => {
@@ -125,13 +138,10 @@ describe('colors', function () {
       .and
       .not.have.keys(badEntry.slug)
 
-    expect(errors)
-      .to.have.lengthOf(1)
-      .and
-      .to.satisfy(errors => JSON.stringify(errors).includes(badEntry.iconPath))
+    expect(consoleError.callCount).to.equal(1)
+    expect(consoleError.firstCall.args[0]).to.include(badEntry.iconPath)
 
-    // cleanup
-    fs.unlinkSync(badEntry.iconPath)
+    expect(consoleInfo.callCount).to.equal(2)
   })
 
   it('should update revHashes when icon files change', async() => {
@@ -154,5 +164,7 @@ describe('colors', function () {
       .property('source')
       .property('revHash')
       .should.not.equal(oldColors[changedEntry.slug].source.revHash)
+
+    expect(consoleInfo.callCount).to.equal(3)
   })
 })
