@@ -1,7 +1,7 @@
 [
   {
     "name": "Productivity",
-    "count": 215,
+    "count": 218,
     "slug": "productivity"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Social Networking",
-    "count": 43,
+    "count": 44,
     "slug": "social-networking"
   },
   {
@@ -36,7 +36,7 @@
   },
   {
     "name": "Finance",
-    "count": 26,
+    "count": 27,
     "slug": "finance"
   },
   {
@@ -46,7 +46,7 @@
   },
   {
     "name": "Education",
-    "count": 17,
+    "count": 18,
     "slug": "education"
   },
   {
@@ -65,14 +65,14 @@
     "slug": "books"
   },
   {
-    "name": "News",
-    "count": 4,
-    "slug": "news"
-  },
-  {
     "name": "Lifestyle",
     "count": 4,
     "slug": "lifestyle"
+  },
+  {
+    "name": "News",
+    "count": 4,
+    "slug": "news"
   },
   {
     "name": "Medical",

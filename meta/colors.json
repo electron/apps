@@ -79,6 +79,22 @@
       "revHash": "a8bc36e2fb"
     }
   },
+  "activechart": {
+    "faintColorOnWhite": "rgba(4, 108, 199, 0.1)",
+    "goodColorOnBlack": "#0486F3",
+    "goodColorOnWhite": "#046CC7",
+    "palette": [
+      "#0486f3",
+      "#046cc7",
+      "#044d8e",
+      "#107cdc",
+      "#339df6"
+    ],
+    "source": {
+      "path": "apps/activechart/activechart-icon.png",
+      "revHash": "5d764c48b4"
+    }
+  },
   "admin-scheduler": {
     "faintColorOnWhite": "rgba(5, 69, 93, 0.1)",
     "goodColorOnBlack": "#86D2D9",
@@ -109,6 +125,22 @@
     "source": {
       "path": "apps/advanced-rest-client/advanced-rest-client-icon.png",
       "revHash": "9abec9a51f"
+    }
+  },
+  "agantty": {
+    "faintColorOnWhite": "rgba(25, 126, 91, 0.1)",
+    "goodColorOnBlack": "#1F9D71",
+    "goodColorOnWhite": "#197E5B",
+    "palette": [
+      "#fafbfa",
+      "#1f9d71",
+      "#6bbfa1",
+      "#53b494",
+      "#8cccbc"
+    ],
+    "source": {
+      "path": "apps/agantty/agantty-icon.png",
+      "revHash": "624ee9880a"
     }
   },
   "aipo-com": {
@@ -237,6 +269,22 @@
     "source": {
       "path": "apps/altair/altair-icon.png",
       "revHash": "7c45c6b986"
+    }
+  },
+  "altus": {
+    "faintColorOnWhite": "rgba(13, 106, 218, 0.1)",
+    "goodColorOnBlack": "#5EA0E4",
+    "goodColorOnWhite": "#0D6ADA",
+    "palette": [
+      "#272450",
+      "#0d6ada",
+      "#fafbfb",
+      "#5ea0e4",
+      "#757390"
+    ],
+    "source": {
+      "path": "apps/altus/altus-icon.png",
+      "revHash": "106655125f"
     }
   },
   "alva": {
@@ -5551,20 +5599,20 @@
       "revHash": "b4482ca7ba"
     }
   },
-  "metube-electron": {
-    "faintColorOnWhite": "rgba(220, 36, 36, 0.1)",
-    "goodColorOnBlack": "#EC8C8C",
-    "goodColorOnWhite": "#DC2424",
+  "metube": {
+    "faintColorOnWhite": "rgba(108, 52, 68, 0.1)",
+    "goodColorOnBlack": "#F04344",
+    "goodColorOnWhite": "#6C3444",
     "palette": [
-      "#dc2424",
-      "#fbf8f8",
-      "#e66f70",
-      "#ec9494",
-      "#ec8c8c"
+      "#f04344",
+      "#242c44",
+      "#6c3444",
+      "#503444",
+      "#3c3444"
     ],
     "source": {
-      "path": "apps/metube-electron/metube-electron-icon.png",
-      "revHash": "b8263e860e"
+      "path": "apps/metube/metube-icon.png",
+      "revHash": "cda8c1ccd3"
     }
   },
   "microsoft-teams": {
@@ -7295,6 +7343,22 @@
       "revHash": "19831156c2"
     }
   },
+  "playout": {
+    "faintColorOnWhite": "rgba(3, 109, 185, 0.1)",
+    "goodColorOnBlack": "#0B96FB",
+    "goodColorOnWhite": "#036DB9",
+    "palette": [
+      "#fbfbfb",
+      "#0b96fb",
+      "#fb4623",
+      "#9fddfc",
+      "#fc8068"
+    ],
+    "source": {
+      "path": "apps/playout/playout-icon.png",
+      "revHash": "678b68d356"
+    }
+  },
   "poddr": {
     "faintColorOnWhite": "rgba(174, 82, 38, 0.1)",
     "goodColorOnBlack": "#FB8F07",
@@ -8160,19 +8224,19 @@
     }
   },
   "riot": {
-    "faintColorOnWhite": "rgba(116, 76, 132, 0.1)",
-    "goodColorOnBlack": "#7ECCA5",
-    "goodColorOnWhite": "#744C84",
+    "faintColorOnWhite": "rgba(30, 113, 167, 0.1)",
+    "goodColorOnBlack": "#6BB4E4",
+    "goodColorOnWhite": "#1E71A7",
     "palette": [
-      "#7ecca5",
-      "#744c84",
-      "#abdbc3",
-      "#819798",
-      "#8c849c"
+      "#a3dbeb",
+      "#348cd4",
+      "#6bb4e4",
+      "#5ba7de",
+      "#74b4e4"
     ],
     "source": {
       "path": "apps/riot/riot-icon.png",
-      "revHash": "fb042512d4"
+      "revHash": "80845017ec"
     }
   },
   "ripplectron": {
@@ -10719,6 +10783,22 @@
       "revHash": "8998c59547"
     }
   },
+  "vechain-sync": {
+    "faintColorOnWhite": "rgba(79, 91, 140, 0.1)",
+    "goodColorOnBlack": "#949CC4",
+    "goodColorOnWhite": "#4F5B8C",
+    "palette": [
+      "#4f5b8c",
+      "#fafafb",
+      "#a0a4b8",
+      "#8d92b4",
+      "#949cc4"
+    ],
+    "source": {
+      "path": "apps/vechain-sync/vechain-sync-icon.png",
+      "revHash": "5af673208b"
+    }
+  },
   "vectr": {
     "faintColorOnWhite": "rgba(33, 34, 34, 0.1)",
     "goodColorOnBlack": "#7C8C94",
@@ -11453,6 +11533,22 @@
     "source": {
       "path": "apps/wordmark/wordmark-icon.png",
       "revHash": "180ff8ccb8"
+    }
+  },
+  "wordofthehour": {
+    "faintColorOnWhite": "rgba(21, 21, 21, 0.1)",
+    "goodColorOnBlack": "#F9F9F9",
+    "goodColorOnWhite": "#151515",
+    "palette": [
+      "#151515",
+      "#f9f9f9",
+      "#9f9f9f",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/wordofthehour/wordofthehour-icon.png",
+      "revHash": "654719e885"
     }
   },
   "wordpress-com": {
