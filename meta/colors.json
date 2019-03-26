@@ -5599,20 +5599,20 @@
       "revHash": "b4482ca7ba"
     }
   },
-  "metube-electron": {
-    "faintColorOnWhite": "rgba(220, 36, 36, 0.1)",
-    "goodColorOnBlack": "#EC8C8C",
-    "goodColorOnWhite": "#DC2424",
+  "metube": {
+    "faintColorOnWhite": "rgba(108, 52, 68, 0.1)",
+    "goodColorOnBlack": "#F04344",
+    "goodColorOnWhite": "#6C3444",
     "palette": [
-      "#dc2424",
-      "#fbf8f8",
-      "#e66f70",
-      "#ec9494",
-      "#ec8c8c"
+      "#f04344",
+      "#242c44",
+      "#6c3444",
+      "#503444",
+      "#3c3444"
     ],
     "source": {
-      "path": "apps/metube-electron/metube-electron-icon.png",
-      "revHash": "b8263e860e"
+      "path": "apps/metube/metube-icon.png",
+      "revHash": "cda8c1ccd3"
     }
   },
   "microsoft-teams": {
@@ -10781,6 +10781,22 @@
     "source": {
       "path": "apps/vagrant-manager/vagrant-manager-icon.png",
       "revHash": "8998c59547"
+    }
+  },
+  "vechain-sync": {
+    "faintColorOnWhite": "rgba(79, 91, 140, 0.1)",
+    "goodColorOnBlack": "#949CC4",
+    "goodColorOnWhite": "#4F5B8C",
+    "palette": [
+      "#4f5b8c",
+      "#fafafb",
+      "#a0a4b8",
+      "#8d92b4",
+      "#949cc4"
+    ],
+    "source": {
+      "path": "apps/vechain-sync/vechain-sync-icon.png",
+      "revHash": "5af673208b"
     }
   },
   "vectr": {
