@@ -44,12 +44,36 @@ describe('human-submitted app data', () => {
           expect(app.name.length).to.be.above(0)
         })
 
-        it('has a description', () => {
-          expect(app.description.length).to.be.above(0)
-        })
+        describe('description', () => {
+          it('exists', () => {
+            expect(app.description.length).to.be.above(0)
+          })
 
-        it('should not start description with app name', () => {
-          expect(app.description.toLowerCase().indexOf(app.name.toLowerCase())).to.not.equal(0)
+          it('should start with a capital letter', () => {
+            const firstLetter = app.description[0]
+            expect(firstLetter).to.equal(firstLetter.toUpperCase())
+          })
+
+          it('should end with a period / full stop', () => {
+            expect(app.description[app.description.length-1]).to.equal('.', `Description should end in a period / full stop: '${app.description}'`)
+          })
+
+          it('should not mention Electron since Electron is already implied', () => {
+            const description = app.description.toLowerCase()
+            expect(description.indexOf('electron')).to.equal(-1, `Description should not mention Electron, as Electron is already implied: ${description}`)
+          })
+
+          it('should not start description with "A" or "An"', () => {
+            const descriptionFirstWord = app.description.toLowerCase().split(' ', 1)[0]
+            const badStarts = [ 'a', 'an' ]
+            expect(badStarts).to.not.include(descriptionFirstWord, `Description should not start with 'A' or 'An': '${app.description}'`)
+          })
+
+          it('should not start with app name', () => {
+            const appName = app.name.toLowerCase()
+            const description = app.description.toLowerCase()
+            expect(description).to.satisfy((desc) => !desc.startsWith(appName))
+          })
         })
 
         it('has a website with a valid URL (or no website)', () => {
