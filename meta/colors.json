@@ -2239,6 +2239,22 @@
       "revHash": "2e4e1307e1"
     }
   },
+  "devhub": {
+    "faintColorOnWhite": "rgba(47, 123, 112, 0.1)",
+    "goodColorOnBlack": "#45C9AC",
+    "goodColorOnWhite": "#2F7B70",
+    "palette": [
+      "#141c24",
+      "#45c9ac",
+      "#2f7b70",
+      "#2a645c",
+      "#349583"
+    ],
+    "source": {
+      "path": "apps/devhub/devhub-icon.png",
+      "revHash": "9b5e19c502"
+    }
+  },
   "devrant-io-unofficial": {
     "faintColorOnWhite": "rgba(201, 78, 5, 0.1)",
     "goodColorOnBlack": "#FB9C64",
