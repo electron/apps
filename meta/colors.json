@@ -1487,6 +1487,22 @@
       "revHash": "23a58c8ab2"
     }
   },
+  "code-sketch": {
+    "faintColorOnWhite": "rgba(32, 128, 142, 0.1)",
+    "goodColorOnBlack": "#ACE4EC",
+    "goodColorOnWhite": "#20808E",
+    "palette": [
+      "#59bdd2",
+      "#fbfbfb",
+      "#979797",
+      "#ace4ec",
+      "#bababa"
+    ],
+    "source": {
+      "path": "apps/code-sketch/code-sketch-icon.png",
+      "revHash": "0d8f34422e"
+    }
+  },
   "code-story": {
     "faintColorOnWhite": "rgba(133, 54, 49, 0.1)",
     "goodColorOnBlack": "#A89C9B",
