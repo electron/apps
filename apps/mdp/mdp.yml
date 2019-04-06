@@ -1,5 +1,5 @@
 name: mdp
-description: 'markdown preview using marked, highlight.js, mermaid, node-emoji and live reload'
+description: 'Markdown preview using marked, highlight.js, mermaid, node-emoji and live reload.'
 website: 'https://ericlink.github.io/mdp/'
 category: 'Developer Tools'
 repository: 'https://github.com/ericlink/mdp'
