@@ -1,11 +1,23 @@
 name: WebCatalog
-description: 'Run Thousands of Web Apps Like Real Apps'
-website: 'https://webcatalog.io'
+description: 'Run Web Apps like Real Apps'
+website: 'https://getwebcatalog.com/'
 repository: 'https://github.com/quanglam2807/webcatalog'
 screenshots:
     -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/c1863aabe4d0728ee4fc423a05d3b51ab4245257/build-resources/screenshot.png'
-        caption: 'WebCatalog on macOS'
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/catalog.png'
+        caption: 'Catalog'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/appview.png'
+        caption: 'AppView'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/workspace.png'
+        caption: 'Workspaces'
+     -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/53d4896b727ab18f3b8bcee644dde9ac12e3c302/docs/images/demos/menubar.png'
+        caption: 'Menubar'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/customization.png'
+        caption: 'Customization'
 keywords:
     - 'site-specific browser'
     - browser
