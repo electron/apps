@@ -29,4 +29,11 @@ keywords:
     - osx
 screenshots:
     - 
-      imageUrl: 'https://getcleaver.com/images/app_ss.png'
+      imageUrl: 'https://getcleaver.com/images/ss_light_1.png'
+      caption: 'Cleaver with Light Theme'
+      imageLink: 'https://getcleaver.com'
+    - 
+      imageUrl: 'https://getcleaver.com/images/ss_dark_1.png'
+      caption: 'Cleaver with Dark Theme'
+      imageLink: 'https://getcleaver.com'      
+   
