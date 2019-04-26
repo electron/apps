@@ -1,0 +1,10 @@
+name: cass
+description: 'This app is a GUI for Cassandra Database.'
+website: 'https://github.com/aAmitSengar/cass'
+category: 'Developer Tools'
+repository: 'https://github.com/aAmitSengar/cass.git'
+keywords:
+    - cassandra
+    - gui
+    - database
+license: MIT

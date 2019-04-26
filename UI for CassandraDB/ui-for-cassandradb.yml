@@ -1,7 +1,0 @@
-
-name: CassendraGUI
-description: 'this app is a GUI for Cassandra Database'
-website: 'https://github.com/aAmitSengar/cassandra-UI'
-repository: 'https://github.com/aAmitSengar/cassandra-UI'
-category: 'Developer Tools'
-Keywords: 'cassandra,gui,database'
