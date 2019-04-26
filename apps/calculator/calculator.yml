@@ -1,8 +1,8 @@
-name: calculator
-description: 'easily calculator'
+name: Calculator
+description: 'Easily calculator'
 website: 'http://altssolution.com'
 repository: 'https://github.com/shanutthankachan/calculator'
-category: 'Productivity'
+category: Productivity
 license: MIT
 keywords:
     - calculator
