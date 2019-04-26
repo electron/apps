@@ -1,0 +1,10 @@
+name: calculator
+description: 'Easily calculator'
+website: 'http://altssolution.com'
+repository: 'https://github.com/shanutthankachan/calculator'
+category: 'Productivity'
+license: MIT
+keywords:
+    - calculator
+    - interactive
+    - tool
