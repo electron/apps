@@ -58,7 +58,7 @@
     "pick-a-good-color": "^1.1.1",
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^2.6.1",
-    "sharp": "^0.22.1",
+    "sharp": "^0.20.8",
     "sinon": "^7.2.2",
     "slugg": "^1.1.0",
     "standard": "^10.0.2",
