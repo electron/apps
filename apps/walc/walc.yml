@@ -1,0 +1,12 @@
+name: WALC
+description: 'Unofficial desktop client for WhatsApp on linux'
+website: 'https://github.com/cstayyab/WALC'
+category: 'Social Networking'
+repository: 'https://github.com/cstayyab/WALC.git'
+keywords:
+    - whatsapp
+    - whatsapp-linux
+    - walc
+    - linux
+    - walc-linux
+license: GPL-3.0
