@@ -1,5 +1,5 @@
 name: Skutti
-description: 'Social network to augment existing content on the web and bypass censorship across the Internet'
+description: 'Connects teams to form a hierarchy to allow for collaboration, team discovery and project status reporting'
 website: 'https://www.skutti.com'
 screenshots:
     -
@@ -11,11 +11,10 @@ keywords:
     - collaboration
     - team
     - social
+    - project
     - community
-    - censorship
     - browser
     - chrome
 category: 'Social Networking'
 locales:
   - en-US
-  - de-DE
