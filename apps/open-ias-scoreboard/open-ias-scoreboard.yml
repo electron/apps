@@ -1,0 +1,10 @@
+name: 'Open IAS Scoreboard'
+description: 'Use any display as a scoreboard for sports.'
+website: 'https://openias.garykim.dev'
+category: Sports
+repository: 'https://github.com/gary-kim/open-ias-scoreboard'
+keywords:
+    - electron
+    - electron-forge
+    - scoreboard
+license: AGPL-3.0-only
