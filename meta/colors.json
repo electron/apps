@@ -4591,22 +4591,6 @@
       "revHash": "13bf36f08e"
     }
   },
-  "jibo": {
-    "faintColorOnWhite": "rgba(2, 116, 150, 0.1)",
-    "goodColorOnBlack": "#09C4FC",
-    "goodColorOnWhite": "#027496",
-    "palette": [
-      "#04b5f4",
-      "#37bef4",
-      "#20bdf7",
-      "#09c4fc",
-      "#14bcf4"
-    ],
-    "source": {
-      "path": "apps/jibo/jibo-icon.png",
-      "revHash": "b528893a6e"
-    }
-  },
   "joplin": {
     "faintColorOnWhite": "rgba(4, 68, 156, 0.1)",
     "goodColorOnBlack": "#5CB4FB",
