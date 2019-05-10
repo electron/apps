@@ -1,0 +1,10 @@
+name: Electron Launcher
+description: 'Custom Launcher for Modded Minecraft'
+website: 'https://github.com/dscalzi/ElectronLauncher'
+repository: 'https://github.com/dscalzi/ElectronLauncher'
+category: Games
+keywords:
+    - minecraft
+    - minecraft launcher
+    - forge
+    - liteloader
