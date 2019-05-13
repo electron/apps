@@ -1,1 +1,18 @@
 
+name: Dot
+description: 'A sleek ad-free browser made with Material UI.' 
+website: 'https://getdot.js.org'
+category: 'Web Browser'
+keywords:
+- browser 
+- 'material ui'
+- 'web browser'
+- 'sleek design'
+- react
+- chromium
+screenshots: 
+- 
+imageUrl: 'https://camo.githubusercontent.com/5d49bf80dd268802d48da5fd33c543ad36d2761b/68747470733a2f2f692e696d6775722e636f6d2f4169625a47334e2e706e67'
+caption: 'Browsing a webpage' 
+imageLink: 'https://getdot.js.org'
+-
