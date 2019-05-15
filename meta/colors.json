@@ -383,6 +383,22 @@
       "revHash": "73b5461fe6"
     }
   },
+  "anotherredisdesktopmanager": {
+    "faintColorOnWhite": "rgba(180, 36, 20, 0.1)",
+    "goodColorOnBlack": "#CF7669",
+    "goodColorOnWhite": "#B42414",
+    "palette": [
+      "#b42414",
+      "#faf7f7",
+      "#cf7669",
+      "#d9948c",
+      "#d89484"
+    ],
+    "source": {
+      "path": "apps/anotherredisdesktopmanager/anotherredisdesktopmanager-icon.png",
+      "revHash": "71220bd38a"
+    }
+  },
   "ansel": {
     "faintColorOnWhite": "rgba(85, 58, 125, 0.1)",
     "goodColorOnBlack": "#E77B30",
@@ -1389,6 +1405,22 @@
     "source": {
       "path": "apps/clippo/clippo-icon.png",
       "revHash": "df644a9087"
+    }
+  },
+  "clippy": {
+    "faintColorOnWhite": "rgba(60, 60, 76, 0.1)",
+    "goodColorOnBlack": "#FA9C29",
+    "goodColorOnWhite": "#3C3C4C",
+    "palette": [
+      "#fa9c29",
+      "#e2e1e1",
+      "#2b93bb",
+      "#3c3c4c",
+      "#b18075"
+    ],
+    "source": {
+      "path": "apps/clippy/clippy-icon.png",
+      "revHash": "f08a0356c7"
     }
   },
   "cliptext": {
