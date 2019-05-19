@@ -1,5 +1,5 @@
 name: ThisMyPC
-description: 'App that with next-generation open source solution for remote pc. It is a full stack based project that starts as an experiment.'
+description: 'Next-generation open source solution for remote pc. It is a full stack based project that starts as an experiment.'
 website: 'http://thismypc.com/'
 category: Developer Tools
 repository: 'https://github.com/supunlakmal/thismypc'
@@ -7,4 +7,6 @@ keywords:
     - remote pc
     - remote access
     - open source
+    - experimental
+    - full stack
 license: MIT
