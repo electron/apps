@@ -5183,6 +5183,22 @@
       "revHash": "0ff53575d4"
     }
   },
+  "lode": {
+    "faintColorOnWhite": "rgba(236, 7, 39, 0.1)",
+    "goodColorOnBlack": "#FB7B8D",
+    "goodColorOnWhite": "#EC0727",
+    "palette": [
+      "#fb7b8d",
+      "#eeeff2",
+      "#898788",
+      "#d4dbe4",
+      "#edc0cd"
+    ],
+    "source": {
+      "path": "apps/lode/lode-icon.png",
+      "revHash": "b834edeb31"
+    }
+  },
   "losslesscut": {
     "faintColorOnWhite": "rgba(14, 53, 59, 0.1)",
     "goodColorOnBlack": "#22A0B8",
