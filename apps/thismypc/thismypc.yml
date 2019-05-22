@@ -1,0 +1,12 @@
+name: ThisMyPC
+description: 'Browse your PC remotely from any web browser.'
+website: 'http://thismypc.com/'
+category: Developer Tools
+repository: 'https://github.com/supunlakmal/thismypc'
+keywords:
+    - remote pc
+    - remote access
+    - open source
+    - experimental
+    - full stack
+license: MIT
