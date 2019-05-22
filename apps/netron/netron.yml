@@ -1,7 +1,7 @@
 name: 'Netron'
 description: 'Viewer for neural network models'
-website: 'https://github.com/lutzroeder/Netron'
-repository: 'https://github.com/lutzroeder/Netron'
+website: 'https://github.com/lutzroeder/netron'
+repository: 'https://github.com/lutzroeder/netron'
 homebrewCaskName: netron
 license: MIT
 keywords:
@@ -10,6 +10,17 @@ keywords:
     - artificial intelligence
     - deep learning
     - AI
+    - visualizer
     - ONNX
+    - Caffe
+    - Caffe2
+    - CoreML
+    - Darknet
+    - Keras
+    - MXNet
+    - PaddlePaddle
+    - PyTorch
     - TensorFlow
+    - TensorFlow Lite
+    - Torch
 category: 'Developer Tools'

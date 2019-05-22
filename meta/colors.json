@@ -383,6 +383,22 @@
       "revHash": "73b5461fe6"
     }
   },
+  "anotherredisdesktopmanager": {
+    "faintColorOnWhite": "rgba(180, 36, 20, 0.1)",
+    "goodColorOnBlack": "#CF7669",
+    "goodColorOnWhite": "#B42414",
+    "palette": [
+      "#b42414",
+      "#faf7f7",
+      "#cf7669",
+      "#d9948c",
+      "#d89484"
+    ],
+    "source": {
+      "path": "apps/anotherredisdesktopmanager/anotherredisdesktopmanager-icon.png",
+      "revHash": "71220bd38a"
+    }
+  },
   "ansel": {
     "faintColorOnWhite": "rgba(85, 58, 125, 0.1)",
     "goodColorOnBlack": "#E77B30",
@@ -1391,6 +1407,22 @@
       "revHash": "df644a9087"
     }
   },
+  "clippy": {
+    "faintColorOnWhite": "rgba(60, 60, 76, 0.1)",
+    "goodColorOnBlack": "#FA9C29",
+    "goodColorOnWhite": "#3C3C4C",
+    "palette": [
+      "#fa9c29",
+      "#e2e1e1",
+      "#2b93bb",
+      "#3c3c4c",
+      "#b18075"
+    ],
+    "source": {
+      "path": "apps/clippy/clippy-icon.png",
+      "revHash": "f08a0356c7"
+    }
+  },
   "cliptext": {
     "faintColorOnWhite": "rgba(39, 39, 39, 0.1)",
     "goodColorOnBlack": "#A3C354",
@@ -1485,6 +1517,22 @@
     "source": {
       "path": "apps/code-rpgify/code-rpgify-icon.png",
       "revHash": "23a58c8ab2"
+    }
+  },
+  "code-sketch": {
+    "faintColorOnWhite": "rgba(32, 128, 142, 0.1)",
+    "goodColorOnBlack": "#ACE4EC",
+    "goodColorOnWhite": "#20808E",
+    "palette": [
+      "#59bdd2",
+      "#fbfbfb",
+      "#979797",
+      "#ace4ec",
+      "#bababa"
+    ],
+    "source": {
+      "path": "apps/code-sketch/code-sketch-icon.png",
+      "revHash": "0d8f34422e"
     }
   },
   "code-story": {
@@ -5135,6 +5183,22 @@
       "revHash": "0ff53575d4"
     }
   },
+  "lode": {
+    "faintColorOnWhite": "rgba(236, 7, 39, 0.1)",
+    "goodColorOnBlack": "#FB7B8D",
+    "goodColorOnWhite": "#EC0727",
+    "palette": [
+      "#fb7b8d",
+      "#eeeff2",
+      "#898788",
+      "#d4dbe4",
+      "#edc0cd"
+    ],
+    "source": {
+      "path": "apps/lode/lode-icon.png",
+      "revHash": "b834edeb31"
+    }
+  },
   "losslesscut": {
     "faintColorOnWhite": "rgba(14, 53, 59, 0.1)",
     "goodColorOnBlack": "#22A0B8",
@@ -5485,6 +5549,22 @@
     "source": {
       "path": "apps/mdnote/mdnote-icon.png",
       "revHash": "24bb48319c"
+    }
+  },
+  "mdp": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#040404",
+      "#fbfbfb",
+      "#848484",
+      "#747474",
+      "#8c8c8c"
+    ],
+    "source": {
+      "path": "apps/mdp/mdp-icon.png",
+      "revHash": "b6499bedd8"
     }
   },
   "media-mate": {
@@ -7823,6 +7903,22 @@
       "revHash": "89aea315d0"
     }
   },
+  "puppet-uploader": {
+    "faintColorOnWhite": "rgba(22, 125, 73, 0.1)",
+    "goodColorOnBlack": "#3ADD8B",
+    "goodColorOnWhite": "#167D49",
+    "palette": [
+      "#fbfbfb",
+      "#3add8b",
+      "#7de8b2",
+      "#99ecc4",
+      "#66e4a6"
+    ],
+    "source": {
+      "path": "apps/puppet-uploader/puppet-uploader-icon.png",
+      "revHash": "0fd663721e"
+    }
+  },
   "puppetry": {
     "faintColorOnWhite": "rgba(16, 108, 195, 0.1)",
     "goodColorOnBlack": "#52A4F1",
@@ -9021,6 +9117,22 @@
     "source": {
       "path": "apps/snipaway/snipaway-icon.png",
       "revHash": "63654be646"
+    }
+  },
+  "snipline": {
+    "faintColorOnWhite": "rgba(102, 113, 1, 0.1)",
+    "goodColorOnBlack": "#E4FC14",
+    "goodColorOnWhite": "#667101",
+    "palette": [
+      "#fbfbfb",
+      "#ccec13",
+      "#dff469",
+      "#d6f141",
+      "#e4fc14"
+    ],
+    "source": {
+      "path": "apps/snipline/snipline-icon.png",
+      "revHash": "88cfb0fb45"
     }
   },
   "snippetstore": {
