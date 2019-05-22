@@ -7903,6 +7903,22 @@
       "revHash": "89aea315d0"
     }
   },
+  "puppet-uploader": {
+    "faintColorOnWhite": "rgba(22, 125, 73, 0.1)",
+    "goodColorOnBlack": "#3ADD8B",
+    "goodColorOnWhite": "#167D49",
+    "palette": [
+      "#fbfbfb",
+      "#3add8b",
+      "#7de8b2",
+      "#99ecc4",
+      "#66e4a6"
+    ],
+    "source": {
+      "path": "apps/puppet-uploader/puppet-uploader-icon.png",
+      "revHash": "0fd663721e"
+    }
+  },
   "puppetry": {
     "faintColorOnWhite": "rgba(16, 108, 195, 0.1)",
     "goodColorOnBlack": "#52A4F1",
