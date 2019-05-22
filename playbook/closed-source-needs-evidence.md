@@ -1,0 +1,1 @@
+Looks like this app is closed source. As per the [submission guidelines](https://github.com/electron/apps/blob/master/contributing.md#submission-guidelines), could you provide some evidence that this is an Electron app? [Previous PRs](https://github.com/electron/apps/pulls?utf8=%E2%9C%93&q=is%3Apr+evidence) are a good source for what other apps have used as evidence. Thanks!

@@ -383,6 +383,22 @@
       "revHash": "73b5461fe6"
     }
   },
+  "anotherredisdesktopmanager": {
+    "faintColorOnWhite": "rgba(180, 36, 20, 0.1)",
+    "goodColorOnBlack": "#CF7669",
+    "goodColorOnWhite": "#B42414",
+    "palette": [
+      "#b42414",
+      "#faf7f7",
+      "#cf7669",
+      "#d9948c",
+      "#d89484"
+    ],
+    "source": {
+      "path": "apps/anotherredisdesktopmanager/anotherredisdesktopmanager-icon.png",
+      "revHash": "71220bd38a"
+    }
+  },
   "ansel": {
     "faintColorOnWhite": "rgba(85, 58, 125, 0.1)",
     "goodColorOnBlack": "#E77B30",
@@ -1389,6 +1405,22 @@
     "source": {
       "path": "apps/clippo/clippo-icon.png",
       "revHash": "df644a9087"
+    }
+  },
+  "clippy": {
+    "faintColorOnWhite": "rgba(60, 60, 76, 0.1)",
+    "goodColorOnBlack": "#FA9C29",
+    "goodColorOnWhite": "#3C3C4C",
+    "palette": [
+      "#fa9c29",
+      "#e2e1e1",
+      "#2b93bb",
+      "#3c3c4c",
+      "#b18075"
+    ],
+    "source": {
+      "path": "apps/clippy/clippy-icon.png",
+      "revHash": "f08a0356c7"
     }
   },
   "cliptext": {
@@ -5135,6 +5167,22 @@
       "revHash": "0ff53575d4"
     }
   },
+  "lode": {
+    "faintColorOnWhite": "rgba(236, 7, 39, 0.1)",
+    "goodColorOnBlack": "#FB7B8D",
+    "goodColorOnWhite": "#EC0727",
+    "palette": [
+      "#fb7b8d",
+      "#eeeff2",
+      "#898788",
+      "#d4dbe4",
+      "#edc0cd"
+    ],
+    "source": {
+      "path": "apps/lode/lode-icon.png",
+      "revHash": "b834edeb31"
+    }
+  },
   "losslesscut": {
     "faintColorOnWhite": "rgba(14, 53, 59, 0.1)",
     "goodColorOnBlack": "#22A0B8",
@@ -7837,6 +7885,22 @@
     "source": {
       "path": "apps/pupafm/pupafm-icon.png",
       "revHash": "89aea315d0"
+    }
+  },
+  "puppet-uploader": {
+    "faintColorOnWhite": "rgba(22, 125, 73, 0.1)",
+    "goodColorOnBlack": "#3ADD8B",
+    "goodColorOnWhite": "#167D49",
+    "palette": [
+      "#fbfbfb",
+      "#3add8b",
+      "#7de8b2",
+      "#99ecc4",
+      "#66e4a6"
+    ],
+    "source": {
+      "path": "apps/puppet-uploader/puppet-uploader-icon.png",
+      "revHash": "0fd663721e"
     }
   },
   "puppetry": {
