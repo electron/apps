@@ -1,5 +1,5 @@
 name: cass
-description: 'This app is a GUI for Cassandra Database.'
+description: 'This app is a GUI for Apache Cassandra Database.'
 website: 'https://github.com/aAmitSengar/cass'
 category: 'Developer Tools'
 repository: 'https://github.com/aAmitSengar/cass.git'
