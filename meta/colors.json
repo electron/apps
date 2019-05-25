@@ -2559,6 +2559,22 @@
       "revHash": "90cb8a5476"
     }
   },
+  "domain-book": {
+    "faintColorOnWhite": "rgba(116, 116, 118, 0.1)",
+    "goodColorOnBlack": "#C7C7C8",
+    "goodColorOnWhite": "#747476",
+    "palette": [
+      "#f7f7f7",
+      "#8b8b8c",
+      "#b4b4b4",
+      "#c7c7c8",
+      "#bbbcbc"
+    ],
+    "source": {
+      "path": "apps/domain-book/domain-book-icon.png",
+      "revHash": "6eb69303d6"
+    }
+  },
   "domterm": {
     "faintColorOnWhite": "rgba(108, 116, 108, 0.1)",
     "goodColorOnBlack": "#E3EBE3",
@@ -11277,6 +11293,22 @@
     "source": {
       "path": "apps/voice-notifies/voice-notifies-icon.png",
       "revHash": "910f908ae1"
+    }
+  },
+  "voipstudio": {
+    "faintColorOnWhite": "rgba(2, 116, 145, 0.1)",
+    "goodColorOnBlack": "#04C4F4",
+    "goodColorOnWhite": "#027491",
+    "palette": [
+      "#04c4f4",
+      "#08c4f4",
+      "#08c4f4",
+      "#08c4f4",
+      "#08c4f4"
+    ],
+    "source": {
+      "path": "apps/voipstudio/voipstudio-icon.png",
+      "revHash": "eb1ae61b49"
     }
   },
   "voltra": {
