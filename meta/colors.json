@@ -1775,6 +1775,22 @@
       "revHash": "726284d55d"
     }
   },
+  "cortex": {
+    "faintColorOnWhite": "rgba(60, 111, 204, 0.1)",
+    "goodColorOnBlack": "#4496DC",
+    "goodColorOnWhite": "#3C6FCC",
+    "palette": [
+      "#447ad4",
+      "#4487d7",
+      "#3c6fcc",
+      "#4496dc",
+      "#3c64cc"
+    ],
+    "source": {
+      "path": "apps/cortex/cortex-icon.png",
+      "revHash": "e2744f3e13"
+    }
+  },
   "coursehunt": {
     "faintColorOnWhite": "rgba(6, 6, 6, 0.1)",
     "goodColorOnBlack": "#E8E8E8",
@@ -5037,6 +5053,22 @@
     "source": {
       "path": "apps/kitematic/kitematic-icon.png",
       "revHash": "5a4208a9a2"
+    }
+  },
+  "knowte": {
+    "faintColorOnWhite": "rgba(24, 111, 191, 0.1)",
+    "goodColorOnBlack": "#1B7BD4",
+    "goodColorOnWhite": "#186FBF",
+    "palette": [
+      "#1b7bd4",
+      "#fafbfb",
+      "#73aee3",
+      "#88bce9",
+      "#4594dc"
+    ],
+    "source": {
+      "path": "apps/knowte/knowte-icon.png",
+      "revHash": "72cd0457aa"
     }
   },
   "kobiton": {
@@ -11536,19 +11568,19 @@
     }
   },
   "weatherapp": {
-    "faintColorOnWhite": "rgba(216, 0, 0, 0.1)",
-    "goodColorOnBlack": "#FFFCFC",
-    "goodColorOnWhite": "#D80000",
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#080404",
     "palette": [
-      "#fcfcfc",
-      "#fffcfc",
-      "#fffcfc",
-      "#fffcfc",
-      "#fffcfc"
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
     ],
     "source": {
       "path": "apps/weatherapp/weatherapp-icon.png",
-      "revHash": "f6249d4de5"
+      "revHash": "2dda5128e0"
     }
   },
   "webcatalog": {
