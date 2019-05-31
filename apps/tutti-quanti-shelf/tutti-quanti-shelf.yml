@@ -1,0 +1,13 @@
+name: 'Tutti Quanti Shelf'
+description: 'Collection of miscellaneous developer-oriented utilities wrapped into one single app.'
+website: 'https://github.com/tonton-pixel/tutti-quanti-shelf'
+category: Utilities
+keywords:
+    - collection
+    - miscellaneous
+    - modular
+    - developer
+    - shelf
+    - 'tutti quanti'
+    - utility
+license: MIT
