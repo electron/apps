@@ -111,7 +111,7 @@ describe('colors', function () {
     const input = [badEntry, goodEntry]
 
     // make the first icon unreadable
-    fs.chmodSync(badEntry.iconPath, 0)
+    fs.chmodSync(badEntry.iconPath, 0o077)
 
     const colors = await Colors.getColors(input, {}, testDir)
     colors.should
