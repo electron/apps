@@ -115,9 +115,9 @@ describe('colors', function () {
 
     const colors = await Colors.getColors(input, {}, testDir)
     colors.should
-      .have.keys(goodEntry.slug)
+      .include.keys(goodEntry.slug)
       .and
-      .not.have.keys(badEntry.slug)
+      .not.include.keys(badEntry.slug)
 
     expect(consoleError.callCount).to.equal(1)
     expect(consoleError.firstCall.args[0]).to.include(badEntry.iconPath)
