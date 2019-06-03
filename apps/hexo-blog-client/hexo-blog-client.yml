@@ -1,5 +1,5 @@
 name: HexoBlogClient
-description: 'A cross-platform hexo blog management client , build on electron-vue'
+description: 'Cross-platform hexo blog management client.'
 website: 'https://blog.onlystar.site'
 repository: 'https://github.com/Xonlystar/hexo-blog-client'
 keywords:
