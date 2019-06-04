@@ -12,23 +12,26 @@ action "Update data and release" {
   ]
 }
 
-workflow "Test" {
-  on = "push"
-  resolves = ["Run tests"]
-}
-
 workflow "PR Test" {
   on = "pull_request"
   resolves = ["Run tests"]
 }
 
-action "checkout pull request" {
+action "Filters for GitHub Actions" {
+  uses = "actions/bin/filter@master"
+  args = "ref refs/pulls/*"
+}
+
+action "Checkout pull request" {
   uses = "gr2m/git-checkout-pull-request-action@master"
+  needs = [
+    "Filters for GitHub Actions"
+  ]
 }
 
 action "Install dependencies" {
-  needs = "checkout pull request"
   uses = "actions/npm@master"
+  needs = ["Checkout pull request", "Filters for GitHub Actions-1"]
   args = "ci"
 }
 
@@ -36,4 +39,17 @@ action "Run tests" {
   uses = "actions/npm@master"
   needs = ["Install dependencies"]
   args = "test"
+}
+
+workflow "Test" {
+  on = "push"
+  resolves = [
+    "Run tests",
+    "Filters for GitHub Actions-1",
+  ]
+}
+
+action "Filters for GitHub Actions-1" {
+  uses = "actions/bin/filter@master"
+  args = "not ref refs/pulls/*"
 }
