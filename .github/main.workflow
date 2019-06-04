@@ -17,7 +17,7 @@ workflow "Test" {
   resolves = ["Run tests"]
 }
 
-workflow "Test" {
+workflow "PR Test" {
   on = "pull_request"
   resolves = ["Run tests"]
 }
