@@ -22,12 +22,12 @@ workflow "PR Test" {
   resolves = ["Run tests"]
 }
 
-action "checkout pull request" {
-  uses = "gr2m/git-checkout-pull-request-action@master"
+action "Checkout pull request" {
+  uses = "siberianmh/git-checkout-pull-request-action@master"
 }
 
 action "Install dependencies" {
-  needs = "checkout pull request"
+  needs = "Checkout pull request"
   uses = "actions/npm@master"
   args = "ci"
 }
