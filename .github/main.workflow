@@ -1,5 +1,5 @@
 workflow "Update and release" {
-  on = "schedule(0 */3 * * *)"
+  on = "schedule(0 */12 * * *)"
   resolves = ["Update data and release"]
 }
 
@@ -14,6 +14,11 @@ action "Update data and release" {
 
 workflow "Test" {
   on = "push"
+  resolves = ["Run tests"]
+}
+
+workflow "Test" {
+  on = "pull_request"
   resolves = ["Run tests"]
 }
 
