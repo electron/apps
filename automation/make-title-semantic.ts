@@ -8,7 +8,7 @@ const OWNER = 'electron'
 const REPO = 'apps'
 const BOTNAME = 'semantic-pull-requests[bot]'
 
-const SEMANTIC_TITLE = (semantic: string = 'feat:', original: string) => `${semantic} ${original}`
+const SEMANTIC_TITLE = (semantic: string = 'feat:', original: string) => `${semantic}${original}`
 
 const POSSIBLE_FEAT = new RegExp('adds|added|add|adding|created|create', 'gmi')
 const POSSIBLE_FEAT_ARRAY = new Set<{ title: string, number: number }>()
@@ -79,8 +79,7 @@ async function updatePRTitle (prNumber: number, title: string) {
   return prTitle
 }
 
-async function main() {
-  const pullRequests = await getPRs()
+async function createPossibleArray(pullRequests: Array<Octokit.PullsListResponseItem>) {
   for (const pr of pullRequests) {
     const semanticStatus = await getCommits(pr.number)
     if (semanticStatus.status === 'success') continue
@@ -93,20 +92,29 @@ async function main() {
     if (POSSIBLE_FEAT_ARRAY.size === 0) continue
     if (POSSIBLE_FIX_ARRAY.size === 0) continue
   }
+}
 
-
+async function updateWithFeature() {
   for (const feats of POSSIBLE_FEAT_ARRAY) {
     const updatedTitle = SEMANTIC_TITLE('feat: ', feats.title)
     await updatePRTitle(feats.number, updatedTitle)
     console.log(`Successfully updated PR: ${feats.number} to Feature Semantic Title`)
   }
+}
 
-
+async function updateWithFix() {
   for (const fixs of POSSIBLE_FIX_ARRAY) {
     const updatedTitle = SEMANTIC_TITLE('fix: ', fixs.title)
     await updatePRTitle(fixs.number, updatedTitle)
     console.log(`Successfully updated PR: ${fixs.number} to Fixes Semantic Title.`)
   }
+}
+
+async function main() {
+  const pullRequests = await getPRs()
+  await createPossibleArray(pullRequests)
+  await updateWithFeature()
+  await updateWithFix()
 }
 
 main().catch((err: Error) => {
