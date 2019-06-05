@@ -10,24 +10,10 @@ const BOTNAME = 'semantic-pull-requests[bot]'
 
 const SEMANTIC_TITLE = (semantic: string = 'feat:', original: string) => `${semantic} ${original}`
 
-// @ts-ignore
-const POSSIBLE_FEAT = [
-  'Adds',
-  'Added',
-  'Add',
-  'Adding',
-  'Created'
-]
-
+const POSSIBLE_FEAT = new RegExp('adds|added|add|adding|created|create', 'gmi')
 const POSSIBLE_FEAT_ARRAY = new Set<{ title: string, number: number }>()
 
-// @ts-ignore
-const POSSIBLE_FIX = [
-  'Updated',
-  'Update',
-  'update'
-]
-
+const POSSIBLE_FIX = new RegExp('updated|updates|update', 'gmi')
 const POSSIBLE_FIX_ARRAY = new Set<{ title: string, number: number }>()
 
 
@@ -102,8 +88,8 @@ async function main() {
 
     if (prTitle.includes('feat: ')) continue
     if (prTitle.includes('fix: ')) continue
-    if (prTitle.includes('Add')) POSSIBLE_FEAT_ARRAY.add({ title: prTitle, number: pr.number })
-    if (prTitle.includes('Updated')) POSSIBLE_FIX_ARRAY.add({ title: prTitle, number: pr.number })
+    if (prTitle.match(POSSIBLE_FEAT)) POSSIBLE_FEAT_ARRAY.add({ title: prTitle, number: pr.number })
+    if (prTitle.match(POSSIBLE_FIX)) POSSIBLE_FIX_ARRAY.add({ title: prTitle, number: pr.number })
     if (POSSIBLE_FEAT_ARRAY.size === 0) continue
     if (POSSIBLE_FIX_ARRAY.size === 0) continue
   }
@@ -112,14 +98,14 @@ async function main() {
   for (const feats of POSSIBLE_FEAT_ARRAY) {
     const updatedTitle = SEMANTIC_TITLE('feat: ', feats.title)
     await updatePRTitle(feats.number, updatedTitle)
-    console.log(`Successfully updated PR: ${feats.number} to semantic title`)
+    console.log(`Successfully updated PR: ${feats.number} to Feature Semantic Title`)
   }
 
 
   for (const fixs of POSSIBLE_FIX_ARRAY) {
     const updatedTitle = SEMANTIC_TITLE('fix: ', fixs.title)
     await updatePRTitle(fixs.number, updatedTitle)
-    console.log(`Successfully updated PR: ${fixs.number} to semantic title.`)
+    console.log(`Successfully updated PR: ${fixs.number} to Fixes Semantic Title.`)
   }
 }
 
