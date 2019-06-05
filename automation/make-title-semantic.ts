@@ -4,7 +4,7 @@ const github = new Octokit({
   auth: process.env.GH_TOKEN
 })
 
-const OWNER = 'HashimotoYT'
+const OWNER = 'electron'
 const REPO = 'apps'
 const BOTNAME = 'semantic-pull-requests[bot]'
 
