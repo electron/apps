@@ -11,3 +11,14 @@ action "Update data and release" {
     "NPM_AUTH_TOKEN",
   ]
 }
+
+workflow "Update Pull Request title with Semantic" {
+  resolves = ["Update PRs"]
+  on = "pull_request"
+}
+
+action "Update PRs" {
+  uses = "actions/npm@master"
+  args = "run automatic-semantic"
+  secrets = ["GH_TOKEN"]
+}
