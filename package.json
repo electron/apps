@@ -33,7 +33,7 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "devDependencies": {
-    "@octokit/rest": "^15.15.1",
+    "@octokit/rest": "^16.27.3",
     "bottleneck": "^1.16.0",
     "chai": "^4.2.0",
     "check-for-leaks": "^1.2.0",
@@ -62,7 +62,9 @@
     "sinon": "^7.2.2",
     "slugg": "^1.1.0",
     "standard": "^10.0.2",
-    "yamljs": "^0.2.8"
+    "yamljs": "^0.2.8",
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1"
   },
   "engines": {
     "node": "8"
