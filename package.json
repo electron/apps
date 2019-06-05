@@ -20,7 +20,8 @@
     "pretest-all": "npm run build",
     "test-all": "mocha --reporter min && standard --fix",
     "wizard": "node wizard.js",
-    "release": "script/release.sh"
+    "release": "script/release.sh",
+    "automatic-semantic": "ts-node ./automation/make-title-semantic.ts"
   },
   "repository": "https://github.com/electron/apps",
   "keywords": [
