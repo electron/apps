@@ -1,7 +1,7 @@
 name: 'Laravel Kit'
-description: 'Easy Laravel application management'
-website: 'https://github.com/tarequemdhanif/laravel-kit'
-repository: 'https://github.com/tarequemdhanif/laravel-kit'
+description: 'A desktop app for executing Laravel artisan commands'
+website: 'https://github.com/tmdh/laravel-kit'
+repository: 'https://github.com/tmdh/laravel-kit'
 homebrewCaskName: laravel-kit
 license: MIT
 keywords:
