@@ -19,12 +19,13 @@ describe('colors', function () {
   let consoleInfo
   let consoleError
   let testDir
-  const slugsAndIconPaths = []
+  let slugsAndIconPaths
 
   const colors = ['white', 'black']
 
-  before(async function () {
-   // create a couple of test icons in a tmpdir
+  beforeEach(async function () {
+    slugsAndIconPaths = []
+    // create a couple of test icons in a tmpdir
     testDir = fs.mkdtempSync(path.join(os.tmpdir(), 'colors-spec-'))
     for (const colorName of colors) {
       const c = parseInt(tinyColor(colorName).toHex8(), 16)
@@ -38,27 +39,16 @@ describe('colors', function () {
       fs.chmodSync(iconPath, 511)
       slugsAndIconPaths.push({'slug': colorName, iconPath})
     }
-  })
 
-  beforeEach(() => {
-    for (const colorName of colors) {
-      const iconPath = path.join(testDir, colorName + '.png')
-      fs.chmodSync(iconPath, 511)
-    }
-  })
-
-  after(() => {
-    // remove the temporaries that were created in before()
-    for (const entry of fs.readdirSync(testDir)) { fs.unlinkSync(path.resolve(testDir, entry)) }
-    fs.rmdirSync(testDir)
-  })
-
-  beforeEach(() => {
     consoleError = sinon.stub(console, 'error')
     consoleInfo = sinon.stub(console, 'info')
   })
 
   afterEach(() => {
+    // remove the temporaries that were created in before()
+    for (const entry of fs.readdirSync(testDir)) { fs.unlinkSync(path.resolve(testDir, entry)) }
+    fs.rmdirSync(testDir)
+
     consoleError.restore()
     consoleInfo.restore()
   })
@@ -111,7 +101,7 @@ describe('colors', function () {
     const input = [badEntry, goodEntry]
 
     // make the first icon unreadable
-    fs.chmodSync(badEntry.iconPath, 0)
+    fs.unlinkSync(badEntry.iconPath)
 
     const colors = await Colors.getColors(input, {}, testDir)
     colors.should
