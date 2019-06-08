@@ -1,5 +1,5 @@
 name: 'Compact Log Viewer'
-description: 'Cross-platform tool to read & query JSON aka CLEF log files created by Serilog'
+description: 'Cross-platform tool to read & query JSON aka CLEF log files created by Serilog.'
 website: 'https://github.com/warrenbuckley/Compact-Log-Format-Viewer'
 category: 'Developer Tools'
 repository: 'https://github.com/warrenbuckley/Compact-Log-Format-Viewer'
