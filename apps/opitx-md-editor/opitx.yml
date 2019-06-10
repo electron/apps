@@ -1,0 +1,13 @@
+name: Opitx Markdown Editor
+description: 'A markdown editor for those tired of loosing their work'
+website: 'https://opitx-docs.netlify.com'
+repository: 'https://github.com/Thomashighbaugh/Opitx'
+keywords:
+    - React
+    - Markdown
+    - Note
+    - Electron
+    - Codemirror
+category: Productivity
+screenshots: 'https://raw.githubusercontent.com/Thomashighbaugh/Opitx/master/Opitx.png'
+imageUrl: 'https://raw.githubusercontent.com/Thomashighbaugh/Opitx/master/app_resources/icon.png'
