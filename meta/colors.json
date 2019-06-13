@@ -10191,6 +10191,22 @@
       "revHash": "01a269fd02"
     }
   },
+  "tch-filector": {
+    "faintColorOnWhite": "rgba(5, 4, 100, 0.1)",
+    "goodColorOnBlack": "#FBD304",
+    "goodColorOnWhite": "#050464",
+    "palette": [
+      "#fbd304",
+      "#050464",
+      "#d7d7d9",
+      "#64649a",
+      "#6c6c9c"
+    ],
+    "source": {
+      "path": "apps/tch-filector/tch-filector-icon.png",
+      "revHash": "169112c3bd"
+    }
+  },
   "tea-ebook": {
     "faintColorOnWhite": "rgba(52, 75, 92, 0.1)",
     "goodColorOnBlack": "#848C9C",
