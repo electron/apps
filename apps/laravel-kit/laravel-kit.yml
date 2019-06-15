@@ -1,6 +1,6 @@
 name: 'Laravel Kit'
 description: 'A desktop app for executing Laravel artisan commands'
-website: 'https://github.com/tmdh/laravel-kit'
+website: 'https://tmdh.github.io/laravel-kit'
 repository: 'https://github.com/tmdh/laravel-kit'
 homebrewCaskName: laravel-kit
 license: MIT
