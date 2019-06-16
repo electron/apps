@@ -2,6 +2,8 @@ const sharp = require('sharp')
 const path = require('path')
 const fs = require('fs')
 const recursiveReadSync = require('recursive-readdir-sync')
+const imagemin = require('imagemin')
+const imageminPngquant = require('imagemin-pngquant')
 const icons = recursiveReadSync(path.join(__dirname, '../apps'))
   .filter(file => file.match(/icon\.png/))
 
@@ -19,7 +21,9 @@ function resize (file, size) {
     .resize(size, size)
     .max()
     .toFormat('png')
-    .toFile(newFile)
+    .toBuffer()
+    .then(buf => imagemin.buffer(buf, { use: [ imageminPngquant() ] }))
+    .then(buf => { fs.writeFileSync(newFile, buf); console.log(newFile); return true;})
 }
 
 const resizes = icons.map(icon => resize(icon, 32))
