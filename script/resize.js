@@ -23,7 +23,7 @@ function resize (file, size) {
     .toFormat('png')
     .toBuffer()
     .then(buf => imagemin.buffer(buf, { use: [ imageminPngquant() ] }))
-    .then(buf => { fs.writeFileSync(newFile, buf); console.log(newFile); return true;})
+    .then(buf => fs.writeFileSync(newFile, buf))
 }
 
 const resizes = icons.map(icon => resize(icon, 32))
