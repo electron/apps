@@ -1,5 +1,5 @@
 name: 'Dot Browser'
-description: 'A beautiful browser with material UI, with built-in adblock.'
+description: 'Beautiful browser with material UI, with built-in adblock.'
 website: 'https://getdot.js.org'
 category: Productivity
 repository: 'https://github.com/dot-inc/browser'
