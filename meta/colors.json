@@ -1516,7 +1516,7 @@
     ],
     "source": {
       "path": "apps/clockodo/clockodo-icon.png",
-      "revHash": "b4c67e64ee"
+      "revHash": "c4f0d878c5"
     }
   },
   "cloudcmd": {
@@ -4172,7 +4172,7 @@
     ],
     "source": {
       "path": "apps/hexo-blog-client/hexo-blog-client-icon.png",
-      "revHash": "99e814ff12"
+      "revHash": "bda1443d43"
     }
   },
   "hexo-client": {
@@ -5136,19 +5136,19 @@
     }
   },
   "laravel-kit": {
-    "faintColorOnWhite": "rgba(49, 82, 208, 0.1)",
-    "goodColorOnBlack": "#0C86F5",
-    "goodColorOnWhite": "#3152D0",
+    "faintColorOnWhite": "rgba(204, 70, 16, 0.1)",
+    "goodColorOnBlack": "#F5A281",
+    "goodColorOnWhite": "#CC4610",
     "palette": [
-      "#3152d0",
-      "#fbfbfb",
-      "#0c86f5",
-      "#8790de",
-      "#84b4f4"
+      "#eeeeee",
+      "#ed6f64",
+      "#f5a281",
+      "#cab8b7",
+      "#c5908d"
     ],
     "source": {
       "path": "apps/laravel-kit/laravel-kit-icon.png",
-      "revHash": "3554bea581"
+      "revHash": "8a24d7a1de"
     }
   },
   "laverna": {
@@ -6287,6 +6287,22 @@
       "revHash": "55a89ad0af"
     }
   },
+  "move-more": {
+    "faintColorOnWhite": "rgba(117, 68, 236, 0.1)",
+    "goodColorOnBlack": "#A754F2",
+    "goodColorOnWhite": "#7544EC",
+    "palette": [
+      "#a754f2",
+      "#faf8fb",
+      "#7544ec",
+      "#bf93f4",
+      "#d496f4"
+    ],
+    "source": {
+      "path": "apps/move-more/move-more-icon.png",
+      "revHash": "39024283e3"
+    }
+  },
   "movieprint": {
     "faintColorOnWhite": "rgba(7, 7, 7, 0.1)",
     "goodColorOnBlack": "#F45408",
@@ -6429,6 +6445,22 @@
     "source": {
       "path": "apps/music-player/music-player-icon.png",
       "revHash": "77973db1c5"
+    }
+  },
+  "musicplus": {
+    "faintColorOnWhite": "rgba(40, 45, 42, 0.1)",
+    "goodColorOnBlack": "#6A9F75",
+    "goodColorOnWhite": "#282D2A",
+    "palette": [
+      "#282d2a",
+      "#ebebeb",
+      "#6a9f75",
+      "#61846b",
+      "#8c8c8c"
+    ],
+    "source": {
+      "path": "apps/musicplus/musicplus-icon.png",
+      "revHash": "64c72c28f5"
     }
   },
   "musictube-player": {
@@ -8188,7 +8220,7 @@
     ],
     "source": {
       "path": "apps/q-player/q-player-icon.png",
-      "revHash": "c43c155c4d"
+      "revHash": "68a7c7c0b0"
     }
   },
   "qawl": {
@@ -10204,7 +10236,7 @@
     ],
     "source": {
       "path": "apps/tch-filector/tch-filector-icon.png",
-      "revHash": "169112c3bd"
+      "revHash": "55ea452a6e"
     }
   },
   "tea-ebook": {
@@ -10940,7 +10972,7 @@
     ],
     "source": {
       "path": "apps/tutti-quanti-shelf/tutti-quanti-shelf-icon.png",
-      "revHash": "44aa02d583"
+      "revHash": "f130bac4eb"
     }
   },
   "tweakstyle": {
