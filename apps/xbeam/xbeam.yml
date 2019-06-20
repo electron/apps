@@ -1,0 +1,13 @@
+name: XBeam
+description: 'Free and open source church presentation software.'
+website: 'https://github.com/projectxbeam/xbeam'
+category: Entertainment
+repository: 'https://github.com/projectxbeam/xbeam'
+keywords:
+    - ""
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://camo.githubusercontent.com/771289c889f21fae18fe20da970cfffc17619804/68747470733a2f2f692e696d6775722e636f6d2f4e73705a5477622e706e67'
+    caption: 'Sneak peek'
+    imageLink: 'https://camo.githubusercontent.com/771289c889f21fae18fe20da970cfffc17619804/68747470733a2f2f692e696d6775722e636f6d2f4e73705a5477622e706e67'
