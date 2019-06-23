@@ -1516,7 +1516,7 @@
     ],
     "source": {
       "path": "apps/clockodo/clockodo-icon.png",
-      "revHash": "b4c67e64ee"
+      "revHash": "c4f0d878c5"
     }
   },
   "cloudcmd": {
@@ -1725,6 +1725,22 @@
     "source": {
       "path": "apps/colorpicker/colorpicker-icon.png",
       "revHash": "d4ed3de4a9"
+    }
+  },
+  "compact-log-viewer": {
+    "faintColorOnWhite": "rgba(52, 68, 180, 0.1)",
+    "goodColorOnBlack": "#6474C4",
+    "goodColorOnWhite": "#3444B4",
+    "palette": [
+      "#fafafb",
+      "#3444b4",
+      "#7c85cc",
+      "#939cd4",
+      "#6474c4"
+    ],
+    "source": {
+      "path": "apps/compact-log-viewer/compact-log-viewer-icon.png",
+      "revHash": "b288d7fff8"
     }
   },
   "composercat": {
@@ -2141,6 +2157,22 @@
     "source": {
       "path": "apps/dat/dat-icon.png",
       "revHash": "667c3e764a"
+    }
+  },
+  "data-forge-notebook": {
+    "faintColorOnWhite": "rgba(166, 84, 45, 0.1)",
+    "goodColorOnBlack": "#D4845C",
+    "goodColorOnWhite": "#A6542D",
+    "palette": [
+      "#a6542d",
+      "#e7cec3",
+      "#ca8f76",
+      "#d9ac94",
+      "#d4845c"
+    ],
+    "source": {
+      "path": "apps/data-forge-notebook/data-forge-notebook-icon.png",
+      "revHash": "746c5781a3"
     }
   },
   "data-pixels-playground": {
@@ -3615,6 +3647,22 @@
       "revHash": "66bbaab212"
     }
   },
+  "gibu": {
+    "faintColorOnWhite": "rgba(229, 36, 44, 0.1)",
+    "goodColorOnBlack": "#EC1C24",
+    "goodColorOnWhite": "#E5242C",
+    "palette": [
+      "#fcfcfc",
+      "#e42b34",
+      "#ec1c24",
+      "#f4f4f4",
+      "#e5242c"
+    ],
+    "source": {
+      "path": "apps/gibu/gibu-icon.png",
+      "revHash": "b55ab2a689"
+    }
+  },
   "gif-maker": {
     "faintColorOnWhite": "rgba(174, 69, 68, 0.1)",
     "goodColorOnBlack": "#C46C6C",
@@ -4172,7 +4220,7 @@
     ],
     "source": {
       "path": "apps/hexo-blog-client/hexo-blog-client-icon.png",
-      "revHash": "99e814ff12"
+      "revHash": "bda1443d43"
     }
   },
   "hexo-client": {
@@ -5136,19 +5184,19 @@
     }
   },
   "laravel-kit": {
-    "faintColorOnWhite": "rgba(49, 82, 208, 0.1)",
-    "goodColorOnBlack": "#0C86F5",
-    "goodColorOnWhite": "#3152D0",
+    "faintColorOnWhite": "rgba(204, 70, 16, 0.1)",
+    "goodColorOnBlack": "#F5A281",
+    "goodColorOnWhite": "#CC4610",
     "palette": [
-      "#3152d0",
-      "#fbfbfb",
-      "#0c86f5",
-      "#8790de",
-      "#84b4f4"
+      "#eeeeee",
+      "#ed6f64",
+      "#f5a281",
+      "#cab8b7",
+      "#c5908d"
     ],
     "source": {
       "path": "apps/laravel-kit/laravel-kit-icon.png",
-      "revHash": "3554bea581"
+      "revHash": "8a24d7a1de"
     }
   },
   "laverna": {
@@ -6287,6 +6335,22 @@
       "revHash": "55a89ad0af"
     }
   },
+  "move-more": {
+    "faintColorOnWhite": "rgba(117, 68, 236, 0.1)",
+    "goodColorOnBlack": "#A754F2",
+    "goodColorOnWhite": "#7544EC",
+    "palette": [
+      "#a754f2",
+      "#faf8fb",
+      "#7544ec",
+      "#bf93f4",
+      "#d496f4"
+    ],
+    "source": {
+      "path": "apps/move-more/move-more-icon.png",
+      "revHash": "39024283e3"
+    }
+  },
   "movieprint": {
     "faintColorOnWhite": "rgba(7, 7, 7, 0.1)",
     "goodColorOnBlack": "#F45408",
@@ -6429,6 +6493,22 @@
     "source": {
       "path": "apps/music-player/music-player-icon.png",
       "revHash": "77973db1c5"
+    }
+  },
+  "musicplus": {
+    "faintColorOnWhite": "rgba(40, 45, 42, 0.1)",
+    "goodColorOnBlack": "#6A9F75",
+    "goodColorOnWhite": "#282D2A",
+    "palette": [
+      "#282d2a",
+      "#ebebeb",
+      "#6a9f75",
+      "#61846b",
+      "#8c8c8c"
+    ],
+    "source": {
+      "path": "apps/musicplus/musicplus-icon.png",
+      "revHash": "64c72c28f5"
     }
   },
   "musictube-player": {
@@ -7888,19 +7968,19 @@
     }
   },
   "premid": {
-    "faintColorOnWhite": "rgba(90, 106, 169, 0.1)",
-    "goodColorOnBlack": "#A4ACD4",
-    "goodColorOnWhite": "#5A6AA9",
+    "faintColorOnWhite": "rgba(64, 96, 207, 0.1)",
+    "goodColorOnBlack": "#748BDC",
+    "goodColorOnWhite": "#4060CF",
     "palette": [
-      "#fbfbfb",
-      "#5a6aa9",
-      "#989fbe",
-      "#acb4cc",
-      "#a4acd4"
+      "#748bdc",
+      "#fafbfb",
+      "#bcc4ec",
+      "#b4c4ec",
+      "#a3b2e5"
     ],
     "source": {
       "path": "apps/premid/premid-icon.png",
-      "revHash": "81c80e0932"
+      "revHash": "6f6715862c"
     }
   },
   "preserver": {
@@ -8188,7 +8268,7 @@
     ],
     "source": {
       "path": "apps/q-player/q-player-icon.png",
-      "revHash": "c43c155c4d"
+      "revHash": "68a7c7c0b0"
     }
   },
   "qawl": {
@@ -8367,6 +8447,22 @@
       "revHash": "6af0f58d69"
     }
   },
+  "ranorex-webtestit": {
+    "faintColorOnWhite": "rgba(37, 104, 104, 0.1)",
+    "goodColorOnBlack": "#54ABAB",
+    "goodColorOnWhite": "#256868",
+    "palette": [
+      "#54abab",
+      "#d5eaea",
+      "#040404",
+      "#256868",
+      "#384646"
+    ],
+    "source": {
+      "path": "apps/ranorex-webtestit/ranorex-webtestit-icon.png",
+      "revHash": "96b4a053f7"
+    }
+  },
   "ratemymovie": {
     "faintColorOnWhite": "rgba(55, 55, 55, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
@@ -8477,6 +8573,22 @@
     "source": {
       "path": "apps/redp/redp-icon.png",
       "revHash": "b7b362b257"
+    }
+  },
+  "rekord": {
+    "faintColorOnWhite": "rgba(147, 58, 251, 0.1)",
+    "goodColorOnBlack": "#469EF9",
+    "goodColorOnWhite": "#933AFB",
+    "palette": [
+      "#469ef9",
+      "#e53664",
+      "#ead2e4",
+      "#933afb",
+      "#971b3d"
+    ],
+    "source": {
+      "path": "apps/rekord/rekord-icon.png",
+      "revHash": "14c4950e2e"
     }
   },
   "remember": {
@@ -10204,7 +10316,7 @@
     ],
     "source": {
       "path": "apps/tch-filector/tch-filector-icon.png",
-      "revHash": "169112c3bd"
+      "revHash": "55ea452a6e"
     }
   },
   "tea-ebook": {
@@ -10940,7 +11052,7 @@
     ],
     "source": {
       "path": "apps/tutti-quanti-shelf/tutti-quanti-shelf-icon.png",
-      "revHash": "44aa02d583"
+      "revHash": "f130bac4eb"
     }
   },
   "tweakstyle": {
