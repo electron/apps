@@ -2,7 +2,6 @@ name: MusicPlus
 description: 'Free music application for MacOS & Windows. All the songs, all the artists, support lyrics, search music, create/collect playlists, follow artists & more.'
 website: 'https://musicplus.io'
 category: 'Music'
-repository: 'https://github.com/musicplusapp/musicplus'
 youtube_video_url: 'https://www.youtube.com/watch?v=y9IGVFatNPQ'
 keywords:
   - music
