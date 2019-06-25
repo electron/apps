@@ -1,7 +1,7 @@
 name: Pixel Weather
 description: 'Compact 8 bit style clear weather widget.'
-website: 'https://aveek-saha.github.io/'
-repository: 'https://home.aveek.io/blog/post/pixel-weather/'
+website: 'https://home.aveek.io/blog/post/pixel-weather/'
+repository: 'https://github.com/Aveek-Saha/pixel-weather'
 category: 'Utilities'
 keywords:
     - weather
