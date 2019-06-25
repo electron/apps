@@ -2671,6 +2671,22 @@
       "revHash": "f3d568553b"
     }
   },
+  "dot": {
+    "faintColorOnWhite": "rgba(24, 20, 20, 0.1)",
+    "goodColorOnBlack": "#8C7676",
+    "goodColorOnWhite": "#181414",
+    "palette": [
+      "#141414",
+      "#181414",
+      "#181414",
+      "#181414",
+      "#181414"
+    ],
+    "source": {
+      "path": "apps/dot/dot-icon.png",
+      "revHash": "615a06a88e"
+    }
+  },
   "dotgrid": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#F2F2F2",
