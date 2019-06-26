@@ -1,5 +1,5 @@
 name: Bookle
-description: 'Download all those awesome books for free. This is like Google for books'
+description: 'Download all those awesome books for free. This is like Google for books.'
 repository: 'https://github.com/doc-han/bookle'
 screenshots:
   -
@@ -18,4 +18,4 @@ keywords:
   - Books
   - Free
   - Download
-Category: Books
+Category: 'Books'
