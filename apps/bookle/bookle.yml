@@ -1,9 +1,21 @@
 name: Bookle
 description: 'Download all those awesome books for free. This is like Google for books'
 repository: 'https://github.com/doc-han/bookle'
+screenshots:
+  -
+    imageUrl: 'https://github.com/doc-han/bookle/blob/master/screenshots/bookle_home.PNG'
+    caption: 'Home view'
+  -
+    imageUrl: 'https://github.com/doc-han/bookle/blob/master/screenshots/search1.PNG'
+    caption: 'Search View'
+  -
+    imageUrl: 'https://github.com/doc-han/bookle/blob/master/screenshots/search2.PNG'
+    caption: 'Search View'
+  -
+    imageUrl: 'https://github.com/doc-han/bookle/blob/master/screenshots/download.PNG'
+    caption: 'Downloading book view'
 keywords: 
   - Books
   - Free
   - Download
-  - Library Genesis
 Category: Books
