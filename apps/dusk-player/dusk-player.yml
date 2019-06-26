@@ -16,3 +16,7 @@ screenshots:
     imageUrl: 'https://aveeksaha.gitlab.io/DuskPlayer/Screenshot2.png'
     caption: 'Playlist'
     imageLink: 'https://aveek-saha.github.io/releases'
+  -
+    imageUrl: 'https://aveeksaha.gitlab.io/DuskPlayer/Screenshot3.png'
+    caption: 'Light Mode'
+    imageLink: 'https://aveek-saha.github.io/releases'
