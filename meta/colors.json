@@ -799,6 +799,22 @@
       "revHash": "47532b33b6"
     }
   },
+  "biscuit": {
+    "faintColorOnWhite": "rgba(153, 95, 12, 0.1)",
+    "goodColorOnBlack": "#F3BB6B",
+    "goodColorOnWhite": "#995F0C",
+    "palette": [
+      "#f3bb6b",
+      "#e39c44",
+      "#cc843c",
+      "#a47444",
+      "#ce9c5c"
+    ],
+    "source": {
+      "path": "apps/biscuit/biscuit-icon.png",
+      "revHash": "9331d7e79f"
+    }
+  },
   "bitbloq": {
     "faintColorOnWhite": "rgba(97, 129, 18, 0.1)",
     "goodColorOnBlack": "#94C41C",
@@ -7645,6 +7661,22 @@
     "source": {
       "path": "apps/piqture/piqture-icon.png",
       "revHash": "d0a9d5353e"
+    }
+  },
+  "pixel-weather": {
+    "faintColorOnWhite": "rgba(5, 5, 4, 0.1)",
+    "goodColorOnBlack": "#FBDB44",
+    "goodColorOnWhite": "#050504",
+    "palette": [
+      "#050504",
+      "#fafafa",
+      "#fbdb44",
+      "#6e6c5d",
+      "#94842c"
+    ],
+    "source": {
+      "path": "apps/pixel-weather/pixel-weather-icon.png",
+      "revHash": "4c1e25b99b"
     }
   },
   "plain-email": {
