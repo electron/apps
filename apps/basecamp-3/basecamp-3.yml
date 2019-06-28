@@ -2,5 +2,10 @@ name: 'Basecamp 3'
 description: 'A place to work + a way to work'
 website: 'https://basecamp.com/via'
 keywords:
+    - todo
+    - to-do
     - productivity
+    - communication
+    - collaboration
+    - project management
 category: Productivity
