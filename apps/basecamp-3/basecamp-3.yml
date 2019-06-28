@@ -13,6 +13,7 @@ youtube_video_url: 'https://www.youtube.com/watch?v=su5xAZHF114'
 screenshots:
   -
     imageUrl: 'https://basecamp.com/assets/general/device-callouts@2x-778756d093dee51fbd19b5df9903dd84cc553a426309582348a3b2a4eea46fe4.png'
+    caption: 'Basecamp 3 Features'
     imageLink: 'https://basecamp.com/features'
   -
     imageUrl: 'https://basecamp.com/assets/how-it-works/todo-lists-long@2x-2841f9b96739930b4f4cfc71f56931bcddb127c5d01607eb458bdcbc33e9d614.jpg'
