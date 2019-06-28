@@ -4,6 +4,7 @@ const it = mocha.it
 const fs = require('fs')
 const path = require('path')
 const apps = require('..')
+const isHexColor = require('is-hexcolor')
 const categories = require('../categories')
 const expect = require('chai').expect
 
@@ -26,8 +27,14 @@ describe('machine-generated app data (exported by the module)', () => {
     expect(apps.every(app => app.slug.length > 0)).to.equal(true)
   })
 
-  it('sets a .png `icon` property on every app', () => {
-    expect(apps.every(app => !!app.icon.match(/\.png$/))).to.equal(true)
+  it('sets a multi-size icon properties on every app', () => {
+    expect(apps.every(app => {
+      return app.icon.endsWith('.png') &&
+      app.icon32.endsWith('-icon-32.png') &&
+      app.icon64.endsWith('-icon-64.png') &&
+      app.icon128.endsWith('-icon-128.png') &&
+      app.icon256.endsWith('-icon-256.png')
+    })).to.equal(true)
   })
 
   it('sets a (git-based) YYYY-MM-DD `date` property on every app', () => {
@@ -45,24 +52,72 @@ describe('machine-generated app data (exported by the module)', () => {
     })
   })
 
-  it('sets a `releases` array on every app', function () {
-    return this.skip()
-    // apps.forEach(app => {
-    //   expect(app.releases).to.be.an('array', app.slug)
-    // })
-
-    // const app = apps.find(app => app.slug === 'hyper')
-    // expect(app).to.be.an('object')
-    // expect(app.releases.length).to.be.above(12)
-    // expect(app.releases[5].assets.length).to.be.above(4)
+  it('sets a `colors.goodColorOnWhite` hex value on every app', () => {
+    apps.forEach(app => {
+      expect(isHexColor(app.goodColorOnWhite)).to.eq(true)
+    })
   })
 
-  it('adds readme data to apps with GitHub releases', () => {
-    const readmeApps = apps.filter(app => app.readme)
-    expect(readmeApps.length).to.be.above(10)
+  it('sets a `colors.faintColorOnWhite` semi-transparent rgba value on every app', () => {
+    apps.forEach(app => {
+      expect(
+        app.faintColorOnWhite,
+        `${app.slug}'s faintColorOnWhite is not right`
+      ).to.match(/rgba\(\d+, \d+, \d+, /)
+    })
+  })
 
-    // make sure every app retains its original unmodified readme
-    expect(readmeApps.every(app => app.originalReadme.length > 0)).to.eq(true)
+  it('sets a `colors.goodColorOnBlack` hex value on every app', () => {
+    apps.forEach(app => {
+      expect(isHexColor(app.goodColorOnBlack)).to.eq(true)
+    })
+  })
+
+  it('does not override good colors if they already exist', () => {
+    const hyper = apps.find(app => app.slug === 'hyper')
+    expect(hyper.goodColorOnWhite).to.eq('#000')
+    expect(hyper.goodColorOnBlack).to.eq('#FFF')
+  })
+
+  describe('releases', () => {
+    const appsWithRepos = require('../lib/apps-with-github-repos')
+    const appsWithLatestRelease = apps.filter(app => app.latestRelease)
+
+    it('tries to fetch a release for every app with a GitHub repo', () => {
+      expect(apps.filter(app => app.latestReleaseFetchedAt).length).to.equal(appsWithRepos.length)
+    })
+
+    it('collects latest GitHub release data for apps that have it', () => {
+      expect(appsWithLatestRelease.length).to.be.above(50)
+    })
+
+    it('sets `latestRelease` on apps with GitHub repos that use Releases', () => {
+      expect(appsWithLatestRelease.every(app => app.latestRelease)).to.eq(true)
+    })
+
+    it('sets `latestReleaseFetchedAt`', () => {
+      expect(appsWithLatestRelease.every(app => app.latestReleaseFetchedAt)).to.eq(true)
+    })
+  })
+
+  describe('readmes', () => {
+    const readmeApps = apps.filter(app => app.readmeCleaned)
+
+    it('collects READMEs for apps with GitHub repos', () => {
+      expect(readmeApps.length).to.be.above(50)
+    })
+
+    it('sets `readmeCleaned`', () => {
+      expect(readmeApps.every(app => app.readmeCleaned.length > 0)).to.eq(true)
+    })
+
+    it('sets `readmeOriginal`', () => {
+      expect(readmeApps.every(app => app.readmeOriginal.length > 0)).to.eq(true)
+    })
+
+    it('sets `readmeFetchedAt`', () => {
+      expect(readmeApps.every(app => app.readmeFetchedAt.length > 0)).to.eq(true)
+    })
   })
 
   it('rewrites relative image source tags', () => {
@@ -70,11 +125,23 @@ describe('machine-generated app data (exported by the module)', () => {
     const local = '<img src="build/icons/256x256.png"'
     const remote = '<img src="https://github.com/beakerbrowser/beaker/raw/master/build/icons/256x256.png"'
 
-    expect(beaker.originalReadme).to.include(local)
-    expect(beaker.originalReadme).to.not.include(remote)
+    expect(beaker.readmeOriginal).to.include(local)
+    expect(beaker.readmeOriginal).to.not.include(remote)
 
-    expect(beaker.readme).to.not.include(local)
-    expect(beaker.readme).to.include(remote)
+    expect(beaker.readmeCleaned).to.not.include(local)
+    expect(beaker.readmeCleaned).to.include(remote)
+  })
+
+  it('rewrites relative link hrefs', () => {
+    const app = apps.find(app => app.slug === 'google-play-music-desktop-player')
+    const local = 'href="docs/PlaybackAPI.md"'
+    const remote = 'href="https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/blob/master/docs/PlaybackAPI.md"'
+
+    expect(app.readmeOriginal).to.include(local)
+    expect(app.readmeOriginal).to.not.include(remote)
+
+    expect(app.readmeCleaned).to.not.include(local)
+    expect(app.readmeCleaned).to.include(remote)
   })
 })
 

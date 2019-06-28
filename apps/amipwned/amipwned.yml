@@ -1,0 +1,13 @@
+name: 'amipwned'
+description: 'Desktop app that utilizes the haveibeenpwned API.'
+website: 'https://github.com/ImNotLiam/amipwned'
+repository: 'https://github.com/ImNotLiam/amipwned'
+keywords:
+    - security
+    - pwned
+    - account
+    - email
+    - breaches
+    - safety
+category: 'Utilities'
+license: 'MIT license' 

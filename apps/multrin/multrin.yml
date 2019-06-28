@@ -1,0 +1,12 @@
+name: Multrin
+description: 'Organize multiple apps in tabs!'
+category: Productivity
+repository: 'https://github.com/sentialx/multrin'
+keywords:
+    - windows
+    - organizer
+    - tabs
+    - material
+    - typescript
+    - react
+license: MIT

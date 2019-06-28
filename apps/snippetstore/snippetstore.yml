@@ -1,0 +1,27 @@
+name: 'Snippet Store'
+description: 'A snippet management app for developers'
+website: 'https://zerox-dg.github.io/SnippetStoreWeb/'
+repository: 'https://github.com/ZeroX-DG/SnippetStore'
+keywords:
+  - code
+  - snippet
+  - store
+  - copy
+  - tool
+  - developer
+  - productivity
+license: GPL
+category: 'Developer Tools'
+locales:
+  - en-US
+  - vi-VN
+screenshots:
+  -
+    imageUrl: 'https://zerox-dg.github.io/SnippetStoreWeb/noframe-list-and-detail-dark.png'
+    caption: 'SnippetStore in dark theme'
+    imageLink: 'https://zerox-dg.github.io/SnippetStoreWeb/'
+  -
+    imageUrl: 'https://zerox-dg.github.io/SnippetStoreWeb/noframe-list-and-detail.png'
+    caption: 'SnippetStore in light theme'
+    imageLink: 'https://zerox-dg.github.io/SnippetStoreWeb/'
+

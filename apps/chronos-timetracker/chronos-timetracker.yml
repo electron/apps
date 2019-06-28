@@ -1,0 +1,14 @@
+name: Chronos-timetracker
+description: Desktop client for JIRA
+website: https://chronos.web-pal.com/
+repository: https://github.com/web-pal/chronos-timetracker
+keywords:
+    - jira
+    - productivity
+    - timetracking
+    - react
+    - redux
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://chronos.web-pal.com/static/chronos-screenshot.eafbd89a.png'

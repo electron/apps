@@ -1,0 +1,10 @@
+name: "Saadhn"
+description: 'Unofficial JioSaavn desktop client, based on the official JioSaavn web app. Built with Electron.'
+website: 'https://github.com/arkokoley/saadhn'
+category: Music
+repository: 'https://github.com/arkokoley/saadhn'
+keywords:
+    - music
+    - desktop
+    - saavn
+    - jiosaavn

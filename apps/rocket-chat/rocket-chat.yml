@@ -1,6 +1,23 @@
 name: Rocket.Chat
-description: 'The ultimate open source web chat platform'
+description: 'the leading open source team communication platform'
 website: 'https://rocket.chat'
+homebrewCaskName: rocket.chat
 keywords:
     - chat
+    - messaging 
+    - collaboration 
+    - chat 
+    - chatops 
+    - enterprise
+    - teams
+    - p2p
+    - workstream
+    - community
+    - open source
+    - cloud
+    - on-premises
+    - video
+    - conferencing
+    - security
+    - livechat
 category: 'Social Networking'

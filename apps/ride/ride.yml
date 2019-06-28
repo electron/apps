@@ -1,0 +1,8 @@
+name: RIDE
+description: 'Remote IDE for Dyalog APL.'
+website: 'https://github.com/Dyalog/ride'
+repository: 'https://github.com/Dyalog/ride'
+keywords:
+    - apl
+license: MIT
+category: 'Developer Tools'

@@ -1,0 +1,16 @@
+name: 'Asar UI'
+description: 'UI for Asar Pack'
+website: 'https://github.com/myazarc/AsarUI/releases'
+category: Utilities
+repository: 'https://github.com/myazarc/AsarUI'
+keywords:
+    - 'asar ui'
+    - asar
+    - electron
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/myazarc/AsarUI/master/build/images/1.png'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/myazarc/AsarUI/master/build/images/2.png'
+locales:
+  - en-US

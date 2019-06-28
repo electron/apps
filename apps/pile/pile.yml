@@ -1,0 +1,20 @@
+name: Pile
+description: 'Organize your piled work in one place.'
+website: 'https://github.com/mtobeiyf/pile'
+category: Productivity
+repository: 'https://github.com/mtobeiyf/pile'
+keywords:
+    - electron
+    - vue
+    - workspace
+    - todo
+    - management
+    - productivity
+license: GPLv3
+locales:
+  - zh-CN
+screenshots:
+    -
+        imageUrl: 'https://user-images.githubusercontent.com/5097752/37512418-14efa934-293d-11e8-89d8-4038e1235ba0.png'
+        caption: 'Demo'
+        imageLink: 'https://github.com/mtobeiyf/pile'

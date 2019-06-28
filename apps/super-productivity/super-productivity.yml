@@ -1,0 +1,21 @@
+name: Super Productivity
+description: 'To Do List / Time Tracker with Jira Integration. Makes you super productive! '
+website: 'https://super-productivity.com/'
+repository: 'https://github.com/johannesjo/super-productivity'
+keywords:
+    - todo
+    - time tracker
+    - jira
+    - task management
+    - productivity
+license: 'MIT'
+category: 'Productivity'
+screenshots:
+  -
+    imageUrl: 'https://super-productivity.com/img/daily-planner-dark.png'
+    caption: 'Daily Planner'
+    imageLink: 'https://super-productivity.com/'
+  -
+    imageUrl: 'https://super-productivity.com/img/daily-summary.png'
+    caption: 'Daily Summary'
+    imageLink: 'https://super-productivity.com/'

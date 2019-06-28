@@ -1,0 +1,12 @@
+name: Left
+description: 'A distractionless writing tool with auto-complete, a synonyms dictionary, writing statistics, markup-based navigation and a speed-reader.'
+website: 'http://hundredrabbits.itch.io/left'
+repository: 'http://hundredrabbits.itch.io/left'
+screenshots:
+    - imageUrl: 'https://raw.githubusercontent.com/hundredrabbits/Left/master/PREVIEW.jpg'
+keywords:
+    - writing
+    - text
+    - edit
+    - markup
+category: Utilities

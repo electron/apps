@@ -1,0 +1,16 @@
+name: 'CodePilot.ai'
+description: 'Code search tool for software developers'
+website: 'https://codepilot.ai/'
+keywords:
+    - 'developer tools'
+    - search
+    - 'code search'
+    - code
+    - documentation
+    - developer
+    - tool
+    - productivity
+category: 'Developer Tools'
+screenshots:
+    -
+      imageUrl: 'https://codepilot.ai/wp-content/uploads/2018/08/codepilot-movie.mp4'

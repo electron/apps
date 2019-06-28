@@ -1,0 +1,17 @@
+name: 'Somiibo'
+description: 'Social media bot and automation tool.'
+website: 'https://somiibo.com'
+keywords:
+    - somiibo
+    - productivity
+    - utilities
+    - business
+    - social media
+    - automation
+    - soundcloud
+    - instagram
+    - twitter
+category: 'Utilities'
+screenshots:
+    -
+        imageUrl: 'https://iwiedenm.github.io/cdn/somiibo/images/screenshots/somiibo-social-media-automation-modules.png'

@@ -1,56 +1,47 @@
+const MAX_CONCURRENCY = Number(process.env.MAX_CONCURRENCY) || 4 // simultaneous open web requests
+const RELEASE_CACHE_TTL = require('human-interval')(process.env.RELEASE_CACHE_TTL || '4 hours')
+
 const fs = require('fs')
 const path = require('path')
+const Bottleneck = require('bottleneck')
 const github = require('../lib/github')
-const cheerio = require('cheerio')
 const parseGitUrl = require('github-url-to-object')
-const Duration = require('duration')
-const downloadExtensions = [
-  '.deb',
-  '.dmg',
-  '.exe',
-  '.gz',
-  '.zip'
-]
-const apps = require('../lib/raw-app-list')()
-  .filter(app => {
-    if (!app.repository) {
-      if (parseGitUrl(app.website)) {
-        console.log(`${app.name} website is a giturl: ${app.website}`)
-        app.repository = app.website
-      }
-    }
-    if (!app.repository) return false
-    if (!parseGitUrl(app.repository)) return false
-    let age = new Duration(new Date(app.releases_fetched_at || null), new Date())
-    if (age.hours < 24) return false
-    return true
-  })
-const outputFile = path.join(__dirname, '../meta/releases.json')
-const output = {}
-let i = -1
 
-// Don't fetch release data too often
-const outputFileAgeInHours = (new Date() - new Date(fs.statSync(outputFile).mtime)) / 1000 / 60
-if (outputFileAgeInHours < 1) {
-  console.log('Release data was updated less than an hour ago; skipping')
+const outputFile = path.join(__dirname, '../meta/releases.json')
+const oldReleaseData = require(outputFile)
+const output = {}
+const limiter = new Bottleneck(MAX_CONCURRENCY)
+
+const apps = require('../lib/raw-app-list')()
+const appsWithRepos = require('../lib/apps-with-github-repos')
+
+console.log(`${appsWithRepos.length} of ${apps.length} apps have a GitHub repo.`)
+console.log(`${appsWithRepos.filter(shouldUpdateAppReleaseData).length} of those ${appsWithRepos.length} have missing or outdated release data.`)
+
+appsWithRepos.forEach(app => {
+  if (shouldUpdateAppReleaseData(app)) {
+    limiter.schedule(getLatestRelease, app)
+  } else {
+    output[app.slug] = oldReleaseData[app.slug]
+  }
+})
+
+limiter.on('idle', () => {
+  fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
+  console.log(`Done fetching release data.\nWrote ${outputFile}`)
   process.exit()
-} else {
-  console.log('Fetching release data for apps that have a GitHub repo...')
+})
+
+function shouldUpdateAppReleaseData (app) {
+  const oldData = oldReleaseData[app.slug]
+  if (!oldData || !oldData.latestReleaseFetchedAt) return true
+  const oldDate = new Date(oldData.latestReleaseFetchedAt || null).getTime()
+  return oldDate + RELEASE_CACHE_TTL < Date.now()
 }
 
-go()
-
-function go () {
-  ++i
-
-  if (i === apps.length) {
-    fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
-    process.exit()
-  }
-
-  const app = apps[i]
+function getLatestRelease (app) {
   const {user: owner, repo} = parseGitUrl(app.repository)
-  const gitHubOptions = {
+  const opts = {
     owner: owner,
     repo: repo,
     headers: {
@@ -58,50 +49,19 @@ function go () {
     }
   }
 
-  github.repos.getLatestRelease(gitHubOptions)
-  .then(release => {
-    console.log(app.slug)
-    output[app.slug] = {
-      latestRelease: release.data || false,
-      release_fetched_at: new Date()
-    }
-    if (release.data) {
-      output[app.slug].latestRelease = {
-        releaseUrl: release.data.html_url,
-        tagName: release.data.tag_name,
-        releaseName: release.data.name,
-        releaseNotes: release.data.body_html
+  return github.repos.getLatestRelease(opts)
+    .then(release => {
+      console.log(`${app.slug}: got latest release`)
+      output[app.slug] = {
+        latestRelease: release.data,
+        latestReleaseFetchedAt: new Date()
       }
-      output[app.slug].latestRelease.downloads = release.data.assets.filter((asset) => {
-        let fileExtension = path.extname(asset.browser_download_url)
-        return (downloadExtensions.indexOf(fileExtension) !== -1)
-      }).map((asset) => {
-        return Object.assign({
-          fileName: asset.name,
-          fileUrl: asset.browser_download_url
-        })
-      })
-    }
-    return github.repos.getReadme(gitHubOptions)
-  }).catch(() => {
-    output[app.slug] = {
-      latestRelease: false
-    }
-    return github.repos.getReadme(gitHubOptions)
-  }).then((response) => {
-    let readme = response.data
-    let $ = cheerio.load(readme)
-
-    const $relativeImages = $('img').not('[src^="http"]')
-    if ($relativeImages.length) {
-      console.log(`Updating relative image URLs in ${app.name}`)
-      $relativeImages.each((i, img) => {
-        $(img).attr('src', `${app.repository}/raw/master/${$(img).attr('src')}`)
-      })
-    }
-
-    output[app.slug].originalReadme = readme
-    output[app.slug].readme = $('body').html()
-    go()
-  })
+    }).catch(err => {
+      console.error(`${app.slug}: no releases found`)
+      output[app.slug] = {
+        latestRelease: null,
+        latestReleaseFetchedAt: new Date()
+      }
+      if (err.code !== 404) console.error(err)
+    })
 }

@@ -1,0 +1,9 @@
+name: TodoKit
+description: 'A project and issue tracking software.'
+website: 'https://github.com/jeodiong/TodoKit/'
+category: 'Developer Tools'
+repository: 'https://github.com/jeodiong/TodoKit/'
+keywords:
+    - 'TodoKit'
+    - 'project'
+    - 'tracking'

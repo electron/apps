@@ -1,0 +1,11 @@
+name: j
+description: 'weixin bot with web weixin api'
+website: 'https://github.com/joehecn/j'
+repository: 'https://github.com/joehecn/j'
+keywords:
+    - weixin
+    - webwxapi
+    - vue
+locales:
+    - zh_CN
+category: Social Networking

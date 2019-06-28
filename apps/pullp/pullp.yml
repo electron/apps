@@ -1,0 +1,10 @@
+name: Pullp
+description: 'Dashboard for monitoring pull requests and reviews across your Github repos.'
+website: 'https://github.com/rkclark/pullp'
+repository: 'https://github.com/rkclark/pullp'
+keywords:
+    - dashboard
+    - github
+    - developer
+license: MIT
+category: Developer Tools

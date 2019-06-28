@@ -1,0 +1,13 @@
+name: Poddr
+description: 'A modern and simple podcast client.'
+website: 'https://sn8z.github.io/Poddr'
+category: Music
+repository: 'https://github.com/Sn8z/Poddr'
+keywords:
+    - podcast
+    - music
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/Sn8z/Poddr/master/images/poddr.png'
+    caption: 'Poddr - A modern and simple podcast client'
+    imageLink: 'https://sn8z.github.io/Poddr'

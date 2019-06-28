@@ -1,0 +1,21 @@
+name: VivifyScrum
+description: 'Scrum and Kanban Tool.'
+website: 'https://www.vivifyscrum.com/'
+repository: 'https://github.com/Vivify-Ideas/vivifyscrum2-electron/'
+category: Productivity
+keywords:
+    - agile
+    - scrum
+    - kanban
+    - project management
+    - productivity
+    - collaboration
+license: Proprietary
+screenshots:
+    -
+      imageUrl: 'https://i.imgur.com/Y7za1i1.png'
+    -
+      imageUrl: 'https://i.imgur.com/BIBeaMD.png'
+    -
+      imageUrl: 'https://i.imgur.com/BuQTRcT.png'
+

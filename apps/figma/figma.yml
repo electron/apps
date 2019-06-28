@@ -1,6 +1,7 @@
 name: Figma
 description: 'The collaborative interface design tool.'
 website: 'https://www.figma.com/'
+homebrewCaskName: figma
 keywords:
     - graphics
     - images
@@ -10,4 +11,4 @@ keywords:
     - vector
     - ui
     - ux
-category: 'Photo & Video'
+category: 'Graphics & Design'

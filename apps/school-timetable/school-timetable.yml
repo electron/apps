@@ -1,0 +1,22 @@
+name: 'Timetable'
+description: 'Simple, useful timetable application.'
+category: Education
+website: 'https://github.com/KDani-99/school_timetable'
+repository: 'https://github.com/KDani-99/school_timetable'
+keywords:
+    - School
+    - Timetable
+    - Management
+    - Time
+    - Desktop
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/KDani-99/school_timetable/master/screenshot1.jpg'
+    caption: 'Screenshot 1'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/KDani-99/school_timetable/master/screenshot2.jpg'
+    caption: 'Screenshot 2'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/KDani-99/school_timetable/master/screenshot3.jpg'
+    caption: 'Screenshot 3'
+    

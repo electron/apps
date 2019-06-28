@@ -9,7 +9,10 @@ const yaml = require('yamljs')
 const isUrl = require('is-url')
 const cleanDeep = require('clean-deep')
 const imageSize = require('image-size')
+const makeColorAccessible = require('make-color-accessible')
 const slugg = require('slugg')
+const grandfatheredDescriptions = require('../lib/grandfathered-descriptions')
+const grandfatheredSlugs = require('../lib/grandfathered-small-icons')
 const slugs = fs.readdirSync(path.join(__dirname, '../apps'))
   .filter(filename => {
     return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
@@ -42,16 +45,43 @@ describe('human-submitted app data', () => {
           expect(app.name.length).to.be.above(0)
         })
 
-        it('has a description', () => {
-          expect(app.description.length).to.be.above(0)
+        describe('description', () => {
+          it('exists', () => {
+            expect(app.description.length).to.be.above(0)
+          })
+
+          it('should not start with app name', () => {
+            const appName = app.name.toLowerCase()
+            const description = app.description.toLowerCase()
+            expect(description).to.satisfy((desc) => !desc.startsWith(appName))
+          })
+
+          const descIsGrandfathered = grandfatheredDescriptions.includes(slug)
+          if (!descIsGrandfathered) {
+            it('should start with a capital letter', () => {
+              const firstLetter = app.description[0]
+              expect(firstLetter).to.equal(firstLetter.toUpperCase())
+            })
+
+            it('should end with a period / full stop', () => {
+              expect(app.description[app.description.length - 1]).to.equal('.', `Description should end in a period / full stop: '${app.description}'`)
+            })
+
+            it('should not mention Electron since Electron is already implied', () => {
+              const description = app.description.toLowerCase()
+              expect(description.indexOf('electron')).to.equal(-1, `Description should not mention Electron, as Electron is already implied: ${description}`)
+            })
+
+            it('should not start description with "A" or "An"', () => {
+              const descriptionFirstWord = app.description.toLowerCase().split(' ', 1)[0]
+              const badStarts = [ 'a', 'an' ]
+              expect(badStarts).to.not.include(descriptionFirstWord, `Description should not start with 'A' or 'An': '${app.description}'`)
+            })
+          }
         })
 
-        it('should not start description with app name', () => {
-          expect(app.description.toLowerCase().indexOf(app.name.toLowerCase())).to.not.equal(0)
-        })
-
-        it('has a website with a valid URL', () => {
-          expect(isUrl(app.website)).to.equal(true)
+        it('has a website with a valid URL (or no website)', () => {
+          expect(!app.website || isUrl(app.website)).to.equal(true)
         })
 
         it('has a valid repository URL (or no repository)', () => {
@@ -62,12 +92,40 @@ describe('human-submitted app data', () => {
           expect(!app.keywords || Array.isArray(app.keywords)).to.eq(true)
         })
 
-        it('has a category', () => {
+        it('has a valid category', () => {
           expect(app.category.length).to.be.above(0)
+          expect(app.category).to.be.oneOf(categories)
         })
 
-        it('has a valid category', () => {
-          expect(app.category).to.be.oneOf(categories)
+        describe('colors', () => {
+          it(`allows goodColorOnWhite to be set, but it must be accessible`, () => {
+            // accessible: contrast ratio of 4.5:1 or greater (white background)
+            const color = app.goodColorOnWhite
+            if (color) {
+              const accessibleColor = makeColorAccessible(color)
+              expect(color === accessibleColor).to.equal(true,
+                `${slug}: contrast ratio too low for goodColorOnWhite. Try: ${accessibleColor}`)
+            }
+          })
+
+          it(`allows goodColorOnBlack to be set, but it must be accessible`, () => {
+            // accessible: contrast ratio of 4.5:1 or greater (black background)
+            const color = app.goodColorOnBlack
+            if (color) {
+              const accessibleColor = makeColorAccessible(color, {background: 'black'})
+              expect(color === accessibleColor).to.equal(true,
+                `${slug}: contrast ratio too low for goodColorOnBlack. Try: ${accessibleColor}`)
+            }
+          })
+
+          it(`allows faintColorOnWhite to be set`, () => {
+            const color = app.faintColorOnWhite
+            if (color) {
+              expect(color).to.match(/rgba\(\d+, \d+, \d+, /,
+                `${slug}'s faintColorOnWhite must be an rgba string`
+              )
+            }
+          })
         })
 
         it('has no empty properties', () => {
@@ -112,18 +170,14 @@ describe('human-submitted app data', () => {
           expect(dimensions.width).to.equal(dimensions.height)
         })
 
-        it('is at least 128px x 128px', function () {
+        const minPixels = (grandfatheredSlugs.indexOf(slug) > -1) ? 128 : 256
+        const maxPixels = 1024
+
+        it(`is between ${minPixels}px x ${minPixels}px and ${maxPixels}px x ${maxPixels}px`, function () {
           if (!fs.existsSync(iconPath)) return this.skip()
-
           const dimensions = imageSize(iconPath)
-          expect(dimensions.width).to.be.above(127)
-        })
-
-        it('is not more than 1024px x 1024px', function () {
-          if (!fs.existsSync(iconPath)) return this.skip()
-
-          const dimensions = imageSize(iconPath)
-          expect(dimensions.width).to.be.below(1025)
+          expect(dimensions.width).to.be.within(minPixels, maxPixels)
+          expect(dimensions.height).to.be.within(minPixels, maxPixels)
         })
       })
     })

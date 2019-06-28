@@ -1,0 +1,12 @@
+name: 'Dot Browser'
+description: 'Beautiful browser with material UI, with built-in adblock.'
+website: 'https://getdot.js.org'
+category: Productivity
+repository: 'https://github.com/dot-inc/browser'
+keywords:
+    - browser
+    - web-browser
+    - beautiful
+    - ui
+    - material
+    - privacy

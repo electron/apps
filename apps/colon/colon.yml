@@ -1,0 +1,23 @@
+name: Colon
+description: 'A flexible text editor'
+website: 'https://chhekur.github.io/colon-ide/'
+repository: 'https://github.com/Chhekur/colon-ide'
+keywords:
+    - 'web development'
+    - writing
+    - editor
+    - programming
+    - 'developer tools'
+license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Chhekur/colon-ide/master/assets/colon-screenshots/1.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Chhekur/colon-ide/master/assets/colon-screenshots/2.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Chhekur/colon-ide/master/assets/colon-screenshots/3.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Chhekur/colon-ide/master/assets/colon-screenshots/4.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Chhekur/colon-ide/master/assets/colon-screenshots/5.png'

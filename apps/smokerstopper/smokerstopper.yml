@@ -1,0 +1,14 @@
+name: SmokerStopper
+description: 'Simple cross-platform app for tracking your smoking time habits and help to quit.'
+website: 'https://phresh-it.hu/apps/smokerstopper/'
+license: MIT
+keywords:
+    - manage
+    - phresh
+    - flash
+    - game
+    - timetrack
+    - health
+    - smoking
+category: 'Health & Fitness'
+repository: 'https://github.com/Phreshhh/SmokerStopper'

@@ -1,0 +1,41 @@
+name: PreMiD
+description: "Discord Rich Presence for websites."
+website: "https://premid.app/"
+category: Utilities
+repository: "https://github.com/PreMiD/PreMiD"
+keywords:
+  - Discord
+  - Rich Presence
+  - Website
+license: MIT
+screenshots:
+  - imageUrl: "https://github.com/PreMiD/PreMiD/raw/master/gitassets/PreMiDExample.png"
+locales:
+  - ar
+  - bs
+  - zh-CN
+  - da
+  - en
+  - fi
+  - fr
+  - de
+  - he
+  - id
+  - it
+  - ja
+  - la
+  - lb
+  - no
+  - pl
+  - pt
+  - pt-br
+  - ro
+  - ru
+  - sk
+  - es
+  - sv
+  - ta
+  - th
+  - tr
+  - uk
+  - vi

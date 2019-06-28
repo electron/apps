@@ -1,0 +1,15 @@
+name: 'CUBA Studio'
+description: 'Specialized tool for rapid application development'
+website: 'https://www.cuba-platform.com'
+category: 'Developer Tools'
+keywords:
+    - java
+    - enterprise
+    - full-stack
+    - rad
+    - cuba-platform
+screenshots:
+    - 
+      imageUrl: 'https://www.cuba-platform.com/discuss/uploads/default/original/2X/c/ca959375555c6b1088d7121710db7130c4f6d5ad.jpg'
+      caption: 'CUBA Studio SE'
+      imageLink: 'https://www.cuba-platform.com/discuss/t/platform-cuba-studio-se-a-desktop-application-based-on-electron/2914'

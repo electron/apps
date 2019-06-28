@@ -1,0 +1,8 @@
+name: bunqDesktop
+description: 'The unofficial, free and open source desktop application for the bunq API.'
+website: 'https://bunqdesk.top'
+repository: 'https://github.com/bunqCommunity/bunqDesktop'
+category: Finance
+licence: MIT
+homebrewCaskName: 'bunqcommunity-bunq'
+snapcraftName: bunqdesktop

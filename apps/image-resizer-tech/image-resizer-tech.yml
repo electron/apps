@@ -1,0 +1,21 @@
+name: 'Image Resizer Tech'
+description: 'simple application for resizing images'
+website: 'https://image-resizer.tech/'
+category: 'Photo & Video'
+keywords:
+    - resize
+    - angular
+    - images
+    - design
+    - photo
+    - png
+    - jpeg
+    - sharp
+licence: Commercial
+screenshots:
+  -
+    imageUrl: 'https://image-resizer.tech/assets/img/screenshot-1.png'
+    caption: 'Light theme'
+  -
+    imageUrl: 'https://image-resizer.tech/assets/img/screenshot-2.png'
+    caption: 'Dark theme'

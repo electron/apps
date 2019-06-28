@@ -1,0 +1,9 @@
+name: GitBlade
+description: 'A simple and elegant GUI client for Linux, Mac and Windows'
+website: 'https://gitblade.com/'
+keywords:
+    - git
+    - programming
+    - software
+
+category: Developer Tools

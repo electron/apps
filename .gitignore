@@ -7,3 +7,4 @@
 index.json
 node_modules
 yarn.lock
+.gitsync_lock

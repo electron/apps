@@ -1,0 +1,23 @@
+name: Video Hub App
+description: 'Browse, search, and preview your videos'
+website: 'http://videohubapp.com/'
+category: Photo & Video
+keywords:
+    - video
+    - videos
+    - catalog
+    - search
+    - file-manager
+screenshots:
+    -
+      imageUrl: 'https://videohubapp.com/images/4.jpg'
+      caption: 'Thumbnails'
+      imageLink: 'https://videohubapp.com/'
+    -
+      imageUrl: 'https://videohubapp.com/images/2.jpg'
+      caption: 'Filmstrip'
+      imageLink: 'https://videohubapp.com/'
+    -
+      imageUrl: 'https://videohubapp.com/images/5.jpg'
+      caption: 'Dark mode'
+      imageLink: 'https://videohubapp.com/'

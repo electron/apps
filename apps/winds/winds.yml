@@ -1,0 +1,11 @@
+category: Productivity
+description: "An open-source podcast & RSS desktop app"
+keywords: 
+  - feed
+  - rss
+  - podcast
+  - audio
+  - syndication
+name: winds.yml
+repository: "https://github.com/getstream/winds"
+website: "https://getstream.io"

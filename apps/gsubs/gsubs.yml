@@ -1,0 +1,26 @@
+name: gSubs
+description: 'Desktop app that finds you the perfect subtitle match for your videos.'
+website: 'https://cholaware.com/gsubs/'
+category: 'Photo & Video'
+repository: 'https://github.com/sanjevirau/gsubs/'
+keywords:
+    - subtitle
+    - finder
+    - downlaoder
+    - searcher
+    - web
+    - app
+license: MIT
+screenshots:
+    -
+      imageUrl: 'https://cholaware.com/assets/img/gSubs/screenshots/gsubs-home-animated.gif'
+      caption: 'gSubs working in action'
+      imageLink: 'https://cholaware.com/gsubs/'
+    -
+      imageUrl: 'https://cholaware.com/assets/img/gSubs/screenshots/gsubs-home.png'
+      caption: 'gSubs Home'
+      imageLink: 'https://cholaware.com/gsubs/'
+    -
+      imageUrl: 'https://cholaware.com/assets/img/gSubs/screenshots/gsubs-search.png'
+      caption: 'gSubs Search Result'
+      imageLink: 'https://cholaware.com/gsubs/'

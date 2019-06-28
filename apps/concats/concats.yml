@@ -1,0 +1,18 @@
+name: concats
+description: 'Output a single-column csv file containing rows of concatenated fields from an input delimiter-separated values file.'
+website: 'https://github.com/brianzelip/concats'
+repository: 'https://github.com/brianzelip/concats'
+keywords:
+    - vue
+    - vue-cli-plugin-electron-builder
+    - csv
+    - tooling
+license: MIT
+category: Utilities
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/brianzelip/concats/master/screenshot.png'
+    caption: 'concats is open for business!'
+goodColorOnWhite: '#000'
+goodColorOnBlack: '#FFF'
+faintColorOnWhite: 'rgba(0, 0, 0, 0.5)'

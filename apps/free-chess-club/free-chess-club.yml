@@ -1,0 +1,19 @@
+name: 'Free Chess Club'
+description: 'Play Online Chess on the Free Internet Chess Server!'
+website: 'https://www.freechess.club'
+category: Games
+repository: 'https://github.com/freechessclub'
+keywords:
+    - games
+    - chess
+    - fics
+    - ics
+screenshots:
+  -
+    imageUrl: 'https://www.freechess.club/www/img/screenshot1.png'
+    caption: 'Game Play'
+    imageLink: 'https://www.freechess.club/play'
+  -
+    imageUrl: 'https://www.freechess.club/www/img/screenshot2.png'
+    caption: 'Free Chess Club'
+    imageLink: 'https://www.freechess.club'

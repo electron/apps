@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.1692.0",
+  "version": "1.7490.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -10,16 +10,19 @@
     "build:dates": "node script/dates",
     "build:colors": "node script/colors",
     "build:categories": "node script/categories",
-    "xbuild:releases": "node script/releases",
+    "build:releases": "node script/releases",
+    "build:readmes": "node script/readmes",
     "build:pack": "node script/pack",
     "prepack": "check-for-leaks",
     "prepush": "check-for-leaks",
-    "test": "mocha --reporter min test/human-data.js && standard --fix",
+    "test": "mocha --reporter min test/human-data.js test/colors-spec.js && standard --fix",
+    "test:debug": "mocha --reporter spec test/human-data.js test/colors-spec.js && standard --fix",
+    "pretest-all": "npm run build",
     "test-all": "mocha --reporter min && standard --fix",
     "wizard": "node wizard.js",
     "release": "script/release.sh"
   },
-  "repository": "https://github.com/electron/electron-apps",
+  "repository": "https://github.com/electron/apps",
   "keywords": [
     "electron",
     "apps",
@@ -30,31 +33,50 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "check-for-leaks": "^1.0.2",
+    "@octokit/rest": "^15.15.1",
+    "bottleneck": "^1.16.0",
+    "chai": "^4.2.0",
+    "check-for-leaks": "^1.2.0",
     "cheerio": "^1.0.0-rc.2",
     "clean-deep": "^2.0.1",
+    "color-convert": "^1.9.1",
     "count-array-values": "^1.2.1",
     "dotenv-safe": "^4.0.4",
-    "duration": "^0.2.0",
     "get-image-colors": "^1.8.1",
-    "github": "^9.2.0",
     "github-url-to-object": "^4.0.2",
+    "human-interval": "^0.1.6",
     "husky": "^0.14.3",
     "image-size": "^0.5.0",
+    "imagemin": "^6.1.0",
+    "imagemin-pngquant": "^8.0.0",
     "inquirer": "^2.0.0",
+    "is-hexcolor": "^1.0.0",
     "is-url": "^1.2.2",
+    "jimp": "^0.3.5",
+    "make-color-accessible": "^1.2.0",
     "mkdirp": "^0.5.1",
-    "mocha": "^3.2.0",
+    "mocha": "^5.2.0",
     "npm-run-all": "^4.0.1",
+    "pick-a-good-color": "^1.1.1",
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^2.6.1",
-    "sharp": "^0.17.0",
+    "sharp": "^0.20.8",
+    "sinon": "^7.2.2",
     "slugg": "^1.1.0",
     "standard": "^10.0.2",
     "yamljs": "^0.2.8"
   },
   "engines": {
-    "node": ">=4"
+    "node": "8"
+  },
+  "dependencies": {
+    "json-stable-stringify": "^1.0.1",
+    "mime-types": "^2.1.19",
+    "rev-hash": "^2.0.0"
+  },
+  "standard": {
+    "env": [
+      "mocha"
+    ]
   }
 }

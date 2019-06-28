@@ -1,0 +1,10 @@
+name: 'c-ip'
+description: 'View your WLAN/Public IP without using a command line.'
+website: 'https://c-ip.lierrmm.space'
+repository: 'https://github.com/ImNotLiam/c-ip'
+keywords:
+    - IP
+    - network
+    - utilities
+category: 'Utilities'
+license: 'MIT license' 

@@ -1,0 +1,17 @@
+name: CryptoBar
+description: 'Check variations on your cryptocurrencies and tokens on a discreet float bar'
+website: 'http://adlerluiz.com/CryptoBar/'
+category: Finance
+repository: 'https://github.com/adlerluiz/CryptoBar'
+keywords:
+    - cryptocurrency
+    - desktop
+    - app
+    - electron
+    - angular
+    - node
+    - javascript
+    - materializecss
+screenshots:
+    -
+        imageUrl: 'https://adlerluiz.com/CryptoBar/src/assets/product/cryptobar.png'

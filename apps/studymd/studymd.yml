@@ -1,0 +1,10 @@
+name: StudyMD
+description: 'Flashcards from Markdown.'
+website: 'https://github.com/jotron/StudyMD'
+category: Productivity
+repository: 'https://github.com/jotron/StudyMD'
+keywords:
+    - flashcards
+    - react-app
+    - markdown
+license: MIT

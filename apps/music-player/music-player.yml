@@ -1,0 +1,12 @@
+name: music-player
+description: 'Open-Source Audio Player that supports a variety of formats'
+website: 'https://aveek-saha.github.io/'
+repository: 'https://github.com/Aveek-Saha/MusicPlayer'
+keywords:
+    - audio
+    - music
+    - song
+    - album
+    - mp3    
+    - audiophile
+category: Music

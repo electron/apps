@@ -1,0 +1,18 @@
+name: Manta
+description: 'Painless invoicing with customizable templates'
+website: 'https://manta.life'
+repository: 'https://github.com/hql287/Manta'
+category: 'Business'
+screenshots:
+  -
+    imageUrl: 'https://d26dzxoao6i3hh.cloudfront.net/items/302k0o2c3i2O2K0q2w1i/example1.jpg?v=93291970'
+    caption: 'Example invoice 1'
+    imageLink: 'https://manta.life'
+  -
+    imageUrl: 'https://d26dzxoao6i3hh.cloudfront.net/items/2c0L2f1d3H0J1m0x291c/example2.jpg?v=329619d0'
+    caption: 'Example invoice 1'
+    imageLink: 'https://manta.life'
+  -
+    imageUrl: 'https://d26dzxoao6i3hh.cloudfront.net/items/04302b2f0w2t321B1f26/formScreenshot.jpg?v=da6fa66b'
+    caption: 'Form'
+    imageLink: 'https://manta.life'

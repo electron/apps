@@ -1,0 +1,26 @@
+name: E-Mage
+description: 'Cross-platform tool for lossless image compression.'
+website: 'https://github.com/douglasjunior/emage'
+category: 'Developer Tools'
+repository: 'https://github.com/douglasjunior/emage'
+keywords:
+    - image-optimization
+    - electron
+    - developer-tools
+    - pngcrush
+    - advpng
+    - pngout
+    - imagemin
+    - optipng
+    - zopfli
+    - jpegoptim
+    - jpegtran
+    - mozjpeg
+    - svgo
+    - giflossy
+    - gifsicle
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/douglasjunior/emage/master/screenshot/screen.png'
+    caption: 'Home Screen'

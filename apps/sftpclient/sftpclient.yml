@@ -1,0 +1,32 @@
+name: sFTP Client
+description: 'Transfer files with FTP, FTPIS, FTPES and SFTP (Including SSH Terminal)'
+website: 'https://www.sftpclient.io/download'
+keywords:
+    - sftp
+    - ftp
+    - ftps
+    - ftpis
+    - ftpes
+    - ssh
+    - terminal
+    - port forwarding
+    - server
+    - nas
+license: Proprietary
+category: 'Developer Tools'
+screenshots:
+  -
+    imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Dark_-_Light.png'
+    imageLink: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Dark_-_Light.png'
+  -
+    imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Light.png'
+    imageLink: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Light.png'
+  -
+    imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Dark.png'
+    imageLink: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Dark.png'
+  -
+    imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/SSH.png'
+    imageLink: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/SSH.png'
+  -
+    imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Transfers.png'
+    imageLink: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Transfers.png'

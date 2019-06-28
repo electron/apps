@@ -1,0 +1,15 @@
+name: Gibu
+description: 'The easiest way to backup all your github repositories with just a few clicks.'
+website: 'https://gibu.futureglobe.de/'
+category: 'Developer Tools'
+keywords:
+    - gihuba
+    - tool
+    - backup
+    - github
+screenshots:
+  -
+    imageUrl: 'https://gibu.futureglobe.de/images/GibuInAction.gif'
+    caption: 'Gibu'
+    imageLink: 'https://gibu.futureglobe.de/'
+

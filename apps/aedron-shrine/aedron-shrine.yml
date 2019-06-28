@@ -1,0 +1,18 @@
+name: 'Aedron Shrine'
+description: 'Simple and customizable game launcher for all your PC games.'
+website: 'https://dragolemjblond.itch.io/aedron-shrine'
+category: Games
+keywords:
+  - games
+  - launcher
+  - shortcut
+screenshots:
+  -
+    imageUrl: 'https://img.itch.zone/aW1hZ2UvMjMzMDU0LzIwMzYxNDIucG5n/347x500/x0RamU.png'
+    caption: 'A normal category with several games'
+  -
+    imageUrl: 'https://img.itch.zone/aW1hZ2UvMjMzMDU0LzIwODQ2ODIucG5n/347x500/znYDDe.png'
+    caption: 'A game with "subgames"'
+  -
+    imageUrl: 'https://img.itch.zone/aW1hZ2UvMjMzMDU0LzIwMzYxNDYucG5n/347x500/LPgC84.png'
+    caption: 'Secret category'

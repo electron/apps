@@ -1,0 +1,11 @@
+name: Rekord
+description: 'Application download YouTube videos and convert them to MP3.'
+website: 'https://barbhackk.github.io/rekord/'
+category: Utilities
+repository: 'https://github.com/barbhackk/rekord'
+keywords:
+    - YouTube
+    - Download
+    - MP3
+    - Music
+    - Vidéo

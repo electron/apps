@@ -1,0 +1,18 @@
+name: Playork
+description: 'Collection of Some Tools and Games'
+website: 'http://playork.ml'
+repository: 'https://github.com/playork/playork'
+category: Productivity
+keywords:
+    - 'playork'
+    - 'tool'
+    - 'play'
+    - 'game'
+    - 'desktop'
+    - 'gui'
+    - 'work'
+    - 'productivity'
+license: MIT
+screenshots:
+    -
+        imageUrl: 'https://user-images.githubusercontent.com/38488260/46244561-3c904f00-c3fe-11e8-8383-32ea3111af4f.png'

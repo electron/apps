@@ -1,0 +1,16 @@
+name: Petal
+description: Douban.FM Client With Extra - - -
+website: https://github.com/ilime/Petal
+repository: https://github.com/ilime/Petal
+keywords:
+  - Douban.FM
+  - Douban
+  - FM
+  - Music Desktop Player
+license: MIT
+
+category: Music
+
+screenshots:
+  -
+    imageUrl: https://raw.githubusercontent.com/ilime/Petal/dev/petal-screenshot.png

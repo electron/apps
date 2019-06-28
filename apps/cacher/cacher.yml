@@ -1,0 +1,21 @@
+name: Cacher
+description: 'Cloud-based, team-enabled code snippet manager with Gists sync.'
+website: 'https://www.cacher.io/'
+keywords:
+    - snippets
+    - programming
+    - coding
+    - gists
+category: 'Developer Tools'
+snapcraftName: cacher
+screenshots:
+    -
+        imageUrl: 'https://cdn.cacher.io/app-assets/cacher-demo.gif'
+    -
+        imageUrl: 'https://cdn.cacher.io/app-assets/tour/full-featured.png'
+    -
+        imageUrl: 'https://cdn.cacher.io/app-assets/tour/labels.png'
+    -
+        imageUrl: 'https://cdn.cacher.io/app-assets/tour/teams.png'
+    -
+        imageUrl: 'https://cdn.cacher.io/app-assets/tour/editors.png'

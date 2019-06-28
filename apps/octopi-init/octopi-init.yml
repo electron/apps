@@ -1,0 +1,14 @@
+name: octopi-init
+description: 'A Node.js & Electron application for easily configuring your freshly-imaged OctoPi microSD adapter'
+website: 'https://github.com/OutsourcedGuru/octopi-init'
+category: Utilities
+repository: 'https://github.com/OutsourcedGuru/octopi-init/blob/master/electron_README.md'
+keywords:
+    - octoprint
+    - octopi
+    - nodejs
+    - javascript
+    - microsd-management
+    - raspberry-pi-3
+    - raspberry-pi
+license: MIT

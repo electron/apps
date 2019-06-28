@@ -10,6 +10,23 @@ The following is a set of guidelines for contributing to `electron-apps`.
 These are just guidelines, not rules. Use your best judgment and feel free to
 propose changes to this document in a pull request.
 
+## Contents
+
+* [Adding your app](#adding-your-app)
+  + [Using the wizard 🔮](#using-the-wizard-)
+  + [Adding your app by hand 💪](#adding-your-app-by-hand-)
+  + [YML File Rules](#yml-file-rules)
+  + [Categories](#categories)
+  + [Screenshots](#screenshots)
+  + [Colors](#colors)
+  + [Icons](#icons)
+  + [Locales](#locales)
+  + [Company Logos and Names](#company-logos-and-names)
+  + [Submission Guidelines](#submission-guidelines)
+* [Removing or Disabling Apps](#removing-or-disabling-apps)
+* [Development](#development)
+* [Testing](#testing)
+
 ## Adding your app
 
 If you have an Electron application you'd like to see added, please
@@ -45,60 +62,87 @@ apps
     └── my-cool-app.yml
 ```
 
-YML file rules:
+### YML File Rules
 
 - `name` is required.
 - `description` is required.
 - `website` is required, and must be a fully-qualified URL.
-- `category` is required and must be one of the following values:
-  * Books
-  * Business
-  * Catalogs
-  * Developer Tools
-  * Education
-  * Entertainment
-  * Finance
-  * Food & Drink
-  * Games
-  * Health & Fitness
-  * Graphics & Design
-  * Lifestyle
-  * Kids
-  * Magazines & Newspapers
-  * Medical
-  * Music
-  * Navigation
-  * News
-  * Photo & Video
-  * Productivity
-  * Reference
-  * Shopping
-  * Social Networking
-  * Sports
-  * Travel
-  * Utilities
 - `repository` is optional, but must be a fully-qualified URL if provided.
 - `keywords` is optional, but should be an array if provided.
 - `license` is optional.
-- `screenshots` are optional, but should be an array in the following format if provided:
-  ```yml
-  screenshots:
-    -
-      imageUrl: 'https://mysite.com/awesome1.png'
-      caption: 'Awesome screenshot 1'
-      imageLink: 'https://mysite.com/awesome.html'
-    -
-      imageUrl: 'https://mysite.com/awesome2.png'
-      caption: 'Awesome screenshot 2'
-      imageLink: 'https://mysite.com/awesome.html'
-  ```
-  * `imageUrl` - *required* - fully-qualified URL of screenshot image.  Allowed image types are png, jpg, and gif.
-  * `caption` - an optional caption to display with the screenshot.
-  * `imageLink` - an optional link URL to indicate the link that should be directed to when someone clicks on an image.  If this field is not specified, clicking on a screenshot will go to the application website.
+- `homebrewCaskName` can be specified if your app is on [homebrew cask](https://caskroom.github.io).
+- `snapcraftName` can be specified if your app is on [snapcraft](https://snapcraft.io/).
+- `npmPackageName` can be specified if your app is on [npm](https://npmjs.org/).
 - `youtube_video_url` is optional, but must be a fully-qualified URL if provided.
 - No fields should be left blank.
 
-Icon file rules:
+### Categories
+
+`category` is required and must be one of the following values:
+
+* Books
+* Business
+* Catalogs
+* Developer Tools
+* Education
+* Entertainment
+* Finance
+* Food & Drink
+* Games
+* Health & Fitness
+* Graphics & Design
+* Lifestyle
+* Kids
+* Magazines & Newspapers
+* Medical
+* Music
+* Navigation
+* News
+* Photo & Video
+* Productivity
+* Reference
+* Shopping
+* Social Networking
+* Sports
+* Travel
+* Utilities
+
+### Screenshots
+
+Screenshots are optional, but must be _https_ and should be an array in the following format if provided:
+
+```yml
+screenshots:
+  -
+    imageUrl: 'https://mysite.com/awesome1.png'
+    caption: 'Awesome screenshot 1'
+    imageLink: 'https://mysite.com/awesome.html'
+  -
+    imageUrl: 'https://mysite.com/awesome2.png'
+    caption: 'Awesome screenshot 2'
+    imageLink: 'https://mysite.com/awesome.html'
+```
+
+* `imageUrl` - *required* - fully-qualified URL of screenshot image.  Allowed image types are png, jpg, and gif.
+* `caption` - an optional caption to display with the screenshot.
+* `imageLink` - an optional link URL to indicate the link that should be directed to when someone clicks on an image.  If this field is not specified, clicking on a screenshot will go to the application website.
+
+### Colors
+
+- `goodColorOnWhite` is an optional hex string, e.g. `#660000`
+- `goodColorOnBlack` is an optional hex string.
+- `faintColorOnWhite` is an optional rgba string, e.g. `rgba(100, 0, 0, 0.1)`
+
+If unspecified, an [accessible colors](https://github.com/zeke/pick-a-good-color)
+will be picked or derived from the provided icon file.
+
+Colors must meet the
+[WCAG contrast guidelines](https://www.w3.org/TR/WCAG/#visual-audio-contrast).
+You can use
+[leaverou.github.io/contrast-ratio](http://leaverou.github.io/contrast-ratio/)
+to help pick accessible colors.
+
+### Icons
 
 - Must be a `.png`
 - Must be a square
@@ -126,11 +170,13 @@ locales:
 
 ### Company Logos and Names
 
-Our legal team has advised us to disallow apps that are using the names of _other_ companies or icons that we find too similar to the logos of other companies without verifying their permission to do so. 
+Please do not directly use another company's name or product without permission. It's generally better to refer to it in a dependent clause; for example, after "compatible with", "on", or "for."
 
-App names should not start with the word "GitHub". In general, you may refer to GitHub in a relational phrase to say that the project is "compatible with", "on", or "for" GitHub, or something along those lines.
+For example, while we would not accept a third-party app named "GitHub Notifications", we would consider "Yourname Notifications for GitHub".
 
-For more details, see the [GitHub logo guidelines](https://github.com/logos).
+While some existing apps in the collection predate this rule and have been grandfathered in, we will not accept any apps that do not follow this rule going forward.
+
+For the specific case of GitHub, there are also [guidelines](https://github.com/logos) for use of its logos.
 
 ### Submission Guidelines
 
@@ -146,6 +192,87 @@ Some things to keep in mind when preparing your app for submission. Heavily insp
 - Don't mention `Electron` in the description as it's implied.
 - Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
+
+## Releases
+
+Once your pull request has been merged, your changes will automatically be published in a new release of the `electron-apps` npm module, and will be displayed on the electronjs.org website shortly thereafter. This process
+involves a number of scheduled process, and typically takes 20-30 minutes.
+
+## Removing or Disabling Apps
+
+Sometimes it's necessary to remove an app for this registry. To do so,
+add a `disabled` property to the app's YML file, followed a comment
+explaining the reason for removing it.
+
+```yml
+disabled: true # Nylas was sunset and replaced by Mailspring
+```
+
+This approach keeps the app data on hand, giving the app developer
+an option to resurrect the app at a later date by simply removing the flag.
+
+## How it Works
+
+This package is a joint effort between humans and robots.
+
+First, a human adds an app:
+
+```
+apps
+└── hyper
+    ├── hyper-icon.png
+    └── hyper.yml
+```
+
+The yml file requires just a few fields:
+
+```yml
+name: Hyper
+description: 'HTML/JS/CSS Terminal'
+website: 'https://hyper.is'
+repository: 'https://github.com/zeit/hyper'
+category: 'Developer Tools'
+```
+
+Humans can include other data like `keywords` and `license`, but they're not required to do so.
+
+The human then opens a PR. Tests pass, the PR gets merged. Yay!
+
+Later, a bot comes along and adds more data about the app.
+
+First, the date the app was submitted is inferred from the git history. Humans could provide this metadata, but they shouldn't have to. Let the machines do the work.
+
+```yml
+date: 2017-02-15
+```
+
+Then, the bot creates resized versions of the app icon:
+
+```
+hyper
+├── hyper-icon-128.png
+├── hyper-icon-32.png
+├── hyper-icon-64.png
+├── hyper-icon.png
+└── hyper.yml
+```
+
+Then the bot extracts a color palette from the app icon:
+
+```yml
+iconColors: ['#FF0000', '#C54F23', '#DD8833']
+```
+
+And it also picks some colors that are "on brand" for use on black or white
+backgrounds:
+
+```yml
+goodColorOnWhite: '#916E02'
+goodColorOnBlack: '#FCCC36'
+faintColorOnWhite: 'rgba(80, 0, 0, 0.1)
+```
+
+Lastly, the bot commits changes to git, pushes to GitHub, and publishes a new release to npm.
 
 ## Development
 

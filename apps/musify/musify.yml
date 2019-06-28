@@ -1,0 +1,10 @@
+name: Musify
+description: 'Simple, yet fast, music player for macOS.'
+website: 'https://srgmc.github.io/musify/'
+category: Music
+repository: 'https://github.com/SrGMC/musify'
+keywords:
+    - music
+    - 'music player'
+    - macOS
+license: GPL-3.0

@@ -1,0 +1,10 @@
+name: 'CSV to SQLite'
+description: 'Convert CSV files to SQLite databases.'
+website: 'https://github.com/isaiahnields/csv-to-sqlite'
+category: 'Developer Tools'
+keywords:
+    - sql
+    - csv
+    - sqlite
+    - converter
+license: MIT
