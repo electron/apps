@@ -20,7 +20,7 @@ const getObjectUrls = root => {
   let stack = [ root ]
   while (stack.length !== 0) {
     const o = stack.shift()
-    for (val of Object.values(o)) {
+    for (const val of Object.values(o)) {
       if (typeof val === 'string' && val.startsWith('https://'))
         urls.push(val)
       else if (typeof val === 'object')
