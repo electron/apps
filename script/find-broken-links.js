@@ -21,10 +21,7 @@ const getObjectUrls = root => {
   while (stack.length !== 0) {
     const o = stack.shift()
     for (const val of Object.values(o)) {
-      if (typeof val === 'string' && val.startsWith('https://'))
-        urls.push(val)
-      else if (typeof val === 'object')
-        stack.push(val)
+      if (typeof val === 'string' && val.startsWith('https://')) { urls.push(val) } else if (typeof val === 'object') { stack.push(val) }
     }
   }
 
@@ -43,7 +40,6 @@ const appFiles = rreaddir(appsDir).filter(file => file.endsWith('.yml'))
 for (const file of appFiles) {
   const relPath = path.relative(rootDir, file)
   for (const link of getYmlUrls(file)) {
-    //console.log(`${link} ${file}`)
     reqs.push(fetch(link, {method: 'HEAD'})
       .then(response => {
         if (response.ok) return
