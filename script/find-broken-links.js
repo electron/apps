@@ -14,7 +14,7 @@ const rreaddir = require('recursive-readdir-sync')
 const yaml = require('yamljs')
 
 // simple object walker that looks for https://... strings
-const getObjectUrls = root => {
+const getObjectUrls = (root) => {
   const urls = []
 
   let stack = [ root ]
@@ -28,29 +28,26 @@ const getObjectUrls = root => {
   return urls
 }
 
-const getYmlUrls = filename => getObjectUrls(yaml.load(filename))
+const getYmlUrls = (filename) => getObjectUrls(yaml.load(filename))
 
-const reqs = []
-let numBroken = 0
-
-const rootDir = path.join(__dirname, '..')
-const appsDir = path.join(rootDir, 'apps')
+const topDir = path.join(__dirname, '..')
+const appsDir = path.join(topDir, 'apps')
 const appFiles = rreaddir(appsDir).filter(file => file.endsWith('.yml'))
-
-for (const file of appFiles) {
-  const relPath = path.relative(rootDir, file)
-  for (const link of getYmlUrls(file)) {
-    reqs.push(fetch(link, {method: 'HEAD'})
-      .then(response => {
-        if (response.ok) return
-        console.log(`${relPath} - ${link} (${response.status} ${response.statusText})`)
-        ++numBroken
-      })
-      .catch(error => {
-        console.log(`${relPath} - ${link} (${error})`)
-        ++numBroken
-      }))
-  }
+const fetchOpts = {
+  method: 'HEAD' /* headers only; don't GET body */
 }
 
-Promise.all(reqs).then(() => process.exit(numBroken))
+let numBroken = 0
+Promise
+  .all(appFiles.flatMap(file =>
+    getYmlUrls(file).map(url =>
+      fetch(url, fetchOpts)
+        .then((resp) => {
+          if (resp.ok) return
+          console.log(`${path.relative(topDir, file)} - ${url} (${resp.status} ${resp.statusText})`)
+          ++numBroken
+        }, (error) => {
+          console.log(`${path.relative(topDir, file)} - ${url} (${error})`)
+          ++numBroken
+        }))))
+  .then(() => process.exit(numBroken))
