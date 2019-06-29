@@ -8975,6 +8975,22 @@
       "revHash": "29ea269382"
     }
   },
+  "seeql": {
+    "faintColorOnWhite": "rgba(10, 115, 137, 0.1)",
+    "goodColorOnBlack": "#67DCF4",
+    "goodColorOnWhite": "#0A7389",
+    "palette": [
+      "#27aada",
+      "#f7fafb",
+      "#5aceec",
+      "#67dcf4",
+      "#8cd3ec"
+    ],
+    "source": {
+      "path": "apps/seeql/seeql-icon.png",
+      "revHash": "cd5e25f23d"
+    }
+  },
   "sejda-pdf-desktop": {
     "faintColorOnWhite": "rgba(29, 127, 88, 0.1)",
     "goodColorOnBlack": "#249C6C",
@@ -10429,6 +10445,22 @@
     "source": {
       "path": "apps/teseve/teseve-icon.png",
       "revHash": "52a7ed967f"
+    }
+  },
+  "testmace": {
+    "faintColorOnWhite": "rgba(145, 105, 25, 0.1)",
+    "goodColorOnBlack": "#DFAC44",
+    "goodColorOnWhite": "#916919",
+    "palette": [
+      "#c65e34",
+      "#dfac44",
+      "#d69343",
+      "#d07f37",
+      "#ce7c69"
+    ],
+    "source": {
+      "path": "apps/testmace/testmace-icon.png",
+      "revHash": "d741c9ec2b"
     }
   },
   "testrec": {
