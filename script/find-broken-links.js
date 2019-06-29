@@ -17,14 +17,12 @@ const yaml = require('yamljs')
 // walk an object subtree looking for https:// strings
 const getObjectUrls = root => {
   const urls = []
-
-  let queue = [ root ]
+  const queue = [ root ]
   while (queue.length !== 0) {
     const vals = Object.values(queue.shift())
     urls.push(...vals.filter(v => typeof v === 'string' && v.startsWith('https://')))
     queue.push(...vals.filter(v => typeof v === 'object'))
   }
-
   return urls
 }
 
@@ -36,18 +34,17 @@ const scrape = url =>
     .catch(err => { return { url, err } })
 
 // scrape all the urls found in a yml file.
+// reports broken links to console.log().
 // returns a promise that resolves with an array of broken links: { url, err }
 const processYmlEntry = entry =>
   fsPromises.readFile(entry.fullPath, { encoding: 'utf8' })
     .then(yaml.parse)
     .then(getObjectUrls)
-    .then(urls => urls.map(scrape))
-    .then(scrapePromises => Promise.all(scrapePromises))
+    .then(urls => Promise.all(urls.map(scrape)))
     .then(results => results.filter((res) => res.err))
-    .then(fails => { fails.forEach(f => console.log(`apps/${entry.path} - ${f.url} (${f.err})`)); return fails })
+    .then(fails => { fails.forEach(f => console.log(`${entry.path} - ${f.url} (${f.err})`)); return fails })
 
-const appsDir = path.join(path.dirname(__dirname), 'apps') // sibling dir
-readdirp.promise(appsDir, { fileFilter: '*.yml' })
-  .then(entries => entries.map(processYmlEntry))
-  .then(entryPromises => Promise.all(entryPromises))
+const topDir = path.join(path.dirname(__dirname))
+readdirp.promise(topDir, { fileFilter: '*.yml', directoryFilter: entry => entry.path.startsWith('apps') })
+  .then(entries => Promise.all(entries.map(processYmlEntry)))
   .then(fails => process.exit(fails.flat().length))
