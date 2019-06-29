@@ -10,7 +10,7 @@
 const fetch = require('node-fetch')
 const path = require('path')
 const process = require('process')
-const rreaddir = require('recursive-readdir-sync')
+const rreaddir = require('recursive-readdir')
 const yaml = require('yamljs')
 
 // simple object walker that looks for https://... strings
@@ -31,23 +31,26 @@ const getObjectUrls = (root) => {
 const getYmlUrls = (filename) => getObjectUrls(yaml.load(filename))
 
 const topDir = path.join(__dirname, '..')
-const appsDir = path.join(topDir, 'apps')
-const appFiles = rreaddir(appsDir).filter(file => file.endsWith('.yml'))
+
 const fetchOpts = {
   method: 'HEAD' /* headers only; don't GET body */
 }
 
-let numBroken = 0
-Promise
-  .all(appFiles.flatMap(file =>
-    getYmlUrls(file).map(url =>
-      fetch(url, fetchOpts)
-        .then((resp) => {
-          if (resp.ok) return
-          console.log(`${path.relative(topDir, file)} - ${url} (${resp.status} ${resp.statusText})`)
-          ++numBroken
-        }, (error) => {
-          console.log(`${path.relative(topDir, file)} - ${url} (${error})`)
-          ++numBroken
-        }))))
-  .then(() => process.exit(numBroken))
+const scrape = (file, url) => {
+  const logerror = (msg) => console.log(`${path.relative(topDir, file)} - ${url} (${msg})`)
+  return fetch(url, fetchOpts).then((resp) => {
+    if (!resp.ok) logerror(`${resp.status} ${resp.statusText}`)
+    return resp.ok
+  }, (error) => {
+    logerror(error)
+    return false
+  })
+}
+
+const appsDir = path.join(topDir, 'apps')
+rreaddir(appsDir)
+  .then(files => files.filter(file => file.endsWith('.yml')))
+  .then(files => files.flatMap(file => getYmlUrls(file).map((url) => [ file, url ])))
+  .then(fileUrlPairs => Promise.all(fileUrlPairs.map(([ file, url ]) => scrape(file, url))))
+  .then(oks => process.exit(oks.filter(ok => !ok).length))
+
