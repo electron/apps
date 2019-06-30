@@ -14,7 +14,7 @@ const process = require('process')
 const readdirp = require('readdirp')
 const yaml = require('yamljs')
 
-// walk an object subtree looking for https:// strings
+// walk an object subtree looking for URL strings
 const getObjectUrls = root => {
   const urlPrefixes = ['http://', 'https://']
   const urls = []
@@ -28,25 +28,27 @@ const getObjectUrls = root => {
 }
 
 // scrape a url to see if the link is broken.
-// return a promise that resolves with { url, err }
+// return a Promise that resolves as { url, err }
 const scrape = url =>
-  fetch(url, { method: 'HEAD' }) // just scrape the headers; body not needed
+  fetch(url, { method: 'HEAD' }) // just scrape headers; body not needed
     .then(res => ({ url, err: res.ok ? null : `${res.status} ${res.statusText}` }),
           err => ({ url, err }))
 
 // scrape all the urls found in a yml file.
 // report broken links to console.log().
-// return a promise that resolves with an array of broken links: { url, err }
+// return a Promise that resolves as an array of broken links: [ { url, err }, ... ]
 const processYmlEntry = entry =>
   fsPromises.readFile(entry.fullPath, { encoding: 'utf8' })
     .then(yaml.parse)
     .then(getObjectUrls)
-    .then(urls => Promise.all(urls.map(scrape)))
-    .then(results => results.filter((res) => res.err))
+    .then(urls => urls.map(scrape))
+    .then(scrapePromises => Promise.all(scrapePromises))
+    .then(results => results.filter(res => !!res.err))
     .then(fails => { fails.forEach(f => console.log(`${entry.path} - ${f.url} (${f.err})`)); return fails })
 
-const topDir = path.join(path.dirname(__dirname))
+const topDir = path.dirname(__dirname)
 readdirp.promise(topDir, { fileFilter: '*.yml', directoryFilter: entry => entry.path.startsWith('apps') })
-  .then(entries => Promise.all(entries.map(processYmlEntry)))
-  .then(arraysOfFails => arraysOfFails.flat())
+  .then(entries => entries.map(processYmlEntry))
+  .then(processPromises => Promise.all(processPromises))
+  .then(failArrays => failArrays.flat())
   .then(fails => process.exit(fails.length))
