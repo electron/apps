@@ -9,6 +9,7 @@
 
 const fetch = require('node-fetch')
 const fsPromises = require('fs').promises
+const isUrl = require('is-url')
 const path = require('path')
 const process = require('process')
 const readdirp = require('readdirp')
@@ -16,12 +17,11 @@ const yaml = require('yamljs')
 
 // walk an object subtree looking for URL strings
 const getObjectUrls = root => {
-  const urlPrefixes = ['http://', 'https://']
   const urls = []
   const queue = [ root ]
   while (queue.length !== 0) {
     const vals = Object.values(queue.shift())
-    urls.push(...vals.filter(v => typeof v === 'string' && urlPrefixes.some(prefix => v.startsWith(prefix))))
+    urls.push(...vals.filter(isUrl))
     queue.push(...vals.filter(v => typeof v === 'object'))
   }
   return urls
