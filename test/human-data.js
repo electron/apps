@@ -1,6 +1,3 @@
-// make chai and the linter play nicer together
-/* eslint no-unused-expressions: 0 */
-
 const categories = require('../lib/app-categories')
 const mocha = require('mocha')
 const describe = mocha.describe
@@ -87,7 +84,7 @@ describe('human-submitted app data', () => {
 
         const linksAreGrandfathered = grandfatheredLinks.includes(slug)
         if (!linksAreGrandfathered) {
-          // walk an object subtree looking for URL strings
+          // walk an object subtree looking for URLs
           const getObjectUrls = root => {
             const found = []
             const queue = [ root ]
@@ -101,7 +98,9 @@ describe('human-submitted app data', () => {
 
           it('should use ssl links', () => {
             const goodProtocols = [ 'https:', 'sftp:' ]
-            for (const link of getObjectUrls(app)) { expect(link.protocol, link).to.be.oneOf(goodProtocols) }
+            const urls = getObjectUrls(app)
+
+            urls.forEach(url => expect(url.protocol, url).to.be.oneOf(goodProtocols))
           })
         }
 
