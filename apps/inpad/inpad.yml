@@ -11,5 +11,4 @@ keywords:
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/ManoCurry/Inpad/master/resources/screenshot.png'
+    - {imageUrl: 'https://raw.githubusercontent.com/ManoCurry/Inpad/master/resources/screenshot.png'}

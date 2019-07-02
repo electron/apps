@@ -7,11 +7,13 @@ const path = require('path')
 const expect = require('chai').expect
 const yaml = require('yamljs')
 const isUrl = require('is-url')
+const { URL } = require('url')
 const cleanDeep = require('clean-deep')
 const imageSize = require('image-size')
 const makeColorAccessible = require('make-color-accessible')
 const slugg = require('slugg')
 const grandfatheredDescriptions = require('../lib/grandfathered-descriptions')
+const grandfatheredLinks = require('../lib/grandfathered-links.js')
 const grandfatheredSlugs = require('../lib/grandfathered-small-icons')
 const slugs = fs.readdirSync(path.join(__dirname, '../apps'))
   .filter(filename => {
@@ -79,6 +81,28 @@ describe('human-submitted app data', () => {
             })
           }
         })
+
+        const linksAreGrandfathered = grandfatheredLinks.includes(slug)
+        if (!linksAreGrandfathered) {
+          // walk an object subtree looking for URLs
+          const getObjectUrls = root => {
+            const found = []
+            const queue = [ root ]
+            while (queue.length !== 0) {
+              const vals = Object.values(queue.shift())
+              found.push(...vals.filter(isUrl).map(v => new URL(v)))
+              queue.push(...vals.filter(v => typeof v === 'object'))
+            }
+            return found
+          }
+
+          it('should use ssl links', () => {
+            const goodProtocols = [ 'https:', 'sftp:' ]
+            const urls = getObjectUrls(app)
+
+            urls.forEach(url => expect(url.protocol, url).to.be.oneOf(goodProtocols))
+          })
+        }
 
         it('has a website with a valid URL (or no website)', () => {
           expect(!app.website || isUrl(app.website)).to.equal(true)

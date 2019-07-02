@@ -1,17 +1,16 @@
-name: 'PlayMe'
+name: PlayMe
 description: 'Elegant YouTube Music desktop app'
 website: 'http://playme.filip.engineer'
 repository: 'https://github.com/filipuic/playme'
 keywords:
-    - 'music'
-    - 'audio'
-    - 'youtube'
+    - music
+    - audio
+    - youtube
     - 'music player'
-    - 'desktop'
-    - 'gui'
-    - 'playlist'
+    - desktop
+    - gui
+    - playlist
 license: MIT
-category: 'Music'
+category: Music
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/filipuic/playme/master/static/playme-screenshot.png'
+    - {imageUrl: 'https://raw.githubusercontent.com/filipuic/playme/master/static/playme-screenshot.png'}
