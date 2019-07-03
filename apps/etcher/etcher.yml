@@ -8,5 +8,3 @@ keywords:
     - IoT
 license: 'Apache 2.0'
 category: 'Developer Tools'
-screenshots:
-    - {imageUrl: 'https://raw.githubusercontent.com/resin-io/etcher/master/screenshot.png'}
