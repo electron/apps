@@ -1,6 +1,6 @@
 name: ffftp
 description: 'A minimal FTP client for casual users'
-website: 'https://mitch.works/apps/ffftp'
+website: 'https://github.com/mitchas/ffftp'
 repository: 'https://github.com/mitchas/ffftp'
 keywords:
     - ftp

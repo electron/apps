@@ -40,7 +40,7 @@ const scrape = url =>
 const processYmlEntry = entry =>
   fsPromises.readFile(entry.fullPath, { encoding: 'utf8' })
     .then(yaml.parse)
-    .then(getObjectUrls)
+    .then(o => o.disabled ? [] : getObjectUrls(o))
     .then(urls => urls.map(scrape))
     .then(scrapePromises => Promise.all(scrapePromises))
     .then(results => results.filter(res => !!res.err))
