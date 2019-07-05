@@ -1,6 +1,6 @@
 name: Hoster
 description: 'Hosts configuration tools'
-website: 'http://houfeng.net/hoster'
+website: 'https://houfeng.net/hoster'
 locales:
     - zh-cn
 keywords:

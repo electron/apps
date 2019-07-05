@@ -1,6 +1,6 @@
 name: Inpad
 description: 'A Polished Notes App with Github Flavored Markdown'
-website: 'http://sarah-seo.github.io/Inpad'
+website: 'https://github.com/Sarah-Seo/Inpad'
 repository: 'https://github.com/Sarah-Seo/Inpad'
 keywords:
     - markdown
@@ -11,5 +11,4 @@ keywords:
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/ManoCurry/Inpad/master/resources/screenshot.png'
+    - {imageUrl: 'https://raw.githubusercontent.com/ManoCurry/Inpad/master/resources/screenshot.png'}

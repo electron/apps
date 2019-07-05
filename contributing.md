@@ -192,6 +192,7 @@ Some things to keep in mind when preparing your app for submission. Heavily insp
 - Don't mention `Electron` in the description as it's implied.
 - Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
+- Links must use ssl, e.g. have schemes of 'https' or 'sftp'.
 
 ## Releases
 

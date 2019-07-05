@@ -1,6 +1,6 @@
 name: Syng
 description: 'Chinese-to-English dictionary app and study toolset.'
-website: 'http://syngdict.com'
+website: 'https://syngdict.com/'
 category: Education
 repository: 'https://github.com/sotch-pr35mac/syng'
 keywords:
@@ -13,6 +13,6 @@ keywords:
     - translation
 license: GPLv3
 locales:
-    - 'en-US'
-    - 'zh-CN'
-    - 'zh-TW'
+    - en-US
+    - zh-CN
+    - zh-TW

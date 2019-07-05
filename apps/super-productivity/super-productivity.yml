@@ -12,10 +12,10 @@ license: 'MIT'
 category: 'Productivity'
 screenshots:
   -
-    imageUrl: 'https://super-productivity.com/img/daily-planner-dark.png'
+    imageUrl: 'https://raw.githubusercontent.com/johannesjo/super-productivity/47fb076b896c826dc5cc717cdbf17986b11009cc/screens/screen_standard.png'
     caption: 'Daily Planner'
     imageLink: 'https://super-productivity.com/'
   -
-    imageUrl: 'https://super-productivity.com/img/daily-summary.png'
+    imageUrl: 'https://raw.githubusercontent.com/johannesjo/super-productivity/47fb076b896c826dc5cc717cdbf17986b11009cc/screens/screen_daily-summary.png'
     caption: 'Daily Summary'
     imageLink: 'https://super-productivity.com/'
