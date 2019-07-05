@@ -1,0 +1,10 @@
+name: 'GUI for exchange message tracking log search'
+description: 'Electron based application to search exchange message tracking logs.'
+website: 'https://powershell.su'
+category: 'Developer Tools'
+repository: 'https://github.com/mnogobar/GUI-for-message-tracking-log-search'
+keywords:
+    - exchange
+    - search
+    - tool
+    - 'message tracking'
