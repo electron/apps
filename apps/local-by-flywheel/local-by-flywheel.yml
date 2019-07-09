@@ -1,5 +1,5 @@
 name: 'Local by Flywheel'
-description: 'A fuss-free way to develop WordPress locally'
+description: 'The #1 local WordPress development tool.'
 website: 'https://localbyflywheel.com'
 category: 'Developer Tools'
 repository: 'https://github.com/getflywheel/local-components'
@@ -9,9 +9,6 @@ keywords:
     - wp-cli
     - wpengine
 youtube_video_url: 'https://www.youtube.com/watch?v=M238QnTcnXE'
-goodColorOnWhite: '#51bb7b'
-goodColorOnBlack: '#51bb7b'
-faintColorOnWhite: 'rgba(81,187,123,.1)'
 screenshots:
   -
     imageUrl: 'https://localbyflywheel.com/local-assets/home-page-device.jpg'
