@@ -7151,6 +7151,22 @@
       "revHash": "02efa93eed"
     }
   },
+  "opencomic": {
+    "faintColorOnWhite": "rgba(207, 64, 52, 0.1)",
+    "goodColorOnBlack": "#D2867F",
+    "goodColorOnWhite": "#CF4034",
+    "palette": [
+      "#f1f0ed",
+      "#cf4034",
+      "#d2867f",
+      "#d49c94",
+      "#cc9c9c"
+    ],
+    "source": {
+      "path": "apps/opencomic/opencomic-icon.png",
+      "revHash": "c5d00168fe"
+    }
+  },
   "opus": {
     "faintColorOnWhite": "rgba(3, 114, 163, 0.1)",
     "goodColorOnBlack": "#04ADF7",
