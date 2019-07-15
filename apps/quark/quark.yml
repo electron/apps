@@ -4,7 +4,6 @@ website: 'https://quarkjs.io'
 repository: 'https://github.com/Nishkalkashyap/Quark-electron'
 category: 'Developer Tools'
 keywords:
-    - electronjs
     - quark
     - serialport
     - prototyping
