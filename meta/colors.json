@@ -5423,6 +5423,22 @@
       "revHash": "5038ecd384"
     }
   },
+  "local-by-flywheel": {
+    "faintColorOnWhite": "rgba(43, 122, 73, 0.1)",
+    "goodColorOnBlack": "#9CDCB4",
+    "goodColorOnWhite": "#2B7A49",
+    "palette": [
+      "#54bc7c",
+      "#fbfbfb",
+      "#acdcbc",
+      "#93d4ab",
+      "#9cdcb4"
+    ],
+    "source": {
+      "path": "apps/local-by-flywheel/local-by-flywheel-icon.png",
+      "revHash": "5b3d09067f"
+    }
+  },
   "lode": {
     "faintColorOnWhite": "rgba(236, 7, 39, 0.1)",
     "goodColorOnBlack": "#FB7B8D",
@@ -7183,6 +7199,22 @@
       "revHash": "7fb9877e2b"
     }
   },
+  "orb": {
+    "faintColorOnWhite": "rgba(16, 19, 26, 0.1)",
+    "goodColorOnBlack": "#7B96B4",
+    "goodColorOnWhite": "#10131A",
+    "palette": [
+      "#f5f6f7",
+      "#10131a",
+      "#7b96b4",
+      "#647b96",
+      "#626b78"
+    ],
+    "source": {
+      "path": "apps/orb/orb-icon.png",
+      "revHash": "8399a3ad87"
+    }
+  },
   "overlay": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#04FCFC",
@@ -7584,19 +7616,19 @@
     }
   },
   "phreshplayer": {
-    "faintColorOnWhite": "rgba(3, 134, 56, 0.1)",
-    "goodColorOnBlack": "#04A444",
-    "goodColorOnWhite": "#038638",
+    "faintColorOnWhite": "rgba(29, 99, 36, 0.1)",
+    "goodColorOnBlack": "#358C3C",
+    "goodColorOnWhite": "#1D6324",
     "palette": [
-      "#04a444",
-      "#08a444",
-      "#08a444",
-      "#08a444",
-      "#08a444"
+      "#28752d",
+      "#348434",
+      "#1d6324",
+      "#358c3c",
+      "#2c8434"
     ],
     "source": {
       "path": "apps/phreshplayer/phreshplayer-icon.png",
-      "revHash": "142b0c668f"
+      "revHash": "d05bef8cb8"
     }
   },
   "picpipe": {
@@ -8477,6 +8509,22 @@
     "source": {
       "path": "apps/radio5050/radio5050-icon.png",
       "revHash": "f74925baa8"
+    }
+  },
+  "raider-for-instagram": {
+    "faintColorOnWhite": "rgba(217, 51, 17, 0.1)",
+    "goodColorOnBlack": "#F48973",
+    "goodColorOnWhite": "#D93311",
+    "palette": [
+      "#ec4424",
+      "#fbfbfb",
+      "#f48973",
+      "#f4a494",
+      "#f4a48c"
+    ],
+    "source": {
+      "path": "apps/raider-for-instagram/raider-for-instagram-icon.png",
+      "revHash": "606ade650b"
     }
   },
   "rambox": {
