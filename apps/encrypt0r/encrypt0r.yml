@@ -1,5 +1,5 @@
 name: encrypt0r
-description: 'Encrypt and decrypt your files with a passphrase'
+description: 'Encrypt and decrypt your files with a passphrase.'
 website: 'https://kunalnagar.in/blog/encryptor-encrypt-decrypt-files-passphrase/'
 repository: 'https://github.com/kunalnagar/encrypt0r'
 license: MIT
