@@ -113,11 +113,11 @@ describe('human-submitted app data', () => {
         })
 
         describe('keywords', () => {
-          it('should be an array of keywords, or none at all', () => {
-            expect(!app.keywords || Array.isArray(app.keywords)).to.eq(true)
+          it('should, if present, be an array of keywords', () => {
+            expect(app.keywords || []).to.be.an('array')
           })
 
-          it("should not include 'electron' as a keyword", () => {
+          it("should not include 'electron'", () => {
             expect((app.keywords || []).map(key => key.toLocaleLowerCase())).to.not.include('electron')
           })
         })
