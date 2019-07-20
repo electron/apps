@@ -112,12 +112,15 @@ describe('human-submitted app data', () => {
           expect(!app.repository || isUrl(app.repository)).to.equal(true)
         })
 
-        it('has an array of keywords, or none at all', () => {
-          expect(!app.keywords || Array.isArray(app.keywords)).to.eq(true)
-        })
+        describe('keywords', () => {
+          it('should be an array of keywords, or none at all', () => {
+            expect(!app.keywords || Array.isArray(app.keywords)).to.eq(true)
+          })
 
-        expect((app.keywords || []).map(key => key.toLocaleLowerCase()))
-          .to.not.include('electron', '"Electron" is not a useful keyword in an Electron apps gallery')
+          it("should not include 'electron' as a keyword", () => {
+            expect((app.keywords || []).map(key => key.toLocaleLowerCase())).to.not.include('electron')
+          })
+        })
 
         it('has a valid category', () => {
           expect(app.category.length).to.be.above(0)
