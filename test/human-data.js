@@ -120,6 +120,11 @@ describe('human-submitted app data', () => {
           it("should not include 'electron'", () => {
             expect((app.keywords || []).map(key => key.toLocaleLowerCase())).to.not.include('electron')
           })
+
+          it('should not include duplicates', () => {
+            const keywords = app.keywords || []
+            expect(keywords.sort().toString()).to.equal([...(new Set(keywords).values())].sort().toString())
+          })
         })
 
         it('has a valid category', () => {
