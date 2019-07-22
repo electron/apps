@@ -8,7 +8,6 @@ keywords:
     - decrypt
     - passphrase
     - encrypt0r
-    - electron
     - cryptography
     - nodejs
 category: 'Utilities'
