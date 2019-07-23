@@ -112,8 +112,19 @@ describe('human-submitted app data', () => {
           expect(!app.repository || isUrl(app.repository)).to.equal(true)
         })
 
-        it('has an array of keywords, or none at all', () => {
-          expect(!app.keywords || Array.isArray(app.keywords)).to.eq(true)
+        describe('keywords', () => {
+          it('should, if present, be an array of keywords', () => {
+            expect(app.keywords || []).to.be.an('array')
+          })
+
+          it("should not include 'electron'", () => {
+            expect((app.keywords || []).map(key => key.toLocaleLowerCase())).to.not.include('electron')
+          })
+
+          it('should not include duplicates', () => {
+            const keywords = app.keywords || []
+            expect(keywords.sort().toString()).to.equal([...(new Set(keywords).values())].sort().toString())
+          })
         })
 
         it('has a valid category', () => {
