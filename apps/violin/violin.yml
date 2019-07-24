@@ -1,0 +1,14 @@
+name: Violin
+description: 'Fast, lightweight, and minimalistic desktop music player.'
+website: 'https://github.com/CodeF0x/violin'
+category: Music
+repository: 'https://github.com/CodeF0x/violin'
+keywords:
+  - desktop
+  - music
+  - 'music player'
+  - lightweight
+  - cross-platform
+  - fast
+  - offline
+license: MIT
