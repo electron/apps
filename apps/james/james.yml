@@ -5,8 +5,7 @@ repository: https://github.com/james-proxy/james
 category: 'Developer Tools'
 keywords:
     - proxy
-    - debugging-tool
-    - electron
+    - 'debugging tool'
     - james
     - http-proxy
     - https-proxy

@@ -2959,6 +2959,22 @@
       "revHash": "2d40f7d480"
     }
   },
+  "encrypt0r": {
+    "faintColorOnWhite": "rgba(7, 102, 250, 0.1)",
+    "goodColorOnBlack": "#438BFB",
+    "goodColorOnWhite": "#0766FA",
+    "palette": [
+      "#438bfb",
+      "#f7f9fc",
+      "#89b6fc",
+      "#9cc4fc",
+      "#649cfc"
+    ],
+    "source": {
+      "path": "apps/encrypt0r/encrypt0r-icon.png",
+      "revHash": "e4d4c5b9f9"
+    }
+  },
   "englishextra-app": {
     "faintColorOnWhite": "rgba(212, 50, 50, 0.1)",
     "goodColorOnBlack": "#ECA4A4",
@@ -4045,6 +4061,22 @@
     "source": {
       "path": "apps/gravit-designer/gravit-designer-icon.png",
       "revHash": "ba925cb493"
+    }
+  },
+  "graviton-editor": {
+    "faintColorOnWhite": "rgba(231, 3, 42, 0.1)",
+    "goodColorOnBlack": "#FC294D",
+    "goodColorOnWhite": "#E7032A",
+    "palette": [
+      "#fb732e",
+      "#fcfafa",
+      "#fc294d",
+      "#fbbe10",
+      "#fca483"
+    ],
+    "source": {
+      "path": "apps/graviton-editor/graviton-editor-icon.png",
+      "revHash": "ddfdf990a1"
     }
   },
   "groupme": {
@@ -5421,6 +5453,22 @@
     "source": {
       "path": "apps/local-browser/local-browser-icon.png",
       "revHash": "5038ecd384"
+    }
+  },
+  "local-by-flywheel": {
+    "faintColorOnWhite": "rgba(43, 122, 73, 0.1)",
+    "goodColorOnBlack": "#9CDCB4",
+    "goodColorOnWhite": "#2B7A49",
+    "palette": [
+      "#54bc7c",
+      "#fbfbfb",
+      "#acdcbc",
+      "#93d4ab",
+      "#9cdcb4"
+    ],
+    "source": {
+      "path": "apps/local-by-flywheel/local-by-flywheel-icon.png",
+      "revHash": "5b3d09067f"
     }
   },
   "lode": {
@@ -7151,6 +7199,22 @@
       "revHash": "02efa93eed"
     }
   },
+  "opencomic": {
+    "faintColorOnWhite": "rgba(207, 64, 52, 0.1)",
+    "goodColorOnBlack": "#D2867F",
+    "goodColorOnWhite": "#CF4034",
+    "palette": [
+      "#f1f0ed",
+      "#cf4034",
+      "#d2867f",
+      "#d49c94",
+      "#cc9c9c"
+    ],
+    "source": {
+      "path": "apps/opencomic/opencomic-icon.png",
+      "revHash": "c5d00168fe"
+    }
+  },
   "opus": {
     "faintColorOnWhite": "rgba(3, 114, 163, 0.1)",
     "goodColorOnBlack": "#04ADF7",
@@ -7165,6 +7229,22 @@
     "source": {
       "path": "apps/opus/opus-icon.png",
       "revHash": "7fb9877e2b"
+    }
+  },
+  "orb": {
+    "faintColorOnWhite": "rgba(16, 19, 26, 0.1)",
+    "goodColorOnBlack": "#7B96B4",
+    "goodColorOnWhite": "#10131A",
+    "palette": [
+      "#f5f6f7",
+      "#10131a",
+      "#7b96b4",
+      "#647b96",
+      "#626b78"
+    ],
+    "source": {
+      "path": "apps/orb/orb-icon.png",
+      "revHash": "8399a3ad87"
     }
   },
   "overlay": {
@@ -7568,19 +7648,19 @@
     }
   },
   "phreshplayer": {
-    "faintColorOnWhite": "rgba(3, 134, 56, 0.1)",
-    "goodColorOnBlack": "#04A444",
-    "goodColorOnWhite": "#038638",
+    "faintColorOnWhite": "rgba(29, 99, 36, 0.1)",
+    "goodColorOnBlack": "#358C3C",
+    "goodColorOnWhite": "#1D6324",
     "palette": [
-      "#04a444",
-      "#08a444",
-      "#08a444",
-      "#08a444",
-      "#08a444"
+      "#28752d",
+      "#348434",
+      "#1d6324",
+      "#358c3c",
+      "#2c8434"
     ],
     "source": {
       "path": "apps/phreshplayer/phreshplayer-icon.png",
-      "revHash": "142b0c668f"
+      "revHash": "d05bef8cb8"
     }
   },
   "picpipe": {
@@ -8461,6 +8541,22 @@
     "source": {
       "path": "apps/radio5050/radio5050-icon.png",
       "revHash": "f74925baa8"
+    }
+  },
+  "raider-for-instagram": {
+    "faintColorOnWhite": "rgba(217, 51, 17, 0.1)",
+    "goodColorOnBlack": "#F48973",
+    "goodColorOnWhite": "#D93311",
+    "palette": [
+      "#ec4424",
+      "#fbfbfb",
+      "#f48973",
+      "#f4a494",
+      "#f4a48c"
+    ],
+    "source": {
+      "path": "apps/raider-for-instagram/raider-for-instagram-icon.png",
+      "revHash": "606ade650b"
     }
   },
   "rambox": {
@@ -11037,6 +11133,22 @@
     "source": {
       "path": "apps/trym/trym-icon.png",
       "revHash": "276f50a027"
+    }
+  },
+  "ttth": {
+    "faintColorOnWhite": "rgba(74, 102, 74, 0.1)",
+    "goodColorOnBlack": "#04FB04",
+    "goodColorOnWhite": "#4A664A",
+    "palette": [
+      "#050505",
+      "#04fb04",
+      "#619861",
+      "#5ad85a",
+      "#4a664a"
+    ],
+    "source": {
+      "path": "apps/ttth/ttth-icon.png",
+      "revHash": "0338e19538"
     }
   },
   "tunepack": {
