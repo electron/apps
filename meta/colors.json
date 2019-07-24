@@ -11135,6 +11135,22 @@
       "revHash": "276f50a027"
     }
   },
+  "ttth": {
+    "faintColorOnWhite": "rgba(74, 102, 74, 0.1)",
+    "goodColorOnBlack": "#04FB04",
+    "goodColorOnWhite": "#4A664A",
+    "palette": [
+      "#050505",
+      "#04fb04",
+      "#619861",
+      "#5ad85a",
+      "#4a664a"
+    ],
+    "source": {
+      "path": "apps/ttth/ttth-icon.png",
+      "revHash": "0338e19538"
+    }
+  },
   "tunepack": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#E9E9E9",
