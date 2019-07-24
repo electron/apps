@@ -2959,6 +2959,22 @@
       "revHash": "2d40f7d480"
     }
   },
+  "encrypt0r": {
+    "faintColorOnWhite": "rgba(7, 102, 250, 0.1)",
+    "goodColorOnBlack": "#438BFB",
+    "goodColorOnWhite": "#0766FA",
+    "palette": [
+      "#438bfb",
+      "#f7f9fc",
+      "#89b6fc",
+      "#9cc4fc",
+      "#649cfc"
+    ],
+    "source": {
+      "path": "apps/encrypt0r/encrypt0r-icon.png",
+      "revHash": "e4d4c5b9f9"
+    }
+  },
   "englishextra-app": {
     "faintColorOnWhite": "rgba(212, 50, 50, 0.1)",
     "goodColorOnBlack": "#ECA4A4",
@@ -4045,6 +4061,22 @@
     "source": {
       "path": "apps/gravit-designer/gravit-designer-icon.png",
       "revHash": "ba925cb493"
+    }
+  },
+  "graviton-editor": {
+    "faintColorOnWhite": "rgba(231, 3, 42, 0.1)",
+    "goodColorOnBlack": "#FC294D",
+    "goodColorOnWhite": "#E7032A",
+    "palette": [
+      "#fb732e",
+      "#fcfafa",
+      "#fc294d",
+      "#fbbe10",
+      "#fca483"
+    ],
+    "source": {
+      "path": "apps/graviton-editor/graviton-editor-icon.png",
+      "revHash": "ddfdf990a1"
     }
   },
   "groupme": {
@@ -11101,6 +11133,22 @@
     "source": {
       "path": "apps/trym/trym-icon.png",
       "revHash": "276f50a027"
+    }
+  },
+  "ttth": {
+    "faintColorOnWhite": "rgba(74, 102, 74, 0.1)",
+    "goodColorOnBlack": "#04FB04",
+    "goodColorOnWhite": "#4A664A",
+    "palette": [
+      "#050505",
+      "#04fb04",
+      "#619861",
+      "#5ad85a",
+      "#4a664a"
+    ],
+    "source": {
+      "path": "apps/ttth/ttth-icon.png",
+      "revHash": "0338e19538"
     }
   },
   "tunepack": {
