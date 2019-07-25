@@ -10287,6 +10287,22 @@
       "revHash": "39d1155cdc"
     }
   },
+  "swifty": {
+    "faintColorOnWhite": "rgba(215, 5, 39, 0.1)",
+    "goodColorOnBlack": "#FC798E",
+    "goodColorOnWhite": "#D70527",
+    "palette": [
+      "#f9f8f9",
+      "#fc798e",
+      "#fcb5c1",
+      "#fcccd4",
+      "#fca4ac"
+    ],
+    "source": {
+      "path": "apps/swifty/swifty-icon.png",
+      "revHash": "f3d32a6c0b"
+    }
+  },
   "switchhosts": {
     "faintColorOnWhite": "rgba(205, 47, 65, 0.1)",
     "goodColorOnBlack": "#D44454",
@@ -11133,6 +11149,22 @@
     "source": {
       "path": "apps/trym/trym-icon.png",
       "revHash": "276f50a027"
+    }
+  },
+  "ttth": {
+    "faintColorOnWhite": "rgba(74, 102, 74, 0.1)",
+    "goodColorOnBlack": "#04FB04",
+    "goodColorOnWhite": "#4A664A",
+    "palette": [
+      "#050505",
+      "#04fb04",
+      "#619861",
+      "#5ad85a",
+      "#4a664a"
+    ],
+    "source": {
+      "path": "apps/ttth/ttth-icon.png",
+      "revHash": "0338e19538"
     }
   },
   "tunepack": {
