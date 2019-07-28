@@ -7,9 +7,21 @@ keywords:
     - snippetmanager
     - snippet
     - manager
-screenshots:
+  screenshots:
   -
-    imageUrl: 'https://snipaway.futureglobe.de/img/banner-img.jpg'
+    imageUrl: 'https://snipaway.futureglobe.de/images/Intro.gif'
     caption: 'SnipAway'
+    imageLink: 'https://snipaway.futureglobe.de/'
+  -
+    imageUrl: 'https://snipaway.futureglobe.de/images/quickSearchPreview.gif'
+    caption: 'Work faster'
+    imageLink: 'https://snipaway.futureglobe.de/'
+  -
+    imageUrl: 'https://snipaway.futureglobe.de/images/webSnippetsPreview.gif'
+    caption: 'Create Web Snippets'
+    imageLink: 'https://snipaway.futureglobe.de/'
+  -
+    imageUrl: 'https://snipaway.futureglobe.de/images/AdvancedCodeEditor.gif'
+    caption: 'Advanced Code Editor'
     imageLink: 'https://snipaway.futureglobe.de/'
 
