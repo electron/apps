@@ -7,8 +7,6 @@ keywords:
     - mock
     - "mock-server"
     - "mock-data"
-    - electron
-    - "electron-app"
 license: MIT
 category: 'Developer Tools'
 screenshots:

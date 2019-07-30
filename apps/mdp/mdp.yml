@@ -5,7 +5,6 @@ category: 'Developer Tools'
 repository: 'https://github.com/ericlink/mdp'
 keywords:
     - markdown
-    - electron
     - electron-forge
     - highlight-js
     - mermaid
