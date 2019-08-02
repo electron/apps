@@ -7135,6 +7135,22 @@
       "revHash": "e0788f4ab0"
     }
   },
+  "onoffice": {
+    "faintColorOnWhite": "rgba(216, 55, 79, 0.1)",
+    "goodColorOnBlack": "#D8374F",
+    "goodColorOnWhite": "#D8374F",
+    "palette": [
+      "#232463",
+      "#d8374f",
+      "#762b59",
+      "#4d245c",
+      "#38245c"
+    ],
+    "source": {
+      "path": "apps/onoffice/onoffice-icon.png",
+      "revHash": "80c6d31846"
+    }
+  },
   "opale-messenger": {
     "faintColorOnWhite": "rgba(4, 60, 124, 0.1)",
     "goodColorOnBlack": "#0477F1",
