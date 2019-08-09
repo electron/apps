@@ -1,0 +1,10 @@
+name: Mikropausen
+description: 'Desktop reminders for taking small breaks in order to stay healthy.'
+website: 'https://mikropausen.de'
+category: 'Utilities'
+keywords:
+    - breaks
+    - timer
+    - micropause
+locales:
+    - de-DE
