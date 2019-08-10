@@ -1,6 +1,9 @@
 name: The Wall
 description: 'An App that changes your Desktop wallpaper daily based on your followed tags'
 website: 'https://github.com/aakashbhadana/The-Wall'
+repository: 'https://github.com/aakashbhadana/The-Wall'
+license: 'MIT'
+
 category: Photo & Video
 keywords:
     - wallpaper
