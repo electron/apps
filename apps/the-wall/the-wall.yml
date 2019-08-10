@@ -1,6 +1,5 @@
 name: 'The Wall'
-description: 'An App that changes your Desktop wallpaper daily based on your followed tags'
-website: 'https://github.com/aakashbhadana/The-Wall'
+description: 'Automatically set your Desktop wallpaper based on your followed tags.'
 repository: 'https://github.com/aakashbhadana/The-Wall'
 license: 'MIT'
 
@@ -15,14 +14,14 @@ keywords:
     - desktop
 screenshots:
   -
-    imageUrl: 'https://github.com/aakashbhadana/The-Wall/blob/master/screenshots/Intro.jpg'
+    imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/Intro.jpg'
     caption: 'Welcome to The Wall.'
   -
-    imageUrl: 'https://github.com/aakashbhadana/The-Wall/blob/master/screenshots/First.jpg'
+    imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/First.jpg'
     caption: 'Follow your favourite tags for wallpapers'
   -
-    imageUrl: 'https://github.com/aakashbhadana/The-Wall/blob/master/screenshots/Second.jpg'
+    imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/Second.jpg'
     caption: 'Set how often you want wallpaper to change automatically'
   -
-    imageUrl: 'https://github.com/aakashbhadana/The-Wall/blob/master/screenshots/App.jpg'
+    imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/App.jpg'
     caption: 'Beautiful and minimal interface'
