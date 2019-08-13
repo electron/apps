@@ -1,4 +1,4 @@
-name: Node CI
+name: Continous Integration
 
 on: [push]
 
@@ -15,5 +15,5 @@ jobs:
         version: 10.x
     - name: npm install, build, and test
       run: |
-        npm install
+        npm ci
         npm test
