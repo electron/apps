@@ -8,3 +8,8 @@ keywords:
     - micropause
 locales:
     - de-DE
+screenshots:
+  -
+    imageUrl: 'https://www.mikropausen.de/screenshots/screenshot1.png'
+    caption: 'Beispielhafte Mikropause mit kundenspezifischem Branding.'
+    imageLink: 'https://www.mikropausen.de'
