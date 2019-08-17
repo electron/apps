@@ -13,7 +13,4 @@ keywords:
     - simple
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/czytelny/backlog/master/backlog_screenshot_1.png'
-    caption: 'Backlog - simple desktop app for storing lists of items'
-    imageLink: 'https://czytelny.github.io/backlog/'
+    - {imageUrl: 'https://raw.githubusercontent.com/czytelny/backlog/master/backlog_screenshot_1.png', caption: 'Backlog - simple desktop app for storing lists of items', imageLink: 'https://czytelny.github.io/backlog/'}

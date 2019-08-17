@@ -1,4 +1,4 @@
-name: Movie Scores
+name: 'Movie Scores'
 description: 'Find great movies. Metacritic, Rotten Tomatoes & IMDb ratings in one place. Electron version available for Mac and Windows 10. Also avaiable for web, iOS and Android.'
 website: 'http://moviescores.dconnell.co.uk/'
 keywords:
@@ -19,4 +19,4 @@ keywords:
     - film
     - films
 category: Entertainment
-disabled: true # had to remove the app due to complaints from Metacritic and Rotten Tomatoes
+disabled: true

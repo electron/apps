@@ -1,5 +1,5 @@
 name: VoIPstudio
-description: 'Desktop Softphone client for VoIPstudio Business Phone System'
+description: 'Desktop Softphone client for VoIPstudio Business Phone System.'
 website: 'https://voipstudio.com'
 keywords:
     - voip
@@ -10,7 +10,7 @@ keywords:
     - free calls
 category: 'Productivity'
 screenshots:
-    - 
+    -
         imageUrl: 'https://static.ssl7.net/images/softphone-login.png'
         caption: 'Login Screen'
     -

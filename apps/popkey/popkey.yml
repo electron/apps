@@ -4,3 +4,5 @@ website: 'http://popkey.co/send-gifs'
 keywords:
     - GIF
 category: 'Photo & Video'
+disabled: true
+disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'

@@ -8,7 +8,6 @@ keywords:
     - sandbox
 license: COMMERCIAL
 screenshots:
-  -
-    imageUrl: 'https://www.tx11.co.uk/img/screenshot.jpg'
-    caption: 'HEDGEHOG - cloud browser'
-    imageLink: 'https://www.tx11.co.uk/hedgehog.html'
+    - {imageUrl: 'https://www.tx11.co.uk/img/screenshot.jpg', caption: 'HEDGEHOG - cloud browser', imageLink: 'https://www.tx11.co.uk/hedgehog.html'}
+disabled: true
+disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'
