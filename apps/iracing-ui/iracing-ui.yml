@@ -1,0 +1,19 @@
+name: 'iRacing UI'
+description: 'User interface for iRacing Motorsport Simulations.'
+website: 'https://www.iracing.com'
+category: Games
+keywords:
+    - simulation
+    - ui
+    - react
+    - redux
+screenshots:
+    -
+      imageUrl: 'https://i.imgur.com/0GxcARc.png'
+      caption: 'Splash'
+    -
+      imageUrl: 'https://i.imgur.com/1ZO39jZ.png'
+      caption: 'Home'
+    -
+      imageUrl: 'https://i.imgur.com/39vs6Jz.png'
+      caption: 'Series'
