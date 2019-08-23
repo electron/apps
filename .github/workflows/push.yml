@@ -11,10 +11,12 @@ jobs:
     - uses: actions/checkout@master
       if: github['ref'] == 'refs/heads/master'
     - name: Use Node.js 10.x
+      if: github['ref'] == 'refs/heads/master'
       uses: actions/setup-node@v1
       with:
         version: 10.x
     - name: npm install, build, and test
+      if: github['ref'] == 'refs/heads/master'
       run: |
         npm ci
         npm test
