@@ -1,0 +1,21 @@
+name: Marssnow
+description: 'Desktop fast blogs app(博客2.0-快速博客)'
+website: 'http://www.marssnow.com'
+repository: 'https://github.com/EGsnn/marssnowApp'
+keywords:
+    - fast article
+    - blogs
+    - markdown
+    - notes
+category: Developer Tools
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/EGsnn/marssnowApp/master/home.jpg'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/EGsnn/marssnowApp/master/article.jpg'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/EGsnn/marssnowApp/master/newArticle.jpg'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/EGsnn/marssnowApp/master/newNote.jpg
+locales:
+  - zh-CN
