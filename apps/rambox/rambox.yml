@@ -1,6 +1,6 @@
 name: Rambox
 description: 'Free and Open Source messaging and emailing app that combines common web applications into one.'
-website: 'http://rambox.pro'
+website: 'https://rambox.pro/'
 repository: 'https://github.com/saenzramiro/rambox'
 keywords:
     - productivity
@@ -20,5 +20,4 @@ keywords:
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/screenshots/mac.png'
+    - {imageUrl: 'https://raw.githubusercontent.com/saenzramiro/rambox/master/resources/screenshots/mac.png'}

@@ -6,7 +6,6 @@ repository: 'https://github.com/myazarc/AsarUI'
 keywords:
     - 'asar ui'
     - asar
-    - electron
 screenshots:
   -
     imageUrl: 'https://raw.githubusercontent.com/myazarc/AsarUI/master/build/images/1.png'

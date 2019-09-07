@@ -16,8 +16,8 @@ screenshots:
         caption: 'Dark theme'
         imageLink: 'https://klaussinani.github.io/tusk'
     -
-        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/vibrant-theme.png'
-        caption: 'Vibrant theme'
+        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/sepia-theme.png'
+        caption: 'Sepia theme'
         imageLink: 'https://klaussinani.github.io/tusk'
     -
         imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/black-theme.png'
