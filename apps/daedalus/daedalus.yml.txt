@@ -1,0 +1,4 @@
+name: Daedalus
+description: 'The open source cryptocurrency wallet for Ada, built to grow with the community'
+website: 'https://daedaluswallet.io/'
+repository: 'https://github.com/input-output-hk/daedalus'
