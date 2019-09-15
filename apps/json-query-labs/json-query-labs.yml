@@ -1,0 +1,11 @@
+name: JSON-Query-Labs
+description: 'This tool can be used to test, extract and analyse JSON Documents.'
+website: 'https://github.com/bismay4u/JSON-Query-Labs'
+category: 'Developer Tools'
+repository: 'https://github.com/bismay4u/JSON-Query-Labs'
+keywords:
+    - JSON
+    - QUERY
+    - DOCUMENT
+    - REST
+license: MIT

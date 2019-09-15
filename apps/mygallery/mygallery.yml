@@ -1,0 +1,11 @@
+name: myGallery
+description: 'Intuitive open source photo gallery software for every platform.'
+website: 'https://github.com/bismay4u/myGallery'
+category: 'Graphics & Design'
+repository: 'https://github.com/bismay4u/myGallery'
+keywords:
+    - GALLERY
+    - PHOTOS
+    - PICTURES
+    - SLIDESHOW
+license: MIT
