@@ -1,0 +1,27 @@
+name: 'iCloud Meta Map'
+description: 'Analyzes your iCloud in order to create a navigatable feature-packed map with your memories.'
+website: 'https://icloudmetamap.com'
+repository: 'https://github.com/Ruegg/iCloud-Meta-Map'
+keywords:
+    - photo
+    - design
+    - cloud
+    - icloud
+    - social
+    - data
+    - map
+    - jpeg
+license: MIT
+category: 'Photo & Video'
+locales:
+    - en
+screenshots:
+  -
+    imageUrl: 'https://icloudmetamap.com/images/MapScreenSm.png'
+    caption: 'Multi-year Demonstration'
+  -
+    imageUrl: 'https://icloudmetamap.com/images/JapanScreenSm.png'
+    caption: 'Single-year Demonstration'
+  -
+    imageUrl: 'https://icloudmetamap.com/images/JapanPicsSm.png'
+    caption: 'Gallery Insight'
