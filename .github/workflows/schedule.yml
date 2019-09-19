@@ -1,5 +1,5 @@
 on:
-  schedules:
+  schedule:
   - cron: 0 */12 * * *
 
 name: Update and release
