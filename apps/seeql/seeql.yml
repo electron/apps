@@ -1,0 +1,13 @@
+name: SeeQL
+description: 'Easy-to-use SQL visualizer.'
+website: 'https://github.com/oslabs-beta/seeql'
+category: 'Developer Tools'
+repository: 'https://github.com/oslabs-beta/seeql'
+keywords:
+  - postgresql
+  - postgres
+  - sql
+  - database
+  - visualizer
+  - 'developer tool'
+license: MIT

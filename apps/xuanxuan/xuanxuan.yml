@@ -1,12 +1,12 @@
 name: 'Xuanxuan IM'
 description: 'An open source IM resolution.'
-website: 'http://xuan.im/'
+website: 'https://xuan.im/'
 repository: 'https://github.com/easysoft/xuanxuan'
 category: Productivity
-keywords: 
-  - im
-  - messaging
-  - collaboration
-  - office
+keywords:
+    - im
+    - messaging
+    - collaboration
+    - office
 locales:
-  - zh-CN
+    - zh-CN

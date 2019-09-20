@@ -4,7 +4,6 @@ website: 'https://github.com/mtobeiyf/pile'
 category: Productivity
 repository: 'https://github.com/mtobeiyf/pile'
 keywords:
-    - electron
     - vue
     - workspace
     - todo

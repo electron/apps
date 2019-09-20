@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.7490.0",
+  "version": "1.7581.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -56,8 +56,10 @@
     "make-color-accessible": "^1.2.0",
     "mkdirp": "^0.5.1",
     "mocha": "^5.2.0",
+    "node-fetch": "^2.6.0",
     "npm-run-all": "^4.0.1",
     "pick-a-good-color": "^1.1.1",
+    "readdirp": "^3.0.2",
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^2.6.1",
     "sharp": "^0.20.8",
@@ -67,7 +69,7 @@
     "yamljs": "^0.2.8"
   },
   "engines": {
-    "node": "8"
+    "node": ">=8"
   },
   "dependencies": {
     "json-stable-stringify": "^1.0.1",

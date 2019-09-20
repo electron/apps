@@ -1,7 +1,7 @@
 name: Stockifier
 description: 'Notification and insights app for stock markets.'
-website: 'http://samyakjain.me/Stockifier/'
-category: 'Finance'
+website: 'https://samyakjain.me/Stockifier/'
+category: Finance
 repository: 'https://github.com/jainsamyak/Stockifier'
 keywords:
     - stock
