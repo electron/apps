@@ -1,6 +1,6 @@
 name: Continous Integration
 
-on: [push]
+on: pull_request
 
 jobs:
   build:
@@ -9,6 +9,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@master
+      with:
+        fetch-depth: 1
     - name: Use Node.js 10.x
       uses: actions/setup-node@v1
       with:
