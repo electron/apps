@@ -1,0 +1,28 @@
+name: ttth
+description: 'Free and Open Source desktop app for online services like WhatsApp, Threema, Telegram, Twitter, Google and several others.'
+website: 'https://github.com/yafp/ttth'
+repository: 'https://github.com/yafp/ttth'
+keywords:
+    - Discord
+    - Dropbox
+    - Freenode
+    - github
+    - google calendar
+    - google drive
+    - linkedin
+    - mattermost
+    - messenger
+    - nextcloud
+    - slack
+    - Telegram
+    - Threema
+    - Twitter
+    - WhatsApp
+    - productivity
+    - Xing
+category: 'Productivity'
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/yafp/ttth/master/.github/screenshots/ui_latest.png'}
+locales:
+    - en-EN
+    - de-DE
