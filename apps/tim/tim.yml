@@ -5,7 +5,6 @@ category: 'Developer Tools'
 repository: 'https://github.com/tborychowski/tim/'
 keywords:
     - browser
-    - electron-app
     - productivity-booster
     - manager
     - github

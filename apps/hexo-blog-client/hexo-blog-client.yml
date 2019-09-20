@@ -3,7 +3,6 @@ description: 'Cross-platform hexo blog management client.'
 website: 'https://blog.onlystar.site'
 repository: 'https://github.com/Xonlystar/hexo-blog-client'
 keywords:
-    - electron
     - editor
     - blog
     - vue
