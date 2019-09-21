@@ -9,7 +9,7 @@ keywords:
     - social
     - network
 license: 'NPOSL 3.0'
-goodColorOnWhite: '#e61f5f'
+goodColorOnWhite: '#d31854'
 locales:
   - fr-FR
   - en-US
