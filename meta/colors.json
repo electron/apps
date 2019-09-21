@@ -5823,6 +5823,22 @@
       "revHash": "b67b8ab02e"
     }
   },
+  "mbod": {
+    "faintColorOnWhite": "rgba(4, 105, 217, 0.1)",
+    "goodColorOnBlack": "#54A4FC",
+    "goodColorOnWhite": "#0469D9",
+    "palette": [
+      "#54a4fc",
+      "#fbfbfc",
+      "#94c6fc",
+      "#aed4fc",
+      "#7abcfc"
+    ],
+    "source": {
+      "path": "apps/mbod/mbod-icon.png",
+      "revHash": "1f02c09bf7"
+    }
+  },
   "md5app": {
     "faintColorOnWhite": "rgba(180, 36, 20, 0.1)",
     "goodColorOnBlack": "#E63521",
@@ -8509,6 +8525,22 @@
     "source": {
       "path": "apps/quail/quail-icon.png",
       "revHash": "b9d1dba844"
+    }
+  },
+  "qubus": {
+    "faintColorOnWhite": "rgba(4, 105, 153, 0.1)",
+    "goodColorOnBlack": "#04ABF3",
+    "goodColorOnWhite": "#046999",
+    "palette": [
+      "#04abf3",
+      "#f4f9fc",
+      "#5cc6f6",
+      "#7cd4fc",
+      "#046999"
+    ],
+    "source": {
+      "path": "apps/qubus/qubus-icon.png",
+      "revHash": "fe198fc90b"
     }
   },
   "quickbooks": {
