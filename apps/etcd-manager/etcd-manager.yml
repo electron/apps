@@ -1,6 +1,6 @@
 name: 'ETCD Manager'
 description: 'Modern, efficient and multi-platform GUI for ETCD.'
-website: 'http://etcdmanager.io'
+website: 'https://etcdmanager.io'
 category: 'Developer Tools'
 repository: 'https://github.com/icellmobilsoft/etcdmanager.git'
 keywords:
