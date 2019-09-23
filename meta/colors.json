@@ -2079,6 +2079,22 @@
       "revHash": "b47ed32bff"
     }
   },
+  "cyberx": {
+    "faintColorOnWhite": "rgba(7, 95, 250, 0.1)",
+    "goodColorOnBlack": "#649BFC",
+    "goodColorOnWhite": "#075FFA",
+    "palette": [
+      "#649bfc",
+      "#b3cbfc",
+      "#94bcfc",
+      "#8cb4fc",
+      "#7ca4fc"
+    ],
+    "source": {
+      "path": "apps/cyberx/cyberx-icon.png",
+      "revHash": "ce50c188b4"
+    }
+  },
   "cycle": {
     "faintColorOnWhite": "rgba(36, 84, 124, 0.1)",
     "goodColorOnBlack": "#B0C4EA",
@@ -8013,6 +8029,22 @@
     "source": {
       "path": "apps/polar/polar-icon.png",
       "revHash": "f6e2b63f75"
+    }
+  },
+  "pomodoro-logger": {
+    "faintColorOnWhite": "rgba(4, 105, 199, 0.1)",
+    "goodColorOnBlack": "#FB1C44",
+    "goodColorOnWhite": "#0469C7",
+    "palette": [
+      "#0469c7",
+      "#f4c63a",
+      "#fb1c44",
+      "#fbfafb",
+      "#74948c"
+    ],
+    "source": {
+      "path": "apps/pomodoro-logger/pomodoro-logger-icon.png",
+      "revHash": "1ba0d52f79"
     }
   },
   "pomolectron": {
