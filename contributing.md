@@ -192,11 +192,12 @@ Some things to keep in mind when preparing your app for submission. Heavily insp
 - Don't mention `Electron` in the description as it's implied.
 - Don't start the description with `A` or `An`.
 - Check your spelling and grammar.
+- Links must use ssl, e.g. have schemes of 'https' or 'sftp'.
 
 ## Releases
 
 Once your pull request has been merged, your changes will automatically be published in a new release of the `electron-apps` npm module, and will be displayed on the electronjs.org website shortly thereafter. This process
-involves a number of scheduled process, and typically takes 20-30 minutes.
+involves several scheduled process, and typically takes from 1 to 2 days.
 
 ## Removing or Disabling Apps
 

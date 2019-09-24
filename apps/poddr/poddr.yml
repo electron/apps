@@ -8,6 +8,6 @@ keywords:
     - music
 screenshots:
   -
-    imageUrl: 'https://raw.githubusercontent.com/Sn8z/Poddr/master/images/poddr.png'
+    imageUrl: 'https://raw.githubusercontent.com/Sn8z/Poddr/727fb106615f7552a9e1e07f5211b3490d91489f/docs/images/screenshot_1.png'
     caption: 'Poddr - A modern and simple podcast client'
     imageLink: 'https://sn8z.github.io/Poddr'
