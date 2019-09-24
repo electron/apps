@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.7542.0",
+  "version": "1.7588.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -62,14 +62,14 @@
     "readdirp": "^3.0.2",
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^2.6.1",
-    "sharp": "^0.20.8",
+    "sharp": "^0.23.0",
     "sinon": "^7.2.2",
     "slugg": "^1.1.0",
     "standard": "^10.0.2",
     "yamljs": "^0.2.8"
   },
   "engines": {
-    "node": "8"
+    "node": ">=8"
   },
   "dependencies": {
     "json-stable-stringify": "^1.0.1",
