@@ -5295,6 +5295,22 @@
       "revHash": "f3cec9a187"
     }
   },
+  "kube-forwarder": {
+    "faintColorOnWhite": "rgba(16, 118, 131, 0.1)",
+    "goodColorOnBlack": "#1CCCE3",
+    "goodColorOnWhite": "#107683",
+    "palette": [
+      "#2f85e3",
+      "#fbfbfb",
+      "#1ccce3",
+      "#a0d5f2",
+      "#84acec"
+    ],
+    "source": {
+      "path": "apps/kube-forwarder/kube-forwarder-icon.png",
+      "revHash": "38ff2ff83b"
+    }
+  },
   "laravel-kit": {
     "faintColorOnWhite": "rgba(204, 70, 16, 0.1)",
     "goodColorOnBlack": "#F5A281",
@@ -6109,6 +6125,22 @@
     "source": {
       "path": "apps/microstockr/microstockr-icon.png",
       "revHash": "a6e8f05c0e"
+    }
+  },
+  "mikropausen": {
+    "faintColorOnWhite": "rgba(132, 4, 132, 0.1)",
+    "goodColorOnBlack": "#B46CB4",
+    "goodColorOnWhite": "#840484",
+    "palette": [
+      "#f4f4f4",
+      "#840484",
+      "#c191c1",
+      "#ccb4cc",
+      "#b46cb4"
+    ],
+    "source": {
+      "path": "apps/mikropausen/mikropausen-icon.png",
+      "revHash": "f9a6a77428"
     }
   },
   "min": {
