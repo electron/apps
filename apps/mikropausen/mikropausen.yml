@@ -1,0 +1,15 @@
+name: Mikropausen
+description: 'Desktop reminders for taking small breaks in order to stay healthy.'
+website: 'https://mikropausen.de'
+category: 'Utilities'
+keywords:
+    - breaks
+    - timer
+    - micropause
+locales:
+    - de-DE
+screenshots:
+  -
+    imageUrl: 'https://www.mikropausen.de/screenshots/screenshot1.png'
+    caption: 'Beispielhafte Mikropause mit kundenspezifischem Branding.'
+    imageLink: 'https://www.mikropausen.de'
