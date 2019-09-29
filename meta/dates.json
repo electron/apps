@@ -836,5 +836,7 @@
   "shuttle": "2019-09-24",
   "thermal": "2019-09-24",
   "webkiosk-wrapper": "2019-09-24",
-  "wizard-mirror": "2019-09-24"
+  "wizard-mirror": "2019-09-24",
+  "kube-forwarder": "2019-09-25",
+  "mikropausen": "2019-09-25"
 }
