@@ -13,11 +13,11 @@ keywords:
 license: MIT
 screenshots:
   -
-    imageUrl: 'https://github.com/samuelmeuli/mini-diary/blob/master/website/img/screenshot-1.png'
+    imageUrl: 'https://github.com/samuelmeuli/mini-diary/raw/master/website/img/screenshot-1.png'
   -
-    imageUrl: 'https://github.com/samuelmeuli/mini-diary/blob/master/website/img/screenshot-2.png'
+    imageUrl: 'https://github.com/samuelmeuli/mini-diary/raw/master/website/img/screenshot-2.png'
   -
-    imageUrl: 'https://github.com/samuelmeuli/mini-diary/blob/master/website/img/screenshot-3.png'
+    imageUrl: 'https://github.com/samuelmeuli/mini-diary/raw/master/website/img/screenshot-3.png'
 locales:
   - de
   - en
