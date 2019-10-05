@@ -1,5 +1,5 @@
 name: RocketCleaner
-description: 'MAC OS hdd & ram.'
+description: 'Empty trash from HDD's, Cleans system log files, IOS Applications, pip Cache, etc.'
 website: 'https://github.com/miladdavoodi/RocketCleaner'
 category: Utilities
 repository: 'https://github.com/miladdavoodi/RocketCleaner'
