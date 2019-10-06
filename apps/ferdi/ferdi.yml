@@ -1,0 +1,13 @@
+name: Ferdi
+description: 'All your messaging services in one place.'
+website: 'https://getferdi.com'
+category: Productivity
+repository: 'https://github.com/getferdi/ferdi'
+keywords:
+    - messaging
+    - chat
+    - productivity
+    - fork
+    - messenger
+    - office
+license: 'Apache License 2.0'
