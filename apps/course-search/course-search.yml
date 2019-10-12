@@ -1,13 +1,13 @@
 name: 'Course Search'
 description: 'Find courses from multiple sources available to download in torrent form.'
 website: 'https://github.com/burhanuday/course-search'
+repository: 'https://github.com/burhanuday/course-search'
 keywords:
     - Course Search
-    - 'Course Search'
     - 'cross platform'
     - universal
-    - Courses
     - Free
+    - Courses
 category: Education
 license: GNU General Public License v3.0
 screenshots:
