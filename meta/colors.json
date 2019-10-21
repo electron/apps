@@ -11615,22 +11615,6 @@
       "revHash": "5691326f1b"
     }
   },
-  "udeler": {
-    "faintColorOnWhite": "rgba(4, 69, 4, 0.1)",
-    "goodColorOnBlack": "#049714",
-    "goodColorOnWhite": "#044504",
-    "palette": [
-      "#049714",
-      "#dddddd",
-      "#849e84",
-      "#044504",
-      "#7cb88c"
-    ],
-    "source": {
-      "path": "apps/udeler/udeler-icon.png",
-      "revHash": "c19368d9fa"
-    }
-  },
   "udl-gui": {
     "faintColorOnWhite": "rgba(135, 117, 48, 0.1)",
     "goodColorOnBlack": "#D3C284",
