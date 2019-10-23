@@ -3199,6 +3199,22 @@
       "revHash": "7d3c58ab26"
     }
   },
+  "ferdi": {
+    "faintColorOnWhite": "rgba(150, 70, 247, 0.1)",
+    "goodColorOnBlack": "#D8BAFC",
+    "goodColorOnWhite": "#9646F7",
+    "palette": [
+      "#a988f7",
+      "#fbfbfb",
+      "#7f6ff4",
+      "#c5b8f0",
+      "#d8bafc"
+    ],
+    "source": {
+      "path": "apps/ferdi/ferdi-icon.png",
+      "revHash": "0be6bf061f"
+    }
+  },
   "ffftp": {
     "faintColorOnWhite": "rgba(17, 33, 64, 0.1)",
     "goodColorOnBlack": "#748494",
@@ -5565,6 +5581,22 @@
     "source": {
       "path": "apps/lode/lode-icon.png",
       "revHash": "80ad7161a3"
+    }
+  },
+  "loom": {
+    "faintColorOnWhite": "rgba(229, 0, 11, 0.1)",
+    "goodColorOnBlack": "#FF5C64",
+    "goodColorOnWhite": "#E5000B",
+    "palette": [
+      "#fc5c64",
+      "#ff5c64",
+      "#ff5c64",
+      "#ff5c64",
+      "#ff5c64"
+    ],
+    "source": {
+      "path": "apps/loom/loom-icon.png",
+      "revHash": "8c33013fbe"
     }
   },
   "losslesscut": {
@@ -9085,6 +9117,22 @@
     "source": {
       "path": "apps/rocket-chat/rocket-chat-icon.png",
       "revHash": "18daecb882"
+    }
+  },
+  "rocketcleaner": {
+    "faintColorOnWhite": "rgba(98, 54, 90, 0.1)",
+    "goodColorOnBlack": "#B1B6CE",
+    "goodColorOnWhite": "#62365A",
+    "palette": [
+      "#62365a",
+      "#dfe0e9",
+      "#b1b6ce",
+      "#8c8ea4",
+      "#948490"
+    ],
+    "source": {
+      "path": "apps/rocketcleaner/rocketcleaner-icon.png",
+      "revHash": "f8cc2f616c"
     }
   },
   "runlet": {
