@@ -4,3 +4,4 @@ website: 'https://brave.com/'
 keywords:
     - browser
 category: Productivity
+disabled: true # Brave Browser started using Chromium directly in 2018 (https://brave.com/brave-upgrades/)

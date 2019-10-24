@@ -1,0 +1,41 @@
+name: 'Data-Forge Notebook'
+description: 'Data analysis and visualization for JavaScript.'
+website: 'https://www.data-forge-notebook.com/'
+category: 'Developer Tools'
+youtube_video_url: 'https://www.youtube.com/watch?v=nRRl-97qVQw'
+screenshots:
+  -
+    imageUrl: 'https://www.data-forge-notebook.com/images/screenshots/Screenshot_1.png'
+    caption: 'Preview data'
+    imageLink: 'https://www.data-forge-notebook.com/'
+  -
+    imageUrl: 'https://www.data-forge-notebook.com/images/screenshots/Screenshot_2.png'
+    caption: 'Plot charts'
+    imageLink: 'https://www.data-forge-notebook.com/'
+  -
+    imageUrl: 'https://www.data-forge-notebook.com/images/screenshots/Screenshot_3.png'
+    caption: 'Exploratory coding'
+    imageLink: 'https://www.data-forge-notebook.com/'
+  -
+    imageUrl: 'https://www.data-forge-notebook.com/images/screenshots/Main.png'
+    caption: 'Your code and data... in notebook form'
+    imageLink: 'https://www.data-forge-notebook.com/'
+keywords:
+    - data
+    - 'data analysis'
+    - 'data visualization'
+    - charts
+    - plot
+    - chart
+    - 'data transformation'
+    - 'data wrangling'
+    - javascript
+    - typescript
+    - nodejs
+    - 'exploratory coding'
+    - prototyping
+    - 'exploratory data analysis'
+    - 'data exploration'
+    - repl
+    - notebook
+    - 'visual prototyping'
