@@ -1759,6 +1759,22 @@
       "revHash": "d4ed3de4a9"
     }
   },
+  "commandeer": {
+    "faintColorOnWhite": "rgba(9, 35, 52, 0.1)",
+    "goodColorOnBlack": "#DA8B14",
+    "goodColorOnWhite": "#092334",
+    "palette": [
+      "#da8b14",
+      "#343333",
+      "#745429",
+      "#092334",
+      "#5c4c2c"
+    ],
+    "source": {
+      "path": "apps/commandeer/commandeer-icon.png",
+      "revHash": "51881aa16f"
+    }
+  },
   "compact-log-viewer": {
     "faintColorOnWhite": "rgba(52, 68, 180, 0.1)",
     "goodColorOnBlack": "#6474C4",
@@ -7053,6 +7069,22 @@
     "source": {
       "path": "apps/notable/notable-icon.png",
       "revHash": "755d53aff1"
+    }
+  },
+  "notejoy": {
+    "faintColorOnWhite": "rgba(206, 52, 52, 0.1)",
+    "goodColorOnBlack": "#D0D4D4",
+    "goodColorOnWhite": "#CE3434",
+    "palette": [
+      "#3a3737",
+      "#ce3434",
+      "#d0d4d4",
+      "#7b7777",
+      "#939394"
+    ],
+    "source": {
+      "path": "apps/notejoy/notejoy-icon.png",
+      "revHash": "e346e5b01b"
     }
   },
   "notion": {
