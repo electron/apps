@@ -1759,6 +1759,22 @@
       "revHash": "d4ed3de4a9"
     }
   },
+  "commandeer": {
+    "faintColorOnWhite": "rgba(9, 35, 52, 0.1)",
+    "goodColorOnBlack": "#DA8B14",
+    "goodColorOnWhite": "#092334",
+    "palette": [
+      "#da8b14",
+      "#343333",
+      "#745429",
+      "#092334",
+      "#5c4c2c"
+    ],
+    "source": {
+      "path": "apps/commandeer/commandeer-icon.png",
+      "revHash": "51881aa16f"
+    }
+  },
   "compact-log-viewer": {
     "faintColorOnWhite": "rgba(52, 68, 180, 0.1)",
     "goodColorOnBlack": "#6474C4",
@@ -7055,6 +7071,22 @@
       "revHash": "755d53aff1"
     }
   },
+  "notejoy": {
+    "faintColorOnWhite": "rgba(206, 52, 52, 0.1)",
+    "goodColorOnBlack": "#D0D4D4",
+    "goodColorOnWhite": "#CE3434",
+    "palette": [
+      "#3a3737",
+      "#ce3434",
+      "#d0d4d4",
+      "#7b7777",
+      "#939394"
+    ],
+    "source": {
+      "path": "apps/notejoy/notejoy-icon.png",
+      "revHash": "e346e5b01b"
+    }
+  },
   "notion": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
@@ -7584,19 +7616,19 @@
     }
   },
   "particl": {
-    "faintColorOnWhite": "rgba(2, 126, 96, 0.1)",
-    "goodColorOnBlack": "#04ECB4",
-    "goodColorOnWhite": "#027E60",
+    "faintColorOnWhite": "rgba(29, 132, 88, 0.1)",
+    "goodColorOnBlack": "#3CD494",
+    "goodColorOnWhite": "#1D8458",
     "palette": [
-      "#04ecb4",
-      "#04ecbc",
-      "#08ecb4",
-      "#08ecb4",
-      "#08ecb4"
+      "#3cd494",
+      "#40d494",
+      "#40d494",
+      "#40d494",
+      "#40d494"
     ],
     "source": {
       "path": "apps/particl/particl-icon.png",
-      "revHash": "4db4d10bd1"
+      "revHash": "31db9b363b"
     }
   },
   "particle-dev": {
