@@ -7616,19 +7616,19 @@
     }
   },
   "particl": {
-    "faintColorOnWhite": "rgba(2, 126, 96, 0.1)",
-    "goodColorOnBlack": "#04ECB4",
-    "goodColorOnWhite": "#027E60",
+    "faintColorOnWhite": "rgba(29, 132, 88, 0.1)",
+    "goodColorOnBlack": "#3CD494",
+    "goodColorOnWhite": "#1D8458",
     "palette": [
-      "#04ecb4",
-      "#04ecbc",
-      "#08ecb4",
-      "#08ecb4",
-      "#08ecb4"
+      "#3cd494",
+      "#40d494",
+      "#40d494",
+      "#40d494",
+      "#40d494"
     ],
     "source": {
       "path": "apps/particl/particl-icon.png",
-      "revHash": "4db4d10bd1"
+      "revHash": "31db9b363b"
     }
   },
   "particle-dev": {
