@@ -4671,6 +4671,22 @@
       "revHash": "5aba7fb7d5"
     }
   },
+  "infiniti-clips": {
+    "faintColorOnWhite": "rgba(16, 116, 220, 0.1)",
+    "goodColorOnBlack": "#0682F6",
+    "goodColorOnWhite": "#1074DC",
+    "palette": [
+      "#0682f6",
+      "#1274d3",
+      "#1074dc",
+      "#1480f0",
+      "#0f7be4"
+    ],
+    "source": {
+      "path": "apps/infiniti-clips/infiniti-clips-icon.png",
+      "revHash": "b2a5e65630"
+    }
+  },
   "infinity": {
     "faintColorOnWhite": "rgba(31, 126, 144, 0.1)",
     "goodColorOnBlack": "#A6E1EC",
@@ -10863,6 +10879,22 @@
       "revHash": "54325632c7"
     }
   },
+  "terminus": {
+    "faintColorOnWhite": "rgba(4, 36, 44, 0.1)",
+    "goodColorOnBlack": "#B3EBF5",
+    "goodColorOnWhite": "#04242C",
+    "palette": [
+      "#6aa6bd",
+      "#04242c",
+      "#b3ebf5",
+      "#3c6c7e",
+      "#487088"
+    ],
+    "source": {
+      "path": "apps/terminus/terminus-icon.png",
+      "revHash": "7c5d11f96b"
+    }
+  },
   "teseve": {
     "faintColorOnWhite": "rgba(143, 108, 4, 0.1)",
     "goodColorOnBlack": "#FBD45F",
@@ -10877,6 +10909,22 @@
     "source": {
       "path": "apps/teseve/teseve-icon.png",
       "revHash": "52a7ed967f"
+    }
+  },
+  "testcafe-studio": {
+    "faintColorOnWhite": "rgba(27, 43, 60, 0.1)",
+    "goodColorOnBlack": "#34B4E4",
+    "goodColorOnWhite": "#1B2B3C",
+    "palette": [
+      "#34b4e4",
+      "#1b2b3c",
+      "#24b8b8",
+      "#24b8b8",
+      "#24b8b8"
+    ],
+    "source": {
+      "path": "apps/testcafe-studio/testcafe-studio-icon.png",
+      "revHash": "66232aa471"
     }
   },
   "testmace": {
