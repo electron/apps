@@ -1,0 +1,19 @@
+name: 'TestCafe Studio'
+description: 'Cross-Platform IDE for End-to-End Web Testing.'
+website: 'https://testcafe-studio.devexpress.com'
+category: 'Developer Tools'
+goodColorOnWhite: '#4e5d6f'
+keywords:
+  - testing
+  - automation
+  - e2e
+  - testcafe
+  - 'end-to-end'
+  - 'automated tests'
+  - 'cross browser testing'
+  - 'web testing'
+  - 'e2e testing'
+  - 'functional testing'
+  - 'mobile testing'
+  - 'developer tools'
+  - 'testing framework'
