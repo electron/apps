@@ -8335,6 +8335,22 @@
       "revHash": "f028ea6244"
     }
   },
+  "pragli": {
+    "faintColorOnWhite": "rgba(124, 100, 36, 0.1)",
+    "goodColorOnBlack": "#FBD343",
+    "goodColorOnWhite": "#7C6424",
+    "palette": [
+      "#fbd343",
+      "#060504",
+      "#9a8029",
+      "#7c6424",
+      "#bc9c34"
+    ],
+    "source": {
+      "path": "apps/pragli/pragli-icon.png",
+      "revHash": "36781fc420"
+    }
+  },
   "premid": {
     "faintColorOnWhite": "rgba(64, 96, 207, 0.1)",
     "goodColorOnBlack": "#748BDC",
@@ -9791,6 +9807,22 @@
       "revHash": "a30135986e"
     }
   },
+  "sizzy": {
+    "faintColorOnWhite": "rgba(100, 52, 184, 0.1)",
+    "goodColorOnBlack": "#C25B73",
+    "goodColorOnWhite": "#6434B8",
+    "palette": [
+      "#6434b8",
+      "#e3e4e5",
+      "#c25b73",
+      "#7eacb3",
+      "#a54c7b"
+    ],
+    "source": {
+      "path": "apps/sizzy/sizzy-icon.png",
+      "revHash": "9163c1e46d"
+    }
+  },
   "skrifa": {
     "faintColorOnWhite": "rgba(136, 110, 2, 0.1)",
     "goodColorOnBlack": "#FCCC07",
@@ -10973,6 +11005,22 @@
     "source": {
       "path": "apps/the-poker-timer/the-poker-timer-icon.png",
       "revHash": "726414a64b"
+    }
+  },
+  "the-wall": {
+    "faintColorOnWhite": "rgba(4, 28, 38, 0.1)",
+    "goodColorOnBlack": "#A1ADB3",
+    "goodColorOnWhite": "#041C26",
+    "palette": [
+      "#041c26",
+      "#fbfbfb",
+      "#a1adb3",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/the-wall/the-wall-icon.png",
+      "revHash": "821866d2ec"
     }
   },
   "theme-juice": {
