@@ -18,8 +18,7 @@ function resize (file, size) {
   }
 
   return sharp(fs.readFileSync(file))
-    .resize(size, size)
-    .max()
+    .resize(size, size, { fit: 'inside' })
     .toFormat('png')
     .toBuffer()
     .then(buf => imagemin.buffer(buf, { use: [ imageminPngquant() ] }))
