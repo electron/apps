@@ -1,0 +1,1 @@
+Thanks for your interesting of adding your application into the repository, unfortunately, you don't provide required information/changes in a required time, and we need to close this PR. If you still want in adding your application please open new PR with the required information/changes.
