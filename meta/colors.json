@@ -8735,6 +8735,22 @@
       "revHash": "b9d1dba844"
     }
   },
+  "quark": {
+    "faintColorOnWhite": "rgba(4, 12, 20, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#040C14",
+    "palette": [
+      "#040c14",
+      "#040414",
+      "#080c14",
+      "#080c14",
+      "#080c14"
+    ],
+    "source": {
+      "path": "apps/quark/quark-icon.png",
+      "revHash": "acd4f02aba"
+    }
+  },
   "qubus": {
     "faintColorOnWhite": "rgba(4, 105, 153, 0.1)",
     "goodColorOnBlack": "#04ABF3",
@@ -10093,6 +10109,22 @@
     "source": {
       "path": "apps/somiibo/somiibo-icon.png",
       "revHash": "f90370b364"
+    }
+  },
+  "songriffer": {
+    "faintColorOnWhite": "rgba(37, 39, 91, 0.1)",
+    "goodColorOnBlack": "#7C7CA8",
+    "goodColorOnWhite": "#25275B",
+    "palette": [
+      "#25275b",
+      "#e9e9ea",
+      "#7c7ca8",
+      "#898dad",
+      "#9494ad"
+    ],
+    "source": {
+      "path": "apps/songriffer/songriffer-icon.png",
+      "revHash": "cf1fe96856"
     }
   },
   "soube": {
