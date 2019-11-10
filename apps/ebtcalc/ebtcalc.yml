@@ -1,5 +1,5 @@
 name: EBTCalc
-description: 'Programmable Reverse Polish Notation (RPN) calculator'
+description: 'Programmable Reverse Polish Notation (RPN) calculator.'
 website: 'https://www.ericbt.com/ebtcalc_electron'
 category: Utilities
 repository: 'https://github.com/EricTerrell/EBTCalc'
