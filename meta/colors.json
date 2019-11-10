@@ -4671,6 +4671,22 @@
       "revHash": "5aba7fb7d5"
     }
   },
+  "infiniti-clips": {
+    "faintColorOnWhite": "rgba(16, 116, 220, 0.1)",
+    "goodColorOnBlack": "#0682F6",
+    "goodColorOnWhite": "#1074DC",
+    "palette": [
+      "#0682f6",
+      "#1274d3",
+      "#1074dc",
+      "#1480f0",
+      "#0f7be4"
+    ],
+    "source": {
+      "path": "apps/infiniti-clips/infiniti-clips-icon.png",
+      "revHash": "b2a5e65630"
+    }
+  },
   "infinity": {
     "faintColorOnWhite": "rgba(31, 126, 144, 0.1)",
     "goodColorOnBlack": "#A6E1EC",
@@ -8319,6 +8335,22 @@
       "revHash": "f028ea6244"
     }
   },
+  "pragli": {
+    "faintColorOnWhite": "rgba(124, 100, 36, 0.1)",
+    "goodColorOnBlack": "#FBD343",
+    "goodColorOnWhite": "#7C6424",
+    "palette": [
+      "#fbd343",
+      "#060504",
+      "#9a8029",
+      "#7c6424",
+      "#bc9c34"
+    ],
+    "source": {
+      "path": "apps/pragli/pragli-icon.png",
+      "revHash": "36781fc420"
+    }
+  },
   "premid": {
     "faintColorOnWhite": "rgba(64, 96, 207, 0.1)",
     "goodColorOnBlack": "#748BDC",
@@ -8701,6 +8733,22 @@
     "source": {
       "path": "apps/quail/quail-icon.png",
       "revHash": "b9d1dba844"
+    }
+  },
+  "quark": {
+    "faintColorOnWhite": "rgba(4, 12, 20, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#040C14",
+    "palette": [
+      "#040c14",
+      "#040414",
+      "#080c14",
+      "#080c14",
+      "#080c14"
+    ],
+    "source": {
+      "path": "apps/quark/quark-icon.png",
+      "revHash": "acd4f02aba"
     }
   },
   "qubus": {
@@ -9775,6 +9823,22 @@
       "revHash": "a30135986e"
     }
   },
+  "sizzy": {
+    "faintColorOnWhite": "rgba(100, 52, 184, 0.1)",
+    "goodColorOnBlack": "#C25B73",
+    "goodColorOnWhite": "#6434B8",
+    "palette": [
+      "#6434b8",
+      "#e3e4e5",
+      "#c25b73",
+      "#7eacb3",
+      "#a54c7b"
+    ],
+    "source": {
+      "path": "apps/sizzy/sizzy-icon.png",
+      "revHash": "9163c1e46d"
+    }
+  },
   "skrifa": {
     "faintColorOnWhite": "rgba(136, 110, 2, 0.1)",
     "goodColorOnBlack": "#FCCC07",
@@ -10045,6 +10109,22 @@
     "source": {
       "path": "apps/somiibo/somiibo-icon.png",
       "revHash": "f90370b364"
+    }
+  },
+  "songriffer": {
+    "faintColorOnWhite": "rgba(37, 39, 91, 0.1)",
+    "goodColorOnBlack": "#7C7CA8",
+    "goodColorOnWhite": "#25275B",
+    "palette": [
+      "#25275b",
+      "#e9e9ea",
+      "#7c7ca8",
+      "#898dad",
+      "#9494ad"
+    ],
+    "source": {
+      "path": "apps/songriffer/songriffer-icon.png",
+      "revHash": "cf1fe96856"
     }
   },
   "soube": {
@@ -10863,6 +10943,22 @@
       "revHash": "54325632c7"
     }
   },
+  "terminus": {
+    "faintColorOnWhite": "rgba(4, 36, 44, 0.1)",
+    "goodColorOnBlack": "#B3EBF5",
+    "goodColorOnWhite": "#04242C",
+    "palette": [
+      "#6aa6bd",
+      "#04242c",
+      "#b3ebf5",
+      "#3c6c7e",
+      "#487088"
+    ],
+    "source": {
+      "path": "apps/terminus/terminus-icon.png",
+      "revHash": "7c5d11f96b"
+    }
+  },
   "teseve": {
     "faintColorOnWhite": "rgba(143, 108, 4, 0.1)",
     "goodColorOnBlack": "#FBD45F",
@@ -10877,6 +10973,22 @@
     "source": {
       "path": "apps/teseve/teseve-icon.png",
       "revHash": "52a7ed967f"
+    }
+  },
+  "testcafe-studio": {
+    "faintColorOnWhite": "rgba(27, 43, 60, 0.1)",
+    "goodColorOnBlack": "#34B4E4",
+    "goodColorOnWhite": "#1B2B3C",
+    "palette": [
+      "#34b4e4",
+      "#1b2b3c",
+      "#24b8b8",
+      "#24b8b8",
+      "#24b8b8"
+    ],
+    "source": {
+      "path": "apps/testcafe-studio/testcafe-studio-icon.png",
+      "revHash": "66232aa471"
     }
   },
   "testmace": {
@@ -10925,6 +11037,22 @@
     "source": {
       "path": "apps/the-poker-timer/the-poker-timer-icon.png",
       "revHash": "726414a64b"
+    }
+  },
+  "the-wall": {
+    "faintColorOnWhite": "rgba(4, 28, 38, 0.1)",
+    "goodColorOnBlack": "#A1ADB3",
+    "goodColorOnWhite": "#041C26",
+    "palette": [
+      "#041c26",
+      "#fbfbfb",
+      "#a1adb3",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/the-wall/the-wall-icon.png",
+      "revHash": "821866d2ec"
     }
   },
   "theme-juice": {
