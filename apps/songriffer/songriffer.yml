@@ -1,0 +1,12 @@
+name: SongRiffer
+description: 'The only riff library made for musicians, by musicians, 100% free.'
+website: 'https://songriffer.com'
+category: Music
+keywords:
+    - music
+    - productivity
+screenshots:
+  -
+    imageUrl: 'https://songriffer.com/assets/screenshot-header@2x.png'
+    caption: 'SongRiffer screenshot on Mac'
+    imageLink: 'https://songriffer.com'
