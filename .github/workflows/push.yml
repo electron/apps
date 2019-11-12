@@ -4,9 +4,8 @@ on: push
 
 jobs:
   build:
-
+    name: Test pushes
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@master
       if: github['ref'] == 'refs/heads/master'
