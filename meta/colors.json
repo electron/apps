@@ -5391,6 +5391,22 @@
       "revHash": "4c74411fb9"
     }
   },
+  "lazytype": {
+    "faintColorOnWhite": "rgba(35, 35, 28, 0.1)",
+    "goodColorOnBlack": "#F5F5F5",
+    "goodColorOnWhite": "#23231C",
+    "palette": [
+      "#23231c",
+      "#f5f5f5",
+      "#848484",
+      "#676767",
+      "#7c7c7c"
+    ],
+    "source": {
+      "path": "apps/lazytype/lazytype-icon.png",
+      "revHash": "7092dfa03c"
+    }
+  },
   "lbry-desktop": {
     "faintColorOnWhite": "rgba(20, 92, 75, 0.1)",
     "goodColorOnBlack": "#84ACA4",
@@ -10701,6 +10717,22 @@
     "source": {
       "path": "apps/swifty/swifty-icon.png",
       "revHash": "f3d32a6c0b"
+    }
+  },
+  "switch": {
+    "faintColorOnWhite": "rgba(48, 101, 242, 0.1)",
+    "goodColorOnBlack": "#20AEF5",
+    "goodColorOnWhite": "#3065F2",
+    "palette": [
+      "#eafbfb",
+      "#20aef5",
+      "#3065f2",
+      "#64838b",
+      "#63b3e7"
+    ],
+    "source": {
+      "path": "apps/switch/switch-icon.png",
+      "revHash": "cd5f63d2dd"
     }
   },
   "switchhosts": {

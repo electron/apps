@@ -1,0 +1,15 @@
+name: Switch
+description: 'Crossplatform key+combo window manager.'
+website: 'https://ahkohd.github.io/switch-desktop'
+category: Productivity
+repository: 'https://github.com/ahkohd/switch-desktop'
+keywords:
+  - window
+  - manager
+  - crossplatform
+license: "GPL v3"
+youtube_video_url: 'https://youtu.be/cysVHi-pcxU'
+screenshots:
+  -
+    imageUrl: 'https://github.com/ahkohd/switch-desktop/blob/master/docs/switch-shot.png'
+    caption: 'Switch'
