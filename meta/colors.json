@@ -239,6 +239,22 @@
       "revHash": "b5b88ae7e8"
     }
   },
+  "alarm-cron": {
+    "faintColorOnWhite": "rgba(137, 85, 204, 0.1)",
+    "goodColorOnBlack": "#996CD3",
+    "goodColorOnWhite": "#8955CC",
+    "palette": [
+      "#996cd3",
+      "#fbfbfb",
+      "#c8b5dc",
+      "#a8a8b4",
+      "#b4b4b4"
+    ],
+    "source": {
+      "path": "apps/alarm-cron/alarm-cron-icon.png",
+      "revHash": "8b62eb6c32"
+    }
+  },
   "alchemy": {
     "faintColorOnWhite": "rgba(165, 99, 19, 0.1)",
     "goodColorOnBlack": "#E89837",
