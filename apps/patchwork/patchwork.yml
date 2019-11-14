@@ -19,5 +19,5 @@ keywords:
 license: AGPL-3.0
 screenshots:
   -
-    imageUrl: 'https://github.com/ssbc/patchwork/raw/master/screenshot.jpg'
+    imageUrl: 'https://raw.githubusercontent.com/ssbc/patchwork/master/assets/screenshot.jpg'
     caption: 'Public Channels View'

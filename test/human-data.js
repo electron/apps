@@ -7,10 +7,13 @@ const path = require('path')
 const expect = require('chai').expect
 const yaml = require('yamljs')
 const isUrl = require('is-url')
+const { URL } = require('url')
 const cleanDeep = require('clean-deep')
 const imageSize = require('image-size')
 const makeColorAccessible = require('make-color-accessible')
 const slugg = require('slugg')
+const grandfatheredDescriptions = require('../lib/grandfathered-descriptions')
+const grandfatheredLinks = require('../lib/grandfathered-links.js')
 const grandfatheredSlugs = require('../lib/grandfathered-small-icons')
 const slugs = fs.readdirSync(path.join(__dirname, '../apps'))
   .filter(filename => {
@@ -44,13 +47,62 @@ describe('human-submitted app data', () => {
           expect(app.name.length).to.be.above(0)
         })
 
-        it('has a description', () => {
-          expect(app.description.length).to.be.above(0)
+        describe('description', () => {
+          it('exists', () => {
+            expect(app.description.length).to.be.above(0)
+          })
+
+          it('should not start with app name', () => {
+            const appName = app.name.toLowerCase()
+            const description = app.description.toLowerCase()
+            expect(description).to.satisfy((desc) => !desc.startsWith(appName))
+          })
+
+          const descIsGrandfathered = grandfatheredDescriptions.includes(slug)
+          if (!descIsGrandfathered) {
+            it('should start with a capital letter', () => {
+              const firstLetter = app.description[0]
+              expect(firstLetter).to.equal(firstLetter.toUpperCase())
+            })
+
+            it('should end with a period / full stop', () => {
+              expect(app.description[app.description.length - 1]).to.equal('.', `Description should end in a period / full stop: '${app.description}'`)
+            })
+
+            it('should not mention Electron since Electron is already implied', () => {
+              const description = app.description.toLowerCase()
+              expect(description.indexOf('electron')).to.equal(-1, `Description should not mention Electron, as Electron is already implied: ${description}`)
+            })
+
+            it('should not start description with "A" or "An"', () => {
+              const descriptionFirstWord = app.description.toLowerCase().split(' ', 1)[0]
+              const badStarts = [ 'a', 'an' ]
+              expect(badStarts).to.not.include(descriptionFirstWord, `Description should not start with 'A' or 'An': '${app.description}'`)
+            })
+          }
         })
 
-        it('should not start description with app name', () => {
-          expect(app.description.toLowerCase().indexOf(app.name.toLowerCase())).to.not.equal(0)
-        })
+        const linksAreGrandfathered = grandfatheredLinks.includes(slug)
+        if (!linksAreGrandfathered) {
+          // walk an object subtree looking for URLs
+          const getObjectUrls = root => {
+            const found = []
+            const queue = [ root ]
+            while (queue.length !== 0) {
+              const vals = Object.values(queue.shift())
+              found.push(...vals.filter(isUrl).map(v => new URL(v)))
+              queue.push(...vals.filter(v => typeof v === 'object'))
+            }
+            return found
+          }
+
+          it('should use ssl links', () => {
+            const goodProtocols = [ 'https:', 'sftp:' ]
+            const urls = getObjectUrls(app)
+
+            urls.forEach(url => expect(url.protocol, url).to.be.oneOf(goodProtocols))
+          })
+        }
 
         it('has a website with a valid URL (or no website)', () => {
           expect(!app.website || isUrl(app.website)).to.equal(true)
@@ -60,8 +112,19 @@ describe('human-submitted app data', () => {
           expect(!app.repository || isUrl(app.repository)).to.equal(true)
         })
 
-        it('has an array of keywords, or none at all', () => {
-          expect(!app.keywords || Array.isArray(app.keywords)).to.eq(true)
+        describe('keywords', () => {
+          it('should, if present, be an array of keywords', () => {
+            expect(app.keywords || []).to.be.an('array')
+          })
+
+          it("should not include 'electron'", () => {
+            expect((app.keywords || []).map(key => key.toLocaleLowerCase())).to.not.include('electron')
+          })
+
+          it('should not include duplicates', () => {
+            const keywords = app.keywords || []
+            expect(keywords.sort().toString()).to.equal([...(new Set(keywords).values())].sort().toString())
+          })
         })
 
         it('has a valid category', () => {

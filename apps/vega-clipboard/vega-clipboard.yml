@@ -1,7 +1,7 @@
 name: 'Vega Clipboard'
 description: 'Save clipboard history and copy in one click'
 website: 'http://thevega.pro/'
-category: 'Utilities'
+category: Utilities
 keywords:
     - clipboard
     - 'clipboard manager'
@@ -12,7 +12,4 @@ keywords:
     - 'save text'
     - 'clipboard history'
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/aleskinmk/aleskinmk.github.io/master/animation_2.gif'
-    caption: 'Easy to use'
-    imageLink: 'http://thevega.pro/'
+    - {imageUrl: 'https://raw.githubusercontent.com/aleskinmk/aleskinmk.github.io/master/animation_2.gif', caption: 'Easy to use', imageLink: 'http://thevega.pro/'}

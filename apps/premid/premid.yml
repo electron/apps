@@ -1,22 +1,43 @@
 name: PreMiD
-description: "Discord Rich Presence Integration for websites."
+description: "Discord Rich Presence integration, media controls and much more for your beloved web services."
 website: "https://premid.app/"
 category: Utilities
-repository: "https://github.com/Timeraa/PreMiD"
+repository: "https://github.com/PreMiD/PreMiD"
 keywords:
   - Discord
-  - "Rich Presence"
-  - YouTube
-  - SoundCloud
-  - Twitch
-  - "YouTube Music"
-  - Netflix
-license: MIT
+  - Rich Presence
+  - Website
+  - Service
+  - integration
+license: MPL 2.0
 screenshots:
-  - imageUrl: "https://github.com/Timeraa/PreMiD/raw/master/gitassets/PreMiDExample.png"
+  - 
+    imageUrl: "https://raw.githubusercontent.com/PreMiD/PreMiD/master/.github/Electron/PMD_Banner.png"
+    caption: "Banner"
+    imageLink: "https://discord.premid.app/"
+  - 
+    imageUrl: "https://raw.githubusercontent.com/PreMiD/PreMiD/master/.github/Electron/Chrome_bsp.png"
+    caption: "Example"
+    imageLink: "https://chrome.google.com/webstore/detail/premid/agjnjboanicjcpenljmaaigopkgdnihi?authuser=0&hl=en"
 locales:
-  - en
+  - ar
+  - cs
   - de
-  - da
+  - en
+  - es
+  - fi
+  - fr
   - he
-  - la
+  - it
+  - ja
+  - nl
+  - pl
+  - pt_BR
+  - pt_PT
+  - ro
+  - ru
+  - sk
+  - th
+  - tr
+  - uk
+  - zh_HK

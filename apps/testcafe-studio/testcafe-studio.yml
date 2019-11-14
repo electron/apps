@@ -1,0 +1,32 @@
+name: 'TestCafe Studio'
+description: 'Cross-Platform IDE for End-to-End Web Testing.'
+website: 'https://www.devexpress.com/products/testcafestudio/'
+category: 'Developer Tools'
+goodColorOnWhite: '#4e5d6f'
+keywords:
+  - testing
+  - automation
+  - e2e
+  - testcafe
+  - 'end-to-end'
+  - 'automated tests'
+  - 'cross browser testing'
+  - 'web testing'
+  - 'e2e testing'
+  - 'functional testing'
+  - 'mobile testing'
+  - 'developer tools'
+  - 'testing framework'
+screenshots:
+  - imageUrl: 'https://www.devexpress.com/products/testcafestudio/i/testcafe-studio-recorder-electronjs.gif'
+    caption: 'Visual Test Recorder'
+    imageLink: 'https://www.devexpress.com/products/testcafestudio/'
+  - imageUrl: 'https://www.devexpress.com/products/testcafestudio/i/Create-stable-tests-with-no-manual-timeouts@2x.png'
+    caption: 'Stable Tests'
+    imageLink: 'https://www.devexpress.com/products/testcafestudio/'
+  - imageUrl: 'https://www.devexpress.com/products/testcafestudio/i/Record-tests-instead-of-coding@2x.png'
+    caption: 'Auto-Generated Selectors'
+    imageLink: 'https://www.devexpress.com/products/testcafestudio/'
+  - imageUrl: 'https://www.devexpress.com/products/testcafestudio/i/Work-faster-in-a-specialized-environment@2x.png'
+    caption: 'Specialized Testing IDE'
+    imageLink: 'https://www.devexpress.com/products/testcafestudio/'
