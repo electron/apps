@@ -239,6 +239,22 @@
       "revHash": "b5b88ae7e8"
     }
   },
+  "alarm-cron": {
+    "faintColorOnWhite": "rgba(137, 85, 204, 0.1)",
+    "goodColorOnBlack": "#996CD3",
+    "goodColorOnWhite": "#8955CC",
+    "palette": [
+      "#996cd3",
+      "#fbfbfb",
+      "#c8b5dc",
+      "#a8a8b4",
+      "#b4b4b4"
+    ],
+    "source": {
+      "path": "apps/alarm-cron/alarm-cron-icon.png",
+      "revHash": "8b62eb6c32"
+    }
+  },
   "alchemy": {
     "faintColorOnWhite": "rgba(165, 99, 19, 0.1)",
     "goodColorOnBlack": "#E89837",
@@ -4525,6 +4541,22 @@
     "source": {
       "path": "apps/hyperspace/hyperspace-icon.png",
       "revHash": "f662a5d7f6"
+    }
+  },
+  "hypnos": {
+    "faintColorOnWhite": "rgba(52, 116, 140, 0.1)",
+    "goodColorOnBlack": "#6494AC",
+    "goodColorOnWhite": "#34748C",
+    "palette": [
+      "#34748c",
+      "#f5f7f8",
+      "#80a3b5",
+      "#92b4c2",
+      "#6494ac"
+    ],
+    "source": {
+      "path": "apps/hypnos/hypnos-icon.png",
+      "revHash": "84fe23e85c"
     }
   },
   "i18n-manager": {
@@ -10717,6 +10749,22 @@
     "source": {
       "path": "apps/swifty/swifty-icon.png",
       "revHash": "f3d32a6c0b"
+    }
+  },
+  "swit": {
+    "faintColorOnWhite": "rgba(220, 5, 7, 0.1)",
+    "goodColorOnBlack": "#FB5B5C",
+    "goodColorOnWhite": "#DC0507",
+    "palette": [
+      "#fb5b5c",
+      "#fcfafa",
+      "#fc999c",
+      "#fcacb4",
+      "#fc848c"
+    ],
+    "source": {
+      "path": "apps/swit/swit-icon.png",
+      "revHash": "3a54ec15cf"
     }
   },
   "switch": {
