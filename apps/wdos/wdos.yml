@@ -1,0 +1,11 @@
+name: wdOS
+description: 'The easy way to make desktop apps with web languages and nothing else.'
+website: 'https://www.webfra.me/'
+category: 'Developer Tools'
+repository: 'https://github.com/Webdeskme/wdOS/releases'
+keywords:
+    - wdOS
+    - WebDesktop
+    - devloper
+    - Webframe
+license: GPL_3.0
