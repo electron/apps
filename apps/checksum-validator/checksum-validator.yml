@@ -10,10 +10,10 @@ keywords:
 license: MIT
 screenshots:
   -
-    imageUrl: 'https://github.com/alexanderwe/checksum-validator/blob/master/.github/img/img3.png'
+    imageUrl: 'https://raw.githubusercontent.com/alexanderwe/checksum-validator/master/assets/screenshots/img3.png'
     caption: 'Validate Checksums'
   -
-    imageUrl: 'https://github.com/alexanderwe/checksum-validator/blob/master/.github/img/img4.png'
+    imageUrl: 'https://raw.githubusercontent.com/alexanderwe/checksum-validator/master/assets/screenshots/img4.png'
     caption: 'Configure for your use'
 locales:
   - de

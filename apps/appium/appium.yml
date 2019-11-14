@@ -1,6 +1,6 @@
-name: Appium Desktop
+name: 'Appium Desktop'
 description: 'A cross-platform app which gives you the power of the Appium automation server in a beautiful and flexible UI.'
-website: 'http://appium.io/'
+website: 'https://appium.io/'
 repository: 'https://github.com/appium/appium-desktop'
 keywords:
     - appium
