@@ -8,4 +8,8 @@ keywords:
     - WebDesktop
     - devloper
     - Webframe
-license: GPL_3.0
+screenshots:
+  -
+    imageUrl: 'https://user-images.githubusercontent.com/27771305/68886605-85c85e80-06e5-11ea-8812-b154e7ba2199.png'
+    caption: 'wdOS interface'
+    imageLink: 'https://github.com/Webdeskme/wdOS/releases'
