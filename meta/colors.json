@@ -239,6 +239,22 @@
       "revHash": "b5b88ae7e8"
     }
   },
+  "alarm-cron": {
+    "faintColorOnWhite": "rgba(137, 85, 204, 0.1)",
+    "goodColorOnBlack": "#996CD3",
+    "goodColorOnWhite": "#8955CC",
+    "palette": [
+      "#996cd3",
+      "#fbfbfb",
+      "#c8b5dc",
+      "#a8a8b4",
+      "#b4b4b4"
+    ],
+    "source": {
+      "path": "apps/alarm-cron/alarm-cron-icon.png",
+      "revHash": "8b62eb6c32"
+    }
+  },
   "alchemy": {
     "faintColorOnWhite": "rgba(165, 99, 19, 0.1)",
     "goodColorOnBlack": "#E89837",
@@ -4527,6 +4543,22 @@
       "revHash": "f662a5d7f6"
     }
   },
+  "hypnos": {
+    "faintColorOnWhite": "rgba(52, 116, 140, 0.1)",
+    "goodColorOnBlack": "#6494AC",
+    "goodColorOnWhite": "#34748C",
+    "palette": [
+      "#34748c",
+      "#f5f7f8",
+      "#80a3b5",
+      "#92b4c2",
+      "#6494ac"
+    ],
+    "source": {
+      "path": "apps/hypnos/hypnos-icon.png",
+      "revHash": "84fe23e85c"
+    }
+  },
   "i18n-manager": {
     "faintColorOnWhite": "rgba(4, 100, 227, 0.1)",
     "goodColorOnBlack": "#E1B124",
@@ -5389,6 +5421,22 @@
     "source": {
       "path": "apps/laverna/laverna-icon.png",
       "revHash": "4c74411fb9"
+    }
+  },
+  "lazytype": {
+    "faintColorOnWhite": "rgba(35, 35, 28, 0.1)",
+    "goodColorOnBlack": "#F5F5F5",
+    "goodColorOnWhite": "#23231C",
+    "palette": [
+      "#23231c",
+      "#f5f5f5",
+      "#848484",
+      "#676767",
+      "#7c7c7c"
+    ],
+    "source": {
+      "path": "apps/lazytype/lazytype-icon.png",
+      "revHash": "7092dfa03c"
     }
   },
   "lbry-desktop": {
@@ -10701,6 +10749,38 @@
     "source": {
       "path": "apps/swifty/swifty-icon.png",
       "revHash": "f3d32a6c0b"
+    }
+  },
+  "swit": {
+    "faintColorOnWhite": "rgba(220, 5, 7, 0.1)",
+    "goodColorOnBlack": "#FB5B5C",
+    "goodColorOnWhite": "#DC0507",
+    "palette": [
+      "#fb5b5c",
+      "#fcfafa",
+      "#fc999c",
+      "#fcacb4",
+      "#fc848c"
+    ],
+    "source": {
+      "path": "apps/swit/swit-icon.png",
+      "revHash": "3a54ec15cf"
+    }
+  },
+  "switch": {
+    "faintColorOnWhite": "rgba(48, 101, 242, 0.1)",
+    "goodColorOnBlack": "#20AEF5",
+    "goodColorOnWhite": "#3065F2",
+    "palette": [
+      "#eafbfb",
+      "#20aef5",
+      "#3065f2",
+      "#64838b",
+      "#63b3e7"
+    ],
+    "source": {
+      "path": "apps/switch/switch-icon.png",
+      "revHash": "cd5f63d2dd"
     }
   },
   "switchhosts": {
