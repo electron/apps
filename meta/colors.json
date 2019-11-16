@@ -2911,6 +2911,22 @@
       "revHash": "a9e6d53e27"
     }
   },
+  "ebtcalc": {
+    "faintColorOnWhite": "rgba(83, 83, 84, 0.1)",
+    "goodColorOnBlack": "#859973",
+    "goodColorOnWhite": "#535354",
+    "palette": [
+      "#535354",
+      "#eff0ee",
+      "#9c9e9c",
+      "#7c7b7d",
+      "#859973"
+    ],
+    "source": {
+      "path": "apps/ebtcalc/ebtcalc-icon.png",
+      "revHash": "4979f6d208"
+    }
+  },
   "egret-wing": {
     "faintColorOnWhite": "rgba(4, 100, 156, 0.1)",
     "goodColorOnBlack": "#04A3F3",
@@ -5405,6 +5421,22 @@
     "source": {
       "path": "apps/laravel-kit/laravel-kit-icon.png",
       "revHash": "8a24d7a1de"
+    }
+  },
+  "last-hit": {
+    "faintColorOnWhite": "rgba(68, 62, 4, 0.1)",
+    "goodColorOnBlack": "#E16504",
+    "goodColorOnWhite": "#443E04",
+    "palette": [
+      "#cc4744",
+      "#e16504",
+      "#3b3c04",
+      "#443e04",
+      "#d84844"
+    ],
+    "source": {
+      "path": "apps/last-hit/last-hit-icon.png",
+      "revHash": "d77b8563d8"
     }
   },
   "laverna": {
