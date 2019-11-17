@@ -1,4 +1,4 @@
-name: cloudtag
+name: Cloudtag
 description: 'Sharing files, easier.'
 website: 'https://cloudtag.io/'
 keywords:
@@ -14,5 +14,4 @@ keywords:
     - tag
     - utility
 category: Utilities
-disabled: true
-disabledComment: 'disabled on Tue Jul 02 2019 because all links failed'
+snapcraftName: cloudtag
