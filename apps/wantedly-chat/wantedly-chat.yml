@@ -6,3 +6,4 @@ keywords:
     - chat
     - team
 category: 'Social Networking'
+disabled: true # Wantedly no longer provides electron based app
