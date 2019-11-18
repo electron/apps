@@ -8895,6 +8895,22 @@
       "revHash": "ab697ae689"
     }
   },
+  "r2e-todoworks": {
+    "faintColorOnWhite": "rgba(220, 37, 73, 0.1)",
+    "goodColorOnBlack": "#F8BD20",
+    "goodColorOnWhite": "#DC2549",
+    "palette": [
+      "#dc2549",
+      "#e5e3d9",
+      "#f8bd20",
+      "#3e6d96",
+      "#6c94b4"
+    ],
+    "source": {
+      "path": "apps/r2e-todoworks/r2e-todoworks-icon.png",
+      "revHash": "cd171fdaf0"
+    }
+  },
   "r6rc": {
     "faintColorOnWhite": "rgba(77, 76, 75, 0.1)",
     "goodColorOnBlack": "#FA9B0D",
