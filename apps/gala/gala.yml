@@ -4,3 +4,4 @@ website: 'http://www.getgala.me'
 keywords:
     - images
 category: 'Photo & Video'
+disabled: true # Dead Links: http://www.getgala.me
