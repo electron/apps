@@ -1231,6 +1231,22 @@
       "revHash": "ac15013773"
     }
   },
+  "cashcash": {
+    "faintColorOnWhite": "rgba(92, 104, 213, 0.1)",
+    "goodColorOnBlack": "#F9D720",
+    "goodColorOnWhite": "#5C68D5",
+    "palette": [
+      "#f9d720",
+      "#5c68d5",
+      "#3e457c",
+      "#beb468",
+      "#acac94"
+    ],
+    "source": {
+      "path": "apps/cashcash/cashcash-icon.png",
+      "revHash": "010e5f5de8"
+    }
+  },
   "cashnotify": {
     "faintColorOnWhite": "rgba(60, 36, 124, 0.1)",
     "goodColorOnBlack": "#C4A4E4",
@@ -8895,6 +8911,22 @@
       "revHash": "ab697ae689"
     }
   },
+  "r2e-todoworks": {
+    "faintColorOnWhite": "rgba(220, 37, 73, 0.1)",
+    "goodColorOnBlack": "#F8BD20",
+    "goodColorOnWhite": "#DC2549",
+    "palette": [
+      "#dc2549",
+      "#e5e3d9",
+      "#f8bd20",
+      "#3e6d96",
+      "#6c94b4"
+    ],
+    "source": {
+      "path": "apps/r2e-todoworks/r2e-todoworks-icon.png",
+      "revHash": "cd171fdaf0"
+    }
+  },
   "r6rc": {
     "faintColorOnWhite": "rgba(77, 76, 75, 0.1)",
     "goodColorOnBlack": "#FA9B0D",
@@ -11053,6 +11085,22 @@
     "source": {
       "path": "apps/temps/temps-icon.png",
       "revHash": "54325632c7"
+    }
+  },
+  "ten-hands": {
+    "faintColorOnWhite": "rgba(11, 99, 66, 0.1)",
+    "goodColorOnBlack": "#74A48C",
+    "goodColorOnWhite": "#0B6342",
+    "palette": [
+      "#0b6342",
+      "#fafafa",
+      "#5b8473",
+      "#7ca894",
+      "#74a48c"
+    ],
+    "source": {
+      "path": "apps/ten-hands/ten-hands-icon.png",
+      "revHash": "7f59b85620"
     }
   },
   "terminus": {
