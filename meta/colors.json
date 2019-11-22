@@ -2351,6 +2351,22 @@
       "revHash": "0138e9caa5"
     }
   },
+  "debugtron": {
+    "faintColorOnWhite": "rgba(30, 93, 155, 0.1)",
+    "goodColorOnBlack": "#309CFB",
+    "goodColorOnWhite": "#1E5D9B",
+    "palette": [
+      "#309cfb",
+      "#fbfbfc",
+      "#7ebffc",
+      "#1e5d9b",
+      "#94d4fc"
+    ],
+    "source": {
+      "path": "apps/debugtron/debugtron-icon.png",
+      "revHash": "46f7654f3c"
+    }
+  },
   "deckard-ai": {
     "faintColorOnWhite": "rgba(106, 67, 196, 0.1)",
     "goodColorOnBlack": "#98A4B0",
