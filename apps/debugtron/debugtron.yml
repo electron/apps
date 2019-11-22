@@ -1,0 +1,11 @@
+name: Debugtron
+description: "Debug in-production Electron based app."
+website: "https://github.com/bytedance/debugtron"
+category: "Developer Tools"
+repository: "https://github.com/bytedance/debugtron"
+keywords:
+  - debug
+  - debugging-tool
+license: MIT
+screenshots:
+  - imageUrl: "https://raw.githubusercontent.com/bytedance/debugtron/master/assets/0.png"
