@@ -2351,6 +2351,22 @@
       "revHash": "0138e9caa5"
     }
   },
+  "debugtron": {
+    "faintColorOnWhite": "rgba(30, 93, 155, 0.1)",
+    "goodColorOnBlack": "#309CFB",
+    "goodColorOnWhite": "#1E5D9B",
+    "palette": [
+      "#309cfb",
+      "#fbfbfc",
+      "#7ebffc",
+      "#1e5d9b",
+      "#94d4fc"
+    ],
+    "source": {
+      "path": "apps/debugtron/debugtron-icon.png",
+      "revHash": "46f7654f3c"
+    }
+  },
   "deckard-ai": {
     "faintColorOnWhite": "rgba(106, 67, 196, 0.1)",
     "goodColorOnBlack": "#98A4B0",
@@ -3117,6 +3133,22 @@
     "source": {
       "path": "apps/esteem-surfer/esteem-surfer-icon.png",
       "revHash": "2f98866237"
+    }
+  },
+  "etcd-manager": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#449CDB",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#449cdb",
+      "#040404",
+      "#e0e0e0",
+      "#70899b",
+      "#5a5a5a"
+    ],
+    "source": {
+      "path": "apps/etcd-manager/etcd-manager-icon.png",
+      "revHash": "ad6b4eb039"
     }
   },
   "etcher": {
@@ -7821,6 +7853,22 @@
     "source": {
       "path": "apps/pencil/pencil-icon.png",
       "revHash": "8bca383a7c"
+    }
+  },
+  "pennywise": {
+    "faintColorOnWhite": "rgba(30, 30, 30, 0.1)",
+    "goodColorOnBlack": "#CF5823",
+    "goodColorOnWhite": "#1E1E1E",
+    "palette": [
+      "#d3d5d6",
+      "#cf5823",
+      "#1e1e1e",
+      "#d7742d",
+      "#7d8c9b"
+    ],
+    "source": {
+      "path": "apps/pennywise/pennywise-icon.png",
+      "revHash": "e55175ef04"
     }
   },
   "pepefe": {
