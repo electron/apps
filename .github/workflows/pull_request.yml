@@ -4,9 +4,8 @@ on: pull_request
 
 jobs:
   build:
-
+    name: Test pull requests
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@master
       with:
@@ -14,7 +13,7 @@ jobs:
     - name: Use Node.js 10.x
       uses: actions/setup-node@v1
       with:
-        version: 10.x
+        node-version: 10.x
     - name: npm install, build, and test
       run: |
         npm ci
