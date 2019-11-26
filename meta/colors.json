@@ -239,6 +239,22 @@
       "revHash": "b5b88ae7e8"
     }
   },
+  "alarm-cron": {
+    "faintColorOnWhite": "rgba(137, 85, 204, 0.1)",
+    "goodColorOnBlack": "#996CD3",
+    "goodColorOnWhite": "#8955CC",
+    "palette": [
+      "#996cd3",
+      "#fbfbfb",
+      "#c8b5dc",
+      "#a8a8b4",
+      "#b4b4b4"
+    ],
+    "source": {
+      "path": "apps/alarm-cron/alarm-cron-icon.png",
+      "revHash": "8b62eb6c32"
+    }
+  },
   "alchemy": {
     "faintColorOnWhite": "rgba(165, 99, 19, 0.1)",
     "goodColorOnBlack": "#E89837",
@@ -1213,6 +1229,22 @@
     "source": {
       "path": "apps/cargo-messenger/cargo-messenger-icon.png",
       "revHash": "ac15013773"
+    }
+  },
+  "cashcash": {
+    "faintColorOnWhite": "rgba(92, 104, 213, 0.1)",
+    "goodColorOnBlack": "#F9D720",
+    "goodColorOnWhite": "#5C68D5",
+    "palette": [
+      "#f9d720",
+      "#5c68d5",
+      "#3e457c",
+      "#beb468",
+      "#acac94"
+    ],
+    "source": {
+      "path": "apps/cashcash/cashcash-icon.png",
+      "revHash": "010e5f5de8"
     }
   },
   "cashnotify": {
@@ -2319,6 +2351,22 @@
       "revHash": "0138e9caa5"
     }
   },
+  "debugtron": {
+    "faintColorOnWhite": "rgba(30, 93, 155, 0.1)",
+    "goodColorOnBlack": "#309CFB",
+    "goodColorOnWhite": "#1E5D9B",
+    "palette": [
+      "#309cfb",
+      "#fbfbfc",
+      "#7ebffc",
+      "#1e5d9b",
+      "#94d4fc"
+    ],
+    "source": {
+      "path": "apps/debugtron/debugtron-icon.png",
+      "revHash": "46f7654f3c"
+    }
+  },
   "deckard-ai": {
     "faintColorOnWhite": "rgba(106, 67, 196, 0.1)",
     "goodColorOnBlack": "#98A4B0",
@@ -2895,6 +2943,22 @@
       "revHash": "a9e6d53e27"
     }
   },
+  "ebtcalc": {
+    "faintColorOnWhite": "rgba(83, 83, 84, 0.1)",
+    "goodColorOnBlack": "#859973",
+    "goodColorOnWhite": "#535354",
+    "palette": [
+      "#535354",
+      "#eff0ee",
+      "#9c9e9c",
+      "#7c7b7d",
+      "#859973"
+    ],
+    "source": {
+      "path": "apps/ebtcalc/ebtcalc-icon.png",
+      "revHash": "4979f6d208"
+    }
+  },
   "egret-wing": {
     "faintColorOnWhite": "rgba(4, 100, 156, 0.1)",
     "goodColorOnBlack": "#04A3F3",
@@ -3069,6 +3133,22 @@
     "source": {
       "path": "apps/esteem-surfer/esteem-surfer-icon.png",
       "revHash": "2f98866237"
+    }
+  },
+  "etcd-manager": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#449CDB",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#449cdb",
+      "#040404",
+      "#e0e0e0",
+      "#70899b",
+      "#5a5a5a"
+    ],
+    "source": {
+      "path": "apps/etcd-manager/etcd-manager-icon.png",
+      "revHash": "ad6b4eb039"
     }
   },
   "etcher": {
@@ -4527,6 +4607,22 @@
       "revHash": "f662a5d7f6"
     }
   },
+  "hypnos": {
+    "faintColorOnWhite": "rgba(52, 116, 140, 0.1)",
+    "goodColorOnBlack": "#6494AC",
+    "goodColorOnWhite": "#34748C",
+    "palette": [
+      "#34748c",
+      "#f5f7f8",
+      "#80a3b5",
+      "#92b4c2",
+      "#6494ac"
+    ],
+    "source": {
+      "path": "apps/hypnos/hypnos-icon.png",
+      "revHash": "84fe23e85c"
+    }
+  },
   "i18n-manager": {
     "faintColorOnWhite": "rgba(4, 100, 227, 0.1)",
     "goodColorOnBlack": "#E1B124",
@@ -5375,6 +5471,22 @@
       "revHash": "8a24d7a1de"
     }
   },
+  "last-hit": {
+    "faintColorOnWhite": "rgba(68, 62, 4, 0.1)",
+    "goodColorOnBlack": "#E16504",
+    "goodColorOnWhite": "#443E04",
+    "palette": [
+      "#cc4744",
+      "#e16504",
+      "#3b3c04",
+      "#443e04",
+      "#d84844"
+    ],
+    "source": {
+      "path": "apps/last-hit/last-hit-icon.png",
+      "revHash": "d77b8563d8"
+    }
+  },
   "laverna": {
     "faintColorOnWhite": "rgba(3, 121, 109, 0.1)",
     "goodColorOnBlack": "#04A393",
@@ -5389,6 +5501,22 @@
     "source": {
       "path": "apps/laverna/laverna-icon.png",
       "revHash": "4c74411fb9"
+    }
+  },
+  "lazytype": {
+    "faintColorOnWhite": "rgba(35, 35, 28, 0.1)",
+    "goodColorOnBlack": "#F5F5F5",
+    "goodColorOnWhite": "#23231C",
+    "palette": [
+      "#23231c",
+      "#f5f5f5",
+      "#848484",
+      "#676767",
+      "#7c7c7c"
+    ],
+    "source": {
+      "path": "apps/lazytype/lazytype-icon.png",
+      "revHash": "7092dfa03c"
     }
   },
   "lbry-desktop": {
@@ -7727,6 +7855,22 @@
       "revHash": "8bca383a7c"
     }
   },
+  "pennywise": {
+    "faintColorOnWhite": "rgba(30, 30, 30, 0.1)",
+    "goodColorOnBlack": "#CF5823",
+    "goodColorOnWhite": "#1E1E1E",
+    "palette": [
+      "#d3d5d6",
+      "#cf5823",
+      "#1e1e1e",
+      "#d7742d",
+      "#7d8c9b"
+    ],
+    "source": {
+      "path": "apps/pennywise/pennywise-icon.png",
+      "revHash": "e55175ef04"
+    }
+  },
   "pepefe": {
     "faintColorOnWhite": "rgba(59, 59, 59, 0.1)",
     "goodColorOnBlack": "#FC8404",
@@ -8813,6 +8957,22 @@
     "source": {
       "path": "apps/quickwords/quickwords-icon.png",
       "revHash": "ab697ae689"
+    }
+  },
+  "r2e-todoworks": {
+    "faintColorOnWhite": "rgba(220, 37, 73, 0.1)",
+    "goodColorOnBlack": "#F8BD20",
+    "goodColorOnWhite": "#DC2549",
+    "palette": [
+      "#dc2549",
+      "#e5e3d9",
+      "#f8bd20",
+      "#3e6d96",
+      "#6c94b4"
+    ],
+    "source": {
+      "path": "apps/r2e-todoworks/r2e-todoworks-icon.png",
+      "revHash": "cd171fdaf0"
     }
   },
   "r6rc": {
@@ -10703,6 +10863,38 @@
       "revHash": "f3d32a6c0b"
     }
   },
+  "swit": {
+    "faintColorOnWhite": "rgba(220, 5, 7, 0.1)",
+    "goodColorOnBlack": "#FB5B5C",
+    "goodColorOnWhite": "#DC0507",
+    "palette": [
+      "#fb5b5c",
+      "#fcfafa",
+      "#fc999c",
+      "#fcacb4",
+      "#fc848c"
+    ],
+    "source": {
+      "path": "apps/swit/swit-icon.png",
+      "revHash": "3a54ec15cf"
+    }
+  },
+  "switch": {
+    "faintColorOnWhite": "rgba(48, 101, 242, 0.1)",
+    "goodColorOnBlack": "#20AEF5",
+    "goodColorOnWhite": "#3065F2",
+    "palette": [
+      "#eafbfb",
+      "#20aef5",
+      "#3065f2",
+      "#64838b",
+      "#63b3e7"
+    ],
+    "source": {
+      "path": "apps/switch/switch-icon.png",
+      "revHash": "cd5f63d2dd"
+    }
+  },
   "switchhosts": {
     "faintColorOnWhite": "rgba(205, 47, 65, 0.1)",
     "goodColorOnBlack": "#D44454",
@@ -10941,6 +11133,22 @@
     "source": {
       "path": "apps/temps/temps-icon.png",
       "revHash": "54325632c7"
+    }
+  },
+  "ten-hands": {
+    "faintColorOnWhite": "rgba(11, 99, 66, 0.1)",
+    "goodColorOnBlack": "#74A48C",
+    "goodColorOnWhite": "#0B6342",
+    "palette": [
+      "#0b6342",
+      "#fafafa",
+      "#5b8473",
+      "#7ca894",
+      "#74a48c"
+    ],
+    "source": {
+      "path": "apps/ten-hands/ten-hands-icon.png",
+      "revHash": "7f59b85620"
     }
   },
   "terminus": {
