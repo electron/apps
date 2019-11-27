@@ -3439,6 +3439,22 @@
       "revHash": "cec1628046"
     }
   },
+  "fnew-desktop": {
+    "faintColorOnWhite": "rgba(17, 75, 10, 0.1)",
+    "goodColorOnBlack": "#F9BA0A",
+    "goodColorOnWhite": "#114B0A",
+    "palette": [
+      "#fbfafa",
+      "#114b0a",
+      "#7c5d1d",
+      "#f9ba0a",
+      "#918f8f"
+    ],
+    "source": {
+      "path": "apps/fnew-desktop/fnew-desktop-icon.png",
+      "revHash": "b87f2cc404"
+    }
+  },
   "foco": {
     "faintColorOnWhite": "rgba(29, 125, 141, 0.1)",
     "goodColorOnBlack": "#28AEC4",
@@ -7439,6 +7455,22 @@
       "revHash": "529d88d803"
     }
   },
+  "ohhai-browser": {
+    "faintColorOnWhite": "rgba(22, 38, 101, 0.1)",
+    "goodColorOnBlack": "#7C849E",
+    "goodColorOnWhite": "#162665",
+    "palette": [
+      "#f9f9f9",
+      "#162665",
+      "#7c849e",
+      "#8c8da4",
+      "#8484a4"
+    ],
+    "source": {
+      "path": "apps/ohhai-browser/ohhai-browser-icon.png",
+      "revHash": "0beb40246f"
+    }
+  },
   "one-left": {
     "faintColorOnWhite": "rgba(52, 60, 134, 0.1)",
     "goodColorOnBlack": "#B6B2B4",
@@ -9117,6 +9149,22 @@
     "source": {
       "path": "apps/ray/ray-icon.png",
       "revHash": "3e76058a4f"
+    }
+  },
+  "raycho": {
+    "faintColorOnWhite": "rgba(3, 121, 115, 0.1)",
+    "goodColorOnBlack": "#04A49C",
+    "goodColorOnWhite": "#037973",
+    "palette": [
+      "#04a49c",
+      "#f9fbfb",
+      "#63c5c1",
+      "#9ddbd7",
+      "#3cb5b4"
+    ],
+    "source": {
+      "path": "apps/raycho/raycho-icon.png",
+      "revHash": "013b52c3e8"
     }
   },
   "reach-podcast-player": {
