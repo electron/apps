@@ -1,6 +1,6 @@
 name: wdOS
-description: 'The easy way to make desktop apps with web languages and nothing else.'
-website: 'https://www.webfra.me/'
+description: 'The easy way to make desktop apps with html, css, javascript, and Nodejs. No terminal needed. Have all the apps you create be organized in one easy to use location.'
+website: 'https://www.webdesk.me/'
 category: 'Developer Tools'
 repository: 'https://github.com/Webdeskme/wdOS/releases'
 keywords:
