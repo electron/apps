@@ -2239,6 +2239,22 @@
       "revHash": "4546cb17cb"
     }
   },
+  "dashy": {
+    "faintColorOnWhite": "rgba(4, 52, 108, 0.1)",
+    "goodColorOnBlack": "#44B8F8",
+    "goodColorOnWhite": "#04346C",
+    "palette": [
+      "#f4f4f4",
+      "#147cf4",
+      "#04346c",
+      "#c0f8b0",
+      "#44b8f8"
+    ],
+    "source": {
+      "path": "apps/dashy/dashy-icon.png",
+      "revHash": "561747194f"
+    }
+  },
   "dat": {
     "faintColorOnWhite": "rgba(22, 134, 36, 0.1)",
     "goodColorOnBlack": "#189528",
