@@ -23,5 +23,9 @@ screenshots:
     imageLink: 'https://www.ericbt.com/ebtcalc_electron'
   -
     imageUrl: 'https://www.ericbt.com/artwork/ebtcalc_electron/graph.png'
-    caption: 'EBTCalc Graph'
+    caption: 'EBTCalc Graph (Function)'
+    imageLink: 'https://www.ericbt.com/ebtcalc_electron'
+  -
+    imageUrl: 'https://www.ericbt.com/artwork/ebtcalc_electron/julia.png'
+    caption: 'EBTCalc Graph (Julia Set)'
     imageLink: 'https://www.ericbt.com/ebtcalc_electron'
