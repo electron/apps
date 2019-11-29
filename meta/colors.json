@@ -1279,6 +1279,22 @@
       "revHash": "21a1c93ca6"
     }
   },
+  "cdn-desktop": {
+    "faintColorOnWhite": "rgba(151, 84, 204, 0.1)",
+    "goodColorOnBlack": "#B664D4",
+    "goodColorOnWhite": "#9754CC",
+    "palette": [
+      "#b664d4",
+      "#9754cc",
+      "#ac5ed1",
+      "#a45ccc",
+      "#9c5ccc"
+    ],
+    "source": {
+      "path": "apps/cdn-desktop/cdn-desktop-icon.png",
+      "revHash": "259e6222a2"
+    }
+  },
   "cells": {
     "faintColorOnWhite": "rgba(36, 95, 131, 0.1)",
     "goodColorOnBlack": "#9BC7E1",
@@ -7215,6 +7231,22 @@
       "revHash": "bae27f6ab6"
     }
   },
+  "nodemailer-app": {
+    "faintColorOnWhite": "rgba(52, 52, 52, 0.1)",
+    "goodColorOnBlack": "#0C8CBC",
+    "goodColorOnWhite": "#343434",
+    "palette": [
+      "#24b474",
+      "#1da4d9",
+      "#343434",
+      "#0c8cbc",
+      "#0c94bc"
+    ],
+    "source": {
+      "path": "apps/nodemailer-app/nodemailer-app-icon.png",
+      "revHash": "ab5213adec"
+    }
+  },
   "northreader": {
     "faintColorOnWhite": "rgba(3, 109, 240, 0.1)",
     "goodColorOnBlack": "#137BFC",
@@ -9229,6 +9261,22 @@
     "source": {
       "path": "apps/recollectr/recollectr-icon.png",
       "revHash": "622991b81a"
+    }
+  },
+  "redily": {
+    "faintColorOnWhite": "rgba(221, 4, 47, 0.1)",
+    "goodColorOnBlack": "#F40434",
+    "goodColorOnWhite": "#DD042F",
+    "palette": [
+      "#f40434",
+      "#fbf4f4",
+      "#f4747c",
+      "#f42444",
+      "#f46474"
+    ],
+    "source": {
+      "path": "apps/redily/redily-icon.png",
+      "revHash": "7e7c9b1706"
     }
   },
   "redp": {
