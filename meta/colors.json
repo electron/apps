@@ -8767,6 +8767,22 @@
       "revHash": "eb3f0d2839"
     }
   },
+  "pubvendorstool": {
+    "faintColorOnWhite": "rgba(68, 68, 67, 0.1)",
+    "goodColorOnBlack": "#FBE304",
+    "goodColorOnWhite": "#444443",
+    "palette": [
+      "#444443",
+      "#fbe304",
+      "#b3a019",
+      "#9c8c24",
+      "#ccb414"
+    ],
+    "source": {
+      "path": "apps/pubvendorstool/pubvendorstool-icon.png",
+      "revHash": "47bf2ec430"
+    }
+  },
   "pullp": {
     "faintColorOnWhite": "rgba(119, 68, 239, 0.1)",
     "goodColorOnBlack": "#0AE5D7",
