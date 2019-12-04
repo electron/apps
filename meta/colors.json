@@ -2047,6 +2047,22 @@
       "revHash": "917ef5299d"
     }
   },
+  "cryptoarm-gost": {
+    "faintColorOnWhite": "rgba(188, 60, 28, 0.1)",
+    "goodColorOnBlack": "#E4AC8C",
+    "goodColorOnWhite": "#BC3C1C",
+    "palette": [
+      "#bc3c1c",
+      "#fbfbfb",
+      "#d78e6a",
+      "#e4ac8c",
+      "#e4b49c"
+    ],
+    "source": {
+      "path": "apps/cryptoarm-gost/cryptoarm-gost-icon.png",
+      "revHash": "affdaed0e6"
+    }
+  },
   "cryptobar": {
     "faintColorOnWhite": "rgba(140, 114, 2, 0.1)",
     "goodColorOnBlack": "#FCDB4B",
@@ -6733,6 +6749,22 @@
     "source": {
       "path": "apps/mongotron/mongotron-icon.png",
       "revHash": "ffc49fc270"
+    }
+  },
+  "monsterwriter": {
+    "faintColorOnWhite": "rgba(18, 43, 49, 0.1)",
+    "goodColorOnBlack": "#E07A33",
+    "goodColorOnWhite": "#122B31",
+    "palette": [
+      "#7ec4d4",
+      "#122b31",
+      "#eaedf3",
+      "#e07a33",
+      "#6c4b36"
+    ],
+    "source": {
+      "path": "apps/monsterwriter/monsterwriter-icon.png",
+      "revHash": "773f5b8ba6"
     }
   },
   "montenote": {

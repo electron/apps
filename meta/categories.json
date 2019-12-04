@@ -1,7 +1,7 @@
 [
   {
     "name": "Productivity",
-    "count": 242,
+    "count": 244,
     "slug": "productivity"
   },
   {
@@ -85,6 +85,11 @@
     "slug": "health-fitness"
   },
   {
+    "name": "Travel",
+    "count": 1,
+    "slug": "travel"
+  },
+  {
     "name": "Food & Drink",
     "count": 1,
     "slug": "food-drink"
@@ -93,10 +98,5 @@
     "name": "Sports",
     "count": 1,
     "slug": "sports"
-  },
-  {
-    "name": "Travel",
-    "count": 1,
-    "slug": "travel"
   }
 ]
