@@ -1279,6 +1279,22 @@
       "revHash": "21a1c93ca6"
     }
   },
+  "cdn-desktop": {
+    "faintColorOnWhite": "rgba(151, 84, 204, 0.1)",
+    "goodColorOnBlack": "#B664D4",
+    "goodColorOnWhite": "#9754CC",
+    "palette": [
+      "#b664d4",
+      "#9754cc",
+      "#ac5ed1",
+      "#a45ccc",
+      "#9c5ccc"
+    ],
+    "source": {
+      "path": "apps/cdn-desktop/cdn-desktop-icon.png",
+      "revHash": "259e6222a2"
+    }
+  },
   "cells": {
     "faintColorOnWhite": "rgba(36, 95, 131, 0.1)",
     "goodColorOnBlack": "#9BC7E1",
@@ -2031,6 +2047,22 @@
       "revHash": "917ef5299d"
     }
   },
+  "cryptoarm-gost": {
+    "faintColorOnWhite": "rgba(188, 60, 28, 0.1)",
+    "goodColorOnBlack": "#E4AC8C",
+    "goodColorOnWhite": "#BC3C1C",
+    "palette": [
+      "#bc3c1c",
+      "#fbfbfb",
+      "#d78e6a",
+      "#e4ac8c",
+      "#e4b49c"
+    ],
+    "source": {
+      "path": "apps/cryptoarm-gost/cryptoarm-gost-icon.png",
+      "revHash": "affdaed0e6"
+    }
+  },
   "cryptobar": {
     "faintColorOnWhite": "rgba(140, 114, 2, 0.1)",
     "goodColorOnBlack": "#FCDB4B",
@@ -2237,6 +2269,22 @@
     "source": {
       "path": "apps/darkj/darkj-icon.png",
       "revHash": "4546cb17cb"
+    }
+  },
+  "dashy": {
+    "faintColorOnWhite": "rgba(4, 52, 108, 0.1)",
+    "goodColorOnBlack": "#44B8F8",
+    "goodColorOnWhite": "#04346C",
+    "palette": [
+      "#f4f4f4",
+      "#147cf4",
+      "#04346c",
+      "#c0f8b0",
+      "#44b8f8"
+    ],
+    "source": {
+      "path": "apps/dashy/dashy-icon.png",
+      "revHash": "561747194f"
     }
   },
   "dat": {
@@ -3437,6 +3485,22 @@
     "source": {
       "path": "apps/flow/flow-icon.png",
       "revHash": "cec1628046"
+    }
+  },
+  "fnew-desktop": {
+    "faintColorOnWhite": "rgba(17, 75, 10, 0.1)",
+    "goodColorOnBlack": "#F9BA0A",
+    "goodColorOnWhite": "#114B0A",
+    "palette": [
+      "#fbfafa",
+      "#114b0a",
+      "#7c5d1d",
+      "#f9ba0a",
+      "#918f8f"
+    ],
+    "source": {
+      "path": "apps/fnew-desktop/fnew-desktop-icon.png",
+      "revHash": "b87f2cc404"
     }
   },
   "foco": {
@@ -6687,6 +6751,22 @@
       "revHash": "ffc49fc270"
     }
   },
+  "monsterwriter": {
+    "faintColorOnWhite": "rgba(18, 43, 49, 0.1)",
+    "goodColorOnBlack": "#E07A33",
+    "goodColorOnWhite": "#122B31",
+    "palette": [
+      "#7ec4d4",
+      "#122b31",
+      "#eaedf3",
+      "#e07a33",
+      "#6c4b36"
+    ],
+    "source": {
+      "path": "apps/monsterwriter/monsterwriter-icon.png",
+      "revHash": "773f5b8ba6"
+    }
+  },
   "montenote": {
     "faintColorOnWhite": "rgba(44, 44, 60, 0.1)",
     "goodColorOnBlack": "#949CA4",
@@ -7183,6 +7263,22 @@
       "revHash": "bae27f6ab6"
     }
   },
+  "nodemailer-app": {
+    "faintColorOnWhite": "rgba(52, 52, 52, 0.1)",
+    "goodColorOnBlack": "#0C8CBC",
+    "goodColorOnWhite": "#343434",
+    "palette": [
+      "#24b474",
+      "#1da4d9",
+      "#343434",
+      "#0c8cbc",
+      "#0c94bc"
+    ],
+    "source": {
+      "path": "apps/nodemailer-app/nodemailer-app-icon.png",
+      "revHash": "ab5213adec"
+    }
+  },
   "northreader": {
     "faintColorOnWhite": "rgba(3, 109, 240, 0.1)",
     "goodColorOnBlack": "#137BFC",
@@ -7437,6 +7533,22 @@
     "source": {
       "path": "apps/oh-my-desk/oh-my-desk-icon.png",
       "revHash": "529d88d803"
+    }
+  },
+  "ohhai-browser": {
+    "faintColorOnWhite": "rgba(22, 38, 101, 0.1)",
+    "goodColorOnBlack": "#7C849E",
+    "goodColorOnWhite": "#162665",
+    "palette": [
+      "#f9f9f9",
+      "#162665",
+      "#7c849e",
+      "#8c8da4",
+      "#8484a4"
+    ],
+    "source": {
+      "path": "apps/ohhai-browser/ohhai-browser-icon.png",
+      "revHash": "0beb40246f"
     }
   },
   "one-left": {
@@ -8687,6 +8799,22 @@
       "revHash": "eb3f0d2839"
     }
   },
+  "pubvendorstool": {
+    "faintColorOnWhite": "rgba(68, 68, 67, 0.1)",
+    "goodColorOnBlack": "#FBE304",
+    "goodColorOnWhite": "#444443",
+    "palette": [
+      "#444443",
+      "#fbe304",
+      "#b3a019",
+      "#9c8c24",
+      "#ccb414"
+    ],
+    "source": {
+      "path": "apps/pubvendorstool/pubvendorstool-icon.png",
+      "revHash": "47bf2ec430"
+    }
+  },
   "pullp": {
     "faintColorOnWhite": "rgba(119, 68, 239, 0.1)",
     "goodColorOnBlack": "#0AE5D7",
@@ -9119,6 +9247,22 @@
       "revHash": "3e76058a4f"
     }
   },
+  "raycho": {
+    "faintColorOnWhite": "rgba(3, 121, 115, 0.1)",
+    "goodColorOnBlack": "#04A49C",
+    "goodColorOnWhite": "#037973",
+    "palette": [
+      "#04a49c",
+      "#f9fbfb",
+      "#63c5c1",
+      "#9ddbd7",
+      "#3cb5b4"
+    ],
+    "source": {
+      "path": "apps/raycho/raycho-icon.png",
+      "revHash": "013b52c3e8"
+    }
+  },
   "reach-podcast-player": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#54DCFC",
@@ -9165,6 +9309,22 @@
     "source": {
       "path": "apps/recollectr/recollectr-icon.png",
       "revHash": "622991b81a"
+    }
+  },
+  "redily": {
+    "faintColorOnWhite": "rgba(221, 4, 47, 0.1)",
+    "goodColorOnBlack": "#F40434",
+    "goodColorOnWhite": "#DD042F",
+    "palette": [
+      "#f40434",
+      "#fbf4f4",
+      "#f4747c",
+      "#f42444",
+      "#f46474"
+    ],
+    "source": {
+      "path": "apps/redily/redily-icon.png",
+      "revHash": "7e7c9b1706"
     }
   },
   "redp": {
