@@ -12815,6 +12815,22 @@
       "revHash": "c570fd67b9"
     }
   },
+  "wdos": {
+    "faintColorOnWhite": "rgba(20, 100, 220, 0.1)",
+    "goodColorOnBlack": "#DC8C14",
+    "goodColorOnWhite": "#1464DC",
+    "palette": [
+      "#1464dc",
+      "#dc8c14",
+      "#4478e0",
+      "#4478e0",
+      "#4478e0"
+    ],
+    "source": {
+      "path": "apps/wdos/wdos-icon.png",
+      "revHash": "166c293eaa"
+    }
+  },
   "weatherapp": {
     "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
     "goodColorOnBlack": "#FFF",
