@@ -1,0 +1,28 @@
+name: FATpick
+description: 'Guitar tablature player than listens.'
+website: 'https://www.fatpick.com/'
+category: Music
+keywords:
+    - guitar
+    - tab
+    - tablature
+    - game
+    - audio
+    - song
+screenshots:
+  -
+    imageUrl: 'https://www.fatpick.com/img/sc-ws-player-640x350-poster.png'
+    caption: 'Playing a song in the FATpick tablature view.'
+    imageLink: 'https://www.fatpick.com/learn-to-play-guitar'
+  -
+    imageUrl: 'https://www.fatpick.com/img/ss-my-stats-480x286.png'
+    caption: 'Player Statistics'
+    imageLink: 'https://www.fatpick.com/learn-to-play-guitar'
+  -
+    imageUrl: 'https://www.fatpick.com/img/ss-search-480x286.png'
+    caption: 'Searching the Song Catalog'
+    imageLink: 'https://www.fatpick.com/learn-to-play-guitar'
+  -
+    imageUrl: 'https://www.fatpick.com/img/ss-open-song-480x286.png'
+    caption: 'Track Selection and Configuration'
+    imageLink: 'https://www.fatpick.com/learn-to-play-guitar'

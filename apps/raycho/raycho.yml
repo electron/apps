@@ -1,5 +1,5 @@
 name: raycho
-description: 'Blog & Document generator.'
+description: 'Static site generator with GUI.'
 website: 'https://raychonote.com/download.html'
 category: Utilities
 keywords:
@@ -8,3 +8,20 @@ keywords:
     - document
     - markdown
     - note
+    - editor
+screenshots:
+    -
+      imageUrl: 'https://raychonote.com/screenshots/dashboard.png'
+      caption: 'Dashboard'
+    -
+      imageUrl: 'https://raychonote.com/screenshots/editor.png'
+      caption: 'Editor'
+    -
+      imageUrl: 'https://raychonote.com/screenshots/site-edit.png'
+      caption: 'Site Edit'
+    -
+      imageUrl: 'https://raychonote.com/screenshots/markdown-edit.png'
+      caption: 'Markdown Edit'
+locales:
+    - en
+    - ja
