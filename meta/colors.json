@@ -3327,6 +3327,22 @@
       "revHash": "57151e3513"
     }
   },
+  "fatpick": {
+    "faintColorOnWhite": "rgba(197, 36, 36, 0.1)",
+    "goodColorOnBlack": "#DC4242",
+    "goodColorOnWhite": "#C52424",
+    "palette": [
+      "#b32323",
+      "#c52424",
+      "#d92d2d",
+      "#922020",
+      "#bc4444"
+    ],
+    "source": {
+      "path": "apps/fatpick/fatpick-icon.png",
+      "revHash": "7842e68a45"
+    }
+  },
   "fenetre": {
     "faintColorOnWhite": "rgba(28, 20, 76, 0.1)",
     "goodColorOnBlack": "#EA5A5C",
