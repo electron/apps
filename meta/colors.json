@@ -3327,6 +3327,22 @@
       "revHash": "57151e3513"
     }
   },
+  "fatpick": {
+    "faintColorOnWhite": "rgba(197, 36, 36, 0.1)",
+    "goodColorOnBlack": "#DC4242",
+    "goodColorOnWhite": "#C52424",
+    "palette": [
+      "#b32323",
+      "#c52424",
+      "#d92d2d",
+      "#922020",
+      "#bc4444"
+    ],
+    "source": {
+      "path": "apps/fatpick/fatpick-icon.png",
+      "revHash": "7842e68a45"
+    }
+  },
   "fenetre": {
     "faintColorOnWhite": "rgba(28, 20, 76, 0.1)",
     "goodColorOnBlack": "#EA5A5C",
@@ -6205,6 +6221,22 @@
     "source": {
       "path": "apps/mdp/mdp-icon.png",
       "revHash": "7f15519b4d"
+    }
+  },
+  "media-dupes": {
+    "faintColorOnWhite": "rgba(200, 60, 44, 0.1)",
+    "goodColorOnBlack": "#D4493A",
+    "goodColorOnWhite": "#C83C2C",
+    "palette": [
+      "#c43c2c",
+      "#c83c2c",
+      "#c83c2c",
+      "#c83c2c",
+      "#c83c2c"
+    ],
+    "source": {
+      "path": "apps/media-dupes/media-dupes-icon.png",
+      "revHash": "e3d7c56392"
     }
   },
   "media-mate": {
@@ -12813,6 +12845,22 @@
     "source": {
       "path": "apps/wayward/wayward-icon.png",
       "revHash": "c570fd67b9"
+    }
+  },
+  "wdos": {
+    "faintColorOnWhite": "rgba(20, 100, 220, 0.1)",
+    "goodColorOnBlack": "#DC8C14",
+    "goodColorOnWhite": "#1464DC",
+    "palette": [
+      "#1464dc",
+      "#dc8c14",
+      "#4478e0",
+      "#4478e0",
+      "#4478e0"
+    ],
+    "source": {
+      "path": "apps/wdos/wdos-icon.png",
+      "revHash": "166c293eaa"
     }
   },
   "weatherapp": {
