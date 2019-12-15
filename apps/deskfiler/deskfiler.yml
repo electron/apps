@@ -1,0 +1,16 @@
+name: Deskfiler
+description: 'Fast and easy development and deployment of JS apps.'
+website: 'https://www.deskfiler.org/'
+category: 'Developer Tools'
+repository: 'https://github.com/deskfiler/deskfiler'
+keywords:
+    - 'business apps'
+    - 'cross platform deployment'
+    - 'fast development'
+license: GPLv3
+screenshots:
+    -
+        imageUrl: 'https://www.deskfiler.org/img/gif/powerfulplugins.jpg'
+        caption: 'Add plugins for your daily tasks quickly'
+        imageLink: 'https://plugins.deskfiler.org/'
+
