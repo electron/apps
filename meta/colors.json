@@ -6223,6 +6223,22 @@
       "revHash": "7f15519b4d"
     }
   },
+  "media-dupes": {
+    "faintColorOnWhite": "rgba(200, 60, 44, 0.1)",
+    "goodColorOnBlack": "#D4493A",
+    "goodColorOnWhite": "#C83C2C",
+    "palette": [
+      "#c43c2c",
+      "#c83c2c",
+      "#c83c2c",
+      "#c83c2c",
+      "#c83c2c"
+    ],
+    "source": {
+      "path": "apps/media-dupes/media-dupes-icon.png",
+      "revHash": "e3d7c56392"
+    }
+  },
   "media-mate": {
     "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
     "goodColorOnBlack": "#FFF",
