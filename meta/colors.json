@@ -2543,6 +2543,22 @@
       "revHash": "d774dff487"
     }
   },
+  "deskfiler": {
+    "faintColorOnWhite": "rgba(12, 44, 76, 0.1)",
+    "goodColorOnBlack": "#7C8C9C",
+    "goodColorOnWhite": "#0C2C4C",
+    "palette": [
+      "#0c2c4c",
+      "#ecedee",
+      "#5f7086",
+      "#7c8c9c",
+      "#7c849c"
+    ],
+    "source": {
+      "path": "apps/deskfiler/deskfiler-icon.png",
+      "revHash": "2fd7a1d48d"
+    }
+  },
   "destroyer": {
     "faintColorOnWhite": "rgba(36, 28, 92, 0.1)",
     "goodColorOnBlack": "#8979E9",
