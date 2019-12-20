@@ -8015,6 +8015,22 @@
       "revHash": "8bca383a7c"
     }
   },
+  "pendulums": {
+    "faintColorOnWhite": "rgba(68, 68, 108, 0.1)",
+    "goodColorOnBlack": "#FAD273",
+    "goodColorOnWhite": "#44446C",
+    "palette": [
+      "#44446c",
+      "#fad273",
+      "#80736c",
+      "#9c8c74",
+      "#a48c70"
+    ],
+    "source": {
+      "path": "apps/pendulums/pendulums-icon.png",
+      "revHash": "1f2119a193"
+    }
+  },
   "pennywise": {
     "faintColorOnWhite": "rgba(30, 30, 30, 0.1)",
     "goodColorOnBlack": "#CF5823",
@@ -13152,19 +13168,19 @@
     }
   },
   "wire": {
-    "faintColorOnWhite": "rgba(8, 8, 8, 0.1)",
+    "faintColorOnWhite": "rgba(7, 7, 7, 0.1)",
     "goodColorOnBlack": "#F9F9F9",
-    "goodColorOnWhite": "#080808",
+    "goodColorOnWhite": "#070707",
     "palette": [
       "#f9f9f9",
-      "#080808",
-      "#7c7c7c",
+      "#070707",
       "#848484",
+      "#a7a7a7",
       "#949494"
     ],
     "source": {
       "path": "apps/wire/wire-icon.png",
-      "revHash": "9b991237a2"
+      "revHash": "7ae9a03d95"
     }
   },
   "wizard-mirror": {
