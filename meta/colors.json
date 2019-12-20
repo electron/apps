@@ -9935,6 +9935,22 @@
       "revHash": "841348018b"
     }
   },
+  "ses": {
+    "faintColorOnWhite": "rgba(12, 12, 12, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#0C0C0C",
+    "palette": [
+      "#0c0c0c",
+      "#fbfbfb",
+      "#a4a4a4",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/ses/ses-icon.png",
+      "revHash": "4cf0140241"
+    }
+  },
   "seton": {
     "faintColorOnWhite": "rgba(116, 4, 52, 0.1)",
     "goodColorOnBlack": "#BC7C94",
