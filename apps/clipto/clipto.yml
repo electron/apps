@@ -1,0 +1,62 @@
+name: Clipto
+description: 'Free, cross-platform, community driven Clipboard and Notes app with a focus on speed and productivity. Available for macOS, Windows, Linux and Android.'
+website: 'https://clipto.pro'
+repository: 'https://github.com/clipto-pro/Desktop'
+keywords:
+    - clipboard
+    - osx
+    - mac
+    - windows
+    - linux
+    - android
+    - utilities
+    - productivity
+    - 'clipboard manager'
+    - 'universal clipboard'
+category: Productivity
+locales:
+    - ar
+    - be
+    - ca
+    - de
+    - el
+    - en-US
+    - es
+    - fil
+    - fr
+    - hi
+    - it
+    - ja
+    - pt-BR
+    - ru
+    - sl
+    - tr
+    - uk
+    - vi
+    - zh-CN
+    - zh-TW
+screenshots:
+    -
+        imageUrl: 'https://github.com/clipto-pro/Desktop/blob/master/main_screen_fullscreen.png?raw=true'
+        caption: 'Fullscreen Mode'
+    -
+        imageUrl: 'https://github.com/clipto-pro/Desktop/blob/master/main_screen_compact_1.png?raw=true'
+        caption: 'Comfortable Mode'
+    -
+        imageUrl: 'https://github.com/clipto-pro/Desktop/blob/master/main_screen_compact_2.png?raw=true'
+        caption: 'Compact Mode'
+    -
+        imageUrl: 'https://github.com/clipto-pro/Desktop/blob/master/settings_account.png?raw=true'
+        caption: 'Configure Account, Clipboard Tracking, Universal Clipboard'
+    -
+        imageUrl: 'https://github.com/clipto-pro/Desktop/blob/master/settings_appearance.png?raw=true'
+        caption: 'Configure Appearance, Shortcut Keys'
+    -
+        imageUrl: 'https://github.com/clipto-pro/Desktop/blob/master/main_filtered.png?raw=true'
+        caption: 'Search and highlight results'
+    -
+        imageUrl: 'https://github.com/clipto-pro/Desktop/blob/master/clip_info.png?raw=true'
+        caption: 'View and edit note attributes'
+    -
+        imageUrl: 'https://github.com/clipto-pro/Desktop/blob/master/clip_attachments.png?raw=true'
+        caption: 'Add and preview attachments'
