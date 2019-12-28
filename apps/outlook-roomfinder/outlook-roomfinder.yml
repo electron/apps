@@ -1,0 +1,15 @@
+name: 'outlook-roomfinder'
+description: 'Find Meeting Rooms Automatically, Outlook Roomfinder.'
+website: 'https://medium.com/web-developer/automatic-meeting-room-finder-outlook-office-365-scheduling-assistant-1f23cf5b91aa'
+repository: 'https://github.com/kevincobain2000/outlook-roomfinder'
+keywords:
+    - outlook
+    - office365
+    - productivity
+    - meeting
+    - bots
+    - enterprise
+license: MIT
+category: Productivity
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/kevincobain2000/outlook-roomfinder/master/screens/screen-1.png'}
