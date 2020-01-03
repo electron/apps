@@ -3,7 +3,7 @@ const path = require('path')
 const fs = require('fs')
 const recursiveReadSync = require('recursive-readdir-sync')
 const imagemin = require('imagemin')
-const imageminPngquant = require('imagemin-pngquant')
+// const imageminPngquant = require('imagemin-pngquant')
 const icons = recursiveReadSync(path.join(__dirname, '../apps'))
   .filter(file => file.match(/icon\.png/))
 
