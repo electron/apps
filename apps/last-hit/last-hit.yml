@@ -12,9 +12,5 @@ keywords:
     - opensource
     - continuous integration
     - ci
-screenshots:
-    -
-      imageUrl: 'https://last-hit.com/assets/images/record-5.png'
-      caption: 'A sample flow'
 locales:
     - en-US
