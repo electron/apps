@@ -7,7 +7,6 @@ keywords:
   - mini
   - diary
   - journal
-  - journaling
   - text
   - editor
 license: MIT
@@ -18,11 +17,16 @@ screenshots:
     imageUrl: 'https://github.com/samuelmeuli/mini-diary/blob/master/website/img/screenshot-2.png'
   -
     imageUrl: 'https://github.com/samuelmeuli/mini-diary/blob/master/website/img/screenshot-3.png'
+  -
+    imageUrl: 'https://github.com/samuelmeuli/mini-diary/blob/master/website/img/screenshot-4.png'
 locales:
   - de
+  - el
   - en
   - es
   - fr
   - is
   - pt
   - tr
+  - uk
+  - zh
