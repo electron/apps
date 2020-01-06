@@ -6496,19 +6496,19 @@
     }
   },
   "mini-diary": {
-    "faintColorOnWhite": "rgba(52, 92, 132, 0.1)",
-    "goodColorOnBlack": "#5586BF",
-    "goodColorOnWhite": "#345C84",
+    "faintColorOnWhite": "rgba(49, 81, 118, 0.1)",
+    "goodColorOnBlack": "#4C7AAF",
+    "goodColorOnWhite": "#315176",
     "palette": [
-      "#5586bf",
-      "#b24e4e",
-      "#344860",
-      "#345475",
-      "#345c84"
+      "#4c7aaf",
+      "#d2d2d2",
+      "#999999",
+      "#315176",
+      "#94a4b9"
     ],
     "source": {
       "path": "apps/mini-diary/mini-diary-icon.png",
-      "revHash": "af711062e9"
+      "revHash": "9d20139605"
     }
   },
   "minimalist": {
@@ -12381,6 +12381,22 @@
     "source": {
       "path": "apps/unofficial-zalo/unofficial-zalo-icon.png",
       "revHash": "ba5d5c2fed"
+    }
+  },
+  "upcount": {
+    "faintColorOnWhite": "rgba(51, 60, 83, 0.1)",
+    "goodColorOnBlack": "#44DA8B",
+    "goodColorOnWhite": "#333C53",
+    "palette": [
+      "#333c53",
+      "#f7f9f8",
+      "#44da8b",
+      "#717985",
+      "#8c949c"
+    ],
+    "source": {
+      "path": "apps/upcount/upcount-icon.png",
+      "revHash": "c01a69934c"
     }
   },
   "updrive": {
