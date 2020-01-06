@@ -14,3 +14,5 @@ category: 'Photo & Video'
 screenshots:
     -
         imageUrl: 'https://raw.githubusercontent.com/picturama/picturama/master/doc/picturama-screenshot.jpg'
+goodColorOnWhite: '#37474f'
+goodColorOnBlack: '#ff5722'
