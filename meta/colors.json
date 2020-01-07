@@ -447,22 +447,6 @@
       "revHash": "7405f30b9d"
     }
   },
-  "ansel": {
-    "faintColorOnWhite": "rgba(85, 58, 125, 0.1)",
-    "goodColorOnBlack": "#E77B30",
-    "goodColorOnWhite": "#553A7D",
-    "palette": [
-      "#e77b30",
-      "#3f96b7",
-      "#60b92b",
-      "#553a7d",
-      "#9c7459"
-    ],
-    "source": {
-      "path": "apps/ansel/ansel-icon.png",
-      "revHash": "2d277dbead"
-    }
-  },
   "ao": {
     "faintColorOnWhite": "rgba(12, 118, 134, 0.1)",
     "goodColorOnBlack": "#15C8E3",
@@ -4751,6 +4735,22 @@
       "revHash": "6b017abc56"
     }
   },
+  "iconset": {
+    "faintColorOnWhite": "rgba(2, 120, 181, 0.1)",
+    "goodColorOnBlack": "#05A8FC",
+    "goodColorOnWhite": "#0278B5",
+    "palette": [
+      "#05a8fc",
+      "#fbfbfb",
+      "#fca004",
+      "#9de0fc",
+      "#fcd399"
+    ],
+    "source": {
+      "path": "apps/iconset/iconset-icon.png",
+      "revHash": "cb75a85894"
+    }
+  },
   "iease-music": {
     "faintColorOnWhite": "rgba(164, 42, 252, 0.1)",
     "goodColorOnBlack": "#B148FC",
@@ -8221,6 +8221,22 @@
     "source": {
       "path": "apps/picpipe/picpipe-icon.png",
       "revHash": "31d3e2652d"
+    }
+  },
+  "picturama": {
+    "faintColorOnWhite": "rgba(84, 56, 126, 0.1)",
+    "goodColorOnBlack": "#E67A2D",
+    "goodColorOnWhite": "#54387E",
+    "palette": [
+      "#e67a2d",
+      "#3f96b7",
+      "#5fb52b",
+      "#54387e",
+      "#899d68"
+    ],
+    "source": {
+      "path": "apps/picturama/picturama-icon.png",
+      "revHash": "0ea6413332"
     }
   },
   "pile": {
