@@ -2,7 +2,11 @@ name: Tern
 description: 'Translate Subtitle File.'
 website: 'https://tern.1c7.me/'
 category: Education
+youtube_video_url: 'https://www.youtube.com/watch?v=oaz5JZMWlSs'
 keywords:
     - translate
     - subtitle
     - caption
+    - video
+locales:
+  - zh-CN
