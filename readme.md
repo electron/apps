@@ -1,4 +1,4 @@
-# electron-apps [![Build Status](https://travis-ci.org/electron/apps.svg?branch=master)](https://travis-ci.org/electron/apps)
+# electron-apps ![CI Build Status](https://github.com/electron/apps/workflows/Continous%20Integration/badge.svg)
 
 A collection of apps built on Electron. [electronjs.org/apps](http://electronjs.org/apps).
 
