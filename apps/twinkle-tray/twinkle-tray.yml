@@ -1,0 +1,12 @@
+name: 'Twinkle Tray'
+description: 'Manage brightness of multiple monitors from the system tray'
+website: 'https://twinkletray.com/'
+category: Utilities
+repository: 'https://github.com/xanderfrangos/twinkle-tray'
+keywords:
+    - brightness
+    - monitor
+    - display
+    - ddc-ic
+    - windows
+    - brightness-control
