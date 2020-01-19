@@ -1,0 +1,21 @@
+name: Electron Resx Editor
+description: 'Edit .resx files with ease in any platform'
+website: 'https://github.com/ptornich/electron-resx-editor'
+repository: 'https://github.com/ptornich/electron-resx-editor'
+keywords:
+    - 'visual studio'
+    - resx
+    - .resx
+    - file
+    - editor
+    - mac
+    - 'developer tools'
+license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://github.com/ptornich/electron-resx-editor/blob/master/img/ss1.png'
+    -
+        imageUrl: 'https://github.com/ptornich/electron-resx-editor/blob/master/img/ss2.png'
+    -
+        imageUrl: 'https://github.com/ptornich/electron-resx-editor/blob/master/img/ss3.png'
