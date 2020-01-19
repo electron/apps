@@ -1,0 +1,26 @@
+name: 'Revolt'
+description: 'A simple, beautiful desktop timetable app to manage your school schedule.'
+category: Education
+website: 'https://github.com/natixco/revolt/'
+repository: 'https://github.com/natixco/revolt/'
+locales:
+    - en
+    - hu
+keywords:
+    - school
+    - timetable
+    - management
+    - time
+    - schedule
+    - learning
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/natixco/revolt/v1.0/src/screenshots/1.png'
+    caption: 'Screenshot 1'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/natixco/revolt/v1.0/src/screenshots/2.png'
+    caption: 'Screenshot 2'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/natixco/revolt/v1.0/src/screenshots/3.png'
+    caption: 'Screenshot 3'
+    
