@@ -8543,6 +8543,22 @@
       "revHash": "f6e2b63f75"
     }
   },
+  "polypane": {
+    "faintColorOnWhite": "rgba(19, 123, 119, 0.1)",
+    "goodColorOnBlack": "#1BABA5",
+    "goodColorOnWhite": "#137B77",
+    "palette": [
+      "#1baba5",
+      "#edf5f7",
+      "#7cc5c7",
+      "#96c4d9",
+      "#45cca4"
+    ],
+    "source": {
+      "path": "apps/polypane/polypane-icon.png",
+      "revHash": "5df5528946"
+    }
+  },
   "pomodoro-logger": {
     "faintColorOnWhite": "rgba(4, 105, 199, 0.1)",
     "goodColorOnBlack": "#FB1C44",
