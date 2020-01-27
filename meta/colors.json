@@ -5408,19 +5408,19 @@
     }
   },
   "keeper-password-manager-digital-vault": {
-    "faintColorOnWhite": "rgba(124, 100, 4, 0.1)",
-    "goodColorOnBlack": "#F2BD0A",
-    "goodColorOnWhite": "#7C6404",
+    "faintColorOnWhite": "rgba(132, 100, 4, 0.1)",
+    "goodColorOnBlack": "#F9C204",
+    "goodColorOnWhite": "#846404",
     "palette": [
-      "#f2bd0a",
-      "#242421",
-      "#aaa9a6",
-      "#747474",
+      "#f9c204",
+      "#040404",
+      "#504004",
+      "#846404",
       "#7c6404"
     ],
     "source": {
       "path": "apps/keeper-password-manager-digital-vault/keeper-password-manager-digital-vault-icon.png",
-      "revHash": "4bf24a2e76"
+      "revHash": "38ac0cff7e"
     }
   },
   "keeweb": {
@@ -6141,6 +6141,22 @@
     "source": {
       "path": "apps/marp/marp-icon.png",
       "revHash": "c6df8b70b0"
+    }
+  },
+  "masscode": {
+    "faintColorOnWhite": "rgba(9, 115, 193, 0.1)",
+    "goodColorOnBlack": "#80C6F9",
+    "goodColorOnWhite": "#0973C1",
+    "palette": [
+      "#1182e9",
+      "#fbfbfb",
+      "#68aff1",
+      "#80c6f9",
+      "#8cbcf4"
+    ],
+    "source": {
+      "path": "apps/masscode/masscode-icon.png",
+      "revHash": "fdf8516d40"
     }
   },
   "matrix-writer": {
@@ -8525,6 +8541,22 @@
     "source": {
       "path": "apps/polar/polar-icon.png",
       "revHash": "f6e2b63f75"
+    }
+  },
+  "polypane": {
+    "faintColorOnWhite": "rgba(19, 123, 119, 0.1)",
+    "goodColorOnBlack": "#1BABA5",
+    "goodColorOnWhite": "#137B77",
+    "palette": [
+      "#1baba5",
+      "#edf5f7",
+      "#7cc5c7",
+      "#96c4d9",
+      "#45cca4"
+    ],
+    "source": {
+      "path": "apps/polypane/polypane-icon.png",
+      "revHash": "5df5528946"
     }
   },
   "pomodoro-logger": {
@@ -12239,6 +12271,22 @@
       "revHash": "4fdf61cd12"
     }
   },
+  "twinkle-tray": {
+    "faintColorOnWhite": "rgba(28, 5, 44, 0.1)",
+    "goodColorOnBlack": "#DA9AF9",
+    "goodColorOnWhite": "#1C052C",
+    "palette": [
+      "#1c052c",
+      "#da9af9",
+      "#84559e",
+      "#8c5da4",
+      "#7c5494"
+    ],
+    "source": {
+      "path": "apps/twinkle-tray/twinkle-tray-icon.png",
+      "revHash": "2098e3f9e1"
+    }
+  },
   "twitch": {
     "faintColorOnWhite": "rgba(57, 37, 90, 0.1)",
     "goodColorOnBlack": "#9C8BC4",
@@ -13040,19 +13088,19 @@
     }
   },
   "weighthub": {
-    "faintColorOnWhite": "rgba(42, 107, 156, 0.1)",
-    "goodColorOnBlack": "#2C8CD4",
-    "goodColorOnWhite": "#2A6B9C",
+    "faintColorOnWhite": "rgba(43, 108, 157, 0.1)",
+    "goodColorOnBlack": "#2E8CD4",
+    "goodColorOnWhite": "#2B6C9D",
     "palette": [
-      "#2a6b9c",
-      "#fbfbfb",
+      "#2b6c9d",
+      "#f5f7f9",
       "#233644",
-      "#2c8cd4",
-      "#92b8d4"
+      "#2e8cd4",
+      "#92b6ce"
     ],
     "source": {
       "path": "apps/weighthub/weighthub-icon.png",
-      "revHash": "f58f801322"
+      "revHash": "b6aad71df1"
     }
   },
   "wewe-chat": {
