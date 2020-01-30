@@ -14,13 +14,13 @@ keywords:
   - cross-platform
   - windows
 screenshots:
-  - imageUrl: "https://github.com/mdyna/mdyna.github.io/blob/master/screenshots/dark-theme.png"
+  - imageUrl: "https://raw.githubusercontent.com/mdyna/mdyna.github.io/master/screenshots/white-theme.png"
     caption: "MDyna"
-  - imageUrl: "https://github.com/mdyna/mdyna.github.io/blob/master/screenshots/editor.png"
+  - imageUrl: "https://raw.githubusercontent.com/mdyna/mdyna.github.io/master/screenshots/dark-theme.png"
+    caption: "Dark Theme"
+  - imageUrl: "https://raw.githubusercontent.com/mdyna/mdyna.github.io/master/screenshots/editor.png"
     caption: "Editor"
-  - imageUrl: "https://github.com/mdyna/mdyna.github.io/blob/master/screenshots/focus.png"
+  - imageUrl: "https://raw.githubusercontent.com/mdyna/mdyna.github.io/master/screenshots/focus.png"
     caption: "Focus"
-  - imageUrl: "https://github.com/mdyna/mdyna.github.io/blob/master/screenshots/menus.png"
+  - imageUrl: "https://raw.githubusercontent.com/mdyna/mdyna.github.io/master/screenshots/menus.png"
     caption: "Boards"
-  - imageUrl: "https://github.com/mdyna/mdyna.github.io/blob/master/screenshots/white-theme.png"
-    caption: "White Theme"
