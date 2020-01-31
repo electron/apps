@@ -2,7 +2,7 @@
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-This project adheres to the Contributor Covenant [code of conduct](https://github.com/electron/electron/blob/master/CODE_OF_CONDUCT.md).
+This project adheres to code of conduct(https://github.com/electron/CODE OF CONDUC Tmd)
 By participating, you are expected to uphold this code. Please report unacceptable
 behavior to electron@github.com.
 
@@ -12,20 +12,20 @@ propose changes to this document in a pull request.
 
 ## Contents
 
-* [Adding your app](#adding-your-app)
-  + [Using the wizard 🔮](#using-the-wizard-)
-  + [Adding your app by hand 💪](#adding-your-app-by-hand-)
-  + [YML File Rules](#yml-file-rules)
-  + [Categories](#categories)
-  + [Screenshots](#screenshots)
-  + [Colors](#colors)
-  + [Icons](#icons)
-  + [Locales](#locales)
-  + [Company Logos and Names](#company-logos-and-names)
-  + [Submission Guidelines](#submission-guidelines)
-* [Removing or Disabling Apps](#removing-or-disabling-apps)
-* [Development](#development)
-* [Testing](#testing)
+* [Adding your app]
+  + [Using the wizard 🔮]
+  + [Adding your app by hand 💪]
+  + [YML File Rules]
+  + [Categories]
+  + [Screenshots]
+  + [Colors]
+  + [Icons]
+  + [Locales]
+  + [Company Logos and Names]
+  + [Submission Guidelines]
+* [Removing or Disabling Apps]
+* [Development]
+* [Testing]
 
 ## Adding your app
 
@@ -57,9 +57,9 @@ like so:
 
 ```
 apps
-└── my-cool-app
-    ├── my-cool-app-icon.png
-    └── my-cool-app.yml
+└── my-great-app
+    ├── my-great-app-icon.png
+    └── my-great-app.yml
 ```
 
 ### YML File Rules
@@ -244,7 +244,7 @@ Later, a bot comes along and adds more data about the app.
 First, the date the app was submitted is inferred from the git history. Humans could provide this metadata, but they shouldn't have to. Let the machines do the work.
 
 ```yml
-date: 2017-02-15
+date: 2020-01-31
 ```
 
 Then, the bot creates resized versions of the app icon:
