@@ -6255,6 +6255,22 @@
       "revHash": "7f15519b4d"
     }
   },
+  "mdyna": {
+    "faintColorOnWhite": "rgba(28, 124, 108, 0.1)",
+    "goodColorOnBlack": "#1CE3B3",
+    "goodColorOnWhite": "#1C7C6C",
+    "palette": [
+      "#1ce3b3",
+      "#14151d",
+      "#1c7c6c",
+      "#1c997a",
+      "#1c7464"
+    ],
+    "source": {
+      "path": "apps/mdyna/mdyna-icon.png",
+      "revHash": "53d33bdd08"
+    }
+  },
   "media-dupes": {
     "faintColorOnWhite": "rgba(200, 60, 44, 0.1)",
     "goodColorOnBlack": "#D4493A",
@@ -6381,6 +6397,22 @@
     "source": {
       "path": "apps/metrogit/metrogit-icon.png",
       "revHash": "f5e7ea9ee0"
+    }
+  },
+  "metronome": {
+    "faintColorOnWhite": "rgba(31, 39, 40, 0.1)",
+    "goodColorOnBlack": "#8C9494",
+    "goodColorOnWhite": "#1F2728",
+    "palette": [
+      "#1f2728",
+      "#fafafa",
+      "#8c9494",
+      "#707575",
+      "#848c8c"
+    ],
+    "source": {
+      "path": "apps/metronome/metronome-icon.png",
+      "revHash": "9794e6176e"
     }
   },
   "metronome-wallet": {
@@ -12877,6 +12909,22 @@
     "source": {
       "path": "apps/wallapatta/wallapatta-icon.png",
       "revHash": "40b8895ddb"
+    }
+  },
+  "walling": {
+    "faintColorOnWhite": "rgba(51, 51, 51, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#333",
+    "palette": [
+      "#333333",
+      "#fbfbfb",
+      "#b0b0b0",
+      "#8c8c8c",
+      "#949494"
+    ],
+    "source": {
+      "path": "apps/walling/walling-icon.png",
+      "revHash": "4e95d094b5"
     }
   },
   "wallpaperviewer": {
