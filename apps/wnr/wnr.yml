@@ -13,12 +13,17 @@ keywords:
     - minimalist
     - basic
     - efficiency
-license: MIT
+license: MPL2.0
 category: Productivity
 screenshots:
   -    
     imageUrl: 'https://i.loli.net/2020/01/22/Olf428NdWuyzw1h.png'
     caption: 'Preview 1'
+    imageLink: 'https://wnr.scris.top/guide/1-basic-usage.html'
   -
     imageUrl: 'https://i.loli.net/2020/01/22/yPwNA1rGsXtu6ph.png'
     caption: 'Preview 2'
+    imageLink: 'https://wnr.scris.top/guide/1-basic-usage.html'
+locales:
+    - en
+    - zh-CN
