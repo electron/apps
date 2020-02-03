@@ -1,0 +1,24 @@
+name: Metronome
+description: 'Highly perfomant, easy to use, minimalistic digital metronome desktop app.'
+website: 'https://afractal.github.io/metronome-app'
+category: Music
+keywords:
+    - metronome
+    - timer
+    - practice
+license: Proprietary
+
+screenshots:
+  -
+    imageUrl: 'https://afractal.github.io/metronome-app/images/screenshot_1.png'
+    imageLink: 'https://afractal.github.io/metronome-app/'
+  -
+    imageUrl: 'https://afractal.github.io/metronome-app/images/screenshot_2.png'
+    imageLink: 'https://afractal.github.io/metronome-app/'
+  -
+    imageUrl: 'https://afractal.github.io/metronome-app/images/screenshot_3.png'
+    imageLink: 'https://afractal.github.io/metronome-app/'
+    
+goodColorOnWhite: '#343e40'
+goodColorOnBlack: '#fafbfc'
+faintColorOnWhite: 'rgba(138, 43, 226, 0.6)'
