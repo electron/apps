@@ -1,0 +1,11 @@
+name: Moviecast
+description: 'Streaming movies and shows has never been easier!'
+website: 'https://Moviecast.io'
+category: Entertainment
+keywords:
+    - movies
+license: MIT
+
+screenshots:
+    imageUrl: 'https://korbsstudio.com/mv/src/moviecast.png'
+   
