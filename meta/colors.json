@@ -11567,6 +11567,22 @@
       "revHash": "602c0eaf2b"
     }
   },
+  "texturelab": {
+    "faintColorOnWhite": "rgba(72, 12, 136, 0.1)",
+    "goodColorOnBlack": "#C4FF84",
+    "goodColorOnWhite": "#480C88",
+    "palette": [
+      "#fcfcfc",
+      "#0c0c0c",
+      "#141414",
+      "#c4ff84",
+      "#480c88"
+    ],
+    "source": {
+      "path": "apps/texturelab/texturelab-icon.png",
+      "revHash": "3e1532eed6"
+    }
+  },
   "the-poker-timer": {
     "faintColorOnWhite": "rgba(203, 29, 9, 0.1)",
     "goodColorOnBlack": "#F75136",
