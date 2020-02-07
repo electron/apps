@@ -1,5 +1,5 @@
 name: 'HashTag'
-description: 'This app can convert strings into its hash equivalent using different algorithm. It cas also verify if a hash correspond to a text'
+description: 'This app can convert strings into its hash equivalent using different algorithms. It can also verify if a hash corresponds to a text'
 website: 'https://github.com/MrAnyx/HashTag/releases'
 repository: 'https://github.com/MrAnyx/HashTag'
 keywords: 
