@@ -8736,19 +8736,19 @@
     }
   },
   "pragli": {
-    "faintColorOnWhite": "rgba(124, 100, 36, 0.1)",
-    "goodColorOnBlack": "#FBD343",
-    "goodColorOnWhite": "#7C6424",
+    "faintColorOnWhite": "rgba(60, 60, 59, 0.1)",
+    "goodColorOnBlack": "#F2B743",
+    "goodColorOnWhite": "#3C3C3B",
     "palette": [
-      "#fbd343",
-      "#060504",
-      "#9a8029",
-      "#7c6424",
-      "#bc9c34"
+      "#f2b743",
+      "#3c3c3b",
+      "#a7863c",
+      "#94743c",
+      "#c6943c"
     ],
     "source": {
       "path": "apps/pragli/pragli-icon.png",
-      "revHash": "36781fc420"
+      "revHash": "018564891f"
     }
   },
   "premid": {
@@ -9981,6 +9981,22 @@
     "source": {
       "path": "apps/sencha-themer/sencha-themer-icon.png",
       "revHash": "29c2de30b7"
+    }
+  },
+  "serene-app": {
+    "faintColorOnWhite": "rgba(160, 97, 5, 0.1)",
+    "goodColorOnBlack": "#FBC980",
+    "goodColorOnWhite": "#A06105",
+    "palette": [
+      "#f49f78",
+      "#fcfbfb",
+      "#fbc980",
+      "#ec7973",
+      "#fcd2c7"
+    ],
+    "source": {
+      "path": "apps/serene-app/serene-app-icon.png",
+      "revHash": "ee7e626a35"
     }
   },
   "serina": {
@@ -13344,19 +13360,19 @@
     }
   },
   "wnr": {
-    "faintColorOnWhite": "rgba(61, 104, 237, 0.1)",
-    "goodColorOnBlack": "#5C80F0",
-    "goodColorOnWhite": "#3D68ED",
+    "faintColorOnWhite": "rgba(230, 31, 31, 0.1)",
+    "goodColorOnBlack": "#EC5454",
+    "goodColorOnWhite": "#E61F1F",
     "palette": [
-      "#5493ec",
-      "#e95456",
-      "#a1b9e4",
-      "#ec9696",
-      "#5c80f0"
+      "#ec5454",
+      "#5494ec",
+      "#fcfcfc",
+      "#efeff4",
+      "#6c9cec"
     ],
     "source": {
       "path": "apps/wnr/wnr-icon.png",
-      "revHash": "e952b25940"
+      "revHash": "cbad882bc6"
     }
   },
   "wonder-reader": {
@@ -13568,19 +13584,19 @@
     }
   },
   "xuanxuan": {
-    "faintColorOnWhite": "rgba(230, 4, 83, 0.1)",
-    "goodColorOnBlack": "#FC4484",
-    "goodColorOnWhite": "#E60453",
+    "faintColorOnWhite": "rgba(225, 9, 85, 0.1)",
+    "goodColorOnBlack": "#F96A9C",
+    "goodColorOnWhite": "#E10955",
     "palette": [
-      "#fcfafa",
-      "#fc4484",
-      "#fc9cbc",
-      "#fc80ab",
-      "#fc6ca4"
+      "#f43c7b",
+      "#fbfbfb",
+      "#f786ac",
+      "#f89cbc",
+      "#f96a9c"
     ],
     "source": {
       "path": "apps/xuanxuan/xuanxuan-icon.png",
-      "revHash": "6d8f363831"
+      "revHash": "d524a61af0"
     }
   },
   "y2mp3": {
