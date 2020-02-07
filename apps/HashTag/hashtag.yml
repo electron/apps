@@ -1,0 +1,15 @@
+name: 'HashTag'
+description: 'This app can convert strings into its hash equivalent using different algorithm. It cas also verify if a hash correspond to a text'
+website: 'https://github.com/MrAnyx/HashTag/releases'
+repository: 'https://github.com/MrAnyx/HashTag'
+keywords: 
+  - productivity
+  - security
+  - hash
+  - development
+ category: 'Productivity'
+ screenshots:
+  - imageUrl: 'https://i.ibb.co/MNb0Hcf/Capture.png'
+  - imageUrl: 'https://i.ibb.co/64M5Xj1/Capture2.png'
+  - imageUrl: 'https://i.ibb.co/GF9WffS/Capture3.png'
+  
