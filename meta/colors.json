@@ -13584,19 +13584,19 @@
     }
   },
   "xuanxuan": {
-    "faintColorOnWhite": "rgba(230, 4, 83, 0.1)",
-    "goodColorOnBlack": "#FC4484",
-    "goodColorOnWhite": "#E60453",
+    "faintColorOnWhite": "rgba(225, 9, 85, 0.1)",
+    "goodColorOnBlack": "#F96A9C",
+    "goodColorOnWhite": "#E10955",
     "palette": [
-      "#fcfafa",
-      "#fc4484",
-      "#fc9cbc",
-      "#fc80ab",
-      "#fc6ca4"
+      "#f43c7b",
+      "#fbfbfb",
+      "#f786ac",
+      "#f89cbc",
+      "#f96a9c"
     ],
     "source": {
       "path": "apps/xuanxuan/xuanxuan-icon.png",
-      "revHash": "6d8f363831"
+      "revHash": "d524a61af0"
     }
   },
   "y2mp3": {
