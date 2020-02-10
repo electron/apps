@@ -1,0 +1,27 @@
+name: 'Tabby'
+description: 'Simple, beautiful desktop timetable app to manage your school schedule.'
+category: Education
+website: 'https://github.com/natixco/tabby'
+repository: 'https://github.com/natixco/tabby'
+locales:
+    - en
+    - hu
+    - de
+    - es-AR
+keywords:
+    - school
+    - timetable
+    - management
+    - time
+    - schedule
+    - learning
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/natixco/tabby/master/src/screenshots/1.png'
+    caption: 'Screenshot 1'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/natixco/tabby/master/src/screenshots/2.png'
+    caption: 'Screenshot 2'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/natixco/tabby/master/src/screenshots/3.png'
+    caption: 'Screenshot 3'
