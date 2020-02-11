@@ -11311,6 +11311,22 @@
       "revHash": "45bacc8d44"
     }
   },
+  "tabby": {
+    "faintColorOnWhite": "rgba(4, 100, 252, 0.1)",
+    "goodColorOnBlack": "#5498FC",
+    "goodColorOnWhite": "#0464FC",
+    "palette": [
+      "#0464fc",
+      "#f9fafc",
+      "#3b3c54",
+      "#74acfc",
+      "#5498fc"
+    ],
+    "source": {
+      "path": "apps/tabby/tabby-icon.png",
+      "revHash": "210dca90e7"
+    }
+  },
   "tagflow": {
     "faintColorOnWhite": "rgba(62, 120, 162, 0.1)",
     "goodColorOnBlack": "#A4C4DC",
