@@ -1,0 +1,34 @@
+name: Singlebox
+description: 'All Your Apps in One Single Window.'
+website: 'https://singleboxapp.com/'
+repository: 'https://github.com/quanglam2807/singlebox'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/singlebox/1fac7b931a4bb44046d882f4fea4df2a0cd94676/docs/images/demos/main.png'
+        caption: 'Singlebox'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/singlebox/1fac7b931a4bb44046d882f4fea4df2a0cd94676/docs/images/demos/single-window.png'
+        caption: 'Single Window - Switch between multiple apps quickly.'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/singlebox/1fac7b931a4bb44046d882f4fea4df2a0cd94676/docs/images/demos/catalog.png'
+        caption: 'Catalog - Add apps quickly from our curated catalog.'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/singlebox/1fac7b931a4bb44046d882f4fea4df2a0cd94676/docs/images/demos/custom-apps.png'
+        caption: 'Custom Apps - Create apps easily from any websites.'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/singlebox/1fac7b931a4bb44046d882f4fea4df2a0cd94676/docs/images/demos/notifications.png'
+        caption: 'Notifications - Control notifications with scheduling.'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/singlebox/1fac7b931a4bb44046d882f4fea4df2a0cd94676/docs/images/demos/email-client.png'
+        caption: 'Email Client - The same email apps you love, but better!'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/singlebox/1fac7b931a4bb44046d882f4fea4df2a0cd94676/docs/images/demos/customization.png'
+        caption: 'Customization - Make yourself at home!'
+keywords:
+    - 'single window'
+    - 'email client'
+    - messaging
+    - chat
+    - browser
+    - productivity
+category: Productivity
