@@ -1,10 +1,23 @@
 name: ProtoPie
-description: 'Code-free prototyping tool for smart devices'
+description: 'Interactive prototyping tool for all digital products'
 website: 'https://protopie.io/'
 keywords:
     - Prototyping
-    - Microinteraction
-    - Code-free
-    - 'Prototyping Tool'
-    - 'Designers tool'
-category: 'Developer Tools'
+    - Microinteractions
+    - Interaction Design
+    - Prototyping Tool
+    - UX Design
+    - Product Design
+category: 'Graphics & Design'
+youtube_video_url: 'https://youtu.be/cW9mubocOTA'
+screenshots:
+    -
+      imageUrl: 'https://www.protopie.io/public/assets/image/main-page/hero/studio.png'
+      caption: 'ProtoPie Screenshot 1'
+      imageLink: 'https://protopie.io'
+    -
+      imageUrl: 'https://images.ctfassets.net/ooa29xqb8tix/6WhTCoURmHYBSmj1LCtAJJ/722cfa060b08eebcaa4e624b5c76f36a/Untitled.png'
+      caption: 'ProtoPie Screenshot 2'
+      imageLink: 'https://protoopie.io'
+ goodColorOnWhite: #FF6661
+ 
