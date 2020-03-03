@@ -3,7 +3,7 @@ const path = require('path')
 const fs = require('fs')
 const recursiveReadSync = require('recursive-readdir-sync')
 const imagemin = require('imagemin')
-// const imageminPngquant = require('imagemin-pngquant')
+const imageminPngquant = require('imagemin-pngquant')
 const icons = recursiveReadSync(path.join(__dirname, '../apps'))
   .filter(file => file.match(/icon\.png/))
 
@@ -21,16 +21,7 @@ function resize (file, size) {
     .resize(size, size, { fit: 'inside' })
     .toFormat('png')
     .toBuffer()
-    .then(buf => imagemin.buffer(buf))
-    /* FIXME: Disabled due to this error 🤔.
-          TypeError: Cannot read property 'end' of undefined
-          at handleInput (/home/runner/work/apps/apps/node_modules/execa/index.js:87:17)
-          at module.exports (/home/runner/work/apps/apps/node_modules/execa/index.js:310:2)
-          at input (/home/runner/work/apps/apps/node_modules/imagemin-pngquant/index.js:57:21)
-          at Function.module.exports.buffer (/home/runner/work/apps/apps/node_modules/imagemin/index.js:71:31)
-          at sharp.resize.toFormat.toBuffer.then.buf (/home/runner/work/apps/apps/script/resize.js:24:27)
     .then(buf => imagemin.buffer(buf, { use: [ imageminPngquant() ] }))
-    */
     .then(buf => fs.writeFileSync(newFile, buf))
 }
 
