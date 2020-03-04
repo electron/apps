@@ -943,22 +943,6 @@
       "revHash": "8e449a37b6"
     }
   },
-  "brave-browser": {
-    "faintColorOnWhite": "rgba(212, 37, 4, 0.1)",
-    "goodColorOnBlack": "#EC2904",
-    "goodColorOnWhite": "#D42504",
-    "palette": [
-      "#fbfaf9",
-      "#f36831",
-      "#fbb534",
-      "#ec2904",
-      "#f49a83"
-    ],
-    "source": {
-      "path": "apps/brave-browser/brave-browser-icon.png",
-      "revHash": "731501b377"
-    }
-  },
   "browser-dispatcher": {
     "faintColorOnWhite": "rgba(51, 72, 80, 0.1)",
     "goodColorOnBlack": "#2689AD",
