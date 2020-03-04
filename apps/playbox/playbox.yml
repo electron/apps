@@ -12,3 +12,4 @@ screenshots:
   -
     imageUrl: 'https://raw.githubusercontent.com/wiki/cjdenio/playbox/img/playbox-1.jpg'
     caption: 'The Playbox interface'
+disabled: true # Playbox is currently being rewritted, and the current version is deprecated.
