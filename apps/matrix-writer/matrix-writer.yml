@@ -9,3 +9,20 @@ keywords:
     - wordpress
     - metaweblog
 category: Productivity
+screenshots:
+-
+ imageUrl: 'http://www.matrixrepublic.com/contents/Images/cent%20os/welcome-centos.png'
+ caption: 'Home'
+ imageLink: 'http://www.matrixrepublic.com/contents/Images/cent%20os/welcome-centos.png'
+- 
+ imageUrl: 'http://www.matrixrepublic.com/contents/Images/cent%20os/options-centos.png'
+ caption: 'Options'
+ imageLink: 'http://www.matrixrepublic.com/contents/Images/cent%20os/options-centos.png'
+- 
+ imageUrl: 'http://www.matrixrepublic.com/contents/Images/cent%20os/editor-centos.png'
+ caption: 'Post editor'
+ imageLink: 'http://www.matrixrepublic.com/contents/Images/cent%20os/editor-centos.png'
+- 
+ imageUrl: 'http://www.matrixrepublic.com/contents/Images/cent%20os/add-account-centos.png'
+ caption: 'Connect to blog account'
+ imageLink: 'http://www.matrixrepublic.com/contents/Images/cent%20os/add-account-centos.png'
