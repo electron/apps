@@ -6,7 +6,7 @@
   },
   {
     "name": "Developer Tools",
-    "count": 189,
+    "count": 190,
     "slug": "developer-tools"
   },
   {
@@ -85,14 +85,14 @@
     "slug": "health-fitness"
   },
   {
-    "name": "Travel",
-    "count": 1,
-    "slug": "travel"
-  },
-  {
     "name": "Food & Drink",
     "count": 1,
     "slug": "food-drink"
+  },
+  {
+    "name": "Travel",
+    "count": 1,
+    "slug": "travel"
   },
   {
     "name": "Sports",

@@ -4991,6 +4991,22 @@
       "revHash": "4220fd3499"
     }
   },
+  "ioui": {
+    "faintColorOnWhite": "rgba(6, 58, 117, 0.1)",
+    "goodColorOnBlack": "#9CAFC8",
+    "goodColorOnWhite": "#063A75",
+    "palette": [
+      "#063a75",
+      "#fbfbfb",
+      "#9cafc8",
+      "#7c8cb4",
+      "#7c94b4"
+    ],
+    "source": {
+      "path": "apps/ioui/ioui-icon.png",
+      "revHash": "962ad148b0"
+    }
+  },
   "iperius-console": {
     "faintColorOnWhite": "rgba(4, 123, 161, 0.1)",
     "goodColorOnBlack": "#06A7DA",
