@@ -8,20 +8,22 @@ keywords:
     - google blog
     - wordpress
     - metaweblog
+    - insert images from onedrive
+    - insert images from google drive
 screenshots:
     -
-        imageUrl: 'https://doc-00-4g-docs.googleusercontent.com/docs/securesc/unae8n4kg5j8rg3pcq7bjagqc78mih3k/rm71tj0as4q3m1a3uheq3sc7khrvov6i/1583889225000/10002688109225581529/10002688109225581529/1IS4jUcf0Dh8xaZ-S2NDXY6VMq5vyZ6lE?e=view&authuser=0&nonce=fo3lo44utuvgk&user=10002688109225581529&hash=ppoaf6r7oiukdh08fom4bprh8tenod4s'
-        caption: 'Writer Welcome'
+        imageUrl: 'https://raw.githubusercontent.com/AndrewLang/writer/master/screenshots/0x0ss-P3.jpg'
+        caption: 'Writer Welcome on MacOS'
         imageLink: ''   
     -
-        imageUrl: 'https://doc-0k-4g-docs.googleusercontent.com/docs/securesc/unae8n4kg5j8rg3pcq7bjagqc78mih3k/t1v7hoq9ec1v604v8dce676o6hiuj4ou/1583889600000/10002688109225581529/10002688109225581529/0B04dfqtLFQ-9SEpzQVZrZmNlSDQ?e=view&authuser=0&nonce=qc8i59vimacv4&user=10002688109225581529&hash=2hbhfj6p8rik760ojoccic76luhk0ov5'
-        caption: 'Writer Welcome'
+        imageUrl: 'https://raw.githubusercontent.com/AndrewLang/writer/master/screenshots/writer-v14.png'
+        caption: 'Writer Welcome on Windows'
         imageLink: '' 
     -
-        imageUrl: 'https://doc-0s-4g-docs.googleusercontent.com/docs/securesc/unae8n4kg5j8rg3pcq7bjagqc78mih3k/v31cuv93l4s4nhfc09p6k6lavqiht5vr/1583889675000/10002688109225581529/10002688109225581529/1anKd2cyfVLro4jq1in76sbNxvXhiFShj?e=view&authuser=0'
-        caption: 'Writer Welcome'
+        imageUrl: 'https://raw.githubusercontent.com/AndrewLang/writer/master/screenshots/ubuntu-editor.png'
+        caption: 'Writer editor on ubuntu'
         imageLink: ''
     -
-        imageUrl: 'https://doc-0k-4g-docs.googleusercontent.com/docs/securesc/unae8n4kg5j8rg3pcq7bjagqc78mih3k/o7ubf9v86pv33ujss9jsla5iol0clbnb/1583889750000/10002688109225581529/10002688109225581529/1f0n7pq0sLlmOJpjo3TSwUOqU42rzfE9K?e=view&authuser=0'
-        caption: 'Writer Welcome'
+        imageUrl: 'https://raw.githubusercontent.com/AndrewLang/writer/master/screenshots/editor-centos.png'
+        caption: 'Writer editor on CentOS'
         imageLink: ''
