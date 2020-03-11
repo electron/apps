@@ -1,0 +1,17 @@
+name: Hoster
+description: 'Hosts configuration tools'
+website: 'https://houfeng.net/hoster'
+locales:
+    - zh-cn
+keywords:
+    - hosts
+    - hoster
+    - host
+    - switch
+    - manage
+    - development
+    - hostnames
+    - ip
+    - address
+    - dns
+category: 'Developer Tools'

@@ -1,3 +1,6 @@
 name: 'Turbo Download Manager'
 description: 'An open-source multi-threading download manager'
-website: 'http://add0n.com/turbo-download-manager.html'
+website: 'https://add0n.com/turbo-download-manager.html'
+keywords:
+    - manager
+category: Utilities

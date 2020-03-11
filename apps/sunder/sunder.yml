@@ -1,0 +1,8 @@
+name: Sunder
+description: "A user-friendly graphical interface for Shamir's Secret Sharing."
+website: 'https://sunder.readthedocs.io/en/latest/'
+repository: 'https://github.com/freedomofpress/sunder'
+keywords:
+    - Cryptography
+    - Secret sharing
+category: 'Utilities'

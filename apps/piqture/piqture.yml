@@ -1,0 +1,17 @@
+name: PiQture
+description: 'Screenshot tool'
+website: 'https://ivan770.github.io/PiQture/'
+repository: 'https://github.com/ivan770/PiQture'
+category: 'Productivity'
+license: 'MIT'
+keywords:
+    - screenshots
+    - screenshot
+    - picture
+    - photo
+    - bigquery
+    - png
+    - 'productivity'
+screenshots:
+    -
+        imageUrl: 'https://ivan770.github.io/PiQture/screenshots/screen_1.png'

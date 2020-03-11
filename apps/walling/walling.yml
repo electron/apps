@@ -1,0 +1,27 @@
+name: Walling
+description: 'Organize and refine ideas visually.'
+website: 'https://walling.app'
+category: Productivity
+keywords:
+    - notes
+    - ideas
+    - tasks
+    - kanban
+    - organize
+    - research
+    - collaboration
+    - board
+    - braindump
+    - brainstorm
+    - plan
+youtube_video_url: 'https://www.youtube.com/watch?v=bu38GeuLmNA'
+screenshots:
+    -
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/wallingapp.appspot.com/o/misc%2Felectron1.png?alt=media'
+        caption: 'Organize & refine your ideas'
+    -
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/wallingapp.appspot.com/o/misc%2Felectron2.png?alt=media'
+        caption: 'Brain dump with ease!'
+    -
+        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/wallingapp.appspot.com/o/misc%2Felectron3.jpg?alt=media'
+        caption: 'Light or dark, your choice'

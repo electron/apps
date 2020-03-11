@@ -1,0 +1,10 @@
+name: ZenFocus
+description: 'Time Management Tool Based Off the Pomodoro Technique'
+website: 'https://zenfocus.surge.sh/'
+repository: 'https://github.com/builtwithluv/ZenFocus'
+keywords:
+    - Time
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://camo.githubusercontent.com/40bffc62a6b002dc783819e390291a1d92316491/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6c63386271666c797a2f696d6167652f75706c6f61642f76313439383433363333332f5a656e466f6375732f64656d6f2e706e67'

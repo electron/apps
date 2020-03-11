@@ -1,0 +1,12 @@
+name: Crypto-Bot
+description: 'Encrypt and decrypt your messages'
+website: 'https://github.com/Voyager-One/crypto-bot'
+category: Utilities
+repository: 'https://github.com/Voyager-One/crypto-bot'
+keywords:
+    - tool
+    - encryption
+    - decryption
+license: MIT
+locales:
+  - zh-CN

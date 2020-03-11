@@ -1,3 +1,10 @@
 name: Batcave
 description: 'A dark-themed chat app'
 website: 'https://github.com/hsbalar/batcave'
+keywords:
+    - chat
+category: 'Social Networking'
+repository: 'https://github.com/hsbalar/batcave'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/hsbalar/batcave/master/public/images/screen.png'

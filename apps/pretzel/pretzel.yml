@@ -1,0 +1,15 @@
+name: Pretzel
+description: 'A menubar app that shows keyboard shortcuts based on your current app.'
+website: 'https://www.amie-chen.com/pretzel'
+category: Productivity
+repository: 'https://github.com/amiechen/pretzel'
+keywords:
+    - Shortcuts
+    - shortcut
+    - keyboard
+    - productivity
+    - process
+    - menubar
+    - desktop
+    - pretzel
+license: MIT

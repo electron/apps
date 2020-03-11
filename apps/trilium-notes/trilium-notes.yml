@@ -1,0 +1,17 @@
+name: 'Trilium Notes'
+description: 'Hierarchical note taking application with focus on building knowledge bases'
+website: 'https://github.com/zadam/trilium'
+category: Productivity
+repository: 'https://github.com/zadam/trilium'
+keywords:
+    - wiki
+    - 'knowledge base'
+    - journal
+    - diary
+    - encryption
+    - 'note taking'
+    - notes
+license: 'AGPL v3'
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/wiki/zadam/trilium/images/screenshot.png'

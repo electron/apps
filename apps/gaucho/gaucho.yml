@@ -3,3 +3,9 @@ description: 'Configurable task launcher'
 website: 'https://angrykoala.github.io/gaucho/'
 repository: 'https://github.com/angrykoala/gaucho'
 license: GPL-3.0
+keywords:
+    - launcher
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://cloud.githubusercontent.com/assets/5960567/24731607/1b0278e0-1a63-11e7-84bf-b7340635723a.png'

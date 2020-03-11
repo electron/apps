@@ -1,7 +1,8 @@
 name: Shortexts
 description: 'Shortcuts for texts you copy frequently, folders and emojis'
-website: 'http://shortexts.com/'
+website: 'https://shortexts.com/'
 keywords:
     - 'Productivity tool'
     - 'OSX '
 license: MIT
+category: Productivity

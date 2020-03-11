@@ -2,6 +2,8 @@ name: 'Wantedly Chat'
 description: 'Business chat tool that will boost productivity for your team'
 website: 'https://www.wantedly.com/chat'
 keywords:
-  - message
-  - chat
-  - team
+    - message
+    - chat
+    - team
+category: 'Social Networking'
+disabled: true # Wantedly no longer provides electron based app

@@ -1,8 +1,11 @@
 name: '--shots'
 description: 'Cross-platform application for creating screenshots.'
-website: 'https://theshots.ru/'
 repository: 'https://github.com/binjospookie/--shots'
 keywords:
     - screenshots
     - sharing
     - productivity
+category: Productivity
+disabled: true
+disabledComment: 'disabled on Wed Jul 03 2019 because project is archived and discontinued'
+

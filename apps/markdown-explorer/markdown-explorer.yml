@@ -1,0 +1,20 @@
+name: Markdown-Explorer
+description: 'Easily explore, view and edit markdown documentation of a file tree'
+website: 'https://github.com/jersou/markdown-explorer'
+repository: 'https://github.com/jersou/markdown-explorer'
+keywords:
+    - markdown
+    - editor
+    - explorer
+    - viewer
+category: 'Developer Tools'
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/jersou/markdown-explorer/master/doc/img/Markdown-Explorer.png'
+    caption: 'MD file tree and view mode'
+    imageLink: 'https://github.com/jersou/markdown-explorer'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/jersou/markdown-explorer/master/doc/img/edit-mode.png'
+    caption: 'Edit mode'
+    imageLink: 'https://github.com/jersou/markdown-explorer'
+

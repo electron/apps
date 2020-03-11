@@ -1,0 +1,14 @@
+name: 'Visual Comic Reader'
+description: 'Modern Comic Reader for all platforms'
+website: 'https://github.com/evuz/VisualComicReader'
+repository: 'https://github.com/evuz/VisualComicReader'
+keywords:
+    - comic
+    - react
+    - reader
+    - cbz
+    - cbr
+category: Books
+screenshots:
+    -
+        imageUrl: 'https://camo.githubusercontent.com/d2c6e221bede9ec580d285d203079b322cf75388/687474703a2f2f692e696d6775722e636f6d2f55794374506e732e6a7067'

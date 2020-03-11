@@ -1,0 +1,16 @@
+name: LBRY Desktop
+description: 'LBRY is a free, open, and community-run digital marketplace.
+You own your data. You control the network. Indeed, you are the network.
+Hollywood films, college lessons, amazing streamers and more are on the first media network ruled by you.'
+website: 'https://lbry.io'
+repository: 'https://github.com/lbryio/lbry-desktop'
+keywords:
+    - Decentralized
+    - LBRY
+    - P2P Network
+    - Digital Content Platform
+license: MIT
+category: 'Entertainment'
+screenshots:
+    -
+        imageUrl: 'https://spee.ch/0/lbryhome.jpeg'

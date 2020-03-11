@@ -1,0 +1,13 @@
+name: James Proxy
+description: Web Debugging Proxy Application
+website: https://github.com/james-proxy/james
+repository: https://github.com/james-proxy/james
+category: 'Developer Tools'
+keywords:
+    - proxy
+    - 'debugging tool'
+    - james
+    - http-proxy
+    - https-proxy
+    - http
+    - https

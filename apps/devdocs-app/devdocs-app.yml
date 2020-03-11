@@ -5,3 +5,7 @@ repository: 'https://github.com/egoist/devdocs-app'
 keywords:
     - devdocs
 license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://user-images.githubusercontent.com/8784712/27121730-11676ba8-511b-11e7-8c01-00444ee8501a.png'

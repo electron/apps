@@ -1,0 +1,15 @@
+name: ServPane
+description: 'Manage Homebrew services from the menu bar'
+website: 'https://github.com/aderyabin/ServPane'
+homebrewCaskName: servpane
+category: 'Developer Tools'
+repository: 'https://github.com/aderyabin/ServPane'
+keywords:
+    - homebrew
+    - programming
+    - macOS
+    - launchd
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://gist.githubusercontent.com/aderyabin/74f49078ba522a9e923614050dd6895b/raw/ServPane-screen.png'

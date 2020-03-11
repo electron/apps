@@ -1,0 +1,9 @@
+name: VizGraph
+description: 'A simple tool for Using Graphviz. Based on Viz.js & Electron.'
+website: 'https://github.com/jcf94/vizgraph'
+category: 'Developer Tools'
+repository: 'https://github.com/jcf94/vizgraph'
+keywords:
+    - Graphviz
+    - dot
+    - draw

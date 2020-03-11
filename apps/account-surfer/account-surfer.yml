@@ -1,0 +1,14 @@
+name: 'Account Surfer'
+description: 'Quickly switch between accounts and browsers with Account Surfer.'
+website: 'https://www.microsoft.com/en-us/p/account-surfer/9phvp9rjr7r7'
+category: Productivity
+keywords:
+    - browser
+    - account
+    - Chrome
+    - Browserosaurus
+    - Choosy
+    - 'Browser Selector'
+screenshots:
+    - {imageUrl: 'https://dospolov.com/media/as-home.png', caption: 'All browsers and accounts on a single screen of Account Surfer', imageLink: 'https://dospolov.com/posts/handle-chrome-profiles-with-account-surfer'}
+    - {imageUrl: 'https://dospolov.com/media/as-4.gif', caption: 'Account Surfer saves domain and links it to Chrome profile', imageLink: 'https://dospolov.com/posts/handle-chrome-profiles-with-account-surfer'}

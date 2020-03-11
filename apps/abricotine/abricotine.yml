@@ -1,3 +1,7 @@
 name: Abricotine
 description: 'Open-source Markdown editor built for desktop'
-website: 'http://abricotine.brrd.fr'
+website: 'https://abricotine.brrd.fr/'
+repository: 'https://github.com/brrd/Abricotine'
+category: Productivity
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/brrd/Abricotine/develop/screenshot.jpg'}

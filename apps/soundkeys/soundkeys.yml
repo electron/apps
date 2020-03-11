@@ -1,5 +1,5 @@
 name: Soundkeys
-description: 'Soundcloud wrapped in a Desktop player with user customizable keyboard shortcuts and notifications'
+description: 'Souncloud delivered in a wrapper with a mini player'
 website: 'https://github.com/MSandeep96/SoundKeys'
 repository: 'https://github.com/MSandeep96/SoundKeys'
 keywords:
@@ -9,3 +9,7 @@ keywords:
     - keymappings
     - mediakeys
     - notifications
+category: Music
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/MSandeep96/SoundKeys/master/ReadmeImages/Soundkeys.PNG'

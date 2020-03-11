@@ -1,0 +1,11 @@
+name: Browserosaurus
+description: 'Browser prompter for macOS.'
+website: 'https://browserosaurus.com/'
+repository: 'https://github.com/will-stone/browserosaurus'
+keywords:
+    - browsers
+    - utility
+    - macos
+category: Utilities
+license: MIT
+youtube_video_url: https://www.youtube.com/watch?v=VIX5kgorp1o

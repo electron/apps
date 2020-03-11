@@ -1,0 +1,35 @@
+name: Notable
+description: "The markdown-based note-taking app that doesn't suck."
+website: 'https://notable.md'
+repository: 'https://github.com/notable/notable'
+keywords:
+    - notes
+    - markdown
+    - 'note taking'
+    - cross-platform
+    - linux
+    - mac
+    - windows
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://img.notable.md/screenshot-main.png'
+        caption: 'Notable'
+    -
+        imageUrl: 'https://img.notable.md/screenshot-editor.png'
+        caption: 'Markdown-Based'
+    -
+        imageUrl: 'https://img.notable.md/screenshot-filesystem.png'
+        caption: 'No Vendor Lock-In'
+    -
+        imageUrl: 'https://img.notable.md/screenshot-dark.png'
+        caption: 'Dark Theme'
+    -
+        imageUrl: 'https://img.notable.md/screenshot-zen.png'
+        caption: 'Zen Mode'
+    -
+        imageUrl: 'https://img.notable.md/screenshot-multieditor.png'
+        caption: 'Multi-Note Editor'
+    -
+        imageUrl: 'https://img.notable.md/screenshot-spliteditor.png'
+        caption: 'Split Editor'

@@ -1,9 +1,13 @@
 name: lightgallery
 description: 'A modern, electron and nodejs based image viewer for Mac, Windows and Linux.'
-website: 'http://sachinchoolur.github.io/lightgallery-desktop/'
+website: 'https://sachinchoolur.github.io/lightgallery-desktop/'
+homebrewCaskName: lightgallery
 repository: 'https://github.com/sachinchoolur/lightgallery-desktop'
 keywords:
     - image
     - photo
     - gallery
 license: MIT
+category: 'Photo & Video'
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/sachinchoolur/lightgallery-desktop/gh-pages/lightgallery.png'}

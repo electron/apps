@@ -1,0 +1,13 @@
+name: YouGet
+description: 'YouTube Video/Playlist Downloader/MP3 Converter/Cutter/Subtitle'
+website: 'https://github.com/ahmetzeybek/YouGet/releases'
+category: Utilities
+repository: 'https://github.com/ahmetzeybek/YouGet'
+keywords:
+    - youtube
+    - download
+    - mp3
+    - video
+screenshots:
+  -
+    imageUrl: 'https://camo.githubusercontent.com/9f84c6986875d0981b2a349bdc19a5c82f3fef26/68747470733a2f2f707265766965772e6962622e636f2f655a64524d7a2f5644316e6c6e5f312e706e67'

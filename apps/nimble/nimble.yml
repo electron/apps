@@ -1,3 +1,6 @@
 name: Nimble
-description: 'A simple Wolfram|Alpha&#174; menubar client for Mac OS X'
-website: 'http://madebybright.com'
+description: 'A simple but powerful Wolfram|Alpha menubar client for macOS'
+website: 'https://maybulb.com/nimble/'
+keywords:
+    - menubar
+category: Utilities

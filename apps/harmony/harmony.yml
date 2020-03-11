@@ -1,6 +1,6 @@
 name: Harmony
 description: 'Music player compatible with Spotify, Soundcloud, Play Music and your local files'
-website: 'http://getharmony.xyz/'
+website: 'https://getharmony.xyz/'
 repository: 'https://github.com/vincelwt/harmony'
 keywords:
     - music
@@ -9,3 +9,6 @@ keywords:
     - SoundCloud
     - 'Play Music'
     - mp3
+category: Music
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/vincelwt/harmony/master/screenshot.png'}

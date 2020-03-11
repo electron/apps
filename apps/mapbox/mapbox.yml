@@ -2,3 +2,6 @@ name: Mapbox
 description: 'Design and publish beautiful maps'
 website: 'https://www.mapbox.com'
 disabled: true
+keywords:
+    - Design
+category: Productivity

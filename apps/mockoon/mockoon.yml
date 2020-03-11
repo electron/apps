@@ -1,0 +1,17 @@
+name: Mockoon
+description: 'Mock REST APIs in seconds'
+website: 'https://mockoon.com'
+category: 'Developer Tools'
+repository: 'https://github.com/255kb/mockoon'
+keywords:
+    - api
+    - rest
+    - server
+    - mock
+    - mocking
+screenshots:
+  -
+    imageUrl: 'https://mockoon.com/static/images/main.jpg'
+    caption: 'Application main view'
+    imageLink: 'https://mockoon.com'
+

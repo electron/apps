@@ -1,0 +1,14 @@
+name: Clippy
+description: "Helps keep track of your clipbard history."
+website: "https://github.com/tayoogunbiyi/clippy"
+category: Productivity
+repository: "https://github.com/tayoogunbiyi/clippy"
+keywords:
+  - "clipboard"
+screenshots:
+  - imageUrl: "https://res.cloudinary.com/dy6smijxx/image/upload/v1557365223/night-mode_m5rf9k.png"
+    caption: "Ubuntu (Night Mode)"
+    imageLink: "https://github.com/tayoogunbiyi/clippy"
+  - imageUrl: "https://res.cloudinary.com/dy6smijxx/image/upload/v1557365228/day-mode_vaqois.png"
+    caption: "Ubuntu (Day Mode)"
+    imageLink: "https://github.com/tayoogunbiyi/clippy"

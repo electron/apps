@@ -1,0 +1,14 @@
+name: Figma
+description: 'The collaborative interface design tool.'
+website: 'https://www.figma.com/'
+homebrewCaskName: figma
+keywords:
+    - graphics
+    - images
+    - editor
+    - svg
+    - sketch
+    - vector
+    - ui
+    - ux
+category: 'Graphics & Design'

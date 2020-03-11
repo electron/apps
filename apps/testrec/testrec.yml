@@ -1,0 +1,10 @@
+name: Testrec
+description: 'Record, playback and export protractor tests in seconds'
+website: 'https://testrec.com'
+keywords:
+    - protractor
+    - tests
+    - tool
+    - frontend
+    - development
+category: 'Developer Tools'

@@ -1,0 +1,15 @@
+name: 'devRantron'
+description: 'An unofficial open source client for devRant.io'
+website: 'https://devrantron.firebaseapp.com/'
+repository: 'https://github.com/tahnik/devRantron/'
+keywords: ['Social Network']
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/96448bbb598e0d238636e3b5a6a29683dff102a5/app/screenshots/custom.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/96448bbb598e0d238636e3b5a6a29683dff102a5/app/screenshots/login.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/96448bbb598e0d238636e3b5a6a29683dff102a5/app/screenshots/notif.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/96448bbb598e0d238636e3b5a6a29683dff102a5/app/screenshots/view.png'

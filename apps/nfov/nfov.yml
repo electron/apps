@@ -1,0 +1,22 @@
+name: nfov
+description: 'ASCII / ANSI art viewer for macOS powered by Electron'
+website: 'https://github.com/nrlquaker/nfov'
+category: Utilities
+repository: 'https://github.com/nrlquaker/nfov'
+keywords:
+    - macos
+    - nfo
+    - diz
+    - asc
+    - ans
+    - ascii-art
+    - ansi-art
+license: MIT
+homebrewCaskName: nfov
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/nrlquaker/nfov/master/screenshots/crude.nfo.png'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/nrlquaker/nfov/master/screenshots/flt-1000.nfo.png'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/nrlquaker/nfov/master/screenshots/cl!-al02.ans.png'

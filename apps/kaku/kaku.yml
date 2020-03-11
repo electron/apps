@@ -1,8 +1,11 @@
 name: Kaku
 description: 'A highly integrated music player'
-website: 'http://kaku.rocks'
+website: 'https://kaku.rocks/'
 repository: 'https://github.com/EragonJ/Kaku'
 keywords:
     - music
     - player
 license: MIT
+category: Music
+screenshots:
+    - {imageUrl: 'https://camo.githubusercontent.com/e93f6170012e7e6e8603c55a331377c07e13d883/687474703a2f2f692e696d6775722e636f6d2f4875644b5a6f752e706e67'}

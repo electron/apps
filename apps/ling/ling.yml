@@ -5,5 +5,9 @@ repository: 'https://github.com/talhasch/ling'
 keywords:
     - 'REST Client'
     - HTTP
-    - 'Developer Tool'
+    - 'developer tools'
 license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/talhasch/ling/master/screenshot.png'

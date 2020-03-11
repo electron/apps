@@ -6,4 +6,9 @@ keywords:
     - elite
     - journal
     - parser
+    - games
 license: MIT
+category: Games
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/willyb321/elite-journal/master/screenshot.png'

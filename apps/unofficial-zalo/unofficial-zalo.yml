@@ -1,0 +1,12 @@
+name: Unofficial Zalo
+description: 'The unofficial Zalo messaging app'
+website: 'https://github.com/SafeStudio/unofficial-zalo'
+repository: 'https://github.com/SafeStudio/unofficial-zalo'
+category: Productivity
+license: GPL-3.0
+keywords:
+  - chat
+  - messaging
+  - productivity
+locales:
+  - vi-VN

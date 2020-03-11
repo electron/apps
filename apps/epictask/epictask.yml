@@ -1,6 +1,6 @@
 name: Epictask
 description: 'An Open Source + Extensible Github Issue Management App'
-website: 'http://epictask.run'
+website: 'https://epictask.run/'
 repository: 'https://github.com/densebrain/epictask'
 keywords:
     - issue
@@ -11,3 +11,4 @@ keywords:
     - editor
     - typescript
 license: 'Apache 2'
+category: Productivity

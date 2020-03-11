@@ -1,0 +1,17 @@
+name: mdp
+description: 'Markdown preview using marked, highlight.js, mermaid, node-emoji and live reload.'
+website: 'https://ericlink.github.io/mdp/'
+category: 'Developer Tools'
+repository: 'https://github.com/ericlink/mdp'
+keywords:
+    - markdown
+    - electron-forge
+    - highlight-js
+    - mermaid
+    - mermaid-diagrams
+    - node-emoji
+    - emoji
+    - live-reload
+    - preview
+    - previewer
+license: 'Apache License 2.0'

@@ -1,4 +1,10 @@
 name: Caption
 description: 'Find the right subtitles. Easy.'
 website: 'https://getcaption.co'
-repository: 'https://github.com/gielcobben/Caption'
+repository: 'https://github.com/gielcobben/caption'
+keywords:
+    - utility
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://gielcobben.com/github/caption/github_cover.png'

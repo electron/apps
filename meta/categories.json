@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Productivity",
+    "count": 248,
+    "slug": "productivity"
+  },
+  {
+    "name": "Developer Tools",
+    "count": 189,
+    "slug": "developer-tools"
+  },
+  {
+    "name": "Utilities",
+    "count": 137,
+    "slug": "utilities"
+  },
+  {
+    "name": "Music",
+    "count": 57,
+    "slug": "music"
+  },
+  {
+    "name": "Social Networking",
+    "count": 48,
+    "slug": "social-networking"
+  },
+  {
+    "name": "Photo & Video",
+    "count": 43,
+    "slug": "photo-video"
+  },
+  {
+    "name": "Games",
+    "count": 33,
+    "slug": "games"
+  },
+  {
+    "name": "Finance",
+    "count": 30,
+    "slug": "finance"
+  },
+  {
+    "name": "Business",
+    "count": 26,
+    "slug": "business"
+  },
+  {
+    "name": "Education",
+    "count": 20,
+    "slug": "education"
+  },
+  {
+    "name": "Graphics & Design",
+    "count": 15,
+    "slug": "graphics-design"
+  },
+  {
+    "name": "Books",
+    "count": 6,
+    "slug": "books"
+  },
+  {
+    "name": "Entertainment",
+    "count": 6,
+    "slug": "entertainment"
+  },
+  {
+    "name": "Lifestyle",
+    "count": 5,
+    "slug": "lifestyle"
+  },
+  {
+    "name": "News",
+    "count": 5,
+    "slug": "news"
+  },
+  {
+    "name": "Medical",
+    "count": 2,
+    "slug": "medical"
+  },
+  {
+    "name": "Health & Fitness",
+    "count": 2,
+    "slug": "health-fitness"
+  },
+  {
+    "name": "Travel",
+    "count": 1,
+    "slug": "travel"
+  },
+  {
+    "name": "Food & Drink",
+    "count": 1,
+    "slug": "food-drink"
+  },
+  {
+    "name": "Sports",
+    "count": 1,
+    "slug": "sports"
+  }
+]

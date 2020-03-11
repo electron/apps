@@ -1,0 +1,30 @@
+name: 'ETCD Manager'
+description: 'Modern, efficient and multi-platform GUI for ETCD.'
+website: 'https://etcdmanager.io'
+category: 'Developer Tools'
+repository: 'https://github.com/icellmobilsoft/etcdmanager.git'
+keywords:
+    - etcd
+    - etcd3
+    - gui
+    - client
+    - admin
+license: MIT
+npmPackageName: etcd-manager
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/icellmobilsoft/etcdmanager/master/screenshots/screen1.png'
+    caption: 'The settings screen'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/icellmobilsoft/etcdmanager/master/screenshots/screen2.png'
+    caption: 'Key management'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/icellmobilsoft/etcdmanager/master/screenshots/screen3.png'
+    caption: 'Watcher management'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/icellmobilsoft/etcdmanager/master/screenshots/screen4.png'
+    caption: 'User management section'
+locales:
+  - hu-HU
+  - en-US
+  

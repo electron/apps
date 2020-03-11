@@ -1,7 +1,8 @@
-name: "ffftp"
-description: "A minimal FTP client for casual users"
-website: "http://ffftp.site"
-repository: "http://github.com/mitchas/ffftp"
+name: ffftp
+description: 'A minimal FTP client for casual users'
+website: 'https://github.com/mitchas/ffftp'
+repository: 'https://github.com/mitchas/ffftp'
 keywords:
-  - "ftp"
-  - "development"
+    - ftp
+    - development
+category: 'Developer Tools'

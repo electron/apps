@@ -1,0 +1,28 @@
+name: 'Unfx Proxy Checker'
+description: 'Powerful proxy checker with huge features and beautiful design. Easy sorting and filtering by all parameters.'
+website: 'https://openproxy.space/software/proxy-checker'
+category: 'Developer Tools'
+repository: 'https://github.com/assnctr/unfx-proxy-checker'
+keywords:
+    - Proxy
+    - Checker
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://openproxy.space/static/images/checker/0.png'
+    caption: 'Main page'
+  -
+    imageUrl: 'https://openproxy.space/static/images/checker/1.png'
+    caption: 'Ping judges overlay'
+  -
+    imageUrl: 'https://openproxy.space/static/images/checker/2.png'
+    caption: 'Checking process'
+  -
+    imageUrl: 'https://openproxy.space/static/images/checker/3.png'
+    caption: 'Results'
+  -
+    imageUrl: 'https://openproxy.space/static/images/checker/4.png'
+    caption: 'Countries selector'
+  -
+    imageUrl: 'https://openproxy.space/static/images/checker/5.png'
+    caption: 'Export'

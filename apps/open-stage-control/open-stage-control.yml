@@ -1,3 +1,13 @@
 name: 'Open Stage Control'
-description: 'A libre desktop OSC bi-directionnal control surface application'
-website: 'http://osc.ammd.net'
+description: 'Libre and modular OSC / MIDI control surface'
+website: 'https://osc.ammd.net/'
+keywords:
+    - music
+    - controller
+    - osc
+    - midi
+category: Music
+license: GNU/GPLv3
+goodColorOnBlack: '#52a8ff'
+goodColorOnWhite: '#313f55'
+faintColorOnWhite: 'rgba(82, 168, 255, .25)'

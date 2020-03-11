@@ -1,0 +1,9 @@
+name: MagicCap
+description: 'A image capture suite for Mac and Linux.'
+repository: 'https://github.com/MagicCap/MagicCap'
+keywords:
+    - screenshot
+    - upload
+    - productivity
+    - capture
+category: Productivity

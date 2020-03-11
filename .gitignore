@@ -1,6 +1,11 @@
-yarn.lock
-index.json
-node_modules
+.DS_Store
+.env
+.npmrc
+*-256.png
+*-128.png
 *-32.png
 *-64.png
-*-128.png
+index.json
+node_modules
+yarn.lock
+.gitsync_lock

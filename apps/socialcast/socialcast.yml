@@ -1,5 +1,5 @@
 name: Socialcast
-description: 'Socialcast is an enterprise social network platform'
+description: 'Enterprise social network platform.'
 website: 'http://socialcast.com/'
 keywords:
     - enterprise
@@ -8,3 +8,6 @@ keywords:
     - communication
     - conversation
     - productivity
+category: Productivity
+disabled: true
+disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'

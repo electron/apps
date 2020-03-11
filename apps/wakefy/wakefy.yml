@@ -1,0 +1,21 @@
+name: Wakefy
+description: 'Turn your Mac into a Spotify alarm clock.'
+website: 'https://wakefy.com/'
+category: Utilities
+keywords:
+    - 'alarm clock'
+    - Spotify
+    - music
+    - alarm
+    - 'wake up'
+    - macos
+    - mac
+    - macbook
+    - turn
+    - playlist
+    - song
+    - album
+    - morning
+screenshots:
+    -
+        imageUrl: 'https://s3-eu-west-1.amazonaws.com/wakefy/assets/wakefy-screenshot.png'

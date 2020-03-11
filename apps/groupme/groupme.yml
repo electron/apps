@@ -1,11 +1,14 @@
 name: GroupMe
-description: 'Unofficial GroupMe App'
+description: 'Unofficial desktop client for GroupMe'
 website: 'https://github.com/dcrousso/GroupMe#readme'
 repository: 'https://github.com/dcrousso/GroupMe'
 keywords:
-    - Electron
     - GroupMe
     - chat
     - messaging
     - social
 license: MIT
+category: 'Social Networking'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png'

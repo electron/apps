@@ -1,3 +1,6 @@
 name: Discord
-description: 'All-in-one voice and text chat for gamers'
-website: 'http://discordapp.com'
+description: 'All-in-one voice, text and video chat for gamers'
+website: 'https://discordapp.com/'
+keywords:
+    - chat
+category: 'Social Networking'

@@ -1,0 +1,17 @@
+name: SingleAccessInterface
+description: 'Secure your personal web application data'
+website: 'https://smaro-nitr.github.io/#!/sai-home'
+keywords:
+    - gmail
+    - instagram
+    - messenger
+    - whatsapp
+    - youtube
+    - goodreads
+    - privacy
+    - password protect
+license: GPL-3.0
+category: 'Utilities'
+screenshots:
+    -
+        imageUrl: 'https://smaro-nitr.github.io/sai/assets/img/sai-content.gif'

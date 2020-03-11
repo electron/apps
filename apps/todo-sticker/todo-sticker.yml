@@ -1,0 +1,28 @@
+name: Todo Sticker
+description: 'Easy-to-use To-Do App, which can create sticky notes with time-reminder function.'
+website: 'https://todosticker.gavinwang.net/'
+category: Productivity
+repository: 'https://github.com/ambisign-gavin/todo-sticker'
+keywords:
+    - todos
+    - todo
+    - 'to-do list'
+    - sticky
+    - note
+    - notes
+    - sticker
+    - Productivity
+    - task
+    - remind
+    - reminder
+    - list
+    - lists
+    - checklist
+    - time
+    - timemanage
+    - notifie
+    - notification
+license: MIT
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/ambisign-gavin/todo-sticker/master/screenshot.png'

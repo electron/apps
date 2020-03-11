@@ -1,0 +1,30 @@
+name: 'Citrus '
+description: 'Engineered to improve personal productivity, Citrus works to help you focus and get more done.'
+website: 'https://www.citrus.app'
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://i.imgur.com/1e1KXwD.png'
+        caption: 'The Citrus App, ready to block your distractions'
+        imageLink: 'https://www.citrus.app'
+    -
+        imageUrl: 'https://i.imgur.com/4aKXjao.png'
+        caption: 'Customize your Activities in Citrus'
+        imageLink: 'https://www.citrus.app'
+    -
+        imageUrl: 'https://i.imgur.com/Do0caQk.png'
+        caption: 'Get More Done with Citrus Plus!'
+        imageLink: 'https://www.citrus.app'
+
+keywords:
+    - citrus
+    - productivity
+    - 'website blocking'
+    - distraction
+    - 'block urls'
+    - 'block websites'
+    - 'block distractions'
+    - 'block facebook'
+    - 'block twitter'
+    - 'block reddit'
+    

@@ -2,6 +2,7 @@ name: Atom
 description: 'A hackable text editor for the 21st Century'
 website: 'https://atom.io'
 repository: 'https://github.com/atom/atom'
+homebrewCaskName: atom
 keywords:
     - 'web development'
     - writing
@@ -9,4 +10,9 @@ keywords:
     - programming
     - git
     - github
+    - 'developer tools'
 license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://user-images.githubusercontent.com/378023/49132478-f4b77680-f31f-11e8-9e10-e8454d8d9b7e.png'

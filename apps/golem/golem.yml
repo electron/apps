@@ -1,0 +1,20 @@
+name: 'Golem'
+description: 'Computing power, shared. Rent your CPU/GPUs, get paid in cryptocurrency.'
+website: 'https://golem.network'
+keywords:
+    - golem
+    - gnt
+    - ethereum
+    - ether
+    - cryptocurrency
+    - blockchain
+    - p2p
+    - computing
+    - rendering
+    - decentralized
+category: Productivity
+license: GPL-3.0
+goodColorOnWhite: '#181ea9'
+goodColorOnBlack: '#7176EB'
+repository: https://github.com/golemfactory/golem-electron
+youtube_video_url: https://www.youtube.com/watch?v=FZb_w5JXvJ8

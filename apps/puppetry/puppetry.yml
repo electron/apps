@@ -1,0 +1,21 @@
+name: Puppetry
+description: 'Codeless end-to-end test automation, integrated with CI/CD pipeline'
+website: 'https://puppetry.app/'
+category: 'Developer Tools'
+repository: 'https://github.com/dsheiko/puppetry/'
+keywords:
+    - testing
+    - test
+    - end-to-end
+    - automation
+    - Quality Assurance
+    - opensource
+    - integration
+license: MIT
+snapcraftName: puppetry
+youtube_video_url: 'https://www.youtube.com/watch?v=4DLnak6qU68'
+screenshots:
+    -
+      imageUrl: 'https://puppetry.app/assets/img/puppetry-welcome.png'
+locales:
+    - en-US

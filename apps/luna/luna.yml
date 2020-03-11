@@ -1,0 +1,18 @@
+name: luna
+description: 'Manage npm dependencies through a modern UI'
+website: 'https://github.com/rvpanoz/luna'
+repository: 'https://github.com/rvpanoz/luna'
+screenshots:
+    -
+        imageUrl: 'https://github.com/rvpanoz/luna/blob/master/resources/luna-small.jpeg'
+        caption: 'luna'
+keywords:
+    - npm
+    - 'npm-management'
+    - 'npm-desktop-manager'
+    - react
+    - rxjs
+    - 'npm-gui'
+    - 'developer tools'
+license: GPL-3.0
+category: 'Developer Tools'

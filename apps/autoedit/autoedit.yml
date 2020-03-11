@@ -1,0 +1,17 @@
+name: autoEdit
+description: 'Fast text based video editing'
+website: 'https://www.autoEdit.io'
+repository: 'https://github.com/OpenNewsLabs/autoEdit_2'
+keywords:
+    - 'video editing'
+    - story
+    - 'story crafting'
+    - 'video editor'
+    - git
+    - github
+    - 'open source'
+license: MIT
+category: 'Photo & Video'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/OpenNewsLabs/autoEdit_2/master/assets/autoEdit_overview_diagram_1.0.7.png'

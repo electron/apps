@@ -3,7 +3,6 @@ description: 'Stay focused and boost productivity with Foco.'
 website: 'https://github.com/akashnimare/foco'
 repository: 'https://github.com/akashnimare/foco'
 keywords:
-    - Electron
     - menubar
     - productivity
     - focus
@@ -11,3 +10,7 @@ keywords:
     - tray
     - music
 license: MIT
+category: Music
+screenshots:
+    -
+        imageUrl: 'https://camo.githubusercontent.com/bf11addfc977dfdfac3a98351a4861e24fa5e73c/68747470733a2f2f6a2e676966732e636f6d2f4242714538592e676966'

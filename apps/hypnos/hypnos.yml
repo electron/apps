@@ -1,0 +1,16 @@
+name: Hypnos
+description: "Sandbox GraphQL calls to RESTful APIs using the Apollo's link-rest package with error handling."
+website: 'https://github.com/oslabs-beta/hypnos'
+category: 'Developer Tools'
+repository: 'https://github.com/oslabs-beta/hypnos'
+keywords:
+    - graphql
+    - apollo
+    - 'apollo client'
+    - 'developer tool'
+    - apis
+    - 'restful apis'
+    - 'apollo-link-rest'
+    - link
+    - rest
+license: MIT

@@ -1,0 +1,9 @@
+name: PaperArxiv
+description: 'Yet another paper management tool.'
+website: 'https://github.com/fuzihaofzh/PaperArxiv'
+category: Education
+repository: 'https://github.com/fuzihaofzh/PaperArxiv'
+keywords:
+    - paper
+    - management
+    - notes

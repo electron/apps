@@ -1,0 +1,17 @@
+on:
+  schedule:
+  - cron: 0 */12 * * *
+
+name: Update and release
+
+jobs:
+  updateDataAndRelease:
+    name: Update data and release
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Update data and release
+      run: npm run release
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        NPM_AUTH_TOKEN: ${{ secrets.NPM_AUTH_TOKEN }}

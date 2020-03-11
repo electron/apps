@@ -1,7 +1,6 @@
-name: Gravit Designer
+name: 'Gravit Designer'
 description: 'A vector based design tool similar to sketch or figma.'
-website: 'http://designer.io'
-website: 'https://www.grap.io'
+website: 'https://designer.io/'
 keywords:
     - graphics
     - images
@@ -12,3 +11,4 @@ keywords:
     - sketch
     - ui
     - ux
+category: 'Photo & Video'

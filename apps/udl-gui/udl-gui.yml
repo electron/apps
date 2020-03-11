@@ -1,0 +1,15 @@
+name: udl-gui
+description: 'App to download udemy.com course for personal offline use.'
+website: 'http://riazxrazor.in'
+category: Education
+repository: 'https://github.com/riazXrazor/udemy-dl-gui'
+keywords:
+    - udl
+    - download
+    - videos
+    - courses
+    - learn
+    - udemy-dl-gui
+screenshots:
+    - {imageUrl: 'https://github.com/riazXrazor/udemy-dl-gui/raw/master/static/udemy-dl-login.png', caption: 'udemy-dl login screen', imageLink: 'http://riazxrazor.in'}
+    - {imageUrl: 'https://github.com/riazXrazor/udemy-dl-gui/raw/master/static/udemy-dl-dashboard.png', caption: 'udemy-dl dashboard', imageLink: 'http://riazxrazor.in'}

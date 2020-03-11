@@ -1,6 +1,6 @@
 name: Eagle
 description: 'Organizing Ideas Has Never Been Easier'
-website: 'http://eagle.cool'
+website: 'https://eagle.cool/'
 keywords:
     - Inspiration
     - Design
@@ -8,3 +8,5 @@ keywords:
     - Screenshot
     - Mac
     - Windows
+    - Productivity
+category: Productivity

@@ -1,6 +1,7 @@
-name: "WhereDat"
-description: "Search your business apps simultaneously"
-website: "http://wheredatapp.com"
+name: WhereDat
+description: 'Search your business apps simultaneously'
+website: 'http://wheredatapp.com'
 keywords:
-  - "search"
-  - "enterprise"
+    - search
+    - enterprise
+category: Utilities

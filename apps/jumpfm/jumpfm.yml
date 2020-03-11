@@ -1,0 +1,11 @@
+name: JumpFm
+description: 'A file manager with Superpowers '
+website: 'https://jumpfm.org/'
+category: 'Developer Tools'
+repository: 'https://github.com/Gilad-Kutiel-App/jumpfm'
+keywords:
+    - 'file manager'
+    - developers
+    - git
+screenshots:
+    - {imageUrl: 'https://jumpfm.org/jumpfm.png', caption: 'JumpFm Screenshot', imageLink: 'https://jumpfm.org/'}

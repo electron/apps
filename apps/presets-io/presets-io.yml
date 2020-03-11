@@ -1,3 +1,6 @@
 name: Presets.io
 description: 'Easy preset management for Adobe Lightroom'
 website: 'https://presets.io'
+keywords:
+    - photo
+category: 'Photo & Video'

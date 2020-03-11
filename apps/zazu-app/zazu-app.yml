@@ -11,3 +11,6 @@ keywords:
     - vpn
     - file-search
 license: MIT
+category: Utilities
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/tinytacoteam/zazu/master/docs/images/action-shots/package-manager.png'}

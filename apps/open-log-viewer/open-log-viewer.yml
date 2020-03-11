@@ -1,0 +1,11 @@
+name: 'Open Log Viewer'
+description: 'A multi-platform log viewer built with Electron and styled with Material Design'
+website: 'https://github.com/tmoreno/open-log-viewer'
+category: 'Developer Tools'
+repository: 'https://github.com/tmoreno/open-log-viewer'
+keywords:
+    - log
+    - viewer
+    - tail
+    - vue
+license: GPL-3.0

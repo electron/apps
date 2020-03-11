@@ -1,0 +1,43 @@
+name: WeightHub
+description: 'Easy-to-use desktop app, to seamlessly synchronize your body weight data between platforms, with clouds or files.'
+website: 'https://www.weemple.com/weighthub'
+category: 'Health & Fitness'
+keywords:
+    - sync
+    - weight
+    - weight loss
+    - smart scale
+    - fitness
+    - health
+    - platform
+    - cloud
+    - fitbit
+    - garmin
+    - withings
+locales:
+    - en
+    - es
+    - de
+    - fr
+    - it
+screenshots:
+    -
+      imageUrl: 'https://www.weemple.com/images/products/weighthub/screenshot-1.png'
+      caption: '1. Select your parameters on General, Source and Target, then click Continue'
+    -
+      imageUrl: 'https://www.weemple.com/images/products/weighthub/screenshot-2.png'
+      caption: '2. The application analyze the data from source and target'
+    -
+      imageUrl: 'https://www.weemple.com/images/products/weighthub/screenshot-3.png'
+      caption: '3. Review the proposed changes, then Continue'
+    -
+      imageUrl: 'https://www.weemple.com/images/products/weighthub/screenshot-4.png'
+      caption: '4. Approve the synchronization'
+    -
+      imageUrl: 'https://www.weemple.com/images/products/weighthub/screenshot-5.png'
+      caption: '5. Finally, the application perform the changes'
+    -
+      imageUrl: 'https://www.weemple.com/images/products/weighthub/screenshot-6.png'
+      caption: 'Also available in Dark Mode!'
+goodColorOnWhite: '#1672b8'
+goodColorOnBlack: '#428bca'

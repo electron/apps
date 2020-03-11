@@ -1,0 +1,51 @@
+name: 'Waiterio Restaurant POS'
+description: 'Order management and POS system for restaurants'
+website: 'https://www.waiterio.com'
+category: Business
+youtube_video_url: 'https://www.youtube.com/watch?v=xkkHJUSXNI0'
+keywords:
+    - restaurant
+    - pos
+    - hospitality
+    - business
+license: Commercial
+locales:
+    - cs-CZ
+    - da-DK
+    - de-DE
+    - el-GR
+    - en-US
+    - es-MX
+    - fr-FR
+    - id-ID
+    - it-IT
+    - ja-JP
+    - ko-KR
+    - nl-NL
+    - pl-PL
+    - pt-BR
+    - ru-RU
+    - th-TH
+    - tr-TR
+    - zh-CN
+screenshots:
+    -
+        imageUrl: 'https://images.waiterio.com/portfolio-computer-tables-en.jpg'
+        caption: 'Manage the tables'
+    -
+        imageUrl: 'https://images.waiterio.com/portfolio-computer-orders-en.jpg'
+        caption: 'Control the orders'
+    -
+        imageUrl: 'https://images.waiterio.com/portfolio-computer-order-en.jpg'
+        caption: 'Take an order'
+    -
+        imageUrl: 'https://images.waiterio.com/portfolio-computer-payment-en.jpg'
+        caption: 'Receive a payment'
+    -
+        imageUrl: 'https://images.waiterio.com/portfolio-computer-staff-en.jpg'
+        caption: 'Invite the co-workers'
+    -
+        imageUrl: 'https://images.waiterio.com/portfolio-computer-menu-en.jpg'
+        caption: 'Customize the menu'
+
+snapcraftName: 'waiterio-restaurant-pos'

@@ -1,0 +1,11 @@
+name: Extraterm
+description: 'Swiss army chainsaw of terminal emulators'
+website: 'http://extraterm.org'
+repository: 'https://github.com/sedwards2009/extraterm'
+keywords:
+    - terminal
+    - typescript
+license: MIT
+category: 'Developer Tools'
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/sedwards2009/extraterm/master/docs/edit_direct.gif'}

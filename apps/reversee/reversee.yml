@@ -1,0 +1,18 @@
+name: Reversee
+description: 'Reverse Proxy Web Debugger'
+website: 'https://www.reversee.ninja/'
+keywords:
+    - reverse proxy
+    - web debugger
+    - javascript
+    - developer
+    - software
+    - network
+category: 'Developer Tools'
+screenshots:
+  -
+    imageUrl: 'https://static.wixstatic.com/media/41c5dc_a967204788b44459ba2635a773d5f206~mv2_d_2880_1800_s_2.png/v1/fill/w_1000,h_625,al_c,usm_0.66_1.00_0.01/41c5dc_a967204788b44459ba2635a773d5f206~mv2_d_2880_1800_s_2.png'
+    caption: 'screenshot'
+  -
+    imageUrl: 'https://static.wixstatic.com/media/41c5dc_cc2ccb3d26a44e0c889a1675cf9ecd46~mv2.png/v1/fill/w_1000,h_152,al_c,usm_0.66_1.00_0.01/41c5dc_cc2ccb3d26a44e0c889a1675cf9ecd46~mv2.png'
+    caption: 'screenshot'

@@ -1,0 +1,19 @@
+name: Dat
+description: 'Peer to peer data sharing app built for humans'
+website: 'https://datproject.org'
+category: 'Developer Tools'
+repository: 'https://github.com/datproject/dat-desktop'
+homebrewCaskName: dat
+keywords:
+    - p2p
+    - filesharing
+    - hosting
+    - decentralization
+    - database
+    - datastore
+    - publishing
+    - education
+license: BSD-3-Clause
+screenshots:
+    -
+        imageUrl: 'https://github.com/datproject/dat-desktop/raw/master/assets/screenshot.png'

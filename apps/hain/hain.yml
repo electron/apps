@@ -1,3 +1,10 @@
 name: Hain
 description: 'An ''alt+space'' launcher for Windows'
 website: 'https://github.com/appetizermonster/hain'
+keywords:
+    - launcher
+category: Utilities
+repository: 'https://github.com/appetizermonster/hain'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/hainproject/hain/develop/docs/images/demo.gif'

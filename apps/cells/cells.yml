@@ -1,0 +1,11 @@
+name: Cells
+description: 'An Implementation of Conways Game of Life'
+website: 'https://github.com/FlorianFe/Cells'
+category: Games
+repository: 'https://github.com/FlorianFe/Cells'
+keywords:
+    - conway
+    - game
+    - life
+    - cell
+    - automata

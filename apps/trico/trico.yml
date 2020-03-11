@@ -1,0 +1,20 @@
+name: TriCo
+description: 'This app converts an excel spreadsheet (xls/xlsx/csv) to a table/collection in mysql/mongodb.'
+website: 'https://github.com/ngudbhav/TriCo-electron-app'
+category: 'Developer Tools'
+keywords:
+    - excel
+    - mongodb
+    - mysql
+    - covert
+    - developer
+license: MIT
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/ngudbhav/TriCo-electron-app/master/images/screenshots/mysql.png'
+    caption: 'Screenshot 1'
+    imageLink: 'https://github.com/ngudbhav/TriCo-electron-app'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/ngudbhav/TriCo-electron-app/master/images/screenshots/mongo.png'
+    caption: 'Screenshot 2'
+    imageLink: 'https://github.com/ngudbhav/TriCo-electron-app'

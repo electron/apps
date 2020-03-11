@@ -1,6 +1,6 @@
 name: PhoneGap
 description: 'The open source framework that gets you building amazing mobile apps using web technology'
-website: 'http://phonegap.com/products/#desktop-app-section'
+website: 'https://phonegap.com/products/#desktop-app-section'
 repository: 'https://github.com/phonegap/phonegap-app-desktop'
 keywords:
     - mobile
@@ -9,3 +9,4 @@ keywords:
     - developer
     - tools
 license: ALv2
+category: 'Developer Tools'

@@ -1,0 +1,27 @@
+name: Symphony
+description: 'The secure, cloud-based communications platform that connects markets and individuals.'
+website: 'https://symphony.com'
+repository: 'https://github.com/symphonyoss/SymphonyElectron'
+keywords:
+    - symphony
+    - collaboration
+    - privacy
+    - security
+    - encrypted
+    - messenger
+    - messaging
+    - chat
+    - enterprise
+    - video conferencing
+    - voip
+    - screen sharing
+    - screensharing
+    - communication
+    - webrtc
+category: 'Social Networking'
+license: Apache-2.0
+screenshots:
+  -
+    imageUrl: 'https://symphony.com/images/web/home/symphony-productivity-display-147.png'
+    caption: 'Symphony | The Platform that Powers Work'
+    imageLink: 'https://symphony.com'

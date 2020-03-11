@@ -1,0 +1,17 @@
+name: 'GraphQL Playground'
+description: ' GraphQL IDE for better development workflows'
+website: 'https://github.com/graphcool/graphql-playground'
+category: 'Developer Tools'
+repository: 'https://github.com/graphcool/graphql-playground'
+keywords:
+    - GraphQL
+    - data
+    - database
+    - IDE
+    - editor
+    - developer
+    - API
+license: MIT
+screenshots:
+    -
+        imageUrl: 'https://camo.githubusercontent.com/9cd8048178aecfafb7bb0b632e593d08560bebed/68747470733a2f2f696d6775722e636f6d2f3649433648756a2e706e67'

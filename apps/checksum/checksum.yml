@@ -1,0 +1,11 @@
+name: Checksum
+description: 'Verify the integrity of your downloaded files.'
+repository: 'https://github.com/mnismt/checksum'
+keywords:
+    - checksum
+    - hash
+    - md5
+    - sha1
+    - vue
+license: MIT
+category: 'Utilities'

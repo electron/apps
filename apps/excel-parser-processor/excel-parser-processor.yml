@@ -1,0 +1,16 @@
+name: 'Excel Parser Processor'
+description: 'A Cross-Platform Desktop App for processing all rows of excel files'
+website: 'https://github.com/btargac/excel-parser-processor'
+category: Productivity
+repository: 'https://github.com/btargac/excel-parser-processor'
+keywords:
+    - 'download images from excel'
+    - 'batch image download'
+    - 'batch download from excel'
+    - 'excel processor'
+    - 'excel parser processor'
+    - 'read excel'
+    - 'process excel file'
+    - 'download to local folder from excel file'
+    - 'electron app for downloading images'
+license: MIT

@@ -1,0 +1,13 @@
+name: MusicPlus
+description: 'Free music application for MacOS & Windows. All the songs, all the artists, support lyrics, search music, create/collect playlists, follow artists & more.'
+website: 'https://musicplus.io'
+category: 'Music'
+youtube_video_url: 'https://www.youtube.com/watch?v=y9IGVFatNPQ'
+keywords:
+  - music
+  - player
+screenshots:
+  -
+    imageUrl: 'https://musicplus.io/img/musicplus.jpg'
+    caption: 'MusicPlus - Free music application for MacOS & Windows'
+    imageLink: 'https://musicplus.io'

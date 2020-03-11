@@ -1,6 +1,6 @@
 name: 'QMUI Web'
-description: 'QMUI Web Desktop is an application for managing projects based on QMUI Web Framework.'
-website: 'http://qmuiteam.com/web'
+description: 'Manage projects based on QMUI Web Framework.'
+website: 'https://qmuiteam.com/web'
 repository: 'https://github.com/QMUI/qmui_web_desktop'
 keywords:
     - 'Web Development'
@@ -8,5 +8,8 @@ keywords:
     - 'Sass Framework'
     - Workflow
     - Gulp
-    - 'Developer Tool'
+    - 'developer tools'
 license: MIT
+category: 'Developer Tools'
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/QMUI/qmuidemo_web/master/public/style/images/independent/App.gif'}

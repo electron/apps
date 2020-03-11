@@ -1,0 +1,18 @@
+name: Manta
+description: 'Painless invoicing with customizable templates'
+website: 'https://getmanta.app'
+repository: 'https://github.com/hql287/Manta'
+category: 'Business'
+screenshots:
+  -
+    imageUrl: 'https://camo.githubusercontent.com/0bca4617b5b79429bf6584241f2aac55416b425c/68747470733a2f2f647a776f6e73656d72697368372e636c6f756466726f6e742e6e65742f6974656d732f33633152314731463354335a304d336e335633472f427573696e65737325323054656d706c6174652e6a70673f763d6639303634323034'
+    caption: 'Example invoice 1'
+    imageLink: 'https://getmanta.app'
+  -
+    imageUrl: 'https://camo.githubusercontent.com/64139f67a953298f72156b2761ef898da7f93c74/68747470733a2f2f647a776f6e73656d72697368372e636c6f756466726f6e742e6e65742f6974656d732f336b304f33613156334e316730753057333534302f4d696e696d616c25323054656d706c6174652e6a70673f763d3766663963323963'
+    caption: 'Example invoice 2'
+    imageLink: 'https://getmanta.app'
+  -
+    imageUrl: 'https://camo.githubusercontent.com/22195144ba3459ab4437873b38614d6bede5a11e/68747470733a2f2f647a776f6e73656d72697368372e636c6f756466726f6e742e6e65742f6974656d732f33473132324d334c3349323232773176307430572f466f726d2e6a70673f763d3939663634376137'
+    caption: 'Form'
+    imageLink: 'https://getmanta.app'

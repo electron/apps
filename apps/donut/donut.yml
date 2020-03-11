@@ -1,10 +1,15 @@
 name: Donut
 description: 'Dead-simple cross-platform cryptocurrency tracker!'
-website: 'https://harshjv.github.io/donut/'
-repository: 'https://github.com/harshjv/donut'
+website: 'https://www.etherbit.in/open-source/donut'
+repository: 'https://github.com/etherbithq/donut'
 keywords:
     - cryptocurrency
     - bitcoin
     - ethereum
     - tracker
+    - ticker
 license: MIT
+category: Finance
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/etherbithq/donut/master/preview.gif'

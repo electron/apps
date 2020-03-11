@@ -1,0 +1,17 @@
+name: encrypt0r
+description: 'Encrypt and decrypt your files with a passphrase.'
+website: 'https://kunalnagar.in/blog/encryptor-encrypt-decrypt-files-passphrase/'
+repository: 'https://github.com/kunalnagar/encrypt0r'
+license: MIT
+keywords:
+    - encrypt
+    - decrypt
+    - passphrase
+    - encrypt0r
+    - cryptography
+    - nodejs
+category: 'Utilities'
+screenshots:
+    -
+        imageUrl: 'https://camo.githubusercontent.com/84c2b19a1f8786d7e8d26710ad5f69922cd0ad6f/68747470733a2f2f692e696d6775722e636f6d2f5751587971736a2e706e67'
+        caption: 'encrypt0r Home Screen'

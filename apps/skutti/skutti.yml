@@ -1,0 +1,21 @@
+name: Skutti
+description: 'Social network to augment existing content on the web and bypass censorship across the Internet'
+website: 'https://www.skutti.com'
+screenshots:
+    -
+        imageUrl: 'https://storage.googleapis.com/servetus-149320.appspot.com/images/screenshots/skutti-screenshot-2000x1250.jpg'
+        caption: 'Skutti screenshot'
+keywords:
+    - chat
+    - messaging
+    - collaboration
+    - team
+    - social
+    - community
+    - censorship
+    - browser
+    - chrome
+category: 'Social Networking'
+locales:
+  - en-US
+  - de-DE

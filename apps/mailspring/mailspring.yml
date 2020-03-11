@@ -1,0 +1,14 @@
+name: Mailspring
+description: 'Fast, efficient mail client for Mac, Windows, and Linux.'
+website: 'https://getmailspring.com/'
+category: Productivity
+repository: 'https://github.com/Foundry376/Mailspring'
+keywords:
+    - email
+    - mail
+    - messaging
+    - imap
+    - gmail
+license: GPL-3.0
+screenshots:
+    - {imageUrl: 'https://getmailspring.com/static/img/hero_graphic_mac@2x.png', caption: 'Mailspring on Mac', imageLink: 'http://getmailspring.com/'}

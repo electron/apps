@@ -1,0 +1,23 @@
+name: 'Tournamenter Manager'
+description: 'Manage your Tournament event and show Live views to public.'
+website: 'https://github.com/ivanseidel/TournamenterApp'
+repository: 'https://github.com/ivanseidel/TournamenterApp'
+keywords:
+    - tournament
+    - event
+    - organization
+    - manager
+    - soccer
+    - table
+    - 'live view'
+    - brackets
+    - views
+    - 'live views'
+    - teams
+    - football
+    - 'server runner'
+license: MIT
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/ivanseidel/TournamenterApp/master/midia/screenshot.png'

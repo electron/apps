@@ -1,0 +1,21 @@
+name: 'GitHub Desktop'
+description: 'Simple collaboration from your desktop'
+website: 'https://desktop.github.com'
+repository: 'https://github.com/desktop/desktop'
+homebrewCaskName: github
+keywords:
+    - git
+    - github
+    - collaboration
+    - editor
+    - code
+    - commits
+    - review
+    - developer
+    - tool
+    - productivity
+license: MIT
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png'

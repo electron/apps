@@ -1,0 +1,13 @@
+name: PineSQL
+description: 'SQL client'
+website: 'https://github.com/ivan770/pinesql/'
+repository: 'https://github.com/ivan770/pinesql'
+category: 'Developer Tools'
+license: 'MIT'
+keywords:
+    - sql
+    - mysql
+    - database
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/ivan770/pinesql/master/img/screenshot2.png'

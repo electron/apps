@@ -1,0 +1,31 @@
+name: Assetizr
+description: 'The all-in-one image resizer.'
+website: 'https://assetizr.com'
+category: 'Graphics & Design'
+screenshots:
+    - imageUrl: 'https://raw.githubusercontent.com/Mirobit/apps/497efe2b62c96ef334de44322865ea9c251722a0/assetizr1-1400-90.jpg'
+      caption: 'Default Main Screen'
+    - imageUrl: 'https://raw.githubusercontent.com/Mirobit/apps/497efe2b62c96ef334de44322865ea9c251722a0/assetizr8-1400-80.jpg'
+      caption: 'Cropping an image found with a royalty-free image search tool'
+    - imageUrl: 'https://raw.githubusercontent.com/Mirobit/apps/497efe2b62c96ef334de44322865ea9c251722a0/assetizr3-1400-90.jpg'
+      caption: 'Discover royalty-free images'
+    - imageUrl: 'https://raw.githubusercontent.com/Mirobit/apps/497efe2b62c96ef334de44322865ea9c251722a0/assetizr4-1400-90.jpg'
+      caption: 'Main Screen with added images'
+    - imageUrl: 'https://raw.githubusercontent.com/Mirobit/apps/497efe2b62c96ef334de44322865ea9c251722a0/assetizr6-1400-90.jpg'
+      caption: 'Resized images in ouput folder'
+    - imageUrl: 'https://raw.githubusercontent.com/Mirobit/apps/497efe2b62c96ef334de44322865ea9c251722a0/assetizr7-1400-90.jpg'
+      caption: 'Auto resize images based on predefined settings'
+locales:
+    - 'en'
+keywords:
+    - design
+    - image
+    - resize
+    - resizer
+    - compress
+    - compression
+    - optimize
+    - optimization
+    - conversion
+    - bulk
+    - batch

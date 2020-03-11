@@ -1,0 +1,15 @@
+name: Markdown C3
+description: 'A Markdown Editor and Previewer built with Construct 3 and ElectronJs'
+website: 'https://github.com/el3um4s/markdown-c3/blob/master/README.md'
+repository: 'https://github.com/el3um4s/markdown-c3/blob/master/README.md'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/el3um4s/markdown-c3/master/img/screenshot.png'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/el3um4s/markdown-c3/master/img/animated-demo.gif'
+keywords:
+    - markdwown
+    - construct3
+    - showdownjs
+category: Productivity
+license: MIT

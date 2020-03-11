@@ -1,0 +1,14 @@
+name: Iperius Console
+description: 'Monitor and Backup your pc remotely'
+website: 'https://www.iperiusbackup.com/web-console-backup.aspx'
+keywords:
+    - Backup and remote management
+    - PC remote monitoring
+    - Remote backup scheduling and execution
+    - Remote update of Iperius Backup
+category: 'Utilities'
+license: free trial license
+screenshots:
+    -
+      imageUrl: 'https://www.iperiusbackup.com/immagini/console_mask.png'
+

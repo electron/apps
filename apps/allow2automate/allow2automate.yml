@@ -1,0 +1,26 @@
+name: allow2automate
+description: 'Using Allow2 to control access and quotas for electricity via home automation devices.'
+website: 'https://github.com/Allow2/Allow2Automate'
+category: Utilities
+repository: 'https://github.com/Allow2/Allow2Automate'
+keywords:
+    - allow2
+    - parent
+    - parental
+    - controls
+    - control
+    - quota
+    - screentime
+    - freedom
+    - children
+    - child
+    - wemo
+    - automation
+    - electrical
+    - electricity
+license: 'https://github.com/Allow2/Allow2Automate/blob/master/LICENSE'
+screenshots:
+  -
+    imageUrl: 'https://github.com/Allow2/Allow2Automate/blob/master/ScreenShots/Screen%20Shot%204.png'
+    caption: 'Allow2Automate on OSX'
+    imageLink: 'https://github.com/Allow2/Allow2Automate'

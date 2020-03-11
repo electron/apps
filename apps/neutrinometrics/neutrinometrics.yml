@@ -5,5 +5,7 @@ keywords:
     - analytics
     - data
     - desktop
-    - electron
 license: GPLv2
+category: 'Developer Tools'
+disabled: true
+disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'

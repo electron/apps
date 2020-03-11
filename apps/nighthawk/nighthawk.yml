@@ -1,0 +1,14 @@
+name: Nighthawk
+description: 'Stealthy, simple, unobtrusive music player that stays out of your way.'
+website: 'https://github.com/quantumkv/nighthawk'
+repository: 'https://github.com/quantumkv/nighthawk'
+keywords:
+    - music
+    - audio
+    - tray
+    - 'music player'
+license: MIT
+category: Music
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quantumkv/nighthawk/master/static/readme/win-image.jpg'

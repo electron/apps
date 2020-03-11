@@ -2,10 +2,10 @@ name: Matrix Writer
 description: 'Modern cross platform blog editor.'
 website: 'http://www.matrixrepublic.com/product/details/matrix-writer'
 keywords:
-    - blog editor
+    - 'blog editor'
     - blog
-    - post editor
-    - google blog
+    - 'post editor'
+    - 'google blog'
     - wordpress
     - metaweblog
     - insert images from onedrive
@@ -27,3 +27,4 @@ screenshots:
         imageUrl: 'https://raw.githubusercontent.com/AndrewLang/writer/master/screenshots/editor-centos.png'
         caption: 'Writer editor on CentOS'
         imageLink: ''
+category: Productivity

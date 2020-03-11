@@ -1,6 +1,6 @@
 name: KongDash
 description: 'Desktop client for Kong Admin API'
-website: 'https://ajaysreedhar.github.io/kongdash'
+website: 'https://kongdash.xyz'
 repository: 'https://github.com/ajaysreedhar/kongdash'
 keywords:
     - Kong
@@ -8,3 +8,7 @@ keywords:
     - KongDash
     - API
 license: MIT
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/ajaysreedhar/kongdash/master/screenshot.png'

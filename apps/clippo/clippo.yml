@@ -1,0 +1,17 @@
+name: clippo
+description: 'Clipboard Tool'
+website: 'https://github.com/monsterkodi/clippo'
+category: 'Utilities'
+repository: 'https://github.com/monsterkodi/clippo'
+keywords:
+    - clipboard
+license: Unlicense
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/monsterkodi/clippo/master/img/readme.png'
+    caption: 'windows'
+    imageLink: 'https://github.com/monsterkodi/clippo'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/monsterkodi/clippo/master/img/shot.png'
+    caption: 'mac'
+    imageLink: 'https://github.com/monsterkodi/clippo'

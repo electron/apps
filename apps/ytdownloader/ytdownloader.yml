@@ -1,0 +1,17 @@
+name: 'YT.Downloader'
+description: 'Youtube Video Downloader&Converter and Play Music'
+website: 'https://github.com/myazarc/ytdownloader/releases'
+category: Utilities
+repository: 'https://github.com/myazarc/ytdownloader'
+keywords:
+    - youtube
+    - downloader
+    - video
+    - mp3
+    - converter
+    - 'music player'
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/myazarc/ytdownloader/master/build/images/YT.Downloader.png'
+locales:
+  - en-US

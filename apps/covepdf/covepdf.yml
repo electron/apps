@@ -1,9 +1,9 @@
-name: 'CovePDF'
+name: CovePDF
 description: 'Free PDF reader with password protection.'
-website: 'http://www.covepdf.com'
+website: 'https://www.covepdf.com/'
 keywords:
-    - electron
     - pdf
     - protect
     - free
-    - pdf reader
+    - 'pdf reader'
+category: Productivity

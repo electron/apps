@@ -1,0 +1,12 @@
+name: Notion
+description: 'A new editor that blends notes, tasks, wikis in one app.'
+website: 'https://www.notion.so/desktop'
+category: Productivity
+keywords:
+    - notes
+    - tasks
+    - wikis
+    - kanban
+    - spreadsheet
+    - database
+    - collaboration

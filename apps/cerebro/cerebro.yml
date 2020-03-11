@@ -1,9 +1,13 @@
 name: Cerebro
 description: 'Productivity booster with a brain'
-website: 'https://cerebroapp.com'
+website: 'https://github.com/KELiON/cerebro'
 repository: 'https://github.com/KELiON/cerebro'
 keywords:
-  - search
-  - productivity
-  - launcher
+    - search
+    - productivity
+    - launcher
 license: MIT
+category: Productivity
+screenshots:
+    -
+        imageUrl: 'https://cloud.githubusercontent.com/assets/594298/20180624/858a483a-a75b-11e6-94a1-ef1edc4d95c3.gif'

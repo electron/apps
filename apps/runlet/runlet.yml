@@ -1,0 +1,11 @@
+name: Runlet
+description: 'Cloud-based job manager that integrates your devices.'
+website: 'https://runlet.app'
+repository: 'https://github.com/runletapp/runlet'
+category: Productivity
+keywords:
+    - runlet
+    - iot
+    - job
+    - management
+    - cross-platform

@@ -1,6 +1,7 @@
 name: Electorrent
 description: 'An Electron remote client app for uTorrent server'
 website: 'https://github.com/Tympanix/Electorrent'
+homebrewCaskName: electorrent
 repository: 'https://github.com/Tympanix/Electorrent'
 keywords:
     - utorrent
@@ -8,3 +9,7 @@ keywords:
     - client
     - magnet
 license: GPLv3
+category: Utilities
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/Tympanix/Electorrent/master/assets/screen1-win.png'

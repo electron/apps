@@ -1,0 +1,12 @@
+name: 'TEA Ebook'
+description: 'Application TEA Ebook pour Mac / Windows / Linux'
+website: 'https://app.tea-ebook.com'
+keywords:
+    - ebook
+    - Reader
+    - epub
+    - PDF
+locales:
+    - fr
+    - en
+category: Books

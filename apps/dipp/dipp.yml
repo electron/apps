@@ -1,0 +1,16 @@
+name: DIPP
+description: 'A simple image diff tool'
+website: 'https://github.com/osuke/dipp'
+repository: 'https://github.com/osuke/dipp'
+keywords:
+    - images
+    - diff
+    - png
+    - jpg
+    - gif
+    - svg
+license: MIT
+category: 'Photo & Video'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/osuke/dipp/master/demo.gif'

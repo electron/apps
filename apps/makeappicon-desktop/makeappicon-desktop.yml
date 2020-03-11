@@ -1,3 +1,6 @@
 name: 'MakeAppIcon Desktop'
 description: 'Resizer for mobile app icons'
 website: 'https://www.makeappicon.com/desktop'
+keywords:
+    - developer
+category: 'Developer Tools'

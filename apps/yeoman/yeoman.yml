@@ -5,3 +5,8 @@ keywords:
     - 'web development'
     - scaffolding
     - productivity
+category: Productivity
+repository: 'https://github.com/yeoman/yeoman-app'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/yeoman/yeoman-app/master/resources/screenshot.png'

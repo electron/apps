@@ -1,6 +1,7 @@
 name: 'The Poker Timer'
 description: 'Best tournament clock'
-website: 'http://www.thepokertimer.com'
+website: 'https://www.thepokertimer.com/'
 keywords:
     - tournament
     - timer
+category: Games

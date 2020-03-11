@@ -1,3 +1,9 @@
 name: 1Clipboard
 description: 'A universal clipboard managing app that makes it easy to access your clipboard from anywhere on any device'
 website: 'http://1clipboard.io'
+repository: 'https://github.com/wiziple/1clipboard'
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/wiziple/1Clipboard/master/resources/github/app.png'}
+keywords:
+    - clipboard
+category: Utilities

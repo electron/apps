@@ -1,0 +1,15 @@
+name: 'System Designer'
+description: 'IDE for designing JavaScript applications driven by the model'
+website: 'https://designfirst.io/systemdesigner/'
+repository: 'https://github.com/design-first/system-designer'
+keywords:
+    - uml
+    - model
+    - system
+    - IDE
+    - OSGI
+license: Apache-2.0
+category: 'Developer Tools'
+screenshots:
+    -
+        imageUrl: 'https://designfirst.io/img/system-designer.png'

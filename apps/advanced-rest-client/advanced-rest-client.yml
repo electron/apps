@@ -1,0 +1,31 @@
+name: 'Advanced REST Client'
+description: 'REST client application for developers'
+website: 'https://install.advancedrestclient.com'
+category: 'Developer Tools'
+repository: 'https://github.com/advanced-rest-client/arc-electron'
+keywords:
+    - REST
+    - 'REST client'
+    - HTTP
+    - request
+    - developer
+license: Apache-2.0
+screenshots:
+  -
+    imageUrl: 'https://install.advancedrestclient.com/images/screenshots/electron-apps/request.png'
+    caption: 'Making a HTTP request'
+  -
+    imageUrl: 'https://install.advancedrestclient.com/images/screenshots/electron-apps/authorization-oauth2.png'
+    caption: 'Authorizing with OAuth2 endpoint'
+  -
+    imageUrl: 'https://install.advancedrestclient.com/images/screenshots/electron-apps/cookie-manager.png'
+    caption: 'Session management via cookies'
+  -
+    imageUrl: 'https://install.advancedrestclient.com/images/screenshots/electron-apps/variables.png'
+    caption: 'Local and system variables'
+  -
+    imageUrl: 'https://install.advancedrestclient.com/images/screenshots/electron-apps/response-actions.png'
+    caption: 'Automation with request actions'
+  -
+    imageUrl: 'https://install.advancedrestclient.com/images/screenshots/electron-apps/google-drive.png'
+    caption: 'Google Drive integration'

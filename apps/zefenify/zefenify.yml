@@ -1,0 +1,13 @@
+name: Zefenify
+description: 'Ethiopian. Music.'
+website: 'https://zefenify.com/about.html'
+repository: 'https://github.com/Zefenify/Wolf-Cola'
+keywords:
+    - music
+license: MIT
+category: Music
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/Zefenify/Wolf-Cola/master/screenshots/sc1.png'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/Zefenify/Wolf-Cola/master/screenshots/sc2.png'

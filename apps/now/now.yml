@@ -1,11 +1,14 @@
-name: Now
-description: 'The desktop client for ZEIT''s now'
-website: 'https://zeit.co/app'
-repository: 'https://github.com/zeit/now-app'
+name: Now Desktop
+description: 'Deploy your web app or API right from the tray menu'
+website: 'https://zeit.co/download'
+repository: 'https://github.com/zeit/now-desktop'
+homebrewCaskName: now
 keywords:
     - now
+    - desktop
     - zeit
     - deployment
     - sharing
     - development
 license: MIT
+category: 'Developer Tools'

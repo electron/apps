@@ -1,0 +1,14 @@
+name: 'Media Mate'
+description: 'Media server/player/downloader - in one'
+website: 'https://github.com/willyb321/media_mate'
+repository: 'https://github.com/willyb321/media_mate'
+keywords:
+    - media
+    - server
+    - downloader
+    - tv
+license: MIT
+category: 'Photo & Video'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/willyb321/media_mate/develop/img/homepage.png'

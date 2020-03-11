@@ -1,0 +1,11 @@
+name: Quickwords
+description: 'A productivity app, to get on with your work quicker. It expands predefined snippets into commonly typed text or emojis 😎'
+website: 'https://quickwords.co'
+category: Productivity
+repository: 'https://github.com/quickwords/quickwords'
+keywords:
+    - productivity
+    - 'text expander'
+    - snippets
+    - quickwords
+license: MIT

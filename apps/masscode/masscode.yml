@@ -1,0 +1,14 @@
+name: massCode
+description: 'Open source code snippets manager for developers.'
+website: 'https://masscode.io'
+repository: 'https://github.com/antonreshetov/massCode'
+keywords:
+    - productivity
+    - snippet
+    - markdown
+    - note
+    - code
+license: AGPLv3
+category: Productivity
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/antonreshetov/massCode/master/preview.png'}

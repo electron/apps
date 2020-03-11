@@ -1,7 +1,10 @@
-name: Deckard AI
+name: 'Deckard AI'
 description: 'Software team assistant that makes code talk'
 website: 'https://www.deckard.ai'
 keywords:
     - productivity
     - collaboration
     - documentation
+category: Productivity
+disabled: true
+disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'

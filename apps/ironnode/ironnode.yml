@@ -1,9 +1,12 @@
 name: ironNode
 description: 'A Node.js JavaScript Debugger'
-website: 'http://s-a.github.io/iron-node/'
+website: 'https://s-a.github.io/iron-node/'
 repository: 'https://github.com/s-a/iron-node'
 keywords:
     - debug
     - debugger
     - nodejs
 license: MIT
+category: 'Developer Tools'
+screenshots:
+    - {imageUrl: 'https://raw.githubusercontent.com/s-a/iron-node/master/docs/iron-node-demo.gif'}

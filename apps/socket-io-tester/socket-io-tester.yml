@@ -1,7 +1,7 @@
-name: Socket.io tester
+name: 'Socket.io tester'
 description: 'Test your socket.io server, while developing'
-website: 'http://appsaloon.github.io/socket.io-tester/'
-repository : https://github.com/AppSaloon/socket.io-tester
+website: 'https://appsaloon.github.io/socket.io-tester/'
+repository: 'https://github.com/AppSaloon/socket.io-tester'
 keywords:
     - socket.io
     - websockets
@@ -10,3 +10,6 @@ keywords:
     - 'web technology'
     - productivity
 license: GPL-2.0
+category: Productivity
+screenshots:
+    - {imageUrl: 'https://github.com/AppSaloon/socket.io-tester/raw/master/assets/screenshotV110.png'}

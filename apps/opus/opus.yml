@@ -1,0 +1,13 @@
+name: Opus
+description: 'Minimal note-taking application'
+website: 'https://opus.now.sh'
+repository: 'https://github.com/pacocoursey/opus'
+keywords:
+  - writing
+  - text
+  - note
+  - note-taking
+category: 'Productivity'
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/pacocoursey/Opus/master/assets/screenshot-light.png'

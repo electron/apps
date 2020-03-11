@@ -1,0 +1,23 @@
+name: Thermal
+description: 'One stop to all Git repository.'
+website: 'https://thermal.codecarrot.net/'
+category: 'Developer Tools'
+repository: 'https://github.com/gitthermal/thermal'
+keywords:
+    - git
+    - 'git gui'
+    - 'open source'
+    - 'developer tools'
+    - 'cross platform'
+screenshots:
+    - imageUrl: 'https://i.imgur.com/jKP8HDc.png'
+      caption: 'Thermal website'
+
+    - imageUrl: 'https://i.imgur.com/N4JrpYA.png'
+      caption: 'Opening repository'
+
+    - imageUrl: 'https://i.imgur.com/ygdY5tz.png'
+      caption: 'Initialize Git repository'
+
+    - imageUrl: 'https://i.imgur.com/vn9cYDA.png'
+      caption: 'Git Commands feature'

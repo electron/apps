@@ -1,8 +1,16 @@
 name: Insomnia
 description: 'REST API Client'
-website: 'https://insomnia.rest/'
+website: https://insomnia.rest/
+repository: https://github.com/getinsomnia/insomnia
 keywords:
-    - 'REST Client'
+    - REST Client
     - HTTP
     - API
-    - 'Developer Tool'
+    - developer tools
+    - GraphQL
+license: MIT
+category: 'Developer Tools'
+homebrewCaskName: insomnia
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/getinsomnia/insomnia/master/screenshots/main.png'

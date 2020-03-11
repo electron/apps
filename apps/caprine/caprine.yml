@@ -9,3 +9,7 @@ keywords:
     - facebook
 license: MIT
 disabled: true
+category: 'Social Networking'
+screenshots:
+    -
+        imageUrl: 'https://raw.githubusercontent.com/sindresorhus/caprine/master/media/screenshot.png'

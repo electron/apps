@@ -1,0 +1,25 @@
+name: Zettlr
+description: 'Write Markdown with Zettelkasten and citation support and manage your book and paper projects'
+website: 'https://www.zettlr.com/'
+repository: 'https://github.com/zettlr/zettlr'
+keywords:
+    - markdown
+    - editor
+    - writing
+    - academic
+    - export
+    - share
+category: Productivity
+license: 'GNU GPL v3'
+screenshots:
+    -
+        imageUrl: 'https://github.com/Zettlr/Zettlr/raw/master/resources/screenshots/zettlr_view.png'
+        caption: 'Impression of Zettlr'
+    -
+        imageUrl: 'https://github.com/Zettlr/Zettlr/raw/master/resources/screenshots/zettlr_view_dark.png'
+        caption: 'Impression of Zettlr using the dark theme'
+locales:
+  - de-DE
+  - en-US
+  - en-GB
+  - fr-FR

@@ -1,3 +1,6 @@
 name: WordPress.com
-description: 'A desktop app for Wordpress'
+description: 'A desktop app for WordPress'
 website: 'https://desktop.wordpress.com'
+keywords:
+    - Productivity
+category: Productivity
