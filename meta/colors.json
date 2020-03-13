@@ -1103,6 +1103,22 @@
       "revHash": "69a6be950c"
     }
   },
+  "camunda-modeler": {
+    "faintColorOnWhite": "rgba(60, 128, 14, 0.1)",
+    "goodColorOnBlack": "#54B414",
+    "goodColorOnWhite": "#3C800E",
+    "palette": [
+      "#f9faf9",
+      "#54b414",
+      "#94cc80",
+      "#9ccc8c",
+      "#80c268"
+    ],
+    "source": {
+      "path": "apps/camunda-modeler/camunda-modeler-icon.png",
+      "revHash": "18b2874c17"
+    }
+  },
   "cansnippet": {
     "faintColorOnWhite": "rgba(4, 76, 136, 0.1)",
     "goodColorOnBlack": "#047BDB",
@@ -1165,6 +1181,22 @@
     "source": {
       "path": "apps/caption/caption-icon.png",
       "revHash": "66fa201949"
+    }
+  },
+  "caption-pro": {
+    "faintColorOnWhite": "rgba(150, 64, 240, 0.1)",
+    "goodColorOnBlack": "#C489FC",
+    "goodColorOnWhite": "#9640F0",
+    "palette": [
+      "#9640f0",
+      "#fbfbfb",
+      "#c489fc",
+      "#ccacf1",
+      "#bca0d4"
+    ],
+    "source": {
+      "path": "apps/caption-pro/caption-pro-icon.png",
+      "revHash": "822675d4d4"
     }
   },
   "caret": {
@@ -4285,6 +4317,22 @@
     "source": {
       "path": "apps/graviton-editor/graviton-editor-icon.png",
       "revHash": "ddfdf990a1"
+    }
+  },
+  "groupmail": {
+    "faintColorOnWhite": "rgba(96, 92, 92, 0.1)",
+    "goodColorOnBlack": "#817C7C",
+    "goodColorOnWhite": "#605C5C",
+    "palette": [
+      "#5c5c5c",
+      "#605c5c",
+      "#605c5c",
+      "#605c5c",
+      "#605c5c"
+    ],
+    "source": {
+      "path": "apps/groupmail/groupmail-icon.png",
+      "revHash": "c28645967f"
     }
   },
   "groupme": {
@@ -11248,19 +11296,19 @@
     }
   },
   "symphony": {
-    "faintColorOnWhite": "rgba(76, 68, 60, 0.1)",
-    "goodColorOnBlack": "#F39F55",
-    "goodColorOnWhite": "#4C443C",
+    "faintColorOnWhite": "rgba(56, 108, 148, 0.1)",
+    "goodColorOnBlack": "#22A6FB",
+    "goodColorOnWhite": "#386C94",
     "palette": [
-      "#7a8a68",
-      "#f39f55",
-      "#3b3c3c",
-      "#4cacd4",
-      "#4c443c"
+      "#18183c",
+      "#22a6fb",
+      "#343454",
+      "#343f7e",
+      "#386c94"
     ],
     "source": {
       "path": "apps/symphony/symphony-icon.png",
-      "revHash": "f100c248c9"
+      "revHash": "f186e7de34"
     }
   },
   "synap": {
