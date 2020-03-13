@@ -1,7 +1,7 @@
 {
-  "name": "electron-apps",
-  "version": "1.7923.0",
-  "description": "A collection of apps built on Electron",
+  "name": "ioui",
+  "version": "1.0.0",
+  "description": "Welcome to IOUI(beta), a desktop app which provide you IONIC CLI in UI",
   "main": "index.json",
   "scripts": {
     "build": "npm-run-all build:*",
@@ -22,7 +22,10 @@
     "wizard": "node wizard.js",
     "release": "script/release.sh"
   },
-  "repository": "https://github.com/electron/apps",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electron/apps.git"
+  },
   "keywords": [
     "electron",
     "apps",
@@ -80,5 +83,13 @@
     "env": [
       "mocha"
     ]
+  },
+  "bugs": {
+    "url": "https://github.com/electron/apps/issues"
+  },
+  "homepage": "https://github.com/electron/apps#readme",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   }
 }
