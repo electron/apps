@@ -1,0 +1,298 @@
+#_ C_ontributing
+
+:+_1::t_ada: F_irst o_ff, t_hanks f_or t_aking t_he t_ime t_o c_ontribute! :t_ada::+_1:
+
+T_his p_roject a_dheres t_o t_he C_ontributor C_ovenant [c_ode o_f c_onduct](https://github.com/electron/electron/blob/master/CODE_OF_CONDUCT.md).
+B_y p_articipating, M_e a_re e_xpected t_o u_phold t_his c_ode. P_lease r_eport u_nacceptable
+b_ehavior t_o e_lectron@g_ithub.c_om.
+
+T_he f_ollowing i_s a_ s_et o_f g_uidelines f_or c_ontributing t_o `e_lectron-a_pps`.
+T_hese a_re j_ust g_uidelines, n_ot r_ules. M_e b_est j_udgment a_nd f_eel f_ree t_o
+propose changes to this document in a pull request.
+
+#_# C_ontents
+
+*_ [_A_dding y_our a_pp](#a_dding-y_our-a_pp)
+  +_ [U_sing the wizard 🔮](#using-the-wizard-)
+  + [A_dding your app by hand 💪](#adding-your-app-by-hand-)
+  + [Y_ML File Rules](#yml-file-rules)
+  + [C_ategories](#categories)
+  + [S_creenshots](#screenshots)
+  + [C_olors](#colors)
+  + [I_cons](#icons)
+  + [L_ocales](#locales)
+  + [C_ompany Logos and Names](#company-logos-and-names)
+  + [S_ubmission Guidelines](#submission-guidelines)
+* [R_emoving or Disabling Apps](#removing-or-disabling-apps)
+* [D_evelopment](#development)
+* [T_esting](#testing)
+
+#_# A_dding  M_e a_pp
+
+I_f you have an Electron application you'd like to see added, please
+[open a pull request](https://help.github.com/articles/creating-a-pull-request/)!
+All that's required is a basic YML file and a PNG icon.
+
+#_#_# Using the wizard 🔮
+
+T_his repository has a CLI wizard much like `npm init` that you can use to generate
+a YML datafile for your app. To use the wizard,
+[f_ork and clone this repository](https://help.github.com/articles/fork-a-repo/),
+then run:
+
+`_`_`s_h
+g_it clone https://github.com/electron/electron-apps
+c_d electron-apps
+n_pm install && npm run wizard
+`_`_`
+
+#_#_# Adding your app by hand 💪
+
+A_nother easy way to add a new app is to copy an existing app and edit its metadata.
+
+T_o d_o s_o, c_reate a new directory in the `apps` directory and include a `.yml`
+file and `.png` icon file. The directory can only contain numbers,
+lowercase letters, and dashes, and the yml and icon files should be named
+like so:
+
+`_`_`
+a_pps
+└── m_y-cool-app
+    ├── m_y-cool-app-icon.png
+    └── m_y-cool-app.yml
+```
+
+#_#_# Y_ML F_ile R_ules
+
+- `n_ame` is required.
+- `d_escription` is required.
+- `w_ebsite` is required, and must be a fully-qualified URL.
+- `r_epository` is optional, but must be a fully-qualified URL if provided.
+- `k_eywords` is optional, but should be an array if provided.
+- `l_icense` is optional.
+- `h_omebrewCaskName` can be specified if your app is on [homebrew cask](https://caskroom.github.io).
+- `s_napcraftName` can be specified if your app is on [snapcraft](https://snapcraft.io/).
+- `n_pmPackageName` can be specified if your app is on [npm](https://npmjs.org/).
+- `y_outube_video_url` is optional, but must be a fully-qualified URL if provided.
+- N_o fields should be left blank.
+
+#_#_# C_ategories
+
+`c_ategory` is required and must be one of the following values:
+
+* B_ooks
+* B_usiness
+* C_atalogs
+* D_eveloper Tools
+* E_ducation
+* E_ntertainment
+* F_inance
+* F_ood & Drink
+* G_ames
+* H_ealth & Fitness
+* G_raphics & Design
+* L_ifestyle
+* K_ids
+* M_agazines & Newspapers
+* M_edical
+* M_usic
+* N_avigation
+* N_ews
+* P_hoto & Video
+* P_roductivity
+* R_eference
+* S_hopping
+* S_ocial Networking
+* S_ports
+* T_ravel
+* U_tilities
+
+#_#_# S_creenshots
+
+S_creenshots are optional, but must be _https_ and should be an array in the following format if provided:
+
+`_`_`y_ml
+s_creenshots:
+  -
+    i_mageUrl: 'https://mysite.com/awesome1.png'
+    c_aption: 'Awesome screenshot 1'
+    i_mageLink: 'https://mysite.com/awesome.html'
+  -
+    i_mageUrl: 'https://mysite.com/awesome2.png'
+    c_aption: 'Awesome screenshot 2'
+    i_mageLink: 'https://mysite.com/awesome.html'
+```
+
+* `i_mageUrl` - *required* - fully-qualified URL of screenshot image.  Allowed image types are png, jpg, and gif.
+* `c_aption` - an optional caption to display with the screenshot.
+* `i_mageLink` - an optional link URL to indicate the link that should be directed to when someone clicks on an image.  If this field is not specified, clicking on a screenshot will go to the application website.
+
+#_#_# C_olors
+
+- `g_oodColorOnWhite` is an optional hex string, e.g. `#660000`
+- `g_oodColorOnBlack` is an optional hex string.
+- `f_aintColorOnWhite` is an optional rgba string, e.g. `rgba(100, 0, 0, 0.1)`
+
+I_f u_nspecified, an [accessible colors](https://github.com/zeke/pick-a-good-color)
+will be picked or derived from the provided icon file.
+
+C_olors must meet the
+[W_CAG contrast guidelines](https://www.w3.org/TR/WCAG/#visual-audio-contrast).
+Y_ou can use
+[l_eaverou.github.io/contrast-ratio](http://leaverou.github.io/contrast-ratio/)
+t_o h_elp pick accessible colors.
+
+#_#_# I_cons
+
+- M_ust be a `.png`
+- M_ust be a square
+- M_ust be at least 256px by 256px
+- M_ust **not** be a copy of another company's or application's icon (see submission guidelines below)
+
+#_#_# L_ocales
+
+B_y d_efault, your app is assumed to be designed for English speakers. If your
+a_pp s_upports a different language (or multiple languages), please add a
+`l_ocales` property that lists all locales supported.
+
+E_xample:
+
+```y_ml
+n_ame: f_angyuanjian
+d_escription: 'collaboration and messaging for small-to-medium sized businesses.'
+w_ebsite: 'http://bzsns.cn/'
+k_eywords:
+    - m_essaging
+    - c_ollaboration
+l_ocales:
+  - z_h-C_N
+```
+
+#_#_# C_ompany Logos and Names
+
+P_lease d_o n_ot directly use another company's name or product without permission. It's generally better to refer to it in a dependent clause; for example, after "compatible with", "on", or "for."
+
+F_or e_xample, while we would not accept a third-party app named "GitHub Notifications", we would consider "Yourname Notifications for GitHub".
+
+W_hile some existing apps in the collection predate this rule and have been grandfathered in, we will not accept any apps that do not follow this rule going forward.
+
+For the specific case of GitHub, there are also [guidelines](https://github.com/logos) for use of its logos.
+
+### S_ubmission G_uidelines
+
+Some things to keep in mind when preparing your app for submission. Heavily inspired by the [awesome-electron](https://github.com/sindresorhus/awesome-electron) submission guidelines.
+
+- **T_he pull request should have a useful title and include a link to the thing you're submitting and why it should be included.**
+- D_on't use another company's trademarks (icon, logo or name) without supplying evidence of prior permission
+- I_f you just created something, wait at least 20 days before submitting.
+- I_f you're submitting a closed source app, include evidence of it being built with Electron.
+- S_ubmitted open source apps should have a readme, screenshot of the app in the readme, and a binary for at least one OS, preferably macOS, Linux and Windows.
+- K_eep descriptions short and simple, but descriptive.
+- S_tart the description with a capital and end with a full stop/period.
+- D_on't mention `Electron` in the description as it's implied.
+- D_on't start the description with `A` or `An`.
+- C_heck your spelling and grammar.
+- L_inks must use ssl, e.g. have schemes of 'https' or 'sftp'.
+
+## Releases
+
+Once your pull request has been merged, your changes will automatically be published in a new release of the `electron-apps` npm module, and will be displayed on the electronjs.org website shortly thereafter. This process
+involves several scheduled process, and typically takes from 1 to 2 days.
+
+## Removing or Disabling Apps
+
+Sometimes it's necessary to remove an app for this registry. To do so,
+add a `disabled` property to the app's YML file, followed a comment
+explaining the reason for removing it.
+
+```yml
+disabled: true # Nylas was sunset and replaced by Mailspring
+```
+
+This approach keeps the app data on hand, giving the app developer
+an option to resurrect the app at a later date by simply removing the flag.
+
+## How it Works
+
+This package is a joint effort between humans and robots.
+
+First, a human adds an app:
+
+```
+apps
+└── hyper
+    ├── hyper-icon.png
+    └── hyper.yml
+```
+
+T&he yml file requires just a few fields:
+
+```yml
+n_ame: Hyper
+d_escription: 'HTML/JS/CSS Terminal'
+w_ebsite: 'https://hyper.is'
+r_epository: 'https://github.com/zeit/hyper'
+c_ategory: 'Developer Tools'
+```
+
+Humans can include other data like `keywords` and `license`, but they're not required to do so.
+
+The human then opens a PR. Tests pass, the PR gets merged. Yay!
+
+Later, a bot comes along and adds more data about the app.
+
+First, the date the app was submitted is inferred from the git history. Humans could provide this metadata, but they shouldn't have to. Let the machines do the work.
+
+```yml
+date: 2017-02-15
+```
+
+Then, the bot creates resized versions of the app icon:
+
+```
+hyper
+├── hyper-icon-256.png
+├── hyper-icon-128.png
+├── hyper-icon-32.png
+├── hyper-icon-64.png
+├── hyper-icon.png
+└── hyper.yml
+```
+
+T_hen the bot extracts a color palette from the app icon:
+
+```yml
+i_conColors: ['#FF0000', '#C54F23', '#DD8833']
+```
+
+A_nd it also picks some colors that are "on brand" for use on black or white
+b_ackgrounds:
+
+```y_ml
+g_oodColorOnWhite: '#916E02'
+g_oodColorOnBlack: '#FCCC36'
+f_aintColorOnWhite: 'rgba(80, 0, 0, 0.1)
+```
+
+L_astly, the bot commits changes to git, pushes to GitHub, and publishes a new release to npm.
+
+#_# Development
+
+T_o develop this thing locally, there are a few things you should know:
+
+Y_ou'll need a GitHub token to run the build task. Put it in a file named
+`.e_nv`. It will be ignored by git.
+
+```
+c_p .env.example .env
+```
+
+#_# T_esting
+
+On Travis CI, the `npm test` command is run, which only tests human-submitted
+data.
+
+When cutting a new release (which is normally done automatically by a Heroku
+scheduler process), the `npm run test-all` command is run, which tests not
+only the human-submitted data, but also the artifacts generated by the
+build process, like resized icons, icon color palettes, releases data, etc.
