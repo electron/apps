@@ -1,0 +1,17 @@
+name: Blink Mind Desktop
+description: 'Full featured mind map and outliner app.'
+website: 'https://github.com/awehook/blink-mind-package'
+repository: 'https://github.com/awehook/blink-mind-package'
+keywords:
+    - productivity
+    - mindmap
+    - outliner
+    - note
+locales:
+  - zh-CN
+  - en
+category: Productivity
+screenshots:
+    - {imageUrl: 'https://github.com/awehook/images/raw/master/blink-mind-desktop/blink-mind-mindmap-light.png'}
+    - {imageUrl: 'https://github.com/awehook/images/raw/master/blink-mind-desktop/blink-mind-mindmap.png'}
+    - {imageUrl: 'https://github.com/awehook/images/raw/master/blink-mind-desktop/blink-mind-outliner.png'}
