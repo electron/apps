@@ -1,0 +1,16 @@
+name: 'Viewdir'
+descriptrion: 'Neat image viewer featuring single-hand operations (pan, wheelzoom, next and prev).'
+website: 'https://github.com/sprout2000/viewdir'
+license: MIT
+category: 'Photo & Video'
+keywords:
+  - 'image viewer'
+  - 'pan & wheel zoom'
+screenshots:
+  - 
+    imageUrl: 'https://user-images.githubusercontent.com/52094761/75635811-6afe0380-5c5c-11ea-9227-4130c5c626c4.jpg'
+    caption: 'Viewdir screenshot'
+    imageLink: 'https://github.com/sprout2000/viewdir#readme'
+locales:
+  - ja-JP
+  - en
