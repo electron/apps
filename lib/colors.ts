@@ -2,12 +2,12 @@ import * as fs from 'fs'
 import * as path from 'path'
 import revHash = require('rev-hash')
 import * as mime from 'mime-types'
+import * as stringify from 'json-stable-stringify'
 import { $TSFixMe } from './interfaces'
+import * as colorConvert from 'color-convert'
 
-const colorConvert = require('color-convert')
 const getImageColors = require('get-image-colors')
 const pickAGoodColor = require('pick-a-good-color')
-const stringify = require('json-stable-stringify')
 
 /**
  * Generates good colors for an image.

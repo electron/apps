@@ -3,28 +3,23 @@ const RELEASE_CACHE_TTL = require('human-interval')(
   process.env.RELEASE_CACHE_TTL || '4 hours'
 )
 
-const fs = require('fs')
-const path = require('path')
+import * as fs from 'fs'
+import * as path from 'path'
 const Bottleneck = require('bottleneck')
-const github = require('../lib/github')
+import { github } from '../lib/github'
 const parseGitUrl = require('github-url-to-object')
 
 const outputFile = path.join(__dirname, '../meta/releases.json')
 const oldReleaseData = require(outputFile)
-const output = {}
+const output: $TSFixMe = {}
 const limiter = new Bottleneck(MAX_CONCURRENCY)
 
-const apps = require('../lib/raw-app-list')()
-const appsWithRepos = require('../lib/apps-with-github-repos')
+import { apps } from '../lib/raw-app-list'
+import { appsWithRepos } from '../lib/apps-with-github-repos'
+import { $TSFixMe } from '../lib/interfaces'
 
-console.log(
-  `${appsWithRepos.length} of ${apps.length} apps have a GitHub repo.`
-)
-console.log(
-  `${appsWithRepos.filter(shouldUpdateAppReleaseData).length} of those ${
-    appsWithRepos.length
-  } have missing or outdated release data.`
-)
+console.log(`${appsWithRepos.length} of ${apps().length} apps have a GitHub repo.`)
+console.log(`${appsWithRepos.filter(shouldUpdateAppReleaseData).length} of those ${appsWithRepos.length} have missing or outdated release data.`)
 
 appsWithRepos.forEach((app) => {
   if (shouldUpdateAppReleaseData(app)) {
@@ -40,15 +35,15 @@ limiter.on('idle', () => {
   process.exit()
 })
 
-function shouldUpdateAppReleaseData(app) {
+function shouldUpdateAppReleaseData (app: $TSFixMe) {
   const oldData = oldReleaseData[app.slug]
   if (!oldData || !oldData.latestReleaseFetchedAt) return true
   const oldDate = new Date(oldData.latestReleaseFetchedAt || null).getTime()
   return oldDate + RELEASE_CACHE_TTL < Date.now()
 }
 
-function getLatestRelease(app) {
-  const { user: owner, repo } = parseGitUrl(app.repository)
+function getLatestRelease (app: $TSFixMe) {
+  const {user: owner, repo} = parseGitUrl(app.repository)
   const opts = {
     owner: owner,
     repo: repo,
