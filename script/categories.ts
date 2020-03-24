@@ -1,8 +1,8 @@
 import * as fs from 'fs'
 import * as path from 'path'
+import { getSlugs as apps } from '../lib/raw-app-list'
 const countArrayValues = require('count-array-values')
 const slugg = require('slugg')
-import { getSlugs as apps } from '../lib/raw-app-list'
 
 console.log('Generating a list of categories with counts...')
 
