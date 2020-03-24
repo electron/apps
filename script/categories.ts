@@ -1,6 +1,8 @@
 import * as fs from 'fs'
 import * as path from 'path'
 import { apps } from '../lib/raw-app-list'
+import { $TSFixMe } from '../lib/interfaces'
+
 const countArrayValues = require('count-array-values')
 const slugg = require('slugg')
 

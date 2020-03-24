@@ -1,12 +1,12 @@
-'use strict'
+import * as fs from 'fs'
+import * as path from 'path'
+import revHash = require('rev-hash')
+import * as mime from 'mime-types'
+import { $TSFixMe } from './interfaces'
 
-const fs = require('fs')
 const colorConvert = require('color-convert')
 const getImageColors = require('get-image-colors')
-const mime = require('mime-types')
-const path = require('path')
 const pickAGoodColor = require('pick-a-good-color')
-const revHash = require('rev-hash')
 const stringify = require('json-stable-stringify')
 
 /**
@@ -17,9 +17,13 @@ const stringify = require('json-stable-stringify')
  * @param root: repo toplevel directory so that saved iconPaths are relative to it
  * @return { slug: { palette, goodColorOnWhite, goodColorOnBlack, faintColorOnWhite, source: { revHash, iconPath } }
  */
-async function getColors(slugsAndIconPaths, oldColors, root) {
+export async function getColors (
+  slugsAndIconPaths: $TSFixMe,
+  oldColors: $TSFixMe,
+  root: string
+) {
   return Promise.all(
-    slugsAndIconPaths.map(async (app) => {
+    slugsAndIconPaths.map(async (app: $TSFixMe) => {
       const slug = app.slug
       try {
         const data = fs.readFileSync(app.iconPath)
@@ -30,9 +34,9 @@ async function getColors(slugsAndIconPaths, oldColors, root) {
         if (o && o.source && o.source.revHash === hash) return { [slug]: o }
 
         console.info(`calculating good colors for ${slug}`)
-        return await getImageColors(data, mime.lookup(app.iconPath)).then(
-          (iconColors) => {
-            const palette = iconColors.map((color) => color.hex())
+        return await getImageColors(data, mime.lookup(app.iconPath))
+          .then((iconColors: $TSFixMe) => {
+            const palette = iconColors.map((color: $TSFixMe) => color.hex())
             const goodColorOnWhite = pickAGoodColor(palette)
             const goodColorOnBlack = pickAGoodColor(palette, {
               background: 'black',
@@ -69,7 +73,11 @@ async function getColors(slugsAndIconPaths, oldColors, root) {
  * @param colorsFile: the file that keeps the list of complimentary colors
  * @param root: repo toplevel directory so that saved iconPaths are relative to it
  */
-const rebuildColorFile = (slugsAndIconPaths, colorsFile, root) => {
+export const rebuildColorFile = (
+  slugsAndIconPaths: $TSFixMe,
+  colorsFile: $TSFixMe,
+  root: string
+) => {
   let oldColors
   try {
     oldColors = require(colorsFile)
@@ -85,6 +93,3 @@ const rebuildColorFile = (slugsAndIconPaths, colorsFile, root) => {
     }
   })
 }
-
-module.exports = rebuildColorFile
-module.exports.getColors = getColors

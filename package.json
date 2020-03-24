@@ -8,7 +8,7 @@
     "build:clean": "ts-node script/clean.ts",
     "build:resize": "node script/resize",
     "build:dates": "ts-node script/dates.ts",
-    "build:colors": "node script/colors",
+    "build:colors": "ts-node script/colors.ts",
     "build:categories": "ts-node script/categories.ts",
     "build:releases": "node script/releases",
     "build:readmes": "node script/readmes",
@@ -75,7 +75,7 @@
     "typescript": "^3.8.3"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">= 10"
   },
   "dependencies": {
     "json-stable-stringify": "^1.0.1",
