@@ -5,7 +5,7 @@ const it = mocha.it
 const fs = require('fs')
 const path = require('path')
 const expect = require('chai').expect
-const yaml = require('yamljs')
+const yaml = require('js-yaml')
 const isUrl = require('is-url')
 const { URL } = require('url')
 const cleanDeep = require('clean-deep')
@@ -41,7 +41,7 @@ describe('human-submitted app data', () => {
       })
 
       describe(`${yamlFile}`, () => {
-        const app = yaml.load(yamlPath)
+        const app = yaml.safeLoad(fs.readFileSync(yamlPath))
 
         it('has a name', () => {
           expect(app.name.length).to.be.above(0)
