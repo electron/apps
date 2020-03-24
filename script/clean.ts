@@ -4,9 +4,9 @@
 // files are present in the repo. This script cleans up any leftover local
 // artifacts that were created by `npm run build`, such as `apps/foo-icon-128.png`
 
-const fs = require('fs')
-const path = require('path')
-const rimraf = require('rimraf').sync
+import * as fs from 'fs'
+import * as path from 'path'
+import { sync as rimraf } from 'rimraf'
 
 fs.readdirSync(path.join(__dirname, '../apps'))
   .filter((filename) => {
