@@ -9,7 +9,7 @@
     "build:resize": "node script/resize",
     "build:dates": "node script/dates",
     "build:colors": "node script/colors",
-    "build:categories": "node script/categories",
+    "build:categories": "ts-node script/categories.ts",
     "build:releases": "node script/releases",
     "build:readmes": "node script/readmes",
     "build:pack": "node script/pack",

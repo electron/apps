@@ -1,14 +1,11 @@
-const fs = require('fs')
-const path = require('path')
-const yaml = require('js-yaml')
+import * as fs from 'fs'
+import * as path from 'path'
+import * as yaml from 'js-yaml'
 
-module.exports = function getSlugs() {
-  return fs
-    .readdirSync(path.join(__dirname, '../apps'))
-    .filter((filename) => {
-      return fs
-        .statSync(path.join(__dirname, `../apps/${filename}`))
-        .isDirectory()
+export function getSlugs() {
+  return fs.readdirSync(path.join(__dirname, '../apps'))
+    .filter(filename => {
+      return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
     })
     .sort()
     .map((slug) => {
