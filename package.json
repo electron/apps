@@ -7,7 +7,7 @@
     "build": "npm-run-all build:*",
     "build:clean": "ts-node script/clean.ts",
     "build:resize": "node script/resize",
-    "build:dates": "node script/dates",
+    "build:dates": "ts-node script/dates.ts",
     "build:colors": "node script/colors",
     "build:categories": "ts-node script/categories.ts",
     "build:releases": "node script/releases",

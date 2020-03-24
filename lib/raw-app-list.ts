@@ -2,8 +2,8 @@ import * as fs from 'fs'
 import * as path from 'path'
 import * as yaml from 'js-yaml'
 
-export function getSlugs() {
-  return fs.readdirSync(path.join(__dirname, '../apps'))
+export const apps = () =>
+  fs.readdirSync(path.join(__dirname, '../apps'))
     .filter(filename => {
       return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
     })
@@ -19,4 +19,3 @@ export function getSlugs() {
       )
       return app
     })
-}
