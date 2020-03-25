@@ -2,9 +2,9 @@ name: Ripplectron
 description: 'Desktop wallet for Ripple blockchain coins'
 website: 'https://github.com/devjin0617/ripplectron'
 keywords:
-    - blockchain
-    - ripple
-    - bitcoin
-    - wallet
-    - money
+  - blockchain
+  - ripple
+  - bitcoin
+  - wallet
+  - money
 category: 'Finance'

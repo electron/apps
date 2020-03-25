@@ -6,11 +6,7 @@ repository: 'https://github.com/TestMace/TestMace-issues'
 snapcraftName: 'testmace'
 youtube_video_url: 'https://www.youtube.com/watch?v=Gyg_4w78KBo'
 screenshots:
-  -
-    imageUrl: 'https://i.imgur.com/rDKoovI.png'
-  -
-    imageUrl: 'https://i.imgur.com/XS7XrDa.png'
-  -
-    imageUrl: 'https://i.imgur.com/H7ct93T.png'
-  -
-    imageUrl: 'https://i.imgur.com/GJ6CZr7.png'
+  - imageUrl: 'https://i.imgur.com/rDKoovI.png'
+  - imageUrl: 'https://i.imgur.com/XS7XrDa.png'
+  - imageUrl: 'https://i.imgur.com/H7ct93T.png'
+  - imageUrl: 'https://i.imgur.com/GJ6CZr7.png'

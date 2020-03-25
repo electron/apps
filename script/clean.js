@@ -9,13 +9,17 @@ const path = require('path')
 const rimraf = require('rimraf').sync
 
 fs.readdirSync(path.join(__dirname, '../apps'))
-  .filter(filename => {
-    return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
+  .filter((filename) => {
+    return fs
+      .statSync(path.join(__dirname, `../apps/${filename}`))
+      .isDirectory()
   })
-  .filter(filename => {
-    return !fs.existsSync(path.join(__dirname, `../apps/${filename}/${filename}.yml`))
+  .filter((filename) => {
+    return !fs.existsSync(
+      path.join(__dirname, `../apps/${filename}/${filename}.yml`)
+    )
   })
-  .forEach(filename => {
+  .forEach((filename) => {
     const appDir = path.join(__dirname, `../apps/${filename}`)
     console.log(`Removing leftover artifacts from ${appDir}`)
     rimraf(appDir)

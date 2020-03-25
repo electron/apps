@@ -4,10 +4,10 @@ website: 'https://github.com/ShuttleBrowser/Shuttle'
 category: Utilities
 repository: 'https://github.com/ShuttleBrowser/Shuttle'
 keywords:
-    - utility
-    - browser
-    - social
-    - network
+  - utility
+  - browser
+  - social
+  - network
 license: 'NPOSL 3.0'
 goodColorOnWhite: '#d31854'
 locales:

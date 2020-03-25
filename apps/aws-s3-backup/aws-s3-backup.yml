@@ -1,22 +1,23 @@
 name: 'Backup on AWS S3'
-description: 'This app allows you to use Amazon Web Services (AWS) S3 as backup system for desktop environments.'
+description:
+  'This app allows you to use Amazon Web Services (AWS) S3 as backup system for
+  desktop environments.'
 website: 'https://github.com/ulver2812/aws-s3-backup'
 category: Utilities
 repository: 'https://github.com/ulver2812/aws-s3-backup'
 keywords:
-    - 'aws s3'
-    - aws
-    - 'amazon web services s3'
-    - s3
-    - backup
-    - 'cloud backup'
-    - 'backup manager'
-    - 'backup tool'
-    - 'disaster recovery'
+  - 'aws s3'
+  - aws
+  - 'amazon web services s3'
+  - s3
+  - backup
+  - 'cloud backup'
+  - 'backup manager'
+  - 'backup tool'
+  - 'disaster recovery'
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/ulver2812/aws-s3-backup/master/preview.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/ulver2812/aws-s3-backup/master/preview.gif'
     caption: 'AWS S3 Backup preview'
     imageLink: 'https://github.com/ulver2812/aws-s3-backup'
 locales:

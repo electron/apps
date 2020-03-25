@@ -3,12 +3,11 @@ description: 'Markdown Presentation Writer'
 website: 'https://yhatt.github.io/marp/'
 repository: 'https://github.com/yhatt/marp'
 keywords:
-    - markdown
-    - presentation
-    - slide
-    - PowerPoint
+  - markdown
+  - presentation
+  - slide
+  - PowerPoint
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/yhatt/marp/master/screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/yhatt/marp/master/screenshot.png'

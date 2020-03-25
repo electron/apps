@@ -3,10 +3,12 @@ description: 'A simple, clean and cross-platform music player'
 website: 'https://museeks.io/'
 repository: 'https://github.com/martpie/museeks'
 keywords:
-    - music
-    - audio
-    - 'music player'
+  - music
+  - audio
+  - 'music player'
 license: MIT
 category: Music
 screenshots:
-    - {imageUrl: 'https://raw.githubusercontent.com/martpie/museeks/master/screenshot.png'}
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/martpie/museeks/master/screenshot.png',
+    }

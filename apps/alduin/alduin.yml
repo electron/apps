@@ -3,17 +3,16 @@ description: 'An RSS, Atom and JSON feed reader'
 website: 'https://alduinapp.github.io'
 repository: 'https://github.com/AlduinApp/alduin'
 keywords:
-    - rss
-    - atom
-    - aggregator
-    - react
-    - redux
-    - react-redux
-    - jsonfeed
-    - json
-    - reader
+  - rss
+  - atom
+  - aggregator
+  - react
+  - redux
+  - react-redux
+  - jsonfeed
+  - json
+  - reader
 license: MIT
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/2924349c69dbcab6aa261e5eb51ba0d9cbe8b630/68747470733a2f2f692e696d6775722e636f6d2f6569394748444b2e706e67'
+  - imageUrl: 'https://camo.githubusercontent.com/2924349c69dbcab6aa261e5eb51ba0d9cbe8b630/68747470733a2f2f692e696d6775722e636f6d2f6569394748444b2e706e67'

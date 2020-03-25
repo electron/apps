@@ -4,7 +4,7 @@ website: 'https://github.com/LanceGin/Mockman'
 category: 'Developer Tools'
 repository: 'https://github.com/LanceGin/Mockman'
 keywords:
-    - mock-server
-    - api-mock
-    - vue
+  - mock-server
+  - api-mock
+  - vue
 license: AGPL

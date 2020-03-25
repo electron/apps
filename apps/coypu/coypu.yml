@@ -3,9 +3,9 @@ description: 'Text-editor-like weekly planner'
 website: 'https://coypu.co'
 repository: 'https://github.com/bkzl/coypu'
 keywords:
-    - productivity
-    - todo
-    - calendar
-    - planner
+  - productivity
+  - todo
+  - calendar
+  - planner
 license: MIT
 category: Productivity

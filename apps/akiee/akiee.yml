@@ -1,16 +1,19 @@
 name: Akiee
-description: 'A Markdown-based task manager for hackers and people who build stuff.'
+description:
+  'A Markdown-based task manager for hackers and people who build stuff.'
 website: 'https://rockiger.com/en/akiee/'
 repository: 'https://github.com/rockiger/akiee'
 keywords:
-    - todo
-    - 'task management'
-    - kanban
-    - personal
-    - markdown
-    - productivity
-    - agile
+  - todo
+  - 'task management'
+  - kanban
+  - personal
+  - markdown
+  - productivity
+  - agile
 license: GPL2
 category: Productivity
 screenshots:
-    - {imageUrl: 'https://camo.githubusercontent.com/87b2d2649dad262f1e23626a1a603b8800fbcc15/687474703a2f2f726f636b696765722e636f6d2f7374617469632f696d672f616b6965652d6c65616465722d3632362e6a7067'}
+  - {
+      imageUrl: 'https://camo.githubusercontent.com/87b2d2649dad262f1e23626a1a603b8800fbcc15/687474703a2f2f726f636b696765722e636f6d2f7374617469632f696d672f616b6965652d6c65616465722d3632362e6a7067',
+    }
