@@ -5,9 +5,9 @@ import * as dates from '../meta/dates.json'
 import * as colors from '../meta/colors.json'
 import * as releases from '../meta/releases.json'
 import * as readmes from '../meta/readmes.json'
-import { $TSFixMe } from '../lib/interfaces'
+import { IApp } from '../lib/interfaces'
 const parseGitHubUrl = require('github-url-to-object')
-const apps: $TSFixMe = []
+const apps: Array<IApp> = []
 
 fs.readdirSync(path.join(__dirname, '../apps'))
 .filter(filename => {

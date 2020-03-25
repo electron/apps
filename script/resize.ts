@@ -1,16 +1,15 @@
 const sharp = require('sharp')
 import * as path from 'path'
 import * as fs from 'fs'
-import { $TSFixMe } from '../lib/interfaces'
 const recursiveReadSync = require('recursive-readdir-sync')
 const imagemin = require('imagemin')
 // const imageminPngquant = require('imagemin-pngquant')
 const icons = recursiveReadSync(path.join(__dirname, '../apps'))
-  .filter((file: $TSFixMe) => file.match(/icon\.png/))
+  .filter((file: string) => file.match(/icon\.png/))
 
 process.stdout.write(`Resizing ${icons.length} icons...`)
 
-function resize (file: $TSFixMe, size: $TSFixMe) {
+function resize (file: string, size: number) {
   const newFile = file.replace('.png', `-${size}.png`)
 
   // skip files that are up to date
@@ -38,13 +37,13 @@ function resize (file: $TSFixMe, size: $TSFixMe) {
     .then((buf: Buffer) => fs.writeFileSync(newFile, buf))
 }
 
-const resizes = icons.map((icon: $TSFixMe) => resize(icon, 32))
-  .concat(icons.map((icon: $TSFixMe) => resize(icon, 64)))
-  .concat(icons.map((icon: $TSFixMe) => resize(icon, 128)))
-  .concat(icons.map((icon: $TSFixMe) => resize(icon, 256)))
+const resizes = icons.map((icon: string) => resize(icon, 32))
+  .concat(icons.map((icon: string) => resize(icon, 64)))
+  .concat(icons.map((icon: string) => resize(icon, 128)))
+  .concat(icons.map((icon: string) => resize(icon, 256)))
 
 Promise.all(resizes)
-  .then(function (results) {
+  .then(function (_results) {
     process.stdout.write(` Done.`)
     process.exit()
   })

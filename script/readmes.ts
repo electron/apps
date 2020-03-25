@@ -5,20 +5,21 @@ const README_CACHE_TTL = require('human-interval')(
 
 import * as fs from 'fs'
 import * as path from 'path'
-const Bottleneck = require('bottleneck')
 import { github } from '../lib/github'
-import { $TSFixMe } from '../lib/interfaces'
+import { IApp, IReadmesOutput } from '../lib/interfaces'
+import { apps } from '../lib/raw-app-list'
+import { appsWithRepos } from '../lib/apps-with-github-repos'
 import * as cheerio from 'cheerio'
+
+const Bottleneck = require('bottleneck')
 const parseGitUrl = require('github-url-to-object')
 
 const outputFile = path.join(__dirname, '../meta/readmes.json')
 const oldReadmeData = require(outputFile)
-const output: $TSFixMe = {}
+const output: Record<string, IReadmesOutput> = {}
 const limiter = new Bottleneck(MAX_CONCURRENCY)
 
-import { apps } from '../lib/raw-app-list'
-import { appsWithRepos } from '../lib/apps-with-github-repos'
-const appsToUpdate = appsWithRepos.filter((app: $TSFixMe) => {
+const appsToUpdate = appsWithRepos.filter((app: IApp) => {
   const oldData = oldReadmeData[app.slug]
   if (!oldData) return true
   const oldDate = new Date(oldData.readmeFetchedAt || null).getTime()
@@ -38,7 +39,7 @@ limiter.on('idle', () => {
   process.exit()
 })
 
-function getReadme (app: $TSFixMe) {
+function getReadme (app: IApp) {
   const {user: owner, repo} = parseGitUrl(app.repository)
   const opts = {
     owner: owner,
@@ -68,15 +69,13 @@ function getReadme (app: $TSFixMe) {
     })
 }
 
-function cleanReadme (readme: $TSFixMe, app: $TSFixMe) {
-  const $ = cheerio.load(readme)
+function cleanReadme (readme: unknown, app: IApp) {
+  const $ = cheerio.load(readme as string)
 
   const $relativeImages = $('img').not('[src^="http"]')
   if ($relativeImages.length) {
-    console.log(
-      `${app.slug}: updating ${$relativeImages.length} relative image URLs`
-    )
-    $relativeImages.each((i, img) => {
+    console.log(`${app.slug}: updating ${$relativeImages.length} relative image URLs`)
+    $relativeImages.each((_i, img) => {
       $(img).attr('src', `${app.repository}/raw/master/${$(img).attr('src')}`)
     })
   }
