@@ -1,13 +1,15 @@
-name: "Infiniti Clips"
-description: "Free, open source hybrid clipboard application available for Windows and macOS."
-website: "https://infiniticlips.com/"
+name: 'Infiniti Clips'
+description:
+  'Free, open source hybrid clipboard application available for Windows and
+  macOS.'
+website: 'https://infiniticlips.com/'
 category: Utilities
-repository: "https://github.com/azure06/infiniti-clips.git"
+repository: 'https://github.com/azure06/infiniti-clips.git'
 keywords:
   - clipboard
   - notes
 screenshots:
-  - imageUrl: "https://infiniticlips.com/assets/images/app-select.png"
-    caption: "Browse, search, bookmark, and more..."
+  - imageUrl: 'https://infiniticlips.com/assets/images/app-select.png'
+    caption: 'Browse, search, bookmark, and more...'
 locales:
   - en-US

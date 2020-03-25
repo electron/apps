@@ -2,9 +2,9 @@ name: Inkdrop
 description: 'Notebook app for Markdown lovers'
 website: 'https://www.inkdrop.info/'
 keywords:
-    - text
-    - programming
-    - notebook
-    - extensible
-    - markdown
+  - text
+  - programming
+  - notebook
+  - extensible
+  - markdown
 category: Productivity

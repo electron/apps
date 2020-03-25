@@ -4,13 +4,12 @@ website: 'https://www.tagspaces.org/'
 repository: 'https://github.com/tagspaces/tagspaces'
 license: AGPL3
 keywords:
-    - notetaking
-    - organization
-    - tagging
-    - productivity
+  - notetaking
+  - organization
+  - tagging
+  - productivity
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/tagspaces/documentation/master/media/v3/tagspaces-v3-themes.jpg'
-        caption: 'TagSpaces Desktop'
-        imageLink: 'https://www.tagspaces.org'
+  - imageUrl: 'https://raw.githubusercontent.com/tagspaces/documentation/master/media/v3/tagspaces-v3-themes.jpg'
+    caption: 'TagSpaces Desktop'
+    imageLink: 'https://www.tagspaces.org'

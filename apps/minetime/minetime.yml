@@ -1,13 +1,15 @@
 name: MineTime
-description: 'A universal calendar app with smart scheduling and time analytics features. Organize your Google, Exchange and Outlook.com calendars in one place.'
+description:
+  'A universal calendar app with smart scheduling and time analytics features.
+  Organize your Google, Exchange and Outlook.com calendars in one place.'
 website: 'https://minetime.ai'
 repository: 'https://github.com/marcoancona/MineTime'
 keywords:
-    - calendar
-    - schedule
-    - google
-    - exchange
-    - outlook
-    - artificial
-    - intelligence
+  - calendar
+  - schedule
+  - google
+  - exchange
+  - outlook
+  - artificial
+  - intelligence
 category: Productivity

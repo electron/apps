@@ -4,27 +4,23 @@ website: 'https://getfenet.re'
 category: Productivity
 youtube_video_url: 'https://www.youtube.com/watch?v=mOuQyzbHzO4&list=PL2jvDJe7CN0oi6nscDlWFZehvaIsE7OWh'
 screenshots:
-  -
-    imageUrl: 'https://getfenet.re/public/assets/thumb_1.jpg'
+  - imageUrl: 'https://getfenet.re/public/assets/thumb_1.jpg'
     caption: 'Follow tutorials in front of your program.'
     imageLink: 'https://getfenet.re'
-  -
-    imageUrl: 'https://getfenet.re/public/assets/thumb_2.jpg'
+  - imageUrl: 'https://getfenet.re/public/assets/thumb_2.jpg'
     caption: 'Listen to conferences while coding'
     imageLink: 'https://getfenet.re'
-  -
-    imageUrl: 'https://getfenet.re/public/assets/thumb_3.jpg'
+  - imageUrl: 'https://getfenet.re/public/assets/thumb_3.jpg'
     caption: 'Watch Netflix while working.'
     imageLink: 'https://getfenet.re'
-  -
-    imageUrl: 'https://getfenet.re/public/assets/thumb_4.jpg'
+  - imageUrl: 'https://getfenet.re/public/assets/thumb_4.jpg'
     caption: 'Monitor your idle games.'
     imageLink: 'https://getfenet.re'
 locales:
   - fr-FR
 keywords:
-    - 'picture in picture'
-    - productivity
-    - tool
-    - video
-    - player
+  - 'picture in picture'
+  - productivity
+  - tool
+  - video
+  - player

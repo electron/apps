@@ -1,9 +1,10 @@
 name: DockStation
-description: 'Developer-centric application for manage projects based on Docker.'
+description:
+  'Developer-centric application for manage projects based on Docker.'
 website: 'https://dockstation.io/'
 keywords:
-    - DockStation
-    - Docker
-    - Compose
-    - Container
+  - DockStation
+  - Docker
+  - Compose
+  - Container
 category: 'Developer Tools'

@@ -1,15 +1,18 @@
 name: Getränkeliste App
-description: 'Online Stroked List App to organize and charging club members for drinks - Online Strichlisten App zur Abrechung von Getränken und Snacks in Vereinen oder ähnlichen Organisationen.'
+description:
+  'Online Stroked List App to organize and charging club members for drinks -
+  Online Strichlisten App zur Abrechung von Getränken und Snacks in Vereinen
+  oder ähnlichen Organisationen.'
 website: 'https://iqmeta.com/gliste/'
 category: Food & Drink
 keywords:
-    - drinks
-    - club
-    - management
-    - charging
-    - abrechnung
-    - getränke
-    - strichliste
-    - vereine
+  - drinks
+  - club
+  - management
+  - charging
+  - abrechnung
+  - getränke
+  - strichliste
+  - vereine
 locales:
   - de-DE

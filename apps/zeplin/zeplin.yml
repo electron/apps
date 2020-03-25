@@ -2,9 +2,9 @@ name: Zeplin
 description: 'Collaboration app for designers and developers'
 website: 'https://zeplin.io'
 keywords:
-    - design
-    - development
-    - collaboration
-    - sketch
-    - photoshop
+  - design
+  - development
+  - collaboration
+  - sketch
+  - photoshop
 category: 'Developer Tools'

@@ -4,13 +4,12 @@ website: 'https://github.com/jojobyte/githoard'
 repository: 'https://github.com/jojobyte/githoard'
 category: Productivity
 keywords:
-    - git
-    - code
-    - developer
-    - tool
-    - productivity
+  - git
+  - code
+  - developer
+  - tool
+  - productivity
 license: MIT
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/jojobyte/githoard/master/screens/demo.gif'
-        caption: 'GitHoard Demo'
+  - imageUrl: 'https://raw.githubusercontent.com/jojobyte/githoard/master/screens/demo.gif'
+    caption: 'GitHoard Demo'

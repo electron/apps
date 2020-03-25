@@ -2,8 +2,8 @@ name: PamFax
 description: 'A cross-platform app for sending and receiving faxes'
 website: 'https://www.pamfax.biz'
 keywords:
-    - fax
-    - productivity
-    - communication
-    - utility
+  - fax
+  - productivity
+  - communication
+  - utility
 category: Productivity

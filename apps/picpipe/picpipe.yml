@@ -1,28 +1,29 @@
 name: Picpipe
-description: 'Build screenshot-heavy annotated documentation, guides, user manuals and tutorials.'
+description:
+  'Build screenshot-heavy annotated documentation, guides, user manuals and
+  tutorials.'
 website: 'https://picpipe.io'
 category: Productivity
 keywords:
-    - documentation
-    - tutorial
-    - manuals
-    - guide
-    - photos
-    - images
-    - 'responsive images'
-    - tutorials
-    - blogging
-    - 'screenshot sharing'
+  - documentation
+  - tutorial
+  - manuals
+  - guide
+  - photos
+  - images
+  - 'responsive images'
+  - tutorials
+  - blogging
+  - 'screenshot sharing'
 screenshots:
-  -
-    imageUrl: 'https://api.picpipe.io/qktgJw/540/screenshot-tool.png'
-    caption: 'Automatically upload photos to your blog gallery and generate HTML/Markdown snippets'
+  - imageUrl: 'https://api.picpipe.io/qktgJw/540/screenshot-tool.png'
+    caption:
+      'Automatically upload photos to your blog gallery and generate
+      HTML/Markdown snippets'
     imageLink: 'https://picpipe.io/how-it-works.html'
-  -
-    imageUrl: 'https://api.picpipe.io/TBu3rw/540/screenshot-heavy-documentation.png'
+  - imageUrl: 'https://api.picpipe.io/TBu3rw/540/screenshot-heavy-documentation.png'
     caption: 'Create screenshot-heavy annotated documents.'
     imageLink: 'https://picpipe.io'
-  -
-    imageUrl: 'https://api.picpipe.io/boO-TA/540/screenshot-documentation-tool.png'
+  - imageUrl: 'https://api.picpipe.io/boO-TA/540/screenshot-documentation-tool.png'
     caption: 'Organize screenshots by stories.'
     imageLink: 'https://picpipe.io/how-it-works.html'

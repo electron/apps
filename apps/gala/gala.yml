@@ -2,6 +2,6 @@ name: Gala
 description: 'A new and easier way of searching images'
 website: 'http://www.getgala.me'
 keywords:
-    - images
+  - images
 category: 'Photo & Video'
 disabled: true # Dead Links: http://www.getgala.me
