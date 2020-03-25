@@ -15,7 +15,7 @@ export const apps = () =>
           slug: slug,
           iconPath: path.join(__dirname, `../apps/${slug}/${slug}-icon.png`),
         },
-        yaml.safeLoad(fs.readFileSync(yamlFile))
+        yaml.safeLoad(fs.readFileSync(yamlFile, { encoding: 'utf-8'}))
       )
       return app
     })

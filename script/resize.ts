@@ -1,16 +1,16 @@
 const sharp = require('sharp')
-const path = require('path')
-const fs = require('fs')
+import * as path from 'path'
+import * as fs from 'fs'
+import { $TSFixMe } from '../lib/interfaces'
 const recursiveReadSync = require('recursive-readdir-sync')
 const imagemin = require('imagemin')
 // const imageminPngquant = require('imagemin-pngquant')
-const icons = recursiveReadSync(
-  path.join(__dirname, '../apps')
-).filter((file) => file.match(/icon\.png/))
+const icons = recursiveReadSync(path.join(__dirname, '../apps'))
+  .filter((file: $TSFixMe) => file.match(/icon\.png/))
 
 process.stdout.write(`Resizing ${icons.length} icons...`)
 
-function resize(file, size) {
+function resize (file: $TSFixMe, size: $TSFixMe) {
   const newFile = file.replace('.png', `-${size}.png`)
 
   // skip files that are up to date
@@ -21,13 +21,12 @@ function resize(file, size) {
     return Promise.resolve(null)
   }
 
-  return (
-    sharp(fs.readFileSync(file))
-      .resize(size, size, { fit: 'inside' })
-      .toFormat('png')
-      .toBuffer()
-      .then((buf) => imagemin.buffer(buf))
-      /* FIXME: Disabled due to this error 🤔.
+  return sharp(fs.readFileSync(file))
+    .resize(size, size, { fit: 'inside' })
+    .toFormat('png')
+    .toBuffer()
+    .then((buf: Buffer) => imagemin.buffer(buf))
+    /* FIXME: Disabled due to this error 🤔.
           TypeError: Cannot read property 'end' of undefined
           at handleInput (/home/runner/work/apps/apps/node_modules/execa/index.js:87:17)
           at module.exports (/home/runner/work/apps/apps/node_modules/execa/index.js:310:2)
@@ -36,15 +35,13 @@ function resize(file, size) {
           at sharp.resize.toFormat.toBuffer.then.buf (/home/runner/work/apps/apps/script/resize.js:24:27)
     .then(buf => imagemin.buffer(buf, { use: [ imageminPngquant() ] }))
     */
-      .then((buf) => fs.writeFileSync(newFile, buf))
-  )
+    .then((buf: Buffer) => fs.writeFileSync(newFile, buf))
 }
 
-const resizes = icons
-  .map((icon) => resize(icon, 32))
-  .concat(icons.map((icon) => resize(icon, 64)))
-  .concat(icons.map((icon) => resize(icon, 128)))
-  .concat(icons.map((icon) => resize(icon, 256)))
+const resizes = icons.map((icon: $TSFixMe) => resize(icon, 32))
+  .concat(icons.map((icon: $TSFixMe) => resize(icon, 64)))
+  .concat(icons.map((icon: $TSFixMe) => resize(icon, 128)))
+  .concat(icons.map((icon: $TSFixMe) => resize(icon, 256)))
 
 Promise.all(resizes)
   .then(function (results) {
