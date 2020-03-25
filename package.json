@@ -15,10 +15,11 @@
     "build:pack": "node script/pack",
     "prepack": "check-for-leaks",
     "prepush": "check-for-leaks",
-    "test": "mocha --reporter min test/human-data.js test/colors-spec.js && standard --fix",
-    "test:debug": "mocha --reporter spec test/human-data.js test/colors-spec.js && standard --fix",
+    "prettier": "prettier --check \"./**/*.{ts,js,yml}\"",
+    "test": "mocha --reporter min test/human-data.js test/colors-spec.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
+    "test:debug": "mocha --reporter spec test/human-data.js test/colors-spec.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "pretest-all": "npm run build",
-    "test-all": "mocha --reporter min && standard --fix",
+    "test-all": "mocha --reporter min && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "wizard": "node wizard.js",
     "release": "script/release.sh"
   },
@@ -65,7 +66,7 @@
     "sharp": "^0.23.0",
     "sinon": "^7.2.2",
     "slugg": "^1.1.0",
-    "standard": "^10.0.2",
+    "prettier": "^2.0.2",
     "yamljs": "^0.2.8",
     "js-yaml": "^3.13.1"
   },
@@ -76,10 +77,5 @@
     "json-stable-stringify": "^1.0.1",
     "mime-types": "^2.1.19",
     "rev-hash": "^2.0.0"
-  },
-  "standard": {
-    "env": [
-      "mocha"
-    ]
   }
 }
