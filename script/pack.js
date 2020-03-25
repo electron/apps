@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const yaml = require('yamljs')
+const yaml = require('js-yaml')
 const dates = require('../meta/dates.json')
 const colors = require('../meta/colors.json')
 const releases = require('../meta/releases.json')
@@ -16,7 +16,7 @@ fs.readdirSync(path.join(__dirname, '../apps'))
   const yamlFile = path.join(__dirname, `../apps/${slug}/${slug}.yml`)
   const app = Object.assign(
     {slug: slug},
-    yaml.load(yamlFile),
+    yaml.safeLoad(fs.readFileSync(yamlFile)),
     {
       icon: `${slug}-icon.png`,
       icon32: `${slug}-icon-32.png`,
