@@ -3,33 +3,30 @@ const README_CACHE_TTL = require('human-interval')(
   process.env.README_CACHE_TTL || '4 hours'
 )
 
-const fs = require('fs')
-const path = require('path')
+import * as fs from 'fs'
+import * as path from 'path'
 const Bottleneck = require('bottleneck')
-const github = require('../lib/github')
-const cheerio = require('cheerio')
+import { github } from '../lib/github'
+import { $TSFixMe } from '../lib/interfaces'
+import * as cheerio from 'cheerio'
 const parseGitUrl = require('github-url-to-object')
 
 const outputFile = path.join(__dirname, '../meta/readmes.json')
 const oldReadmeData = require(outputFile)
-const output = {}
+const output: $TSFixMe = {}
 const limiter = new Bottleneck(MAX_CONCURRENCY)
 
-const apps = require('../lib/raw-app-list')()
-const appsWithRepos = require('../lib/apps-with-github-repos')
-const appsToUpdate = appsWithRepos.filter((app) => {
+import { apps } from '../lib/raw-app-list'
+import { appsWithRepos } from '../lib/apps-with-github-repos'
+const appsToUpdate = appsWithRepos.filter((app: $TSFixMe) => {
   const oldData = oldReadmeData[app.slug]
   if (!oldData) return true
   const oldDate = new Date(oldData.readmeFetchedAt || null).getTime()
   return oldDate + README_CACHE_TTL < Date.now()
 })
 
-console.log(
-  `${appsWithRepos.length} of ${apps.length} apps have a GitHub repo.`
-)
-console.log(
-  `${appsToUpdate.length} of those ${appsWithRepos.length} have missing or outdated README data.`
-)
+console.log(`${appsWithRepos.length} of ${apps().length} apps have a GitHub repo.`)
+console.log(`${appsToUpdate.length} of those ${appsWithRepos.length} have missing or outdated README data.`)
 
 appsToUpdate.forEach((app) => {
   limiter.schedule(getReadme, app)
@@ -41,8 +38,8 @@ limiter.on('idle', () => {
   process.exit()
 })
 
-function getReadme(app) {
-  const { user: owner, repo } = parseGitUrl(app.repository)
+function getReadme (app: $TSFixMe) {
+  const {user: owner, repo} = parseGitUrl(app.repository)
   const opts = {
     owner: owner,
     repo: repo,
@@ -71,7 +68,7 @@ function getReadme(app) {
     })
 }
 
-function cleanReadme(readme, app) {
+function cleanReadme (readme: $TSFixMe, app: $TSFixMe) {
   const $ = cheerio.load(readme)
 
   const $relativeImages = $('img').not('[src^="http"]')

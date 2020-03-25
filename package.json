@@ -37,6 +37,7 @@
     "@types/node": "^13.9.3",
     "@types/rimraf": "^3.0.0",
     "@octokit/rest": "^15.15.1",
+    "@types/cheerio": "^0.22.17",
     "bottleneck": "^1.16.0",
     "chai": "^4.2.0",
     "check-for-leaks": "^1.2.0",
