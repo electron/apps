@@ -3,5 +3,5 @@ description: 'Web browser build around differnt types of tabs.'
 website: 'https://ohhaibrowser.com'
 repository: 'https://github.com/OhHaiBrowser/Browser/'
 keywords:
-    - browser
+  - browser
 category: Productivity

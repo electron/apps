@@ -4,7 +4,7 @@ website: 'https://denysdovhan.com/inboxer'
 category: 'Social Networking'
 repository: 'https://github.com/denysdovhan/inboxer'
 keywords:
-    - mail
-    - gmail
-    - inbox
+  - mail
+  - gmail
+  - inbox
 license: MIT

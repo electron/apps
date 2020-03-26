@@ -4,9 +4,9 @@ website: 'https://messenger-demo-viewer.kilianvalkhof.com/'
 category: 'Developer Tools'
 repository: 'https://github.com/Kilian/messenger-demo-viewer'
 keywords:
-    - facebook
-    - messenger
-    - bot
-    - demo
-    - chatbot
+  - facebook
+  - messenger
+  - bot
+  - demo
+  - chatbot
 license: ISC

@@ -3,8 +3,8 @@ description: 'File Synchronisation for Cozy Cloud on Desktop and Laptop'
 website: 'https://cozy.io/'
 repository: 'https://github.com/cozy-labs/cozy-desktop'
 keywords:
-    - productivity
-    - synchronization
-    - files
+  - productivity
+  - synchronization
+  - files
 license: AGPLv3
 category: Productivity

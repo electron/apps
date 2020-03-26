@@ -4,7 +4,7 @@ website: 'https://github.com/MrChuckomo/poddycast'
 repository: 'https://github.com/MrChuckomo/poddycast'
 category: 'Entertainment'
 keywords:
-    - podcast
-    - feed
-    - rss
-    - itunes
+  - podcast
+  - feed
+  - rss
+  - itunes

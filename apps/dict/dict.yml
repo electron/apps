@@ -4,13 +4,12 @@ website: 'https://goo.gl/tVdhAB'
 category: 'Education'
 repository: 'https://github.com/bryht/Dict'
 keywords:
-    - study
-    - dictionary
-    - english
-    - dict
-    - translate
+  - study
+  - dictionary
+  - english
+  - dict
+  - translate
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/bryht/Dict/master/build/imgs/1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/bryht/Dict/master/build/imgs/1.png'
     caption: 'Dict preview screenshot 1.'
     imageLink: 'https://goo.gl/tVdhAB'
