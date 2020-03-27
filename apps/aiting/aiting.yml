@@ -3,11 +3,10 @@ description: 'A simple and beautiful music and book player.'
 website: 'https://renhongl.github.io/2017/01/21/%E7%88%B1%E5%90%AC%E6%92%AD%E6%94%BE%E5%99%A8/'
 repository: 'https://github.com/renhongl/AiTing'
 keywords:
-    - player
-    - music
-    - book
+  - player
+  - music
+  - book
 license: MIT
 category: Music
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/renhongl/renhongl.github.io/master/images/aiting1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/renhongl/renhongl.github.io/master/images/aiting1.png'

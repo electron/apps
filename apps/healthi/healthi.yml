@@ -1,14 +1,16 @@
 name: healthi
-description: 'Your mac''s battery doctor'
+description: "Your mac's battery doctor"
 website: 'https://pablopunk.com/healthi-app'
 repository: 'https://github.com/pablopunk/healthi-app'
 keywords:
-    - battery
-    - mac
-    - doctor
-    - health
-    - util
+  - battery
+  - mac
+  - doctor
+  - health
+  - util
 license: MIT
 category: Utilities
 screenshots:
-    - {imageUrl: 'https://github.com/pablopunk/art/raw/master/healthi/screenshot.gif'}
+  - {
+      imageUrl: 'https://github.com/pablopunk/art/raw/master/healthi/screenshot.gif',
+    }

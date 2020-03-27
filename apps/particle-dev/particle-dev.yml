@@ -2,5 +2,5 @@ name: 'Particle Dev'
 description: 'A professional IDE for Particle'
 website: 'https://www.particle.io/dev'
 keywords:
-    - IDE
+  - IDE
 category: 'Developer Tools'

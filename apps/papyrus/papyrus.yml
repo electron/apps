@@ -3,12 +3,11 @@ description: 'Unofficial Dropbox Paper app'
 website: 'https://github.com/morkro/papyrus'
 repository: 'https://github.com/morkro/papyrus'
 keywords:
-    - dropbox
-    - paper
-    - notes
-    - 'file sharing'
+  - dropbox
+  - paper
+  - notes
+  - 'file sharing'
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/morkro/papyrus/master/media/papyrus-preview.png'
+  - imageUrl: 'https://raw.githubusercontent.com/morkro/papyrus/master/media/papyrus-preview.png'

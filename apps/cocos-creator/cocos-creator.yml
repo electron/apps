@@ -3,5 +3,5 @@ description: 'Game development tools'
 website: 'http://www.cocos2d-x.org'
 repository: 'https://github.com/cocos-creator/engine'
 keywords:
-    - games
+  - games
 category: Games

@@ -1,12 +1,12 @@
 name: SparkChess
-description: 'Play chess against the computer or challenge your friends in multiplayer'
+description:
+  'Play chess against the computer or challenge your friends in multiplayer'
 website: 'https://www.sparkchess.com'
 screenshots:
-    -
-        imageUrl: 'https://www.sparkchess.com/res/img/promo/chess-electron.jpg'
+  - imageUrl: 'https://www.sparkchess.com/res/img/promo/chess-electron.jpg'
 keywords:
-    - chess
-    - game
-    - multiplayer
-    - learn
+  - chess
+  - game
+  - multiplayer
+  - learn
 category: Games

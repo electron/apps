@@ -3,12 +3,14 @@ description: 'Music Streaming Server'
 website: 'https://mstream.io/'
 repository: 'https://github.com/IrosTheBeggar/mStream'
 keywords:
-    - music
-    - streaming
-    - server
-    - audio
-    - selfhosted
+  - music
+  - streaming
+  - server
+  - audio
+  - selfhosted
 license: GPL-3.0
 category: Music
 screenshots:
-    - {imageUrl: 'https://raw.githubusercontent.com/IrosTheBeggar/mStream/master/public/img/mstream-express.png'}
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/IrosTheBeggar/mStream/master/public/img/mstream-express.png',
+    }

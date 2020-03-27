@@ -2,25 +2,20 @@ name: Synap
 description: 'Intelligent platform for studying more effectively'
 website: 'https://synap.ac'
 keywords:
-    - education
-    - learning
-    - study
-    - revision
-    - medicine
+  - education
+  - learning
+  - study
+  - revision
+  - medicine
 category: 'Education'
 screenshots:
-  -
-    imageUrl: 'https://assets.synap.ac/promo/mac/Quizzes.png'
+  - imageUrl: 'https://assets.synap.ac/promo/mac/Quizzes.png'
     caption: 'Practice quizzes on any topic'
-  -
-    imageUrl: 'https://assets.synap.ac/promo/mac/Progress.png'
+  - imageUrl: 'https://assets.synap.ac/promo/mac/Progress.png'
     caption: 'Track your progress'
-  -
-    imageUrl: 'https://assets.synap.ac/promo/mac/Study.png'
+  - imageUrl: 'https://assets.synap.ac/promo/mac/Study.png'
     caption: 'Learn more in less time with Spaced Repetition'
-  -
-    imageUrl: 'https://assets.synap.ac/promo/mac/Create.png'
+  - imageUrl: 'https://assets.synap.ac/promo/mac/Create.png'
     caption: 'Make your own Multiple Choice Quizzes (MCQs)'
-  -
-    imageUrl: 'https://assets.synap.ac/promo/mac/Classes.png'
+  - imageUrl: 'https://assets.synap.ac/promo/mac/Classes.png'
     caption: 'Teachers: create or join classes'

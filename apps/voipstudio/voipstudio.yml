@@ -2,20 +2,17 @@ name: VoIPstudio
 description: 'Desktop Softphone client for VoIPstudio Business Phone System.'
 website: 'https://voipstudio.com'
 keywords:
-    - voip
-    - chat
-    - messaging
-    - screen sharing
-    - free online calls
-    - free calls
+  - voip
+  - chat
+  - messaging
+  - screen sharing
+  - free online calls
+  - free calls
 category: 'Productivity'
 screenshots:
-    -
-        imageUrl: 'https://static.ssl7.net/images/softphone-login.png'
-        caption: 'Login Screen'
-    -
-        imageUrl: 'https://static.ssl7.net/images/softphone-call.png'
-        caption: 'VoIP Call'
-    -
-        imageUrl: 'https://static.ssl7.net/images/softphone-chat.png'
-        caption: 'Chat'
+  - imageUrl: 'https://static.ssl7.net/images/softphone-login.png'
+    caption: 'Login Screen'
+  - imageUrl: 'https://static.ssl7.net/images/softphone-call.png'
+    caption: 'VoIP Call'
+  - imageUrl: 'https://static.ssl7.net/images/softphone-chat.png'
+    caption: 'Chat'

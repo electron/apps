@@ -4,13 +4,13 @@ website: 'https://teamsql.io'
 category: 'Developer Tools'
 repository: 'https://github.com/TeamSQL/desktop-app'
 keywords:
-    - database
-    - sql
-    - data
-    - mysql
-    - redshift
-    - 'microsoft sql server'
-    - postgres
-    - redis
-    - client
-    - extensions
+  - database
+  - sql
+  - data
+  - mysql
+  - redshift
+  - 'microsoft sql server'
+  - postgres
+  - redis
+  - client
+  - extensions
