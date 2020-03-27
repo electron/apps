@@ -1,0 +1,18 @@
+name: LessView
+description: 'Secure image viewer for minimalists.'
+website: 'https://github.com/sprout2000/lessview'
+repository: 'https://github.com/sprout2000/lessview'
+license: MIT
+keywords:
+  - image
+  - viewer
+  - pan
+  - wheelzoom
+locales:
+  - ja-JP
+  - en
+category: 'Photo & Video'
+screenshots:
+  - {imageUrl: 'https://user-images.githubusercontent.com/52094761/77708128-89141500-700a-11ea-90fe-31f30f1dd9ee.png'}
+  - {imageUrl: 'https://user-images.githubusercontent.com/52094761/77727027-b8dc1080-703c-11ea-8b2c-9dedc5b477ad.png'}
+
