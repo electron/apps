@@ -3,5 +3,5 @@ description: 'Desktop build status notifications'
 website: 'https://catlight.io'
 homebrewCaskName: catlight
 keywords:
-    - build
+  - build
 category: 'Developer Tools'

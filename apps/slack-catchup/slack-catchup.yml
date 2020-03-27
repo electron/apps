@@ -3,5 +3,5 @@ description: 'Catch up all the unread across your Slack teams in a single place'
 website: 'https://slackcatchup.com'
 disabled: true
 keywords:
-    - messaging
+  - messaging
 category: 'Social Networking'

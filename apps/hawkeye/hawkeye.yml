@@ -3,10 +3,9 @@ description: 'A useful app for GitHub Notifications'
 website: 'https://harksys.com/labs/introducing-hawk-eye-a-useful-app-for-github-notifications/'
 repository: 'https://github.com/harksys/HawkEye'
 keywords:
-    - github
-    - notifications
-    - 'developer tools'
+  - github
+  - notifications
+  - 'developer tools'
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/harksys/HawkEye/master/.github/dark.png'
+  - imageUrl: 'https://raw.githubusercontent.com/harksys/HawkEye/master/.github/dark.png'

@@ -1,18 +1,19 @@
 name: 'Camunda Modeler'
-description: 'Developer-friendly app for editing and executing BPMN process diagrams and DMN decisions.'
+description:
+  'Developer-friendly app for editing and executing BPMN process diagrams and
+  DMN decisions.'
 website: 'https://camunda.com/products/modeler/'
 category: 'Developer Tools'
 repository: 'https://github.com/camunda/camunda-modeler/'
 keywords:
-    - bpmn
-    - dmn
-    - modeling
-    - modeler
-    - diagram
-    - 'business process'
+  - bpmn
+  - dmn
+  - modeling
+  - modeler
+  - diagram
+  - 'business process'
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/camunda/camunda-modeler/v3.7.0/docs/screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/camunda/camunda-modeler/v3.7.0/docs/screenshot.png'
     caption: 'BPMN Editor with properties panel'
     imageLink: 'https://github.com/camunda/camunda-modeler'

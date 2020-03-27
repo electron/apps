@@ -4,11 +4,10 @@ website: 'https://simplenote.com'
 repository: 'https://github.com/Automattic/simplenote-electron'
 homebrewCaskName: simplenote
 keywords:
-    - notes
-    - utility
-    - sync
+  - notes
+  - utility
+  - sync
 license: GPLv2
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/7ecb3f5e4692fb708a0c18a790f2ce86f284dc8d/68747470733a2f2f73696d706c656e6f7465626c6f672e66696c65732e776f726470726573732e636f6d2f323031362f30332f73696d706c656e6f74652d6c696e75782e706e67'
+  - imageUrl: 'https://camo.githubusercontent.com/7ecb3f5e4692fb708a0c18a790f2ce86f284dc8d/68747470733a2f2f73696d706c656e6f7465626c6f672e66696c65732e776f726470726573732e636f6d2f323031362f30332f73696d706c656e6f74652d6c696e75782e706e67'

@@ -1,11 +1,13 @@
 name: AnotherRedisDesktopManager
-description: 'Faster, better and more stable redis desktop manager, compatible with Linux, windows, mac.'
+description:
+  'Faster, better and more stable redis desktop manager, compatible with Linux,
+  windows, mac.'
 website: 'https://github.com/qishibo/AnotherRedisDesktopManager'
 category: 'Developer Tools'
 repository: 'https://github.com/qishibo/AnotherRedisDesktopManager'
 keywords:
-    - redis-desktop-manager
-    - redis-client
-    - redis-desktop
-    - redis-gui
+  - redis-desktop-manager
+  - redis-client
+  - redis-desktop
+  - redis-gui
 license: MIT

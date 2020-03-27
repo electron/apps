@@ -4,7 +4,7 @@ website: 'https://kinesis-ci.com'
 category: Business
 repository: 'https://github.com/Kinesis-CI/education-and-innovation'
 keywords:
-    - tableau
-    - 'business intelligence'
-    - testing
-    - 'continuous integration'
+  - tableau
+  - 'business intelligence'
+  - testing
+  - 'continuous integration'

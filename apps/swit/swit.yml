@@ -2,24 +2,20 @@ name: Swit
 description: 'Team Collaboration Suite.'
 website: 'https://swit.io/'
 keywords:
-    - messaging
-    - chat
-    - team
-    - schedule
-    - collaboration
-    - communicate
-    - timelines
+  - messaging
+  - chat
+  - team
+  - schedule
+  - collaboration
+  - communicate
+  - timelines
 category: 'Business'
 screenshots:
-  -
-    imageUrl: 'https://files.swit.io/app/screenshots/chat.jpg'
+  - imageUrl: 'https://files.swit.io/app/screenshots/chat.jpg'
     caption: 'Chat'
-  -
-    imageUrl: 'https://files.swit.io/app/screenshots/ideas.jpg'
+  - imageUrl: 'https://files.swit.io/app/screenshots/ideas.jpg'
     caption: 'Ideas detail'
-  -
-    imageUrl: 'https://files.swit.io/app/screenshots/detail.jpg'
+  - imageUrl: 'https://files.swit.io/app/screenshots/detail.jpg'
     caption: 'Project detail'
-  -
-    imageUrl: 'https://files.swit.io/app/screenshots/timeline.jpg'
+  - imageUrl: 'https://files.swit.io/app/screenshots/timeline.jpg'
     caption: 'Project timeline'

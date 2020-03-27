@@ -4,6 +4,6 @@ website: 'https://github.com/mitchas/glass-browser'
 category: Productivity
 repository: 'https://github.com/mitchas/glass-browser'
 keywords:
-    - Browser
-    - Windows
-    - Multitask
+  - Browser
+  - Windows
+  - Multitask

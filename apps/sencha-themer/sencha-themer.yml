@@ -1,9 +1,11 @@
 name: 'Sencha Themer'
-description: 'Theming tool to rapidly style Ext JS applications by creating custom themes using graphical tools – without writing code.'
+description:
+  'Theming tool to rapidly style Ext JS applications by creating custom themes
+  using graphical tools – without writing code.'
 website: 'https://www.sencha.com/products/themer/'
 keywords:
-    - 'web development'
-    - programming
-    - productivity
-    - theming
+  - 'web development'
+  - programming
+  - productivity
+  - theming
 category: Productivity

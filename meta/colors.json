@@ -2255,6 +2255,22 @@
       "revHash": "8e93ec8c8f"
     }
   },
+  "danger-crew": {
+    "faintColorOnWhite": "rgba(97, 65, 56, 0.1)",
+    "goodColorOnBlack": "#E4ACAC",
+    "goodColorOnWhite": "#614138",
+    "palette": [
+      "#614138",
+      "#a47c3c",
+      "#e2d2d5",
+      "#e4acac",
+      "#bc9454"
+    ],
+    "source": {
+      "path": "apps/danger-crew/danger-crew-icon.png",
+      "revHash": "accbd7b5ec"
+    }
+  },
   "darkj": {
     "faintColorOnWhite": "rgba(34, 42, 55, 0.1)",
     "goodColorOnBlack": "#747C84",

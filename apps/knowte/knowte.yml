@@ -4,10 +4,10 @@ website: 'https://www.digimezzo.com'
 category: Productivity
 repository: 'https://github.com/digimezzo/knowte-electron'
 keywords:
-    - note
-    - notes
-    - text
-    - organize
-    - search
-    - quick
+  - note
+  - notes
+  - text
+  - organize
+  - search
+  - quick
 license: 'GNU General Public License v3.0'
