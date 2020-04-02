@@ -1,5 +1,6 @@
-name: Voltra (discontinued)
-description: 'Voltra was  A modern, hi-def, distraction-free music player'
+name: Voltra
+description: 'A modern, hi-def, distraction-free music player'
+disabled: true # Homepage closed and development stopped around April 2019: https://twitter.com/voltraco/status/1123153090251771905
 website: 'https://voltra.co'
 keywords:
   - music
