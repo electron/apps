@@ -3,10 +3,9 @@ description: 'Desktop bookmarking app.'
 website: 'https://darkle.github.io/MarkSearch/'
 repository: 'https://github.com/Darkle/MarkSearch'
 keywords:
-    - bookmarking
-    - bookmarks
+  - bookmarking
+  - bookmarks
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/Darkle/MarkSearch/gh-pages/assets/screenshots/MSsearch.png'
+  - imageUrl: 'https://raw.githubusercontent.com/Darkle/MarkSearch/gh-pages/assets/screenshots/MSsearch.png'

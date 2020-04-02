@@ -4,7 +4,9 @@ website: 'https://violin-player.app'
 category: Music
 repository: 'https://github.com/CodeF0x/violin'
 screenshots:
-  - {imageUrl: 'https://raw.githubusercontent.com/CodeF0x/violin/master/docs/assets/screenshot.png'}
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/CodeF0x/violin/master/docs/assets/screenshot.png',
+    }
 keywords:
   - desktop
   - music

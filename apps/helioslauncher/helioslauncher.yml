@@ -4,7 +4,7 @@ website: 'https://github.com/dscalzi/HeliosLauncher'
 repository: 'https://github.com/dscalzi/HeliosLauncher'
 category: Games
 keywords:
-    - minecraft
-    - minecraft launcher
-    - forge
-    - liteloader
+  - minecraft
+  - minecraft launcher
+  - forge
+  - liteloader

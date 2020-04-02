@@ -4,30 +4,25 @@ website: 'https://github.com/gurayyarar/NodeJsPackageManager'
 category: 'Developer Tools'
 repository: 'https://github.com/gurayyarar/NodeJsPackageManager'
 keywords:
-    - npm
-    - bower
-    - nodejs
-    - nodejs package
-    - package manager
+  - npm
+  - bower
+  - nodejs
+  - nodejs package
+  - package manager
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/documentation/readme-main.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/documentation/readme-main.gif'
     caption: 'Overview'
     imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/dark-theme.png'
+  - imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/dark-theme.png'
     caption: 'Dark Theme'
     imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/light-theme.png'
+  - imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/light-theme.png'
     caption: 'Light Theme'
     imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/npm-init.png'
+  - imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/npm-init.png'
     caption: 'npm init'
     imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/bower-init.png'
+  - imageUrl: 'https://raw.githubusercontent.com/gurayyarar/NodeJsPackageManager/master/images/electron-webapp-previews/bower-init.png'
     caption: 'bower init'
     imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
 license: MIT

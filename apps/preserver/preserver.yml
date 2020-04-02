@@ -2,12 +2,11 @@ name: Preserver
 description: 'Notes organizer'
 website: 'https://github.com/hsbalar/Preserver'
 keywords:
-    - notes
-    - keep
-    - record
-    - data
+  - notes
+  - keep
+  - record
+  - data
 category: Productivity
 repository: 'https://github.com/hsbalar/Preserver'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/hsbalar/Preserver/master/public/images/screen1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/hsbalar/Preserver/master/public/images/screen1.png'

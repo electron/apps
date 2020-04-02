@@ -3,7 +3,7 @@ description: 'Old Classic Snake Game'
 website: 'https://alpcoskun.com/snake'
 repository: 'https://github.com/alpcoskun/snake'
 keywords:
-    - games
-    - snake
+  - games
+  - snake
 license: MIT
 category: Games

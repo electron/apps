@@ -1,18 +1,20 @@
 name: Groupmail
-description: 'Modern email marketing system featuring a drag-n-drop editor, free templates, and live analytics.'
+description:
+  'Modern email marketing system featuring a drag-n-drop editor, free templates,
+  and live analytics.'
 website: 'https://groupmail.io/'
 category: Productivity
 keywords:
-    - email
-    - mail
-    - messaging
-    - crm
-    - marketing
-    - newsletters
-    - editor
-    - templates
-    - tracking
-    - analytics
+  - email
+  - mail
+  - messaging
+  - crm
+  - marketing
+  - newsletters
+  - editor
+  - templates
+  - tracking
+  - analytics
 screenshots:
   -
     imageUrl: 'https://user-images.githubusercontent.com/20283790/76806042-46676700-67d8-11ea-8563-938155573224.png'

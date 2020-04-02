@@ -2,7 +2,7 @@ name: 'Forestpin Analytics'
 description: 'Financial data analytics tool for businesses'
 website: 'http://forestpin.com/analytics'
 keywords:
-    - analytics
-    - data
-    - finance
+  - analytics
+  - data
+  - finance
 category: Finance
