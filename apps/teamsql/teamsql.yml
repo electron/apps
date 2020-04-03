@@ -3,6 +3,7 @@ description: 'Multi-platform SQL Client - Extensible, Simple and Effortless'
 website: 'https://teamsql.io'
 category: 'Developer Tools'
 repository: 'https://github.com/TeamSQL/desktop-app'
+disabled: true # TeamSQL became DataRow, which is now an AWS company. TeamSQL not available as a standalone app anymore.
 keywords:
   - database
   - sql
