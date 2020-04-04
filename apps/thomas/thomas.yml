@@ -4,9 +4,8 @@ website: 'https://github.com/andrepolischuk/thomas'
 category: Productivity
 repository: 'https://github.com/andrepolischuk/thomas'
 keywords:
-    - pomodoro
-    - timer
+  - pomodoro
+  - timer
 license: MIT
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/andrepolischuk/thomas/master/media/screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/andrepolischuk/thomas/master/media/screenshot.png'

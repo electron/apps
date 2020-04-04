@@ -4,9 +4,9 @@ website: 'https://github.com/Sanjit1/WizardMirror#wizard-mirror'
 category: Utilities
 repository: 'https://www.github.com/Sanjit1/WizardMirror'
 keywords:
-    - wizard
-    - mirror
-    - magic
-    - raspberry
-    - pi
+  - wizard
+  - mirror
+  - magic
+  - raspberry
+  - pi
 license: MIT

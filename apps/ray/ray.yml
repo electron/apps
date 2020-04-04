@@ -1,5 +1,6 @@
 name: Ray
-description: 'HTML-powered text editor for creating and organizing personal notes'
+description:
+  'HTML-powered text editor for creating and organizing personal notes'
 website: 'https://github.com/teslor/ray'
 repository: 'https://github.com/teslor/ray'
 keywords:
@@ -11,5 +12,4 @@ keywords:
 license: MIT
 category: Productivity
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/teslor/ray/master/static/screenshots/win.png'
+  - imageUrl: 'https://raw.githubusercontent.com/teslor/ray/master/static/screenshots/win.png'

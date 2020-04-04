@@ -1,22 +1,22 @@
 [
   {
     "name": "Productivity",
-    "count": 237,
+    "count": 249,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 179,
+    "count": 190,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 132,
+    "count": 137,
     "slug": "utilities"
   },
   {
     "name": "Music",
-    "count": 54,
+    "count": 57,
     "slug": "music"
   },
   {
@@ -26,32 +26,32 @@
   },
   {
     "name": "Photo & Video",
-    "count": 43,
+    "count": 44,
     "slug": "photo-video"
   },
   {
     "name": "Games",
-    "count": 33,
+    "count": 34,
     "slug": "games"
   },
   {
     "name": "Finance",
-    "count": 29,
+    "count": 30,
     "slug": "finance"
   },
   {
     "name": "Business",
-    "count": 25,
+    "count": 26,
     "slug": "business"
   },
   {
     "name": "Education",
-    "count": 19,
+    "count": 20,
     "slug": "education"
   },
   {
     "name": "Graphics & Design",
-    "count": 13,
+    "count": 15,
     "slug": "graphics-design"
   },
   {
@@ -85,6 +85,11 @@
     "slug": "health-fitness"
   },
   {
+    "name": "Travel",
+    "count": 1,
+    "slug": "travel"
+  },
+  {
     "name": "Food & Drink",
     "count": 1,
     "slug": "food-drink"
@@ -93,10 +98,5 @@
     "name": "Sports",
     "count": 1,
     "slug": "sports"
-  },
-  {
-    "name": "Travel",
-    "count": 1,
-    "slug": "travel"
   }
 ]

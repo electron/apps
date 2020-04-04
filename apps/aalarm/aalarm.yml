@@ -3,6 +3,6 @@ description: 'Simple alarm app with a lot of neon effects'
 category: Lifestyle
 repository: 'https://github.com/ahmtcn123/Aalarm'
 keywords:
-    - alarm
-    - neon
+  - alarm
+  - neon
 license: 'Apache-2.0'

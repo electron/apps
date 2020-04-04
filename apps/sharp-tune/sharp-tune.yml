@@ -3,15 +3,15 @@ description: 'Lightweight Cross-platform music player.'
 website: 'https://md-azmal.github.io/'
 repository: 'https://github.com/MD-AZMAL/Sharp-Tune'
 keywords:
-    - audio
-    - music
-    - song
-    - album
-    - mp3    
-    - cross-platform
-    - music-player
-    - app
-    - desktop
+  - audio
+  - music
+  - song
+  - album
+  - mp3
+  - cross-platform
+  - music-player
+  - app
+  - desktop
 category: Music
 screeshots:
-    imageUrl : 'https://raw.githubusercontent.com/MD-AZMAL/Sharp-Tune/master/ss1.png'
+  imageUrl: 'https://raw.githubusercontent.com/MD-AZMAL/Sharp-Tune/master/ss1.png'

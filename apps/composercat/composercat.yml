@@ -2,14 +2,13 @@ name: Composercat
 description: 'Graphical User Interface for the Composer package manager (PHP)'
 website: 'https://getcomposercat.com'
 keywords:
-    - php
-    - composer
-    - programming
-    - productivity
+  - php
+  - composer
+  - programming
+  - productivity
 category: 'Developer Tools'
 license: COMMERCIAL
 screenshots:
-  -
-    imageUrl: 'https://www.getcomposercat.com/img/screenshot.png'
+  - imageUrl: 'https://www.getcomposercat.com/img/screenshot.png'
     caption: 'Composercat - GUI for Composer'
     imageLink: 'https://getcomposercat.com'

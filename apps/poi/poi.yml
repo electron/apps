@@ -3,11 +3,10 @@ description: 'A browser for web-based game kantai-collection'
 website: 'https://poi.io'
 repository: 'https://github.com/poooi/poi'
 keywords:
-    - kantai-collection
-    - kancolle
-    - games
+  - kantai-collection
+  - kancolle
+  - games
 license: MIT
 category: Games
 screenshots:
-    -
-        imageUrl: 'https://cloud.githubusercontent.com/assets/6753092/10863969/f0a49b2c-8018-11e5-9659-43f626c4691c.png'
+  - imageUrl: 'https://cloud.githubusercontent.com/assets/6753092/10863969/f0a49b2c-8018-11e5-9659-43f626c4691c.png'

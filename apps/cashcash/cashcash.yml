@@ -1,0 +1,40 @@
+name: Cashcash
+description: 'The accounting app to avoid surprises.'
+website: 'https://cashcashpro.com'
+category: 'Finance'
+locales:
+  - en-US
+keywords:
+  - finance
+  - accounting
+  - management
+  - cash
+  - bookkeeping
+  - budget
+  - graph
+  - chart
+screenshots:
+  - imageUrl: 'https://storage.googleapis.com/cashcash/1.png'
+    caption: 'Charts'
+    imageLink: 'https://cashcashpro.com'
+  - imageUrl: 'https://storage.googleapis.com/cashcash/2.png'
+    caption: 'Account tree system'
+    imageLink: 'https://cashcashpro.com'
+  - imageUrl: 'https://storage.googleapis.com/cashcash/3.png'
+    caption: 'Filters'
+    imageLink: 'https://cashcashpro.com'
+  - imageUrl: 'https://storage.googleapis.com/cashcash/4.png'
+    caption: 'Budget'
+    imageLink: 'https://cashcashpro.com'
+  - imageUrl: 'https://storage.googleapis.com/cashcash/5.png'
+    caption: 'Automate'
+    imageLink: 'https://cashcashpro.com'
+  - imageUrl: 'https://storage.googleapis.com/cashcash/6.png'
+    caption: 'CSV import'
+    imageLink: 'https://cashcashpro.com'
+  - imageUrl: 'https://storage.googleapis.com/cashcash/7.png'
+    caption: 'Database import/export'
+    imageLink: 'https://cashcashpro.com'
+  - imageUrl: 'https://storage.googleapis.com/cashcash/8.png'
+    caption: 'Multi-currencies'
+    imageLink: 'https://cashcashpro.com'

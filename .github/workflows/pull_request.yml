@@ -7,14 +7,14 @@ jobs:
     name: Test pull requests
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-      with:
-        fetch-depth: 1
-    - name: Use Node.js 10.x
-      uses: actions/setup-node@v1
-      with:
-        version: 10.x
-    - name: npm install, build, and test
-      run: |
-        npm ci
-        npm test
+      - uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - name: Use Node.js 10.x
+        uses: actions/setup-node@v1
+        with:
+          node-version: 10.x
+      - name: npm install, build, and test
+        run: |
+          npm ci
+          npm test

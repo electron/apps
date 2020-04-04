@@ -8,8 +8,8 @@ const apps = require('../lib/raw-app-list')()
 console.log('Checking app submission dates...')
 
 apps
-  .filter(app => existingSlugs.indexOf(app.slug) === -1)
-  .forEach(app => {
+  .filter((app) => existingSlugs.indexOf(app.slug) === -1)
+  .forEach((app) => {
     const date = new Date().toISOString().slice(0, 10)
     console.log(`${app.slug}: ${date}`)
     dates[app.slug] = date

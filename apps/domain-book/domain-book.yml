@@ -1,22 +1,18 @@
 name: 'Domain Book'
-description: 'Elegant domain monitoring app, it’s like a phone book but for your domains.'
+description:
+  'Elegant domain monitoring app, it’s like a phone book but for your domains.'
 website: 'https://darawish.io/domainbook/'
 repository: 'https://github.com/darawish/domainbook'
 keywords:
-    - domains
+  - domains
 category: Utilities
 screenshots:
-    -
-      imageUrl: 'https://i.imgur.com/BXQ7KdJ.png'
-      caption: 'main window'
-    -
-      imageUrl: 'https://i.imgur.com/Dr11o85.png'
-      caption: 'adding domain'
-    -
-      imageUrl: 'https://i.imgur.com/WrJBMmB.png'
-      caption: 'auto import feature'
-    -
-      imageUrl: 'https://i.imgur.com/OaRMfBR.png'
-      caption: 'list of domains that will expire soon'
-    -
-      imageUrl: 'https://i.imgur.com/uo3mnRI.png'
+  - imageUrl: 'https://i.imgur.com/BXQ7KdJ.png'
+    caption: 'main window'
+  - imageUrl: 'https://i.imgur.com/Dr11o85.png'
+    caption: 'adding domain'
+  - imageUrl: 'https://i.imgur.com/WrJBMmB.png'
+    caption: 'auto import feature'
+  - imageUrl: 'https://i.imgur.com/OaRMfBR.png'
+    caption: 'list of domains that will expire soon'
+  - imageUrl: 'https://i.imgur.com/uo3mnRI.png'
