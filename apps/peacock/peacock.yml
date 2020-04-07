@@ -1,0 +1,15 @@
+name: Peacock
+description: 'Open source private-by-default web browser.'
+website: 'https://github.com/peacockweb/browser'
+category: Productivity
+repository: 'https://github.com/peacockweb/browser'
+keywords:
+  - privacy
+  - security
+  - browser
+  - web
+  - web3
+  - blockchain
+  - decentralized
+  - internet
+license: MIT
