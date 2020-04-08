@@ -1,18 +1,18 @@
 name: lazyType
-description: 'Software to create aliases for commands, applications to type in cmd.'
+description:
+  'Software to create aliases for commands, applications to type in cmd.'
 website: 'https://github.com/ngudbhav/lazyType'
 category: Utilities
 keywords:
-    - desktop
-    - windows
-    - utility
-    - alias
-    - lazy
-    - type
-    - lazyType
+  - desktop
+  - windows
+  - utility
+  - alias
+  - lazy
+  - type
+  - lazyType
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/ngudbhav/lazyType/master/static/images/ss1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/ngudbhav/lazyType/master/static/images/ss1.png'
     caption: 'Screenshot 1'
     imageLink: 'https://github.com/ngudbhav/lazyType'

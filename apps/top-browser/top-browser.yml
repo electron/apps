@@ -4,6 +4,6 @@ website: 'https://bitbucket.org/speedydemon/electron_top_browser/'
 category: Utilities
 repository: 'https://bitbucket.org/speedydemon/electron_top_browser/'
 keywords:
-    - browser
-    - top
+  - browser
+  - top
 license: MIT

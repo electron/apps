@@ -3,15 +3,14 @@ description: 'EBook Management'
 website: 'https://github.com/oguzhaninan/Buka'
 repository: 'https://github.com/oguzhaninan/Buka.git'
 keywords:
-    - book
-    - pdf
-    - ebook
-    - 'book library'
-    - 'book management'
-    - 'ebook reader'
-    - 'pdf reader'
+  - book
+  - pdf
+  - ebook
+  - 'book library'
+  - 'book management'
+  - 'ebook reader'
+  - 'pdf reader'
 license: MIT
 category: Books
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/oguzhaninan/Buka/master/assets/screenshots/header.png'
+  - imageUrl: 'https://raw.githubusercontent.com/oguzhaninan/Buka/master/assets/screenshots/header.png'

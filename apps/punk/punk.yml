@@ -4,11 +4,10 @@ website: 'https://github.com/scholtzm/punk'
 category: Games
 repository: 'https://github.com/scholtzm/punk'
 keywords:
-    - steam
-    - chat
-    - client
+  - steam
+  - chat
+  - client
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://cloud.githubusercontent.com/assets/2640934/12659057/fc11ad1c-c60c-11e5-841b-8d34e729b8e4.png'
+  - imageUrl: 'https://cloud.githubusercontent.com/assets/2640934/12659057/fc11ad1c-c60c-11e5-841b-8d34e729b8e4.png'
     caption: 'Main Punk window'

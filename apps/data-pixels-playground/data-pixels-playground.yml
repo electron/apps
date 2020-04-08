@@ -3,13 +3,12 @@ description: 'Create Pixel Art Programmatically'
 website: 'https://github.com/gmattie/Data-Pixels'
 repository: 'https://github.com/gmattie/Data-Pixels'
 keywords:
-    - art
-    - 'developer tools'
-    - image
-    - pixel
-    - programming
-    - 'web development'
+  - art
+  - 'developer tools'
+  - image
+  - pixel
+  - programming
+  - 'web development'
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/gmattie/Data-Pixels/master/resources/source/images/readme/ApplicationScreenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/gmattie/Data-Pixels/master/resources/source/images/readme/ApplicationScreenshot.png'

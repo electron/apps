@@ -4,11 +4,11 @@ website: 'https://tenhands.app'
 category: Utilities
 repository: 'https://github.com/saisandeepvaddi/ten-hands'
 keywords:
-    - terminal
-    - command-line
-    - tasks
-    - tools
-    - organize
-    - nodejs
-    - react
+  - terminal
+  - command-line
+  - tasks
+  - tools
+  - organize
+  - nodejs
+  - react
 license: MIT

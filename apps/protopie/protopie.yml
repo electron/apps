@@ -2,9 +2,9 @@ name: ProtoPie
 description: 'Code-free prototyping tool for smart devices'
 website: 'https://protopie.io/'
 keywords:
-    - Prototyping
-    - Microinteraction
-    - Code-free
-    - 'Prototyping Tool'
-    - 'Designers tool'
+  - Prototyping
+  - Microinteraction
+  - Code-free
+  - 'Prototyping Tool'
+  - 'Designers tool'
 category: 'Developer Tools'

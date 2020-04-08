@@ -2,8 +2,8 @@ name: CovePDF
 description: 'Free PDF reader with password protection.'
 website: 'https://www.covepdf.com/'
 keywords:
-    - pdf
-    - protect
-    - free
-    - 'pdf reader'
+  - pdf
+  - protect
+  - free
+  - 'pdf reader'
 category: Productivity

@@ -1,11 +1,12 @@
 name: 'Vade Mecum Shelf'
-description: 'Collection of vade mecum-like utilities wrapped into one single app.'
+description:
+  'Collection of vade mecum-like utilities wrapped into one single app.'
 website: 'https://github.com/tonton-pixel/vade-mecum-shelf'
 category: Utilities
 keywords:
-    - collection
-    - modular
-    - shelf
-    - utility
-    - 'vade mecum'
+  - collection
+  - modular
+  - shelf
+  - utility
+  - 'vade mecum'
 license: MIT
