@@ -4,8 +4,8 @@ website: 'https://github.com/elcalc/elcalc'
 category: Finance
 repository: 'https://github.com/elcalc/elcalc'
 keywords:
-    - calculator
-    - math
-    - arithmetic
-    - calculation
+  - calculator
+  - math
+  - arithmetic
+  - calculation
 license: MIT

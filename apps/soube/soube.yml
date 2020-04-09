@@ -3,9 +3,11 @@ description: 'Simple music player.'
 website: 'http://soube.diegomolina.cl'
 repository: 'https://github.com/DracotMolver/Soube'
 keywords:
-    - Music
-    - 'Music player'
+  - Music
+  - 'Music player'
 license: MIT
 category: Music
 screenshots:
-    - {imageUrl: 'https://raw.githubusercontent.com/DracotMolver/Soube/master/app/assets/img/icon%401.8x.png'}
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/DracotMolver/Soube/master/app/assets/img/icon%401.8x.png',
+    }

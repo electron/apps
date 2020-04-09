@@ -3,11 +3,10 @@ description: 'Unofficial Instagram Desktop App.'
 website: 'https://github.com/terkelg/ramme'
 repository: 'https://github.com/terkelg/ramme'
 keywords:
-    - photos
-    - social
-    - instagram
+  - photos
+  - social
+  - instagram
 license: MIT
 category: 'Photo & Video'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/terkelg/ramme/master/media/strip.png'
+  - imageUrl: 'https://raw.githubusercontent.com/terkelg/ramme/master/media/strip.png'

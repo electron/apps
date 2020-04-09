@@ -1,9 +1,10 @@
 name: fangyuanjian
-description: 'a collaboration and messaging app for small-to-medium sized businesses.'
+description:
+  'a collaboration and messaging app for small-to-medium sized businesses.'
 website: 'http://bzsns.cn/'
 keywords:
-    - messaging
-    - collaboration
+  - messaging
+  - collaboration
 locales:
-    - zh-CN
+  - zh-CN
 category: 'Social Networking'

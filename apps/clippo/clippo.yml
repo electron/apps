@@ -4,14 +4,12 @@ website: 'https://github.com/monsterkodi/clippo'
 category: 'Utilities'
 repository: 'https://github.com/monsterkodi/clippo'
 keywords:
-    - clipboard
+  - clipboard
 license: Unlicense
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/monsterkodi/clippo/master/img/readme.png'
+  - imageUrl: 'https://raw.githubusercontent.com/monsterkodi/clippo/master/img/readme.png'
     caption: 'windows'
     imageLink: 'https://github.com/monsterkodi/clippo'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/monsterkodi/clippo/master/img/shot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/monsterkodi/clippo/master/img/shot.png'
     caption: 'mac'
     imageLink: 'https://github.com/monsterkodi/clippo'

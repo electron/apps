@@ -1,7 +1,8 @@
-name: "Caption Pro"
-description: "Reduce your camera to sale time, edit image metadata with facial recognition."
-website: "https://caption-pro.com/"
-category: "Photo & Video"
+name: 'Caption Pro'
+description:
+  'Reduce your camera to sale time, edit image metadata with facial recognition.'
+website: 'https://caption-pro.com/'
+category: 'Photo & Video'
 keywords:
   - image
   - photo
@@ -9,4 +10,4 @@ keywords:
   - metadata
   - exiftool
   - exif
-  - "facial recognition"
+  - 'facial recognition'

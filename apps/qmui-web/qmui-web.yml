@@ -3,13 +3,15 @@ description: 'Manage projects based on QMUI Web Framework.'
 website: 'https://qmuiteam.com/web'
 repository: 'https://github.com/QMUI/qmui_web_desktop'
 keywords:
-    - 'Web Development'
-    - 'UI Framework'
-    - 'Sass Framework'
-    - Workflow
-    - Gulp
-    - 'developer tools'
+  - 'Web Development'
+  - 'UI Framework'
+  - 'Sass Framework'
+  - Workflow
+  - Gulp
+  - 'developer tools'
 license: MIT
 category: 'Developer Tools'
 screenshots:
-    - {imageUrl: 'https://raw.githubusercontent.com/QMUI/qmuidemo_web/master/public/style/images/independent/App.gif'}
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/QMUI/qmuidemo_web/master/public/style/images/independent/App.gif',
+    }

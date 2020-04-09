@@ -3,32 +3,32 @@ description: 'Cloud Management Reimagined.'
 website: 'https://getcommandeer.com'
 category: 'Developer Tools'
 keywords:
-    - aws
-    - cloud
-    - dynamodb
-    - iam
-    - s3
-    - lambda
-    - sns
-    - sqs
-    - commandeer
+  - aws
+  - cloud
+  - dynamodb
+  - iam
+  - s3
+  - lambda
+  - sns
+  - sqs
+  - commandeer
 license: Private
 screenshots:
-    - imageUrl: 'https://commander-development-images.s3-us-west-1.amazonaws.com/macbook-demo.png'
-      caption: 'Install it to your laptop'
-      imageLink: 'https://getcommandeer.com'
-    - imageUrl: 'https://commander-development-images.s3.amazonaws.com/dashboard-2.png'
-      caption: 'Dashboard, see all your services in a central place'
-      imageLink: 'https://getcommandeer.com'
-    - imageUrl: 'https://commander-development-images.s3.amazonaws.com/localstack-2.png'
-      caption: 'Finally control Localstack'
-      imageLink: 'https://getcommandeer.com'
-    - imageUrl: 'https://commander-development-images.s3.amazonaws.com/account-switching-2.gif'
-      caption: 'Instantly switch between AWS accounts'
-      imageLink: 'https://getcommandeer.com'
-    - imageUrl: 'https://commander-development-images.s3.amazonaws.com/region-scanner.gif'
-      caption: 'Know where your resources are with Region Scanner'
-      imageLink: 'https://getcommandeer.com'
-    - imageUrl: 'https://commander-development-images.s3.amazonaws.com/localstack-2.png'
-      caption: 'Finally control Localstack'
-      imageLink: 'https://getcommandeer.com'
+  - imageUrl: 'https://commander-development-images.s3-us-west-1.amazonaws.com/macbook-demo.png'
+    caption: 'Install it to your laptop'
+    imageLink: 'https://getcommandeer.com'
+  - imageUrl: 'https://commander-development-images.s3.amazonaws.com/dashboard-2.png'
+    caption: 'Dashboard, see all your services in a central place'
+    imageLink: 'https://getcommandeer.com'
+  - imageUrl: 'https://commander-development-images.s3.amazonaws.com/localstack-2.png'
+    caption: 'Finally control Localstack'
+    imageLink: 'https://getcommandeer.com'
+  - imageUrl: 'https://commander-development-images.s3.amazonaws.com/account-switching-2.gif'
+    caption: 'Instantly switch between AWS accounts'
+    imageLink: 'https://getcommandeer.com'
+  - imageUrl: 'https://commander-development-images.s3.amazonaws.com/region-scanner.gif'
+    caption: 'Know where your resources are with Region Scanner'
+    imageLink: 'https://getcommandeer.com'
+  - imageUrl: 'https://commander-development-images.s3.amazonaws.com/localstack-2.png'
+    caption: 'Finally control Localstack'
+    imageLink: 'https://getcommandeer.com'

@@ -2,13 +2,12 @@ name: MarkText
 description: 'A realtime preview MarkDown Editor'
 website: 'https://github.com/marktext/marktext'
 keywords:
-    - markdown
-    - performance
-    - efficiency
-    - eidtor
+  - markdown
+  - performance
+  - efficiency
+  - eidtor
 category: Productivity
 license: MIT
 repository: 'https://github.com/marktext/marktext'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/marktext/marktext/301722f3d3c703c2d92859df4cc7546e199aa116/static/logo-small.png'
+  - imageUrl: 'https://raw.githubusercontent.com/marktext/marktext/301722f3d3c703c2d92859df4cc7546e199aa116/static/logo-small.png'
