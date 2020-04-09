@@ -8,7 +8,7 @@ keywords:
 locales:
   - zh-CN
   - en
-license: 'ISC'
+license: 'GPL'
 screenshots:
   - imageUrl: 'https://github.com/newham/kankan/raw/master/cap_1.png'
     caption: 'Light Mode'
