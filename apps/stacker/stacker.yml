@@ -4,14 +4,14 @@ website: 'https://enqueuer-land.github.io/stacker'
 category: 'Developer Tools'
 repository: 'https://github.com/enqueuer-land/stacker'
 keywords:
-    - 'polyglot flow'
-    - test
-    - microservices
-    - enqueuer
-    - messages
-    - http
-    - amqp
-    - mqtt
+  - 'polyglot flow'
+  - test
+  - microservices
+  - enqueuer
+  - messages
+  - http
+  - amqp
+  - mqtt
 license: MIT
 screenshots:
   -

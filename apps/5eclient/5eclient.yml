@@ -2,8 +2,8 @@ name: 5EClient
 description: '5EPlay CSGO Client'
 website: 'https://www.5eplay.com/'
 keywords:
-    - CSGO
-    - PUG
+  - CSGO
+  - PUG
 locales:
-    - zh_CN
+  - zh_CN
 category: Games

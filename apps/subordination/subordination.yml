@@ -3,10 +3,9 @@ description: 'A desktop app for translating and editing subtitles'
 website: 'https://github.com/sunabozu/subordination'
 repository: 'https://github.com/sunabozu/subordination'
 keywords:
-    - subtitles
-    - translation
-    - editor
+  - subtitles
+  - translation
+  - editor
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/sunabozu/subordination/gh-pages/img/screen_mac.png'
+  - imageUrl: 'https://raw.githubusercontent.com/sunabozu/subordination/gh-pages/img/screen_mac.png'

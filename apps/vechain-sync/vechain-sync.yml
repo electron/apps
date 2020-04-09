@@ -4,14 +4,12 @@ website: 'https://env.vechain.org/'
 repository: 'https://github.com/vechain/thor-sync.electron'
 license: LGPL-3.0
 keywords:
-    - blockchain
-    - desktop
-    - dapp 
-    - connex
-    - wallet
+  - blockchain
+  - desktop
+  - dapp
+  - connex
+  - wallet
 category: 'Finance'
 screenshots:
-    -
-        imageUrl: 'https://env.vechain.org/img/sync-ss-light.ab41a8c5.png'
-    -
-        imageUrl: 'https://env.vechain.org/img/sync-ss-dark.62fd4dec.png'
+  - imageUrl: 'https://env.vechain.org/img/sync-ss-light.ab41a8c5.png'
+  - imageUrl: 'https://env.vechain.org/img/sync-ss-dark.62fd4dec.png'

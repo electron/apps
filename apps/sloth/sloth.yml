@@ -2,12 +2,12 @@ name: sloth
 description: 'Clipboard manager that understands what you copy'
 website: 'https://ohsloth.com'
 keywords:
-    - clipboard
-    - snippet
-    - context
-    - 'machine learning'
-    - developer
-    - productivity
+  - clipboard
+  - snippet
+  - context
+  - 'machine learning'
+  - developer
+  - productivity
 category: Productivity
 disabled: true
 disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'

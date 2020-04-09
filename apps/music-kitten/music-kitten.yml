@@ -4,8 +4,8 @@ website: 'https://www.musickitten.net'
 category: Entertainment
 repository: 'https://github.com/CorySanin/Kitten-for-CSGO'
 keywords:
-    - counter-strike
-    - csgo
-    - 'music kit'
+  - counter-strike
+  - csgo
+  - 'music kit'
 license: GPL-3.0
 snapcraftName: 'https://snapcraft.io/music-kitten'
