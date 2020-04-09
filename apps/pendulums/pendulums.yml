@@ -1,40 +1,37 @@
 name: Pendulums
-description: 'Manage and track your time more efficiently using a modern and free time tracking tool.'
+description:
+  'Manage and track your time more efficiently using a modern and free time
+  tracking tool.'
 website: 'https://pendulums.io/'
 category: Productivity
 repository: 'https://github.com/Swing-team/pendulums-web-client'
 keywords:
-    - 'free time tracking'
-    - 'time management'
-    - 'time tracker for small business'
-    - productivity
-    - 'productivity tools'
-    - 'time tracking software'
-    - 'time tracker'
-    - 'online timer'
-    - timesheets
-    - 'time management system'
-    - 'employee time tracking'
-    - 'time tracking tools'
-    - 'productivity tracking'
-    - 'time track sheet'
-    - 'work hours'
+  - 'free time tracking'
+  - 'time management'
+  - 'time tracker for small business'
+  - productivity
+  - 'productivity tools'
+  - 'time tracking software'
+  - 'time tracker'
+  - 'online timer'
+  - timesheets
+  - 'time management system'
+  - 'employee time tracking'
+  - 'time tracking tools'
+  - 'productivity tracking'
+  - 'time track sheet'
+  - 'work hours'
 license: GPL-3.0-or-later
 snapcraftName: Pendulums
 youtube_video_url: https://youtu.be/74dkDmcz1OI
 screenshots:
-  -
-    imageUrl: 'https://pendulums.io/img/features/projects.png'
+  - imageUrl: 'https://pendulums.io/img/features/projects.png'
     caption: 'Unlimited Projects'
-  -
-    imageUrl: 'https://pendulums.io/img/features/team-members.png'
+  - imageUrl: 'https://pendulums.io/img/features/team-members.png'
     caption: 'Unlimited Team Members'
-  -
-    imageUrl: 'https://pendulums.io/img/features/chart.png'
+  - imageUrl: 'https://pendulums.io/img/features/chart.png'
     caption: 'User Friendly Charts And Reports'
-  -
-    imageUrl: 'https://pendulums.io/img/features/notes.png'
+  - imageUrl: 'https://pendulums.io/img/features/notes.png'
     caption: 'Unlimited Notes'
-  -
-    imageUrl: 'https://pendulums.io/img/features/rest-time.png'
+  - imageUrl: 'https://pendulums.io/img/features/rest-time.png'
     caption: 'We All Want To Live Healthy'

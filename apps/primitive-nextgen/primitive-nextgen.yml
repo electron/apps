@@ -3,8 +3,8 @@ description: 'Tool to redraw images using shapes (triangles, rectangles ...)'
 website: 'https://github.com/cielito-lindo-productions/primitive.nextgen'
 repository: 'https://github.com/cielito-lindo-productions/primitive.nextgen'
 keywords:
-    - image
-    - redraw
-    - Tool
+  - image
+  - redraw
+  - Tool
 license: MIT
 category: 'Photo & Video'

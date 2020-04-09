@@ -2,9 +2,9 @@ name: 'MongoDB Compass'
 description: 'The MongoDB GUI'
 website: 'https://mongodb.com/compass'
 keywords:
-    - mongodb
-    - database
-    - gui
-    - admin
-    - management
+  - mongodb
+  - database
+  - gui
+  - admin
+  - management
 category: 'Developer Tools'

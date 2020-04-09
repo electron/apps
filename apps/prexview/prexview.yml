@@ -1,13 +1,15 @@
 name: PrexView
-description: 'Convert data from XML or JSON to high quality documents in PDF, HTML or Image.'
+description:
+  'Convert data from XML or JSON to high quality documents in PDF, HTML or
+  Image.'
 website: 'https://prexview.com'
 keywords:
-    - xml
-    - pdf
-    - xml-to-pdf
-    - json
-    - json-to-pdf
-    - convert
-    - 'xml parser'
-    - 'json parser'
+  - xml
+  - pdf
+  - xml-to-pdf
+  - json
+  - json-to-pdf
+  - convert
+  - 'xml parser'
+  - 'json parser'
 category: Productivity

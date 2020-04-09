@@ -4,14 +4,13 @@ website: 'https://meetalva.io/'
 category: 'Graphics & Design'
 repository: 'https://github.com/meetalva/alva'
 keywords:
-    - design
-    - design-system
-    - react
-    - components
+  - design
+  - design-system
+  - react
+  - components
 license: MIT
 youtube_video_url: 'https://www.youtube.com/watch?v=ULotS8U5n9k'
 screenshots:
-  -
-    imageUrl: 'https://media.meetalva.io/video/website-02.png'
+  - imageUrl: 'https://media.meetalva.io/video/website-02.png'
     caption: 'Alva view with the Alva website as a example.'
     imageLink: 'https://meetalva.io'

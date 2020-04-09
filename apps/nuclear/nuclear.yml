@@ -3,13 +3,15 @@ description: 'Multiplatform music player that streams from multiple sources'
 website: 'http://nuclear.gumblert.tech'
 repository: 'https://github.com/nukeop/nuclear'
 keywords:
-    - music
-    - player
-    - stream
-    - Youtube
-    - last.fm
-    - desktop
+  - music
+  - player
+  - stream
+  - Youtube
+  - last.fm
+  - desktop
 license: GPL-3.0
 category: Music
 screenshots:
-    - {imageUrl: 'https://camo.githubusercontent.com/bdc247b40ab495a5c180b9c4e2fa35e2b5982a42/687474703a2f2f692e696d6775722e636f6d2f4874614c4453612e6a7067'}
+  - {
+      imageUrl: 'https://camo.githubusercontent.com/bdc247b40ab495a5c180b9c4e2fa35e2b5982a42/687474703a2f2f692e696d6775722e636f6d2f4874614c4453612e6a7067',
+    }

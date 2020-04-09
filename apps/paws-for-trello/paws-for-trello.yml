@@ -1,10 +1,11 @@
 name: 'Paws for Trello'
-description: 'Unofficial Trello client with native notifications, shortcuts, and more.'
+description:
+  'Unofficial Trello client with native notifications, shortcuts, and more.'
 website: 'http://friendlyfox.es/pawsfortrello/'
 keywords:
-    - trello
-    - todo
-    - 'to do'
-    - productivity
-    - paws
+  - trello
+  - todo
+  - 'to do'
+  - productivity
+  - paws
 category: Productivity

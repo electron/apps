@@ -2,5 +2,5 @@ name: Aipo.com
 description: 'Communication tool to optimize the connection between people'
 website: 'https://www.aipo.com/'
 locales:
-    - ja
+  - ja
 category: Business
