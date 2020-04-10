@@ -2,5 +2,5 @@ name: Datazenit
 description: 'Modern database administration tool'
 website: 'https://datazenit.com'
 keywords:
-    - database
+  - database
 category: 'Developer Tools'

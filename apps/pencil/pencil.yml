@@ -1,15 +1,18 @@
 name: Pencil
-description: 'A free and open-source tool for making diagrams and GUI prototyping'
+description:
+  'A free and open-source tool for making diagrams and GUI prototyping'
 website: 'https://pencil.evolus.vn/'
 repository: 'https://github.com/evolus/pencil'
 keywords:
-    - prototyping
-    - ui
-    - mockup
-    - design
-    - drawing
-    - sketch
+  - prototyping
+  - ui
+  - mockup
+  - design
+  - drawing
+  - sketch
 license: 'GPL 2'
 category: Productivity
 screenshots:
-    - {imageUrl: 'https://raw.githubusercontent.com/evolus/pencil/master/screenshot.png'}
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/evolus/pencil/master/screenshot.png',
+    }

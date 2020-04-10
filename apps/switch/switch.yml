@@ -7,9 +7,8 @@ keywords:
   - window
   - manager
   - crossplatform
-license: "GPL v3"
+license: 'GPL v3'
 youtube_video_url: 'https://youtu.be/cysVHi-pcxU'
 screenshots:
-  -
-    imageUrl: 'https://github.com/ahkohd/switch-desktop/blob/master/docs/switch-shot.png'
+  - imageUrl: 'https://github.com/ahkohd/switch-desktop/blob/master/docs/switch-shot.png'
     caption: 'Switch'

@@ -1,19 +1,20 @@
 name: Serene App
-description: 'Say goodbye to digital distractions and hello to undisturbed deep work with Serene, the macOS app for laser focus.'
+description:
+  'Say goodbye to digital distractions and hello to undisturbed deep work with
+  Serene, the macOS app for laser focus.'
 website: 'https://sereneapp.com/'
 category: 'Productivity'
 keywords:
-    - Focus in one click
-    - Website blocker
-    - App blocker
-    - To-do list
-    - Day planner
-    - Focus music
-    - Phone silencer
-    - chart
-    - todo
-    - project
-    - team
-    - productivity
-    - planning
-
+  - Focus in one click
+  - Website blocker
+  - App blocker
+  - To-do list
+  - Day planner
+  - Focus music
+  - Phone silencer
+  - chart
+  - todo
+  - project
+  - team
+  - productivity
+  - planning

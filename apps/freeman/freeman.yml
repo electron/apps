@@ -2,12 +2,11 @@ name: FreeMAN
 description: 'Free, extensible, cross-platform file manager for power users.'
 website: 'https://github.com/matthew-matvei/freeman'
 repository: 'https://github.com/matthew-matvei/freeman'
-license: "GPL-3.0"
+license: 'GPL-3.0'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/matthew-matvei/freeman/develop/resources/freeManLogo.png'
-        caption: 'Dual-pane with open integrated terminal'
+  - imageUrl: 'https://raw.githubusercontent.com/matthew-matvei/freeman/develop/resources/freeManLogo.png'
+    caption: 'Dual-pane with open integrated terminal'
 keywords:
-    - File Manager
-    - Minimalistic
+  - File Manager
+  - Minimalistic
 category: Utilities

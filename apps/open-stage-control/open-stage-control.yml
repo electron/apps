@@ -2,10 +2,10 @@ name: 'Open Stage Control'
 description: 'Libre and modular OSC / MIDI control surface'
 website: 'https://osc.ammd.net/'
 keywords:
-    - music
-    - controller
-    - osc
-    - midi
+  - music
+  - controller
+  - osc
+  - midi
 category: Music
 license: GNU/GPLv3
 goodColorOnBlack: '#52a8ff'
