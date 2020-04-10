@@ -6320,19 +6320,19 @@
     }
   },
   "media-dupes": {
-    "faintColorOnWhite": "rgba(200, 60, 44, 0.1)",
-    "goodColorOnBlack": "#D4493A",
-    "goodColorOnWhite": "#C83C2C",
+    "faintColorOnWhite": "rgba(197, 60, 60, 0.1)",
+    "goodColorOnBlack": "#E4A4A4",
+    "goodColorOnWhite": "#C53C3C",
     "palette": [
-      "#c43c2c",
-      "#c83c2c",
-      "#c83c2c",
-      "#c83c2c",
-      "#c83c2c"
+      "#fbfbfb",
+      "#c25b5b",
+      "#da9494",
+      "#deacac",
+      "#e4a4a4"
     ],
     "source": {
       "path": "apps/media-dupes/media-dupes-icon.png",
-      "revHash": "e3d7c56392"
+      "revHash": "be7deaeec7"
     }
   },
   "media-mate": {

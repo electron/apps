@@ -14,9 +14,7 @@ keywords:
   - mqtt
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://enqueuer-land.github.io/stacker/docs/screenshot-1.png'
+  - imageUrl: 'https://enqueuer-land.github.io/stacker/docs/screenshot-1.png'
     caption: 'Stacker screenshot 1'
-  -
-    imageUrl: 'https://enqueuer-land.github.io/stacker/docs/screenshot-2.png'
+  - imageUrl: 'https://enqueuer-land.github.io/stacker/docs/screenshot-2.png'
     caption: 'Stacker screenshot 2'
