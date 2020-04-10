@@ -7423,6 +7423,22 @@
       "revHash": "ab5213adec"
     }
   },
+  "norde-source": {
+    "faintColorOnWhite": "rgba(145, 99, 2, 0.1)",
+    "goodColorOnBlack": "#FBAC05",
+    "goodColorOnWhite": "#916302",
+    "palette": [
+      "#fcfbfb",
+      "#fbac05",
+      "#f9db98",
+      "#fcd474",
+      "#c0a87e"
+    ],
+    "source": {
+      "path": "apps/norde-source/norde-source-icon.png",
+      "revHash": "77f329faca"
+    }
+  },
   "northreader": {
     "faintColorOnWhite": "rgba(3, 109, 240, 0.1)",
     "goodColorOnBlack": "#137BFC",
@@ -9309,6 +9325,22 @@
     "source": {
       "path": "apps/r6rc/r6rc-icon.png",
       "revHash": "ba88753be9"
+    }
+  },
+  "raadyo": {
+    "faintColorOnWhite": "rgba(17, 49, 84, 0.1)",
+    "goodColorOnBlack": "#7C9CB4",
+    "goodColorOnWhite": "#113154",
+    "palette": [
+      "#113154",
+      "#dce2e8",
+      "#7c9cb4",
+      "#7c94b4",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/raadyo/raadyo-icon.png",
+      "revHash": "53dac9f6ee"
     }
   },
   "radio5050": {
