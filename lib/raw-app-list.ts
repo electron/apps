@@ -1,8 +1,9 @@
 import * as fs from 'fs'
 import * as path from 'path'
 import * as yaml from 'js-yaml'
+import { IApp } from './interfaces'
 
-export const apps = () =>
+export const apps = (): Array<IApp> =>
   fs
     .readdirSync(path.join(__dirname, '../apps'))
     .filter((filename) => {

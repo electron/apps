@@ -41,8 +41,8 @@ fs.readdirSync(path.join(__dirname, '../apps'))
     app.goodColorOnWhite = app.goodColorOnWhite || colors[slug].goodColorOnWhite
     // @ts-ignore
     app.goodColorOnBlack = app.goodColorOnBlack || colors[slug].goodColorOnBlack
-    // @ts-ignore
     app.faintColorOnWhite =
+      // @ts-ignore
       app.faintColorOnWhite || colors[slug].faintColorOnWhite
 
     // Delete website if it's the same URL as repository

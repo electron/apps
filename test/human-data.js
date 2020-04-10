@@ -1,7 +1,8 @@
+require('ts-node').register({
+  transpileOnly: true,
+})
+
 const categories = require('../lib/app-categories')
-const mocha = require('mocha')
-const describe = mocha.describe
-const it = mocha.it
 const fs = require('fs')
 const path = require('path')
 const expect = require('chai').expect
@@ -12,9 +13,11 @@ const cleanDeep = require('clean-deep')
 const imageSize = require('image-size')
 const makeColorAccessible = require('make-color-accessible')
 const slugg = require('slugg')
-const grandfatheredDescriptions = require('../lib/grandfathered-descriptions')
-const grandfatheredLinks = require('../lib/grandfathered-links.js')
-const grandfatheredSlugs = require('../lib/grandfathered-small-icons')
+const {
+  descriptions: grandfatheredDescriptions,
+  links: grandfatheredLinks,
+  icons: grandfatheredSlugs,
+} = require('../lib/grandfathered')
 const slugs = fs
   .readdirSync(path.join(__dirname, '../apps'))
   .filter((filename) => {

@@ -1,5 +1,9 @@
 'use strict'
 
+require('ts-node').register({
+  transpileOnly: true,
+})
+
 const fs = require('fs')
 const os = require('os')
 const path = require('path')
@@ -13,7 +17,7 @@ chai.should()
 
 const expect = chai.expect
 
-const Colors = require('../lib/colors.js')
+const Colors = require('../lib/colors')
 
 describe('colors', function () {
   let consoleInfo
