@@ -3,32 +3,31 @@ description: 'Orthodox web file manager with console and editor'
 website: 'https://cloudcmd.io'
 repository: 'https://github.com/coderaiser/cloudcmd'
 keywords:
-    - console
-    - edit
-    - editor
-    - file
-    - 'file manager'
-    - folder
-    - orthodox
-    - view
-    - viewer
-    - copy
-    - rename
-    - move
-    - rm
-    - mv
-    - cp
-    - delete
-    - 'delete file'
-    - 'delete directory'
-    - remove
-    - 'remove file'
-    - 'remove directory'
-    - 'file operation'
-    - pack
-    - server
+  - console
+  - edit
+  - editor
+  - file
+  - 'file manager'
+  - folder
+  - orthodox
+  - view
+  - viewer
+  - copy
+  - rename
+  - move
+  - rm
+  - mv
+  - cp
+  - delete
+  - 'delete file'
+  - 'delete directory'
+  - remove
+  - 'remove file'
+  - 'remove directory'
+  - 'file operation'
+  - pack
+  - server
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/364165d2f5fc40ae1b5354b5793f696bd192776d/687474703a2f2f636c6f7564636d642e696f2f696d672f6c6f676f2f636c6f7564636d642e706e67'
+  - imageUrl: 'https://camo.githubusercontent.com/364165d2f5fc40ae1b5354b5793f696bd192776d/687474703a2f2f636c6f7564636d642e696f2f696d672f6c6f676f2f636c6f7564636d642e706e67'

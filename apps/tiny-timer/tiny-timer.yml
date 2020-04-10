@@ -4,8 +4,8 @@ website: 'https://github.com/HyunmoAhn/Tiny-Timer'
 repository: 'https://github.com/HyunmoAhn/Tiny-Timer'
 category: 'Productivity'
 keywords:
-    - tiny
-    - timer
-    - boilerplate
-    - reference
+  - tiny
+  - timer
+  - boilerplate
+  - reference
 license: 'MIT'

@@ -5,24 +5,20 @@ repository: 'https://github.com/keelii/code-sketch'
 youtube_video_url: 'https://www.youtube.com/watch?v=gIxrk8iXACE'
 license: 'MIT'
 keywords:
-    - code
-    - playground
-    - sketch
+  - code
+  - playground
+  - sketch
 category: 'Developer Tools'
 screenshots:
-  -
-    imageUrl: 'https://code-sketch.com/image/code-sketch-light-theme.png'
+  - imageUrl: 'https://code-sketch.com/image/code-sketch-light-theme.png'
     caption: 'code-sketch-light'
     imageLink: 'https://code-sketch.com'
-  -
-    imageUrl: 'https://code-sketch.com/image/code-sketch-dark-theme.png'
+  - imageUrl: 'https://code-sketch.com/image/code-sketch-dark-theme.png'
     caption: 'code-sketch-dark'
     imageLink: 'https://code-sketch.com'
-  -
-    imageUrl: 'https://code-sketch.com/image/code-sketch-error-log.png'
+  - imageUrl: 'https://code-sketch.com/image/code-sketch-error-log.png'
     caption: 'code-sketch-log'
     imageLink: 'https://code-sketch.com'
-  -
-    imageUrl: 'https://code-sketch.com/image/code-sketch-console-log.png'
+  - imageUrl: 'https://code-sketch.com/image/code-sketch-console-log.png'
     caption: 'code-sketch-error-log'
-    imageLink: 'https://code-sketch.com'    
+    imageLink: 'https://code-sketch.com'

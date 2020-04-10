@@ -3,9 +3,8 @@ description: 'World of Warcraft Database Browser'
 website: 'https://github.com/XeonPowder/WoWCrypt'
 repository: 'https://github.com/XeonPowder/WoWCrypt'
 keywords:
-    - games
+  - games
 category: Games
 screenshots:
-    -
-        imageUrl: 'https://cloud.githubusercontent.com/assets/2179775/26266749/65eb186a-3cac-11e7-8159-f139ed37f665.png'
+  - imageUrl: 'https://cloud.githubusercontent.com/assets/2179775/26266749/65eb186a-3cac-11e7-8159-f139ed37f665.png'
 license: MIT

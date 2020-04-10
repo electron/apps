@@ -31,7 +31,7 @@
   },
   {
     "name": "Games",
-    "count": 33,
+    "count": 34,
     "slug": "games"
   },
   {
@@ -51,18 +51,18 @@
   },
   {
     "name": "Graphics & Design",
-    "count": 15,
+    "count": 16,
     "slug": "graphics-design"
+  },
+  {
+    "name": "Entertainment",
+    "count": 7,
+    "slug": "entertainment"
   },
   {
     "name": "Books",
     "count": 6,
     "slug": "books"
-  },
-  {
-    "name": "Entertainment",
-    "count": 6,
-    "slug": "entertainment"
   },
   {
     "name": "Lifestyle",

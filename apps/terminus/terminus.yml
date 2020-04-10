@@ -3,9 +3,9 @@ description: 'Terminal for a more modern age.'
 website: 'https://github.com/Eugeny/terminus'
 repository: 'https://github.com/Eugeny/terminus'
 keywords:
-    - terminal
-    - shell
-    - tty
-    - terminal-emulator
+  - terminal
+  - shell
+  - tty
+  - terminal-emulator
 license: MIT
 category: 'Developer Tools'

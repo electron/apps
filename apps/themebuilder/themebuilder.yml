@@ -4,8 +4,8 @@ website: 'https://github.com/wurde/themebuilder'
 category: 'Developer Tools'
 repository: 'https://github.com/wurde/themebuilder'
 keywords:
-    - bootstrap
-    - css
-    - design
-    - styles
+  - bootstrap
+  - css
+  - design
+  - styles
 license: MIT

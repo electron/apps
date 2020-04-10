@@ -1,27 +1,29 @@
 name: Upcount
-description: "Invoicing made easy. Beautiful invoice template, offline-first & configurable."
-website: "https://www.upcount.app"
+description:
+  'Invoicing made easy. Beautiful invoice template, offline-first &
+  configurable.'
+website: 'https://www.upcount.app'
 category: Business
-repository: "https://github.com/madisvain/upcount"
+repository: 'https://github.com/madisvain/upcount'
 keywords:
   - invoice
   - invoicing
-  - "offline first"
-  - "open source"
+  - 'offline first'
+  - 'open source'
   - configurable
 license: GPLv3
 screenshots:
-  - imageUrl: "https://www.upcount.app/screenshots/invoices.png"
-    caption: "Invoices list with tracked states"
-    imageLink: "https://www.upcount.app#invoices-list"
-  - imageUrl: "https://www.upcount.app/screenshots/invoice-edit.png"
-    caption: "Create invoices easily with a clean user experience"
-    imageLink: "https://www.upcount.app#user-experience"
-  - imageUrl: "https://www.upcount.app/screenshots/settings.png"
-    caption: "Configurable invoice options & templates"
-    imageLink: "https://www.upcount.app#configurable"
-goodColorOnWhite: "#222222"
-goodColorOnBlack: "#41DB7F"
+  - imageUrl: 'https://www.upcount.app/screenshots/invoices.png'
+    caption: 'Invoices list with tracked states'
+    imageLink: 'https://www.upcount.app#invoices-list'
+  - imageUrl: 'https://www.upcount.app/screenshots/invoice-edit.png'
+    caption: 'Create invoices easily with a clean user experience'
+    imageLink: 'https://www.upcount.app#user-experience'
+  - imageUrl: 'https://www.upcount.app/screenshots/settings.png'
+    caption: 'Configurable invoice options & templates'
+    imageLink: 'https://www.upcount.app#configurable'
+goodColorOnWhite: '#222222'
+goodColorOnBlack: '#41DB7F'
 faintColorOnWhite: rgba(34, 34, 34, 0.3)
 locales:
   - en

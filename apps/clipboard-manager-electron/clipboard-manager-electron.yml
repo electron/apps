@@ -4,7 +4,7 @@ website: 'https://github.com/dotenorio/clipboard-manager-electron'
 category: Productivity
 repository: 'https://github.com/dotenorio/clipboard-manager-electron.git'
 keywords:
-    - javascript
-    - clipboard
-    - clipboard-manager
+  - javascript
+  - clipboard
+  - clipboard-manager
 license: MIT

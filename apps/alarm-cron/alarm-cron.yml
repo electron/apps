@@ -1,16 +1,18 @@
 name: Alarm Cron
-description: 'Run alarms, timers and stopwatches with countdowns and custom commands from the tray.'
+description:
+  'Run alarms, timers and stopwatches with countdowns and custom commands from
+  the tray.'
 website: 'https://github.com/bl00mber/alarm-cron'
 repository: 'https://github.com/bl00mber/alarm-cron'
 keywords:
-    - alarm
-    - timer
-    - stopwatch
-    - cron
-    - clock
-    - time
-    - date
-    - countdown
-    - time management
-    - productivity
+  - alarm
+  - timer
+  - stopwatch
+  - cron
+  - clock
+  - time
+  - date
+  - countdown
+  - time management
+  - productivity
 category: Productivity

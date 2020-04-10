@@ -2255,6 +2255,22 @@
       "revHash": "8e93ec8c8f"
     }
   },
+  "danger-crew": {
+    "faintColorOnWhite": "rgba(97, 65, 56, 0.1)",
+    "goodColorOnBlack": "#E4ACAC",
+    "goodColorOnWhite": "#614138",
+    "palette": [
+      "#614138",
+      "#a47c3c",
+      "#e2d2d5",
+      "#e4acac",
+      "#bc9454"
+    ],
+    "source": {
+      "path": "apps/danger-crew/danger-crew-icon.png",
+      "revHash": "accbd7b5ec"
+    }
+  },
   "darkj": {
     "faintColorOnWhite": "rgba(34, 42, 55, 0.1)",
     "goodColorOnBlack": "#747C84",
@@ -6304,19 +6320,19 @@
     }
   },
   "media-dupes": {
-    "faintColorOnWhite": "rgba(200, 60, 44, 0.1)",
-    "goodColorOnBlack": "#D4493A",
-    "goodColorOnWhite": "#C83C2C",
+    "faintColorOnWhite": "rgba(197, 60, 60, 0.1)",
+    "goodColorOnBlack": "#E4A4A4",
+    "goodColorOnWhite": "#C53C3C",
     "palette": [
-      "#c43c2c",
-      "#c83c2c",
-      "#c83c2c",
-      "#c83c2c",
-      "#c83c2c"
+      "#fbfbfb",
+      "#c25b5b",
+      "#da9494",
+      "#deacac",
+      "#e4a4a4"
     ],
     "source": {
       "path": "apps/media-dupes/media-dupes-icon.png",
-      "revHash": "e3d7c56392"
+      "revHash": "be7deaeec7"
     }
   },
   "media-mate": {
@@ -7405,6 +7421,22 @@
     "source": {
       "path": "apps/nodemailer-app/nodemailer-app-icon.png",
       "revHash": "ab5213adec"
+    }
+  },
+  "norde-source": {
+    "faintColorOnWhite": "rgba(145, 99, 2, 0.1)",
+    "goodColorOnBlack": "#FBAC05",
+    "goodColorOnWhite": "#916302",
+    "palette": [
+      "#fcfbfb",
+      "#fbac05",
+      "#f9db98",
+      "#fcd474",
+      "#c0a87e"
+    ],
+    "source": {
+      "path": "apps/norde-source/norde-source-icon.png",
+      "revHash": "77f329faca"
     }
   },
   "northreader": {
@@ -9293,6 +9325,22 @@
     "source": {
       "path": "apps/r6rc/r6rc-icon.png",
       "revHash": "ba88753be9"
+    }
+  },
+  "raadyo": {
+    "faintColorOnWhite": "rgba(17, 49, 84, 0.1)",
+    "goodColorOnBlack": "#7C9CB4",
+    "goodColorOnWhite": "#113154",
+    "palette": [
+      "#113154",
+      "#dce2e8",
+      "#7c9cb4",
+      "#7c94b4",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/raadyo/raadyo-icon.png",
+      "revHash": "53dac9f6ee"
     }
   },
   "radio5050": {

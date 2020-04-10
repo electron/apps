@@ -2,5 +2,5 @@ name: Gitify
 description: 'Github notifications on your menu bar'
 website: 'https://www.gitify.io/'
 keywords:
-    - Github
+  - Github
 category: 'Developer Tools'

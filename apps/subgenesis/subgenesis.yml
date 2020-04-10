@@ -4,7 +4,7 @@ website: 'https://github.com/vinaychandranvs/subgenesis'
 category: Utilities
 repository: 'https://github.com/vinaychandranvs/subgenesis'
 keywords:
-    - subtitle
-    - 'subtitle downloader'
-    - 'download subtitles'
+  - subtitle
+  - 'subtitle downloader'
+  - 'download subtitles'
 license: MIT

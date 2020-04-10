@@ -4,11 +4,11 @@ website: 'https://zeit.co/download'
 repository: 'https://github.com/zeit/now-desktop'
 homebrewCaskName: now
 keywords:
-    - now
-    - desktop
-    - zeit
-    - deployment
-    - sharing
-    - development
+  - now
+  - desktop
+  - zeit
+  - deployment
+  - sharing
+  - development
 license: MIT
 category: 'Developer Tools'
