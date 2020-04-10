@@ -3,11 +3,11 @@ description: 'Unified Communications as a service'
 website: 'https://gluppi.com/download/'
 category: Social Networking
 keywords:
-    - telephony
-    - videoconference
-    - pbx
-    - chat
-    - video
-    - cloud
-    - storage
+  - telephony
+  - videoconference
+  - pbx
+  - chat
+  - video
+  - cloud
+  - storage
 license: Commercial

@@ -3,9 +3,8 @@ description: 'Decentralized p2p marketplace for Bitcoin'
 website: 'https://openbazaar.org'
 repository: 'https://github.com/OpenBazaar/openbazaar-desktop'
 keywords:
-    - ecommerce
-    - bitcoin
+  - ecommerce
+  - bitcoin
 category: Finance
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/8f3a77e61fe13d23c09147a1853d2719acaf61e7/68747470733a2f2f7472617669732d63692e6f72672f4f70656e42617a6161722f6f70656e62617a6161722d6465736b746f702e737667'
+  - imageUrl: 'https://camo.githubusercontent.com/8f3a77e61fe13d23c09147a1853d2719acaf61e7/68747470733a2f2f7472617669732d63692e6f72672f4f70656e42617a6161722f6f70656e62617a6161722d6465736b746f702e737667'

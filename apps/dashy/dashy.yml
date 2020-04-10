@@ -3,11 +3,10 @@ description: 'Organize and manage all your files inside one application.'
 website: 'https://dashy.futureglobe.de/'
 category: 'Productivity'
 keywords:
-    - filemanager
-    - shortcutmanager
-    - manager
+  - filemanager
+  - shortcutmanager
+  - manager
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/Futureglobe/Dashy_IssueTracker/master/dashyApp.png'
+  - imageUrl: 'https://raw.githubusercontent.com/Futureglobe/Dashy_IssueTracker/master/dashyApp.png'
     caption: 'Dashy'
     imageLink: 'https://dashy.futureglobe.de/'

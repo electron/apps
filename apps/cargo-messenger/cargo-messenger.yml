@@ -3,31 +3,28 @@ description: 'App provides messaging system using Cargo.LT system.'
 website: 'https://www.cargo.lt/asp/software.asp'
 category: Business
 keywords:
-    - cargo.lt
-    - messenger
-    - 'cargo messenger'
-    - cargo.pl
-    - cargo.es
-    - cargo
-    - freight
-    - transport
+  - cargo.lt
+  - messenger
+  - 'cargo messenger'
+  - cargo.pl
+  - cargo.es
+  - cargo
+  - freight
+  - transport
 locales:
-    - en-US
-    - ru
-    - lt
-    - pl
-    - lv
-    - es
-    - pt
-    - ua
+  - en-US
+  - ru
+  - lt
+  - pl
+  - lv
+  - es
+  - pt
+  - ua
 screenshots:
-    -
-        imageUrl: 'https://s3.eu-central-1.amazonaws.com/cargo-messenger/login-screen.png'
-        caption: 'Login screen'
-    -
-        imageUrl: 'https://s3.eu-central-1.amazonaws.com/cargo-messenger/main-screen.png'
-        caption: 'Main app screen'
+  - imageUrl: 'https://s3.eu-central-1.amazonaws.com/cargo-messenger/login-screen.png'
+    caption: 'Login screen'
+  - imageUrl: 'https://s3.eu-central-1.amazonaws.com/cargo-messenger/main-screen.png'
+    caption: 'Main app screen'
 
-    -
-        imageUrl: 'https://s3.eu-central-1.amazonaws.com/cargo-messenger/settings-screen.png'
-        caption: 'Settings screen'
+  - imageUrl: 'https://s3.eu-central-1.amazonaws.com/cargo-messenger/settings-screen.png'
+    caption: 'Settings screen'

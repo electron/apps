@@ -4,28 +4,24 @@ website: 'https://getferdi.com'
 category: Productivity
 repository: 'https://github.com/getferdi/ferdi'
 keywords:
-    - messaging
-    - chat
-    - productivity
-    - fork
-    - messenger
-    - office
+  - messaging
+  - chat
+  - productivity
+  - fork
+  - messenger
+  - office
 license: 'Apache License 2.0'
 screenshots:
-  -
-    imageUrl: 'https://cdn.jsdelivr.net/gh/getferdi/ferdi@develop/branding/screenshots/hero.png'
+  - imageUrl: 'https://cdn.jsdelivr.net/gh/getferdi/ferdi@develop/branding/screenshots/hero.png'
     caption: 'Keep all your messaging services in one place.'
     imageLink: 'https://getferdi.com'
-  -
-    imageUrl: 'https://cdn.jsdelivr.net/gh/getferdi/ferdi@develop/branding/screenshots/workspaces.png'
+  - imageUrl: 'https://cdn.jsdelivr.net/gh/getferdi/ferdi@develop/branding/screenshots/workspaces.png'
     caption: 'Order your services with Ferdi Workspaces.'
     imageLink: 'https://getferdi.com/features/'
-  -
-    imageUrl: 'https://cdn.jsdelivr.net/gh/getferdi/ferdi@develop/branding/screenshots/todos.png'
+  - imageUrl: 'https://cdn.jsdelivr.net/gh/getferdi/ferdi@develop/branding/screenshots/todos.png'
     caption: 'Always keep your Todo list open with Ferdi Todos.'
     imageLink: 'https://getferdi.com/features/'
-  -
-    imageUrl: 'https://cdn.jsdelivr.net/gh/getferdi/ferdi@develop/branding/screenshots/service-store.png'
+  - imageUrl: 'https://cdn.jsdelivr.net/gh/getferdi/ferdi@develop/branding/screenshots/service-store.png'
     caption: 'Supporting all your services.'
     imageLink: 'https://getferdi.com/features/'
 locales:

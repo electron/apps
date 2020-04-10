@@ -5,9 +5,9 @@ category: 'Developer Tools'
 repository: 'https://github.com/pixel-point/kube-forwarder'
 homebrewCaskName: kube-forwarder
 keywords:
-    - kubectl
-    - kubernetes
-    - devops
-    - k8s
-    - port-forwarding
+  - kubectl
+  - kubernetes
+  - devops
+  - k8s
+  - port-forwarding
 license: MIT

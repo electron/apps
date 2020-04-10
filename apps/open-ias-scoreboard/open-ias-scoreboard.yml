@@ -4,8 +4,8 @@ website: 'https://openias.garykim.dev'
 category: Sports
 repository: 'https://github.com/gary-kim/open-ias-scoreboard'
 keywords:
-    - 'electron-forge'
-    - 'scoreboard'
+  - 'electron-forge'
+  - 'scoreboard'
 license: AGPL-3.0-only
 screenshots:
   - imageUrl: 'https://openias.garykim.dev/img/rename-scoreboard-screenshot.png'
