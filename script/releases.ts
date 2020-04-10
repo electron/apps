@@ -18,8 +18,14 @@ const oldReleaseData = require(outputFile)
 const output: Record<string, IReleasesOutput> = {}
 const limiter = new Bottleneck(MAX_CONCURRENCY)
 
-console.log(`${appsWithRepos.length} of ${apps().length} apps have a GitHub repo.`)
-console.log(`${appsWithRepos.filter(shouldUpdateAppReleaseData).length} of those ${appsWithRepos.length} have missing or outdated release data.`)
+console.log(
+  `${appsWithRepos.length} of ${apps().length} apps have a GitHub repo.`
+)
+console.log(
+  `${appsWithRepos.filter(shouldUpdateAppReleaseData).length} of those ${
+    appsWithRepos.length
+  } have missing or outdated release data.`
+)
 
 appsWithRepos.forEach((app) => {
   if (shouldUpdateAppReleaseData(app)) {
@@ -35,15 +41,15 @@ limiter.on('idle', () => {
   process.exit()
 })
 
-function shouldUpdateAppReleaseData (app: IApp) {
+function shouldUpdateAppReleaseData(app: IApp) {
   const oldData = oldReleaseData[app.slug]
   if (!oldData || !oldData.latestReleaseFetchedAt) return true
   const oldDate = new Date(oldData.latestReleaseFetchedAt || null).getTime()
   return oldDate + RELEASE_CACHE_TTL < Date.now()
 }
 
-function getLatestRelease (app: IApp) {
-  const {user: owner, repo} = parseGitUrl(app.repository)
+function getLatestRelease(app: IApp) {
+  const { user: owner, repo } = parseGitUrl(app.repository)
   const opts = {
     owner: owner,
     repo: repo,

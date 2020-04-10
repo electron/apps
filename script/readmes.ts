@@ -26,8 +26,12 @@ const appsToUpdate = appsWithRepos.filter((app: IApp) => {
   return oldDate + README_CACHE_TTL < Date.now()
 })
 
-console.log(`${appsWithRepos.length} of ${apps().length} apps have a GitHub repo.`)
-console.log(`${appsToUpdate.length} of those ${appsWithRepos.length} have missing or outdated README data.`)
+console.log(
+  `${appsWithRepos.length} of ${apps().length} apps have a GitHub repo.`
+)
+console.log(
+  `${appsToUpdate.length} of those ${appsWithRepos.length} have missing or outdated README data.`
+)
 
 appsToUpdate.forEach((app) => {
   limiter.schedule(getReadme, app)
@@ -39,8 +43,8 @@ limiter.on('idle', () => {
   process.exit()
 })
 
-function getReadme (app: IApp) {
-  const {user: owner, repo} = parseGitUrl(app.repository)
+function getReadme(app: IApp) {
+  const { user: owner, repo } = parseGitUrl(app.repository)
   const opts = {
     owner: owner,
     repo: repo,
@@ -69,12 +73,14 @@ function getReadme (app: IApp) {
     })
 }
 
-function cleanReadme (readme: unknown, app: IApp) {
+function cleanReadme(readme: unknown, app: IApp) {
   const $ = cheerio.load(readme as string)
 
   const $relativeImages = $('img').not('[src^="http"]')
   if ($relativeImages.length) {
-    console.log(`${app.slug}: updating ${$relativeImages.length} relative image URLs`)
+    console.log(
+      `${app.slug}: updating ${$relativeImages.length} relative image URLs`
+    )
     $relativeImages.each((_i, img) => {
       $(img).attr('src', `${app.repository}/raw/master/${$(img).attr('src')}`)
     })

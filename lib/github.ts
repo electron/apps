@@ -3,13 +3,11 @@ if (!process.env.GH_TOKEN) {
 }
 
 import * as Github from '@octokit/rest'
-const github_ = new Github({
-
-})
+const github_ = new Github({})
 
 github_.authenticate({
   type: 'token',
-  token: process.env.GH_TOKEN ?? ''
+  token: process.env.GH_TOKEN ?? '',
 })
 
 export const github = github_

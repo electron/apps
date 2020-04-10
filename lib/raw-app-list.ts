@@ -3,9 +3,12 @@ import * as path from 'path'
 import * as yaml from 'js-yaml'
 
 export const apps = () =>
-  fs.readdirSync(path.join(__dirname, '../apps'))
-    .filter(filename => {
-      return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
+  fs
+    .readdirSync(path.join(__dirname, '../apps'))
+    .filter((filename) => {
+      return fs
+        .statSync(path.join(__dirname, `../apps/${filename}`))
+        .isDirectory()
     })
     .sort()
     .map((slug) => {
@@ -15,7 +18,7 @@ export const apps = () =>
           slug: slug,
           iconPath: path.join(__dirname, `../apps/${slug}/${slug}-icon.png`),
         },
-        yaml.safeLoad(fs.readFileSync(yamlFile, { encoding: 'utf-8'}))
+        yaml.safeLoad(fs.readFileSync(yamlFile, { encoding: 'utf-8' }))
       )
       return app
     })

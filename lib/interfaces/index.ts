@@ -1,4 +1,4 @@
-export type $TSFixMe = any;
+export type $TSFixMe = any
 
 export * from './app'
 export * from './releases'

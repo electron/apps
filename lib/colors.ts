@@ -17,7 +17,7 @@ const pickAGoodColor = require('pick-a-good-color')
  * @param root: repo toplevel directory so that saved iconPaths are relative to it
  * @return { slug: { palette, goodColorOnWhite, goodColorOnBlack, faintColorOnWhite, source: { revHash, iconPath } }
  */
-export async function getColors (
+export async function getColors(
   slugsAndIconPaths: $TSFixMe,
   oldColors: $TSFixMe,
   root: string
@@ -34,8 +34,8 @@ export async function getColors (
         if (o && o.source && o.source.revHash === hash) return { [slug]: o }
 
         console.info(`calculating good colors for ${slug}`)
-        return await getImageColors(data, mime.lookup(app.iconPath))
-          .then((iconColors: $TSFixMe) => {
+        return await getImageColors(data, mime.lookup(app.iconPath)).then(
+          (iconColors: $TSFixMe) => {
             const palette = iconColors.map((color: $TSFixMe) => color.hex())
             const goodColorOnWhite = pickAGoodColor(palette)
             const goodColorOnBlack = pickAGoodColor(palette, {

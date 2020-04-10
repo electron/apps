@@ -8,8 +8,13 @@ const slugg = require('slugg')
 
 console.log('Generating a list of categories with counts...')
 
-const categories = countArrayValues(apps().map(app => app.category), 'name')
-  .map((category: $TSFixMe) => Object.assign(category, {slug: slugg(category.name)}))
+const categories = countArrayValues(
+  apps().map((app) => app.category),
+  'name'
+)
+  .map((category: $TSFixMe) =>
+    Object.assign(category, { slug: slugg(category.name) })
+  )
   .sort((a: $TSFixMe, b: $TSFixMe) => b.count - a.count)
 
 fs.writeFileSync(
