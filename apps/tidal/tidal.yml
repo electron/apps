@@ -1,5 +1,6 @@
 name: TIDAL
 description: 'Music streaming service'
+disabled: true # There is no app
 website: 'https://www.tidal.com'
 keywords:
   - music
