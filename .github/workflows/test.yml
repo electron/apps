@@ -22,6 +22,6 @@ jobs:
       # - name: Run tests
       #   run: 'npm test'
       - name: 'run build'
-        run: 'npm build'
+        run: 'npm run build'
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
