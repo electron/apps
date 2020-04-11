@@ -2943,6 +2943,22 @@
       "revHash": "daf66f9f1d"
     }
   },
+  "dynobase": {
+    "faintColorOnWhite": "rgba(3, 117, 227, 0.1)",
+    "goodColorOnBlack": "#0483FC",
+    "goodColorOnWhite": "#0375E3",
+    "palette": [
+      "#0483fc",
+      "#f8fafc",
+      "#58abfc",
+      "#79bcfc",
+      "#84bcfc"
+    ],
+    "source": {
+      "path": "apps/dynobase/dynobase-icon.png",
+      "revHash": "b30b586fe0"
+    }
+  },
   "e-mage": {
     "faintColorOnWhite": "rgba(147, 108, 45, 0.1)",
     "goodColorOnBlack": "#F9C10E",
@@ -6989,6 +7005,22 @@
     "source": {
       "path": "apps/moviescores/moviescores-icon.png",
       "revHash": "ee22c12f2f"
+    }
+  },
+  "mr-noplay": {
+    "faintColorOnWhite": "rgba(111, 92, 72, 0.1)",
+    "goodColorOnBlack": "#EBC794",
+    "goodColorOnWhite": "#6F5C48",
+    "palette": [
+      "#2b2523",
+      "#ebc794",
+      "#6f5c48",
+      "#949494",
+      "#8c8c94"
+    ],
+    "source": {
+      "path": "apps/mr-noplay/mr-noplay-icon.png",
+      "revHash": "24b77c5566"
     }
   },
   "mstream": {
