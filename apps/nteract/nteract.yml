@@ -3,12 +3,11 @@ description: 'Interactive literate coding notebook'
 website: 'https://nteract.io/'
 repository: 'https://github.com/nteract/nteract'
 keywords:
-    - jupyter
-    - notebook
-    - nteract
-    - data
+  - jupyter
+  - notebook
+  - nteract
+  - data
 license: BSD-3-Clause
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://cloud.githubusercontent.com/assets/836375/18421299/d95ad398-783b-11e6-8b23-d54cf7caad1e.png'
+  - imageUrl: 'https://cloud.githubusercontent.com/assets/836375/18421299/d95ad398-783b-11e6-8b23-d54cf7caad1e.png'

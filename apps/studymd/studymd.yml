@@ -4,7 +4,7 @@ website: 'https://github.com/jotron/StudyMD'
 category: Productivity
 repository: 'https://github.com/jotron/StudyMD'
 keywords:
-    - flashcards
-    - react-app
-    - markdown
+  - flashcards
+  - react-app
+  - markdown
 license: MIT

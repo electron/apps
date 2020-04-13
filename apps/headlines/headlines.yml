@@ -2,9 +2,8 @@ name: Headlines
 description: 'View the latest news headlines with categories'
 website: 'https://github.com/MedZed/Electron-Headlines'
 keywords:
-    - news
+  - news
 category: News
 repository: 'https://github.com/MedZed/Electron-Headlines'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/MedZed/Electron-Headlines/master/img/Screanshot.JPG'
+  - imageUrl: 'https://raw.githubusercontent.com/MedZed/Electron-Headlines/master/img/Screanshot.JPG'

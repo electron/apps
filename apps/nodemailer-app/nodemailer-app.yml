@@ -1,8 +1,8 @@
 name: NodemailerApp
-description: "Email debugging tool."
-website: "https://nodemailer.com/app/"
-repository: "https://github.com/nodemailer/nodemailer-app"
-category: "Utilities"
+description: 'Email debugging tool.'
+website: 'https://nodemailer.com/app/'
+repository: 'https://github.com/nodemailer/nodemailer-app'
+category: 'Utilities'
 keywords:
   - email
   - imap
@@ -12,15 +12,15 @@ keywords:
   - emlx
   - postfix
 screenshots:
-  - imageUrl: "https://nodemailer.com/screenshots/img01.png"
-    caption: "Preview any email in rich text mode"
-  - imageUrl: "https://nodemailer.com/screenshots/img02.png"
-    caption: "See the HTML source code of newsletter emails"
-  - imageUrl: "https://nodemailer.com/screenshots/img03.png"
-    caption: "Run local development server as SMTP relay"
-  - imageUrl: "https://nodemailer.com/screenshots/img04.png"
-    caption: "Upload emails to SMTP or IMAP server"
-  - imageUrl: "https://nodemailer.com/screenshots/img06.png"
-    caption: "Search emails by variety of criterias"
-  - imageUrl: "https://nodemailer.com/screenshots/img05.png"
-    caption: "Search for specific attachments"
+  - imageUrl: 'https://nodemailer.com/screenshots/img01.png'
+    caption: 'Preview any email in rich text mode'
+  - imageUrl: 'https://nodemailer.com/screenshots/img02.png'
+    caption: 'See the HTML source code of newsletter emails'
+  - imageUrl: 'https://nodemailer.com/screenshots/img03.png'
+    caption: 'Run local development server as SMTP relay'
+  - imageUrl: 'https://nodemailer.com/screenshots/img04.png'
+    caption: 'Upload emails to SMTP or IMAP server'
+  - imageUrl: 'https://nodemailer.com/screenshots/img06.png'
+    caption: 'Search emails by variety of criterias'
+  - imageUrl: 'https://nodemailer.com/screenshots/img05.png'
+    caption: 'Search for specific attachments'

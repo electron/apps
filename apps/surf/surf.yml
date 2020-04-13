@@ -2,10 +2,10 @@ name: Surf
 description: 'Organize your ideas and inspirations with ease'
 website: 'https://surfapp.io'
 keywords:
-    - link
-    - note
-    - organizer
-    - productivity
-    - ideas
-    - todo
+  - link
+  - note
+  - organizer
+  - productivity
+  - ideas
+  - todo
 category: Productivity

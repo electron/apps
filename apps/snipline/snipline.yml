@@ -1,5 +1,6 @@
 name: 'Snipline'
-description: 'Developer tool for power users to organize and copy shell commands fast.'
+description:
+  'Developer tool for power users to organize and copy shell commands fast.'
 website: 'https://snipline.io'
 keywords:
   - code
@@ -18,15 +19,13 @@ locales:
   - en-US
   - en-GB
 screenshots:
-  -
-    imageUrl: 'https://docs.snipline.io/images/snipline/search-copy.png'
+  - imageUrl: 'https://docs.snipline.io/images/snipline/search-copy.png'
     caption: 'Searching and copying a snippet'
     imageLink: 'https://docs.snipline.io/desktop/basics/first-snippet/'
-  -
-    imageUrl: 'https://docs.snipline.io/images/snipline/copy-process.png'
-    caption: 'Copying a snippet and updating a parameter while viewing documentation'
+  - imageUrl: 'https://docs.snipline.io/images/snipline/copy-process.png'
+    caption:
+      'Copying a snippet and updating a parameter while viewing documentation'
     imageLink: 'https://docs.snipline.io/desktop/basics/dynamic-snippets/'
-  -
-    imageUrl: 'https://docs.snipline.io/images/snipline/multi-choice.png'
+  - imageUrl: 'https://docs.snipline.io/images/snipline/multi-choice.png'
     caption: 'Set predefined options to choose between'
     imageLink: 'https://docs.snipline.io/desktop/advanced/multi-choice/'

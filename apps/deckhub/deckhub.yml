@@ -2,7 +2,7 @@ name: DeckHub
 description: 'TweetDeck style desktop client for GitHub'
 website: 'https://getdeckhub.com'
 keywords:
-    - GitHub
+  - GitHub
 category: 'Developer Tools'
 disabled: true
 disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'

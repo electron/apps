@@ -3,11 +3,10 @@ description: 'Open-source screenshot utility that lives in your menubar'
 website: 'https://github.com/bluegill/katana'
 repository: 'https://github.com/bluegill/katana'
 keywords:
-    - screenshot
-    - cloud
-    - share
-    - upload
+  - screenshot
+  - cloud
+  - share
+  - upload
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/48d7da0a80bbad80a695faca9a7ea2168ae794dd/68747470733a2f2f692e696d6775722e636f6d2f32716251566c792e706e67'
+  - imageUrl: 'https://camo.githubusercontent.com/48d7da0a80bbad80a695faca9a7ea2168ae794dd/68747470733a2f2f692e696d6775722e636f6d2f32716251566c792e706e67'

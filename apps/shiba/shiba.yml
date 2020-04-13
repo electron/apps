@@ -3,11 +3,10 @@ description: 'Rich markdown live preview app with linter'
 website: 'https://github.com/rhysd/Shiba'
 repository: 'https://github.com/rhysd/Shiba'
 keywords:
-    - markdown
-    - preview
-    - linter
+  - markdown
+  - preview
+  - linter
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/rhysd/ss/master/Shiba/shiba-screenshot.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/rhysd/ss/master/Shiba/shiba-screenshot.gif'

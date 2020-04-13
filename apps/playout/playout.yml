@@ -1,12 +1,13 @@
 name: Playout
-description: 'Free mac menubar app that can save the window position of any application, and then restore it with one click. Create layouts and play them with hotkeys.'
+description:
+  'Free mac menubar app that can save the window position of any application,
+  and then restore it with one click. Create layouts and play them with hotkeys.'
 website: 'https://playout.space'
 keywords:
-    - productivity
-    - layout
-    - workspace
+  - productivity
+  - layout
+  - workspace
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://playout.space/img/playout-screenshot.png'
-        imageLink: 'https://playout.space'
+  - imageUrl: 'https://playout.space/img/playout-screenshot.png'
+    imageLink: 'https://playout.space'

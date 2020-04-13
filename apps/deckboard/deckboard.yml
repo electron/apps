@@ -4,11 +4,9 @@ website: 'https://rivafarabi.github.io/deckboard'
 repository: 'https://github.com/rivafarabi/deckboard'
 category: Productivity
 keywords:
-    - shortcut
-    - macro
-    - remote
-    - deck
+  - shortcut
+  - macro
+  - remote
+  - deck
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/rivafarabi/deckboard/master/01.PNG'
-
+  - imageUrl: 'https://raw.githubusercontent.com/rivafarabi/deckboard/master/01.PNG'
