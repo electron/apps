@@ -1,0 +1,16 @@
+name: SEOBrowse
+description: "Browser build for SEO professionals."
+website: "https://seobrowse.com/?rel=electron"
+category: "Productivity"
+keywords:
+  - browser
+  - seo
+  - vpn
+  - local
+  - search engine
+  - testing
+  - screenshot
+screenshots:
+  - imageUrl: "https://seobrowse.com/img/screenshot-0.png"
+  - imageUrl: "https://seobrowse.com/img/screenshot-1.png"
+  - imageUrl: "https://seobrowse.com/img/screenshot-2.png"
