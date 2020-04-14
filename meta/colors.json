@@ -9023,6 +9023,22 @@
       "revHash": "e576edc7d7"
     }
   },
+  "protoman": {
+    "faintColorOnWhite": "rgba(49, 112, 226, 0.1)",
+    "goodColorOnBlack": "#C4CCFC",
+    "goodColorOnWhite": "#3170E2",
+    "palette": [
+      "#3170e2",
+      "#fbfbfb",
+      "#a3c1f1",
+      "#94acf8",
+      "#c4ccfc"
+    ],
+    "source": {
+      "path": "apps/protoman/protoman-icon.png",
+      "revHash": "fa74ba05fb"
+    }
+  },
   "protopie": {
     "faintColorOnWhite": "rgba(234, 8, 5, 0.1)",
     "goodColorOnBlack": "#FC706E",
@@ -10095,6 +10111,22 @@
       "revHash": "29c2de30b7"
     }
   },
+  "seobrowse": {
+    "faintColorOnWhite": "rgba(34, 110, 246, 0.1)",
+    "goodColorOnBlack": "#B1CCFC",
+    "goodColorOnWhite": "#226EF6",
+    "palette": [
+      "#5b97f4",
+      "#fafbfc",
+      "#94b8f9",
+      "#b1ccfc",
+      "#7cacf4"
+    ],
+    "source": {
+      "path": "apps/seobrowse/seobrowse-icon.png",
+      "revHash": "55e5fa094b"
+    }
+  },
   "serene-app": {
     "faintColorOnWhite": "rgba(160, 97, 5, 0.1)",
     "goodColorOnBlack": "#FBC980",
@@ -10909,6 +10941,22 @@
     "source": {
       "path": "apps/sqlectron/sqlectron-icon.png",
       "revHash": "d050a4326c"
+    }
+  },
+  "sshfs-win-manager": {
+    "faintColorOnWhite": "rgba(60, 131, 2, 0.1)",
+    "goodColorOnBlack": "#73FB05",
+    "goodColorOnWhite": "#3C8302",
+    "palette": [
+      "#2e95e7",
+      "#62aae4",
+      "#73fb05",
+      "#54d481",
+      "#4ccc94"
+    ],
+    "source": {
+      "path": "apps/sshfs-win-manager/sshfs-win-manager-icon.png",
+      "revHash": "f6c53da88c"
     }
   },
   "stack": {
