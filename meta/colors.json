@@ -5759,6 +5759,22 @@
       "revHash": "aba64be85b"
     }
   },
+  "lessview": {
+    "faintColorOnWhite": "rgba(4, 52, 195, 0.1)",
+    "goodColorOnBlack": "#7494DC",
+    "goodColorOnWhite": "#0434C3",
+    "palette": [
+      "#0434c3",
+      "#ebebf3",
+      "#617ed4",
+      "#849cdc",
+      "#7494dc"
+    ],
+    "source": {
+      "path": "apps/lessview/lessview-icon.png",
+      "revHash": "c2c78f601d"
+    }
+  },
   "lifeboat": {
     "faintColorOnWhite": "rgba(203, 35, 45, 0.1)",
     "goodColorOnBlack": "#5CCCD4",
@@ -8141,6 +8157,22 @@
     "source": {
       "path": "apps/paymo-time-tracker/paymo-time-tracker-icon.png",
       "revHash": "568ad7b526"
+    }
+  },
+  "peacock": {
+    "faintColorOnWhite": "rgba(52, 60, 68, 0.1)",
+    "goodColorOnBlack": "#64E3FB",
+    "goodColorOnWhite": "#343C44",
+    "palette": [
+      "#fbe4a3",
+      "#64e3fb",
+      "#343c44",
+      "#6c64fb",
+      "#fb6363"
+    ],
+    "source": {
+      "path": "apps/peacock/peacock-icon.png",
+      "revHash": "0d3975246a"
     }
   },
   "pencil": {
