@@ -9807,6 +9807,22 @@
       "revHash": "f8cc2f616c"
     }
   },
+  "runjs": {
+    "faintColorOnWhite": "rgba(126, 108, 12, 0.1)",
+    "goodColorOnBlack": "#F7DF1F",
+    "goodColorOnWhite": "#7E6C0C",
+    "palette": [
+      "#f7df1f",
+      "#070604",
+      "#a08c11",
+      "#7e6c0c",
+      "#bca110"
+    ],
+    "source": {
+      "path": "apps/runjs/runjs-icon.png",
+      "revHash": "f21efc67dc"
+    }
+  },
   "runlet": {
     "faintColorOnWhite": "rgba(36, 36, 60, 0.1)",
     "goodColorOnBlack": "#F3F3FB",
@@ -10512,19 +10528,19 @@
     }
   },
   "skype": {
-    "faintColorOnWhite": "rgba(3, 115, 163, 0.1)",
-    "goodColorOnBlack": "#04ACF4",
-    "goodColorOnWhite": "#0373A3",
+    "faintColorOnWhite": "rgba(4, 111, 189, 0.1)",
+    "goodColorOnBlack": "#047CD4",
+    "goodColorOnWhite": "#046FBD",
     "palette": [
-      "#fbfbfc",
-      "#04acf4",
-      "#62cdf4",
-      "#9ddefa",
-      "#3cc4f4"
+      "#047cd4",
+      "#087cd4",
+      "#087cd4",
+      "#087cd4",
+      "#087cd4"
     ],
     "source": {
       "path": "apps/skype/skype-icon.png",
-      "revHash": "81a1475332"
+      "revHash": "930a61d407"
     }
   },
   "slack": {
