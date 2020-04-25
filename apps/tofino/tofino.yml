@@ -2,6 +2,6 @@ name: Tofino
 description: 'Experimental web browser from Mozilla'
 website: 'https://github.com/mozilla/tofino'
 keywords:
-    - browser
+  - browser
 category: Productivity
 repository: 'https://github.com/mozilla/tofino'

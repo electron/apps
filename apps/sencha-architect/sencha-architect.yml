@@ -1,9 +1,11 @@
 name: 'Sencha Architect'
-description: 'The Ext JS visual app builder for developing cross-platform HTML5 applications on desktop and mobile devices.'
+description:
+  'The Ext JS visual app builder for developing cross-platform HTML5
+  applications on desktop and mobile devices.'
 website: 'https://www.sencha.com/products/architect/'
 keywords:
-    - 'web development'
-    - programming
-    - productivity
-    - 'app builder'
+  - 'web development'
+  - programming
+  - productivity
+  - 'app builder'
 category: Productivity

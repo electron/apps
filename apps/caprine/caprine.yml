@@ -3,13 +3,12 @@ description: 'Facebook Messenger app'
 website: 'https://github.com/sindresorhus/caprine'
 repository: 'https://github.com/sindresorhus/caprine'
 keywords:
-    - chat
-    - messaging
-    - social
-    - facebook
+  - chat
+  - messaging
+  - social
+  - facebook
 license: MIT
 disabled: true
 category: 'Social Networking'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/sindresorhus/caprine/master/media/screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/sindresorhus/caprine/master/media/screenshot.png'

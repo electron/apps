@@ -3,10 +3,9 @@ description: 'Markdown editor witch clarity +1'
 website: 'https://hoverbaum.github.io/BlankUp-Electron/'
 repository: 'https://github.com/HoverBaum/BlankUp-Electron'
 keywords:
-    - markdown
-    - editor
-    - productivity
+  - markdown
+  - editor
+  - productivity
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/HoverBaum/BlankUp-Electron/master/img/BlankUpDemo.png'
+  - imageUrl: 'https://raw.githubusercontent.com/HoverBaum/BlankUp-Electron/master/img/BlankUpDemo.png'
