@@ -2943,6 +2943,22 @@
       "revHash": "daf66f9f1d"
     }
   },
+  "dynobase": {
+    "faintColorOnWhite": "rgba(3, 117, 227, 0.1)",
+    "goodColorOnBlack": "#0483FC",
+    "goodColorOnWhite": "#0375E3",
+    "palette": [
+      "#0483fc",
+      "#f8fafc",
+      "#58abfc",
+      "#79bcfc",
+      "#84bcfc"
+    ],
+    "source": {
+      "path": "apps/dynobase/dynobase-icon.png",
+      "revHash": "b30b586fe0"
+    }
+  },
   "e-mage": {
     "faintColorOnWhite": "rgba(147, 108, 45, 0.1)",
     "goodColorOnBlack": "#F9C10E",
@@ -5743,6 +5759,22 @@
       "revHash": "aba64be85b"
     }
   },
+  "lessview": {
+    "faintColorOnWhite": "rgba(4, 52, 195, 0.1)",
+    "goodColorOnBlack": "#7494DC",
+    "goodColorOnWhite": "#0434C3",
+    "palette": [
+      "#0434c3",
+      "#ebebf3",
+      "#617ed4",
+      "#849cdc",
+      "#7494dc"
+    ],
+    "source": {
+      "path": "apps/lessview/lessview-icon.png",
+      "revHash": "c2c78f601d"
+    }
+  },
   "lifeboat": {
     "faintColorOnWhite": "rgba(203, 35, 45, 0.1)",
     "goodColorOnBlack": "#5CCCD4",
@@ -6320,19 +6352,19 @@
     }
   },
   "media-dupes": {
-    "faintColorOnWhite": "rgba(200, 60, 44, 0.1)",
-    "goodColorOnBlack": "#D4493A",
-    "goodColorOnWhite": "#C83C2C",
+    "faintColorOnWhite": "rgba(197, 60, 60, 0.1)",
+    "goodColorOnBlack": "#E4A4A4",
+    "goodColorOnWhite": "#C53C3C",
     "palette": [
-      "#c43c2c",
-      "#c83c2c",
-      "#c83c2c",
-      "#c83c2c",
-      "#c83c2c"
+      "#fbfbfb",
+      "#c25b5b",
+      "#da9494",
+      "#deacac",
+      "#e4a4a4"
     ],
     "source": {
       "path": "apps/media-dupes/media-dupes-icon.png",
-      "revHash": "e3d7c56392"
+      "revHash": "be7deaeec7"
     }
   },
   "media-mate": {
@@ -6991,6 +7023,22 @@
       "revHash": "ee22c12f2f"
     }
   },
+  "mr-noplay": {
+    "faintColorOnWhite": "rgba(111, 92, 72, 0.1)",
+    "goodColorOnBlack": "#EBC794",
+    "goodColorOnWhite": "#6F5C48",
+    "palette": [
+      "#2b2523",
+      "#ebc794",
+      "#6f5c48",
+      "#949494",
+      "#8c8c94"
+    ],
+    "source": {
+      "path": "apps/mr-noplay/mr-noplay-icon.png",
+      "revHash": "24b77c5566"
+    }
+  },
   "mstream": {
     "faintColorOnWhite": "rgba(36, 76, 124, 0.1)",
     "goodColorOnBlack": "#6484B4",
@@ -7421,6 +7469,22 @@
     "source": {
       "path": "apps/nodemailer-app/nodemailer-app-icon.png",
       "revHash": "ab5213adec"
+    }
+  },
+  "norde-source": {
+    "faintColorOnWhite": "rgba(145, 99, 2, 0.1)",
+    "goodColorOnBlack": "#FBAC05",
+    "goodColorOnWhite": "#916302",
+    "palette": [
+      "#fcfbfb",
+      "#fbac05",
+      "#f9db98",
+      "#fcd474",
+      "#c0a87e"
+    ],
+    "source": {
+      "path": "apps/norde-source/norde-source-icon.png",
+      "revHash": "77f329faca"
     }
   },
   "northreader": {
@@ -8093,6 +8157,22 @@
     "source": {
       "path": "apps/paymo-time-tracker/paymo-time-tracker-icon.png",
       "revHash": "568ad7b526"
+    }
+  },
+  "peacock": {
+    "faintColorOnWhite": "rgba(52, 60, 68, 0.1)",
+    "goodColorOnBlack": "#64E3FB",
+    "goodColorOnWhite": "#343C44",
+    "palette": [
+      "#fbe4a3",
+      "#64e3fb",
+      "#343c44",
+      "#6c64fb",
+      "#fb6363"
+    ],
+    "source": {
+      "path": "apps/peacock/peacock-icon.png",
+      "revHash": "0d3975246a"
     }
   },
   "pencil": {
@@ -8975,6 +9055,22 @@
       "revHash": "e576edc7d7"
     }
   },
+  "protoman": {
+    "faintColorOnWhite": "rgba(49, 112, 226, 0.1)",
+    "goodColorOnBlack": "#C4CCFC",
+    "goodColorOnWhite": "#3170E2",
+    "palette": [
+      "#3170e2",
+      "#fbfbfb",
+      "#a3c1f1",
+      "#94acf8",
+      "#c4ccfc"
+    ],
+    "source": {
+      "path": "apps/protoman/protoman-icon.png",
+      "revHash": "fa74ba05fb"
+    }
+  },
   "protopie": {
     "faintColorOnWhite": "rgba(234, 8, 5, 0.1)",
     "goodColorOnBlack": "#FC706E",
@@ -9309,6 +9405,22 @@
     "source": {
       "path": "apps/r6rc/r6rc-icon.png",
       "revHash": "ba88753be9"
+    }
+  },
+  "raadyo": {
+    "faintColorOnWhite": "rgba(17, 49, 84, 0.1)",
+    "goodColorOnBlack": "#7C9CB4",
+    "goodColorOnWhite": "#113154",
+    "palette": [
+      "#113154",
+      "#dce2e8",
+      "#7c9cb4",
+      "#7c94b4",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/raadyo/raadyo-icon.png",
+      "revHash": "53dac9f6ee"
     }
   },
   "radio5050": {
@@ -9727,6 +9839,22 @@
       "revHash": "f8cc2f616c"
     }
   },
+  "runjs": {
+    "faintColorOnWhite": "rgba(126, 108, 12, 0.1)",
+    "goodColorOnBlack": "#F7DF1F",
+    "goodColorOnWhite": "#7E6C0C",
+    "palette": [
+      "#f7df1f",
+      "#070604",
+      "#a08c11",
+      "#7e6c0c",
+      "#bca110"
+    ],
+    "source": {
+      "path": "apps/runjs/runjs-icon.png",
+      "revHash": "f21efc67dc"
+    }
+  },
   "runlet": {
     "faintColorOnWhite": "rgba(36, 36, 60, 0.1)",
     "goodColorOnBlack": "#F3F3FB",
@@ -10029,6 +10157,22 @@
     "source": {
       "path": "apps/sencha-themer/sencha-themer-icon.png",
       "revHash": "29c2de30b7"
+    }
+  },
+  "seobrowse": {
+    "faintColorOnWhite": "rgba(34, 110, 246, 0.1)",
+    "goodColorOnBlack": "#B1CCFC",
+    "goodColorOnWhite": "#226EF6",
+    "palette": [
+      "#5b97f4",
+      "#fafbfc",
+      "#94b8f9",
+      "#b1ccfc",
+      "#7cacf4"
+    ],
+    "source": {
+      "path": "apps/seobrowse/seobrowse-icon.png",
+      "revHash": "55e5fa094b"
     }
   },
   "serene-app": {
@@ -10416,19 +10560,19 @@
     }
   },
   "skype": {
-    "faintColorOnWhite": "rgba(3, 115, 163, 0.1)",
-    "goodColorOnBlack": "#04ACF4",
-    "goodColorOnWhite": "#0373A3",
+    "faintColorOnWhite": "rgba(4, 111, 189, 0.1)",
+    "goodColorOnBlack": "#047CD4",
+    "goodColorOnWhite": "#046FBD",
     "palette": [
-      "#fbfbfc",
-      "#04acf4",
-      "#62cdf4",
-      "#9ddefa",
-      "#3cc4f4"
+      "#047cd4",
+      "#087cd4",
+      "#087cd4",
+      "#087cd4",
+      "#087cd4"
     ],
     "source": {
       "path": "apps/skype/skype-icon.png",
-      "revHash": "81a1475332"
+      "revHash": "930a61d407"
     }
   },
   "slack": {
@@ -10845,6 +10989,22 @@
     "source": {
       "path": "apps/sqlectron/sqlectron-icon.png",
       "revHash": "d050a4326c"
+    }
+  },
+  "sshfs-win-manager": {
+    "faintColorOnWhite": "rgba(60, 131, 2, 0.1)",
+    "goodColorOnBlack": "#73FB05",
+    "goodColorOnWhite": "#3C8302",
+    "palette": [
+      "#2e95e7",
+      "#62aae4",
+      "#73fb05",
+      "#54d481",
+      "#4ccc94"
+    ],
+    "source": {
+      "path": "apps/sshfs-win-manager/sshfs-win-manager-icon.png",
+      "revHash": "f6c53da88c"
     }
   },
   "stack": {
