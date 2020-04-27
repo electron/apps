@@ -1,6 +1,17 @@
 name: Gitify
 description: 'Github notifications on your menu bar'
 website: 'https://www.gitify.io/'
+repository: 'https://github.com/manosim/gitify'
+homebrewCaskName: gitify
 keywords:
   - Github
-category: 'Developer Tools'
+  - notifications
+  - developer
+  - tool
+  - productivity
+license: MIT
+category: Productivity
+screenshots:
+  - imageUrl: 'https://user-images.githubusercontent.com/6333409/80285184-14242000-871b-11ea-9ca4-a04e820258b8.png'
+    caption: 'Gitify Mockup'
+    imageLink: 'https://www.gitify.io/'
