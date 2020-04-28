@@ -1,5 +1,4 @@
-[
-  {
+[{
     "name": "Productivity",
     "count": 255,
     "slug": "productivity"
@@ -51,7 +50,7 @@
   },
   {
     "name": "Graphics & Design",
-    "count": 16,
+    "count": 17,
     "slug": "graphics-design"
   },
   {
