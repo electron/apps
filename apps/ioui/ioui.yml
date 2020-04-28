@@ -4,9 +4,9 @@ website: 'https://github.com/shivang-pokar/ioui'
 category: 'Developer Tools'
 repository: 'https://github.com/shivang-pokar/ioui'
 keywords:
-    - ioui
-    - ionic
-    - cordova
-    - hybridapp
-    - phonegap
+  - ioui
+  - ionic
+  - cordova
+  - hybridapp
+  - phonegap
 license: MIT
