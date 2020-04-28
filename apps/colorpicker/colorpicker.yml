@@ -1,11 +1,12 @@
-name: ColorPicker
+name: Colorpicker
 description: 'A mininal but complete colorpicker desktop app'
-website: 'https://colorpicker.crea-th.at'
+website: 'https://colorpicker.fr'
 repository: 'https://github.com/Toinane/colorpicker'
 keywords:
   - colors
   - code
   - shading
+  - tint
   - picker
   - hexadecimal
   - rgb
@@ -13,13 +14,13 @@ keywords:
 license: GPL-3.0
 category: 'Graphics & Design'
 screenshots:
-  - imageUrl: 'https://github.com/Toinane/colorpicker-website/blob/master/gifs/colorpicker.gif?raw=true'
-    caption: 'Main Interface'
-  - imageUrl: 'https://github.com/Toinane/colorpicker-website/blob/master/gifs/picker.gif?raw=true'
+  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/pin.png'
+    caption: 'Pin Feature'
+  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/picker.png'
     caption: 'Picker Feature'
-  - imageUrl: 'https://github.com/Toinane/colorpicker-website/blob/master/gifs/shades.gif?raw=true'
-    caption: 'Shading Feature'
-  - imageUrl: 'https://github.com/Toinane/colorpicker-website/blob/master/gifs/colorsbook.gif?raw=true'
+  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/tint.png'
+    caption: 'Tint Feature'
+  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/colorsbook.png'
     caption: 'Colorsbook System Storage'
 goodColorOnWhite: '#1678AD'
 goodColorOnBlack: '#1A8AC7'
