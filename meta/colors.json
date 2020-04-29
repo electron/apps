@@ -879,6 +879,22 @@
       "revHash": "5bc11673a1"
     }
   },
+  "blink-mind-desktop": {
+    "faintColorOnWhite": "rgba(204, 47, 4, 0.1)",
+    "goodColorOnBlack": "#FBC514",
+    "goodColorOnWhite": "#CC2F04",
+    "palette": [
+      "#e6850d",
+      "#fbfbfa",
+      "#cc2f04",
+      "#fbc514",
+      "#591c04"
+    ],
+    "source": {
+      "path": "apps/blink-mind-desktop/blink-mind-desktop-icon.png",
+      "revHash": "251619cfc7"
+    }
+  },
   "blockbench": {
     "faintColorOnWhite": "rgba(4, 80, 124, 0.1)",
     "goodColorOnBlack": "#C4FFB0",
@@ -4080,19 +4096,19 @@
     }
   },
   "gitify": {
-    "faintColorOnWhite": "rgba(37, 37, 37, 0.1)",
-    "goodColorOnBlack": "#F2F2F2",
-    "goodColorOnWhite": "#252525",
+    "faintColorOnWhite": "rgba(4, 28, 60, 0.1)",
+    "goodColorOnBlack": "#1371EF",
+    "goodColorOnWhite": "#041C3C",
     "palette": [
-      "#252525",
-      "#f2f2f2",
-      "#949494",
-      "#848484",
-      "#8c8c8c"
+      "#102344",
+      "#1c2c4c",
+      "#1c3454",
+      "#1c2c54",
+      "#041c3c"
     ],
     "source": {
       "path": "apps/gitify/gitify-icon.png",
-      "revHash": "603dd7b95c"
+      "revHash": "72ec9771aa"
     }
   },
   "gitkraken": {
@@ -5071,6 +5087,22 @@
       "revHash": "4220fd3499"
     }
   },
+  "ioui": {
+    "faintColorOnWhite": "rgba(6, 58, 117, 0.1)",
+    "goodColorOnBlack": "#9CAFC8",
+    "goodColorOnWhite": "#063A75",
+    "palette": [
+      "#063a75",
+      "#fbfbfb",
+      "#9cafc8",
+      "#7c8cb4",
+      "#7c94b4"
+    ],
+    "source": {
+      "path": "apps/ioui/ioui-icon.png",
+      "revHash": "962ad148b0"
+    }
+  },
   "iperius-console": {
     "faintColorOnWhite": "rgba(4, 123, 161, 0.1)",
     "goodColorOnBlack": "#06A7DA",
@@ -5389,6 +5421,22 @@
     "source": {
       "path": "apps/kalk/kalk-icon.png",
       "revHash": "f5a701efc4"
+    }
+  },
+  "kankan": {
+    "faintColorOnWhite": "rgba(54, 68, 42, 0.1)",
+    "goodColorOnBlack": "#7F8453",
+    "goodColorOnWhite": "#36442A",
+    "palette": [
+      "#dfe3e3",
+      "#36442a",
+      "#7a8d9c",
+      "#9eb0ad",
+      "#7f8453"
+    ],
+    "source": {
+      "path": "apps/kankan/kankan-icon.png",
+      "revHash": "0b7cfcff42"
     }
   },
   "kap": {
@@ -6429,6 +6477,22 @@
     "source": {
       "path": "apps/mercury/mercury-icon.png",
       "revHash": "7c0641380a"
+    }
+  },
+  "merge-request-notifier": {
+    "faintColorOnWhite": "rgba(30, 121, 122, 0.1)",
+    "goodColorOnBlack": "#0CBFDA",
+    "goodColorOnWhite": "#1E797A",
+    "palette": [
+      "#040505",
+      "#59e3d0",
+      "#0cbfda",
+      "#1e797a",
+      "#38715c"
+    ],
+    "source": {
+      "path": "apps/merge-request-notifier/merge-request-notifier-icon.png",
+      "revHash": "907d067714"
     }
   },
   "messenger-demo-viewer": {
