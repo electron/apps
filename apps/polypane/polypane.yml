@@ -1,0 +1,16 @@
+name: Polypane
+description: 'The browser for building great web experiences.'
+website: 'https://polypane.app'
+keywords:
+  - browser
+  - frontend
+  - development
+  - responsive
+  - design
+  - testing
+category: 'Developer Tools'
+screenshots:
+  - imageUrl: 'https://polypane.app/general/overview.png'
+  - imageUrl: 'https://polypane.app/general/overview-dark.png'
+  - imageUrl: 'https://polypane.app/general/vertical.png'
+  - imageUrl: 'https://polypane.app/general/meta.png'

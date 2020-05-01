@@ -3,13 +3,12 @@ description: 'A meter-based to-do list.'
 website: 'https://cassidoo.github.io/todometer/'
 repository: 'https://github.com/cassidoo/todometer/'
 keywords:
-    - todometer
-    - 'to-do list'
-    - todo
-    - Productivity
-    - task
-    - focus
+  - todometer
+  - 'to-do list'
+  - todo
+  - Productivity
+  - task
+  - focus
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/cassidoo/todometer/master/assets/screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/cassidoo/todometer/master/assets/screenshot.png'

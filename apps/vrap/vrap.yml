@@ -2,11 +2,11 @@ name: Vrap
 description: '360 media player'
 website: 'https://www.airpano.com/vrap.php?set_language=2'
 keywords:
-    - '360 video'
-    - '360 player'
-    - 'VR Player'
-    - '360 panorama player'
-    - 'make 360 video'
-    - krpano
-    - 'developer tools'
+  - '360 video'
+  - '360 player'
+  - 'VR Player'
+  - '360 panorama player'
+  - 'make 360 video'
+  - krpano
+  - 'developer tools'
 category: 'Developer Tools'

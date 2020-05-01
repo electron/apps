@@ -3,8 +3,8 @@ description: 'Flash OS images to SD cards & USB drives, safely and easily.'
 website: 'https://www.etcher.io/'
 repository: 'https://github.com/resin-io/etcher'
 keywords:
-    - hardware
-    - 'developer tools'
-    - IoT
+  - hardware
+  - 'developer tools'
+  - IoT
 license: 'Apache 2.0'
 category: 'Developer Tools'

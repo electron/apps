@@ -1,0 +1,17 @@
+name: Picturama
+description: 'Digital image organizer powered by the web.'
+website: 'https://picturama.github.io/'
+repository: 'https://github.com/picturama/picturama'
+keywords:
+  - image
+  - photo
+  - photography
+  - gallery
+  - editing
+  - photo-manager
+license: MIT
+category: 'Photo & Video'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/picturama/picturama/master/doc/picturama-screenshot.jpg'
+goodColorOnWhite: '#37474f'
+goodColorOnBlack: '#ff5722'

@@ -3,9 +3,9 @@ description: 'An intuitive deploy helper for macOS and Windows'
 website: 'https://tenderowl.com/deplify'
 category: 'Developer Tools'
 keywords:
-    - deploy
-    - netlify
-    - deployment
-    - automation
-    - helper
-    - drag-n-drop
+  - deploy
+  - netlify
+  - deployment
+  - automation
+  - helper
+  - drag-n-drop

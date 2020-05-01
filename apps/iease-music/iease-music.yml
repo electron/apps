@@ -3,17 +3,14 @@ description: 'Elegant NeteaseMusic desktop app, Rock with NeteaseMusic 🤘'
 website: 'https://github.com/trazyn/ieaseMusic'
 repository: 'https://github.com/trazyn/ieaseMusic'
 keywords:
-    - music
-    - html
-    - css
-    - js
+  - music
+  - html
+  - css
+  - js
 license: MIT
 category: 'Music'
 screenshots:
-    -
-        imageUrl: 'https://github.com/trazyn/ieaseMusic/blob/dev/screenshots/home.png?raw=true'
-    -
-        imageUrl: 'https://github.com/trazyn/ieaseMusic/blob/dev/screenshots/fm.png?raw=true'
+  - imageUrl: 'https://github.com/trazyn/ieaseMusic/blob/dev/screenshots/home.png?raw=true'
+  - imageUrl: 'https://github.com/trazyn/ieaseMusic/blob/dev/screenshots/fm.png?raw=true'
 locales:
   - zh-CN
-

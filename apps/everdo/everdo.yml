@@ -1,15 +1,15 @@
 name: Everdo
-description: 'Task management (to-do) app for Linux, Windows and Mac. Privacy-focused, powerful, free.'
+description:
+  'Task management (to-do) app for Linux, Windows and Mac. Privacy-focused,
+  powerful, free.'
 website: 'https://everdo.net'
 category: Productivity
 keywords:
-    - todo
-    - gtd
-    - productivity
-    - 'getting things done'
+  - todo
+  - gtd
+  - productivity
+  - 'getting things done'
 screenshots:
-    -
-        imageUrl: 'https://s3.us-east-2.amazonaws.com/content.everdo.net/electron-apps/everdo-screenshot-on-screen.jpg'
-        caption: 'Everdo User Interface'
-        imageLink: 'https://everdo.net'
-        
+  - imageUrl: 'https://s3.us-east-2.amazonaws.com/content.everdo.net/electron-apps/everdo-screenshot-on-screen.jpg'
+    caption: 'Everdo User Interface'
+    imageLink: 'https://everdo.net'

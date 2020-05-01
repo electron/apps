@@ -3,16 +3,14 @@ description: 'Employee monitoring and time tracking.'
 website: 'https://www.workpuls.com/'
 category: Business
 keywords:
-    - 'employee monitoring'
-    - 'time tracking'
-    - screenshots
+  - 'employee monitoring'
+  - 'time tracking'
+  - screenshots
 license: Commercial
 screenshots:
-    -
-        imageUrl: 'https://cdn.workpuls.com/assets/img/timer.png'
-        caption: 'Time tracking'
-        imageLink: 'https://www.workpuls.com/time-tracking'
-    -
-        imageUrl: 'https://cdn.workpuls.com/assets/img/real-time-with-tasks.png'
-        caption: 'Employee monitoring'
-        imageLink: 'https://www.workpuls.com/employee-monitoring'
+  - imageUrl: 'https://cdn.workpuls.com/assets/img/timer.png'
+    caption: 'Time tracking'
+    imageLink: 'https://www.workpuls.com/time-tracking'
+  - imageUrl: 'https://cdn.workpuls.com/assets/img/real-time-with-tasks.png'
+    caption: 'Employee monitoring'
+    imageLink: 'https://www.workpuls.com/employee-monitoring'

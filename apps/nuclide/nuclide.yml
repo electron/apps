@@ -2,5 +2,5 @@ name: Nuclide
 description: 'A unified developer experience for web and mobile development'
 website: 'https://nuclide.io/'
 keywords:
-    - developer
+  - developer
 category: 'Developer Tools'

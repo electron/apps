@@ -1,11 +1,12 @@
 name: 'Multiple File Manager'
-description: 'Modify all of your files in a specified folder. Available for windows, Linux, and Mac'
+description:
+  'Modify all of your files in a specified folder. Available for windows and
+  Linux'
 repository: 'https://github.com/dhanyn10/multiple-file-manager'
 keywords:
-    - file
-    - 'file management'
+  - file
+  - 'file management'
 license: MIT
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/wiki/dhanyn10/multiple-file-manager/multiple-file-manager.png'
+  - imageUrl: 'https://raw.githubusercontent.com/wiki/dhanyn10/multiple-file-manager/multiple-file-manager.png'
