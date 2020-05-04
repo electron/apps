@@ -4,8 +4,8 @@ website: 'https://github.com/ahki/oh-my-desk'
 repository: 'https://github.com/ahki/oh-my-desk'
 category: 'Utilities'
 keywords:
-    - webpage
-    - website
-    - widget
-    - web
+  - webpage
+  - website
+  - widget
+  - web
 license: 'GPL-3.0'

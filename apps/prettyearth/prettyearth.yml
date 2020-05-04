@@ -1,11 +1,13 @@
 name: PrettyEarth
-description: 'Minimal macOS application allowing Google Earth View images to be seamlessly used as a wallpaper.'
+description:
+  'Minimal macOS application allowing Google Earth View images to be seamlessly
+  used as a wallpaper.'
 website: 'https://prettyearth.evertdespiegeleer.com/'
 repository: 'https://github.com/evertdespiegeleer/PrettyEarth'
 category: Utilities
 keywords:
-    - mac
-    - wallpaper
-    - earthview
-    - satellite
-    - images
+  - mac
+  - wallpaper
+  - earthview
+  - satellite
+  - images

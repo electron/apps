@@ -4,24 +4,20 @@ website: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp'
 category: Utilities
 repository: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp'
 keywords:
-    - npm
-    - utility
-    - movie-search
+  - npm
+  - utility
+  - movie-search
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp/blob/master/screenshots/ratemymovie1.png'
+  - imageUrl: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp/blob/master/screenshots/ratemymovie1.png'
     caption: 'Welcome Screen'
     imageLink: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp'
-  -
-    imageUrl: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp/blob/master/screenshots/ratemymovie2.png'
+  - imageUrl: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp/blob/master/screenshots/ratemymovie2.png'
     caption: 'Search Movies'
     imageLink: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp'
-  -
-    imageUrl: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp/blob/master/screenshots/ratemymovie3.png'
+  - imageUrl: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp/blob/master/screenshots/ratemymovie3.png'
     caption: 'Movie information'
     imageLink: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp'
-  -
-    imageUrl: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp/blob/master/screenshots/ratemymovie4.png'
+  - imageUrl: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp/blob/master/screenshots/ratemymovie4.png'
     caption: 'Movie information'
-    imageLink: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp'  
+    imageLink: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp'

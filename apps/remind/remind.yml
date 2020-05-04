@@ -2,10 +2,10 @@ name: Remind
 description: 'Send quick, simple messages to any device—for free.'
 website: 'https://www.remind.com/'
 keywords:
-    - school
-    - messaging
-    - communications
-    - teacher
-    - parent
-    - student
+  - school
+  - messaging
+  - communications
+  - teacher
+  - parent
+  - student
 category: 'Social Networking'

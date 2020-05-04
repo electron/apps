@@ -3,13 +3,15 @@ description: 'Test your socket.io server, while developing'
 website: 'https://appsaloon.github.io/socket.io-tester/'
 repository: 'https://github.com/AppSaloon/socket.io-tester'
 keywords:
-    - socket.io
-    - websockets
-    - development
-    - 'developer tools'
-    - 'web technology'
-    - productivity
+  - socket.io
+  - websockets
+  - development
+  - 'developer tools'
+  - 'web technology'
+  - productivity
 license: GPL-2.0
 category: Productivity
 screenshots:
-    - {imageUrl: 'https://github.com/AppSaloon/socket.io-tester/raw/master/assets/screenshotV110.png'}
+  - {
+      imageUrl: 'https://github.com/AppSaloon/socket.io-tester/raw/master/assets/screenshotV110.png',
+    }
