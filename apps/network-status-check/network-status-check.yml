@@ -1,6 +1,6 @@
 name: 'Network Status Check'
 description: 'Simple desktop app to check port status of applications.'
-website: 'https://github.com/cjerrington/net-check'
+website: 'http://claytonerrington.com/net-check/'
 category: 'Developer Tools'
 repository: 'https://github.com/cjerrington/net-check'
 keywords:
