@@ -1,5 +1,5 @@
 name: Water Cooler
-description: 'An always available virtual office for any team.'
+description: 'Always available virtual office for any team.'
 website: 'https://watercooler.work'
 category: 'Productivity'
 keywords:
@@ -13,6 +13,5 @@ keywords:
   - communication
   - collaboration
 screenshots:
-  -
-    imageUrl: 'https://watercooler.work/img/electron-app-page-screenshot.png'
+  - imageUrl: 'https://watercooler.work/img/electron-app-page-screenshot.png'
     caption: 'Screenshot of the Water Cooler MacOS App'
