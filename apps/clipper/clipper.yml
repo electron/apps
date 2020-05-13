@@ -9,12 +9,12 @@ keywords:
   - 'clipboard-manager'
 license: MIT
 screenshots:
-  - imageUrl: 'https://drive.google.com/uc?id=1rJZ23oAjkkHdmPlKz_BLOZjztyrg6I-5'
+  - imageUrl: 'https://raw.githubusercontent.com/AkashRajpurohit/clipper/master/demos/main.png'
     caption: 'Clipper Main Window'
     imageLink: 'https://github.com/AkashRajpurohit/clipper'
-  - imageUrl: 'https://drive.google.com/uc?id=1JXR1SFHied6BFqlBGV93yTBJfw7Yu64T'
+  - imageUrl: 'https://raw.githubusercontent.com/AkashRajpurohit/clipper/master/demos/list.png'
     caption: 'List of texts copied'
     imageLink: 'https://github.com/AkashRajpurohit/clipper'
-  - imageUrl: 'https://drive.google.com/uc?id=1tPRCjYX4EN7b26JXeEb5mMBlKlN90GH-'
+  - imageUrl: 'https://raw.githubusercontent.com/AkashRajpurohit/clipper/master/demos/settings.png'
     caption: 'Settings Window'
     imageLink: 'https://github.com/AkashRajpurohit/clipper'
