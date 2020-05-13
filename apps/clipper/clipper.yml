@@ -1,0 +1,20 @@
+name: Clipper
+description: 'Save history of all information you copy and use them whenever with a solitary snap.'
+website: 'https://github.com/AkashRajpurohit/clipper'
+category: Productivity
+repository: 'https://github.com/AkashRajpurohit/clipper'
+keywords:
+  - 'clipboard'
+  - 'clipboard-history'
+  - 'clipboard-manager'
+license: MIT
+screenshots:
+  - imageUrl: 'https://drive.google.com/uc?id=1rJZ23oAjkkHdmPlKz_BLOZjztyrg6I-5'
+    caption: 'Clipper Main Window'
+    imageLink: 'https://github.com/AkashRajpurohit/clipper'
+  - imageUrl: 'https://drive.google.com/uc?id=1JXR1SFHied6BFqlBGV93yTBJfw7Yu64T'
+    caption: 'List of texts copied'
+    imageLink: 'https://github.com/AkashRajpurohit/clipper'
+  - imageUrl: 'https://drive.google.com/uc?id=1tPRCjYX4EN7b26JXeEb5mMBlKlN90GH-'
+    caption: 'Settings Window'
+    imageLink: 'https://github.com/AkashRajpurohit/clipper'
