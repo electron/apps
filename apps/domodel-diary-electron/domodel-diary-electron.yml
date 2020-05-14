@@ -1,0 +1,10 @@
+name: domodel-diary-electron
+description: 'A relatively simple diary app made with domodel'
+website: 'http://thoughtsunificator.me'
+repository: 'https://github.com/thoughtsunificator/domodel-diary-electron'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/thoughtsunificator/domodel-diary-electron/master/screenshot-calendar.png'
+  - imageUrl: 'https://raw.githubusercontent.com/thoughtsunificator/domodel-diary-electron/master/screenshot-editor.png'
+keywords:
+  - diary
+category: Utilities
