@@ -27,3 +27,4 @@ screenshots:
   - imageUrl: 'https://img.itch.zone/aW1hZ2UvMTg5NDU3LzExNDk0MjAuanBn/original/RqdrSa.jpg'
     caption: 'Game Play'
     imageLink: 'https://foda.app'
+disabled: true # Dead link(s): https://foda-app.herokuapp.com/client/img/banner.jpg
