@@ -15,3 +15,4 @@ screenshots:
   - {
       imageUrl: 'https://github.com/AppSaloon/socket.io-tester/raw/master/assets/screenshotV110.png',
     }
+disabled: true # Dead link(s): https://appsaloon.github.io/socket.io-tester/
