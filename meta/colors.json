@@ -2847,6 +2847,22 @@
       "revHash": "ac604169ed"
     }
   },
+  "domodel-diary": {
+    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
+    "goodColorOnBlack": "#F9F9F9",
+    "goodColorOnWhite": "#050505",
+    "palette": [
+      "#050505",
+      "#f9f9f9",
+      "#848484",
+      "#7c7c7c",
+      "#747474"
+    ],
+    "source": {
+      "path": "apps/domodel-diary/domodel-diary-icon.png",
+      "revHash": "09faf08b79"
+    }
+  },
   "domterm": {
     "faintColorOnWhite": "rgba(108, 116, 108, 0.1)",
     "goodColorOnBlack": "#E3EBE3",
