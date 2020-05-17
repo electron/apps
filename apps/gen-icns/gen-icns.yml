@@ -1,6 +1,6 @@
 name: GenICNS
 description:
-  'GenICNS generates Apple ICNS and Microsoft ICO files from PNG files.'
+  'Icon generator to create Apple ICNS and Microsoft ICO files from PNG files.'
 website: 'https://github.com/sprout2000/gen-icns'
 license: MIT
 keywords:
