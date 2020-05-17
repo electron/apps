@@ -1,0 +1,25 @@
+name: GenICNS
+description:
+  'GenICNS generates Apple ICNS and Microsoft ICO files from PNG files.'
+website: 'https://github.com/sprout2000/gen-icns'
+license: MIT
+keywords:
+  - ico
+  - icns
+  - png2icons
+locales:
+  - en
+category: 'Developer Tools'
+screenshots:
+  - {
+      imageUrl: 'https://user-images.githubusercontent.com/52094761/81490759-ee714c00-92c0-11ea-8200-29e7b38f4361.png',
+    }
+  - {
+      imageUrl: 'https://user-images.githubusercontent.com/52094761/80852249-1974f380-8c62-11ea-850c-f62db6acaa71.png',
+    }
+  - {
+      imageUrl: 'https://user-images.githubusercontent.com/52094761/80545606-c5160d80-89ee-11ea-8e8f-eadd013af692.png',
+    }
+  - {
+      imageUrl: 'https://user-images.githubusercontent.com/52094761/80852163-60aeb480-8c61-11ea-8b5b-25c02ec5917a.png',
+    }
