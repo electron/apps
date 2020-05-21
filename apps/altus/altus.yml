@@ -16,3 +16,4 @@ screenshots:
     caption: 'Default Theme'
   - imageUrl: 'https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-Dark-Theme.png'
     caption: 'Dark Theme'
+disabled: true # Dead link(s): https://shadythgod.github.io/altus
