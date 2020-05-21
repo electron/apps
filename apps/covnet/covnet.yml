@@ -3,13 +3,13 @@ description: 'Medical AI Assistant for COVID-19 Screening'
 website: 'https://github.com/aalhaimi/covnet/'
 repository: 'https://github.com/aalhaimi/covnet/'
 keywords:
-  - covid-19
+  - 'covid-19'
   - 'early detection'
-  - x-ray
+  - 'x-ray'
   - 'explainable'
   - 'predict'
   - 'ai'
   - 'open source'
   - 'medical'
-license: GPL-3.0
+license: 'GPL-3.0'
 category: 'Medical'
