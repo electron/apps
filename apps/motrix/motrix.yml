@@ -29,7 +29,6 @@ locales:
   - zh-TW
   - uk
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/agalwood/Motrix/master/screenshots/electron-apps-banner.png'
+  - imageUrl: 'https://raw.githubusercontent.com/agalwood/Motrix/master/screenshots/electron-apps-banner.png'
     caption: 'Motrix'
     imageLink: 'https://motrix.app'
