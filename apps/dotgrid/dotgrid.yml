@@ -4,10 +4,6 @@ description:
   drawing different line-types between them.'
 website: 'https://hundredrabbits.itch.io/dotgrid'
 repository: 'https://hundredrabbits.itch.io/dotgrid'
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/hundredrabbits/Dotgrid/master/PREVIEW.jpg',
-    }
 keywords:
   - illustration
   - design

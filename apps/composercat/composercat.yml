@@ -8,7 +8,3 @@ keywords:
   - productivity
 category: 'Developer Tools'
 license: COMMERCIAL
-screenshots:
-  - imageUrl: 'https://www.getcomposercat.com/img/screenshot.png'
-    caption: 'Composercat - GUI for Composer'
-    imageLink: 'https://getcomposercat.com'

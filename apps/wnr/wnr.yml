@@ -25,3 +25,4 @@ screenshots:
 locales:
   - en
   - zh-CN
+disabled: true # Dead link(s): https://wnr.scris.top/guide/1-basic-usage.html, https://wnr.scris.top/guide/1-basic-usage.html

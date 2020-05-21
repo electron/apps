@@ -13,3 +13,4 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/Graviton-Code-Editor/Graviton-App/master/example.png'
     caption: 'Graviton screenshoot'
     imageLink: 'https://raw.githubusercontent.com/Graviton-Code-Editor/Graviton-App/master/example.png'
+disabled: true # Dead link(s): https://graviton.ml/
