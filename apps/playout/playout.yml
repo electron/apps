@@ -11,3 +11,4 @@ category: Productivity
 screenshots:
   - imageUrl: 'https://playout.space/img/playout-screenshot.png'
     imageLink: 'https://playout.space'
+disabled: true # Dead link(s): https://playout.space, https://playout.space/img/playout-screenshot.png, https://playout.space
