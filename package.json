@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.8042.0",
+  "version": "1.8062.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -35,6 +35,7 @@
   "license": "MIT",
   "devDependencies": {
     "@octokit/rest": "^15.15.1",
+    "@zeit/fetch-retry": "^5.0.0",
     "bottleneck": "^1.16.0",
     "chai": "^4.2.0",
     "check-for-leaks": "^1.2.0",
@@ -46,7 +47,6 @@
     "get-image-colors": "^1.8.1",
     "github-url-to-object": "^4.0.2",
     "human-interval": "^0.1.6",
-    "lint-staged": "^10.0.9",
     "husky": "^4.2.3",
     "image-size": "^0.5.0",
     "imagemin": "^6.1.0",
@@ -55,21 +55,22 @@
     "is-hexcolor": "^1.0.0",
     "is-url": "^1.2.2",
     "jimp": "^0.3.5",
+    "js-yaml": "^3.13.1",
+    "lint-staged": "^10.0.9",
     "make-color-accessible": "^1.2.0",
     "mkdirp": "^0.5.1",
     "mocha": "^5.2.0",
     "node-fetch": "^2.6.0",
     "npm-run-all": "^4.0.1",
     "pick-a-good-color": "^1.1.1",
+    "prettier": "^2.0.2",
     "readdirp": "^3.0.2",
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^2.6.1",
     "sharp": "^0.23.0",
     "sinon": "^7.2.2",
     "slugg": "^1.1.0",
-    "prettier": "^2.0.2",
-    "yamljs": "^0.2.8",
-    "js-yaml": "^3.13.1"
+    "yaml": "^1.9.2"
   },
   "engines": {
     "node": ">=8"

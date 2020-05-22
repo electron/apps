@@ -12,5 +12,3 @@ license: MIT
 goodColorOnWhite: '#000'
 goodColorOnBlack: '#FFF'
 category: 'Developer Tools'
-screenshots:
-  - imageUrl: 'https://hyper.is/static/hyperyellow.gif'
