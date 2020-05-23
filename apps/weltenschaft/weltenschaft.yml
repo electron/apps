@@ -8,3 +8,6 @@ keywords:
   - Map
   - Procedural generation
 license: MIT
+locales:
+  - en
+  - de
