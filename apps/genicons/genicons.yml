@@ -1,0 +1,20 @@
+name: genicons
+description:
+  'Generate Apple ICNS and Microsoft ICO files for your desktop apps.'
+website: 'https://sprout2000.github.io/genicons'
+repository: 'https://github.com/sprout2000/genicons'
+license: MIT
+keywords:
+  - ico
+  - icns
+  - png2icons
+locales:
+  - en
+category: 'Developer Tools'
+screenshots:
+  - {
+      imageUrl: 'https://user-images.githubusercontent.com/52094761/82745002-79227280-9dba-11ea-967a-659783835088.png',
+    }
+  - {
+      imageUrl: 'https://user-images.githubusercontent.com/52094761/82745120-8e4bd100-9dbb-11ea-9b3f-fe01714aad07.png',
+    }
