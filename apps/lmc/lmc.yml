@@ -1,0 +1,14 @@
+name: LMC - Little Man Computer
+description: The Little Man Computer is an instructional model of a computer, based on Von Neumann architecture, created by Dr. Stuart Madnick in 1965.
+website: https://github.com/ianmihura/LMC-js/
+repository: https://github.com/ianmihura/LMC-js/
+keywords:
+  - computer science
+  - cs
+  - computer
+  - science
+  - programming
+  - coding
+  - assembly
+license: MIT
+category: Education
