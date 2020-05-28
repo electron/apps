@@ -4,6 +4,7 @@ repository: 'https://github.com/paul-shuvo/electron-vue-calculator'
 license: MIT
 keywords:
   - calculator
+  - minimal
   - arithmetic
   - math
 category: 'Utilities'
