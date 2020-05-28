@@ -1,0 +1,11 @@
+name: Calculator
+description: 'A simple calculator app built with vuejs and electronjs.'
+repository: 'https://github.com/paul-shuvo/electron-vue-calculator'
+license: MIT
+keywords:
+  - calculator
+  - arithmetic
+  - math
+category: 'Utilities'
+screenshots:
+  - imageUrl: https://i.imgur.com/fh2Fsca.png
