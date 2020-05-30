@@ -1,7 +1,7 @@
 name: Notable
-description: "The markdown-based note-taking app that doesn't suck."
-website: 'https://github.com/fabiospampinato/notable'
-repository: 'https://github.com/fabiospampinato/notable'
+description: "The Markdown-based note-taking app that doesn't suck."
+website: 'https://github.com/notable/notable'
+repository: 'https://github.com/notable/notable'
 keywords:
     - notes
     - markdown
@@ -9,14 +9,14 @@ keywords:
 category: Productivity
 screenshots:
     -
-        imageUrl: 'https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/demo/main.png'
+        imageUrl: 'https://img.notable.app/screenshot-main.png'
         caption: 'Notable'
     -
-        imageUrl: 'https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/demo/tags.png'
-        caption: 'Indefinitely Nestable Tags'
+        imageUrl: 'https://img.notable.app/screenshot-dark.png'
+        caption: 'Dark Theme'
     -
-        imageUrl: 'https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/demo/editor.png'
+        imageUrl: 'https://img.notable.app/screenshot-editor.png'
         caption: 'Editor'
     -
-        imageUrl: 'https://raw.githubusercontent.com/fabiospampinato/notable/master/resources/demo/multi_editor.png'
+        imageUrl: 'https://img.notable.app/screenshot-zen.png'
         caption: 'Multi-Note Editor'
