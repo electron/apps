@@ -1,0 +1,19 @@
+name: Elephicon
+description: 'Icon maker that generates ICO and ICNS from PNG files.'
+website: 'https://sprout2000.github.io/elephicon/'
+repository: 'https://github.com/sprout2000/elephicon'
+license: MIT
+keywords:
+  - ico
+  - icns
+  - png2icons
+locales:
+  - en
+category: 'Developer Tools'
+screenshots:
+  - {
+      imageUrl: 'https://user-images.githubusercontent.com/52094761/83695034-46873e00-a634-11ea-9fff-c46bc1aa85ec.png',
+    }
+  - {
+      imageUrl: 'https://user-images.githubusercontent.com/52094761/83695075-5d2d9500-a634-11ea-9b22-200ce52cbdc3.png',
+    }
