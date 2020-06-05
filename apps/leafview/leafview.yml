@@ -1,7 +1,7 @@
-name: LessView
+name: LeafView
 description: 'Secure image viewer for minimalists.'
-website: 'https://github.com/sprout2000/lessview'
-repository: 'https://github.com/sprout2000/lessview'
+website: 'https://github.com/sprout2000/leafview'
+repository: 'https://sprout2000.github.io/leafview'
 license: MIT
 keywords:
   - image
