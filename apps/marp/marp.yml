@@ -11,3 +11,4 @@ license: MIT
 category: Productivity
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/yhatt/marp/master/screenshot.png'
+disabled: true # Dead link(s): https://raw.githubusercontent.com/yhatt/marp/master/screenshot.png
