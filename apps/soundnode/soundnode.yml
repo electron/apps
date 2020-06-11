@@ -12,3 +12,4 @@ screenshots:
   - {
       imageUrl: 'https://raw.githubusercontent.com/Soundnode/soundnode-app/master/Soundnode-app.png',
     }
+disabled: true # Dead link(s): http://www.soundnodeapp.com
