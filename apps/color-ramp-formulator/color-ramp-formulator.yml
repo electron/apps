@@ -1,5 +1,6 @@
 name: 'Color Ramp Formulator'
-description: 'Algorithmically-defined color ramps generator, making use of formulas.'
+description:
+  'Algorithmically-defined color ramps generator, making use of formulas.'
 website: 'https://github.com/tonton-pixel/color-ramp-formulator'
 category: 'Graphics & Design'
 keywords:
