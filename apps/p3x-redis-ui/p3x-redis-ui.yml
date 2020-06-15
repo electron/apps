@@ -1,7 +1,7 @@
 name: 'P3X Redis UI'
 description: 'Redis UI based on redis-commander and phpRedisAdmin.'
 repository: 'https://github.com/patrikx3/redis-ui'
-website: 'https://pages.corifeus.com/redis-ui'
+website: 'https://www.corifeus.com/redis-ui'
 keywords:
   - redis
   - ui
