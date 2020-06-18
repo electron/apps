@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.8072.0",
+  "version": "1.8116.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -34,7 +34,7 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "devDependencies": {
-    "@octokit/rest": "^15.15.1",
+    "@octokit/rest": "^16",
     "@zeit/fetch-retry": "^5.0.0",
     "bottleneck": "^1.16.0",
     "chai": "^4.2.0",
