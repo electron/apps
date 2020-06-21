@@ -13,6 +13,8 @@ keywords:
 license: MIT
 category: 'Developer Tools'
 screenshots:
+  - imageUrl: 'https://cdn.corifeus.com/git/redis-ui/artifacts/preview-images/preview-6.png'
+    caption: 'JSON Editor'
   - imageUrl: 'https://cdn.corifeus.com/git/redis-ui/artifacts/preview-images/preview-3.png'
     caption: 'Light theme - Settings'
   - imageUrl: 'https://cdn.corifeus.com/git/redis-ui/artifacts/preview-images/preview-2.png'
