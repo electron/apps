@@ -1,8 +1,8 @@
 name: Peacock
-description: 'Open source private-by-default web browser.'
-website: 'https://github.com/peacockweb/browser'
+description: 'Open source experimental private-by-default web browser.'
+website: 'https://github.com/peacockweb/peacock'
 category: Productivity
-repository: 'https://github.com/peacockweb/browser'
+repository: 'https://github.com/peacockweb/peacock'
 keywords:
   - privacy
   - security
@@ -12,4 +12,4 @@ keywords:
   - blockchain
   - decentralized
   - internet
-license: MIT
+license: 'OSL-3.0'
