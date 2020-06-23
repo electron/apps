@@ -1,0 +1,20 @@
+name: CrossOver
+description: '🎯 A Crosshair Overlay for any game and screen.'
+website: 'https://lacymorrow.github.io/crossover/'
+category: Games
+repository: 'https://github.com/lacymorrow/crossover'
+keywords:
+    - crosshair
+    - overlay
+    - game-overlay
+    - game
+    - sight
+    - dot
+    - mark
+    - center
+license: MIT
+screenshots:
+    -
+        imageUrl: 'https://github.com/lacymorrow/crossover/raw/master/src/static/demo.png'
+        caption: 'Crossover screenshots (lacymorrow.github.io/CrossOver)'
+        imageLink: 'https://lacymorrow.github.io/crossover/'
