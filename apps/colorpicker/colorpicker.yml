@@ -1,17 +1,29 @@
-name: ColorPicker
-description: 'A minimal but complete color picker desktop app'
-website: 'https://colorpicker.crea-th.at'
+name: Colorpicker
+description: 'Open Source colors software: Retrieve, manipulate and store your colors easely'
+website: 'https://colorpicker.fr'
 repository: 'https://github.com/Toinane/colorpicker'
+homebrewCaskName: 'toinane-colorpicker'
+snapcraftName: 'colorpicker-app'
 keywords:
   - colors
   - code
   - shading
+  - tint
   - picker
   - hexadecimal
   - rgb
   - storage
 license: GPL-3.0
 category: 'Graphics & Design'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/pin.png'
+    caption: 'Pin Feature'
+  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/picker.png'
+    caption: 'Picker Feature'
+  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/tint.png'
+    caption: 'Tint Feature'
+  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/colorsbook.png'
+    caption: 'Colorsbook System Storage'
 goodColorOnWhite: '#1678AD'
 goodColorOnBlack: '#1A8AC7'
 faintColorOnWhite: 'rgba(26, 138, 174, 0.1)'
