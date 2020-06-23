@@ -27,3 +27,4 @@ screenshots:
   - imageUrl: 'https://api.picpipe.io/boO-TA/540/screenshot-documentation-tool.png'
     caption: 'Organize screenshots by stories.'
     imageLink: 'https://picpipe.io/how-it-works.html'
+disabled: true # Dead link(s): https://api.picpipe.io/qktgJw/540/screenshot-tool.png, https://api.picpipe.io/TBu3rw/540/screenshot-heavy-documentation.png, https://api.picpipe.io/boO-TA/540/screenshot-documentation-tool.png

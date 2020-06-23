@@ -17,3 +17,4 @@ screenshots:
   - imageUrl: 'https://metronome.io/images/metronome-apps-demo@2x.png'
     caption: 'Metronome Desktop Wallet'
     imageLink: 'https://metronome.io/apps/'
+disabled: true # Dead link(s): https://metronome.io/apps, https://metronome.io/images/metronome-apps-demo@2x.png, https://metronome.io/apps/

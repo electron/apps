@@ -1,7 +1,7 @@
 const categories = require('../lib/app-categories')
 const fs = require('fs')
 const path = require('path')
-const yaml = require('yamljs')
+const yaml = require('yaml')
 const slugs = fs
   .readdirSync(path.join(__dirname, '../apps'))
   .filter((filename) => {
@@ -216,8 +216,11 @@ slugs.forEach((slug) => {
   const yamlFile = `${slug}.yml`
   const yamlPath = path.join(basedir, yamlFile)
   let app
+  let data
+
   try {
-    app = yaml.load(yamlPath)
+    data = fs.readFileSync(yamlPath, { encoding: 'utf-8' })
+    app = yaml.parse(data)
   } catch (err) {
     console.log(`Error loading ${yamlPath}`, err)
   }

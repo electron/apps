@@ -6,7 +6,7 @@ const fs = require('fs')
 const slugify = require('slugg')
 const mkdirp = require('mkdirp')
 const cleanDeep = require('clean-deep')
-const yaml = require('yamljs')
+const yaml = require('yaml')
 const existingSlugs = fs.readdirSync(path.join(__dirname, 'apps'))
 
 const questions = [

@@ -9,7 +9,3 @@ keywords:
   - gtd
   - productivity
   - 'getting things done'
-screenshots:
-  - imageUrl: 'https://s3.us-east-2.amazonaws.com/content.everdo.net/electron-apps/everdo-screenshot-on-screen.jpg'
-    caption: 'Everdo User Interface'
-    imageLink: 'https://everdo.net'
