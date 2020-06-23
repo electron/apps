@@ -1,0 +1,21 @@
+name: LeafView
+description: 'Secure image viewer for minimalists.'
+repository: 'https://github.com/sprout2000/leafview'
+website: 'https://sprout2000.github.io/leafview'
+license: MIT
+keywords:
+  - image
+  - viewer
+  - pan
+  - wheelzoom
+locales:
+  - ja-JP
+  - en
+category: 'Photo & Video'
+screenshots:
+  - {
+      imageUrl: 'https://user-images.githubusercontent.com/52094761/79097565-037abe00-7d9b-11ea-9f38-5a9e995792d8.png',
+    }
+  - {
+      imageUrl: 'https://user-images.githubusercontent.com/52094761/79097770-7dab4280-7d9b-11ea-9373-1496bb88bc63.png',
+    }
