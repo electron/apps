@@ -13,3 +13,4 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/tomaszchlebek/turn-off-app/gh-pages/img/turnOffGif.gif'
     caption: 'Turn Off App'
     imageLink: 'https://turnoffapp.com'
+disabled: true # Dead link(s): https://turnoffapp.com

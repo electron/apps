@@ -16,3 +16,4 @@ screenshots:
   - {
       imageUrl: 'https://raw.githubusercontent.com/filipuic/playme/master/static/playme-screenshot.png',
     }
+disabled: true # Dead link(s): http://playme.filip.engineer

@@ -1,0 +1,24 @@
+name: Flawesome
+description: 'Note Taking app with Diary workflow. A rich text editor, a Sticky notes and a Todo list, All driven by a Calendar.'
+website: 'https://github.com/ashishBharadwaj/flawesome'
+category: Productivity
+repository: 'https://github.com/ashishBharadwaj/flawesome'
+keywords:
+  - notes
+  - sticky-notes
+  - todo-list
+  - todo
+  - organizer
+  - digital-diary
+  - smart-diary
+  - utility
+locales:
+  - en-US
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/ashishBharadwaj/flawesome/master/assets/ScreenShotsTab1.png'
+    caption: 'Rich text editor (Notepad)'
+  - imageUrl: 'https://raw.githubusercontent.com/ashishBharadwaj/flawesome/master/assets/ScreenShotTab2.png'
+    caption: 'Sticky Notes'
+  - imageUrl: 'https://raw.githubusercontent.com/ashishBharadwaj/flawesome/master/assets/ScreenShotTab3.png'
+    caption: 'Todo List'
