@@ -5,22 +5,22 @@ repository: 'https://github.com/lutzroeder/netron'
 homebrewCaskName: netron
 license: MIT
 keywords:
-    - neural networks
-    - machine learning
-    - artificial intelligence
-    - deep learning
-    - AI
-    - visualizer
-    - ONNX
-    - Caffe
-    - Caffe2
-    - CoreML
-    - Darknet
-    - Keras
-    - MXNet
-    - PaddlePaddle
-    - PyTorch
-    - TensorFlow
-    - TensorFlow Lite
-    - Torch
+  - neural networks
+  - machine learning
+  - artificial intelligence
+  - deep learning
+  - AI
+  - visualizer
+  - ONNX
+  - Caffe
+  - Caffe2
+  - CoreML
+  - Darknet
+  - Keras
+  - MXNet
+  - PaddlePaddle
+  - PyTorch
+  - TensorFlow
+  - TensorFlow Lite
+  - Torch
 category: 'Developer Tools'

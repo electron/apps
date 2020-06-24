@@ -1,0 +1,16 @@
+name: Quark
+description: 'Software sketchbook for your node projects.'
+website: 'https://quarkjs.io'
+repository: 'https://github.com/Nishkalkashyap/Quark-electron'
+category: 'Developer Tools'
+keywords:
+  - quark
+  - serialport
+  - prototyping
+screenshots:
+  - imageUrl: 'https://quarkjs.io/assets/img/hello-world-intro.0b7e2f44.png'
+    caption: 'Quark IDE'
+    imageLink: 'https://quarkjs.io'
+  - imageUrl: 'https://quarkjs.io/assets/media/system-monitor.2e3ad7b7.mp4'
+    caption: 'Demo App'
+    imageLink: 'https://quarkjs.io'

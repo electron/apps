@@ -4,15 +4,15 @@ website: 'https://qubus.netlify.com'
 category: 'Photo & Video'
 repository: 'https://github.com/qubus-ai/qubus'
 keywords:
-    - images
-    - photos
-    - geo
-    - gps
-    - geo-tagged
-    - geottaged
-    - gis
-    - location
-    - drone
-    - uav
-    - map
+  - images
+  - photos
+  - geo
+  - gps
+  - geo-tagged
+  - geottaged
+  - gis
+  - location
+  - drone
+  - uav
+  - map
 license: MIT

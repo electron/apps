@@ -3,11 +3,10 @@ description: 'Elegant Microsoft To-Do desktop app'
 website: 'https://klaussinani.github.io/ao'
 repository: 'https://github.com/klaussinani/ao'
 keywords:
-    - to-do
-    - productivity
-    - microsoft
+  - to-do
+  - productivity
+  - microsoft
 license: MIT
 category: 'Productivity'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/klaussinani/ao/125924ed856e5482b16dc62c1c231483c76473f0/media/dark-theme.png'
+  - imageUrl: 'https://raw.githubusercontent.com/klaussinani/ao/125924ed856e5482b16dc62c1c231483c76473f0/media/dark-theme.png'

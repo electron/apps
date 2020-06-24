@@ -2,6 +2,6 @@ name: Cryptocat
 description: 'Free secure chat software'
 website: 'https://crypto.cat'
 keywords:
-    - chat
+  - chat
 category: 'Social Networking'
 disabled: true # Project website not working

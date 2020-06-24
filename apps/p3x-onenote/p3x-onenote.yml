@@ -3,13 +3,10 @@ description: 'Note-taking tool for Linux.'
 repository: 'https://github.com/patrikx3/onenote'
 website: 'https://pages.corifeus.com/onenote'
 keywords:
-    - onenote
-    - linux
+  - onenote
+  - linux
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://cdn.corifeus.com/git/onenote/artifacts/screenshot/screenshot-2019.png'
-        caption: 'Screenshot 1'
-
-
+  - imageUrl: 'https://cdn.corifeus.com/git/onenote/artifacts/screenshot/screenshot-2019.png'
+    caption: 'Screenshot 1'

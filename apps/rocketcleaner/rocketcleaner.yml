@@ -1,0 +1,13 @@
+name: RocketCleaner
+description:
+  'Empty trash from HDDs, Cleans system log files, IOS Applications, pip Cache,
+  etc.'
+website: 'https://github.com/miladdavoodi/RocketCleaner'
+category: Utilities
+repository: 'https://github.com/miladdavoodi/RocketCleaner'
+keywords:
+  - mac
+  - cleaner
+  - ram
+  - hdd
+license: MIT
