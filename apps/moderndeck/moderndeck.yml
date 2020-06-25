@@ -1,5 +1,6 @@
 name: 'ModernDeck for Twitter'
-description: 'Powerful, beautiful, full-featured, and customizable Twitter client.'
+description:
+  'Powerful, beautiful, full-featured, and customizable Twitter client.'
 category: 'Social Networking'
 website: 'https://moderndeck.org/'
 repository: 'https://github.com/dangeredwolf/ModernDeck'
