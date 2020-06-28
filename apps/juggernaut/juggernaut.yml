@@ -1,0 +1,18 @@
+name: 'Juggernaut'
+description: 'Privacy focused messenger and lightning network wallet.'
+website: 'https://www.getjuggernaut.com/'
+repository: 'https://github.com/LN-Juggernaut/juggernaut-desktop'
+keywords:
+  - 'Messenger'
+  - 'Privacy'
+  - 'Decentralized'
+  - 'Censorship Resistant'
+  - 'Lightning Network'
+  - 'Bitcoin'
+  - 'Wallet'
+license: MIT
+category: 'Social Networking'
+screenshots:
+  - imageUrl: 'https://www.getjuggernaut.com/assets/img/juggernaut2.gif'
+    caption: 'Juggernaut Messenger'
+    imageLink: 'https://www.getjuggernaut.com'

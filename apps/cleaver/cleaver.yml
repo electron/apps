@@ -1,6 +1,6 @@
 name: Cleaver
-description: 'Server provisioning and deployments made easy for you'
-website: 'https://getcleaver.com/'
+description: 'Simply provision, deploy, and manage servers, websites, and apps'
+website: 'https://cleaver.cloud'
 category: 'Developer Tools'
 keywords:
   - 'Server provisioning'
@@ -25,12 +25,10 @@ keywords:
   - Redis
   - Memcached
   - 'deploy desktop'
-  - macos
-  - osx
 screenshots:
-  - imageUrl: 'https://getcleaver.com/images/ss_light_1.png'
-    caption: 'Cleaver with Light Theme'
-    imageLink: 'https://getcleaver.com'
-  - imageUrl: 'https://getcleaver.com/images/ss_dark_1.png'
-    caption: 'Cleaver with Dark Theme'
-    imageLink: 'https://getcleaver.com'
+  - imageUrl: 'https://cleaver.cloud/images/slide-newserver.png'
+    caption: 'Quickly spin up a server for your site'
+    imageLink: 'https://cleaver.cloud'
+  - imageUrl: 'https://cleaver.cloud/images/deploy.png'
+    caption: 'Deploy your web apps'
+    imageLink: 'https://cleaver.cloud'
