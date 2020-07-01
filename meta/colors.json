@@ -1120,19 +1120,19 @@
     }
   },
   "camunda-modeler": {
-    "faintColorOnWhite": "rgba(60, 128, 14, 0.1)",
-    "goodColorOnBlack": "#54B414",
-    "goodColorOnWhite": "#3C800E",
+    "faintColorOnWhite": "rgba(163, 90, 2, 0.1)",
+    "goodColorOnBlack": "#FC8C04",
+    "goodColorOnWhite": "#A35A02",
     "palette": [
-      "#f9faf9",
-      "#54b414",
-      "#94cc80",
-      "#9ccc8c",
-      "#80c268"
+      "#fb5304",
+      "#fcfafa",
+      "#fc8c04",
+      "#fcb45c",
+      "#fc844c"
     ],
     "source": {
       "path": "apps/camunda-modeler/camunda-modeler-icon.png",
-      "revHash": "18b2874c17"
+      "revHash": "17da599fc5"
     }
   },
   "cansnippet": {
@@ -1807,6 +1807,22 @@
       "revHash": "8259a371cd"
     }
   },
+  "color-ramp-formulator": {
+    "faintColorOnWhite": "rgba(5, 48, 72, 0.1)",
+    "goodColorOnBlack": "#FC0404",
+    "goodColorOnWhite": "#053048",
+    "palette": [
+      "#f5f5f5",
+      "#053048",
+      "#9c9c9c",
+      "#fc0404",
+      "#9b8d7c"
+    ],
+    "source": {
+      "path": "apps/color-ramp-formulator/color-ramp-formulator-icon.png",
+      "revHash": "9bf5904352"
+    }
+  },
   "colorpicker": {
     "faintColorOnWhite": "rgba(200, 66, 39, 0.1)",
     "goodColorOnBlack": "#DC644C",
@@ -2029,6 +2045,22 @@
     "source": {
       "path": "apps/cromberg/cromberg-icon.png",
       "revHash": "0314a44f85"
+    }
+  },
+  "crossover": {
+    "faintColorOnWhite": "rgba(184, 84, 8, 0.1)",
+    "goodColorOnBlack": "#F7964D",
+    "goodColorOnWhite": "#B85408",
+    "palette": [
+      "#ef596a",
+      "#faf9f9",
+      "#f7964d",
+      "#ee9998",
+      "#7e7e7f"
+    ],
+    "source": {
+      "path": "apps/crossover/crossover-icon.png",
+      "revHash": "d625bf38d4"
     }
   },
   "crypter": {
@@ -2847,6 +2879,22 @@
       "revHash": "ac604169ed"
     }
   },
+  "domodel-diary": {
+    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
+    "goodColorOnBlack": "#F9F9F9",
+    "goodColorOnWhite": "#050505",
+    "palette": [
+      "#050505",
+      "#f9f9f9",
+      "#848484",
+      "#7c7c7c",
+      "#747474"
+    ],
+    "source": {
+      "path": "apps/domodel-diary/domodel-diary-icon.png",
+      "revHash": "09faf08b79"
+    }
+  },
   "domterm": {
     "faintColorOnWhite": "rgba(108, 116, 108, 0.1)",
     "goodColorOnBlack": "#E3EBE3",
@@ -3021,6 +3069,22 @@
     "source": {
       "path": "apps/eagle/eagle-icon.png",
       "revHash": "f997551f53"
+    }
+  },
+  "eagluet": {
+    "faintColorOnWhite": "rgba(19, 68, 91, 0.1)",
+    "goodColorOnBlack": "#FAAB23",
+    "goodColorOnWhite": "#13445B",
+    "palette": [
+      "#faab23",
+      "#13445b",
+      "#6c6e44",
+      "#8e7c3c",
+      "#4c644c"
+    ],
+    "source": {
+      "path": "apps/eagluet/eagluet-icon.png",
+      "revHash": "3ed3a30784"
     }
   },
   "easyhand": {
@@ -3519,6 +3583,22 @@
       "revHash": "9870343b63"
     }
   },
+  "flawesome": {
+    "faintColorOnWhite": "rgba(165, 33, 37, 0.1)",
+    "goodColorOnBlack": "#748C94",
+    "goodColorOnWhite": "#A52125",
+    "palette": [
+      "#fafafa",
+      "#241e20",
+      "#a52125",
+      "#857f74",
+      "#748c94"
+    ],
+    "source": {
+      "path": "apps/flawesome/flawesome-icon.png",
+      "revHash": "07b473ada6"
+    }
+  },
   "flex-browser": {
     "faintColorOnWhite": "rgba(4, 123, 147, 0.1)",
     "goodColorOnBlack": "#AA9A33",
@@ -3565,6 +3645,22 @@
     "source": {
       "path": "apps/flow/flow-icon.png",
       "revHash": "cec1628046"
+    }
+  },
+  "fluent-reader": {
+    "faintColorOnWhite": "rgba(4, 111, 195, 0.1)",
+    "goodColorOnBlack": "#77ACD5",
+    "goodColorOnWhite": "#046FC3",
+    "palette": [
+      "#77acd5",
+      "#046fc3",
+      "#fcfcfc",
+      "#4c84b4",
+      "#4c8cb4"
+    ],
+    "source": {
+      "path": "apps/fluent-reader/fluent-reader-icon.png",
+      "revHash": "754a94af85"
     }
   },
   "fnew-desktop": {
@@ -5295,6 +5391,22 @@
       "revHash": "d5a73b0d3a"
     }
   },
+  "juggernaut": {
+    "faintColorOnWhite": "rgba(141, 81, 240, 0.1)",
+    "goodColorOnBlack": "#A373F3",
+    "goodColorOnWhite": "#8D51F0",
+    "palette": [
+      "#fbfbfb",
+      "#a373f3",
+      "#c7adf7",
+      "#bc9cf2",
+      "#bca4f3"
+    ],
+    "source": {
+      "path": "apps/juggernaut/juggernaut-icon.png",
+      "revHash": "ed8b81a800"
+    }
+  },
   "jukeboks": {
     "faintColorOnWhite": "rgba(205, 52, 97, 0.1)",
     "goodColorOnBlack": "#D34B73",
@@ -5645,6 +5757,22 @@
     "source": {
       "path": "apps/kongdash/kongdash-icon.png",
       "revHash": "f3cec9a187"
+    }
+  },
+  "kube-dev-dashboard": {
+    "faintColorOnWhite": "rgba(52, 76, 130, 0.1)",
+    "goodColorOnBlack": "#A99235",
+    "goodColorOnWhite": "#344C82",
+    "palette": [
+      "#a99235",
+      "#344c82",
+      "#666b52",
+      "#5b625f",
+      "#558290"
+    ],
+    "source": {
+      "path": "apps/kube-dev-dashboard/kube-dev-dashboard-icon.png",
+      "revHash": "f66de942d4"
     }
   },
   "kube-forwarder": {
@@ -6895,6 +7023,22 @@
       "revHash": "6bbeb19fea"
     }
   },
+  "moderndeck": {
+    "faintColorOnWhite": "rgba(3, 122, 176, 0.1)",
+    "goodColorOnBlack": "#04A6EF",
+    "goodColorOnWhite": "#037AB0",
+    "palette": [
+      "#04a6ef",
+      "#f9fbfb",
+      "#0489cc",
+      "#60bbe6",
+      "#7cd4f8"
+    ],
+    "source": {
+      "path": "apps/moderndeck/moderndeck-icon.png",
+      "revHash": "9e253c4e7c"
+    }
+  },
   "moeditor": {
     "faintColorOnWhite": "rgba(49, 49, 49, 0.1)",
     "goodColorOnBlack": "#F3F3F3",
@@ -7405,6 +7549,22 @@
     "source": {
       "path": "apps/netron/netron-icon.png",
       "revHash": "e3b9dd3815"
+    }
+  },
+  "network-status-check": {
+    "faintColorOnWhite": "rgba(68, 108, 228, 0.1)",
+    "goodColorOnBlack": "#446CE4",
+    "goodColorOnWhite": "#446CE4",
+    "palette": [
+      "#446ce4",
+      "#486ce4",
+      "#486ce4",
+      "#486ce4",
+      "#486ce4"
+    ],
+    "source": {
+      "path": "apps/network-status-check/network-status-check-icon.png",
+      "revHash": "1bd4aefcd5"
     }
   },
   "neutrinometrics": {
@@ -12991,6 +13151,22 @@
       "revHash": "4d56ec975b"
     }
   },
+  "visual-family-tree": {
+    "faintColorOnWhite": "rgba(32, 100, 52, 0.1)",
+    "goodColorOnBlack": "#D88434",
+    "goodColorOnWhite": "#206434",
+    "palette": [
+      "#d4ac64",
+      "#8c4444",
+      "#040404",
+      "#d88434",
+      "#206434"
+    ],
+    "source": {
+      "path": "apps/visual-family-tree/visual-family-tree-icon.png",
+      "revHash": "637ce27c91"
+    }
+  },
   "visual-studio-code": {
     "faintColorOnWhite": "rgba(12, 92, 156, 0.1)",
     "goodColorOnBlack": "#258DD2",
@@ -13485,6 +13661,22 @@
     "source": {
       "path": "apps/weighthub/weighthub-icon.png",
       "revHash": "b6aad71df1"
+    }
+  },
+  "weltenschaft": {
+    "faintColorOnWhite": "rgba(58, 124, 64, 0.1)",
+    "goodColorOnBlack": "#47A249",
+    "goodColorOnWhite": "#3A7C40",
+    "palette": [
+      "#566e7a",
+      "#47a249",
+      "#3a7c40",
+      "#7f95a2",
+      "#7c8c94"
+    ],
+    "source": {
+      "path": "apps/weltenschaft/weltenschaft-icon.png",
+      "revHash": "c28bd62a3c"
     }
   },
   "wewe-chat": {
