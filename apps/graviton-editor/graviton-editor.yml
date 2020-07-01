@@ -1,6 +1,6 @@
 name: 'Graviton Editor'
 description: 'Graviton is a minimalist code editor.'
-website: 'https://graviton.ml/'
+website: 'https://graviton.netlify.app/'
 category: 'Developer Tools'
 repository: 'https://github.com/Graviton-Code-Editor/Graviton-App'
 keywords:
