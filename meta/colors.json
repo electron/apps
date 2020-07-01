@@ -5759,6 +5759,22 @@
       "revHash": "f3cec9a187"
     }
   },
+  "kube-dev-dashboard": {
+    "faintColorOnWhite": "rgba(52, 76, 130, 0.1)",
+    "goodColorOnBlack": "#A99235",
+    "goodColorOnWhite": "#344C82",
+    "palette": [
+      "#a99235",
+      "#344c82",
+      "#666b52",
+      "#5b625f",
+      "#558290"
+    ],
+    "source": {
+      "path": "apps/kube-dev-dashboard/kube-dev-dashboard-icon.png",
+      "revHash": "f66de942d4"
+    }
+  },
   "kube-forwarder": {
     "faintColorOnWhite": "rgba(16, 118, 131, 0.1)",
     "goodColorOnBlack": "#1CCCE3",
