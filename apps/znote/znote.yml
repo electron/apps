@@ -1,0 +1,9 @@
+name: Znote
+description: 'Beautiful & Free Markdown editor built to secure your text files.'
+website: 'https://znote.lagrede.fr'
+repository: 'https://github.com/alagrede/znote-app'
+keywords:
+  - notes
+category: Productivity
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/alagrede/znote-app/master/screenshot-github.png'
