@@ -3999,6 +3999,22 @@
       "revHash": "f442afbdf8"
     }
   },
+  "gdevelop": {
+    "faintColorOnWhite": "rgba(32, 117, 184, 0.1)",
+    "goodColorOnBlack": "#63ABE4",
+    "goodColorOnWhite": "#2075B8",
+    "palette": [
+      "#63abe4",
+      "#3880cd",
+      "#549cdc",
+      "#5c9cdc",
+      "#4f92dc"
+    ],
+    "source": {
+      "path": "apps/gdevelop/gdevelop-icon.png",
+      "revHash": "0d3751a4ad"
+    }
+  },
   "geeks-diary": {
     "faintColorOnWhite": "rgba(36, 36, 36, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
@@ -7183,6 +7199,22 @@
       "revHash": "55a89ad0af"
     }
   },
+  "motrix": {
+    "faintColorOnWhite": "rgba(128, 95, 180, 0.1)",
+    "goodColorOnBlack": "#E1CF04",
+    "goodColorOnWhite": "#805FB4",
+    "palette": [
+      "#d1c3e4",
+      "#0f0e10",
+      "#8774d6",
+      "#805fb4",
+      "#e1cf04"
+    ],
+    "source": {
+      "path": "apps/motrix/motrix-icon.png",
+      "revHash": "313ee4e156"
+    }
+  },
   "move-more": {
     "faintColorOnWhite": "rgba(117, 68, 236, 0.1)",
     "goodColorOnBlack": "#A754F2",
@@ -9487,6 +9519,22 @@
       "revHash": "3bbe409ee7"
     }
   },
+  "qikqr": {
+    "faintColorOnWhite": "rgba(204, 2, 139, 0.1)",
+    "goodColorOnBlack": "#FC04AC",
+    "goodColorOnWhite": "#CC028B",
+    "palette": [
+      "#fcf8fb",
+      "#fc04ac",
+      "#fc5dc8",
+      "#fc99dd",
+      "#fc39bc"
+    ],
+    "source": {
+      "path": "apps/qikqr/qikqr-icon.png",
+      "revHash": "9b99a6ac63"
+    }
+  },
   "qmui-web": {
     "faintColorOnWhite": "rgba(4, 117, 142, 0.1)",
     "goodColorOnBlack": "#07B9E1",
@@ -10029,6 +10077,22 @@
     "source": {
       "path": "apps/ripplectron/ripplectron-icon.png",
       "revHash": "f94881f651"
+    }
+  },
+  "rmclient": {
+    "faintColorOnWhite": "rgba(67, 62, 67, 0.1)",
+    "goodColorOnBlack": "#FAFAFA",
+    "goodColorOnWhite": "#433E43",
+    "palette": [
+      "#433e43",
+      "#fafafa",
+      "#747474",
+      "#8c8c8c",
+      "#9c9c9c"
+    ],
+    "source": {
+      "path": "apps/rmclient/rmclient-icon.png",
+      "revHash": "9b35aaf0ed"
     }
   },
   "rocket-chat": {

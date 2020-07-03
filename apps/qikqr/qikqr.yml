@@ -1,0 +1,24 @@
+name: qikQR
+description: 'Minimal app that creates QR codes.'
+website: 'https://github.com/deep5050/qikQR'
+category: Utilities
+repository: 'https://github.com/deep5050/qikQR'
+keywords:
+  - qr
+  - qrcodes
+  - qrcode
+  - qr-code
+license: MIT
+screenshots:
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/deep5050/qikQR/master/app/img/screenshots/with-result.png',
+      caption: 'qikQR main page',
+    }
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/deep5050/qikQR/master/app/img/screenshots/settings-expand.png',
+      caption: 'qikQR settings',
+    }
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/deep5050/qikQR/master/app/img/screenshots/error.png',
+      caption: 'qikQR error',
+    }
