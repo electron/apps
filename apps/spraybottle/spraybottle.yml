@@ -4,16 +4,15 @@ website: 'https://github.com/jooshkins/SprayBottle'
 category: Utilities
 repository: 'https://github.com/jooshkins/SprayBottle'
 keywords:
-    - scripts
-    - powershell
-    - IT
-    - enduser
-    - selfservice
-    - tasks
-    - automation
+  - scripts
+  - powershell
+  - IT
+  - enduser
+  - selfservice
+  - tasks
+  - automation
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://github.com/jooshkins/SprayBottle/blob/master/1.png'
+  - imageUrl: 'https://github.com/jooshkins/SprayBottle/blob/master/1.png'
     caption: 'Admin mode screenshot'
     imageLink: 'https://github.com/jooshkins/SprayBottle'

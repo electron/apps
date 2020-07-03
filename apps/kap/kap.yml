@@ -3,13 +3,10 @@ description: 'An open-source screen recorder built with web technology'
 website: 'https://getkap.co'
 repository: 'https://github.com/wulkano/kap'
 keywords:
-    - kap
-    - screen
-    - capture
-    - record
-    - video
+  - kap
+  - screen
+  - capture
+  - record
+  - video
 license: MIT
 category: 'Photo & Video'
-screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/wulkano/getkap.co/master/src/images/kap-app.png'

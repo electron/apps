@@ -2,8 +2,8 @@ name: GramTools
 description: 'collection of dev tools.'
 website: 'https://ritoyantools.github.io/'
 keywords:
-    - 'developer tools'
-    - 'json format'
-    - 'differ'
+  - 'developer tools'
+  - 'json format'
+  - 'differ'
 license: MIT
 category: 'Developer Tools'

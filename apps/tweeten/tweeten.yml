@@ -2,7 +2,7 @@ name: Tweeten
 description: 'A better TweetDeck experience'
 website: 'https://tweetenapp.com/'
 keywords:
-    - twitter
-    - tweetdeck
-    - 'tweetdeck for windows'
+  - twitter
+  - tweetdeck
+  - 'tweetdeck for windows'
 category: 'Social Networking'

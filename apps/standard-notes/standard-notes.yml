@@ -1,15 +1,16 @@
 name: 'Standard Notes'
-description: 'A simple and private notes app. Encrypted, open-source, and extensible.'
+description:
+  'A simple and private notes app. Encrypted, open-source, and extensible.'
 website: 'https://standardnotes.org'
 repository: 'https://github.com/standardnotes/desktop'
 keywords:
-    - note
-    - notes
-    - private
-    - encrypted
-    - productivity
-    - todo
-    - task
-    - markdown
-    - sync
+  - note
+  - notes
+  - private
+  - encrypted
+  - productivity
+  - todo
+  - task
+  - markdown
+  - sync
 category: Productivity

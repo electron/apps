@@ -4,6 +4,6 @@ website: 'https://github.com/SolarFloss/Reach-Podcast-Player'
 category: Entertainment
 repository: 'https://github.com/SolarFloss/Reach-Podcast-Player'
 keywords:
-    - Podcast
-    - MP3
+  - Podcast
+  - MP3
 license: GPL-3.0

@@ -3,14 +3,17 @@ description: 'Elegant YouTube Music desktop app'
 website: 'http://playme.filip.engineer'
 repository: 'https://github.com/filipuic/playme'
 keywords:
-    - music
-    - audio
-    - youtube
-    - 'music player'
-    - desktop
-    - gui
-    - playlist
+  - music
+  - audio
+  - youtube
+  - 'music player'
+  - desktop
+  - gui
+  - playlist
 license: MIT
 category: Music
 screenshots:
-    - {imageUrl: 'https://raw.githubusercontent.com/filipuic/playme/master/static/playme-screenshot.png'}
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/filipuic/playme/master/static/playme-screenshot.png',
+    }
+disabled: true # Dead link(s): http://playme.filip.engineer
