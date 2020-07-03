@@ -19,7 +19,3 @@ screenshots:
     caption:
       'Add Cross References or Cite External Writings and Generate a
       Bibliography'
-  - imageUrl: 'https://www.monsterwriter.app/assets/screenshots/export.png'
-    caption:
-      'Publish on Ghost, export to HTML, LaTeX or use the power of LaTeX to
-      generate a profesional typesetted PDF'

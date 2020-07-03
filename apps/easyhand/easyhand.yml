@@ -18,3 +18,4 @@ screenshots:
   - imageUrl: 'https://easyhand.org/images/screenshots/folder-edit.png'
     caption: 'Edit folder Icons screenshot'
     imageLink: 'https://easyhand.org/features'
+disabled: true # Dead link(s): https://easyhand.org, https://easyhand.org/images/easyHand-view.png, https://easyhand.org/features, https://easyhand.org/images/screenshots/folder-edit.png, https://easyhand.org/features
