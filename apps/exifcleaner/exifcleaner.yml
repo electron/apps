@@ -1,7 +1,7 @@
 name: ExifCleaner
 description: "Remove EXIF image metadata with drag and drop."
 website: "https://exifcleaner.com"
-category: Graphics & Design
+category: "Photo & Video"
 repository: "https://github.com/szTheory/exifcleaner"
 keywords:
   - exif
