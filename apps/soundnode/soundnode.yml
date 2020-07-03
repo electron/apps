@@ -1,6 +1,6 @@
 name: Soundnode
 description: 'Unofficial desktop client for Soundcloud.'
-website: 'http://www.soundnodeapp.com'
+website: 'https://soundnode.github.io/soundnode-website/'
 repository: 'https://github.com/Soundnode/soundnode-app'
 keywords:
   - music
@@ -12,4 +12,3 @@ screenshots:
   - {
       imageUrl: 'https://raw.githubusercontent.com/Soundnode/soundnode-app/master/Soundnode-app.png',
     }
-disabled: true # Dead link(s): http://www.soundnodeapp.com
