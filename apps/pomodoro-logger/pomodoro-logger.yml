@@ -1,13 +1,15 @@
 name: pomodoro-logger
-description: 'Pomodoro Logger is a smart time logger that helps you schedule your desktop projects.'
+description:
+  'Pomodoro Logger is a smart time logger that helps you schedule your desktop
+  projects.'
 website: 'https://github.com/zxch3n/PomodoroLogger'
 category: Productivity
 repository: 'https://github.com/zxch3n/PomodoroLogger'
 keywords:
-    - time-management
-    - productivity
-    - typescript
-    - react
-    - pomodoro
-    - visualization
+  - time-management
+  - productivity
+  - typescript
+  - react
+  - pomodoro
+  - visualization
 license: 'GNU General Public License v3.0'

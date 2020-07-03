@@ -4,8 +4,8 @@ website: 'https://runlet.app'
 repository: 'https://github.com/runletapp/runlet'
 category: Productivity
 keywords:
-    - runlet
-    - iot
-    - job
-    - management
-    - cross-platform
+  - runlet
+  - iot
+  - job
+  - management
+  - cross-platform

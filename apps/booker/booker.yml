@@ -2,9 +2,9 @@ name: Booker
 description: 'Text editor with the power or Markdown'
 website: 'https://apps.meamka.me/booker/'
 keywords:
-    - writing
-    - productivity
-    - markdown
-    - html
-    - pdf
+  - writing
+  - productivity
+  - markdown
+  - html
+  - pdf
 category: Productivity

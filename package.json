@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.7891.0",
+  "version": "1.8147.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -15,10 +15,11 @@
     "build:pack": "node script/pack",
     "prepack": "check-for-leaks",
     "prepush": "check-for-leaks",
-    "test": "mocha --reporter min test/human-data.js test/colors-spec.js && standard --fix",
-    "test:debug": "mocha --reporter spec test/human-data.js test/colors-spec.js && standard --fix",
+    "prettier": "prettier --check \"./**/*.{ts,js,yml}\"",
+    "test": "mocha --reporter min test/human-data.js test/colors-spec.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
+    "test:debug": "mocha --reporter spec test/human-data.js test/colors-spec.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "pretest-all": "npm run build",
-    "test-all": "mocha --reporter min && standard --fix",
+    "test-all": "mocha --reporter min && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "wizard": "node wizard.js",
     "release": "script/release.sh"
   },
@@ -33,7 +34,8 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "devDependencies": {
-    "@octokit/rest": "^15.15.1",
+    "@octokit/rest": "^16",
+    "@zeit/fetch-retry": "^5.0.0",
     "bottleneck": "^1.16.0",
     "chai": "^4.2.0",
     "check-for-leaks": "^1.2.0",
@@ -45,7 +47,7 @@
     "get-image-colors": "^1.8.1",
     "github-url-to-object": "^4.0.2",
     "human-interval": "^0.1.6",
-    "husky": "^0.14.3",
+    "husky": "^4.2.3",
     "image-size": "^0.5.0",
     "imagemin": "^6.1.0",
     "imagemin-pngquant": "^8.0.0",
@@ -53,20 +55,22 @@
     "is-hexcolor": "^1.0.0",
     "is-url": "^1.2.2",
     "jimp": "^0.3.5",
+    "js-yaml": "^3.13.1",
+    "lint-staged": "^10.0.9",
     "make-color-accessible": "^1.2.0",
     "mkdirp": "^0.5.1",
     "mocha": "^5.2.0",
     "node-fetch": "^2.6.0",
     "npm-run-all": "^4.0.1",
     "pick-a-good-color": "^1.1.1",
+    "prettier": "^2.0.2",
     "readdirp": "^3.0.2",
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^2.6.1",
     "sharp": "^0.23.0",
     "sinon": "^7.2.2",
     "slugg": "^1.1.0",
-    "standard": "^10.0.2",
-    "yamljs": "^0.2.8"
+    "yaml": "^1.9.2"
   },
   "engines": {
     "node": ">=8"
@@ -76,9 +80,12 @@
     "mime-types": "^2.1.19",
     "rev-hash": "^2.0.0"
   },
-  "standard": {
-    "env": [
-      "mocha"
-    ]
+  "lint-staged": {
+    "*.{js,ts,yml}": "prettier --write"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
   }
 }

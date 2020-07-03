@@ -2,7 +2,7 @@ name: TIDAL
 description: 'Music streaming service'
 website: 'https://www.tidal.com'
 keywords:
-    - music
-    - streaming
-    - videos
+  - music
+  - streaming
+  - videos
 category: Music
