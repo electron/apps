@@ -1,22 +1,20 @@
 name: Tunepack
-description: 'Search and download high quality audio files. Uses Soulseek under the hood.'
+description:
+  'Search and download high quality audio files. Uses Soulseek under the hood.'
 website: 'https://tunepack.io'
 category: Music
 repository: 'https://github.com/tunepack/tunepack-desktop.git'
 keywords:
-    - Tunepack
-    - Music
-    - Audio
-    - Downloading
-    - Soulseek
+  - Tunepack
+  - Music
+  - Audio
+  - Downloading
+  - Soulseek
 license: MIT
 screenshots:
-    -
-        imageUrl: 'https://tunepack.io/10cc9a00.png'
-        caption: 'Search for high quality audio files'
-    -
-        imageUrl: 'https://tunepack.io/92789b72.png'
-        caption: 'Keep track of your downloads'
-    -
-        imageUrl: 'https://tunepack.io/a9b40479.png'
-        caption: 'Fine tune search settings'
+  - imageUrl: 'https://tunepack.io/10cc9a00.png'
+    caption: 'Search for high quality audio files'
+  - imageUrl: 'https://tunepack.io/92789b72.png'
+    caption: 'Keep track of your downloads'
+  - imageUrl: 'https://tunepack.io/a9b40479.png'
+    caption: 'Fine tune search settings'

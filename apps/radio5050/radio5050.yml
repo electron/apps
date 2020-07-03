@@ -2,20 +2,19 @@ name: Radio 50/50 Player
 description: 'Desktop player for the Radio 50/50 Radio'
 website: 'https://www.radio5050.com'
 keywords:
-    - entertainment
-    - music
-    - lifestyle
-    - productivity
-    - webradio
-    - radio
-    - player
-    - fip
+  - entertainment
+  - music
+  - lifestyle
+  - productivity
+  - webradio
+  - radio
+  - player
+  - fip
 license: PRIVATE
 category: Music
 screenshots:
-    -
-        imageUrl: 'https://media.giphy.com/media/C8KAlv9PZJBltbjNo9/giphy.gif'
-        caption: 'Screenshot of the app version 1.0.2'
-        imageLink: 'https://www.radio5050.com/downloads'
+  - imageUrl: 'https://media.giphy.com/media/C8KAlv9PZJBltbjNo9/giphy.gif'
+    caption: 'Screenshot of the app version 1.0.2'
+    imageLink: 'https://www.radio5050.com/downloads'
 locales:
-    - fr-FR
+  - fr-FR

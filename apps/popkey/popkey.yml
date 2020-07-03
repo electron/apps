@@ -2,7 +2,7 @@ name: PopKey
 description: 'The perfect GIF right at your fingertips'
 website: 'http://popkey.co/send-gifs'
 keywords:
-    - GIF
+  - GIF
 category: 'Photo & Video'
 disabled: true
 disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'

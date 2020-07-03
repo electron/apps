@@ -4,9 +4,9 @@ website: 'https://github.com/bhavayAnand9/cryptoWallet'
 category: Finance
 repository: 'https://github.com/bhavayAnand9/cryptoWallet'
 keywords:
-    - bitcoin
-    - nodejs
-    - react
-    - wallet
+  - bitcoin
+  - nodejs
+  - react
+  - wallet
 disabled: true
 disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'

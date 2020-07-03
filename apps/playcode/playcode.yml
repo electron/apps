@@ -2,12 +2,14 @@ name: PlayCode
 description: 'Desktop client for Playcode Online Javascript Editor'
 website: 'https://github.com/playcode/playcode-desktop'
 keywords:
-    - playcode
-    - editor
-    - 'developer tools'
-    - mac
+  - playcode
+  - editor
+  - 'developer tools'
+  - mac
 license: GPL-v3
 category: 'Developer Tools'
 repository: 'https://github.com/playcode/playcode-desktop'
 screenshots:
-    - {imageUrl: 'https://github.com/playcode/Playcode-desktop/blob/master/build/Screenshot.png?raw=true'}
+  - {
+      imageUrl: 'https://github.com/playcode/Playcode-desktop/blob/master/build/Screenshot.png?raw=true',
+    }

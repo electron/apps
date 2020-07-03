@@ -2,7 +2,7 @@ name: 'Infinity'
 description: 'An easy way to make presentation.'
 website: 'https://ycosxapp.github.io'
 keywords:
-    - presentation
-    - design
-    - react
+  - presentation
+  - design
+  - react
 category: Productivity
