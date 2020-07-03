@@ -1,20 +1,17 @@
 name: 'Last Hit'
-description: 'Automation testing solution aimed at development and operation team.'
+description:
+  'Automation testing solution aimed at development and operation team.'
 website: 'https://last-hit.com'
 category: 'Developer Tools'
 repository: 'https://github.com/last-hit-aab/last-hit'
 keywords:
-    - testing
-    - test
-    - end-to-end
-    - automation
-    - Quality Assurance
-    - opensource
-    - continuous integration
-    - ci
-screenshots:
-    -
-      imageUrl: 'https://last-hit.com/assets/images/record-5.png'
-      caption: 'A sample flow'
+  - testing
+  - test
+  - end-to-end
+  - automation
+  - Quality Assurance
+  - opensource
+  - continuous integration
+  - ci
 locales:
-    - en-US
+  - en-US

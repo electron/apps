@@ -4,11 +4,10 @@ website: 'https://github.com/IndomaximTechId/storaji'
 repository: 'https://github.com/IndomaximTechId/storaji'
 category: Business
 keywords:
-    - inventory
-    - management
-    - service
-    - system
+  - inventory
+  - management
+  - service
+  - system
 license: MIT License
 screenshots:
-    -
-        imageUrl: 'https://github.com/IndomaximTechID/storaji/blob/gh-pages/screenshoots/cover.png?raw=true'
+  - imageUrl: 'https://github.com/IndomaximTechID/storaji/blob/gh-pages/screenshoots/cover.png?raw=true'

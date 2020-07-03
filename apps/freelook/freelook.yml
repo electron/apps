@@ -4,13 +4,12 @@ website: 'https://github.com/eNkru/freelook'
 category: Productivity
 repository: 'https://github.com/eNkru/freelook'
 keywords:
-    - Email
-    - Outlook
-    - Hotmail
-    - Productivity
-    - Utility
+  - Email
+  - Outlook
+  - Hotmail
+  - Productivity
+  - Utility
 screenshots:
-    -
-        imageUrl: 'https://user-images.githubusercontent.com/13460738/35953459-a0875872-0ce9-11e8-9bca-880564b9beee.png'
-        caption: 'Main Interface'
+  - imageUrl: 'https://user-images.githubusercontent.com/13460738/35953459-a0875872-0ce9-11e8-9bca-880564b9beee.png'
+    caption: 'Main Interface'
 license: MIT

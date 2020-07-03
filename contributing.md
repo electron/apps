@@ -251,6 +251,7 @@ Then, the bot creates resized versions of the app icon:
 
 ```
 hyper
+├── hyper-icon-256.png
 ├── hyper-icon-128.png
 ├── hyper-icon-32.png
 ├── hyper-icon-64.png

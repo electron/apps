@@ -4,15 +4,14 @@ website: 'https://github.com/simon-fraser/MusicTube-Player'
 category: Music
 repository: 'https://github.com/simon-fraser/MusicTube-Player'
 keywords:
-    - youtube
-    - music
-    - audio
-    - media
-    - player
-    - desktop
-    - gui
-    - playlist
+  - youtube
+  - music
+  - audio
+  - media
+  - player
+  - desktop
+  - gui
+  - playlist
 
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/simon-fraser/MusicTube-Player/master/assets/pics/start-screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/simon-fraser/MusicTube-Player/master/assets/pics/start-screenshot.png'

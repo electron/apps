@@ -1,0 +1,21 @@
+name: MonsterWriter
+description:
+  Distraction free writing optimized for scientific papers and pillar content.
+website: 'https://www.monsterwriter.app'
+category: Productivity
+keywords:
+  - writing
+  - blogging
+  - latex
+  - ghost
+  - notes
+  - pdf
+  - footnotes
+  - bibliography
+screenshots:
+  - imageUrl: 'https://www.monsterwriter.app/assets/screenshots/distractionfree.png'
+    caption: 'Focus on Content - Not Layout nor Markups'
+  - imageUrl: 'https://www.monsterwriter.app/assets/screenshots/ref1.png'
+    caption:
+      'Add Cross References or Cite External Writings and Generate a
+      Bibliography'

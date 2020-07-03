@@ -2,6 +2,6 @@ name: Tweetman
 description: 'Powerful Twitter Client for Desktop'
 website: 'https://tweetman.kksg.net/en'
 keywords:
-    - Twitter
+  - Twitter
 category: 'Social Networking'
 disabled: true # website offline

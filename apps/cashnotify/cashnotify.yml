@@ -2,10 +2,10 @@ name: CashNotify
 description: 'Monitor your Stripe accounts from your menu bar.'
 website: 'https://cashnotify.com'
 keywords:
-    - stripe
-    - mac
-    - menubar
-    - payments
-    - alerts
-    - notifications
+  - stripe
+  - mac
+  - menubar
+  - payments
+  - alerts
+  - notifications
 category: Utilities

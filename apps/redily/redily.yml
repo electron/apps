@@ -1,21 +1,23 @@
 name: Redily
-description: 'Redis GUI Client with cluster and sentinel support. Works with Redis instances requiring SSL/TLS and with private servers via SSH tunneling.'
+description:
+  'Redis GUI Client with cluster and sentinel support. Works with Redis
+  instances requiring SSL/TLS and with private servers via SSH tunneling.'
 website: 'https://www.redily.app'
 category: 'Developer Tools'
 keywords:
-    - 'redis gui'
-    - 'redis client'
-    - redily
-    - redis
-    - cluster
-    - sentinel
-    - ssl
-    - ssh
-    - azure
-    - elasticache
-    - gcloud
-    - aws
+  - 'redis gui'
+  - 'redis client'
+  - redily
+  - redis
+  - cluster
+  - sentinel
+  - ssl
+  - ssh
+  - azure
+  - elasticache
+  - gcloud
+  - aws
 screenshots:
-    -
-        imageUrl: 'https://www.redily.app/img/redily-screenshot.png'
-        caption: 'Redily Screenshot'
+  - imageUrl: 'https://www.redily.app/img/redily-screenshot.png'
+    caption: 'Redily Screenshot'
+disabled: true # Dead link(s): https://www.redily.app, https://www.redily.app/img/redily-screenshot.png
