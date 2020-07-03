@@ -2,7 +2,7 @@ name: 'Turn Off App'
 description:
   'Shutdown your computer at selected hour or after specifed time period
   available on Windows platform.'
-website: 'http://turnoffapp.com'
+website: 'https://github.com/tomaszchlebek/turn-off-app'
 category: Productivity
 repository: 'https://github.com/tomaszchlebek/turn-off-app'
 keywords:
@@ -12,4 +12,5 @@ license: MIT
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/tomaszchlebek/turn-off-app/gh-pages/img/turnOffGif.gif'
     caption: 'Turn Off App'
-    imageLink: 'http://turnoffapp.com'
+    imageLink: 'https://turnoffapp.com'
+disabled: true # Dead link(s): https://turnoffapp.com
