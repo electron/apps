@@ -1,17 +1,14 @@
 name: Docker Desktop
-description:
-  'Docker Desktop is an application for MacOS and Windows machines for the building and sharing of containerized applications and microservices.'
+description: 'Docker Desktop is an application for MacOS and Windows machines for the building and sharing of containerized applications and microservices.'
 website: 'https://www.docker.com/products/docker-desktop'
-category: Developer Tools
+category: 'Developer Tools'
 repository: 'https://github.com/docker/for-win/'
 keywords:
-  - docker
-  - compose
-  - container
-  - docker desktop
+    - docker
+    - compose
+    - container
+    - docker desktop
 screenshots:
-  - {
-    imageUrl: 'https://www.docker.com/sites/default/files/d8/styles/large/public/2020-01/List%20plus%20running%20compose.png'
-    caption: 'Desktop user interface'
-    }
-    
+    -
+        imageUrl: 'https://www.docker.com/sites/default/files/d8/styles/large/public/2020-01/List%20plus%20running%20compose.png'
+        caption: 'Desktop user interface'
