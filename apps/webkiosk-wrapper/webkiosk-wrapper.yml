@@ -3,9 +3,9 @@ description: 'Wrapper for Webkiosk portal of Jaypee college, Noida.'
 website: 'https://github.com/ngudbhav/Webkiosk-Wrapper'
 category: 'Utilities'
 keywords:
-    - webkiosk
-    - jiit
-    - college
-    - wrapper
-    - utility
+  - webkiosk
+  - jiit
+  - college
+  - wrapper
+  - utility
 license: MIT

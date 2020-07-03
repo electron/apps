@@ -1,22 +1,23 @@
 name: TextureLab
-description: "Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator."
-website: "https://njbrown.itch.io/texturelab"
-category: "Graphics & Design"
-repository: "https://github.com/njbrown/texturelab"
+description:
+  'Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator.'
+website: 'https://njbrown.itch.io/texturelab'
+category: 'Graphics & Design'
+repository: 'https://github.com/njbrown/texturelab'
 keywords:
-    - "procedural art"
-    - "gamedev"
-    - "game development"
-    - "game art"
-    - "3d graphics"
-    - "textures"
-    - "nodegraph"
-    - "substance designer"
+  - 'procedural art'
+  - 'gamedev'
+  - 'game development'
+  - 'game art'
+  - '3d graphics'
+  - 'textures'
+  - 'nodegraph'
+  - 'substance designer'
 license: GPLv3
 screenshots:
-    - imageUrl: "https://img.itch.zone/aW1hZ2UvNTEzNzgxLzI5MTA3MTkucG5n/original/ehK32L.png"
-      caption: "Marble Tile Texture"
-      imageLink: "https://njbrown.itch.io/texturelab"
-    - imageUrl: "https://img.itch.zone/aW1nLzI4NDg3NjAuanBn/original/Tc3rIW.jpg"
-      caption: "Eroded Brick Wall"
-      imageLink: "https://njbrown.itch.io/texturelab"
+  - imageUrl: 'https://img.itch.zone/aW1hZ2UvNTEzNzgxLzI5MTA3MTkucG5n/original/ehK32L.png'
+    caption: 'Marble Tile Texture'
+    imageLink: 'https://njbrown.itch.io/texturelab'
+  - imageUrl: 'https://img.itch.zone/aW1nLzI4NDg3NjAuanBn/original/Tc3rIW.jpg'
+    caption: 'Eroded Brick Wall'
+    imageLink: 'https://njbrown.itch.io/texturelab'

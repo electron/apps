@@ -3,9 +3,9 @@ description: 'The most secure collaboration platform.'
 website: 'https://wire.com'
 repository: 'https://github.com/wireapp'
 keywords:
-    - communication
-    - privacy
-    - security
-    - messenger
-    - messaging
+  - communication
+  - privacy
+  - security
+  - messenger
+  - messaging
 category: 'Social Networking'

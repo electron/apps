@@ -1,14 +1,16 @@
 name: Diffuse
-description: 'Play music from your Dropbox, IPFS node, Amazon S3 bucket, or any other cloud/distributed storage service you use.'
+description:
+  'Play music from your Dropbox, IPFS node, Amazon S3 bucket, or any other
+  cloud/distributed storage service you use.'
 website: 'https://diffuse.sh'
 category: Music
 repository: 'https://github.com/icidasset/diffuse'
 keywords:
-    - music library
-    - music player
-    - cloud
-    - decentralized
-    - distributed
+  - music library
+  - music player
+  - cloud
+  - decentralized
+  - distributed
 screenshots:
   - imageUrl: 'https://icidasset-public.s3.amazonaws.com/Diffuse%20Screenshots/2.jpg'
     caption: 'Personal data storage'

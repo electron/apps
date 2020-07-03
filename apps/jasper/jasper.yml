@@ -3,14 +3,13 @@ description: 'A flexible and powerful issue reader for GitHub'
 website: 'https://jasperapp.io'
 repository: 'https://github.com/jasperapp/jasper'
 keywords:
-    - github
-    - issue
-    - reader
-    - tracker
-    - notification
-    - browser
-    - 'developer tools'
+  - github
+  - issue
+  - reader
+  - tracker
+  - notification
+  - browser
+  - 'developer tools'
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/jasperapp/jasper/41799eff8a034e9be4c0ba2cbe8a9b72926f5abb/top.png'
+  - imageUrl: 'https://raw.githubusercontent.com/jasperapp/jasper/41799eff8a034e9be4c0ba2cbe8a9b72926f5abb/top.png'

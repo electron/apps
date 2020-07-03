@@ -1,6 +1,8 @@
 name: Manageyum
-description: 'One desktop app to manage Trello, Slack, Whatsapp, Zendesk and more...'
+description:
+  'One desktop app to manage Trello, Slack, Whatsapp, Zendesk and more...'
 website: 'https://manageyum.com'
 keywords:
-    - Productivity
+  - Productivity
 category: Productivity
+disabled: true # Dead link(s): https://manageyum.com

@@ -2,13 +2,13 @@ name: Phiewer
 description: 'The standard media viewer for Mac'
 website: 'https://phiewer.com/'
 keywords:
-    - 'Image Viewer'
-    - 'Video Viewer'
-    - 'Audio Player'
-    - Fast
-    - Simple
-    - Ambience
-    - EXIF
-    - Folder
-    - 'Browse Folder'
+  - 'Image Viewer'
+  - 'Video Viewer'
+  - 'Audio Player'
+  - Fast
+  - Simple
+  - Ambience
+  - EXIF
+  - Folder
+  - 'Browse Folder'
 category: 'Photo & Video'

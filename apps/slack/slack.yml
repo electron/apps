@@ -3,11 +3,11 @@ description: 'A messaging app for teams'
 website: 'https://slack.com'
 homebrewCaskName: slack
 keywords:
-    - messaging
-    - chat
-    - p2p
-    - video
-    - voip
-    - phone
-    - community
+  - messaging
+  - chat
+  - p2p
+  - video
+  - voip
+  - phone
+  - community
 category: 'Social Networking'
