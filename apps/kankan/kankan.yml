@@ -1,0 +1,16 @@
+name: 'KanKan'
+description: 'Cool tool for browsing pictures in Mac OS.'
+category: 'Photo & Video'
+repository: 'https://github.com/newham/kankan'
+keywords:
+  - picture
+  - photo
+locales:
+  - zh-CN
+  - en
+license: 'GPL'
+screenshots:
+  - imageUrl: 'https://github.com/newham/kankan/raw/master/cap_1.png'
+    caption: 'Light Mode'
+  - imageUrl: 'https://github.com/newham/kankan/raw/master/cap_2.png'
+    caption: 'Dark Mode'

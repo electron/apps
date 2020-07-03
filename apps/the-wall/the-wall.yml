@@ -1,27 +1,24 @@
 name: 'The Wall'
-description: 'Automatically set your Desktop wallpaper based on your followed tags.'
+description:
+  'Automatically set your Desktop wallpaper based on your followed tags.'
 repository: 'https://github.com/aakashbhadana/The-Wall'
 license: 'MIT'
 
 category: 'Photo & Video'
 keywords:
-    - wallpaper
-    - photos
-    - windows
-    - unsplash
-    - 4k
-    - hd
-    - desktop
+  - wallpaper
+  - photos
+  - windows
+  - unsplash
+  - 4k
+  - hd
+  - desktop
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/Intro.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/Intro.jpg'
     caption: 'Welcome to The Wall.'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/First.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/First.jpg'
     caption: 'Follow your favourite tags for wallpapers'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/Second.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/Second.jpg'
     caption: 'Set how often you want wallpaper to change automatically'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/App.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/App.jpg'
     caption: 'Beautiful and minimal interface'

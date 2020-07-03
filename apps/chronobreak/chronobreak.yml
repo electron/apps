@@ -3,19 +3,17 @@ description: 'Extra faithful replication of the original Pomodoro technique.'
 website: 'https://github.com/rollersteaam/chronobreak'
 repository: 'https://github.com/rollersteaam/chronobreak'
 keywords:
-    - 'pomodoro technique'
-    - 'work timer'
-    - 'segmenter'
-    - minimalist
-    - basic
+  - 'pomodoro technique'
+  - 'work timer'
+  - 'segmenter'
+  - minimalist
+  - basic
 category: Productivity
 
 screenshots:
-  -
-    imageUrl: 'https://github.com/rollersteaam/chronobreak/raw/master/showcase.gif'
+  - imageUrl: 'https://github.com/rollersteaam/chronobreak/raw/master/showcase.gif'
     caption: 'Chronobreak Pomodoro Timer'
     imageLink: 'https://github.com/rollersteaam/chronobreak'
-  -
-    imageUrl: 'https://i.imgur.com/1szYGJj.png'
+  - imageUrl: 'https://i.imgur.com/1szYGJj.png'
     caption: 'Chronobreak Pomodoro Timer'
     imageLink: 'https://github.com/rollersteaam/chronobreak'

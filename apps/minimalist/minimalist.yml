@@ -1,4 +1,4 @@
-name: minimalist 
+name: minimalist
 description: 'Bring only what you need.'
 website: 'https://github.com/wurde/minimalist'
 category: 'Lifestyle'
@@ -9,3 +9,4 @@ keywords:
   - stuff
   - list
 license: MIT
+disabled: true # Dead link(s): https://github.com/wurde/minimalist, https://github.com/wurde/minimalist.git

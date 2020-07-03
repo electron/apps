@@ -1,0 +1,19 @@
+name: Responsively App
+description:
+  Web developer's browser, a dev-tool that aids faster and precise responsive
+  web development.
+website: https://responsively.app
+category: Developer Tools
+repository: https://github.com/manojVivek/responsively-app
+homebrewCaskName: responsively
+youtube_video_url: https://youtu.be/rZgPPte9m4k
+keywords:
+  - UI/UX
+  - Responsive
+  - Design
+  - Browser
+  - Testing
+screenshots:
+  - imageUrl: 'https://responsively.app/assets/img/screenshot.png'
+    caption: 'Responsively'
+    imageLink: 'https://responsively.app'

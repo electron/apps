@@ -3,12 +3,11 @@ description: 'Desktop client for Kong Admin API'
 website: 'https://kongdash.xyz'
 repository: 'https://github.com/ajaysreedhar/kongdash'
 keywords:
-    - Kong
-    - Dashboard
-    - KongDash
-    - API
+  - Kong
+  - Dashboard
+  - KongDash
+  - API
 license: MIT
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/ajaysreedhar/kongdash/master/screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/ajaysreedhar/kongdash/master/screenshot.png'

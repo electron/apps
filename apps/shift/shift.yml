@@ -1,6 +1,7 @@
 name: Shift
-description: 'Switch between multiple Gmail, Calendar and Drive accounts with ease.'
+description:
+  'Switch between multiple Gmail, Calendar and Drive accounts with ease.'
 website: 'https://tryshift.com'
 keywords:
-    - utility
+  - utility
 category: Utilities

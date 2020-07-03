@@ -1,17 +1,16 @@
 name: Lifeboat
-description: 'An easy way to launch Docker Compose projects with a graphical user interface'
+description:
+  'An easy way to launch Docker Compose projects with a graphical user interface'
 website: 'https://uselifeboat.com/'
 category: 'Developer Tools'
 repository: 'https://github.com/jplhomer/lifeboat'
 keywords:
-    - docker
-    - compose
-    - containers
+  - docker
+  - compose
+  - containers
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://user-images.githubusercontent.com/848147/32585014-ea2a74b2-c4c0-11e7-8563-9bd4800590ff.png'
+  - imageUrl: 'https://user-images.githubusercontent.com/848147/32585014-ea2a74b2-c4c0-11e7-8563-9bd4800590ff.png'
     caption: 'Lifeboat User Interface'
-  -
-    imageUrl: 'https://user-images.githubusercontent.com/848147/33151650-86f169d0-cf9e-11e7-87cb-66dc9640e7e2.png'
+  - imageUrl: 'https://user-images.githubusercontent.com/848147/33151650-86f169d0-cf9e-11e7-87cb-66dc9640e7e2.png'
     caption: 'Docker Compose logs, filtered by service, in Lifeboat'

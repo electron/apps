@@ -3,11 +3,11 @@ description: 'Media player.'
 website: 'https://phresh-it.hu/apps/phreshplayer/'
 license: MIT
 keywords:
-    - audio
-    - video
-    - media
-    - phresh
-    - player
-    - converter
+  - audio
+  - video
+  - media
+  - phresh
+  - player
+  - converter
 category: 'Photo & Video'
 repository: 'https://github.com/Phreshhh/PhreshPlayer'

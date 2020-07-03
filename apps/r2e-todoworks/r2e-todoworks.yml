@@ -1,10 +1,11 @@
 name: r2e-todoworks
-description: 'Todo list r2e-todoworks, which can create sticky notes with emoji status.'
+description:
+  'Todo list r2e-todoworks, which can create sticky notes with emoji status.'
 website: 'https://github.com/tuantvk/r2e-todoworks'
 category: 'Productivity'
 repository: 'https://github.com/tuantvk/r2e-todoworks'
 keywords:
-  - todos 
+  - todos
   - tasks
   - lists
   - todo
@@ -13,6 +14,5 @@ keywords:
   - note
   - timemanage
 screenshots:
-  -
-    imageUrl: 'https://github.com/tuantvk/r2e-todoworks/blob/master/resource/todos.png'
+  - imageUrl: 'https://github.com/tuantvk/r2e-todoworks/blob/master/resource/todos.png'
 license: MIT
