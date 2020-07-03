@@ -17,9 +17,6 @@ keywords:
   - audio
   - video
 category: 'Productivity'
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/yafp/media-dupes/master/.github/screenshots/ui_latest.png',
-    }
 locales:
   - en-EN
+disabled: true # Dead link(s): https://raw.githubusercontent.com/yafp/media-dupes/master/.github/screenshots/ui_latest.png

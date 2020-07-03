@@ -3,15 +3,19 @@ description: 'Translate like a Pro'
 website: 'https://github.com/quanglam2807/translatium'
 repository: 'https://github.com/quanglam2807/translatium'
 screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/translatium/b2ee3d980d7053007fefa753d76714a2b8885189/docs/images/translatium-screenshot.png'
-    caption: 'Translatium on macOS'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/translatium/b85a6a4693a289a1f97ad8d0597dd7d7eeff98c7/docs/images/translatium-screenshot.png'
+        caption: 'Translatium on macOS (Light theme)'
+    -
+        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/translatium/b85a6a4693a289a1f97ad8d0597dd7d7eeff98c7/docs/images/translatium-screenshot-2.png'
+        caption: 'Translatium on macOS (Dark theme)'
 keywords:
-  - translator
-  - 'google translate'
-  - 'voice recognition'
-  - 'handwriting recognition'
-  - tts
-  - ocr
-  - 'material design'
-  - language
+    - translator
+    - 'yandex translate'
+    - 'voice recognition'
+    - 'handwriting recognition'
+    - tts
+    - ocr
+    - 'material design'
+    - language
 category: Productivity

@@ -11,3 +11,4 @@ screenshots:
   - {
       imageUrl: 'https://raw.githubusercontent.com/DracotMolver/Soube/master/app/assets/img/icon%401.8x.png',
     }
+disabled: true # Dead link(s): http://soube.diegomolina.cl
