@@ -30,3 +30,4 @@ screenshots:
 locales:
   - en-EN
   - de-DE
+disabled: true # Dead link(s): https://raw.githubusercontent.com/yafp/ttth/master/.github/screenshots/ui_latest.png

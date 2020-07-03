@@ -18,3 +18,4 @@ screenshots:
     caption: 'Stacker screenshot 1'
   - imageUrl: 'https://enqueuer-land.github.io/stacker/docs/screenshot-2.png'
     caption: 'Stacker screenshot 2'
+disabled: true # Dead link(s): https://enqueuer-land.github.io/stacker/docs/screenshot-1.png, https://enqueuer-land.github.io/stacker/docs/screenshot-2.png
