@@ -1,5 +1,7 @@
 name: Clipper
-description: 'Save history of all information you copy and use them whenever with a solitary snap.'
+description:
+  'Save history of all information you copy and use them whenever with a
+  solitary snap.'
 website: 'https://github.com/AkashRajpurohit/clipper'
 category: Productivity
 repository: 'https://github.com/AkashRajpurohit/clipper'
