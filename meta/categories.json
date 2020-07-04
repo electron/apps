@@ -1,17 +1,17 @@
 [
   {
     "name": "Productivity",
-    "count": 258,
+    "count": 260,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 198,
+    "count": 201,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 140,
+    "count": 141,
     "slug": "utilities"
   },
   {
@@ -26,7 +26,7 @@
   },
   {
     "name": "Photo & Video",
-    "count": 46,
+    "count": 47,
     "slug": "photo-video"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Business",
-    "count": 26,
+    "count": 27,
     "slug": "business"
   },
   {
