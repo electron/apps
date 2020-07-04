@@ -4,4 +4,6 @@ website: 'https://abricotine.brrd.fr/'
 repository: 'https://github.com/brrd/Abricotine'
 category: Productivity
 screenshots:
-    - {imageUrl: 'https://raw.githubusercontent.com/brrd/Abricotine/develop/screenshot.jpg'}
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/brrd/Abricotine/develop/screenshot.jpg',
+    }

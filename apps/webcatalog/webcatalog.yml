@@ -3,25 +3,29 @@ description: 'Run Web Apps like Real Apps'
 website: 'https://getwebcatalog.com/'
 repository: 'https://github.com/quanglam2807/webcatalog'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/catalog.png'
-        caption: 'Catalog'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/appview.png'
-        caption: 'AppView'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/workspace.png'
-        caption: 'Workspaces'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/53d4896b727ab18f3b8bcee644dde9ac12e3c302/docs/images/demos/menubar.png'
-        caption: 'Menubar'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/customization.png'
-        caption: 'Customization'
+  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/eca72380bf5c9871a08a3212629dbab6b3f7ab34/docs/images/demos/catalog.png'
+    caption: 'Catalog - Install apps quickly from our curated catalog.'
+  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/eca72380bf5c9871a08a3212629dbab6b3f7ab34/docs/images/demos/custom-apps.png'
+    caption: 'Custom Apps - Create apps easily from any websites.'
+  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/eca72380bf5c9871a08a3212629dbab6b3f7ab34/docs/images/demos/appview.png'
+    caption: 'AppView - Work just like a real native app.'
+  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/eca72380bf5c9871a08a3212629dbab6b3f7ab34/docs/images/demos/workspaces.png'
+    caption: 'Workspaces - Switch between multiple accounts/projects.'
+  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/eca72380bf5c9871a08a3212629dbab6b3f7ab34/docs/images/demos/notifications.png'
+    caption: 'Notifications - Control notifications with scheduling.'
+  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/eca72380bf5c9871a08a3212629dbab6b3f7ab34/docs/images/demos/customization.png'
+    caption: 'Customization - Make yourself at home!'
+  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/eca72380bf5c9871a08a3212629dbab6b3f7ab34/docs/images/demos/browser-engines.png'
+    caption:
+      'Browser Engines - Choose between using Electron, Google Chrome, Microsoft
+      Edge, Mozilla Firefox, Brave, or Vivaldi to power your app.'
 keywords:
-    - 'site-specific browser'
-    - browser
-    - fluid
-    - fluidapp
-    - 'app store'
+  - 'site-specific browser'
+  - ssb
+  - browser
+  - fluid
+  - fluidapp
+  - 'app store'
+  - 'real app'
+  - productivity
 category: Productivity

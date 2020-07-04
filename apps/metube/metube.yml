@@ -1,11 +1,13 @@
 name: Metube
-description: 'A program to manage your simple YouTube music player and enjoy your music'
+description:
+  'A program to manage your simple YouTube music player and enjoy your music'
 website: 'https://metube-official.com'
 category: Music
 repository: 'https://github.com/kimyearho/Metube-electron'
 keywords:
-    - Youtube
-    - Music
-    - Video
-    - Desktop
-    - MusicPlayer
+  - Youtube
+  - Music
+  - Video
+  - Desktop
+  - MusicPlayer
+disabled: true # Dead link(s): https://metube-official.com

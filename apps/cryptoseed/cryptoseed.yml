@@ -2,16 +2,15 @@ name: CryptoSeed
 description: 'Secure your bitcoin recovery seed.'
 website: 'https://github.com/anderson-arlen/cryptoseed'
 keywords:
-    - bitcoin
-    - cryptoseed
-    - encryption
-    - 'qr code'
-    - aes
-    - seed
-    - recovery
+  - bitcoin
+  - cryptoseed
+  - encryption
+  - 'qr code'
+  - aes
+  - seed
+  - recovery
 license: MIT
 category: Finance
 repository: 'https://github.com/anderson-arlen/cryptoseed'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/anderson-arlen/cryptoseed/master/encrypt.png'
+  - imageUrl: 'https://raw.githubusercontent.com/anderson-arlen/cryptoseed/master/encrypt.png'

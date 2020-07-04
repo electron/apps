@@ -1,0 +1,27 @@
+name: 'Mr Noplay'
+description: 'Give an end to no-end rests and play times.'
+website: 'https://mrnoplay.scris.top/'
+category: Productivity
+repository: 'https://github.com/scris/mrnoplay'
+keywords:
+  - timer
+  - productivity
+  - play
+  - rest
+  - time
+  - efficiency
+  - 'time management'
+license: MPL2.0
+screenshots:
+  - imageUrl: 'https://i.loli.net/2020/02/26/KEqkrGoNSlTbvym.png'
+    caption: 'Main Page'
+    imageLink: 'https://mrnoplay.scris.top/'
+  - imageUrl: 'https://i.loli.net/2020/02/26/TAucJ9iBbd6lkz1.png'
+    caption: 'Settings Page'
+    imageLink: 'https://mrnoplay.scris.top/'
+  - imageUrl: 'https://i.loli.net/2020/02/26/YvTfza6GtlwOmud.png'
+    caption: 'When Timing'
+    imageLink: 'https://mrnoplay.scris.top/'
+locales:
+  - en
+  - zh-CN
