@@ -12,3 +12,4 @@ license: MIT
 category: Utilities
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/jackd248/temps/master/assets/screenshot.jpg'
+disabled: true # Dead link(s): https://jackd248.github.io/temps/

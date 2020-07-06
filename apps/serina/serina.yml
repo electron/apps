@@ -1,7 +1,7 @@
 name: Serina
 description: 'GUI for create translation files for i18next'
-website: 'https://foxdog05000.github.io/serina/'
-repository: 'https://github.com/foxdog05000/serina'
+website: 'https://orn-fox.github.io/serina-1/'
+repository: 'https://github.com/ORN-Fox/serina-1'
 licence: 'MIT'
 keywords:
   - 'gui'
@@ -12,4 +12,4 @@ keywords:
   - 'i18next'
 category: 'Developer Tools'
 screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/foxdog05000/serina/master/sample.png'
+  - imageUrl: 'https://raw.githubusercontent.com/ORN-Fox/serina-1/master/sample.png'
