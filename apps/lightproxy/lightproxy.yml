@@ -1,6 +1,7 @@
 name: 'LightProxy'
 description: 'Open-source web debugging proxy.'
 website: 'https://github.com/alibaba/lightproxy'
+repository: 'https://github.com/alibaba/lightproxy'
 category: Developer Tools
 keywords:
   - proxy
