@@ -2639,6 +2639,22 @@
       "revHash": "2fd7a1d48d"
     }
   },
+  "desktop-recorder": {
+    "faintColorOnWhite": "rgba(127, 90, 218, 0.1)",
+    "goodColorOnBlack": "#FB0909",
+    "goodColorOnWhite": "#7F5ADA",
+    "palette": [
+      "#f9f7f8",
+      "#fb0909",
+      "#425896",
+      "#7f5ada",
+      "#805454"
+    ],
+    "source": {
+      "path": "apps/desktop-recorder/desktop-recorder-icon.png",
+      "revHash": "d12f116e4b"
+    }
+  },
   "destroyer": {
     "faintColorOnWhite": "rgba(36, 28, 92, 0.1)",
     "goodColorOnBlack": "#8979E9",
@@ -6061,6 +6077,22 @@
     "source": {
       "path": "apps/lightgallery/lightgallery-icon.png",
       "revHash": "16896f6793"
+    }
+  },
+  "lightproxy": {
+    "faintColorOnWhite": "rgba(27, 84, 170, 0.1)",
+    "goodColorOnBlack": "#469FDD",
+    "goodColorOnWhite": "#1B54AA",
+    "palette": [
+      "#469fdd",
+      "#1b54aa",
+      "#3b8abc",
+      "#2f74b7",
+      "#3070a8"
+    ],
+    "source": {
+      "path": "apps/lightproxy/lightproxy-icon.png",
+      "revHash": "d0a3488267"
     }
   },
   "ling": {
