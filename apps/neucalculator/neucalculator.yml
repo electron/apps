@@ -4,6 +4,6 @@ website: 'https://github.com/moh3n9595/neu-calculator'
 category: Utilities
 repository: 'https://github.com/moh3n9595/neu-calculator'
 keywords:
-    - neumorphism
-    - calculator
+  - neumorphism
+  - calculator
 license: MIT
