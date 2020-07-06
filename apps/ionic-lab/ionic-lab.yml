@@ -3,5 +3,5 @@ description: 'Create, build, test and deploy Ionic apps'
 website: 'https://lab.ionic.io/'
 disabled: true
 keywords:
-    - developer
+  - developer
 category: 'Developer Tools'

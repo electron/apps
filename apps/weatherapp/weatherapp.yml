@@ -3,18 +3,18 @@ description: 'Cute, minimal weather app'
 website: 'https://0-1-0-1.github.io/weatherapp'
 repository: 'https://github.com/0-1-0-1/weatherapp'
 keywords:
-    - Openweathermap
-    - Openweathermap-api
-    - Weather
-    - Cute
-    - Minimal
-    - Sweet
-    - Windows
-    - Win
-    - Win32
-    - Mac
-    - MacOS
-    - Darwin
+  - Openweathermap
+  - Openweathermap-api
+  - Weather
+  - Cute
+  - Minimal
+  - Sweet
+  - Windows
+  - Win
+  - Win32
+  - Mac
+  - MacOS
+  - Darwin
 license: MIT
 category: Utilities
 disabled: true

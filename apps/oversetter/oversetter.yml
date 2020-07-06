@@ -3,11 +3,10 @@ description: 'Translate text directly from your menubar.'
 website: 'https://4gray.github.io/oversetter/'
 repository: 'https://github.com/4gray/oversetter'
 keywords:
-    - translator
-    - menubar
-    - language
+  - translator
+  - menubar
+  - language
 license: MIT
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/4gray/oversetter/master/screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/4gray/oversetter/master/screenshot.png'

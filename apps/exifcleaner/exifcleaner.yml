@@ -1,0 +1,19 @@
+name: ExifCleaner
+description: 'Remove EXIF image metadata with drag and drop.'
+website: 'https://exifcleaner.com'
+category: 'Photo & Video'
+repository: 'https://github.com/szTheory/exifcleaner'
+keywords:
+  - exif
+  - image
+  - metadata
+  - privacy
+  - 'open source'
+license: MIT
+screenshots:
+  - imageUrl: 'https://exifcleaner.com/images/batchprocessing.png'
+    caption: 'Multi-Core Batch Processing'
+  - imageUrl: 'https://exifcleaner.com/images/darkmode.png'
+    caption: 'Dark Mode'
+  - imageUrl: 'https://exifcleaner.com/images/screenshot.png'
+    caption: 'Drag and Drop'

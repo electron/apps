@@ -1,9 +1,11 @@
 name: Kobiton
-description: 'A powerful platform that lets you create the perfect test cloud to meet the demands of your mobile teams.'
+description:
+  'A powerful platform that lets you create the perfect test cloud to meet the
+  demands of your mobile teams.'
 website: 'https://kobiton.com'
 keywords:
-    - testing
-    - mobile labs
-    - mobile app testing
-    - real device testing
+  - testing
+  - mobile labs
+  - mobile app testing
+  - real device testing
 category: 'Developer Tools'

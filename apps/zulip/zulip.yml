@@ -1,17 +1,17 @@
 name: Zulip
-description: 'It combines the immediacy of real-time chat with an email threading model.'
+description:
+  'It combines the immediacy of real-time chat with an email threading model.'
 website: 'https://zulipchat.com/'
 category: 'Social Networking'
 repository: 'https://github.com/zulip/zulip-electron'
 keywords:
-    - zulip
-    - chat
-    - productivity
-    - networking
-    - social
+  - zulip
+  - chat
+  - productivity
+  - networking
+  - social
 license: 'https://github.com/zulip/zulip-electron/blob/master/LICENSE'
 screenshots:
-  -
-    imageUrl: 'https://i.imgur.com/ChzTq4F.png'
+  - imageUrl: 'https://i.imgur.com/ChzTq4F.png'
     caption: 'Zulip Desktop Homescreen'
     imageLink: 'https://github.com/zulip/zulip-electron'

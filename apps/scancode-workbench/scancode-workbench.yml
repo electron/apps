@@ -1,23 +1,23 @@
 name: 'Scancode Workbench'
-description: 'It helps to quickly evaluate licenses and notices and record your conclusions.'
+description:
+  'It helps to quickly evaluate licenses and notices and record your
+  conclusions.'
 website: 'https://www.nexb.com/open_source_software_compliance.html'
 category: 'Developer Tools'
 repository: 'https://github.com/nexB/scancode-workbench'
 keywords:
-    - license
-    - notices
-    - conclusions
-    - scancode
-    - workbench
-    - copyright
-    - ""
+  - license
+  - notices
+  - conclusions
+  - scancode
+  - workbench
+  - copyright
+  - ''
 license: 'https://github.com/nexB/scancode-workbench/blob/develop/LICENSE'
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/wiki/nexB/scancode-workbench/scancode-workbench-chart-summary.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/wiki/nexB/scancode-workbench/scancode-workbench-chart-summary.gif'
     caption: 'Chart Summary'
     imageLink: 'https://github.com/nexB/scancode-workbench'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/wiki/nexB/scancode-workbench/import-json-file.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/wiki/nexB/scancode-workbench/import-json-file.gif'
     caption: 'Import JSON File'
     imageLink: 'https://github.com/nexB/scancode-workbench'
