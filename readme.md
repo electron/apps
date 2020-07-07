@@ -1,4 +1,4 @@
-# electron-apps ![CI Build Status](https://github.com/electron/apps/workflows/Continous%20Integration/badge.svg)
+# electron-apps ![Continous Integration](https://github.com/electron/apps/workflows/Continous%20Integration/badge.svg?branch=master)
 
 A collection of apps built on Electron. [electronjs.org/apps](http://electronjs.org/apps).
 
