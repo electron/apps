@@ -44,6 +44,7 @@
     "color-convert": "^1.9.1",
     "count-array-values": "^1.2.1",
     "dotenv-safe": "^4.0.4",
+    "fs-extra": "^9.0.1",
     "get-image-colors": "^1.8.1",
     "github-url-to-object": "^4.0.2",
     "human-interval": "^0.1.6",
@@ -70,7 +71,8 @@
     "sharp": "^0.23.0",
     "sinon": "^7.2.2",
     "slugg": "^1.1.0",
-    "yaml": "^1.9.2"
+    "yaml": "^1.9.2",
+    "yargs": "^15.4.0"
   },
   "engines": {
     "node": ">=8"

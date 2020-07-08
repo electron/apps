@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-
-const fs = require('fs').promises
+const fs = require('fs-extra')
+const path = require('path')
+const { argv } = require('yargs')
 
 const findBrokenLinks = require('../lib/broken-links')
 
@@ -12,33 +13,12 @@ process.on('unhandledRejection', (reason, p) => {
   console.log('Unhandled Rejection at: Promise', p, 'reason:', reason)
 })
 
-const numberArgs = process.argv.filter((v) => /^\d+$/.test(v))
-const possibleStart =
-  numberArgs.length > 0 ? parseInt(numberArgs[0], 10) : undefined
-const possibleEnd =
-  numberArgs.length > 0 ? parseInt(numberArgs[1], 10) : undefined
-
-console.log(
-  `Checking apps ${possibleStart || 0} through ${
-    possibleEnd || 'infinity'
-  } for broken links`
-)
-
 function isRateLimited(failures = []) {
   return failures.every(({ status }) => status === 429)
 }
 
-async function main() {
-  const failArrays = (await findBrokenLinks(possibleStart, possibleEnd)).filter(
-    (failure) => {
-      return !isRateLimited(failure.result)
-    }
-  )
-
-  console.log(`Will disable ${failArrays.length} entries`)
-
+async function disableBrokenLinks(failArrays) {
   for (const failure of failArrays) {
-    console.timeLog(failure.result)
     const deadLinks = failure.result.map(({ url }) => url).join(', ')
     let data = await fs.readFile(failure.entry.fullPath, { encoding: 'utf-8' })
 
@@ -52,6 +32,36 @@ async function main() {
 
     console.log(data)
     console.log(`\n---\n`)
+  }
+}
+
+async function deleteBrokenLinks(failArrays) {
+  for (const failure of failArrays) {
+    const { fullPath } = failure.entry
+    const dir = path.dirname(fullPath)
+    await fs.remove(dir)
+  }
+}
+
+async function main() {
+  // Process command line args
+  const { delete: willDelete, start, end } = argv
+
+  console.log(
+    `Checking apps ${start || 0} through ${end || 'infinity'} for broken links`
+  )
+  const failArrays = (await findBrokenLinks(start, end)).filter((failure) => {
+    return !isRateLimited(failure.result)
+  })
+
+  console.log(
+    `Will ${willDelete ? 'delete' : 'disable'} ${failArrays.length} entries`
+  )
+
+  if (willDelete) {
+    await deleteBrokenLinks(failArrays)
+  } else {
+    await disableBrokenLinks(failArrays)
   }
 }
 
