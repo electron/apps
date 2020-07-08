@@ -921,5 +921,22 @@
   "moderndeck": "2020-06-24",
   "network-status-check": "2020-06-24",
   "visual-family-tree": "2020-06-24",
-  "weltenschaft": "2020-06-24"
+  "weltenschaft": "2020-06-24",
+  "kube-dev-dashboard": "2020-06-27",
+  "gdevelop": "2020-07-02",
+  "motrix": "2020-07-02",
+  "qikqr": "2020-07-02",
+  "rmclient": "2020-07-02",
+  "clipper": "2020-07-04",
+  "electrocrud": "2020-07-04",
+  "exifcleaner": "2020-07-04",
+  "leafview": "2020-07-04",
+  "local-mock-server": "2020-07-04",
+  "neucalculator": "2020-07-04",
+  "responsively": "2020-07-04",
+  "zello": "2020-07-04",
+  "znote": "2020-07-04",
+  "tern": "2020-07-04",
+  "desktop-recorder": "2020-07-06",
+  "lightproxy": "2020-07-06"
 }
