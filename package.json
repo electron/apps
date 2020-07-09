@@ -16,6 +16,7 @@
     "prepack": "check-for-leaks",
     "prepush": "check-for-leaks",
     "prettier": "prettier --check \"./**/*.{ts,js,yml}\"",
+    "remove-broken-links": "node script/remove-broken-links.js --delete",
     "test": "mocha --reporter min test/human-data.js test/colors-spec.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "test:debug": "mocha --reporter spec test/human-data.js test/colors-spec.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "pretest-all": "npm run build",
@@ -34,6 +35,7 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "devDependencies": {
+    "@octokit/action": "^3.0.0",
     "@octokit/rest": "^16",
     "@zeit/fetch-retry": "^5.0.0",
     "bottleneck": "^1.16.0",

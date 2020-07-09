@@ -1,0 +1,53 @@
+name: Clean stale apps
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+jobs:
+  autoupdate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Fetch git branches
+        run:
+          git fetch --no-tags --prune --depth=1 origin
+          +refs/heads/*:refs/remotes/origin/*
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '12.x'
+      - name: Get npm cache directory
+        id: npm-cache
+        run: |
+          echo "::set-output name=dir::$(npm config get cache)"
+      - uses: actions/cache@v1
+        with:
+          path: ${{ steps.npm-cache.outputs.dir }}
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-node-
+      - run: npm ci
+      - name: Switch to branch
+        run: |
+          if git branch --remotes | grep -q origin/action-remove-broken-links; then
+            git checkout action-remove-broken-links
+          else
+            git checkout -b action-remove-broken-links
+          fi
+      - name: Remove apps with broken links
+        run: npm run remove-broken-links
+      - name: Commit Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "machine github.com login $GITHUB_ACTOR password $GITHUB_TOKEN" > ~/.netrc
+          chmod 600 ~/.netrc
+          git add --all
+          if test -n "$(git status -s)"; then
+            git config user.name "$GITHUB_ACTOR"
+            git config user.email "electron-bot@users.noreply.github.com"
+            git diff --cached
+            git commit -m "chore: clean up apps with broken links"
+            git push origin action-remove-broken-links
+            node --unhandled-rejections=strict .github/actions/broken-links-pr.js
+          else
+            echo No update needed
+          fi
