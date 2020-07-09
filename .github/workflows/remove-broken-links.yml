@@ -1,7 +1,9 @@
-name: Clean stale apps
-on:
-  schedule:
-    - cron: '0 0 * * 1'
+name: Remove apps with broken links
+# on:
+#   schedule:
+#     - cron: '0 0 * * 1'
+on: push
+
 jobs:
   autoupdate:
     runs-on: ubuntu-latest
