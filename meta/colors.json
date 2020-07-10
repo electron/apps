@@ -863,6 +863,22 @@
       "revHash": "7a8c822ff5"
     }
   },
+  "bitshares-ui": {
+    "faintColorOnWhite": "rgba(3, 123, 162, 0.1)",
+    "goodColorOnBlack": "#04ACE4",
+    "goodColorOnWhite": "#037BA2",
+    "palette": [
+      "#04ace4",
+      "#04a4e0",
+      "#04acdc",
+      "#04b4e4",
+      "#04a4ec"
+    ],
+    "source": {
+      "path": "apps/bitshares-ui/bitshares-ui-icon.png",
+      "revHash": "93c985e2d2"
+    }
+  },
   "blankup": {
     "faintColorOnWhite": "rgba(4, 116, 188, 0.1)",
     "goodColorOnBlack": "#0481D1",
