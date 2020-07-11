@@ -1,0 +1,13 @@
+name: todolist
+description:
+  Free desktop application allowing you to organise your tasks in a fast &
+  simple way.
+website: https://todo-list.io/
+category: Productivity
+repository: https://github.com/blaadje/Todolist
+keywords:
+  - productivity
+  - todo
+  - to-do
+  - todolist
+  - organisation
