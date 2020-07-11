@@ -1,0 +1,17 @@
+name: TrackingTime
+description: 'Set and forget Time Tracking.'
+website: 'https://trackingtime.co/'
+category: Productivity
+keywords:
+  - 'time tracker'
+  - 'time management'
+  - 'project management'
+  - 'timesheets'
+  - 'collaboration'
+  - 'time cards'
+  - 'time reports'
+screenshots:
+  - imageUrl: 'https://trackingtime.co/screenshots/tracking-time-tray.png'
+    caption: 'Sleek tray app for Windows & Mac'
+  - imageUrl: 'https://trackingtime.co/screenshots/tracking-time-tray-dark-mode.png'
+    caption: 'Available in Dark mode'
