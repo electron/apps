@@ -12703,6 +12703,22 @@
       "revHash": "b11117afc1"
     }
   },
+  "trackingtime": {
+    "faintColorOnWhite": "rgba(27, 35, 43, 0.1)",
+    "goodColorOnBlack": "#EF8C80",
+    "goodColorOnWhite": "#1B232B",
+    "palette": [
+      "#ef8c80",
+      "#1b232b",
+      "#74747c",
+      "#747c84",
+      "#5c646c"
+    ],
+    "source": {
+      "path": "apps/trackingtime/trackingtime-icon.png",
+      "revHash": "c3f99e844a"
+    }
+  },
   "transee": {
     "faintColorOnWhite": "rgba(37, 37, 37, 0.1)",
     "goodColorOnBlack": "#DBDBDB",
