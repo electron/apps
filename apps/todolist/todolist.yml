@@ -11,3 +11,8 @@ keywords:
   - to-do
   - todolist
   - organisation
+screenshots:
+  - imageUrl: 'https://user-images.githubusercontent.com/24897042/87225252-d6cf4600-c38b-11ea-9218-425d890df1ab.png'
+    caption: calendar
+  - imageUrl: 'https://user-images.githubusercontent.com/24897042/87225265-f49cab00-c38b-11ea-960b-918dc21713e3.png'
+    caption: filters
