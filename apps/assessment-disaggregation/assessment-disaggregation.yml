@@ -1,0 +1,11 @@
+name: Assessment Disaggregation
+description:
+  Uses pre- and post-test exam files from most exam systems to determine true
+  learning.
+website: https://www.assessmentdisaggregation.org/
+category: Education
+repository: https://github.com/tazzben/Assessment-Disaggregation.git
+keywords:
+  - Disaggregation
+  - Value-added learning scores
+license: MIT
