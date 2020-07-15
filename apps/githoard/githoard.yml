@@ -1,7 +1,7 @@
 name: GitHoard
 description: 'Hoard git repositories with ease'
-website: 'https://github.com/jojobyte/githoard'
-repository: 'https://github.com/jojobyte/githoard'
+website: 'https://github.com/beepboopbangbang/githoard'
+repository: 'https://github.com/beepboopbangbang/githoard'
 category: Productivity
 keywords:
   - git
@@ -11,5 +11,5 @@ keywords:
   - productivity
 license: MIT
 screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/jojobyte/githoard/master/screens/demo.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/beepboopbangbang/githoard/master/screens/demo.gif'
     caption: 'GitHoard Demo'
