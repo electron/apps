@@ -863,6 +863,22 @@
       "revHash": "7a8c822ff5"
     }
   },
+  "bitshares-ui": {
+    "faintColorOnWhite": "rgba(3, 123, 162, 0.1)",
+    "goodColorOnBlack": "#04ACE4",
+    "goodColorOnWhite": "#037BA2",
+    "palette": [
+      "#04ace4",
+      "#04a4e0",
+      "#04acdc",
+      "#04b4e4",
+      "#04a4ec"
+    ],
+    "source": {
+      "path": "apps/bitshares-ui/bitshares-ui-icon.png",
+      "revHash": "93c985e2d2"
+    }
+  },
   "blankup": {
     "faintColorOnWhite": "rgba(4, 116, 188, 0.1)",
     "goodColorOnBlack": "#0481D1",
@@ -2637,6 +2653,22 @@
     "source": {
       "path": "apps/deskfiler/deskfiler-icon.png",
       "revHash": "2fd7a1d48d"
+    }
+  },
+  "desktop-recorder": {
+    "faintColorOnWhite": "rgba(127, 90, 218, 0.1)",
+    "goodColorOnBlack": "#FB0909",
+    "goodColorOnWhite": "#7F5ADA",
+    "palette": [
+      "#f9f7f8",
+      "#fb0909",
+      "#425896",
+      "#7f5ada",
+      "#805454"
+    ],
+    "source": {
+      "path": "apps/desktop-recorder/desktop-recorder-icon.png",
+      "revHash": "d12f116e4b"
     }
   },
   "destroyer": {
@@ -6061,6 +6093,22 @@
     "source": {
       "path": "apps/lightgallery/lightgallery-icon.png",
       "revHash": "16896f6793"
+    }
+  },
+  "lightproxy": {
+    "faintColorOnWhite": "rgba(27, 84, 170, 0.1)",
+    "goodColorOnBlack": "#469FDD",
+    "goodColorOnWhite": "#1B54AA",
+    "palette": [
+      "#469fdd",
+      "#1b54aa",
+      "#3b8abc",
+      "#2f74b7",
+      "#3070a8"
+    ],
+    "source": {
+      "path": "apps/lightproxy/lightproxy-icon.png",
+      "revHash": "d0a3488267"
     }
   },
   "ling": {
@@ -12111,6 +12159,22 @@
       "revHash": "7c5d11f96b"
     }
   },
+  "tern": {
+    "faintColorOnWhite": "rgba(84, 68, 108, 0.1)",
+    "goodColorOnBlack": "#B38BDA",
+    "goodColorOnWhite": "#54446C",
+    "palette": [
+      "#b38bda",
+      "#393939",
+      "#ededed",
+      "#6b5583",
+      "#54446c"
+    ],
+    "source": {
+      "path": "apps/tern/tern-icon.png",
+      "revHash": "17d40c3927"
+    }
+  },
   "teseve": {
     "faintColorOnWhite": "rgba(143, 108, 4, 0.1)",
     "goodColorOnBlack": "#FBD45F",
@@ -12637,6 +12701,22 @@
     "source": {
       "path": "apps/tournamenter-manager/tournamenter-manager-icon.png",
       "revHash": "b11117afc1"
+    }
+  },
+  "trackingtime": {
+    "faintColorOnWhite": "rgba(27, 35, 43, 0.1)",
+    "goodColorOnBlack": "#EF8C80",
+    "goodColorOnWhite": "#1B232B",
+    "palette": [
+      "#ef8c80",
+      "#1b232b",
+      "#74747c",
+      "#747c84",
+      "#5c646c"
+    ],
+    "source": {
+      "path": "apps/trackingtime/trackingtime-icon.png",
+      "revHash": "c3f99e844a"
     }
   },
   "transee": {
