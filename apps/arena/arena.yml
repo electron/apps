@@ -1,7 +1,6 @@
 name: Arena
-description: 'A tool for buliding amazing data visualiztion website'
+description: 'Tool for buliding amazing data visualiztion website'
 website: 'https://arena.360.cn'
-repository: ''
 keywords:
   - data visualiztion
   - 3d
@@ -13,4 +12,5 @@ screenshots:
   - imageUrl: 'https://p4.ssl.qhimg.com/t011b5b55d1b77d5ea3.png'
     caption: 'editor'
     imageLink: 'https://arena.360.cn'
-disabled: true # Dead link(s): https://camo.githubusercontent.com/75cb6bc29849328411ff5ff9937523188b5fca6b/68747470733a2f2f6e6f6465692e636f2f6e706d2d646c2f6172676f2d74726164696e672e706e67
+locales:
+  - zh-CN
