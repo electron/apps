@@ -941,5 +941,7 @@
   "lightproxy": "2020-07-06",
   "bitshares-ui": "2020-07-09",
   "trackingtime": "2020-07-11",
-  "arena": "2020-07-17"
+  "arena": "2020-07-17",
+  "corda-node-explorer": "2020-07-20",
+  "vershd": "2020-07-20"
 }

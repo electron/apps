@@ -1967,6 +1967,22 @@
       "revHash": "229770e211"
     }
   },
+  "corda-node-explorer": {
+    "faintColorOnWhite": "rgba(228, 36, 28, 0.1)",
+    "goodColorOnBlack": "#E8241C",
+    "goodColorOnWhite": "#E4241C",
+    "palette": [
+      "#e4241c",
+      "#e8241c",
+      "#e8241c",
+      "#e8241c",
+      "#e8241c"
+    ],
+    "source": {
+      "path": "apps/corda-node-explorer/corda-node-explorer-icon.png",
+      "revHash": "c94be0b972"
+    }
+  },
   "correo": {
     "faintColorOnWhite": "rgba(226, 20, 18, 0.1)",
     "goodColorOnBlack": "#F58180",
@@ -13341,6 +13357,22 @@
     "source": {
       "path": "apps/vega-clipboard/vega-clipboard-icon.png",
       "revHash": "b0ba55ba26"
+    }
+  },
+  "vershd": {
+    "faintColorOnWhite": "rgba(164, 62, 141, 0.1)",
+    "goodColorOnBlack": "#7884BC",
+    "goodColorOnWhite": "#A43E8D",
+    "palette": [
+      "#fbfafb",
+      "#a43e8d",
+      "#3e4594",
+      "#b984b4",
+      "#7884bc"
+    ],
+    "source": {
+      "path": "apps/vershd/vershd-icon.png",
+      "revHash": "56e8c99306"
     }
   },
   "video-hub-app": {
