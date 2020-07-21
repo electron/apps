@@ -1,12 +1,12 @@
 [
   {
     "name": "Productivity",
-    "count": 261,
+    "count": 263,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 202,
+    "count": 204,
     "slug": "developer-tools"
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "name": "Finance",
-    "count": 30,
+    "count": 31,
     "slug": "finance"
   },
   {
     "name": "Business",
-    "count": 27,
+    "count": 28,
     "slug": "business"
   },
   {
