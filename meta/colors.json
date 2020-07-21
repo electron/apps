@@ -12655,6 +12655,22 @@
       "revHash": "d9cd9b18d3"
     }
   },
+  "todolist": {
+    "faintColorOnWhite": "rgba(3, 121, 162, 0.1)",
+    "goodColorOnBlack": "#62D4FC",
+    "goodColorOnWhite": "#0379A2",
+    "palette": [
+      "#42c5f6",
+      "#fafbfb",
+      "#89daf7",
+      "#b4e5f8",
+      "#62d4fc"
+    ],
+    "source": {
+      "path": "apps/todolist/todolist-icon.png",
+      "revHash": "10eeb40b2e"
+    }
+  },
   "todometer": {
     "faintColorOnWhite": "rgba(44, 44, 52, 0.1)",
     "goodColorOnBlack": "#63DBA3",
