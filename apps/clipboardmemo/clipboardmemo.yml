@@ -3,19 +3,19 @@ description: 'A full cross-platform clipboard manager.'
 website: 'https://clipboardmemo.romand.ovh'
 repository: 'https://gitlab.com/fabrom/clipboardmemo'
 keywords:
-    - clipboard
-    - native
-    - osx
-    - mac
-    - windows
-    - linux
-    - utilities
-    - productivity
-    - 'clipboard manager'
+  - clipboard
+  - native
+  - osx
+  - mac
+  - windows
+  - linux
+  - utilities
+  - productivity
+  - 'clipboard manager'
 category: Utilities
 locales:
   - en-US
   - es-ES
   - fr-FR
 screenshots:
-    - imageUrl: 'https://clipboardmemo.romand.ovh/img/macbookcb.png'
+  - imageUrl: 'https://clipboardmemo.romand.ovh/img/macbookcb.png'

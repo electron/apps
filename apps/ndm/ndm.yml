@@ -3,14 +3,13 @@ description: 'npm desktop manager'
 website: 'https://720kb.github.io/ndm'
 repository: 'https://github.com/720kb/ndm'
 keywords:
-    - npm
-    - desktop
-    - manager
-    - gui
-    - app
-    - tool
+  - npm
+  - desktop
+  - manager
+  - gui
+  - app
+  - tool
 license: GPL-3.0
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/cae30a68cf9ebdcab6f6cefd964583af4a101438/687474703a2f2f692e696d6775722e636f6d2f364b4c337074372e706e67'
+  - imageUrl: 'https://camo.githubusercontent.com/cae30a68cf9ebdcab6f6cefd964583af4a101438/687474703a2f2f692e696d6775722e636f6d2f364b4c337074372e706e67'

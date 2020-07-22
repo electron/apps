@@ -4,22 +4,19 @@ website: 'https://klaussinani.github.io/tusk'
 repository: 'https://github.com/klaussinani/tusk'
 snapcraftName: tusk
 keywords:
-    - note
-    - productivity
-    - note-taking
-    - evernote
+  - note
+  - productivity
+  - note-taking
+  - evernote
 license: MIT
 category: 'Productivity'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/dark-theme.png'
-        caption: 'Dark theme'
-        imageLink: 'https://klaussinani.github.io/tusk'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/sepia-theme.png'
-        caption: 'Sepia theme'
-        imageLink: 'https://klaussinani.github.io/tusk'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/black-theme.png'
-        caption: 'Black theme'
-        imageLink: 'https://klaussinani.github.io/tusk'
+  - imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/dark-theme.png'
+    caption: 'Dark theme'
+    imageLink: 'https://klaussinani.github.io/tusk'
+  - imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/sepia-theme.png'
+    caption: 'Sepia theme'
+    imageLink: 'https://klaussinani.github.io/tusk'
+  - imageUrl: 'https://raw.githubusercontent.com/klaussinani/tusk/d663f056dc8d21111f7fb24cc2c90cfca5b8ad06/docs/media/black-theme.png'
+    caption: 'Black theme'
+    imageLink: 'https://klaussinani.github.io/tusk'

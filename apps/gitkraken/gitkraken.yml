@@ -2,7 +2,7 @@ name: GitKraken
 description: 'The downright luxurious Git client for Windows, Mac and Linux'
 website: 'https://www.gitkraken.com/'
 keywords:
-    - git
-    - programming
-    - productivity
+  - git
+  - programming
+  - productivity
 category: Productivity

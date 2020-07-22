@@ -4,10 +4,9 @@ website: 'https://github.com/monsterkodi/kalk'
 category: 'Utilities'
 repository: 'https://github.com/monsterkodi/kalk'
 keywords:
-    - calculator
+  - calculator
 license: Unlicense
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/monsterkodi/kalk/master/img/shot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/monsterkodi/kalk/master/img/shot.png'
     caption: 'kalk'
     imageLink: 'https://github.com/monsterkodi/kalk'

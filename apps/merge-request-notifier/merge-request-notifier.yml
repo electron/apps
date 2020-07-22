@@ -1,0 +1,16 @@
+name: 'Merge Request Notifier'
+description:
+  'This app shows your merge requests grouped by projects and WIP status.'
+website: 'https://github.com/codecentric/merge-request-notifier'
+category: 'Developer Tools'
+repository: 'https://github.com/codecentric/merge-request-notifier'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/codecentric/merge-request-notifier/master/images/tray.png'
+    caption: 'System Integration'
+    imageLink: 'https://github.com/codecentric/merge-request-notifier/releases'
+homebrewCaskName: 'merge-request-notifier'
+keywords:
+  - gitlab
+  - merge-request
+  - pull-request
+license: MIT

@@ -1,16 +1,16 @@
 name: Noty
-description: 'Autosaving sticky note with support for multiple notes without needing multiple windows.'
+description:
+  'Autosaving sticky note with support for multiple notes without needing
+  multiple windows.'
 website: 'https://github.com/fabiospampinato/noty'
 repository: 'https://github.com/fabiospampinato/noty'
 keywords:
-    - sticky
-    - notes
-    - 'note taking'
+  - sticky
+  - notes
+  - 'note taking'
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://github.com/fabiospampinato/noty/raw/master/resources/demo/switching.gif'
-        caption: 'Switching Notes'
-    -
-        imageUrl: 'https://github.com/fabiospampinato/noty/raw/master/resources/demo/creation.gif'
-        caption: 'Creating Notes'
+  - imageUrl: 'https://github.com/fabiospampinato/noty/raw/master/resources/demo/switching.gif'
+    caption: 'Switching Notes'
+  - imageUrl: 'https://github.com/fabiospampinato/noty/raw/master/resources/demo/creation.gif'
+    caption: 'Creating Notes'

@@ -3,8 +3,7 @@ description: 'Find the right subtitles. Easy.'
 website: 'https://getcaption.co'
 repository: 'https://github.com/gielcobben/caption'
 keywords:
-    - utility
+  - utility
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://gielcobben.com/github/caption/github_cover.png'
+  - imageUrl: 'https://gielcobben.com/github/caption/github_cover.png'

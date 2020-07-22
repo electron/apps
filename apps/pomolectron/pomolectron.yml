@@ -3,15 +3,14 @@ description: 'A Pomodoro app in your menubar/tray.'
 website: 'https://github.com/amitmerchant1990/pomolectron'
 repository: 'https://github.com/amitmerchant1990/pomolectron'
 keywords:
-    - pomodoro
-    - productivity
-    - node
-    - minimal
-    - countdown
-    - timer
-    - html
-    - desktop
+  - pomodoro
+  - productivity
+  - node
+  - minimal
+  - countdown
+  - timer
+  - html
+  - desktop
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://cloud.githubusercontent.com/assets/3647841/24491376/9250a1de-1544-11e7-86ef-82b77c006daa.png'
+  - imageUrl: 'https://cloud.githubusercontent.com/assets/3647841/24491376/9250a1de-1544-11e7-86ef-82b77c006daa.png'

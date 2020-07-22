@@ -1,29 +1,27 @@
 name: 'wnr'
 description: 'A timer app with strong expansibility for computers.'
-website: 'https://wnr.scris.top/'
+website: 'https://getwnr.com/'
 repository: 'https://github.com/RoderickQiu/wnr'
 keywords:
-    - timer
-    - work
-    - rest
-    - 'time management'
-    - pomodoro
-    - productivity
-    - time
-    - minimalist
-    - basic
-    - efficiency
+  - timer
+  - work
+  - rest
+  - 'time management'
+  - pomodoro
+  - productivity
+  - time
+  - minimalist
+  - basic
+  - efficiency
 license: MPL2.0
 category: Productivity
 screenshots:
-  -    
-    imageUrl: 'https://i.loli.net/2020/01/22/Olf428NdWuyzw1h.png'
+  - imageUrl: 'https://i.loli.net/2020/01/22/Olf428NdWuyzw1h.png'
     caption: 'Preview 1'
-    imageLink: 'https://wnr.scris.top/guide/1-basic-usage.html'
-  -
-    imageUrl: 'https://i.loli.net/2020/01/22/yPwNA1rGsXtu6ph.png'
+    imageLink: 'https://getwnr.com/guide/1-basic-usage.html'
+  - imageUrl: 'https://i.loli.net/2020/01/22/yPwNA1rGsXtu6ph.png'
     caption: 'Preview 2'
-    imageLink: 'https://wnr.scris.top/guide/1-basic-usage.html'
+    imageLink: 'https://getwnr.com/guide/1-basic-usage.html'
 locales:
-    - en
-    - zh-CN
+  - en
+  - zh-CN

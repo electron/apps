@@ -3,10 +3,9 @@ description: 'Unofficial overcast.fm podcast app.'
 website: 'https://github.com/vitorgalvao/fog'
 repository: 'https://github.com/vitorgalvao/fog'
 keywords:
-    - overcast.fm
-    - podcasts
+  - overcast.fm
+  - podcasts
 license: Unlicense
 category: News
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/1337e9e495d71290b65e09750f23179d6285a2a5/687474703a2f2f692e696d6775722e636f6d2f357056706e4d652e706e67'
+  - imageUrl: 'https://camo.githubusercontent.com/1337e9e495d71290b65e09750f23179d6285a2a5/687474703a2f2f692e696d6775722e636f6d2f357056706e4d652e706e67'
