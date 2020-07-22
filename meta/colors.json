@@ -4767,6 +4767,22 @@
       "revHash": "869492ea23"
     }
   },
+  "heads-tails": {
+    "faintColorOnWhite": "rgba(190, 58, 33, 0.1)",
+    "goodColorOnBlack": "#FAC105",
+    "goodColorOnWhite": "#BE3A21",
+    "palette": [
+      "#b0adb4",
+      "#3b3b46",
+      "#fac105",
+      "#69656c",
+      "#be3a21"
+    ],
+    "source": {
+      "path": "apps/heads-tails/heads-tails-icon.png",
+      "revHash": "3c2799ffd1"
+    }
+  },
   "headset": {
     "faintColorOnWhite": "rgba(3, 119, 144, 0.1)",
     "goodColorOnBlack": "#04B6DD",
@@ -10173,6 +10189,22 @@
     "source": {
       "path": "apps/remind/remind-icon.png",
       "revHash": "05d530729e"
+    }
+  },
+  "repomesh": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FB3404",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#040404",
+      "#fbfbfb",
+      "#fb3404",
+      "#fc886d",
+      "#fc7454"
+    ],
+    "source": {
+      "path": "apps/repomesh/repomesh-icon.png",
+      "revHash": "8bc471b55e"
     }
   },
   "reqview": {
