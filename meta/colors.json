@@ -1935,6 +1935,22 @@
       "revHash": "6713a37930"
     }
   },
+  "compress": {
+    "faintColorOnWhite": "rgba(4, 21, 155, 0.1)",
+    "goodColorOnBlack": "#9CACEC",
+    "goodColorOnWhite": "#04159B",
+    "palette": [
+      "#2f60d7",
+      "#f9f9fa",
+      "#8292c9",
+      "#04159b",
+      "#9cacec"
+    ],
+    "source": {
+      "path": "apps/compress/compress-icon.png",
+      "revHash": "b392d258e8"
+    }
+  },
   "concats": {
     "faintColorOnWhite": "rgba(163, 90, 44, 0.1)",
     "goodColorOnBlack": "#D1A67B",
@@ -6301,6 +6317,22 @@
     "source": {
       "path": "apps/lps-studio/lps-studio-icon.png",
       "revHash": "9829b04ecc"
+    }
+  },
+  "lsdeer": {
+    "faintColorOnWhite": "rgba(40, 36, 36, 0.1)",
+    "goodColorOnBlack": "#887A7A",
+    "goodColorOnWhite": "#282424",
+    "palette": [
+      "#242424",
+      "#282424",
+      "#282424",
+      "#282424",
+      "#282424"
+    ],
+    "source": {
+      "path": "apps/lsdeer/lsdeer-icon.png",
+      "revHash": "a0150ce645"
     }
   },
   "luna": {
