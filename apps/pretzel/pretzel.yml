@@ -1,7 +1,7 @@
 name: Pretzel
 description:
   'A menubar app that shows keyboard shortcuts based on your current app.'
-website: 'https://www.amie-chen.com/pretzel'
+website: 'https://pretzel.amie-chen.com/'
 category: Productivity
 repository: 'https://github.com/amiechen/pretzel'
 keywords:

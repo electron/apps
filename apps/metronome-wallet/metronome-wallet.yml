@@ -1,6 +1,6 @@
 name: Metronome Wallet
 description: 'Desktop wallet for Metronome (MET) token.'
-website: 'https://metronome.io/apps'
+website: 'https://metronome.io/wallet/'
 category: Finance
 repository: 'https://github.com/autonomoussoftware/metronome-wallet-desktop'
 keywords:
@@ -16,4 +16,4 @@ license: MIT
 screenshots:
   - imageUrl: 'https://metronome.io/images/metronome-apps-demo@2x.png'
     caption: 'Metronome Desktop Wallet'
-    imageLink: 'https://metronome.io/apps/'
+    imageLink: 'https://metronome.io/wallet/'

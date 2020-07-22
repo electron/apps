@@ -25,7 +25,7 @@ keywords:
 category: 'Productivity'
 screenshots:
   - {
-      imageUrl: 'https://raw.githubusercontent.com/yafp/ttth/master/.github/screenshots/ui_latest.png',
+      imageUrl: 'https://raw.githubusercontent.com/yafp/ttth/master/.github/images/screenshots/ui_latest.png',
     }
 locales:
   - en-EN

@@ -1,7 +1,7 @@
 name: R6RC
 description: 'A minimalistic rank calculator for Rainbow Six: Siege'
 repository: 'https://github.com/austinleath/r6rc'
-website: 'https://www.r6rc.com/r6rc.html'
+website: 'https://r6rc.com/'
 keywords:
   - Rainbow
   - Six

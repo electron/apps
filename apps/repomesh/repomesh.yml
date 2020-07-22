@@ -1,0 +1,21 @@
+name: repoMESH
+description: 'Repository and workspace management productivity tool for developers.'
+website: 'https://repomesh.com'
+keywords:
+    - repository
+    - git
+    - developer
+    - workspace
+    - code
+    - multiple
+    - programming
+    - github
+    - bitbucket
+    - 'developer tools'
+category: 'Developer Tools'
+screenshots:
+  -
+    imageUrl: 'https://img1.wsimg.com/isteam/ip/08792019-3745-4249-b181-23ced804c6f4/mainscreen.png/:/rs=h:500,m'
+    caption: 'Workspace view'
+    imageLink: 'https://img1.wsimg.com/isteam/ip/08792019-3745-4249-b181-23ced804c6f4/mainscreen.png/:/rs=h:500,m'
+
