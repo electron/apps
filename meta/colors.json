@@ -6623,6 +6623,22 @@
       "revHash": "fdf8516d40"
     }
   },
+  "master-tour": {
+    "faintColorOnWhite": "rgba(70, 68, 68, 0.1)",
+    "goodColorOnBlack": "#F1252D",
+    "goodColorOnWhite": "#464444",
+    "palette": [
+      "#f1252d",
+      "#faf9f9",
+      "#464444",
+      "#d69a9d",
+      "#baa4a4"
+    ],
+    "source": {
+      "path": "apps/master-tour/master-tour-icon.png",
+      "revHash": "3ba9308975"
+    }
+  },
   "matrix-writer": {
     "faintColorOnWhite": "rgba(12, 116, 188, 0.1)",
     "goodColorOnBlack": "#FBB343",
