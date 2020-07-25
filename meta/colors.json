@@ -14880,19 +14880,19 @@
     }
   },
   "zulip": {
-    "faintColorOnWhite": "rgba(34, 108, 66, 0.1)",
-    "goodColorOnBlack": "#B2DBCF",
-    "goodColorOnWhite": "#226C42",
+    "faintColorOnWhite": "rgba(34, 99, 251, 0.1)",
+    "goodColorOnBlack": "#6492FC",
+    "goodColorOnWhite": "#2263FB",
     "palette": [
-      "#226c42",
-      "#b2dbcf",
-      "#59a476",
-      "#71a487",
-      "#6c8c74"
+      "#6492fc",
+      "#fbfbfc",
+      "#95b4fc",
+      "#a6ccfc",
+      "#7cb4fc"
     ],
     "source": {
       "path": "apps/zulip/zulip-icon.png",
-      "revHash": "20cc523f6d"
+      "revHash": "739f92420b"
     }
   },
   "zuzu": {
