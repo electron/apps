@@ -940,5 +940,15 @@
   "desktop-recorder": "2020-07-06",
   "lightproxy": "2020-07-06",
   "bitshares-ui": "2020-07-09",
-  "trackingtime": "2020-07-11"
+  "trackingtime": "2020-07-11",
+  "arena": "2020-07-17",
+  "corda-node-explorer": "2020-07-20",
+  "vershd": "2020-07-20",
+  "todolist": "2020-07-21",
+  "compress": "2020-07-22",
+  "lsdeer": "2020-07-22",
+  "heads-tails": "2020-07-22",
+  "repomesh": "2020-07-22",
+  "master-tour": "2020-07-23",
+  "soundglass": "2020-07-26"
 }
