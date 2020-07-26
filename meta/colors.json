@@ -11375,6 +11375,22 @@
       "revHash": "0336df4ada"
     }
   },
+  "soundglass": {
+    "faintColorOnWhite": "rgba(76, 57, 42, 0.1)",
+    "goodColorOnBlack": "#9F7758",
+    "goodColorOnWhite": "#4C392A",
+    "palette": [
+      "#362c24",
+      "#4f4434",
+      "#4c392a",
+      "#1b1b1b",
+      "#251c1c"
+    ],
+    "source": {
+      "path": "apps/soundglass/soundglass-icon.png",
+      "revHash": "29770f1162"
+    }
+  },
   "soundkeys": {
     "faintColorOnWhite": "rgba(8, 8, 7, 0.1)",
     "goodColorOnBlack": "#FA7304",
