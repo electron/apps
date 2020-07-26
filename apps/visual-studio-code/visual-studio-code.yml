@@ -5,4 +5,11 @@ homebrewCaskName: visual-studio-code
 license: MIT / Proprietary
 keywords:
   - code
+  - editor
+  - developer
+  - tool
+  - productivity
+  
 category: 'Developer Tools'
+screenshots:
+  - imageUrl: 'https://code.visualstudio.com/assets/home/home-screenshot-win-lg.png'
