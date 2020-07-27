@@ -559,6 +559,22 @@
       "revHash": "1411554d02"
     }
   },
+  "assessment-disaggregation": {
+    "faintColorOnWhite": "rgba(76, 76, 76, 0.1)",
+    "goodColorOnBlack": "#FAFAF9",
+    "goodColorOnWhite": "#4C4C4C",
+    "palette": [
+      "#fafaf9",
+      "#4c4c4c",
+      "#a4a4a2",
+      "#898987",
+      "#9c9c9c"
+    ],
+    "source": {
+      "path": "apps/assessment-disaggregation/assessment-disaggregation-icon.png",
+      "revHash": "5ea8803715"
+    }
+  },
   "assetizr": {
     "faintColorOnWhite": "rgba(36, 36, 36, 0.1)",
     "goodColorOnBlack": "#FAFAFA",
