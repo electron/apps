@@ -4,12 +4,11 @@ website: 'https://github.com/Tympanix/Electorrent'
 homebrewCaskName: electorrent
 repository: 'https://github.com/Tympanix/Electorrent'
 keywords:
-    - utorrent
-    - remote
-    - client
-    - magnet
+  - utorrent
+  - remote
+  - client
+  - magnet
 license: GPLv3
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/Tympanix/Electorrent/master/assets/screen1-win.png'
+  - imageUrl: 'https://raw.githubusercontent.com/Tympanix/Electorrent/master/assets/screen1-win.png'

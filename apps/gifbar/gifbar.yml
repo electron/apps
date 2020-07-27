@@ -3,10 +3,9 @@ description: 'A system tray icon that helps you find the perfect GIF'
 website: 'https://github.com/dcrousso/GIFBar#readme'
 repository: 'https://github.com/dcrousso/GIFBar'
 keywords:
-    - GIFs
-    - search
+  - GIFs
+  - search
 license: MIT
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/dcrousso/GIFBar/master/assets/Icon.png'
+  - imageUrl: 'https://raw.githubusercontent.com/dcrousso/GIFBar/master/assets/Icon.png'

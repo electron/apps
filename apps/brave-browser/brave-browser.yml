@@ -1,7 +1,0 @@
-name: 'Brave Browser'
-description: 'Web browser that automatically blocks ads and trackers'
-website: 'https://brave.com/'
-keywords:
-    - browser
-category: Productivity
-disabled: true # Brave Browser started using Chromium directly in 2018 (https://brave.com/brave-upgrades/)

@@ -4,12 +4,12 @@ website: 'https://github.com/alchaplinsky/swifty'
 category: Utilities
 repository: 'https://github.com/alchaplinsky/swifty'
 keywords:
-    - swifty
-    - password
-    - 'password manager'
-    - credentials
-    - privacy
-    - security
-    - encryption
-    - encrypted
+  - swifty
+  - password
+  - 'password manager'
+  - credentials
+  - privacy
+  - security
+  - encryption
+  - encrypted
 license: MIT

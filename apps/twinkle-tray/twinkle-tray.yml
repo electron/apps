@@ -4,11 +4,13 @@ website: 'https://twinkletray.com/'
 category: Utilities
 repository: 'https://github.com/xanderfrangos/twinkle-tray'
 keywords:
-    - brightness
-    - monitor
-    - display
-    - ddc-ic
-    - windows
-    - brightness-control
+  - brightness
+  - monitor
+  - display
+  - ddc-ic
+  - windows
+  - brightness-control
 screenshots:
-    - {imageUrl: 'https://raw.githubusercontent.com/xanderfrangos/twinkle-tray/gh-pages/assets/img/twinkle-tray-screenshot.jpg'}
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/xanderfrangos/twinkle-tray/gh-pages/assets/img/twinkle-tray-screenshot.jpg',
+    }

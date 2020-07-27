@@ -1,28 +1,26 @@
 name: NorthReader
-description: 'RSS Feed Reader created with love and determination of progression in a pioneer world of digital media.'
+description:
+  'RSS Feed Reader created with love and determination of progression in a
+  pioneer world of digital media.'
 website: 'https://northreader.futureglobe.de/'
 category: 'News'
 keywords:
-    - reader
-    - feed reader
-    - rss reader
-    - news reader
-    - reading
-    - news
+  - reader
+  - feed reader
+  - rss reader
+  - news reader
+  - reading
+  - news
 screenshots:
-  -
-    imageUrl: 'https://northreader.futureglobe.de/images/sliderImage01.PNG'
+  - imageUrl: 'https://northreader.futureglobe.de/images/sliderImage01.PNG'
     caption: 'NorthReader'
     imageLink: 'https://northreader.futureglobe.de/'
-  -
-    imageUrl: 'https://northreader.futureglobe.de/images/sliderImage02.PNG'
+  - imageUrl: 'https://northreader.futureglobe.de/images/sliderImage02.PNG'
     caption: 'NorthReader'
     imageLink: 'https://northreader.futureglobe.de/'
-  -
-    imageUrl: 'https://northreader.futureglobe.de/images/sliderImage03.PNG'
+  - imageUrl: 'https://northreader.futureglobe.de/images/sliderImage03.PNG'
     caption: 'NorthReader'
     imageLink: 'https://northreader.futureglobe.de/'
-  -
-    imageUrl: 'https://northreader.futureglobe.de/images/sliderImage04.PNG'
+  - imageUrl: 'https://northreader.futureglobe.de/images/sliderImage04.PNG'
     caption: 'NorthReader'
     imageLink: 'https://northreader.futureglobe.de/'

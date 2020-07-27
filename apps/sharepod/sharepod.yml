@@ -4,6 +4,6 @@ website: 'http://sharepod.kr'
 category: Music
 repository: 'https://github.com/kimyearho/SharePod'
 keywords:
-    - Music
-    - Youtube
+  - Music
+  - Youtube
 disabled: true

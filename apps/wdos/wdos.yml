@@ -1,15 +1,17 @@
 name: wdOS
-description: 'The easy way to make desktop apps with html, css, javascript, and Nodejs. No terminal needed. Have all the apps you create be organized in one easy to use location.'
+description:
+  'The easy way to make desktop apps with html, css, javascript, and Nodejs. No
+  terminal needed. Have all the apps you create be organized in one easy to use
+  location.'
 website: 'https://www.webdesk.me/'
 category: 'Developer Tools'
 repository: 'https://github.com/Webdeskme/wdOS/releases'
 keywords:
-    - wdOS
-    - WebDesktop
-    - devloper
-    - Webframe
+  - wdOS
+  - WebDesktop
+  - devloper
+  - Webframe
 screenshots:
-  -
-    imageUrl: 'https://user-images.githubusercontent.com/27771305/68886605-85c85e80-06e5-11ea-8812-b154e7ba2199.png'
+  - imageUrl: 'https://user-images.githubusercontent.com/27771305/68886605-85c85e80-06e5-11ea-8812-b154e7ba2199.png'
     caption: 'wdOS interface'
     imageLink: 'https://github.com/Webdeskme/wdOS/releases'

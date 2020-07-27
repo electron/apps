@@ -1,13 +1,14 @@
 name: Treevea
-description: 'Your PowerPoint® assistant - easily search and reuse all your contents'
+description:
+  'Your PowerPoint® assistant - easily search and reuse all your contents'
 website: 'https://www.treevea.com/'
 keywords:
-    - powerpoint
-    - presentations
-    - slides
-    - assistant
-    - search
-    - reuse
+  - powerpoint
+  - presentations
+  - slides
+  - assistant
+  - search
+  - reuse
 category: Utilities
 disabled: true
 disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'
