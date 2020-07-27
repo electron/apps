@@ -1,0 +1,6 @@
+name: 'Jabra Direct'
+description: 'Smart, secure and free call management of headsets and speakerphones.'
+website: 'https://jabra.com/direct'
+category: 'Utilities'
+youtube_video_url: 'https://www.youtube.com/watch?v=I4KrHlQ1YRg&t'
+homebrewCaskName: 'jabra-direct'

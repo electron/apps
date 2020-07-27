@@ -2,7 +2,7 @@ name: 'Zap'
 description:
   'Cross platform Lightning Network wallet focused on user experience and ease
   of use ⚡️.'
-website: 'https://zap.jackmallers.com'
+website: 'https://zaphq.io/'
 repository: 'https://github.com/LN-Zap/zap-desktop'
 keywords:
   - 'Lightning Network'
@@ -12,5 +12,4 @@ keywords:
 license: MIT
 category: Finance
 screenshots:
-  - imageUrl: 'https://zap.jackmallers.com/assets/desktop_dark-3f450f59abdb014fd08405bb5a74e4ec31ef64838d1e30574af9cf12865df9a0.png'
-disabled: true # Dead link(s): https://zap.jackmallers.com/assets/desktop_dark-3f450f59abdb014fd08405bb5a74e4ec31ef64838d1e30574af9cf12865df9a0.png
+  - imageUrl: 'https://zaphq.io/static/678cbe7de1ba4b04880d03d2006cf886/69278/desktop.png'
