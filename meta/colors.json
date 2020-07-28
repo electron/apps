@@ -5455,6 +5455,22 @@
       "revHash": "42e452f44b"
     }
   },
+  "jabra-direct": {
+    "faintColorOnWhite": "rgba(42, 39, 8, 0.1)",
+    "goodColorOnBlack": "#FADB04",
+    "goodColorOnWhite": "#2A2708",
+    "palette": [
+      "#fadb04",
+      "#2a2708",
+      "#91860f",
+      "#b0a70f",
+      "#7c6c1c"
+    ],
+    "source": {
+      "path": "apps/jabra-direct/jabra-direct-icon.png",
+      "revHash": "342f6be847"
+    }
+  },
   "james": {
     "faintColorOnWhite": "rgba(212, 44, 60, 0.1)",
     "goodColorOnBlack": "#D43C94",
@@ -12205,6 +12221,22 @@
     "source": {
       "path": "apps/tasksq/tasksq-icon.png",
       "revHash": "01a269fd02"
+    }
+  },
+  "taskview": {
+    "faintColorOnWhite": "rgba(212, 28, 36, 0.1)",
+    "goodColorOnBlack": "#E58C94",
+    "goodColorOnWhite": "#D41C24",
+    "palette": [
+      "#d41c24",
+      "#241c24",
+      "#e3d1d2",
+      "#868282",
+      "#e58c94"
+    ],
+    "source": {
+      "path": "apps/taskview/taskview-icon.png",
+      "revHash": "e4f1ac8830"
     }
   },
   "tch-filector": {
