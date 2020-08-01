@@ -1,0 +1,21 @@
+name: Super Mario Memory Game
+description: '🦄 A Simple Memory Game for easy memorization'
+website: 'https://super-mario.now.sh'
+category: Games
+repository: 'https://github.com/dephraiim/memory-game-offline'
+keywords:
+  - mario
+  - peach
+  - toad
+  - memory-game
+  - mushroom
+  - luigi
+  - bowser
+  - yoshi
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/dephraiim/memory-game-offline/main/src/img/sc1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/dephraiim/memory-game-offline/main/src/img/sc2.png'
+  - imageUrl: 'https://raw.githubusercontent.com/dephraiim/memory-game-offline/main/src/img/sc3.png'
+  - imageUrl: 'https://raw.githubusercontent.com/dephraiim/memory-game-offline/main/src/img/sc4.png'
+  - imageUrl: 'https://raw.githubusercontent.com/dephraiim/memory-game-offline/main/src/img/sc5.png'
