@@ -13263,6 +13263,22 @@
       "revHash": "a07e7d51b0"
     }
   },
+  "tzared": {
+    "faintColorOnWhite": "rgba(134, 5, 4, 0.1)",
+    "goodColorOnBlack": "#FCB404",
+    "goodColorOnWhite": "#860504",
+    "palette": [
+      "#fac763",
+      "#fcb404",
+      "#860504",
+      "#c49639",
+      "#d07038"
+    ],
+    "source": {
+      "path": "apps/tzared/tzared-icon.png",
+      "revHash": "4aea242e9d"
+    }
+  },
   "ubauth": {
     "faintColorOnWhite": "rgba(44, 44, 44, 0.1)",
     "goodColorOnBlack": "#F9F9F9",
