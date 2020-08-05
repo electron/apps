@@ -1,5 +1,6 @@
 name: Social Amnesia
-description: 'Delete reddit/twitter history automatically, save the stuff you like.'
+description:
+  'Delete reddit/twitter history automatically, save the stuff you like.'
 website: 'https://github.com/Nick-Gottschlich/Social-Amnesia'
 repository: https://github.com/Nick-Gottschlich/Social-Amnesia
 keywords:

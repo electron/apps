@@ -11327,6 +11327,22 @@
       "revHash": "fee9519f30"
     }
   },
+  "social-amnesia": {
+    "faintColorOnWhite": "rgba(59, 59, 59, 0.1)",
+    "goodColorOnBlack": "#949494",
+    "goodColorOnWhite": "#3B3B3B",
+    "palette": [
+      "#3b3b3b",
+      "#949494",
+      "#6c6c6c",
+      "#747474",
+      "#5e5e5e"
+    ],
+    "source": {
+      "path": "apps/social-amnesia/social-amnesia-icon.png",
+      "revHash": "9944ee8569"
+    }
+  },
   "socialcast": {
     "faintColorOnWhite": "rgba(35, 113, 153, 0.1)",
     "goodColorOnBlack": "#64B3DB",
