@@ -52,26 +52,44 @@ function getReadme(app) {
   }
 
   return github.repos
-    .getReadme(opts)
-    .then((release) => {
-      console.log(`${app.slug}: got latest README`)
-      output[app.slug] = {
-        readmeCleaned: cleanReadme(release.data, app),
-        readmeOriginal: release.data,
-        readmeFetchedAt: new Date(),
-      }
+    .get(opts)
+    .then((repository) => {
+      return repository.data.default_branch
     })
     .catch((err) => {
-      console.error(`${app.slug}: no README found`)
-      output[app.slug] = {
-        readmeOriginal: null,
-        readmeFetchedAt: new Date(),
+      if (err.status !== 404) {
+        console.error(`${app.slug}: Non 404 error`)
+        console.error(err)
       }
-      if (err.code !== 404) console.error(err)
+
+      return
+    })
+    .then((defaultBranch) => {
+      github.repos
+        .getReadme(opts)
+        .then((release) => {
+          console.log(`${app.slug}: got latest README`)
+          output[app.slug] = {
+            readmeCleaned: cleanReadme(release.data, defaultBranch, app),
+            readmeOriginal: release.data,
+            readmeFetchedAt: new Date(),
+          }
+        })
+        .catch((err) => {
+          console.error(`${app.slug}: no README found`)
+          output[app.slug] = {
+            readmeOriginal: null,
+            readmeFetchedAt: new Date(),
+          }
+          if (err.status !== 404) {
+            console.error(`${app.slug}: Non 404 error`)
+            console.error(err)
+          }
+        })
     })
 }
 
-function cleanReadme(readme, app) {
+function cleanReadme(readme, defaultBranch, app) {
   const $ = cheerio.load(readme)
 
   const $relativeImages = $('img').not('[src^="http"]')
@@ -80,7 +98,10 @@ function cleanReadme(readme, app) {
       `${app.slug}: updating ${$relativeImages.length} relative image URLs`
     )
     $relativeImages.each((i, img) => {
-      $(img).attr('src', `${app.repository}/raw/master/${$(img).attr('src')}`)
+      $(img).attr(
+        'src',
+        `${app.repository}/raw/${defaultBranch}/${$(img).attr('src')}`
+      )
     })
   }
 
@@ -90,7 +111,7 @@ function cleanReadme(readme, app) {
     $relativeLinks.each((i, link) => {
       $(link).attr(
         'href',
-        `${app.repository}/blob/master/${$(link).attr('href')}`
+        `${app.repository}/blob/${defaultBranch}/${$(link).attr('href')}`
       )
     })
   }
