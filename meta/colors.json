@@ -3343,6 +3343,22 @@
       "revHash": "5519860235"
     }
   },
+  "elephicon": {
+    "faintColorOnWhite": "rgba(4, 96, 234, 0.1)",
+    "goodColorOnBlack": "#049AF3",
+    "goodColorOnWhite": "#0460EA",
+    "palette": [
+      "#fafbfb",
+      "#049af3",
+      "#0460ea",
+      "#5eaae3",
+      "#66d1fc"
+    ],
+    "source": {
+      "path": "apps/elephicon/elephicon-icon.png",
+      "revHash": "ad3ce5cd84"
+    }
+  },
   "elite-journal": {
     "faintColorOnWhite": "rgba(72, 59, 73, 0.1)",
     "goodColorOnBlack": "#FA9C4E",
