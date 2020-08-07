@@ -2687,6 +2687,22 @@
       "revHash": "a13e33b022"
     }
   },
+  "demoflow": {
+    "faintColorOnWhite": "rgba(2, 116, 163, 0.1)",
+    "goodColorOnBlack": "#04B4FC",
+    "goodColorOnWhite": "#0274A3",
+    "palette": [
+      "#04b4fc",
+      "#34c2fc",
+      "#1ebcfc",
+      "#14b9fc",
+      "#04c4fc"
+    ],
+    "source": {
+      "path": "apps/demoflow/demoflow-icon.png",
+      "revHash": "e3307d96fd"
+    }
+  },
   "deplify": {
     "faintColorOnWhite": "rgba(19, 61, 115, 0.1)",
     "goodColorOnBlack": "#7C94B4",
