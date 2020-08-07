@@ -1,6 +1,6 @@
 name: CLtracer
 description: GPU profiling and optimization on all OpenCL platforms.
-website: https://www.cltracer.com/
+website: https://www.cltracer.com
 category: Developer Tools
 keywords:
   - OpenCL
