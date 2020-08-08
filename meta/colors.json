@@ -1711,6 +1711,22 @@
       "revHash": "ed62f1bcbb"
     }
   },
+  "cltracer": {
+    "faintColorOnWhite": "rgba(47, 111, 169, 0.1)",
+    "goodColorOnBlack": "#347CBC",
+    "goodColorOnWhite": "#2F6FA9",
+    "palette": [
+      "#347cbc",
+      "#34bc7c",
+      "#34bcbc",
+      "#3488c0",
+      "#3488c0"
+    ],
+    "source": {
+      "path": "apps/cltracer/cltracer-icon.png",
+      "revHash": "b90af6abdf"
+    }
+  },
   "cocos-creator": {
     "faintColorOnWhite": "rgba(109, 117, 121, 0.1)",
     "goodColorOnBlack": "#899195",
