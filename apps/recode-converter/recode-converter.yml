@@ -1,0 +1,22 @@
+name: Recode Converter
+description: Modern & simple audio converter for video files.
+website: https://murgatt.github.io/recode-converter/
+category: Photo & Video
+repository: https://github.com/murgatt/recode-converter
+keywords:
+  - converter
+  - audio converter
+  - video converter
+  - audio codec
+  - ffmpeg
+locales:
+  - en-US
+  - fr-FR
+license: MIT
+goodColorOnWhite: '#6246ea'
+goodColorOnBlack: '#7f5af0'
+screenshots:
+  - imageUrl: 'https://murgatt.github.io/recode-converter/img/app.png'
+    caption: 'Dark Theme'
+  - imageUrl: 'https://murgatt.github.io/recode-converter/img/app-light.png'
+    caption: 'Light Theme'
