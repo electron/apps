@@ -10175,6 +10175,22 @@
       "revHash": "7c16743521"
     }
   },
+  "recode-converter": {
+    "faintColorOnWhite": "rgba(73, 53, 168, 0.1)",
+    "goodColorOnBlack": "#9C84F4",
+    "goodColorOnWhite": "#4935A8",
+    "palette": [
+      "#fbfbfb",
+      "#4935a8",
+      "#8c8ca9",
+      "#9c84f4",
+      "#9991ac"
+    ],
+    "source": {
+      "path": "apps/recode-converter/recode-converter-icon.png",
+      "revHash": "28cc6d7275"
+    }
+  },
   "recollectr": {
     "faintColorOnWhite": "rgba(47, 88, 116, 0.1)",
     "goodColorOnBlack": "#8CACB9",
