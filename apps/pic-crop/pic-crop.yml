@@ -1,0 +1,8 @@
+name: Pic Crop
+description: App to crop images.
+website: https://github.com/ujw0l/pic-crop
+category: Photo & Video
+repository: https://github.com/ujw0l/pic-crop
+keywords:
+  - Image crop
+license: MIT
