@@ -1,0 +1,17 @@
+name: Invizi
+description: Private Cryptocurrency Tracker
+website: https://invizi.co/
+category: Finance
+repository: https://github.com/invizi/invizi/
+youtube_video_url: https://www.youtube.com/watch?v=nJ6OPCZb1zs
+keywords:
+  - private cryptocurrency tracker
+  - privacy
+  - crypto portfolio
+  - bitcoin
+license: GPLv3
+screenshots:
+  - imageUrl: 'https://invizi.co/images/invizi-crypto-tracker-main-dashboard.png'
+    caption: 'Historical Balance'
+  - imageUrl: 'https://invizi.co/images/invizi-private-crypto-tracker-coin-balance.png'
+    caption: 'Portfolio Allocation'
