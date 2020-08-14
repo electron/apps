@@ -1,7 +1,6 @@
 name: Beekeeper Studio
 description:
-  Open Source SQL Editor and Database Manager that is smooth, fast, and nice to
-  use.
+  Open Source SQL Editor and Database Manager for Linux, Mac, and Windows.
 website: https://www.beekeeperstudio.io
 category: Developer Tools
 repository: https://github.com/beekeeper-studio/beekeeper-studio
