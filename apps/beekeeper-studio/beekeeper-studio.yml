@@ -1,0 +1,31 @@
+name: Beekeeper Studio
+description:
+  Open Source SQL Editor and Database Manager that is smooth, fast, and nice to
+  use.
+website: https://www.beekeeperstudio.io
+category: Developer Tools
+repository: https://github.com/beekeeper-studio/beekeeper-studio
+snapcraftName: beekeeper-studio
+keywords:
+  - sql
+  - mysql
+  - postgres
+  - sql-server
+  - sqlite
+  - linux
+  - mac
+  - windows
+license: MIT
+screenshots:
+  - imageUrl: 'https://www.beekeeperstudio.io/static/screenshots/main-dark.png'
+    caption: 'Beekeeper Studio SQL Editor Dark Mode Interface'
+    imageLink: 'https://www.beekeeperstudio.io'
+  - imageUrl: 'https://www.beekeeperstudio.io/static/screenshots/main-light.png'
+    caption: 'Beekeeper Studio SQL Editor Light Interface'
+    imageLink: 'https://www.beekeeperstudio.io'
+  - imageUrl: 'https://www.beekeeperstudio.io/static/screenshots/connection-dark.png'
+    caption: 'Beekeeper Studio SQL Editor Connect To a Database'
+    imageLink: 'https://www.beekeeperstudio.io'
+  - imageUrl: 'https://www.beekeeperstudio.io/static/screenshots/view-dark.png'
+    caption: 'Beekeeper Studio SQL Editor View and Edit Tables'
+    imageLink: 'https://www.beekeeperstudio.io'
