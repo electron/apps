@@ -1711,6 +1711,22 @@
       "revHash": "ed62f1bcbb"
     }
   },
+  "cltracer": {
+    "faintColorOnWhite": "rgba(47, 111, 169, 0.1)",
+    "goodColorOnBlack": "#347CBC",
+    "goodColorOnWhite": "#2F6FA9",
+    "palette": [
+      "#347cbc",
+      "#34bc7c",
+      "#34bcbc",
+      "#3488c0",
+      "#3488c0"
+    ],
+    "source": {
+      "path": "apps/cltracer/cltracer-icon.png",
+      "revHash": "b90af6abdf"
+    }
+  },
   "cocos-creator": {
     "faintColorOnWhite": "rgba(109, 117, 121, 0.1)",
     "goodColorOnBlack": "#899195",
@@ -2687,6 +2703,22 @@
       "revHash": "a13e33b022"
     }
   },
+  "demoflow": {
+    "faintColorOnWhite": "rgba(2, 116, 163, 0.1)",
+    "goodColorOnBlack": "#04B4FC",
+    "goodColorOnWhite": "#0274A3",
+    "palette": [
+      "#04b4fc",
+      "#34c2fc",
+      "#1ebcfc",
+      "#14b9fc",
+      "#04c4fc"
+    ],
+    "source": {
+      "path": "apps/demoflow/demoflow-icon.png",
+      "revHash": "e3307d96fd"
+    }
+  },
   "deplify": {
     "faintColorOnWhite": "rgba(19, 61, 115, 0.1)",
     "goodColorOnBlack": "#7C94B4",
@@ -3341,6 +3373,22 @@
     "source": {
       "path": "apps/elements/elements-icon.png",
       "revHash": "5519860235"
+    }
+  },
+  "elephicon": {
+    "faintColorOnWhite": "rgba(4, 96, 234, 0.1)",
+    "goodColorOnBlack": "#049AF3",
+    "goodColorOnWhite": "#0460EA",
+    "palette": [
+      "#fafbfb",
+      "#049af3",
+      "#0460ea",
+      "#5eaae3",
+      "#66d1fc"
+    ],
+    "source": {
+      "path": "apps/elephicon/elephicon-icon.png",
+      "revHash": "ad3ce5cd84"
     }
   },
   "elite-journal": {
@@ -10125,6 +10173,22 @@
     "source": {
       "path": "apps/rebaslight/rebaslight-icon.png",
       "revHash": "7c16743521"
+    }
+  },
+  "recode-converter": {
+    "faintColorOnWhite": "rgba(73, 53, 168, 0.1)",
+    "goodColorOnBlack": "#9C84F4",
+    "goodColorOnWhite": "#4935A8",
+    "palette": [
+      "#fbfbfb",
+      "#4935a8",
+      "#8c8ca9",
+      "#9c84f4",
+      "#9991ac"
+    ],
+    "source": {
+      "path": "apps/recode-converter/recode-converter-icon.png",
+      "revHash": "28cc6d7275"
     }
   },
   "recollectr": {
