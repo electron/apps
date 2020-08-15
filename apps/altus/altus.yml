@@ -1,8 +1,8 @@
 name: Altus
 description:
   'Desktop client for WhatsApp with themes and multiple account support'
-website: 'https://shadythgod.github.io/altus'
-repository: 'https://github.com/shadythgod/altus'
+website: 'https://amanharwara.xyz/altus'
+repository: 'https://github.com/amanharwara/altus'
 keywords:
   - altus
   - chat
@@ -16,4 +16,3 @@ screenshots:
     caption: 'Default Theme'
   - imageUrl: 'https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-Dark-Theme.png'
     caption: 'Dark Theme'
-disabled: true # Dead link(s): https://shadythgod.github.io/altus
