@@ -5375,6 +5375,22 @@
       "revHash": "26d44a323c"
     }
   },
+  "invizi": {
+    "faintColorOnWhite": "rgba(56, 105, 116, 0.1)",
+    "goodColorOnBlack": "#5BE1F9",
+    "goodColorOnWhite": "#386974",
+    "palette": [
+      "#242424",
+      "#5be1f9",
+      "#386974",
+      "#3c848c",
+      "#345454"
+    ],
+    "source": {
+      "path": "apps/invizi/invizi-icon.png",
+      "revHash": "2cc6b0b4c1"
+    }
+  },
   "ionic-creator": {
     "faintColorOnWhite": "rgba(7, 101, 232, 0.1)",
     "goodColorOnBlack": "#9CC4FC",
