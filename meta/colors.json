@@ -831,6 +831,22 @@
       "revHash": "d9ca92e523"
     }
   },
+  "beekeeper-studio": {
+    "faintColorOnWhite": "rgba(124, 108, 28, 0.1)",
+    "goodColorOnBlack": "#FBD33B",
+    "goodColorOnWhite": "#7C6C1C",
+    "palette": [
+      "#040404",
+      "#fbd33b",
+      "#9c8424",
+      "#7c6c1c",
+      "#bc9c2c"
+    ],
+    "source": {
+      "path": "apps/beekeeper-studio/beekeeper-studio-icon.png",
+      "revHash": "4525654f38"
+    }
+  },
   "biblio": {
     "faintColorOnWhite": "rgba(36, 36, 60, 0.1)",
     "goodColorOnBlack": "#747C84",
