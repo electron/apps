@@ -367,6 +367,22 @@
       "revHash": "153dea963c"
     }
   },
+  "amialive": {
+    "faintColorOnWhite": "rgba(10, 113, 183, 0.1)",
+    "goodColorOnBlack": "#F36334",
+    "goodColorOnWhite": "#0A71B7",
+    "palette": [
+      "#0a71b7",
+      "#fbfbfb",
+      "#f36334",
+      "#5cacf3",
+      "#8c94ac"
+    ],
+    "source": {
+      "path": "apps/amialive/amialive-icon.png",
+      "revHash": "412c4c7028"
+    }
+  },
   "amipwned": {
     "faintColorOnWhite": "rgba(4, 122, 106, 0.1)",
     "goodColorOnBlack": "#04B79F",
