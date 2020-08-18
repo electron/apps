@@ -1,0 +1,13 @@
+name: Arizona
+description: Personal assistant and spotify mini-player.
+website: https://strnadchristopher.github.io/arizonaPage/
+category: Entertainment
+repository: https://github.com/strnadchristopher/arizona
+keywords:
+  - ai
+  - music
+  - spotify
+  - weather
+  - siri
+  - cortana
+license: GPL-3.0
