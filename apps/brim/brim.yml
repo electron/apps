@@ -1,0 +1,19 @@
+name: Brim
+description:
+  Desktop application to efficiently search large packet captures and Zeek logs.
+website: https://www.brimsecurity.com
+category: Utilities
+repository: https://github.com/brimsec/brim
+keywords:
+  - zeek
+  - pcap
+  - wireshark
+  - logs
+license: BSD-3-Clause License
+youtube_video_url: https://youtu.be/InT-7WZ5Y2Y
+screenshots:
+  - imageUrl: 'https://www.brimsecurity.com/screenshots/query-during-ingest.png'
+    caption: 'Query generated zeek logs during ingest'
+  - imageUrl: 'https://www.brimsecurity.com/screenshots/detailed-connection-info.png'
+    caption:
+      'View detailed connection information and open connections in wireshark'
