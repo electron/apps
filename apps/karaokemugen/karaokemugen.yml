@@ -1,0 +1,24 @@
+name: Karaoke Mugen
+description:
+  'Karaoke session manager and player for parties and events'
+website: 'https://mugen.karaokes.moe'
+license: MIT
+repository: 'https://lab.shelter.moe/karaokemugen/karaokemugen-app'
+screenshots:
+  - 
+    imageUrl: 'https://mugen.karaokes.moe/images/presentation.png',
+    imageLink: 'https://mugen.karaokes.moe'
+  - 
+    imageUrl: 'https://mugen.karaokes.moe/images/features/admin.png'
+    imageLink: 'https://mugen.karaokes.moe'
+  - 
+    imageUrl: 'https://mugen.karaokes.moe/images/features/options.png'
+    imageLink: 'https://mugen.karaokes.moe'
+keywords:
+  - karaoke
+  - video
+  - mpv
+locales:
+  - en-US
+  - fr-FR
+category: Entertainment
