@@ -367,6 +367,22 @@
       "revHash": "153dea963c"
     }
   },
+  "amialive": {
+    "faintColorOnWhite": "rgba(10, 113, 183, 0.1)",
+    "goodColorOnBlack": "#F36334",
+    "goodColorOnWhite": "#0A71B7",
+    "palette": [
+      "#0a71b7",
+      "#fbfbfb",
+      "#f36334",
+      "#5cacf3",
+      "#8c94ac"
+    ],
+    "source": {
+      "path": "apps/amialive/amialive-icon.png",
+      "revHash": "412c4c7028"
+    }
+  },
   "amipwned": {
     "faintColorOnWhite": "rgba(4, 122, 106, 0.1)",
     "goodColorOnBlack": "#04B79F",
@@ -829,6 +845,22 @@
     "source": {
       "path": "apps/bearychat/bearychat-icon.png",
       "revHash": "d9ca92e523"
+    }
+  },
+  "beekeeper-studio": {
+    "faintColorOnWhite": "rgba(124, 108, 28, 0.1)",
+    "goodColorOnBlack": "#FBD33B",
+    "goodColorOnWhite": "#7C6C1C",
+    "palette": [
+      "#040404",
+      "#fbd33b",
+      "#9c8424",
+      "#7c6c1c",
+      "#bc9c2c"
+    ],
+    "source": {
+      "path": "apps/beekeeper-studio/beekeeper-studio-icon.png",
+      "revHash": "4525654f38"
     }
   },
   "biblio": {
@@ -5373,6 +5405,22 @@
     "source": {
       "path": "apps/intu-mind/intu-mind-icon.png",
       "revHash": "26d44a323c"
+    }
+  },
+  "invizi": {
+    "faintColorOnWhite": "rgba(56, 105, 116, 0.1)",
+    "goodColorOnBlack": "#5BE1F9",
+    "goodColorOnWhite": "#386974",
+    "palette": [
+      "#242424",
+      "#5be1f9",
+      "#386974",
+      "#3c848c",
+      "#345454"
+    ],
+    "source": {
+      "path": "apps/invizi/invizi-icon.png",
+      "revHash": "2cc6b0b4c1"
     }
   },
   "ionic-creator": {
