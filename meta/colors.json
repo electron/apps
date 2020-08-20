@@ -1039,6 +1039,22 @@
       "revHash": "8e449a37b6"
     }
   },
+  "brim": {
+    "faintColorOnWhite": "rgba(53, 112, 175, 0.1)",
+    "goodColorOnBlack": "#EB7954",
+    "goodColorOnWhite": "#3570AF",
+    "palette": [
+      "#3570af",
+      "#f3f3f3",
+      "#eb7954",
+      "#a3b7cc",
+      "#8c9cb4"
+    ],
+    "source": {
+      "path": "apps/brim/brim-icon.png",
+      "revHash": "08de28cfc1"
+    }
+  },
   "browser-dispatcher": {
     "faintColorOnWhite": "rgba(51, 72, 80, 0.1)",
     "goodColorOnBlack": "#2689AD",
