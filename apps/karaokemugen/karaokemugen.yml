@@ -6,7 +6,7 @@ license: MIT
 repository: 'https://lab.shelter.moe/karaokemugen/karaokemugen-app'
 screenshots:
   - 
-    imageUrl: 'https://mugen.karaokes.moe/images/presentation.png',
+    imageUrl: 'https://mugen.karaokes.moe/images/presentation.png'
     imageLink: 'https://mugen.karaokes.moe/en'
   - 
     imageUrl: 'https://mugen.karaokes.moe/images/features/admin.png'
