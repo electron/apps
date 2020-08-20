@@ -1,0 +1,17 @@
+name: PanWriter
+description: "Markdown editor with pandoc integration and preview."
+website: 'https://panwriter.com'
+repository: 'https://github.com/mb21/panwriter'
+keywords:
+  - markdown
+  - pandoc
+  - cross-platform
+  - linux
+  - mac
+  - windows
+category: Productivity
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/mb21/panwriter/master/screenshot.png'
+    caption: 'PanWriter'
+  - imageUrl: 'https://raw.githubusercontent.com/mb21/panwriter/master/screenshot-export.png'
+    caption: 'Export to myriad formats via pandoc'
