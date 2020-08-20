@@ -1,6 +1,6 @@
 name: Karaoke Mugen
 description:
-  'Karaoke session manager and player for parties and events'
+  'Karaoke session manager and player for parties and events. Launch, ask your guests to connect to your app, and they can request songs to sing on the big screen.'
 website: 'https://mugen.karaokes.moe/en'
 license: MIT
 repository: 'https://lab.shelter.moe/karaokemugen/karaokemugen-app'
