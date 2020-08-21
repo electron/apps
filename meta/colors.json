@@ -1039,6 +1039,22 @@
       "revHash": "8e449a37b6"
     }
   },
+  "brim": {
+    "faintColorOnWhite": "rgba(53, 112, 175, 0.1)",
+    "goodColorOnBlack": "#EB7954",
+    "goodColorOnWhite": "#3570AF",
+    "palette": [
+      "#3570af",
+      "#f3f3f3",
+      "#eb7954",
+      "#a3b7cc",
+      "#8c9cb4"
+    ],
+    "source": {
+      "path": "apps/brim/brim-icon.png",
+      "revHash": "08de28cfc1"
+    }
+  },
   "browser-dispatcher": {
     "faintColorOnWhite": "rgba(51, 72, 80, 0.1)",
     "goodColorOnBlack": "#2689AD",
@@ -8639,6 +8655,22 @@
       "revHash": "d9cfbf57bc"
     }
   },
+  "panwriter": {
+    "faintColorOnWhite": "rgba(126, 87, 71, 0.1)",
+    "goodColorOnBlack": "#E6D8BC",
+    "goodColorOnWhite": "#7E5747",
+    "palette": [
+      "#e6d8bc",
+      "#342a29",
+      "#958377",
+      "#7e5747",
+      "#8c6c54"
+    ],
+    "source": {
+      "path": "apps/panwriter/panwriter-icon.png",
+      "revHash": "5be57062bc"
+    }
+  },
   "paperarxiv": {
     "faintColorOnWhite": "rgba(115, 42, 125, 0.1)",
     "goodColorOnBlack": "#BE9819",
@@ -11757,6 +11789,22 @@
     "source": {
       "path": "apps/stacker/stacker-icon.png",
       "revHash": "6283f281ee"
+    }
+  },
+  "stacks": {
+    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#050505",
+    "palette": [
+      "#050505",
+      "#fbfbfb",
+      "#a1a1a1",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/stacks/stacks-icon.png",
+      "revHash": "c067fa367b"
     }
   },
   "stamp": {
