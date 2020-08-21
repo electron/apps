@@ -8655,6 +8655,22 @@
       "revHash": "d9cfbf57bc"
     }
   },
+  "panwriter": {
+    "faintColorOnWhite": "rgba(126, 87, 71, 0.1)",
+    "goodColorOnBlack": "#E6D8BC",
+    "goodColorOnWhite": "#7E5747",
+    "palette": [
+      "#e6d8bc",
+      "#342a29",
+      "#958377",
+      "#7e5747",
+      "#8c6c54"
+    ],
+    "source": {
+      "path": "apps/panwriter/panwriter-icon.png",
+      "revHash": "5be57062bc"
+    }
+  },
   "paperarxiv": {
     "faintColorOnWhite": "rgba(115, 42, 125, 0.1)",
     "goodColorOnBlack": "#BE9819",
@@ -11773,6 +11789,22 @@
     "source": {
       "path": "apps/stacker/stacker-icon.png",
       "revHash": "6283f281ee"
+    }
+  },
+  "stacks": {
+    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#050505",
+    "palette": [
+      "#050505",
+      "#fbfbfb",
+      "#a1a1a1",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/stacks/stacks-icon.png",
+      "revHash": "c067fa367b"
     }
   },
   "stamp": {

@@ -1,5 +1,5 @@
 name: PanWriter
-description: "Markdown editor with pandoc integration and preview."
+description: 'Markdown editor with pandoc integration and preview.'
 website: 'https://panwriter.com'
 repository: 'https://github.com/mb21/panwriter'
 keywords:
