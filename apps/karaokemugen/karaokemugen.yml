@@ -1,0 +1,24 @@
+name: Karaoke Mugen
+description:
+  'Karaoke session manager and player for parties and events. Launch, ask your guests to connect to your app, and they can request songs to sing on the big screen.'
+website: 'https://mugen.karaokes.moe/en'
+license: MIT
+repository: 'https://lab.shelter.moe/karaokemugen/karaokemugen-app'
+screenshots:
+  - 
+    imageUrl: 'https://mugen.karaokes.moe/images/presentation.png'
+    imageLink: 'https://mugen.karaokes.moe/en'
+  - 
+    imageUrl: 'https://mugen.karaokes.moe/images/features/admin.png'
+    imageLink: 'https://mugen.karaokes.moe/en'
+  - 
+    imageUrl: 'https://mugen.karaokes.moe/images/features/options.png'
+    imageLink: 'https://mugen.karaokes.moe/en'
+keywords:
+  - karaoke
+  - video
+  - mpv
+locales:
+  - en-US
+  - fr-FR
+category: Entertainment
