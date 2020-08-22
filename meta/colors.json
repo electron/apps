@@ -559,6 +559,22 @@
       "revHash": "0f1ce0b125"
     }
   },
+  "arizona": {
+    "faintColorOnWhite": "rgba(45, 97, 166, 0.1)",
+    "goodColorOnBlack": "#2C9BB7",
+    "goodColorOnWhite": "#2D61A6",
+    "palette": [
+      "#2c9bb7",
+      "#4433a0",
+      "#2d61a6",
+      "#9cdc85",
+      "#7cd47c"
+    ],
+    "source": {
+      "path": "apps/arizona/arizona-icon.png",
+      "revHash": "b2822d9b1e"
+    }
+  },
   "asarui": {
     "faintColorOnWhite": "rgba(45, 46, 61, 0.1)",
     "goodColorOnBlack": "#F7FAFA",
@@ -5885,6 +5901,22 @@
     "source": {
       "path": "apps/kappo/kappo-icon.png",
       "revHash": "809b0febe8"
+    }
+  },
+  "karaokemugen": {
+    "faintColorOnWhite": "rgba(4, 108, 147, 0.1)",
+    "goodColorOnBlack": "#DA3D35",
+    "goodColorOnWhite": "#046C93",
+    "palette": [
+      "#046c93",
+      "#eef0f0",
+      "#da3d35",
+      "#728b9c",
+      "#474747"
+    ],
+    "source": {
+      "path": "apps/karaokemugen/karaokemugen-icon.png",
+      "revHash": "63d614b95a"
     }
   },
   "katana": {
