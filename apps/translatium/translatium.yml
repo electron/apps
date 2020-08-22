@@ -1,19 +1,22 @@
 name: Translatium
-description: 'Translate like a Pro'
-website: 'https://github.com/quanglam2807/translatium'
-repository: 'https://github.com/quanglam2807/translatium'
+description: 'Translate 100+ Languages like a Pro'
+website: 'https://atomery.com/translatium'
+repository: 'https://github.com/atomery/translatium'
 screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/translatium/b85a6a4693a289a1f97ad8d0597dd7d7eeff98c7/docs/images/translatium-screenshot.png'
-    caption: 'Translatium on macOS (Light theme)'
-  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/translatium/b85a6a4693a289a1f97ad8d0597dd7d7eeff98c7/docs/images/translatium-screenshot-2.png'
-    caption: 'Translatium on macOS (Dark theme)'
+  - imageUrl: 'https://storage.atomery.com/marketing/translatium/screenshot.png'
+    caption: 'Translatium (Light theme)'
+  - imageUrl: 'https://storage.atomery.com/marketing/translatium/screenshot-2.png'
+    caption: 'Translatium (Dark theme)'
 keywords:
-  - translator
-  - 'yandex translate'
-  - 'voice recognition'
-  - 'handwriting recognition'
-  - tts
-  - ocr
+  - 'google translate'
   - 'material design'
+  - 'optical character recognition'
+  - 'text-to-speech'
+  - 'voice recognition'
   - language
+  - languages
+  - ocr
+  - translate
+  - translator
+  - tts
 category: Productivity
