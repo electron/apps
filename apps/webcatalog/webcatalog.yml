@@ -3,30 +3,22 @@ description: 'Run Web Apps like Real Apps'
 website: 'https://atomery.com/webcatalog'
 repository: 'https://github.com/atomery/webcatalog'
 screenshots:
-    -
-        imageUrl: 'https://storage.atomery.com/marketing/webcatalog/main.png'
-        caption: 'WebCatalog - Run Web Apps like Real Apps'
-    -
-        imageUrl: 'https://storage.atomery.com/marketing/webcatalog/catalog.png'
-        caption: 'Catalog - Install apps quickly from our curated catalog'
-    -
-        imageUrl: 'https://storage.atomery.com/marketing/webcatalog/custom-apps.png'
-        caption: 'Custom Apps - Create apps easily from any websites'
-    -
-        imageUrl: 'https://storage.atomery.com/marketing/webcatalog//appview.png'
-        caption: 'AppView - Make any website works just like a real native app'
-    -
-        imageUrl: 'https://storage.atomery.com/marketing/webcatalog/workspace.png'
-        caption: 'Workspaces - Switch between multiple accounts/projects'
-    -
-        imageUrl: 'https://storage.atomery.com/marketing/webcatalog/notifications.png'
-        caption: 'Notifications - Control notifications with scheduling'
-    -
-        imageUrl: 'https://storage.atomery.com/marketing/webcatalog/customization.png'
-        caption: 'Customization - Make yourself at home with ad blocker, dark theme, browser engine selection and more!'
-    -
-        imageUrl: 'https://storage.atomery.com/marketing/webcatalog/browser-engines.png'
-        caption: 'Customization - Make yourself at home with ad blocker, dark theme, browser engine selection and more!'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/main.png'
+    caption: 'WebCatalog - Run Web Apps like Real Apps'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/catalog.png'
+    caption: 'Catalog - Install apps quickly from our curated catalog'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/custom-apps.png'
+    caption: 'Custom Apps - Create apps easily from any websites'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog//appview.png'
+    caption: 'AppView - Make any website works just like a real native app'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/workspace.png'
+    caption: 'Workspaces - Switch between multiple accounts/projects'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/notifications.png'
+    caption: 'Notifications - Control notifications with scheduling'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/customization.png'
+    caption: 'Customization - Make yourself at home with ad blocker, dark theme, browser engine selection and more!'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/browser-engines.png'
+    caption: 'Customization - Make yourself at home with ad blocker, dark theme, browser engine selection and more!'
 keywords:
     - 'app store'
     - 'create desktop app'
