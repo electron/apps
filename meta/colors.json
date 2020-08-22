@@ -879,6 +879,22 @@
       "revHash": "4525654f38"
     }
   },
+  "bibisco": {
+    "faintColorOnWhite": "rgba(5, 69, 5, 0.1)",
+    "goodColorOnBlack": "#FBF9F0",
+    "goodColorOnWhite": "#054505",
+    "palette": [
+      "#fbf9f0",
+      "#054505",
+      "#749474",
+      "#648c64",
+      "#517d51"
+    ],
+    "source": {
+      "path": "apps/bibisco/bibisco-icon.png",
+      "revHash": "2b869d6e0e"
+    }
+  },
   "biblio": {
     "faintColorOnWhite": "rgba(36, 36, 60, 0.1)",
     "goodColorOnBlack": "#747C84",
@@ -11263,6 +11279,22 @@
       "revHash": "a30135986e"
     }
   },
+  "singlebox": {
+    "faintColorOnWhite": "rgba(117, 21, 20, 0.1)",
+    "goodColorOnBlack": "#B97875",
+    "goodColorOnWhite": "#751514",
+    "palette": [
+      "#bb2b24",
+      "#faf9f9",
+      "#751514",
+      "#999494",
+      "#b97875"
+    ],
+    "source": {
+      "path": "apps/singlebox/singlebox-icon.png",
+      "revHash": "3ca0d27ff6"
+    }
+  },
   "sizzy": {
     "faintColorOnWhite": "rgba(100, 52, 184, 0.1)",
     "goodColorOnBlack": "#C25B73",
@@ -13152,19 +13184,19 @@
     }
   },
   "translatium": {
-    "faintColorOnWhite": "rgba(57, 122, 59, 0.1)",
-    "goodColorOnBlack": "#A2D4A4",
-    "goodColorOnWhite": "#397A3B",
+    "faintColorOnWhite": "rgba(59, 125, 62, 0.1)",
+    "goodColorOnBlack": "#499B4D",
+    "goodColorOnWhite": "#3B7D3E",
     "palette": [
-      "#4a9c4e",
-      "#ebebeb",
-      "#aabcac",
-      "#b4c2b4",
-      "#a2d4a4"
+      "#499b4d",
+      "#fbfbfb",
+      "#91a591",
+      "#acc5ac",
+      "#a1cca1"
     ],
     "source": {
       "path": "apps/translatium/translatium-icon.png",
-      "revHash": "84a4f0f2b6"
+      "revHash": "78bf5b6f40"
     }
   },
   "treevea": {
@@ -14240,19 +14272,19 @@
     }
   },
   "webcatalog": {
-    "faintColorOnWhite": "rgba(22, 104, 196, 0.1)",
-    "goodColorOnBlack": "#84BFEC",
-    "goodColorOnWhite": "#1668C4",
+    "faintColorOnWhite": "rgba(21, 103, 195, 0.1)",
+    "goodColorOnBlack": "#7CB4E4",
+    "goodColorOnWhite": "#1567C3",
     "palette": [
-      "#ebecec",
-      "#1668c4",
-      "#719ed4",
-      "#84bfec",
-      "#7c7c7c"
+      "#fafafb",
+      "#1567c3",
+      "#103d72",
+      "#6c93bb",
+      "#7cb4e4"
     ],
     "source": {
       "path": "apps/webcatalog/webcatalog-icon.png",
-      "revHash": "9110b627ae"
+      "revHash": "525e5b721b"
     }
   },
   "webkiosk-wrapper": {

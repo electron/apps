@@ -16,9 +16,13 @@ screenshots:
   - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/notifications.png'
     caption: 'Notifications - Control notifications with scheduling'
   - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/customization.png'
-    caption: 'Customization - Make yourself at home with ad blocker, dark theme, browser engine selection and more!'
+    caption:
+      'Customization - Make yourself at home with ad blocker, dark theme,
+      browser engine selection and more!'
   - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/browser-engines.png'
-    caption: 'Customization - Make yourself at home with ad blocker, dark theme, browser engine selection and more!'
+    caption:
+      'Customization - Make yourself at home with ad blocker, dark theme,
+      browser engine selection and more!'
 keywords:
   - 'app store'
   - 'create desktop app'
