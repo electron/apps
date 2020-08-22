@@ -1,0 +1,24 @@
+name: Singlebox
+description: 'All Your Apps in One Single Window.'
+website: 'https://atomery.com/singlebox'
+repository: 'https://github.com/atomery/singlebox'
+screenshots:
+  - imageUrl: 'https://storage.atomery.com/marketing/singlebox/main.png'
+    caption: 'Singlebox - All Your Apps in One Single Window'
+  - imageUrl: 'https://storage.atomery.com/marketing/singlebox/single-window.png'
+    caption: 'Single Window - Switch between multiple workspaces/apps quickly'
+  - imageUrl: 'https://storage.atomery.com/marketing/singlebox/catalog.png'
+    caption: 'Catalog - Add workspaces/apps quickly from our curated catalog'
+  - imageUrl: 'https://storage.atomery.com/marketing/singlebox/custom-apps.png'
+    caption: 'Custom Workspaces - Create workspaces easily from any websites'
+  - imageUrl: 'https://storage.atomery.com/marketing/singlebox/notifications.png'
+    caption: 'Notifications - Control notifications with scheduling'
+  - imageUrl: 'https://storage.atomery.com/marketing/singlebox/customization.png'
+    caption: 'Customization - Make yourself at home with ad blocker, dark theme, and more!'
+keywords:
+  - chat
+  - messaging
+  - browser
+  - 'all apps in one app'
+  - productivity
+category: Productivity
