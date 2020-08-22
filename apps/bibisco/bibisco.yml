@@ -5,7 +5,6 @@ description:
   and scenes, analyze the novel, set your goals and, of course, writing!.
 website: https://bibisco.com/
 category: Books
-repository: https://github.com/andreafeccomandi/bibisco/
 keywords:
   - novel writing software
   - character development software
@@ -26,6 +25,7 @@ locales:
   - tr
   - pt-PT
   - pt-BR
+youtube_video_url: https://youtu.be/2MyScbsA4oc
 screenshots:
   - imageUrl: 'https://bibisco.com/namari/images/gallery-images/texteditor.jpg'
     caption: 'Fully-featured text editor'
