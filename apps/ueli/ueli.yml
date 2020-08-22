@@ -3,8 +3,8 @@ description: 'This is a keystroke launcher for Windows and macOS.'
 website: 'https://ueli.app'
 repository: 'https://github.com/oliverschwendener/ueli'
 keywords:
-    - keystroke
-    - launcher
-    - search
+  - keystroke
+  - launcher
+  - search
 license: MIT
 category: Utilities

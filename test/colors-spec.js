@@ -37,7 +37,7 @@ describe('colors', function () {
         )
       )
       fs.chmodSync(iconPath, 511)
-      slugsAndIconPaths.push({'slug': colorName, iconPath})
+      slugsAndIconPaths.push({ slug: colorName, iconPath })
     }
 
     consoleError = sinon.stub(console, 'error')
@@ -46,7 +46,9 @@ describe('colors', function () {
 
   afterEach(() => {
     // remove the temporaries that were created in before()
-    for (const entry of fs.readdirSync(testDir)) { fs.unlinkSync(path.resolve(testDir, entry)) }
+    for (const entry of fs.readdirSync(testDir)) {
+      fs.unlinkSync(path.resolve(testDir, entry))
+    }
     fs.rmdirSync(testDir)
 
     consoleError.restore()
@@ -57,22 +59,33 @@ describe('colors', function () {
     // test input
     const entry = slugsAndIconPaths[0]
     const colors = await Colors.getColors([entry], {}, testDir)
-    colors.should
-      .have.keys(entry.slug)
-      .and
-      .property(entry.slug)
-        .has.all.keys('source', 'faintColorOnWhite', 'goodColorOnBlack', 'goodColorOnWhite', 'palette')
-        .and
-        .property('source')
-          .has.all.keys('path', 'revHash')
-          .and
-          .property('path')
-            .equals(path.basename(entry.iconPath))
+    colors.should.have
+      .keys(entry.slug)
+      .and.property(entry.slug)
+      .has.all.keys(
+        'source',
+        'faintColorOnWhite',
+        'goodColorOnBlack',
+        'goodColorOnWhite',
+        'palette'
+      )
+      .and.property('source')
+      .has.all.keys('path', 'revHash')
+      .and.property('path')
+      .equals(path.basename(entry.iconPath))
   }).timeout(5000)
 
   it('should add an entry when a new app is added', async () => {
-    const oldColors = await Colors.getColors(slugsAndIconPaths.slice(0, 1), {}, testDir)
-    const newColors = await Colors.getColors(slugsAndIconPaths.slice(0, 2), oldColors, testDir)
+    const oldColors = await Colors.getColors(
+      slugsAndIconPaths.slice(0, 1),
+      {},
+      testDir
+    )
+    const newColors = await Colors.getColors(
+      slugsAndIconPaths.slice(0, 2),
+      oldColors,
+      testDir
+    )
     // newColors should be a superset of oldColors
     newColors.should.deep.contain(oldColors)
     oldColors.should.not.deep.contain(newColors)
@@ -80,8 +93,16 @@ describe('colors', function () {
   })
 
   it('should remove an entry when an app is removed', async () => {
-    const oldColors = await Colors.getColors(slugsAndIconPaths.slice(0, 2), {}, testDir)
-    const newColors = await Colors.getColors(slugsAndIconPaths.slice(0, 1), oldColors, testDir)
+    const oldColors = await Colors.getColors(
+      slugsAndIconPaths.slice(0, 2),
+      {},
+      testDir
+    )
+    const newColors = await Colors.getColors(
+      slugsAndIconPaths.slice(0, 1),
+      oldColors,
+      testDir
+    )
     // newColors should be a subset of oldColors
     newColors.should.not.deep.contain(oldColors)
     oldColors.should.deep.contain(newColors)
@@ -95,7 +116,7 @@ describe('colors', function () {
     expect(consoleInfo.callCount).to.equal(4)
   })
 
-  it('should skip entries whose icons are unreadable', async() => {
+  it('should skip entries whose icons are unreadable', async () => {
     const badEntry = slugsAndIconPaths[0]
     const goodEntry = slugsAndIconPaths[1]
     const input = [badEntry, goodEntry]
@@ -104,10 +125,7 @@ describe('colors', function () {
     fs.unlinkSync(badEntry.iconPath)
 
     const colors = await Colors.getColors(input, {}, testDir)
-    colors.should
-      .have.keys(goodEntry.slug)
-      .and
-      .not.have.keys(badEntry.slug)
+    colors.should.have.keys(goodEntry.slug).and.not.have.keys(badEntry.slug)
 
     expect(consoleError.callCount).to.equal(1)
     expect(consoleError.firstCall.args[0]).to.include(badEntry.iconPath)
@@ -115,18 +133,18 @@ describe('colors', function () {
     expect(consoleInfo.callCount).to.equal(1)
   })
 
-  it('should skip entries whose icons are unparsable', async() => {
-    const entries = slugsAndIconPaths.map(original => Object.create(original))
+  it('should skip entries whose icons are unparsable', async () => {
+    const entries = slugsAndIconPaths.map((original) => Object.create(original))
     const badEntry = entries[0]
     const goodEntry = entries[1]
     badEntry.iconPath = path.join(testDir, 'hello.png')
-    fs.writeFileSync(badEntry.iconPath, 'This is a text file! The file suffix is wrong!\n')
+    fs.writeFileSync(
+      badEntry.iconPath,
+      'This is a text file! The file suffix is wrong!\n'
+    )
 
     const colors = await Colors.getColors(entries, {}, testDir)
-    colors.should
-      .have.keys(goodEntry.slug)
-      .and
-      .not.have.keys(badEntry.slug)
+    colors.should.have.keys(goodEntry.slug).and.not.have.keys(badEntry.slug)
 
     expect(consoleError.callCount).to.equal(1)
     expect(consoleError.firstCall.args[0]).to.include(badEntry.iconPath)
@@ -134,11 +152,11 @@ describe('colors', function () {
     expect(consoleInfo.callCount).to.equal(2)
   })
 
-  it('should update revHashes when icon files change', async() => {
-    let entries = slugsAndIconPaths.map(original => Object.create(original))
+  it('should update revHashes when icon files change', async () => {
+    let entries = slugsAndIconPaths.map((original) => Object.create(original))
     const oldColors = await Colors.getColors(entries, {}, testDir)
 
-    entries = slugsAndIconPaths.map(original => Object.create(original))
+    entries = slugsAndIconPaths.map((original) => Object.create(original))
     const changedEntry = entries[0]
     const unchangedEntry = entries[1]
     changedEntry.iconPath = unchangedEntry.iconPath
@@ -146,7 +164,8 @@ describe('colors', function () {
 
     // the revHash on the unchanged entry should be unchanged
     expect(newColors)
-      .property(unchangedEntry.slug).to.deep.contain(oldColors[unchangedEntry.slug])
+      .property(unchangedEntry.slug)
+      .to.deep.contain(oldColors[unchangedEntry.slug])
 
     // the revHash on the changed entry should be different
     expect(newColors)

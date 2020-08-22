@@ -1,0 +1,13 @@
+name: Weltenschaft
+description: Open-source terrain generator.
+website: https://github.com/HoubkneghteS/Weltenschaft
+category: Graphics & Design
+repository: https://github.com/HoubkneghteS/Weltenschaft
+keywords:
+  - Terrain
+  - Map
+  - Procedural generation
+license: MIT
+locales:
+  - en
+  - de

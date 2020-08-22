@@ -2,6 +2,7 @@ name: 'WP Express'
 description: 'Rapid WordPress installer for local development'
 website: 'https://wpexpress.io/'
 keywords:
-    - wordpress
-    - productivity
+  - wordpress
+  - productivity
 category: Productivity
+disabled: true # Dead link(s): https://wpexpress.io/
