@@ -559,6 +559,22 @@
       "revHash": "0f1ce0b125"
     }
   },
+  "arizona": {
+    "faintColorOnWhite": "rgba(45, 97, 166, 0.1)",
+    "goodColorOnBlack": "#2C9BB7",
+    "goodColorOnWhite": "#2D61A6",
+    "palette": [
+      "#2c9bb7",
+      "#4433a0",
+      "#2d61a6",
+      "#9cdc85",
+      "#7cd47c"
+    ],
+    "source": {
+      "path": "apps/arizona/arizona-icon.png",
+      "revHash": "b2822d9b1e"
+    }
+  },
   "asarui": {
     "faintColorOnWhite": "rgba(45, 46, 61, 0.1)",
     "goodColorOnBlack": "#F7FAFA",
@@ -861,6 +877,22 @@
     "source": {
       "path": "apps/beekeeper-studio/beekeeper-studio-icon.png",
       "revHash": "4525654f38"
+    }
+  },
+  "bibisco": {
+    "faintColorOnWhite": "rgba(5, 69, 5, 0.1)",
+    "goodColorOnBlack": "#FBF9F0",
+    "goodColorOnWhite": "#054505",
+    "palette": [
+      "#fbf9f0",
+      "#054505",
+      "#749474",
+      "#648c64",
+      "#517d51"
+    ],
+    "source": {
+      "path": "apps/bibisco/bibisco-icon.png",
+      "revHash": "2b869d6e0e"
     }
   },
   "biblio": {
@@ -5887,6 +5919,22 @@
       "revHash": "809b0febe8"
     }
   },
+  "karaokemugen": {
+    "faintColorOnWhite": "rgba(4, 108, 147, 0.1)",
+    "goodColorOnBlack": "#DA3D35",
+    "goodColorOnWhite": "#046C93",
+    "palette": [
+      "#046c93",
+      "#eef0f0",
+      "#da3d35",
+      "#728b9c",
+      "#474747"
+    ],
+    "source": {
+      "path": "apps/karaokemugen/karaokemugen-icon.png",
+      "revHash": "63d614b95a"
+    }
+  },
   "katana": {
     "faintColorOnWhite": "rgba(4, 116, 156, 0.1)",
     "goodColorOnBlack": "#04A2F2",
@@ -8655,6 +8703,22 @@
       "revHash": "d9cfbf57bc"
     }
   },
+  "panwriter": {
+    "faintColorOnWhite": "rgba(126, 87, 71, 0.1)",
+    "goodColorOnBlack": "#E6D8BC",
+    "goodColorOnWhite": "#7E5747",
+    "palette": [
+      "#e6d8bc",
+      "#342a29",
+      "#958377",
+      "#7e5747",
+      "#8c6c54"
+    ],
+    "source": {
+      "path": "apps/panwriter/panwriter-icon.png",
+      "revHash": "5be57062bc"
+    }
+  },
   "paperarxiv": {
     "faintColorOnWhite": "rgba(115, 42, 125, 0.1)",
     "goodColorOnBlack": "#BE9819",
@@ -11215,6 +11279,22 @@
       "revHash": "a30135986e"
     }
   },
+  "singlebox": {
+    "faintColorOnWhite": "rgba(117, 21, 20, 0.1)",
+    "goodColorOnBlack": "#B97875",
+    "goodColorOnWhite": "#751514",
+    "palette": [
+      "#bb2b24",
+      "#faf9f9",
+      "#751514",
+      "#999494",
+      "#b97875"
+    ],
+    "source": {
+      "path": "apps/singlebox/singlebox-icon.png",
+      "revHash": "3ca0d27ff6"
+    }
+  },
   "sizzy": {
     "faintColorOnWhite": "rgba(100, 52, 184, 0.1)",
     "goodColorOnBlack": "#C25B73",
@@ -11773,6 +11853,22 @@
     "source": {
       "path": "apps/stacker/stacker-icon.png",
       "revHash": "6283f281ee"
+    }
+  },
+  "stacks": {
+    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#050505",
+    "palette": [
+      "#050505",
+      "#fbfbfb",
+      "#a1a1a1",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/stacks/stacks-icon.png",
+      "revHash": "c067fa367b"
     }
   },
   "stamp": {
@@ -13088,19 +13184,19 @@
     }
   },
   "translatium": {
-    "faintColorOnWhite": "rgba(57, 122, 59, 0.1)",
-    "goodColorOnBlack": "#A2D4A4",
-    "goodColorOnWhite": "#397A3B",
+    "faintColorOnWhite": "rgba(59, 125, 62, 0.1)",
+    "goodColorOnBlack": "#499B4D",
+    "goodColorOnWhite": "#3B7D3E",
     "palette": [
-      "#4a9c4e",
-      "#ebebeb",
-      "#aabcac",
-      "#b4c2b4",
-      "#a2d4a4"
+      "#499b4d",
+      "#fbfbfb",
+      "#91a591",
+      "#acc5ac",
+      "#a1cca1"
     ],
     "source": {
       "path": "apps/translatium/translatium-icon.png",
-      "revHash": "84a4f0f2b6"
+      "revHash": "78bf5b6f40"
     }
   },
   "treevea": {
@@ -14176,19 +14272,19 @@
     }
   },
   "webcatalog": {
-    "faintColorOnWhite": "rgba(22, 104, 196, 0.1)",
-    "goodColorOnBlack": "#84BFEC",
-    "goodColorOnWhite": "#1668C4",
+    "faintColorOnWhite": "rgba(21, 103, 195, 0.1)",
+    "goodColorOnBlack": "#7CB4E4",
+    "goodColorOnWhite": "#1567C3",
     "palette": [
-      "#ebecec",
-      "#1668c4",
-      "#719ed4",
-      "#84bfec",
-      "#7c7c7c"
+      "#fafafb",
+      "#1567c3",
+      "#103d72",
+      "#6c93bb",
+      "#7cb4e4"
     ],
     "source": {
       "path": "apps/webcatalog/webcatalog-icon.png",
-      "revHash": "9110b627ae"
+      "revHash": "525e5b721b"
     }
   },
   "webkiosk-wrapper": {

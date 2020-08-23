@@ -1,0 +1,61 @@
+name: bibisco
+description:
+  Novel writing software that helps you to write your novel, in a simple way.
+  Use bibisco to develop characters, design novel structure, organize chapters
+  and scenes, analyze the novel, set your goals and, of course, writing!.
+website: https://bibisco.com/
+category: Books
+repository: https://github.com/andreafeccomandi/bibisco/
+keywords:
+  - novel writing software
+  - character development software
+license: GNU GPL v3
+locales:
+  - en-US
+  - en-GB
+  - en-CA
+  - cs
+  - de
+  - es
+  - fr
+  - it
+  - nl
+  - pl
+  - ru
+  - sr
+  - tr
+  - pt-PT
+  - pt-BR
+screenshots:
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/texteditor.jpg'
+    caption: 'Fully-featured text editor'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/tips.jpg'
+    caption: 'Writing tips'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/architecture.jpg'
+    caption: 'Architecture of the novel'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/main-character.jpg'
+    caption: 'Main character develop'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/character_interview.jpg'
+    caption: 'Main character interview'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/characters.jpg'
+    caption: 'Characters management'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/location-images.jpg'
+    caption: 'Locations management'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/chapter_detail.jpg'
+    caption: 'Chapter detail'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/project_explorer.jpg'
+    caption: 'Project explorer'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/search.jpg'
+    caption: 'Search'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/timeline.jpg'
+    caption: 'Timeline'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/character_analysis.jpg'
+    caption: 'Character analysis'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/export-epub.jpg'
+    caption: 'Export epub'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/relations.jpg'
+    caption: 'Relations'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/project-stats.jpg'
+    caption: 'Project stats'
+  - imageUrl: 'https://bibisco.com/namari/images/gallery-images/history.jpg'
+    caption: 'Writing goals and performance'
