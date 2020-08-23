@@ -1,5 +1,5 @@
 name: clipboard-manager-electron
-description: 'simple clipboard manager with unlimited history on electron'
+description: 'Simple clipboard manager with unlimited history in IndexedDB.'
 website: 'https://github.com/morozovsk/unlimited-clipboard'
 category: Productivity
 repository: 'https://github.com/morozovsk/unlimited-clipboard.git'
