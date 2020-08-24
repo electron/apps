@@ -13647,6 +13647,22 @@
       "revHash": "d3f4aadb7b"
     }
   },
+  "unlimited-clipboard": {
+    "faintColorOnWhite": "rgba(129, 100, 129, 0.1)",
+    "goodColorOnBlack": "#F1EDF1",
+    "goodColorOnWhite": "#816481",
+    "palette": [
+      "#9c90a4",
+      "#f1edf1",
+      "#b3acbb",
+      "#c2bac7",
+      "#bcb4bc"
+    ],
+    "source": {
+      "path": "apps/unlimited-clipboard/unlimited-clipboard-icon.png",
+      "revHash": "84a429af99"
+    }
+  },
   "unofficial-zalo": {
     "faintColorOnWhite": "rgba(11, 117, 177, 0.1)",
     "goodColorOnBlack": "#0C83C6",
