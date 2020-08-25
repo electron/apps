@@ -10079,6 +10079,22 @@
       "revHash": "8ec202643e"
     }
   },
+  "quickredis": {
+    "faintColorOnWhite": "rgba(212, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FA0808",
+    "goodColorOnWhite": "#D40404",
+    "palette": [
+      "#d40404",
+      "#d80404",
+      "#d80404",
+      "#d80404",
+      "#d80404"
+    ],
+    "source": {
+      "path": "apps/quickredis/quickredis-icon.png",
+      "revHash": "4fc020f874"
+    }
+  },
   "quickwords": {
     "faintColorOnWhite": "rgba(18, 118, 156, 0.1)",
     "goodColorOnBlack": "#5CC4EC",
