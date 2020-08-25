@@ -8,4 +8,7 @@ keywords:
   - redis-client
   - redis-desktop
   - redis-gui
-
+screenshots:
+  - imageUrl: 'https://quick123.net/images/introduction/key-zset-value.png'
+  - imageUrl: 'https://quick123.net/images/introduction/host-menu.png'
+  - imageUrl: 'https://quick123.net/images/introduction/muti-language.png'
