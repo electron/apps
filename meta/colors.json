@@ -7983,6 +7983,22 @@
       "revHash": "e3b9dd3815"
     }
   },
+  "network-assembler": {
+    "faintColorOnWhite": "rgba(74, 124, 130, 0.1)",
+    "goodColorOnBlack": "#F3DA43",
+    "goodColorOnWhite": "#4A7C82",
+    "palette": [
+      "#1c1c1c",
+      "#739be8",
+      "#db545c",
+      "#f3da43",
+      "#4a7c82"
+    ],
+    "source": {
+      "path": "apps/network-assembler/network-assembler-icon.png",
+      "revHash": "cebd5aafec"
+    }
+  },
   "network-status-check": {
     "faintColorOnWhite": "rgba(68, 108, 228, 0.1)",
     "goodColorOnBlack": "#446CE4",
@@ -10061,6 +10077,22 @@
     "source": {
       "path": "apps/quickcalc/quickcalc-icon.png",
       "revHash": "8ec202643e"
+    }
+  },
+  "quickredis": {
+    "faintColorOnWhite": "rgba(212, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FA0808",
+    "goodColorOnWhite": "#D40404",
+    "palette": [
+      "#d40404",
+      "#d80404",
+      "#d80404",
+      "#d80404",
+      "#d80404"
+    ],
+    "source": {
+      "path": "apps/quickredis/quickredis-icon.png",
+      "revHash": "4fc020f874"
     }
   },
   "quickwords": {
@@ -13629,6 +13661,22 @@
     "source": {
       "path": "apps/unicopedia-plus/unicopedia-plus-icon.png",
       "revHash": "d3f4aadb7b"
+    }
+  },
+  "unlimited-clipboard": {
+    "faintColorOnWhite": "rgba(129, 100, 129, 0.1)",
+    "goodColorOnBlack": "#F1EDF1",
+    "goodColorOnWhite": "#816481",
+    "palette": [
+      "#9c90a4",
+      "#f1edf1",
+      "#b3acbb",
+      "#c2bac7",
+      "#bcb4bc"
+    ],
+    "source": {
+      "path": "apps/unlimited-clipboard/unlimited-clipboard-icon.png",
+      "revHash": "84a429af99"
     }
   },
   "unofficial-zalo": {
