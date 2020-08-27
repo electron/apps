@@ -26,6 +26,7 @@ locales:
   - tr
   - pt-PT
   - pt-BR
+youtube_video_url: https://youtu.be/2MyScbsA4oc
 screenshots:
   - imageUrl: 'https://bibisco.com/namari/images/gallery-images/texteditor.jpg'
     caption: 'Fully-featured text editor'
