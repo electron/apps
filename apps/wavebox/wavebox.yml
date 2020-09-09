@@ -1,4 +1,5 @@
 name: Wavebox
+disabled: true # Wavebox on electron (aka Wavebox Classic) has been sunset and the new Wavebox 10 is built directly on Chromium (https://github.com/wavebox/waveboxapp/issues/1133)
 description:
   'Previously WMail. Gmail, Google Inbox, Outlook, Office 365, Slack, Trello &
   more'
