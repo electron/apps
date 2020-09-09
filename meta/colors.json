@@ -4847,6 +4847,22 @@
       "revHash": "dcb58d926b"
     }
   },
+  "hashtag": {
+    "faintColorOnWhite": "rgba(44, 44, 52, 0.1)",
+    "goodColorOnBlack": "#FAD297",
+    "goodColorOnWhite": "#2C2C34",
+    "palette": [
+      "#2c2c34",
+      "#fad297",
+      "#9c7434",
+      "#949c9c",
+      "#8d9294"
+    ],
+    "source": {
+      "path": "apps/hashtag/hashtag-icon.png",
+      "revHash": "ebb4e67929"
+    }
+  },
   "hastyheroes": {
     "faintColorOnWhite": "rgba(140, 93, 211, 0.1)",
     "goodColorOnBlack": "#8C5DD3",
@@ -5376,19 +5392,19 @@
     }
   },
   "inkdrop": {
-    "faintColorOnWhite": "rgba(4, 5, 24, 0.1)",
-    "goodColorOnBlack": "#EA0475",
-    "goodColorOnWhite": "#040518",
+    "faintColorOnWhite": "rgba(118, 93, 214, 0.1)",
+    "goodColorOnBlack": "#A494E4",
+    "goodColorOnWhite": "#765DD6",
     "palette": [
-      "#ea0475",
-      "#040518",
-      "#04aac6",
-      "#f8f004",
-      "#f8f8f9"
+      "#fbfbfb",
+      "#777ddc",
+      "#769fd9",
+      "#b1b4e6",
+      "#a494e4"
     ],
     "source": {
       "path": "apps/inkdrop/inkdrop-icon.png",
-      "revHash": "36ff837812"
+      "revHash": "d7b49cd912"
     }
   },
   "inpad": {
@@ -9087,6 +9103,22 @@
       "revHash": "d05bef8cb8"
     }
   },
+  "pic-crop": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#040404",
+      "#fbfbfb",
+      "#4c4c4c",
+      "#444444",
+      "#3c3c3c"
+    ],
+    "source": {
+      "path": "apps/pic-crop/pic-crop-icon.png",
+      "revHash": "7cb7cd8896"
+    }
+  },
   "picpipe": {
     "faintColorOnWhite": "rgba(53, 53, 244, 0.1)",
     "goodColorOnBlack": "#7676F1",
@@ -11421,6 +11453,22 @@
     "source": {
       "path": "apps/slack-catchup/slack-catchup-icon.png",
       "revHash": "dbfdc9424d"
+    }
+  },
+  "slapdash": {
+    "faintColorOnWhite": "rgba(70, 46, 185, 0.1)",
+    "goodColorOnBlack": "#53A0FA",
+    "goodColorOnWhite": "#462EB9",
+    "palette": [
+      "#53a0fa",
+      "#fb93b5",
+      "#462eb9",
+      "#8c5fbf",
+      "#c46cb4"
+    ],
+    "source": {
+      "path": "apps/slapdash/slapdash-icon.png",
+      "revHash": "d6efc5f1e5"
     }
   },
   "sloth": {
