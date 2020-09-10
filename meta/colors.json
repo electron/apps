@@ -13487,6 +13487,22 @@
       "revHash": "f130bac4eb"
     }
   },
+  "tviewer": {
+    "faintColorOnWhite": "rgba(52, 52, 52, 0.1)",
+    "goodColorOnBlack": "#1BB0EB",
+    "goodColorOnWhite": "#343434",
+    "palette": [
+      "#343434",
+      "#1bb0eb",
+      "#f3f4f4",
+      "#1d87b5",
+      "#818282"
+    ],
+    "source": {
+      "path": "apps/tviewer/tviewer-icon.png",
+      "revHash": "8c97782034"
+    }
+  },
   "tweakstyle": {
     "faintColorOnWhite": "rgba(7, 128, 159, 0.1)",
     "goodColorOnBlack": "#04BAE5",
