@@ -13,11 +13,5 @@ keywords:
   - developer
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/SnipCommand/master/documentation/images/preview.png'
-    caption: 'Overview'
-    imageLink: 'https://github.com/gurayyarar/SnipCommand'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/gurayyarar/SnipCommand/master/documentation/images/preview.gif'
-    caption: 'Copy Command Snippet'
-    imageLink: 'https://github.com/gurayyarar/SnipCommand'
+  - imageUrl: 'https://raw.githubusercontent.com/gurayyarar/SnipCommand/master/documentation/images/preview.png'
+  - imageUrl: 'https://raw.githubusercontent.com/gurayyarar/SnipCommand/master/documentation/images/preview.gif'
