@@ -1,5 +1,6 @@
 name: 'Netron'
-description: 'Viewer for neural network, deep learning, and machine learning models'
+description:
+  'Viewer for neural network, deep learning, and machine learning models'
 website: 'https://www.lutzroeder.com/ai'
 repository: 'https://github.com/lutzroeder/netron'
 homebrewCaskName: netron
