@@ -287,6 +287,22 @@
       "revHash": "3725c4c9a7"
     }
   },
+  "aliasman": {
+    "faintColorOnWhite": "rgba(9, 4, 25, 0.1)",
+    "goodColorOnBlack": "#F33B2C",
+    "goodColorOnWhite": "#090419",
+    "palette": [
+      "#090419",
+      "#dfd7b8",
+      "#f33b2c",
+      "#768496",
+      "#66627c"
+    ],
+    "source": {
+      "path": "apps/aliasman/aliasman-icon.png",
+      "revHash": "c46b015c29"
+    }
+  },
   "allow2automate": {
     "faintColorOnWhite": "rgba(124, 92, 20, 0.1)",
     "goodColorOnBlack": "#FBCB2B",
