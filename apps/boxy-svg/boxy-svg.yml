@@ -1,0 +1,15 @@
+name: 'Boxy SVG'
+description: 'Scalable Vector Graphics (SVG) editor. For beginners as well as for professional web designers and web developers. On any device and operating system.'
+category: 'Graphics & Design'
+website: 'https://boxy-svg.com'
+snapcraftName: 'boxy-svg'
+keywords:
+  - svg
+  - vector
+  - editor
+  - graphics
+  - design
+  - images
+screenshots:
+  - imageUrl: 'https://upload.wikimedia.org/wikipedia/en/a/a0/Boxy-svg-screenshot-v3-42-4.png'
+    caption: 'Boxy SVG app'
