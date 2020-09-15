@@ -1087,6 +1087,22 @@
       "revHash": "8e449a37b6"
     }
   },
+  "boxy-svg": {
+    "faintColorOnWhite": "rgba(67, 103, 102, 0.1)",
+    "goodColorOnBlack": "#FABC4D",
+    "goodColorOnWhite": "#436766",
+    "palette": [
+      "#436766",
+      "#d4e6e2",
+      "#da6344",
+      "#fabc4d",
+      "#74bc5c"
+    ],
+    "source": {
+      "path": "apps/boxy-svg/boxy-svg-icon.png",
+      "revHash": "9a7eebd3fb"
+    }
+  },
   "brim": {
     "faintColorOnWhite": "rgba(53, 112, 175, 0.1)",
     "goodColorOnBlack": "#EB7954",
@@ -11709,6 +11725,22 @@
     "source": {
       "path": "apps/songriffer/songriffer-icon.png",
       "revHash": "cf1fe96856"
+    }
+  },
+  "sononym": {
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#080404",
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "source": {
+      "path": "apps/sononym/sononym-icon.png",
+      "revHash": "1ba0c15577"
     }
   },
   "soube": {

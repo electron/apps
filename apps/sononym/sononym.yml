@@ -1,5 +1,7 @@
 name: Sononym
-description: Cross-platform sample browser with several innovative features, such as similarity-based audio search and automatic sound categorization.  
+description:
+  Cross-platform sample browser with several innovative features, such as
+  similarity-based audio search and automatic sound categorization.
 website: https://www.sononym.net
 category: Productivity
 keywords:

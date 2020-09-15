@@ -1,5 +1,8 @@
 name: 'Boxy SVG'
-description: 'Scalable Vector Graphics (SVG) editor. For beginners as well as for professional web designers and web developers. On any device and operating system.'
+description:
+  'Scalable Vector Graphics (SVG) editor. For beginners as well as for
+  professional web designers and web developers. On any device and operating
+  system.'
 category: 'Graphics & Design'
 website: 'https://boxy-svg.com'
 snapcraftName: 'boxy-svg'
