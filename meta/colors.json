@@ -287,6 +287,22 @@
       "revHash": "3725c4c9a7"
     }
   },
+  "aliasman": {
+    "faintColorOnWhite": "rgba(9, 4, 25, 0.1)",
+    "goodColorOnBlack": "#F33B2C",
+    "goodColorOnWhite": "#090419",
+    "palette": [
+      "#090419",
+      "#dfd7b8",
+      "#f33b2c",
+      "#768496",
+      "#66627c"
+    ],
+    "source": {
+      "path": "apps/aliasman/aliasman-icon.png",
+      "revHash": "c46b015c29"
+    }
+  },
   "allow2automate": {
     "faintColorOnWhite": "rgba(124, 92, 20, 0.1)",
     "goodColorOnBlack": "#FBCB2B",
@@ -1069,6 +1085,22 @@
     "source": {
       "path": "apps/bootstrap-studio/bootstrap-studio-icon.png",
       "revHash": "8e449a37b6"
+    }
+  },
+  "boxy-svg": {
+    "faintColorOnWhite": "rgba(67, 103, 102, 0.1)",
+    "goodColorOnBlack": "#FABC4D",
+    "goodColorOnWhite": "#436766",
+    "palette": [
+      "#436766",
+      "#d4e6e2",
+      "#da6344",
+      "#fabc4d",
+      "#74bc5c"
+    ],
+    "source": {
+      "path": "apps/boxy-svg/boxy-svg-icon.png",
+      "revHash": "9a7eebd3fb"
     }
   },
   "brim": {
@@ -11693,6 +11725,22 @@
     "source": {
       "path": "apps/songriffer/songriffer-icon.png",
       "revHash": "cf1fe96856"
+    }
+  },
+  "sononym": {
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#080404",
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "source": {
+      "path": "apps/sononym/sononym-icon.png",
+      "revHash": "1ba0c15577"
     }
   },
   "soube": {
