@@ -1,8 +1,8 @@
 name: IPTVnator
-description: Video player for IPTV playlists
-website: http://github.com/4gray/iptvnator
+description: Video player for IPTV playlists.
+website: https://github.com/4gray/iptvnator
 category: Photo & Video
-repository: http://github.com/4gray/iptvnator
+repository: https://github.com/4gray/iptvnator
 keywords:
   - iptv
   - video
