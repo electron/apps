@@ -16,3 +16,4 @@ screenshots:
   - imageUrl: 'https://github.com/bismay4u/AppServer/blob/master/build/screenshot.png'
     caption: 'Screenshot 1'
     imageLink: 'https://github.com/bismay4u/AppServer'
+disabled: true # Using a version of Electron older than 3.x

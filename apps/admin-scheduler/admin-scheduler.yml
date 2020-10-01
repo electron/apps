@@ -2,3 +2,4 @@ name: adminScheduler
 description: Scheduling application for client/admin relationships
 website: https://github.com/danieltoorani/adminScheduler
 category: Productivity
+disabled: true # Using a version of Electron older than 3.x
