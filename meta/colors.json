@@ -2959,6 +2959,22 @@
       "revHash": "406c0e6d31"
     }
   },
+  "devsession-gui-starter": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#818181",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#040404",
+      "#818181",
+      "#545454",
+      "#404040",
+      "#4c4c4c"
+    ],
+    "source": {
+      "path": "apps/devsession-gui-starter/devsession-gui-starter-icon.png",
+      "revHash": "327cc09a37"
+    }
+  },
   "dext": {
     "faintColorOnWhite": "rgba(18, 108, 130, 0.1)",
     "goodColorOnBlack": "#06AAD3",
@@ -3997,6 +4013,22 @@
     "source": {
       "path": "apps/foco/foco-icon.png",
       "revHash": "b0f20456e7"
+    }
+  },
+  "focused-task": {
+    "faintColorOnWhite": "rgba(230, 37, 31, 0.1)",
+    "goodColorOnBlack": "#F15F47",
+    "goodColorOnWhite": "#E6251F",
+    "palette": [
+      "#e1e4de",
+      "#e6251f",
+      "#3778c6",
+      "#f15f47",
+      "#e97072"
+    ],
+    "source": {
+      "path": "apps/focused-task/focused-task-icon.png",
+      "revHash": "7a9da57a5a"
     }
   },
   "foda": {
@@ -5581,6 +5613,22 @@
     "source": {
       "path": "apps/iperius-console/iperius-console-icon.png",
       "revHash": "a72760e615"
+    }
+  },
+  "iptvnator": {
+    "faintColorOnWhite": "rgba(4, 60, 92, 0.1)",
+    "goodColorOnBlack": "#2184BB",
+    "goodColorOnWhite": "#043C5C",
+    "palette": [
+      "#041219",
+      "#2184bb",
+      "#043c5c",
+      "#0a2c3e",
+      "#144c6c"
+    ],
+    "source": {
+      "path": "apps/iptvnator/iptvnator-icon.png",
+      "revHash": "2187618c66"
     }
   },
   "ironnode": {
@@ -7725,6 +7773,22 @@
     "source": {
       "path": "apps/mr-noplay/mr-noplay-icon.png",
       "revHash": "24b77c5566"
+    }
+  },
+  "mrdclutterer": {
+    "faintColorOnWhite": "rgba(15, 15, 15, 0.1)",
+    "goodColorOnBlack": "#FAFAFA",
+    "goodColorOnWhite": "#0F0F0F",
+    "palette": [
+      "#0f0f0f",
+      "#fafafa",
+      "#a1a1a1",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/mrdclutterer/mrdclutterer-icon.png",
+      "revHash": "b5f1d6e421"
     }
   },
   "mstream": {
