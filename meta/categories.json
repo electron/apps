@@ -20,14 +20,14 @@
     "slug": "music"
   },
   {
+    "name": "Photo & Video",
+    "count": 51,
+    "slug": "photo-video"
+  },
+  {
     "name": "Social Networking",
     "count": 50,
     "slug": "social-networking"
-  },
-  {
-    "name": "Photo & Video",
-    "count": 50,
-    "slug": "photo-video"
   },
   {
     "name": "Games",
