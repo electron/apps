@@ -14,3 +14,4 @@ category: Music
 repository: 'https://github.com/xwartz/PupaFM'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/xwartz/PupaFM/master/screen.png'
+  disabled: true #Last updated more than 4 years ago (Aug. 2016)
