@@ -5615,6 +5615,22 @@
       "revHash": "a72760e615"
     }
   },
+  "iptvnator": {
+    "faintColorOnWhite": "rgba(4, 60, 92, 0.1)",
+    "goodColorOnBlack": "#2184BB",
+    "goodColorOnWhite": "#043C5C",
+    "palette": [
+      "#041219",
+      "#2184bb",
+      "#043c5c",
+      "#0a2c3e",
+      "#144c6c"
+    ],
+    "source": {
+      "path": "apps/iptvnator/iptvnator-icon.png",
+      "revHash": "2187618c66"
+    }
+  },
   "ironnode": {
     "faintColorOnWhite": "rgba(59, 110, 176, 0.1)",
     "goodColorOnBlack": "#54B8E0",
