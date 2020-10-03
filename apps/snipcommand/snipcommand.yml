@@ -1,0 +1,17 @@
+name: 'SnipCommand'
+description: 'Open source command snippets manager for organize and copy fast.'
+website: 'https://github.com/gurayyarar/SnipCommand'
+category: 'Developer Tools'
+repository: 'https://github.com/gurayyarar/SnipCommand'
+keywords:
+  - productivity
+  - snippet
+  - markdown
+  - command
+  - clipboard
+  - copy
+  - developer
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/gurayyarar/SnipCommand/master/documentation/images/preview.png'
+  - imageUrl: 'https://raw.githubusercontent.com/gurayyarar/SnipCommand/master/documentation/images/preview.gif'
