@@ -4671,6 +4671,22 @@
       "revHash": "c2407a50a7"
     }
   },
+  "google-assistant-unofficial-desktop-client": {
+    "faintColorOnWhite": "rgba(15, 96, 237, 0.1)",
+    "goodColorOnBlack": "#4484F3",
+    "goodColorOnWhite": "#0F60ED",
+    "palette": [
+      "#fbfbfb",
+      "#4484f3",
+      "#e38e1d",
+      "#e8d49d",
+      "#f48e89"
+    ],
+    "source": {
+      "path": "apps/google-assistant-unofficial-desktop-client/google-assistant-unofficial-desktop-client-icon.png",
+      "revHash": "257eab4035"
+    }
+  },
   "google-play-music-desktop-player": {
     "faintColorOnWhite": "rgba(136, 108, 2, 0.1)",
     "goodColorOnBlack": "#FCD027",
