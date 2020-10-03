@@ -287,6 +287,22 @@
       "revHash": "3725c4c9a7"
     }
   },
+  "aliasman": {
+    "faintColorOnWhite": "rgba(9, 4, 25, 0.1)",
+    "goodColorOnBlack": "#F33B2C",
+    "goodColorOnWhite": "#090419",
+    "palette": [
+      "#090419",
+      "#dfd7b8",
+      "#f33b2c",
+      "#768496",
+      "#66627c"
+    ],
+    "source": {
+      "path": "apps/aliasman/aliasman-icon.png",
+      "revHash": "c46b015c29"
+    }
+  },
   "allow2automate": {
     "faintColorOnWhite": "rgba(124, 92, 20, 0.1)",
     "goodColorOnBlack": "#FBCB2B",
@@ -1069,6 +1085,22 @@
     "source": {
       "path": "apps/bootstrap-studio/bootstrap-studio-icon.png",
       "revHash": "8e449a37b6"
+    }
+  },
+  "boxy-svg": {
+    "faintColorOnWhite": "rgba(67, 103, 102, 0.1)",
+    "goodColorOnBlack": "#FABC4D",
+    "goodColorOnWhite": "#436766",
+    "palette": [
+      "#436766",
+      "#d4e6e2",
+      "#da6344",
+      "#fabc4d",
+      "#74bc5c"
+    ],
+    "source": {
+      "path": "apps/boxy-svg/boxy-svg-icon.png",
+      "revHash": "9a7eebd3fb"
     }
   },
   "brim": {
@@ -2927,6 +2959,22 @@
       "revHash": "406c0e6d31"
     }
   },
+  "devsession-gui-starter": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#818181",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#040404",
+      "#818181",
+      "#545454",
+      "#404040",
+      "#4c4c4c"
+    ],
+    "source": {
+      "path": "apps/devsession-gui-starter/devsession-gui-starter-icon.png",
+      "revHash": "327cc09a37"
+    }
+  },
   "dext": {
     "faintColorOnWhite": "rgba(18, 108, 130, 0.1)",
     "goodColorOnBlack": "#06AAD3",
@@ -3967,6 +4015,22 @@
       "revHash": "b0f20456e7"
     }
   },
+  "focused-task": {
+    "faintColorOnWhite": "rgba(230, 37, 31, 0.1)",
+    "goodColorOnBlack": "#F15F47",
+    "goodColorOnWhite": "#E6251F",
+    "palette": [
+      "#e1e4de",
+      "#e6251f",
+      "#3778c6",
+      "#f15f47",
+      "#e97072"
+    ],
+    "source": {
+      "path": "apps/focused-task/focused-task-icon.png",
+      "revHash": "7a9da57a5a"
+    }
+  },
   "foda": {
     "faintColorOnWhite": "rgba(69, 76, 96, 0.1)",
     "goodColorOnBlack": "#80E6F6",
@@ -4605,6 +4669,22 @@
     "source": {
       "path": "apps/golem/golem-icon.png",
       "revHash": "c2407a50a7"
+    }
+  },
+  "google-assistant-unofficial-desktop-client": {
+    "faintColorOnWhite": "rgba(15, 96, 237, 0.1)",
+    "goodColorOnBlack": "#4484F3",
+    "goodColorOnWhite": "#0F60ED",
+    "palette": [
+      "#fbfbfb",
+      "#4484f3",
+      "#e38e1d",
+      "#e8d49d",
+      "#f48e89"
+    ],
+    "source": {
+      "path": "apps/google-assistant-unofficial-desktop-client/google-assistant-unofficial-desktop-client-icon.png",
+      "revHash": "257eab4035"
     }
   },
   "google-play-music-desktop-player": {
@@ -5549,6 +5629,22 @@
     "source": {
       "path": "apps/iperius-console/iperius-console-icon.png",
       "revHash": "a72760e615"
+    }
+  },
+  "iptvnator": {
+    "faintColorOnWhite": "rgba(4, 60, 92, 0.1)",
+    "goodColorOnBlack": "#2184BB",
+    "goodColorOnWhite": "#043C5C",
+    "palette": [
+      "#041219",
+      "#2184bb",
+      "#043c5c",
+      "#0a2c3e",
+      "#144c6c"
+    ],
+    "source": {
+      "path": "apps/iptvnator/iptvnator-icon.png",
+      "revHash": "2187618c66"
     }
   },
   "ironnode": {
@@ -7693,6 +7789,22 @@
     "source": {
       "path": "apps/mr-noplay/mr-noplay-icon.png",
       "revHash": "24b77c5566"
+    }
+  },
+  "mrdclutterer": {
+    "faintColorOnWhite": "rgba(15, 15, 15, 0.1)",
+    "goodColorOnBlack": "#FAFAFA",
+    "goodColorOnWhite": "#0F0F0F",
+    "palette": [
+      "#0f0f0f",
+      "#fafafa",
+      "#a1a1a1",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/mrdclutterer/mrdclutterer-icon.png",
+      "revHash": "b5f1d6e421"
     }
   },
   "mstream": {
@@ -11693,6 +11805,22 @@
     "source": {
       "path": "apps/songriffer/songriffer-icon.png",
       "revHash": "cf1fe96856"
+    }
+  },
+  "sononym": {
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#080404",
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "source": {
+      "path": "apps/sononym/sononym-icon.png",
+      "revHash": "1ba0c15577"
     }
   },
   "soube": {
