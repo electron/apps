@@ -3567,6 +3567,22 @@
       "revHash": "e4d4c5b9f9"
     }
   },
+  "enderframework": {
+    "faintColorOnWhite": "rgba(4, 73, 194, 0.1)",
+    "goodColorOnBlack": "#7CA4E4",
+    "goodColorOnWhite": "#0449C2",
+    "palette": [
+      "#0449c2",
+      "#202122",
+      "#dae2f1",
+      "#618ad2",
+      "#7ca4e4"
+    ],
+    "source": {
+      "path": "apps/enderframework/enderframework-icon.png",
+      "revHash": "5170be35b1"
+    }
+  },
   "englishextra-app": {
     "faintColorOnWhite": "rgba(212, 50, 50, 0.1)",
     "goodColorOnBlack": "#ECA4A4",
@@ -11677,6 +11693,22 @@
     "source": {
       "path": "apps/snipaway/snipaway-icon.png",
       "revHash": "39accdb9a2"
+    }
+  },
+  "snipcommand": {
+    "faintColorOnWhite": "rgba(4, 111, 189, 0.1)",
+    "goodColorOnBlack": "#047CD4",
+    "goodColorOnWhite": "#046FBD",
+    "palette": [
+      "#fafbfb",
+      "#047cd4",
+      "#4b9fde",
+      "#74b4e4",
+      "#2e91dc"
+    ],
+    "source": {
+      "path": "apps/snipcommand/snipcommand-icon.png",
+      "revHash": "e2388eff2c"
     }
   },
   "snipline": {
