@@ -1,0 +1,22 @@
+name: aliasman
+description: Multiplatform Alias manager to create and export your aliases.
+website: https://aliasman.site
+category: Utilities
+keywords:
+  - Aliasman
+  - aliases
+  - ubuntu
+  - mac
+  - developer
+  - import
+  - export
+screenshots:
+  - imageUrl: 'https://rtgstudios.in/aliasman/sc1.png'
+    caption: 'Aliasman UI'
+    imageLink: 'https://aliasman.site'
+  - imageUrl: 'https://rtgstudios.in/aliasman/sc2.png'
+    caption: 'Aliasman Add Aliases'
+    imageLink: 'https://aliasman.site'
+  - imageUrl: 'https://rtgstudios.in/aliasman/sc3.png'
+    caption: 'Aliasman Export import aliases'
+    imageLink: 'https://aliasman.site'

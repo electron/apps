@@ -1,0 +1,21 @@
+name: Mr.Dclutterer
+description: 'Minimal app that organize and rename files on the go.'
+website: 'https://github.com/deep5050/Mr.Dclutterer'
+category: Utilities
+repository: 'https://github.com/deep5050/Mr.Dclutterer'
+keywords:
+  - rename
+  - renaming
+  - file-organization
+  - file-management
+  - file-aggregation
+license: MIT
+screenshots:
+  - {
+      imageUrl: 'https://i.imgur.com/XbhWo01.png',
+      caption: 'Mr.Dclutterer main page',
+    }
+  - {
+      imageUrl: 'https://i.imgur.com/gP98Jyi.png',
+      caption: 'Mr.Dclutterer settings',
+    }

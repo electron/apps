@@ -1,0 +1,14 @@
+name: Sononym
+description:
+  Cross-platform sample browser with several innovative features, such as
+  similarity-based audio search and automatic sound categorization.
+website: https://www.sononym.net
+category: Productivity
+keywords:
+  - music
+  - productivity
+  - utilities
+screenshots:
+  - imageUrl: 'https://www.sononym.net/press/screenshots/sononym-screenshot-dark-01.png'
+    caption: 'Sononym screenshot'
+    imageLink: 'https://www.sononym.net'

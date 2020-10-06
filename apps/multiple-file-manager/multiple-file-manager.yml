@@ -1,7 +1,6 @@
 name: 'Multiple File Manager'
 description:
-  'Modify all of your files in a specified folder. Available for windows and
-  Linux'
+  'Modify your multiple files. Available for Windows, Linux, and macOS'
 repository: 'https://github.com/dhanyn10/multiple-file-manager'
 keywords:
   - file
