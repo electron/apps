@@ -1,0 +1,27 @@
+name: graSSHopper
+description: 'The free and easy SSH client that helps you to get work done.'
+website: https://grasshopper.coding.kiwi
+category: Developer Tools
+keywords:
+  - ssh
+  - client
+  - free
+  - codingkiwi
+  - windows
+  - linux
+  - portable
+  - explorer
+  - history
+  - chmod
+  - offline
+  - online
+  - vault
+  - credentials
+  - clipboard
+  - terminal
+  - sftp
+  - alias
+screenshots:
+  - imageUrl: 'https://grasshopper.coding.kiwi/img/client.png'
+goodColorOnWhite: '#162427'
+goodColorOnBlack: '#8fc255'
