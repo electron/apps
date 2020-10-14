@@ -12,6 +12,6 @@ keywords:
 license: MIT
 category: 'Photo & Video'
 screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/picturama/picturama/master/doc/picturama-screenshot.jpg'
+  - imageUrl: 'https://picturama.github.io/assets/picturama-screenshot.jpg'
 goodColorOnWhite: '#37474f'
 goodColorOnBlack: '#ff5722'
