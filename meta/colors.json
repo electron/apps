@@ -7567,6 +7567,22 @@
       "revHash": "6bbeb19fea"
     }
   },
+  "modeldba": {
+    "faintColorOnWhite": "rgba(57, 62, 232, 0.1)",
+    "goodColorOnBlack": "#8EB4FB",
+    "goodColorOnWhite": "#393EE8",
+    "palette": [
+      "#4d89f8",
+      "#f9fafc",
+      "#393ee8",
+      "#8eb4fb",
+      "#afc2fb"
+    ],
+    "source": {
+      "path": "apps/modeldba/modeldba-icon.png",
+      "revHash": "c867f12f20"
+    }
+  },
   "moderndeck": {
     "faintColorOnWhite": "rgba(3, 122, 176, 0.1)",
     "goodColorOnBlack": "#04A6EF",
@@ -14301,6 +14317,22 @@
     "source": {
       "path": "apps/vue-calc/vue-calc-icon.png",
       "revHash": "436fcc3469"
+    }
+  },
+  "vupc": {
+    "faintColorOnWhite": "rgba(44, 122, 85, 0.1)",
+    "goodColorOnBlack": "#44BC84",
+    "goodColorOnWhite": "#2C7A55",
+    "palette": [
+      "#44bc84",
+      "#48bc84",
+      "#48bc84",
+      "#48bc84",
+      "#48bc84"
+    ],
+    "source": {
+      "path": "apps/vupc/vupc-icon.png",
+      "revHash": "2c528b99cc"
     }
   },
   "vzl": {
