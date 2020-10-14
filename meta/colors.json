@@ -4495,6 +4495,22 @@
       "revHash": "e094a6f7e3"
     }
   },
+  "git-it": {
+    "faintColorOnWhite": "rgba(2, 107, 204, 0.1)",
+    "goodColorOnBlack": "#0484FC",
+    "goodColorOnWhite": "#026BCC",
+    "palette": [
+      "#f9fafc",
+      "#0484fc",
+      "#63b4fc",
+      "#3ca4fc",
+      "#2a98fc"
+    ],
+    "source": {
+      "path": "apps/git-it/git-it-icon.png",
+      "revHash": "65d7a83f25"
+    }
+  },
   "gitblade": {
     "faintColorOnWhite": "rgba(149, 102, 30, 0.1)",
     "goodColorOnBlack": "#E8C48C",
@@ -4813,6 +4829,22 @@
     "source": {
       "path": "apps/graphql-playground/graphql-playground-icon.png",
       "revHash": "2105cc95b8"
+    }
+  },
+  "grasshopper": {
+    "faintColorOnWhite": "rgba(76, 105, 44, 0.1)",
+    "goodColorOnBlack": "#83BA43",
+    "goodColorOnWhite": "#4C692C",
+    "palette": [
+      "#1a2228",
+      "#83ba43",
+      "#4c692c",
+      "#3c5426",
+      "#344424"
+    ],
+    "source": {
+      "path": "apps/grasshopper/grasshopper-icon.png",
+      "revHash": "00c19a15c4"
     }
   },
   "gravit-designer": {
