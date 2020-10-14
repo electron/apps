@@ -19,8 +19,12 @@ keywords:
   - credentials
   - clipboard
   - terminal
+  - pty
   - sftp
   - alias
+  - keyfile
+  - admin
+  - gui
 screenshots:
   - imageUrl: 'https://grasshopper.coding.kiwi/img/client.png'
 goodColorOnWhite: '#162427'
