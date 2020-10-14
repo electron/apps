@@ -8,3 +8,4 @@ keywords:
   - wallet
   - money
 category: 'Finance'
+disabled: true #Using "electron": "^1.7.2" https://github.com/devjin0617/ripplectron/blob/master/package.json
