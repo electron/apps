@@ -4502,13 +4502,13 @@
     "palette": [
       "#f9fafc",
       "#0484fc",
-      "#63b4fc",
-      "#3ca4fc",
-      "#2a98fc"
+      "#54acfc",
+      "#2494fc",
+      "#3ca4fc"
     ],
     "source": {
       "path": "apps/git-it/git-it-icon.png",
-      "revHash": "65d7a83f25"
+      "revHash": "3fc4074dd6"
     }
   },
   "gitblade": {
