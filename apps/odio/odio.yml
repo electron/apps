@@ -23,3 +23,5 @@ screenshots:
     imageLink: 'https://www.odio.io'
 
 license: MIT
+disabled: true
+disabledComment: 'disabled in Sat, 24 Oct 2020, because the app website link is no longer works ( https://www.strimio.com/ )'
