@@ -24,4 +24,6 @@ screenshots:
 
 license: MIT
 disabled: true
-disabledComment: 'disabled in Sat, 24 Oct 2020, because the app website link is no longer works ( https://www.odio.io )'
+disabledComment:
+  'disabled in Sat, 24 Oct 2020, because the app website link is no longer works
+  ( https://www.odio.io )'

@@ -8,4 +8,6 @@ repository: 'https://github.com/appetizermonster/hain'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/hainproject/hain/develop/docs/images/demo.gif'
 disabled: true
-disabledComment: 'disabled in Sat, 24 Oct 2020, because the electron version is older than 3.x ( "electron": "^2.0.0" )'
+disabledComment:
+  'disabled in Sat, 24 Oct 2020, because the electron version is older than 3.x
+  ( "electron": "^2.0.0" )'
