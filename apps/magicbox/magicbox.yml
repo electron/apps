@@ -1,0 +1,47 @@
+name: MagicBox
+description:
+  Organize your workspace, keep files optimized, prepare images for publishing.
+website: https://github.com/akatrukhin/MagicBox/releases
+repository: https://github.com/akatrukhin/MagicBox
+keywords:
+  - magic box
+  - minify
+  - images
+  - svg
+  - png
+  - jpg
+  - tiff
+  - gif
+  - webp
+  - sketch
+  - optimization
+  - productivity
+  - organizing
+  - designers tool
+  - front-end
+  - project development
+  - save space
+category: Developer Tools
+goodColorOnBlack: '#3bd6b4'
+license: 'CC BY-NC 4.0'
+locales:
+  - en-US
+screenshots:
+  - imageUrl: 'https://katrukhin.com/magic-box/screen-shot-3.png'
+    caption: 'Files import'
+    imageLink: 'https://github.com/akatrukhin/MagicBox/releases'
+  - imageUrl: 'https://katrukhin.com/magic-box/screen-shot-4.png'
+    caption: 'Project files preview'
+    imageLink: 'https://github.com/akatrukhin/MagicBox/releases'
+  - imageUrl: 'https://katrukhin.com/magic-box/screen-shot-6.png'
+    caption: 'File preview'
+    imageLink: 'https://github.com/akatrukhin/MagicBox/releases'
+  - imageUrl: 'https://katrukhin.com/magic-box/screen-shot-7.png'
+    caption: 'SVG image code'
+    imageLink: 'https://github.com/akatrukhin/MagicBox/releases'
+  - imageUrl: 'https://katrukhin.com/magic-box/screen-shot-8.png'
+    caption: 'Icon export'
+    imageLink: 'https://github.com/akatrukhin/MagicBox/releases'
+  - imageUrl: 'https://katrukhin.com/magic-box/screen-shot-9.png'
+    caption: 'Light/Dark Theme'
+    imageLink: 'https://github.com/akatrukhin/MagicBox/releases'
