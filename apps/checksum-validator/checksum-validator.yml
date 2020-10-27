@@ -16,3 +16,7 @@ screenshots:
 locales:
   - de
   - en
+disabled: true
+disabledComment:
+  'disabled in Sat, 24 Oct 2020, because the electron version is older than 3.x
+  ( "electron": "^2.0.10" )'

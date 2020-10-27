@@ -14,3 +14,7 @@ license: MIT
 category: Productivity
 screenshots:
   - imageUrl: 'https://github.com/alexanderepstein/Sandman/raw/master/assets/Usage.gif'
+disabled: true
+disabledComment:
+  'disabled in Sat, 24 Oct 2020, because the electron version is older than 3.x
+  ( "electron": "^1.8.8" )'
