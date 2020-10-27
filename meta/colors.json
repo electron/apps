@@ -8303,6 +8303,22 @@
       "revHash": "12827eef50"
     }
   },
+  "nimblenote": {
+    "faintColorOnWhite": "rgba(79, 79, 79, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#4F4F4F",
+    "palette": [
+      "#4f4f4f",
+      "#fbfbfb",
+      "#939393",
+      "#9c9c9c",
+      "#acacac"
+    ],
+    "source": {
+      "path": "apps/nimblenote/nimblenote-icon.png",
+      "revHash": "cc22188d1c"
+    }
+  },
   "node-red": {
     "faintColorOnWhite": "rgba(140, 4, 4, 0.1)",
     "goodColorOnBlack": "#C47C7C",
