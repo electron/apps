@@ -1,0 +1,14 @@
+name: Unofficial Desktop Client for Google Assistant
+description:
+  Google Assistant SDK powered unofficial desktop client for Google Assistant.
+website: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
+category: Productivity
+repository: https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client
+keywords:
+  - google-assistant
+  - google-assistant-sdk
+  - virtual-assistant
+  - desktop-assistant
+  - cross-platform
+license: Apache-2.0
+snapcraftName: g-assist

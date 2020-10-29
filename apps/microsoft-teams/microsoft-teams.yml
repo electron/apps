@@ -1,7 +1,8 @@
 name: 'Microsoft Teams'
-description: 'Platform that combines workplace chat, meetings, notes, and attachments.'
+description:
+  'Platform that combines workplace chat, meetings, notes, and attachments.'
 website: 'https://products.office.com/en-us/microsoft-teams/group-chat-software'
 license: Proprietary
 keywords:
-    - teams
+  - teams
 category: 'Business'

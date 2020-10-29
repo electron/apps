@@ -1,0 +1,22 @@
+name: Arena
+description: 'Tool for building amazing data visualization websites.'
+website: 'https://arena.360.cn'
+keywords:
+  - data visualization
+  - 3d
+category: Business
+screenshots:
+  - imageUrl: 'https://p1.ssl.qhimg.com/t017bc13a814dfa67b5.png'
+    caption: 'homepage'
+    imageLink: 'https://arena.360.cn'
+  - imageUrl: 'https://p3.ssl.qhimg.com/t01d6d15d680ad36b05.png'
+    caption: 'editor'
+    imageLink: 'https://arena.360.cn'
+  - imageUrl: 'https://p2.ssl.qhimg.com/t01f696b15288933931.png'
+    caption: 'editor-dataSource'
+    imageLink: 'https://arena.360.cn'
+  - imageUrl: 'https://p1.ssl.qhimg.com/t014fd2c468affa1fdf.png'
+    caption: 'editor-online'
+    imageLink: 'https://arena.360.cn'
+locales:
+  - zh-CN

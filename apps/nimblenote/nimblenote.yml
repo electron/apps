@@ -1,0 +1,14 @@
+name: nimblenote
+description: Simple keyboard-driven note taking.
+website: https://nimblenote.app
+repository: https://github.com/nimblenote/nimblenote
+snapcraftName: nimblenote
+category: Productivity
+keywords:
+  - notes
+  - note taking
+  - todo
+  - markdown
+  - react
+  - tasks
+  - keyboard

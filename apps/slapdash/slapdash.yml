@@ -1,0 +1,11 @@
+name: Slapdash
+description: The operating system for work.
+website: https://slapdash.com/
+category: Productivity
+screenshots:
+  - imageUrl: 'https://slapdash-static.s3-us-west-1.amazonaws.com/electron/screen-1.png'
+    imageLink: 'https://slapdash.com/'
+  - imageUrl: 'https://slapdash-static.s3-us-west-1.amazonaws.com/electron/screen-2.jpg'
+    imageLink: 'https://slapdash.com/'
+  - imageUrl: 'https://slapdash-static.s3-us-west-1.amazonaws.com/electron/screen-3.jpg'
+    imageLink: 'https://slapdash.com/'

@@ -4,15 +4,14 @@ website: 'https://about.mattermost.com/downloads/'
 repository: 'https://github.com/mattermost/desktop'
 homebrewCaskName: mattermost
 keywords:
-    - messaging
-    - collaboration
-    - chat
-    - chatops
-    - workstream collaboration
-    - p2p
-    - community
+  - messaging
+  - collaboration
+  - chat
+  - chatops
+  - workstream collaboration
+  - p2p
+  - community
 license: Apache-2.0
 category: 'Social Networking'
 screenshots:
-    -
-        imageUrl: 'https://user-images.githubusercontent.com/29708087/33394101-404e23e4-d50f-11e7-8fe5-99d4802a9768.png'
+  - imageUrl: 'https://user-images.githubusercontent.com/29708087/33394101-404e23e4-d50f-11e7-8fe5-99d4802a9768.png'

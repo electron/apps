@@ -4,6 +4,7 @@ website: 'https://github.com/fuzihaofzh/PaperArxiv'
 category: Education
 repository: 'https://github.com/fuzihaofzh/PaperArxiv'
 keywords:
-    - paper
-    - management
-    - notes
+  - paper
+  - management
+  - notes
+disabled: true # Using "electron": "~1.8.7" https://github.com/fuzihaofzh/PaperArxiv/blob/master/package.json

@@ -1,0 +1,13 @@
+name: T.Viewer
+description: Cross-platform Tizen Log Viewer.
+website: https://github.com/msaltnet/T.Viewer
+category: Developer Tools
+repository: https://github.com/msaltnet/T.Viewer
+keywords:
+  - tizen
+  - log
+  - viewer
+  - development
+screenshots:
+  - imageUrl: 'https://user-images.githubusercontent.com/9311990/89434866-0ac93b80-d77f-11ea-8edf-dcea680d6055.gif'
+    caption: T.Viewer Screenshot

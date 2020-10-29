@@ -1,16 +1,17 @@
 name: TasksQ
-description: 'Simple and easy Task management with co-workers, employees, friends or anyone else.'
+description:
+  'Simple and easy Task management with co-workers, employees, friends or anyone
+  else.'
 website: 'https://www.tasksq.com'
 screenshots:
-    -
-        imageUrl: 'https://www.tasksq.com/Content/img/tasksq-screenshot.png'
-        caption: 'TasksQ on Windows'
-        imageLink: 'https://www.tasksq.com'
+  - imageUrl: 'https://www.tasksq.com/Content/img/tasksq-screenshot.png'
+    caption: 'TasksQ on Windows'
+    imageLink: 'https://www.tasksq.com'
 keywords:
-    - 'tasks management'
-    - tasks
-    - tasksq
-    - 'tasks team'
-    - 'tasks chat'
-    - 'app store'
+  - 'tasks management'
+  - tasks
+  - tasksq
+  - 'tasks team'
+  - 'tasks chat'
+  - 'app store'
 category: Productivity

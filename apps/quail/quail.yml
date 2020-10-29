@@ -2,9 +2,8 @@ name: Quail
 description: 'Unofficial esa.io app'
 website: 'https://github.com/1000ch/quail'
 keywords:
-    - productivity
+  - productivity
 category: Productivity
 repository: 'https://github.com/1000ch/quail'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/1000ch/quail/master/demo.png'
+  - imageUrl: 'https://raw.githubusercontent.com/1000ch/quail/master/demo.png'

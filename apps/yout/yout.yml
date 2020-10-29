@@ -2,9 +2,9 @@ name: Yout
 description: 'The new way to watch your playlists from YouTube on desktop.'
 website: 'https://youtplayer.github.io/'
 keywords:
-    - yout
-    - player
-    - youtube
-    - desktop
-    - playlist
+  - yout
+  - player
+  - youtube
+  - desktop
+  - playlist
 category: 'Photo & Video'
