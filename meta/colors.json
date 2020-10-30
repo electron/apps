@@ -4127,6 +4127,22 @@
       "revHash": "8d46231a6d"
     }
   },
+  "frame": {
+    "faintColorOnWhite": "rgba(23, 63, 73, 0.1)",
+    "goodColorOnBlack": "#30859A",
+    "goodColorOnWhite": "#173F49",
+    "palette": [
+      "#173f49",
+      "#212c2c",
+      "#2c343d",
+      "#1f2c34",
+      "#1c3434"
+    ],
+    "source": {
+      "path": "apps/frame/frame-icon.png",
+      "revHash": "217f17cdef"
+    }
+  },
   "franz": {
     "faintColorOnWhite": "rgba(11, 113, 182, 0.1)",
     "goodColorOnBlack": "#79C4F7",
