@@ -10,8 +10,8 @@ keywords:
   - svelte
   - rxjs
   - desktop
-goodColorOnWhite: #2e3141
-goodColorOnBlack: #ffffff
+goodColorOnWhite: '#2e3141'
+goodColorOnBlack: '#ffffff'
 screenshots:
   - imageUrl: https://feugy.github.io/melodie/images/screenshot-ui-en.png
     caption: Album library
