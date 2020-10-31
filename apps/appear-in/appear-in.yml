@@ -13,4 +13,5 @@ license: Unlicense
 category: 'Social Networking'
 screenshots:
   - imageUrl: 'https://camo.githubusercontent.com/9c342459bfbbdf34e007cfc3d16d10dd595dc67b/68747470733a2f2f692e696d6775722e636f6d2f4f63534f6945692e6a7067'
-disabled: true # Link to website no longer works
+disabled: true
+disabledComment: 'disabled in Thu, 1 Oct 2020, because the link to the website no longer works'
