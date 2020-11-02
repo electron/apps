@@ -26,4 +26,6 @@ screenshots:
     caption: 'Allow2Automate on OSX'
     imageLink: 'https://github.com/Allow2/Allow2Automate'
 disabled: true
-disabledComment: 'disabled in Thu, 1 Oct 2020, because the electron version is older than 3.x ( "electron": "^2.0.7" )'
+disabledComment:
+  'disabled in Thu, 1 Oct 2020, because the electron version is older than 3.x (
+  "electron": "^2.0.7" )'

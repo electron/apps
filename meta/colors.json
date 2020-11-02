@@ -7183,6 +7183,22 @@
       "revHash": "4c65bc86a3"
     }
   },
+  "melodie": {
+    "faintColorOnWhite": "rgba(30, 36, 42, 0.1)",
+    "goodColorOnBlack": "#E2E2E2",
+    "goodColorOnWhite": "#1E242A",
+    "palette": [
+      "#1e242a",
+      "#e2e2e2",
+      "#717171",
+      "#848484",
+      "#8c8c8c"
+    ],
+    "source": {
+      "path": "apps/melodie/melodie-icon.png",
+      "revHash": "ccceef867a"
+    }
+  },
   "mercury": {
     "faintColorOnWhite": "rgba(148, 108, 4, 0.1)",
     "goodColorOnBlack": "#FBC604",
