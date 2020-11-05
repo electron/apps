@@ -1,0 +1,16 @@
+name: StudioTrans
+description: 'One-click subtitle recognition to speed up your creation.'
+website: 'https://trans.xinpianchang.com/'
+category: 'Productivity'
+keywords:
+  - subtitle
+  - caption
+  - editor
+  - video
+  - audio
+  - clip
+  - asr
+screenshots:
+  - imageUrl: 'https://trans.xinpianchang.com/img/screenshot.jpg'
+locales:
+  - zh-CN
