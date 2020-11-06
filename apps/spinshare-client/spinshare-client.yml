@@ -13,7 +13,7 @@ keywords:
   - vue
 license: GNU
 category: Music
-goodColorOnWhite: '#E22C78'
+goodColorOnWhite: '#D61D6A'
 goodColorOnBlack: '#E22C78'
 locales:
   - en
