@@ -1,0 +1,7 @@
+name: Meteorman
+description: DDP Client with GUI.
+website: https://github.com/antwaremx/meteorman
+category: Developer Tools
+repository: https://github.com/antwaremx/meteorman
+keywords:
+  - ddp-client
