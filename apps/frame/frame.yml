@@ -1,0 +1,35 @@
+name: Frame
+description: System-wide Web3 for macOS, Windows and Linux.
+website: https://frame.sh
+category: Utilities
+repository: 'https://github.com/floating/frame.git'
+keywords:
+  - frame
+  - ethereum
+  - decentralized
+  - cryptocurrency
+  - mac
+  - windows
+  - linux
+  - meta
+  - ether
+  - browser
+  - ledger
+  - trezor
+  - geth
+  - blockchain
+  - wallet
+  - mainnet
+  - testnet
+  - eth
+  - transaction
+  - signing
+  - sign
+  - warm
+  - mnemonic
+  - aragon
+license: GPL-3.0
+screenshots:
+  - imageUrl: 'https://frame.nyc3.cdn.digitaloceanspaces.com/Frame0-3-4.png'
+    caption: 'Frame 0.3.4'
+    imageLink: 'https://frame.sh'
