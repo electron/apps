@@ -1,9 +1,11 @@
-name: Cleaver
+name: Cleavr
 description: 'Simply provision, deploy, and manage servers, websites, and apps'
-website: 'https://cleaver.cloud'
+website: 'https://cleavr.io'
 category: 'Developer Tools'
 keywords:
   - 'Server provisioning'
+  - AdonisJS
+  - NodeJS
   - Laravel
   - WordPress
   - 'Jekyll deployments'
@@ -26,9 +28,9 @@ keywords:
   - Memcached
   - 'deploy desktop'
 screenshots:
-  - imageUrl: 'https://cleaver.cloud/images/slide-newserver.png'
+  - imageUrl: 'https://cleaver.cloud/images/newsite.png'
     caption: 'Quickly spin up a server for your site'
-    imageLink: 'https://cleaver.cloud'
-  - imageUrl: 'https://cleaver.cloud/images/deploy.png'
+    imageLink: 'https://cleavr.io'
+  - imageUrl: 'https://cleavr.io/images/slide-deployment.png'
     caption: 'Deploy your web apps'
-    imageLink: 'https://cleaver.cloud'
+    imageLink: 'https://cleavr.io'
