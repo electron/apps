@@ -16,3 +16,7 @@ license: MIT
 category: Utilities
 screenshots:
   - imageUrl: 'https://camo.githubusercontent.com/2924349c69dbcab6aa261e5eb51ba0d9cbe8b630/68747470733a2f2f692e696d6775722e636f6d2f6569394748444b2e706e67'
+disabled: true
+disabledComment:
+  'disabled in Thu, 1 Oct 2020, because the electron version is older than 3.x (
+  "electron": "^1.6.1" )'

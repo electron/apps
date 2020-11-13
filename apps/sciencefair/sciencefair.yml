@@ -18,3 +18,4 @@ screenshots:
   - {
       imageUrl: 'https://github.com/codeforscience/sciencefair/raw/master/assets/screenshots/reader.png',
     }
+disabled: true #Website times out in multiple differnt browsers.

@@ -21,3 +21,4 @@ screenshots:
   - imageUrl: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp/blob/master/screenshots/ratemymovie4.png'
     caption: 'Movie information'
     imageLink: 'https://github.com/mkfeuhrer/RateMyMovie-DesktopApp'
+disabled: true #Using "electron": "^1.7.9" https://github.com/mkfeuhrer/RateMyMovie-DesktopApp/blob/master/package.json
