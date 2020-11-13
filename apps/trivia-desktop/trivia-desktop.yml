@@ -1,9 +1,12 @@
 name: Trivia Desktop
 description:
-  Trivia Desktop is a app that allows you to play multiple-choice trivia.
+  App that allows you to play multiple-choice trivia and grind points.
 website: https://github.com/Trivia-Bot-Discord/trivia-desktop
 category: Games
 repository: https://github.com/Trivia-Bot-Discord/trivia-desktop.git
 keywords:
-  - ''
+  - 'trivia'
 license: GPL-3.0
+screenshots:
+  - imageUrl: 'https://cdn.evang.dev/2020/11/13/Trivia_0UUg97.png'
+    caption: 'Selecting a category.'
