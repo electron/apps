@@ -2063,6 +2063,22 @@
       "revHash": "ca10c74cd1"
     }
   },
+  "companion": {
+    "faintColorOnWhite": "rgba(148, 68, 204, 0.1)",
+    "goodColorOnBlack": "#B37DDE",
+    "goodColorOnWhite": "#9444CC",
+    "palette": [
+      "#fbfbfb",
+      "#9444cc",
+      "#b37dde",
+      "#a057d4",
+      "#c494e4"
+    ],
+    "source": {
+      "path": "apps/companion/companion-icon.png",
+      "revHash": "0f48c0a19f"
+    }
+  },
   "composercat": {
     "faintColorOnWhite": "rgba(203, 52, 4, 0.1)",
     "goodColorOnBlack": "#D4846C",
@@ -4128,19 +4144,19 @@
     }
   },
   "frame": {
-    "faintColorOnWhite": "rgba(23, 63, 73, 0.1)",
-    "goodColorOnBlack": "#30859A",
-    "goodColorOnWhite": "#173F49",
+    "faintColorOnWhite": "rgba(28, 48, 72, 0.1)",
+    "goodColorOnBlack": "#4A7CB8",
+    "goodColorOnWhite": "#1C3048",
     "palette": [
-      "#173f49",
-      "#212c2c",
-      "#2c343d",
-      "#1f2c34",
-      "#1c3434"
+      "#1c2c46",
+      "#242c4c",
+      "#2c244c",
+      "#24244c",
+      "#1c3048"
     ],
     "source": {
       "path": "apps/frame/frame-icon.png",
-      "revHash": "2407bc0a6f"
+      "revHash": "3c915572b2"
     }
   },
   "franz": {
@@ -6735,6 +6751,22 @@
       "revHash": "b093cf24ea"
     }
   },
+  "magicbox": {
+    "faintColorOnWhite": "rgba(46, 119, 88, 0.1)",
+    "goodColorOnBlack": "#25B47F",
+    "goodColorOnWhite": "#2E7758",
+    "palette": [
+      "#25b47f",
+      "#cae0d0",
+      "#334139",
+      "#2e7758",
+      "#8cd4ac"
+    ],
+    "source": {
+      "path": "apps/magicbox/magicbox-icon.png",
+      "revHash": "78d8905710"
+    }
+  },
   "magiccap": {
     "faintColorOnWhite": "rgba(115, 77, 125, 0.1)",
     "goodColorOnBlack": "#BC7C8C",
@@ -7261,6 +7293,22 @@
     "source": {
       "path": "apps/metastream/metastream-icon.png",
       "revHash": "985f4a2f77"
+    }
+  },
+  "meteorman": {
+    "faintColorOnWhite": "rgba(196, 76, 68, 0.1)",
+    "goodColorOnBlack": "#E4A49C",
+    "goodColorOnWhite": "#C44C44",
+    "palette": [
+      "#c44c44",
+      "#f9f3f3",
+      "#d78c83",
+      "#e4a49c",
+      "#d47c6c"
+    ],
+    "source": {
+      "path": "apps/meteorman/meteorman-icon.png",
+      "revHash": "4946cadbb4"
     }
   },
   "metrogit": {
@@ -11551,6 +11599,22 @@
       "revHash": "90a8dbc772"
     }
   },
+  "simpleinstabot": {
+    "faintColorOnWhite": "rgba(21, 108, 158, 0.1)",
+    "goodColorOnBlack": "#FCCC89",
+    "goodColorOnWhite": "#156C9E",
+    "palette": [
+      "#ec8c14",
+      "#f3f3f3",
+      "#156c9e",
+      "#846424",
+      "#fccc89"
+    ],
+    "source": {
+      "path": "apps/simpleinstabot/simpleinstabot-icon.png",
+      "revHash": "e42add6367"
+    }
+  },
   "simplenote": {
     "faintColorOnWhite": "rgba(43, 118, 186, 0.1)",
     "goodColorOnBlack": "#4A93D5",
@@ -12063,6 +12127,22 @@
       "revHash": "3a9221f536"
     }
   },
+  "spinshare-client": {
+    "faintColorOnWhite": "rgba(132, 20, 68, 0.1)",
+    "goodColorOnBlack": "#F61455",
+    "goodColorOnWhite": "#841444",
+    "palette": [
+      "#231433",
+      "#2dc8cc",
+      "#f61455",
+      "#2473b3",
+      "#841444"
+    ],
+    "source": {
+      "path": "apps/spinshare-client/spinshare-client-icon.png",
+      "revHash": "b5c3157aa2"
+    }
+  },
   "sportfx-studio": {
     "faintColorOnWhite": "rgba(20, 118, 182, 0.1)",
     "goodColorOnBlack": "#6CBBEF",
@@ -12413,6 +12493,22 @@
     "source": {
       "path": "apps/streetviewdownload360/streetviewdownload360-icon.png",
       "revHash": "c778e557eb"
+    }
+  },
+  "studiotrans": {
+    "faintColorOnWhite": "rgba(4, 77, 251, 0.1)",
+    "goodColorOnBlack": "#3479FC",
+    "goodColorOnWhite": "#044DFB",
+    "palette": [
+      "#f8f9fb",
+      "#044dfb",
+      "#5e8afb",
+      "#7ca4fc",
+      "#3479fc"
+    ],
+    "source": {
+      "path": "apps/studiotrans/studiotrans-icon.png",
+      "revHash": "60871f791b"
     }
   },
   "studymd": {
