@@ -2463,6 +2463,22 @@
       "revHash": "b47ed32bff"
     }
   },
+  "cyapass": {
+    "faintColorOnWhite": "rgba(22, 7, 231, 0.1)",
+    "goodColorOnBlack": "#BC7C7C",
+    "goodColorOnWhite": "#1607E7",
+    "palette": [
+      "#1607e7",
+      "#f0f0f1",
+      "#bc2326",
+      "#848484",
+      "#bc7c7c"
+    ],
+    "source": {
+      "path": "apps/cyapass/cyapass-icon.png",
+      "revHash": "55d1797eb9"
+    }
+  },
   "cyberx": {
     "faintColorOnWhite": "rgba(7, 95, 250, 0.1)",
     "goodColorOnBlack": "#649BFC",
@@ -13679,6 +13695,22 @@
       "revHash": "52770c0808"
     }
   },
+  "trivia-desktop": {
+    "faintColorOnWhite": "rgba(198, 35, 68, 0.1)",
+    "goodColorOnBlack": "#FB979C",
+    "goodColorOnWhite": "#C62344",
+    "palette": [
+      "#eb5675",
+      "#fb979c",
+      "#c62344",
+      "#5c1118",
+      "#ae1f31"
+    ],
+    "source": {
+      "path": "apps/trivia-desktop/trivia-desktop-icon.png",
+      "revHash": "e6f303ae7a"
+    }
+  },
   "tropy": {
     "faintColorOnWhite": "rgba(30, 105, 209, 0.1)",
     "goodColorOnBlack": "#A3C4F2",
@@ -14461,6 +14493,22 @@
     "source": {
       "path": "apps/voltra/voltra-icon.png",
       "revHash": "666574c59e"
+    }
+  },
+  "vonage-business-communications": {
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#080404",
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "source": {
+      "path": "apps/vonage-business-communications/vonage-business-communications-icon.png",
+      "revHash": "28e7879fd3"
     }
   },
   "vrap": {
