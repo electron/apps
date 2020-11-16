@@ -1,0 +1,26 @@
+name: 'Birds Kitchen'
+description: 'Free and open source recipe manager.'
+website: 'https://tenbirds.online/birdskitchen/'
+repository: 'https://github.com/fredserva/birdskitchen'
+keywords:
+  - recipes
+  - manager
+category: 'Food & Drink'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/01.png'
+    caption: 'Dark and light theme - Grid view'
+  - imageUrl: 'https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/02.png'
+    caption: 'Image list view'
+  - imageUrl: 'https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/03.png'
+    caption: 'Table view'
+  - imageUrl: 'https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/04.png'
+    caption: 'Print view'
+  - imageUrl: 'https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/05.png'
+    caption: 'Edit view'
+  - imageUrl: 'https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/06.png'
+    caption: 'Preferences screen - Storage tab'
+  - imageUrl: 'https://raw.githubusercontent.com/fredserva/birdskitchen/master/screenshots/07.png'
+    caption: 'Preferences screen - Theme tab'
+locales:
+  - en-US
+  - fr-FR
