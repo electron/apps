@@ -1,0 +1,10 @@
+name: CYaPass
+description: Draw your password. Never type a password again.
+website: https://www.newlibre.com/cyapass
+category: Utilities
+repository: https://github.com/raddevus/CYaPass-Electron
+keywords:
+  - '"C''YaPass"'
+  - 'passwords'
+  - 'password'
+  - 'cyapass'
