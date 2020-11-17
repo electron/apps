@@ -6,3 +6,5 @@ license: MIT / Proprietary
 keywords:
   - code
 category: 'Developer Tools'
+screenshots:
+  - imageUrl: 'https://code.visualstudio.com/assets/home/home-screenshot-linux-lg.png'
