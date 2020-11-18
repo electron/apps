@@ -75,6 +75,11 @@
     "slug": "lifestyle"
   },
   {
+    "name": "Food & Drink",
+    "count": 2,
+    "slug": "food-drink"
+  },
+  {
     "name": "Medical",
     "count": 2,
     "slug": "medical"
@@ -88,11 +93,6 @@
     "name": "Travel",
     "count": 1,
     "slug": "travel"
-  },
-  {
-    "name": "Food & Drink",
-    "count": 1,
-    "slug": "food-drink"
   },
   {
     "name": "Sports",

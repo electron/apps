@@ -927,6 +927,22 @@
       "revHash": "47532b33b6"
     }
   },
+  "birds-kitchen": {
+    "faintColorOnWhite": "rgba(4, 131, 131, 0.1)",
+    "goodColorOnBlack": "#048383",
+    "goodColorOnWhite": "#048383",
+    "palette": [
+      "#048383",
+      "#ee973c",
+      "#3b2c24",
+      "#44acac",
+      "#7cd4cc"
+    ],
+    "source": {
+      "path": "apps/birds-kitchen/birds-kitchen-icon.png",
+      "revHash": "1d748bee2c"
+    }
+  },
   "biscuit": {
     "faintColorOnWhite": "rgba(153, 95, 12, 0.1)",
     "goodColorOnBlack": "#F3BB6B",
@@ -2076,7 +2092,7 @@
     ],
     "source": {
       "path": "apps/companion/companion-icon.png",
-      "revHash": "0f48c0a19f"
+      "revHash": "4fcb38bb96"
     }
   },
   "composercat": {
@@ -2476,7 +2492,7 @@
     ],
     "source": {
       "path": "apps/cyapass/cyapass-icon.png",
-      "revHash": "55d1797eb9"
+      "revHash": "d1b80fe841"
     }
   },
   "cyberx": {
@@ -4172,7 +4188,7 @@
     ],
     "source": {
       "path": "apps/frame/frame-icon.png",
-      "revHash": "3c915572b2"
+      "revHash": "3732c89879"
     }
   },
   "franz": {
@@ -7324,7 +7340,7 @@
     ],
     "source": {
       "path": "apps/meteorman/meteorman-icon.png",
-      "revHash": "4946cadbb4"
+      "revHash": "54ed4b77ee"
     }
   },
   "metrogit": {
@@ -11628,7 +11644,7 @@
     ],
     "source": {
       "path": "apps/simpleinstabot/simpleinstabot-icon.png",
-      "revHash": "e42add6367"
+      "revHash": "08e36939e5"
     }
   },
   "simplenote": {
@@ -12156,7 +12172,7 @@
     ],
     "source": {
       "path": "apps/spinshare-client/spinshare-client-icon.png",
-      "revHash": "b5c3157aa2"
+      "revHash": "c29e364a95"
     }
   },
   "sportfx-studio": {
@@ -12524,7 +12540,7 @@
     ],
     "source": {
       "path": "apps/studiotrans/studiotrans-icon.png",
-      "revHash": "60871f791b"
+      "revHash": "0087398b05"
     }
   },
   "studymd": {
@@ -13708,7 +13724,7 @@
     ],
     "source": {
       "path": "apps/trivia-desktop/trivia-desktop-icon.png",
-      "revHash": "e6f303ae7a"
+      "revHash": "402e5e443b"
     }
   },
   "tropy": {
@@ -14508,7 +14524,7 @@
     ],
     "source": {
       "path": "apps/vonage-business-communications/vonage-business-communications-icon.png",
-      "revHash": "28e7879fd3"
+      "revHash": "9ef06c6975"
     }
   },
   "vrap": {
