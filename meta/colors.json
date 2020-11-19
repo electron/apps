@@ -5247,6 +5247,22 @@
       "revHash": "7dc4c714f6"
     }
   },
+  "homura": {
+    "faintColorOnWhite": "rgba(164, 60, 180, 0.1)",
+    "goodColorOnBlack": "#BB5DD2",
+    "goodColorOnWhite": "#A43CB4",
+    "palette": [
+      "#bb5dd2",
+      "#302730",
+      "#643a74",
+      "#6c5064",
+      "#a43cb4"
+    ],
+    "source": {
+      "path": "apps/homura/homura-icon.png",
+      "revHash": "a94bd42b9a"
+    }
+  },
   "hoster": {
     "faintColorOnWhite": "rgba(84, 84, 84, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
