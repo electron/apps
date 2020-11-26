@@ -1,0 +1,10 @@
+name: Covid-19 cases overview
+description:
+  This Web application allow the user to check daily cases and much more
+  information about covid-19.
+website: https://github.com/Creator-360/Covid-19-cases-overview
+category: News
+repository: https://github.com/Creator-360/Covid-19-cases-overview
+keywords:
+  - Covid-19
+license: GPL-3.0 License
