@@ -1,5 +1,5 @@
 name: 'P3X Redis UI'
-description: 'Redis UI based on redis-commander and phpRedisAdmin.'
+description: 'P3X Redis UI is a very functional handy database GUI and works in your pocket on the responsive web or as a desktop app.'
 repository: 'https://github.com/patrikx3/redis-ui'
 website: 'https://www.corifeus.com/redis-ui'
 keywords:
