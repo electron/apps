@@ -15775,6 +15775,22 @@
       "revHash": "a13697c1cd"
     }
   },
+  "zonote": {
+    "faintColorOnWhite": "rgba(7, 7, 7, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#070707",
+    "palette": [
+      "#fbfbfb",
+      "#070707",
+      "#9c9c9c",
+      "#7c7c7c",
+      "#acacac"
+    ],
+    "source": {
+      "path": "apps/zonote/zonote-icon.png",
+      "revHash": "c238575a6e"
+    }
+  },
   "zoommy": {
     "faintColorOnWhite": "rgba(90, 89, 220, 0.1)",
     "goodColorOnBlack": "#D49CFC",
