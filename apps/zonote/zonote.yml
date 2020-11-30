@@ -1,0 +1,13 @@
+name: zonote
+description: Sticky notes + Markdown + Tabs. All in one .txt file.
+website: https://github.com/zonetti/zonote
+category: Productivity
+repository: https://github.com/zonetti/zonote
+keywords:
+  - note-taking
+  - sticky-notes
+  - markdown
+  - tabs
+  - offline-first
+  - notes
+license: MIT
