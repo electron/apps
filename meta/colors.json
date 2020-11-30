@@ -2255,6 +2255,22 @@
       "revHash": "d1f86d3151"
     }
   },
+  "covid-19-cases-overview": {
+    "faintColorOnWhite": "rgba(204, 54, 2, 0.1)",
+    "goodColorOnBlack": "#FC4404",
+    "goodColorOnWhite": "#CC3602",
+    "palette": [
+      "#fc4404",
+      "#fc6004",
+      "#fc2a04",
+      "#fc3404",
+      "#fc5404"
+    ],
+    "source": {
+      "path": "apps/covid-19-cases-overview/covid-19-cases-overview-icon.png",
+      "revHash": "081cc46ef1"
+    }
+  },
   "coypu": {
     "faintColorOnWhite": "rgba(217, 49, 27, 0.1)",
     "goodColorOnBlack": "#EC7464",
