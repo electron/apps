@@ -60,14 +60,14 @@
     "slug": "entertainment"
   },
   {
+    "name": "News",
+    "count": 8,
+    "slug": "news"
+  },
+  {
     "name": "Books",
     "count": 7,
     "slug": "books"
-  },
-  {
-    "name": "News",
-    "count": 7,
-    "slug": "news"
   },
   {
     "name": "Lifestyle",
