@@ -11,3 +11,6 @@ keywords:
   - offline-first
   - notes
 license: MIT
+screenshots:
+  - imageUrl: 'https://github.com/zonetti/zonote/blob/master/preview.gif?raw=true'
+    caption: 'Basic usage'
