@@ -703,6 +703,22 @@
       "revHash": "376110dd9e"
     }
   },
+  "authme": {
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#080404",
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "source": {
+      "path": "apps/authme/authme-icon.png",
+      "revHash": "2f2ef907f8"
+    }
+  },
   "autobeat-player": {
     "faintColorOnWhite": "rgba(11, 11, 11, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
@@ -11693,6 +11709,22 @@
     "source": {
       "path": "apps/simpico/simpico-icon.png",
       "revHash": "90a8dbc772"
+    }
+  },
+  "simple-finder": {
+    "faintColorOnWhite": "rgba(194, 86, 4, 0.1)",
+    "goodColorOnBlack": "#FB8A34",
+    "goodColorOnWhite": "#C25604",
+    "palette": [
+      "#fbc755",
+      "#f9f5dd",
+      "#faecac",
+      "#fb8a34",
+      "#fbe58b"
+    ],
+    "source": {
+      "path": "apps/simple-finder/simple-finder-icon.png",
+      "revHash": "7ac6377d9b"
     }
   },
   "simpleinstabot": {
