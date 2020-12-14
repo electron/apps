@@ -5,5 +5,4 @@ keywords:
   - spotify
 name: spofly
 repository: "https://github.com/itsjustaplant/spofly"
-screenshots: "-{ imageUrl:'https://raw.githubusercontent.com/itsjustaplant/spofly/master/screenshots/rickastley_resized.png', }"
 website: "https://spoflyv1.herokuapp.com"
