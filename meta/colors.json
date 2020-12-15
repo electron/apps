@@ -703,6 +703,22 @@
       "revHash": "376110dd9e"
     }
   },
+  "authme": {
+    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FFF",
+    "goodColorOnWhite": "#080404",
+    "palette": [
+      "#040404",
+      "#080404",
+      "#080404",
+      "#080404",
+      "#080404"
+    ],
+    "source": {
+      "path": "apps/authme/authme-icon.png",
+      "revHash": "2f2ef907f8"
+    }
+  },
   "autobeat-player": {
     "faintColorOnWhite": "rgba(11, 11, 11, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
@@ -2253,6 +2269,22 @@
     "source": {
       "path": "apps/covepdf/covepdf-icon.png",
       "revHash": "d1f86d3151"
+    }
+  },
+  "covid-19-cases-overview": {
+    "faintColorOnWhite": "rgba(204, 54, 2, 0.1)",
+    "goodColorOnBlack": "#FC4404",
+    "goodColorOnWhite": "#CC3602",
+    "palette": [
+      "#fc4404",
+      "#fc6004",
+      "#fc2a04",
+      "#fc3404",
+      "#fc5404"
+    ],
+    "source": {
+      "path": "apps/covid-19-cases-overview/covid-19-cases-overview-icon.png",
+      "revHash": "081cc46ef1"
     }
   },
   "coypu": {
@@ -4589,6 +4621,22 @@
     "source": {
       "path": "apps/git-it/git-it-icon.png",
       "revHash": "596fe6d66d"
+    }
+  },
+  "git-timer": {
+    "faintColorOnWhite": "rgba(33, 39, 41, 0.1)",
+    "goodColorOnBlack": "#FAEAEA",
+    "goodColorOnWhite": "#212729",
+    "palette": [
+      "#faeaea",
+      "#212729",
+      "#8c8c8c",
+      "#6e6c6c",
+      "#847d84"
+    ],
+    "source": {
+      "path": "apps/git-timer/git-timer-icon.png",
+      "revHash": "ec31fb444b"
     }
   },
   "gitblade": {
@@ -11663,6 +11711,22 @@
       "revHash": "90a8dbc772"
     }
   },
+  "simple-finder": {
+    "faintColorOnWhite": "rgba(194, 86, 4, 0.1)",
+    "goodColorOnBlack": "#FB8A34",
+    "goodColorOnWhite": "#C25604",
+    "palette": [
+      "#fbc755",
+      "#f9f5dd",
+      "#faecac",
+      "#fb8a34",
+      "#fbe58b"
+    ],
+    "source": {
+      "path": "apps/simple-finder/simple-finder-icon.png",
+      "revHash": "7ac6377d9b"
+    }
+  },
   "simpleinstabot": {
     "faintColorOnWhite": "rgba(21, 108, 158, 0.1)",
     "goodColorOnBlack": "#FCCC89",
@@ -15773,6 +15837,22 @@
     "source": {
       "path": "apps/znote/znote-icon.png",
       "revHash": "a13697c1cd"
+    }
+  },
+  "zonote": {
+    "faintColorOnWhite": "rgba(7, 7, 7, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#070707",
+    "palette": [
+      "#fbfbfb",
+      "#070707",
+      "#9c9c9c",
+      "#7c7c7c",
+      "#acacac"
+    ],
+    "source": {
+      "path": "apps/zonote/zonote-icon.png",
+      "revHash": "c238575a6e"
     }
   },
   "zoommy": {

@@ -1,7 +1,7 @@
 [
   {
     "name": "Productivity",
-    "count": 279,
+    "count": 281,
     "slug": "productivity"
   },
   {
@@ -11,7 +11,7 @@
   },
   {
     "name": "Utilities",
-    "count": 149,
+    "count": 151,
     "slug": "utilities"
   },
   {
@@ -60,14 +60,14 @@
     "slug": "entertainment"
   },
   {
+    "name": "News",
+    "count": 8,
+    "slug": "news"
+  },
+  {
     "name": "Books",
     "count": 7,
     "slug": "books"
-  },
-  {
-    "name": "News",
-    "count": 7,
-    "slug": "news"
   },
   {
     "name": "Lifestyle",
