@@ -1,6 +1,6 @@
 name: DECK
 description:
-  'Powerful and high performant local web development studio unlike any other'
+  'Powerful and high performant local web development studio unlike any other.'
 website: 'https://get-deck.com/'
 repository: 'https://github.com/sfx101/docker-stacks'
 category: 'Developer Tools'
