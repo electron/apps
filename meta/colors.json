@@ -895,6 +895,22 @@
       "revHash": "d67796315c"
     }
   },
+  "beveldm": {
+    "faintColorOnWhite": "rgba(0, 129, 82, 0.1)",
+    "goodColorOnBlack": "#C0FFE8",
+    "goodColorOnWhite": "#008152",
+    "palette": [
+      "#fcfcfc",
+      "#047cd4",
+      "#64ace4",
+      "#348ddc",
+      "#c0ffe8"
+    ],
+    "source": {
+      "path": "apps/beveldm/beveldm-icon.png",
+      "revHash": "8cf9562cd9"
+    }
+  },
   "bibisco": {
     "faintColorOnWhite": "rgba(5, 69, 5, 0.1)",
     "goodColorOnBlack": "#FBF9F0",
@@ -15391,6 +15407,22 @@
       "revHash": "6b06e5d496"
     }
   },
+  "yana": {
+    "faintColorOnWhite": "rgba(52, 92, 140, 0.1)",
+    "goodColorOnBlack": "#347CC4",
+    "goodColorOnWhite": "#345C8C",
+    "palette": [
+      "#fafafb",
+      "#347cc4",
+      "#2c3c54",
+      "#8cb4dc",
+      "#345c8c"
+    ],
+    "source": {
+      "path": "apps/yana/yana-icon.png",
+      "revHash": "435a43f173"
+    }
+  },
   "yeoman": {
     "faintColorOnWhite": "rgba(218, 30, 44, 0.1)",
     "goodColorOnBlack": "#EDBF79",
@@ -15741,6 +15773,22 @@
     "source": {
       "path": "apps/znote/znote-icon.png",
       "revHash": "a13697c1cd"
+    }
+  },
+  "zonote": {
+    "faintColorOnWhite": "rgba(7, 7, 7, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#070707",
+    "palette": [
+      "#fbfbfb",
+      "#070707",
+      "#9c9c9c",
+      "#7c7c7c",
+      "#acacac"
+    ],
+    "source": {
+      "path": "apps/zonote/zonote-icon.png",
+      "revHash": "c238575a6e"
     }
   },
   "zoommy": {

@@ -1,0 +1,38 @@
+name: yana
+description:
+  Powerful notebook app with nesting, search, rich-text editing and more.
+website: https://yana.js.org
+category: Productivity
+repository: https://github.com/lukasbach/yana
+youtube_video_url: https://www.youtube.com/watch?v=0BUB5IprutU
+goodColorOnWhite: '#2d6cad'
+goodColorOnBlack: '#377cc3'
+
+keywords:
+  - notebook
+  - notes
+  - app
+  - free
+  - scalable
+  - organization
+  - search
+  - nesting
+  - hierarchy
+  - wysiwyg
+  - snippet
+  - ide
+  - code
+screenshots:
+  - imageUrl: https://i.imgur.com/tl7foL1.png
+    caption: 'Notes powered by rich-text editor'
+  - imageUrl: https://i.imgur.com/7hQHPya.png
+    caption:
+      'Manage code snippets with the code editor that powers Visual Studio Code'
+  - imageUrl: https://i.imgur.com/ZPiD4Yp.png
+    caption: 'Find what you need with a powerful and fast search'
+  - imageUrl: https://i.imgur.com/tSmT2OJ.png
+    caption: 'List childs of folders or search by tags or other criteria'
+  - imageUrl: https://i.imgur.com/IvP8UIT.png
+    caption: 'Customize your experience with extensive settings'
+  - imageUrl: https://i.imgur.com/21NLCLE.png
+    caption: 'Create as many distinct workspaces as you want'
