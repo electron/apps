@@ -1,0 +1,14 @@
+name: Loop Team
+description:
+  Helps distributed teams communicate faster, capture and share discussions.
+website: https://loopteam.co
+category: Business
+keywords:
+  - remote
+  - teams
+  - conferencing
+  - business
+  - video
+screenshots:
+  - imageUrl: 'https://dst2fsq1hltjy.cloudfront.net/static/electron-org/loop-conf.png'
+  - imageUrl: 'https://dst2fsq1hltjy.cloudfront.net/static/electron-org/loop-highlights.png'
