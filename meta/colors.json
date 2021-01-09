@@ -2799,6 +2799,22 @@
       "revHash": "2963e5fba4"
     }
   },
+  "deck": {
+    "faintColorOnWhite": "rgba(79, 100, 115, 0.1)",
+    "goodColorOnBlack": "#FCC89C",
+    "goodColorOnWhite": "#4F6473",
+    "palette": [
+      "#f9f5fa",
+      "#c249e1",
+      "#4f6473",
+      "#7c8c99",
+      "#fcc89c"
+    ],
+    "source": {
+      "path": "apps/deck/deck-icon.png",
+      "revHash": "0716400beb"
+    }
+  },
   "deckard-ai": {
     "faintColorOnWhite": "rgba(106, 67, 196, 0.1)",
     "goodColorOnBlack": "#98A4B0",
@@ -3341,6 +3357,22 @@
     "source": {
       "path": "apps/downline/downline-icon.png",
       "revHash": "7e2c042381"
+    }
+  },
+  "drawtify-designer": {
+    "faintColorOnWhite": "rgba(39, 78, 218, 0.1)",
+    "goodColorOnBlack": "#94ACF4",
+    "goodColorOnWhite": "#274EDA",
+    "palette": [
+      "#274eda",
+      "#fafafb",
+      "#3e3451",
+      "#7d8cc9",
+      "#94acf4"
+    ],
+    "source": {
+      "path": "apps/drawtify-designer/drawtify-designer-icon.png",
+      "revHash": "b780e532e9"
     }
   },
   "dupfinder": {
@@ -3965,6 +3997,22 @@
     "source": {
       "path": "apps/figma/figma-icon.png",
       "revHash": "57a1c14656"
+    }
+  },
+  "fileside": {
+    "faintColorOnWhite": "rgba(206, 16, 4, 0.1)",
+    "goodColorOnBlack": "#EC7C04",
+    "goodColorOnWhite": "#CE1004",
+    "palette": [
+      "#ce1004",
+      "#f4a817",
+      "#e34c0b",
+      "#ec7c04",
+      "#e43c04"
+    ],
+    "source": {
+      "path": "apps/fileside/fileside-icon.png",
+      "revHash": "ea93f4a7c9"
     }
   },
   "final-countdown": {
@@ -12269,6 +12317,22 @@
     "source": {
       "path": "apps/spinshare-client/spinshare-client-icon.png",
       "revHash": "c29e364a95"
+    }
+  },
+  "spofly": {
+    "faintColorOnWhite": "rgba(12, 20, 59, 0.1)",
+    "goodColorOnBlack": "#B8900B",
+    "goodColorOnWhite": "#0C143B",
+    "palette": [
+      "#0c143b",
+      "#b8900b",
+      "#554a26",
+      "#6c5c24",
+      "#343434"
+    ],
+    "source": {
+      "path": "apps/spofly/spofly-icon.png",
+      "revHash": "b7382b8f79"
     }
   },
   "sportfx-studio": {
