@@ -1,0 +1,12 @@
+name: Fileside
+description: Modern, tiling file manager with unlimited panes.
+website: https://www.fileside.app
+category: Utilities
+keywords:
+  - file-manager
+  - file-browser
+screenshots:
+  - imageUrl: https://www.fileside.app/static/b969865805cd3eba6e65edba10c539ff/19ca5/1.0.1-tiled-folders.png
+    caption: Fileside with six panes
+    imageLink: https://www.fileside.app
+youtube_video_url: https://www.youtube.com/watch?v=48SU-0P-VfY
