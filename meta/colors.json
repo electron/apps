@@ -8352,19 +8352,19 @@
     }
   },
   "netron": {
-    "faintColorOnWhite": "rgba(37, 117, 137, 0.1)",
-    "goodColorOnBlack": "#AEDDE9",
-    "goodColorOnWhite": "#257589",
+    "faintColorOnWhite": "rgba(53, 122, 149, 0.1)",
+    "goodColorOnBlack": "#3B88A6",
+    "goodColorOnWhite": "#357A95",
     "palette": [
-      "#aedde9",
-      "#54848c",
-      "#ededed",
-      "#a7adae",
-      "#7ca4b4"
+      "#3b88a6",
+      "#eeefef",
+      "#88a7b4",
+      "#90bccc",
+      "#94c4d4"
     ],
     "source": {
       "path": "apps/netron/netron-icon.png",
-      "revHash": "e3b9dd3815"
+      "revHash": "99ddc64150"
     }
   },
   "network-assembler": {
