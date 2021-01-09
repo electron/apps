@@ -1,0 +1,10 @@
+name: Rainbow Board
+description: Cross-platform Whiteboard App.
+website: https://harshkhandeparkar.github.io/rainbow-board
+category: Utilities
+repository: https://github.com/HarshKhandeparkar/rainbow-board
+keywords:
+  - whiteboard
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-3.png'
