@@ -1,8 +1,8 @@
 category: Music
-description: "Desktop app to find lyrics of currently playing song on spotify."
-keywords: 
+description: 'Desktop app to find lyrics of currently playing song on spotify.'
+keywords:
   - lyrics
   - spotify
 name: spofly
-repository: "https://github.com/itsjustaplant/spofly"
-website: "https://spoflyv1.herokuapp.com"
+repository: 'https://github.com/itsjustaplant/spofly'
+website: 'https://spoflyv1.herokuapp.com'
