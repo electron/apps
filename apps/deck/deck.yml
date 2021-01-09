@@ -14,18 +14,13 @@ keywords:
   - php
   - https
 screenshots:
-  -
-    imageUrl: 'https://get-deck.com/wp-content/uploads/2020/12/Screenshot-2020-12-16-at-2.27.02-PM.png'
+  - imageUrl: 'https://get-deck.com/wp-content/uploads/2020/12/Screenshot-2020-12-16-at-2.27.02-PM.png'
     caption: 'DECK stacks management'
-  -
-    imageUrl: 'https://get-deck.com/wp-content/uploads/2020/12/Screenshot-2020-12-16-at-2.28.25-PM.png'
+  - imageUrl: 'https://get-deck.com/wp-content/uploads/2020/12/Screenshot-2020-12-16-at-2.28.25-PM.png'
     caption: 'DECK Marketplace'
-  - 
-    imageUrl: 'https://get-deck.com/wp-content/uploads/2020/12/Screenshot-2020-12-17-at-5.32.13-PM.png'
+  - imageUrl: 'https://get-deck.com/wp-content/uploads/2020/12/Screenshot-2020-12-17-at-5.32.13-PM.png'
     caption: 'DECK Flights'
-  -
-    imageUrl: 'https://get-deck.com/wp-content/uploads/2020/12/Screenshot-2020-12-16-at-2.35.23-PM.png'
+  - imageUrl: 'https://get-deck.com/wp-content/uploads/2020/12/Screenshot-2020-12-16-at-2.35.23-PM.png'
     caption: 'DECK Terminal'
-  - 
-    imageUrl: 'https://get-deck.com/wp-content/uploads/2020/12/Screenshot-2020-12-16-at-2.30.15-PM.png'
+  - imageUrl: 'https://get-deck.com/wp-content/uploads/2020/12/Screenshot-2020-12-16-at-2.30.15-PM.png'
     caption: 'DECK Connections'
