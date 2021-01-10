@@ -1,6 +1,5 @@
 name: Redis GUI (unofficial)
-description:
-  '🔬 Modern graphical user interface to peek into redis database.'
+description: '🔬 Modern graphical user interface to peek into redis database.'
 website: 'https://ekvedaras.github.io'
 category: 'Developer Tools'
 repository: 'https://github.com/ekvedaras/redis-gui'
