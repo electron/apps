@@ -5,4 +5,26 @@ category: Finance
 repository: https://github.com/Kellojo/Budget-Book
 keywords:
   - BudgetP
-license: expenses
+  - expenses
+  - income
+  - income-tracking
+  - income tracking
+  - budget-book
+  - personal-finance
+  - electron
+  - budget-management
+  - budget
+license: MIT
+screenshots:
+  - imageUrl: 'https://camo.githubusercontent.com/bac6de3612265d9cc707b08132be8183ce25e3114cccfe1d1a81f009678999f6/68747470733a2f2f692e696d6775722e636f6d2f524273537357532e706e67'
+    caption: 'The getting started wizard of the app'
+    imageLink: 'https://kellojo.github.io/Budget-Book/'
+  - imageUrl: 'https://camo.githubusercontent.com/ef412d5e5f426b479dda5d611de68bb98a5471e3b45f377182455480456dc5a1/68747470733a2f2f692e696d6775722e636f6d2f634370666c356e2e706e67'
+    caption: 'The main view of BudgetP'
+    imageLink: 'https://kellojo.github.io/Budget-Book/'
+  - imageUrl: 'https://camo.githubusercontent.com/f95e211fc980bda3083deabda5302ca5b635ee5ae07b177a8fb5c020a60246e4/68747470733a2f2f692e696d6775722e636f6d2f736475554f61582e706e67'
+    caption: 'The main view of BudgetP'
+    imageLink: 'https://kellojo.github.io/Budget-Book/'
+  - imageUrl: 'https://camo.githubusercontent.com/ade7b31288e6f738216f0bc5eedf88f99c073102221d55d6686719c721ef24ab/68747470733a2f2f692e696d6775722e636f6d2f6571586c614e422e706e67'
+    caption: 'The main view of BudgetP'
+    imageLink: 'https://kellojo.github.io/Budget-Book/'
