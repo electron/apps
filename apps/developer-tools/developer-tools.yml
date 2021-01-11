@@ -4,17 +4,12 @@ website: 'https://developertools.app/'
 category: 'Developer Tools'
 keywords:
   - 'Developer'
-  - 'Developers'
   - 'Tools'
   - 'Utility'
   - 'Utilities'
   - 'Code'
   - 'Code Editor'
   - 'Developer Tools'
-  - 'Developer Tool'
-  - 'Developers Tools'
-  - 'Developer Tools'
 screenshots:
   - imageUrl: 'https://developertools/img/app.png'
     caption: 'All what you need in development'
-    
