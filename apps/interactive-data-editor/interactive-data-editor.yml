@@ -1,6 +1,6 @@
 name: "Interactive Data Editor"
 description:
-  'A Software to interactively edit data in a graphical manner.'
+  'Software to interactively edit data in a graphical manner.'
 website: 'https://github.com/Koushikphy/Interactive_Data_Editor'
 license: MIT
 snapcraftName: interactive-data-editor
