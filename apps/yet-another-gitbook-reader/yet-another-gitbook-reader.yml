@@ -1,12 +1,12 @@
 name: Yet-Another-Gitbook-Reader
 description:
   YAGR is yet another gitbook reader built upon
-  typeorm/docsify/swimlane-docpa-core, Chinese language UI/中文界面. 
+  `nodegit`/`typeorm`/`docsify`/`@swimlane/docpa-core`, multilingual support is available.
 website: https://github.com/gnu4cn/gitbook-reader-app
 repository: https://github.com/gnu4cn/gitbook-reader-app
 category: Education
 keywords:
   - gitbook reader
-  - typorm backed
+  - typeorm backed
   - nodegit backed
-language: Chinese
+language: English/Chinese
