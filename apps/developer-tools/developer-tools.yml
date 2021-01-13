@@ -1,6 +1,5 @@
 name: 'Developer Tools'
-description:
-  'All what you need in development that will makes work easier to produce.'
+description: 'All what you need in development that will makes work easier to produce.'
 website: 'https://developertools.app/'
 category: 'Developer Tools'
 keywords:
@@ -11,6 +10,11 @@ keywords:
   - 'Code'
   - 'Code Editor'
   - 'Developer Tools'
+  - 'JSON'
+  - 'Database'
+  - 'SQLite'
+  - 'File Reader'
+  - 'Development'
 screenshots:
-  - imageUrl: 'https://developertools/img/app.png'
+  - imageUrl: 'https://developertools.app/img/app.png'
     caption: 'All what you need in development'
