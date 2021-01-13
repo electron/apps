@@ -1,14 +1,13 @@
-name: "Interactive Data Editor"
-description:
-  'Software to interactively edit data in a graphical manner.'
+name: 'Interactive Data Editor'
+description: 'Software to interactively edit data in a graphical manner.'
 website: 'https://github.com/Koushikphy/Interactive_Data_Editor'
 license: MIT
 snapcraftName: interactive-data-editor
 screenshots:
   - {
-      caption: "Landing page",
+      caption: 'Landing page',
       imageUrl: 'https://github.com/Koushikphy/Interactive_Data_Editor/blob/master/figs/screenshot.gif',
-  }
+    }
 keywords:
   - data-visualization
   - data-smoothing

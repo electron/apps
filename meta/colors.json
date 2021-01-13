@@ -1215,6 +1215,22 @@
       "revHash": "804002f356"
     }
   },
+  "budgetp": {
+    "faintColorOnWhite": "rgba(48, 80, 137, 0.1)",
+    "goodColorOnBlack": "#94ACC3",
+    "goodColorOnWhite": "#305089",
+    "palette": [
+      "#305089",
+      "#fafafb",
+      "#7485af",
+      "#94acc3",
+      "#6467ac"
+    ],
+    "source": {
+      "path": "apps/budgetp/budgetp-icon.png",
+      "revHash": "1ad8b30d06"
+    }
+  },
   "budgie": {
     "faintColorOnWhite": "rgba(108, 108, 100, 0.1)",
     "goodColorOnBlack": "#77776F",
@@ -3021,6 +3037,22 @@
     "source": {
       "path": "apps/devdocs-app/devdocs-app-icon.png",
       "revHash": "426590ffa3"
+    }
+  },
+  "developer-tools": {
+    "faintColorOnWhite": "rgba(13, 110, 203, 0.1)",
+    "goodColorOnBlack": "#50A4F4",
+    "goodColorOnWhite": "#0D6ECB",
+    "palette": [
+      "#1c8cec",
+      "#f8fafc",
+      "#76b6f4",
+      "#50a4f4",
+      "#9cccf4"
+    ],
+    "source": {
+      "path": "apps/developer-tools/developer-tools-icon.png",
+      "revHash": "44703e3fd1"
     }
   },
   "devhub": {
@@ -5773,6 +5805,22 @@
     "source": {
       "path": "apps/instatron/instatron-icon.png",
       "revHash": "750cd328fd"
+    }
+  },
+  "interactive-data-editor": {
+    "faintColorOnWhite": "rgba(77, 94, 164, 0.1)",
+    "goodColorOnBlack": "#C9AA2E",
+    "goodColorOnWhite": "#4D5EA4",
+    "palette": [
+      "#4d5ea4",
+      "#ececec",
+      "#c9aa2e",
+      "#ce9489",
+      "#c4cc95"
+    ],
+    "source": {
+      "path": "apps/interactive-data-editor/interactive-data-editor-icon.png",
+      "revHash": "20bab1d76c"
     }
   },
   "intu-mind": {
