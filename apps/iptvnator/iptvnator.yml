@@ -15,6 +15,7 @@ license: MIT
 snapcraftName: iptvnator
 locales:
   - en-US
+  - th-TH
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/4gray/iptvnator/electron/playlists.png'
     caption: 'Overview with added playlists'
