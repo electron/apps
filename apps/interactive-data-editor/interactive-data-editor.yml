@@ -6,7 +6,7 @@ snapcraftName: interactive-data-editor
 screenshots:
   - {
       caption: 'Landing page',
-      imageUrl: 'https://github.com/Koushikphy/Interactive_Data_Editor/blob/master/figs/screenshot.gif',
+      imageUrl: 'https://raw.githubusercontent.com/Koushikphy/Interactive_Data_Editor/master/figs/screenshot.gif',
     }
 keywords:
   - data-visualization
