@@ -9,12 +9,12 @@ screenshots:
       imageUrl: 'https://raw.githubusercontent.com/Koushikphy/Interactive_Data_Editor/master/figs/screenshot.gif',
     }
 keywords:
-  - data-visualization
-  - data-smoothing
   - data-analysis
+  - data-visualization
+  - data-manipulation
+  - data-smoothing
   - 3D-plot
   - surface-plot
-  - data-manipulation
   - data-fiting
   - regresssion analysis
 category: Education
