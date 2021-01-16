@@ -23,7 +23,7 @@ screenshots:
     imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/mac/main_filter_dark.png'
     caption: 'sleeks main view in dark mode, filter drawer opened'
     imageLink: 'https://github.com/ransome1/sleek'
- locales:
+locales:
   - de-DE
   - en-GB
   - fr-FR
