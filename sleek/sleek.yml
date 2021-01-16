@@ -14,3 +14,18 @@ keywords:
   - lists
 category: 'Productivity'
 license: MIT
+screenshots:
+  -
+    imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/mac/main.png'
+    caption: 'sleek's main view'
+    imageLink: 'https://github.com/ransome1/sleek'
+  -
+    imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/mac/main_filter_dark.png'
+    caption: 'sleek main view in dark mode, filter drawer opened'
+    imageLink: 'https://github.com/ransome1/sleek'
+ locales:
+  - de-DE
+  - en-GB
+  - fr-FR
+  - es-ES
+  - it-IT
