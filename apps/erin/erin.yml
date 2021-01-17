@@ -1,0 +1,9 @@
+name: Erin
+description: Cross-platform app to change wallpaper automatically.
+website: https://erin-web.herokuapp.com/
+snapcraftName: erin
+category: Utilities
+repository: https://github.com/losbiw/erin
+keywords:
+  - wallpaper
+license: MIT
