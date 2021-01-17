@@ -1,0 +1,15 @@
+name: RobloxUtil
+description: 'Roblox Utility App'
+website: 'https://robloxutil.glitch.me'
+repository: 'https://github.com/robloxutil/robloxutil'
+keywords:
+    - gaming
+    - utility
+locales:
+    - en-US
+screenshots:
+  -
+    imageUrl: 'https://cdn.glitch.com/72b0e864-135b-4279-ab23-16aae9032cf2%2FScreenshot%202021-01-17%20at%2019.33.06.png?v=1610912050594'
+    caption: 'App Preview'
+    imageLink: 'https://robloxutil.glitch.me/'
+category: 'Utilities'
