@@ -9,7 +9,6 @@ keywords:
 license: Commercial
 category: 'Business'
 screenshots:
-  -
-    imageUrl: 'https://zunburst.com/images/vext_publish/Zunburst_ZLILITH_Screen_1.png'
-  -
-    imageUrl: 'https://zunburst.com/images/vext_publish/Zunburst_THRD_party_Legal_notice.png'
+  - imageUrl: 'https://zunburst.com/images/vext_publish/Zunburst_ZLILITH_Screen_1.png'
+  - imageUrl: 'https://zunburst.com/images/vext_publish/Zunburst_THRD_party_Legal_notice.png'
+disabled: true # Link to website broken

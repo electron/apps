@@ -1,0 +1,17 @@
+name: Water Cooler
+description: 'Always available virtual office for any team.'
+website: 'https://watercooler.work'
+category: 'Productivity'
+keywords:
+  - office
+  - remote
+  - video
+  - chat
+  - conferencing
+  - audio
+  - virtual
+  - communication
+  - collaboration
+screenshots:
+  - imageUrl: 'https://watercooler.work/img/electron-app-page-screenshot.png'
+    caption: 'Screenshot of the Water Cooler MacOS App'

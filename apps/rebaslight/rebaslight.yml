@@ -3,11 +3,11 @@ description: 'Easy to use video special effects editor'
 website: 'https://www.rebaslight.com/'
 repository: 'https://github.com/rebaslight/rebaslight'
 keywords:
-    - 'special effects'
-    - 'video editor'
-    - sfx
-    - lightsaber
-    - muzzle-flash
-    - lightning
-    - laser
+  - 'special effects'
+  - 'video editor'
+  - sfx
+  - lightsaber
+  - muzzle-flash
+  - lightning
+  - laser
 category: 'Photo & Video'

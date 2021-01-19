@@ -1,0 +1,23 @@
+name: media-dupes
+description: 'Minimal media duplicator for common media services like youtube.'
+website: 'https://github.com/yafp/media-dupes'
+repository: 'https://github.com/yafp/media-dupes'
+keywords:
+  - youtube
+  - youtube-dl
+  - ffmpeg
+  - linux
+  - mac
+  - windows
+  - download
+  - mirror
+  - duplicate
+  - media
+  - multimedia
+  - audio
+  - video
+category: 'Productivity'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/yafp/media-dupes/master/.github/images/screenshots/ui_latest.png'
+locales:
+  - en-EN

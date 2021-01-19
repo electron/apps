@@ -1,68 +1,73 @@
 [
   {
     "name": "Productivity",
-    "count": 234,
+    "count": 281,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 173,
+    "count": 224,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 130,
+    "count": 154,
     "slug": "utilities"
   },
   {
     "name": "Music",
-    "count": 53,
+    "count": 60,
     "slug": "music"
   },
   {
     "name": "Social Networking",
-    "count": 47,
+    "count": 52,
     "slug": "social-networking"
   },
   {
     "name": "Photo & Video",
-    "count": 42,
+    "count": 51,
     "slug": "photo-video"
   },
   {
     "name": "Games",
-    "count": 33,
+    "count": 38,
     "slug": "games"
   },
   {
     "name": "Finance",
-    "count": 29,
+    "count": 33,
     "slug": "finance"
   },
   {
     "name": "Business",
-    "count": 24,
+    "count": 30,
     "slug": "business"
   },
   {
     "name": "Education",
-    "count": 19,
+    "count": 25,
     "slug": "education"
   },
   {
     "name": "Graphics & Design",
-    "count": 13,
+    "count": 20,
     "slug": "graphics-design"
   },
   {
-    "name": "Books",
-    "count": 6,
-    "slug": "books"
+    "name": "Entertainment",
+    "count": 11,
+    "slug": "entertainment"
   },
   {
-    "name": "Entertainment",
-    "count": 6,
-    "slug": "entertainment"
+    "name": "News",
+    "count": 8,
+    "slug": "news"
+  },
+  {
+    "name": "Books",
+    "count": 7,
+    "slug": "books"
   },
   {
     "name": "Lifestyle",
@@ -70,9 +75,9 @@
     "slug": "lifestyle"
   },
   {
-    "name": "News",
-    "count": 5,
-    "slug": "news"
+    "name": "Food & Drink",
+    "count": 2,
+    "slug": "food-drink"
   },
   {
     "name": "Medical",
@@ -85,18 +90,13 @@
     "slug": "health-fitness"
   },
   {
-    "name": "Food & Drink",
+    "name": "Travel",
     "count": 1,
-    "slug": "food-drink"
+    "slug": "travel"
   },
   {
     "name": "Sports",
     "count": 1,
     "slug": "sports"
-  },
-  {
-    "name": "Travel",
-    "count": 1,
-    "slug": "travel"
   }
 ]

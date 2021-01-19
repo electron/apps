@@ -3,17 +3,13 @@ description: 'Build amazing mobile apps, faster.'
 website: 'https://github.com/hackur/Ionic-Creator'
 repository: 'https://github.com/hackur/Ionic-Creator'
 keywords:
-    - Ionic
-    - Creator
-    - Prototyping
+  - Ionic
+  - Creator
+  - Prototyping
 license: GNU
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/hackur/Ionic-Creator/b093554d8348cc1252412c8d4df422a7a29d12ff/build/Screenshot-dark-1.png'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/hackur/Ionic-Creator/b093554d8348cc1252412c8d4df422a7a29d12ff/build/Screenshot-dark-2.png'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/hackur/Ionic-Creator/b093554d8348cc1252412c8d4df422a7a29d12ff/build/Screenshot-light-1.png'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/hackur/Ionic-Creator/b093554d8348cc1252412c8d4df422a7a29d12ff/build/Screenshot-light-2.png'
+  - imageUrl: 'https://raw.githubusercontent.com/hackur/Ionic-Creator/b093554d8348cc1252412c8d4df422a7a29d12ff/build/Screenshot-dark-1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/hackur/Ionic-Creator/b093554d8348cc1252412c8d4df422a7a29d12ff/build/Screenshot-dark-2.png'
+  - imageUrl: 'https://raw.githubusercontent.com/hackur/Ionic-Creator/b093554d8348cc1252412c8d4df422a7a29d12ff/build/Screenshot-light-1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/hackur/Ionic-Creator/b093554d8348cc1252412c8d4df422a7a29d12ff/build/Screenshot-light-2.png'

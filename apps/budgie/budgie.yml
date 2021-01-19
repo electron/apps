@@ -3,8 +3,9 @@ description: 'Your personal budget planner.'
 website: 'https://github.com/ImNotLiam/budgie'
 repository: 'https://github.com/ImNotLiam/budgie'
 keywords:
-    - Finance
-    - Budget
-    - Planner
+  - Finance
+  - Budget
+  - Planner
 category: 'Finance'
 license: 'MIT license'
+disabled: true # Dead links, Profile https://github.com/ImNotLiam 404

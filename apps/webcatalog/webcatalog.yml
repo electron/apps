@@ -1,27 +1,36 @@
 name: WebCatalog
 description: 'Run Web Apps like Real Apps'
-website: 'https://getwebcatalog.com/'
-repository: 'https://github.com/quanglam2807/webcatalog'
+website: 'https://atomery.com/webcatalog'
+repository: 'https://github.com/atomery/webcatalog'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/catalog.png'
-        caption: 'Catalog'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/appview.png'
-        caption: 'AppView'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/workspace.png'
-        caption: 'Workspaces'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/53d4896b727ab18f3b8bcee644dde9ac12e3c302/docs/images/demos/menubar.png'
-        caption: 'Menubar'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/customization.png'
-        caption: 'Customization'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/main.png'
+    caption: 'WebCatalog - Run Web Apps like Real Apps'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/catalog.png'
+    caption: 'Catalog - Install apps quickly from our curated catalog'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/custom-apps.png'
+    caption: 'Custom Apps - Create apps easily from any websites'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/appview.png'
+    caption: 'AppView - Make any website works just like a real native app'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/workspace.png'
+    caption: 'Workspaces - Switch between multiple accounts/projects'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/notifications.png'
+    caption: 'Notifications - Control notifications with scheduling'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/customization.png'
+    caption:
+      'Customization - Make yourself at home with ad blocker, dark theme,
+      browser engine selection and more!'
+  - imageUrl: 'https://storage.atomery.com/marketing/webcatalog/browser-engines.png'
+    caption:
+      'Customization - Make yourself at home with ad blocker, dark theme,
+      browser engine selection and more!'
 keywords:
-    - 'site-specific browser'
-    - browser
-    - fluid
-    - fluidapp
-    - 'app store'
+  - 'app store'
+  - 'create desktop app'
+  - 'real app'
+  - 'site-specific browser'
+  - browser
+  - fluid
+  - fluidapp
+  - productivity
+  - ssb
 category: Productivity

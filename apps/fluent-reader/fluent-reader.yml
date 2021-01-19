@@ -1,0 +1,13 @@
+name: Fluent Reader
+description: 'Modern desktop RSS reader.'
+website: 'https://hyliu.me/fluent-reader/'
+repository: 'https://github.com/yang991178/fluent-reader'
+license: BSD
+keywords:
+  - rss
+  - rss reader
+  - news aggregator
+category: 'News'
+locales:
+  - zh-CN
+  - en-US

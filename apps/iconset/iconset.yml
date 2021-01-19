@@ -1,0 +1,16 @@
+name: Iconset
+description:
+  'Free cross-platform and fast SVG icon organizer for designers and teams.
+  Available for macOS and Windows.'
+website: 'https://iconset.io'
+category: Graphics & Design
+keywords:
+  - SVG Organizer
+  - Free
+  - Mac App
+  - Windows App
+  - Organizer
+screenshots:
+  - imageUrl: 'https://iconset.io/images/front-window.png'
+    caption: 'Iconset App'
+    imageLink: 'https://iconset.io/'

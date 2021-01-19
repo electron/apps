@@ -1,0 +1,14 @@
+name: DevSession GUI Starter
+description: Startup tool for DevSession, a collaborative web-based IDE.
+website: https://devsession.js.org
+category: Developer Tools
+repository: https://github.com/lukasbach/devsession
+keywords:
+  - development
+  - tool
+  - nodejs
+  - editor
+  - ide
+  - collaboration
+  - communication
+  - team

@@ -1,0 +1,12 @@
+name: homura
+description: Elegant RSS reader.
+website: https://github.com/Saul-Mirone/homura
+category: News
+repository: https://github.com/Saul-Mirone/homura
+keywords:
+  - rss
+  - rss-reader
+  - typescript
+  - react
+  - redux
+license: MIT

@@ -6,25 +6,25 @@ snapcraftName: 'commandeer'
 youtube_video_url: 'https://www.youtube.com/watch?v=6kNebYCE-9s'
 category: 'Developer Tools'
 keywords:
-    - aws
-    - localstack
-    - s3
-    - docker
-    - sns
-    - sqs
-    - cloud
-    - dynamodb
-    - iam
-    - lambda
-    - commandeer
+  - aws
+  - localstack
+  - s3
+  - docker
+  - sns
+  - sqs
+  - cloud
+  - dynamodb
+  - iam
+  - lambda
+  - commandeer
 license: Private
 screenshots:
-    - imageUrl: 'https://images.commandeer.be/_screenshots/dynamo-dashboard.png'
-      caption: 'View Your Data'
-      imageLink: 'https://getcommandeer.com'
-    - imageUrl: 'https://images.commandeer.be/_screenshots/ansible-runner.png'
-      caption: 'Build Your IAC'
-      imageLink: 'https://getcommandeer.com'
-    - imageUrl: 'https://images.commandeer.be/_screenshots/system-diagrams.png'
-      caption: 'Test Your Plumbing'
-      imageLink: 'https://getcommandeer.com'
+  - imageUrl: 'https://images.commandeer.be/_screenshots/dynamo-dashboard.png'
+    caption: 'View Your Data'
+    imageLink: 'https://getcommandeer.com'
+  - imageUrl: 'https://images.commandeer.be/_screenshots/ansible-runner.png'
+    caption: 'Build Your IAC'
+    imageLink: 'https://getcommandeer.com'
+  - imageUrl: 'https://images.commandeer.be/_screenshots/system-diagrams.png'
+    caption: 'Test Your Plumbing'
+    imageLink: 'https://getcommandeer.com'

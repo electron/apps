@@ -1,0 +1,14 @@
+name: 'Ten Hands'
+description: 'Simplest way to organize command-line tasks.'
+website: 'https://tenhands.app'
+category: Utilities
+repository: 'https://github.com/saisandeepvaddi/ten-hands'
+keywords:
+  - terminal
+  - command-line
+  - tasks
+  - tools
+  - organize
+  - nodejs
+  - react
+license: MIT

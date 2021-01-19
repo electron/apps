@@ -1,16 +1,23 @@
 name: GitHoard
 description: 'Hoard git repositories with ease'
-website: 'https://github.com/jojobyte/githoard'
-repository: 'https://github.com/jojobyte/githoard'
+website: 'https://github.com/beepboopbangbang/githoard'
+repository: 'https://github.com/beepboopbangbang/githoard'
 category: Productivity
 keywords:
-    - git
-    - code
-    - developer
-    - tool
-    - productivity
+  - git
+  - code
+  - developer
+  - tool
+  - productivity
 license: MIT
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/jojobyte/githoard/master/screens/demo.gif'
-        caption: 'GitHoard Demo'
+  - imageUrl: 'https://raw.githubusercontent.com/beepboopbangbang/githoard/master/screens/install.gif'
+    caption: 'GitHoard - Install on Windows'
+  - imageUrl: 'https://raw.githubusercontent.com/beepboopbangbang/githoard/master/screens/addon.gif'
+    caption: 'GitHoard - Get browser addon'
+  - imageUrl: 'https://raw.githubusercontent.com/beepboopbangbang/githoard/master/screens/changes.gif'
+    caption: 'GitHoard - See your local changes'
+  - imageUrl: 'https://raw.githubusercontent.com/beepboopbangbang/githoard/master/screens/locate.gif'
+    caption: 'GitHoard - Search through cloned repos'
+  - imageUrl: 'https://raw.githubusercontent.com/beepboopbangbang/githoard/master/screens/remove.gif'
+    caption: 'GitHoard - Take out the trash'
