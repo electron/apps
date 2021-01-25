@@ -1,0 +1,20 @@
+name: Fireman
+description:
+  ' Easily manage Firestore. View, query, edit and visualize data super fast'
+website: https://getfireman.com
+category: Developer Tools
+keywords:
+  - Firestore
+  - GUI client
+  - database query
+  - data visualization
+  - visualize data
+  - Firebase Users
+  - Firebase Authentication
+screenshots:
+  - imageUrl: 'https://getfireman.nyc3.digitaloceanspaces.com/intro_page.png'
+    caption: 'Intro Page'
+    imageLink: 'https://getfireman.com'
+  - imageUrl: 'https://getfireman.nyc3.digitaloceanspaces.com/main.png'
+    caption: 'Main query view'
+    imageLink: 'https://getfireman.com'
