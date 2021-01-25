@@ -2,7 +2,6 @@ name: Signal
 description: 'Private Messenger'
 website: 'https://signal.org'
 repository: 'https://github.com/signalapp/Signal-Desktop'
-homebrewCaskName: signal
 keywords:
   - communication
   - privacy
@@ -11,4 +10,4 @@ keywords:
   - messaging
   - p2p
 category: 'Social Networking'
-license: GPL-3.0
+license: AGPL-3.0-only
