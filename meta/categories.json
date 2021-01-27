@@ -1,12 +1,12 @@
 [
   {
     "name": "Productivity",
-    "count": 281,
+    "count": 282,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 224,
+    "count": 226,
     "slug": "developer-tools"
   },
   {
@@ -60,14 +60,14 @@
     "slug": "entertainment"
   },
   {
+    "name": "Books",
+    "count": 8,
+    "slug": "books"
+  },
+  {
     "name": "News",
     "count": 8,
     "slug": "news"
-  },
-  {
-    "name": "Books",
-    "count": 7,
-    "slug": "books"
   },
   {
     "name": "Lifestyle",
