@@ -1,8 +1,8 @@
-name: zonote
-description: Sticky notes + Markdown + Tabs. All in one .txt file.
-website: https://github.com/zonetti/zonote
-category: Productivity
-repository: https://github.com/zonetti/zonote
+name: 'zonote'
+description: 'Sticky notes + Markdown + Tabs. All in one .txt file.'
+website: 'https://github.com/zonetti/zonote'
+category: 'Productivity'
+repository: 'https://github.com/zonetti/zonote'
 keywords:
   - note-taking
   - sticky-notes
@@ -11,3 +11,5 @@ keywords:
   - offline-first
   - notes
 license: MIT
+screenshots:
+  - imageUrl: 'https://github.com/zonetti/zonote/blob/master/preview.gif?raw=true'

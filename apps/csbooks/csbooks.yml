@@ -1,0 +1,23 @@
+name: csBooks
+description: 'Manage and read your PDF, ePub and MOBI books with ease.'
+website: 'https://caesiumstudio.com'
+repository: 'https://github.com/caesiumstudio/csBooks-updates.git'
+snapcraftName: 'csbooks'
+youtube_video_url: 'https://www.youtube.com/watch?v=fJH8n7iZx5k'
+keywords:
+  - book
+  - pdf
+  - epub
+  - mobi
+  - "'epub reader'"
+  - "'mobi book reader'"
+  - "'pdf reader'"
+  - "'book manager'"
+  - "'audio books'"
+license: Proprietary
+category: Books
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/hero.png'
+  - imageUrl: 'https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/dark-mode.png'
+  - imageUrl: 'https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/audio-books.png'
+  - imageUrl: 'https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/themes.png'

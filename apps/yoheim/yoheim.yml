@@ -1,0 +1,10 @@
+name: Yoheim
+description: 'Collaboration platform to manage and share ssh servers.'
+website: https://www.yoheim.com
+keywords:
+  - 'ssh client'
+  - 'port forwarding client'
+  - 'productivity'
+  - 'devops'
+  - 'ssh sharing and collaboration'
+category: 'Developer Tools'
