@@ -1,0 +1,22 @@
+name: Antares
+description: Free and open source SQL client made to be simple and complete.
+website: https://antares-sql.app
+category: Developer Tools
+repository: https://github.com/Fabio286/antares
+keywords:
+  - sql client
+  - databases
+  - sql
+  - mysql
+  - mariadb
+  - linux
+  - windows
+  - mac
+license: MIT
+screenshots:
+  - imageUrl: 'https://antares-sql.app/img/screen1.png'
+    caption: 'Database table content view'
+  - imageUrl: 'https://antares-sql.app/img/screen2.png'
+    caption: 'Context menu to manage elements'
+  - imageUrl: 'https://antares-sql.app/img/screen3.png'
+    caption: 'SQL auto completion'
