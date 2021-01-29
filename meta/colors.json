@@ -479,6 +479,22 @@
       "revHash": "7405f30b9d"
     }
   },
+  "antares": {
+    "faintColorOnWhite": "rgba(143, 106, 4, 0.1)",
+    "goodColorOnBlack": "#FBD363",
+    "goodColorOnWhite": "#8F6A04",
+    "palette": [
+      "#e36b2b",
+      "#fbd363",
+      "#fcfaf1",
+      "#f4b454",
+      "#ec9c46"
+    ],
+    "source": {
+      "path": "apps/antares/antares-icon.png",
+      "revHash": "33b4556484"
+    }
+  },
   "ao": {
     "faintColorOnWhite": "rgba(12, 118, 134, 0.1)",
     "goodColorOnBlack": "#15C8E3",
@@ -3661,6 +3677,22 @@
     "source": {
       "path": "apps/electrocrud/electrocrud-icon.png",
       "revHash": "89de518556"
+    }
+  },
+  "electron-clippy": {
+    "faintColorOnWhite": "rgba(68, 76, 99, 0.1)",
+    "goodColorOnBlack": "#FC6C4C",
+    "goodColorOnWhite": "#444C63",
+    "palette": [
+      "#f4f4f6",
+      "#fc6c4c",
+      "#444c63",
+      "#fcca59",
+      "#fcb234"
+    ],
+    "source": {
+      "path": "apps/electron-clippy/electron-clippy-icon.png",
+      "revHash": "e0d1936293"
     }
   },
   "elements": {
