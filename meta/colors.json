@@ -12496,19 +12496,19 @@
     }
   },
   "spofly": {
-    "faintColorOnWhite": "rgba(12, 20, 59, 0.1)",
-    "goodColorOnBlack": "#B8900B",
-    "goodColorOnWhite": "#0C143B",
+    "faintColorOnWhite": "rgba(36, 30, 36, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#241E24",
     "palette": [
-      "#0c143b",
-      "#b8900b",
-      "#554a26",
-      "#6c5c24",
-      "#343434"
+      "#241e24",
+      "#fbfbfb",
+      "#8c8c8c",
+      "#949494",
+      "#848484"
     ],
     "source": {
       "path": "apps/spofly/spofly-icon.png",
-      "revHash": "b7382b8f79"
+      "revHash": "4e0c0a40a7"
     }
   },
   "sportfx-studio": {
