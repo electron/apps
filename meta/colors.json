@@ -479,6 +479,22 @@
       "revHash": "7405f30b9d"
     }
   },
+  "antares": {
+    "faintColorOnWhite": "rgba(143, 106, 4, 0.1)",
+    "goodColorOnBlack": "#FBD363",
+    "goodColorOnWhite": "#8F6A04",
+    "palette": [
+      "#e36b2b",
+      "#fbd363",
+      "#fcfaf1",
+      "#f4b454",
+      "#ec9c46"
+    ],
+    "source": {
+      "path": "apps/antares/antares-icon.png",
+      "revHash": "33b4556484"
+    }
+  },
   "ao": {
     "faintColorOnWhite": "rgba(12, 118, 134, 0.1)",
     "goodColorOnBlack": "#15C8E3",
@@ -2160,19 +2176,19 @@
     }
   },
   "compress": {
-    "faintColorOnWhite": "rgba(4, 21, 155, 0.1)",
-    "goodColorOnBlack": "#9CACEC",
-    "goodColorOnWhite": "#04159B",
+    "faintColorOnWhite": "rgba(55, 101, 216, 0.1)",
+    "goodColorOnBlack": "#94B4EC",
+    "goodColorOnWhite": "#3765D8",
     "palette": [
-      "#2f60d7",
-      "#f9f9fa",
-      "#8292c9",
-      "#04159b",
-      "#9cacec"
+      "#3765d8",
+      "#f9f9f9",
+      "#3b538a",
+      "#87a0dd",
+      "#94b4ec"
     ],
     "source": {
       "path": "apps/compress/compress-icon.png",
-      "revHash": "9d1c7f6251"
+      "revHash": "dbbe4c38f4"
     }
   },
   "concats": {
@@ -2493,6 +2509,22 @@
     "source": {
       "path": "apps/cryptowallet/cryptowallet-icon.png",
       "revHash": "020c09752b"
+    }
+  },
+  "csbooks": {
+    "faintColorOnWhite": "rgba(4, 122, 185, 0.1)",
+    "goodColorOnBlack": "#0489CF",
+    "goodColorOnWhite": "#047AB9",
+    "palette": [
+      "#d7d8d8",
+      "#0489cf",
+      "#5da3c8",
+      "#70ccf0",
+      "#89a4b6"
+    ],
+    "source": {
+      "path": "apps/csbooks/csbooks-icon.png",
+      "revHash": "548daba1e8"
     }
   },
   "csv-to-sqlite": {
@@ -3647,6 +3679,22 @@
       "revHash": "89de518556"
     }
   },
+  "electron-clippy": {
+    "faintColorOnWhite": "rgba(68, 76, 99, 0.1)",
+    "goodColorOnBlack": "#FC6C4C",
+    "goodColorOnWhite": "#444C63",
+    "palette": [
+      "#f4f4f6",
+      "#fc6c4c",
+      "#444c63",
+      "#fcca59",
+      "#fcb234"
+    ],
+    "source": {
+      "path": "apps/electron-clippy/electron-clippy-icon.png",
+      "revHash": "e0d1936293"
+    }
+  },
   "elements": {
     "faintColorOnWhite": "rgba(11, 113, 201, 0.1)",
     "goodColorOnBlack": "#2D98F4",
@@ -4093,6 +4141,22 @@
     "source": {
       "path": "apps/firebase-admin/firebase-admin-icon.png",
       "revHash": "9870343b63"
+    }
+  },
+  "fireman": {
+    "faintColorOnWhite": "rgba(206, 73, 63, 0.1)",
+    "goodColorOnBlack": "#FAB204",
+    "goodColorOnWhite": "#CE493F",
+    "palette": [
+      "#080707",
+      "#ce493f",
+      "#fab204",
+      "#6c2b1f",
+      "#d87d11"
+    ],
+    "source": {
+      "path": "apps/fireman/fireman-icon.png",
+      "revHash": "2d857dd6ee"
     }
   },
   "flawesome": {
@@ -8847,6 +8911,22 @@
       "revHash": "2af85b7a71"
     }
   },
+  "nxshell": {
+    "faintColorOnWhite": "rgba(35, 78, 101, 0.1)",
+    "goodColorOnBlack": "#04B2F9",
+    "goodColorOnWhite": "#234E65",
+    "palette": [
+      "#04b2f9",
+      "#2c2c2c",
+      "#c4c4c4",
+      "#234e65",
+      "#7c7860"
+    ],
+    "source": {
+      "path": "apps/nxshell/nxshell-icon.png",
+      "revHash": "c6f2586f70"
+    }
+  },
   "nylas-n1": {
     "faintColorOnWhite": "rgba(7, 130, 122, 0.1)",
     "goodColorOnBlack": "#099F95",
@@ -11808,19 +11888,19 @@
     }
   },
   "signal": {
-    "faintColorOnWhite": "rgba(23, 100, 181, 0.1)",
-    "goodColorOnBlack": "#8ECCF4",
-    "goodColorOnWhite": "#1764B5",
+    "faintColorOnWhite": "rgba(31, 97, 240, 0.1)",
+    "goodColorOnBlack": "#3974F2",
+    "goodColorOnWhite": "#1F61F0",
     "palette": [
-      "#eaf1f3",
-      "#288fe6",
-      "#77b4e8",
-      "#1764b5",
-      "#8eccf4"
+      "#f2fafb",
+      "#3974f2",
+      "#749cf4",
+      "#98b2f4",
+      "#809ef4"
     ],
     "source": {
       "path": "apps/signal/signal-icon.png",
-      "revHash": "d46b8bb27b"
+      "revHash": "38b333905d"
     }
   },
   "simpico": {
@@ -12416,19 +12496,19 @@
     }
   },
   "spofly": {
-    "faintColorOnWhite": "rgba(12, 20, 59, 0.1)",
-    "goodColorOnBlack": "#B8900B",
-    "goodColorOnWhite": "#0C143B",
+    "faintColorOnWhite": "rgba(36, 30, 36, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#241E24",
     "palette": [
-      "#0c143b",
-      "#b8900b",
-      "#554a26",
-      "#6c5c24",
-      "#343434"
+      "#241e24",
+      "#fbfbfb",
+      "#8c8c8c",
+      "#949494",
+      "#848484"
     ],
     "source": {
       "path": "apps/spofly/spofly-icon.png",
-      "revHash": "b7382b8f79"
+      "revHash": "4e0c0a40a7"
     }
   },
   "sportfx-studio": {
@@ -14269,6 +14349,22 @@
     "source": {
       "path": "apps/tzared/tzared-icon.png",
       "revHash": "8465c685b9"
+    }
+  },
+  "u-stair": {
+    "faintColorOnWhite": "rgba(45, 61, 85, 0.1)",
+    "goodColorOnBlack": "#8C94A4",
+    "goodColorOnWhite": "#2D3D55",
+    "palette": [
+      "#2d3d55",
+      "#f8f9f9",
+      "#9ca4ac",
+      "#8d9ca4",
+      "#8c94a4"
+    ],
+    "source": {
+      "path": "apps/u-stair/u-stair-icon.png",
+      "revHash": "37dc3e0a92"
     }
   },
   "ubauth": {
