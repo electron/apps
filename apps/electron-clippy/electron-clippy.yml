@@ -1,0 +1,9 @@
+name: Electron-clippy
+description: Simple clipboard manager inspired by ditto.
+website: https://github.com/HeyitSaif/Clippy.git
+category: Productivity
+repository: https://github.com/HeyitSaif/Clippy.git
+keywords:
+  - 'clibboard'
+  - 'clippy'
+  - 'ditto'
