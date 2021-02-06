@@ -1,6 +1,6 @@
 name: RunJS
-description: 'The JavaScript playground for rapid prototyping.'
-website: 'https://runjs.dev'
+description: 'The JavaScript playground for your desktop.'
+website: 'https://runjs.app'
 homebrewCaskName: runjs
 category: 'Developer Tools'
 keywords:
