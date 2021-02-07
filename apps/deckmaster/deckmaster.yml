@@ -1,0 +1,15 @@
+name: DeckMaster
+description:
+  'Yu-Gi-Oh! DeckMaster is a deck editor for the Yu-Gi-Oh! trading card game.
+  It features a full deck editor and a combo editor for live probabilities.'
+website: 'http://theotterlord.github.io/deckmaster'
+repository: 'https://github.com/TheOtterlord/deckmaster'
+screenshots:
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/TheOtterlord/deckmaster/main/docs/assets/deckbuilding.png',
+    }
+keywords:
+  - yu-gi-oh
+  - deck-building
+license: MIT
+category: Games
