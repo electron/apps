@@ -1,6 +1,5 @@
 name: DeckMaster
-description:
-  'Deck editor for the yu-gi-oh trading card game.'
+description: 'Deck editor for the yu-gi-oh trading card game.'
 website: 'https://theotterlord.github.io/deckmaster'
 repository: 'https://github.com/TheOtterlord/deckmaster'
 screenshots:
