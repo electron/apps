@@ -1183,6 +1183,22 @@
       "revHash": "c4b03df923"
     }
   },
+  "brisqi": {
+    "faintColorOnWhite": "rgba(36, 76, 132, 0.1)",
+    "goodColorOnBlack": "#1C98E4",
+    "goodColorOnWhite": "#244C84",
+    "palette": [
+      "#1c98e4",
+      "#fafafb",
+      "#244c84",
+      "#7e98ba",
+      "#84c4ec"
+    ],
+    "source": {
+      "path": "apps/brisqi/brisqi-icon.png",
+      "revHash": "9bfdb45235"
+    }
+  },
   "browser-dispatcher": {
     "faintColorOnWhite": "rgba(51, 72, 80, 0.1)",
     "goodColorOnBlack": "#2689AD",
@@ -2909,6 +2925,22 @@
     "source": {
       "path": "apps/deckhub/deckhub-icon.png",
       "revHash": "90916f3a89"
+    }
+  },
+  "deckmaster": {
+    "faintColorOnWhite": "rgba(140, 116, 44, 0.1)",
+    "goodColorOnBlack": "#FAE049",
+    "goodColorOnWhite": "#8C742C",
+    "palette": [
+      "#fae049",
+      "#181818",
+      "#70622c",
+      "#8c742c",
+      "#544c2c"
+    ],
+    "source": {
+      "path": "apps/deckmaster/deckmaster-icon.png",
+      "revHash": "130468ad76"
     }
   },
   "deco-ide": {
@@ -12496,19 +12528,19 @@
     }
   },
   "spofly": {
-    "faintColorOnWhite": "rgba(12, 20, 59, 0.1)",
-    "goodColorOnBlack": "#B8900B",
-    "goodColorOnWhite": "#0C143B",
+    "faintColorOnWhite": "rgba(36, 30, 36, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#241E24",
     "palette": [
-      "#0c143b",
-      "#b8900b",
-      "#554a26",
-      "#6c5c24",
-      "#343434"
+      "#241e24",
+      "#fbfbfb",
+      "#8c8c8c",
+      "#949494",
+      "#848484"
     ],
     "source": {
       "path": "apps/spofly/spofly-icon.png",
-      "revHash": "b7382b8f79"
+      "revHash": "4e0c0a40a7"
     }
   },
   "sportfx-studio": {
