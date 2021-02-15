@@ -6687,6 +6687,22 @@
       "revHash": "4c74411fb9"
     }
   },
+  "lax": {
+    "faintColorOnWhite": "rgba(3, 125, 153, 0.1)",
+    "goodColorOnBlack": "#4FDBFB",
+    "goodColorOnWhite": "#037D99",
+    "palette": [
+      "#1bc8ef",
+      "#fafbfc",
+      "#4fdbfb",
+      "#69e3fb",
+      "#b6eefb"
+    ],
+    "source": {
+      "path": "apps/lax/lax-icon.png",
+      "revHash": "9f2aed70c0"
+    }
+  },
   "lazytype": {
     "faintColorOnWhite": "rgba(35, 35, 28, 0.1)",
     "goodColorOnBlack": "#F5F5F5",
