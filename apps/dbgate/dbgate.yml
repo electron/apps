@@ -4,6 +4,7 @@ website: https://dbgate.org
 category: Developer Tools
 repository: https://github.com/dbgate/dbgate
 snapcraftName: dbgate
+npmPackageName: dbgate
 keywords:
   - database
   - sql
@@ -14,5 +15,9 @@ keywords:
   - csv
 license: MIT
 screenshots:
-  - imageUrl: https://raw.githubusercontent.com/dbgate/dbgate/master/screenshot.png
-    caption: DbGate - master detail view
+  - imageUrl: https://dbgate.org/assets/screenshots/datagrid.png
+    caption: DbGate - data grid
+  - imageUrl: https://dbgate.org/assets/screenshots/querydesigner.png
+    caption: DbGate - query designer
+  - imageUrl: https://dbgate.org/assets/screenshots/darkmode.png
+    caption: DbGate - dark theme
