@@ -1,0 +1,31 @@
+name: Brisqi
+description: 'Offline-first personal Kanban app.'
+website: 'https://brisqi.com'
+category: Productivity
+keywords:
+  - productivity
+  - kanban
+  - task
+  - tasks
+  - task manager
+  - taskmanagement
+  - project
+  - projectmanagement
+  - planning
+  - todo
+  - to-do
+  - focus
+  - free
+screenshots:
+  - imageUrl: 'https://brisqi.com/assets/main.png'
+    caption: 'Brisqi'
+    imageLink: 'https://brisqi.com'
+  - imageUrl: 'https://brisqi.com/assets/practical.png'
+    caption: 'Light & Dark theme'
+    imageLink: 'https://brisqi.com'
+  - imageUrl: 'https://brisqi.com/assets/group.png'
+    caption: 'Group your boards'
+    imageLink: 'https://brisqi.com'
+  - imageUrl: 'https://brisqi.com/assets/label.png'
+    caption: 'Label your cards'
+    imageLink: 'https://brisqi.com'
