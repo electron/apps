@@ -1,0 +1,14 @@
+name: DiLink
+description:
+  'The DiLink can generate direct download links for various cloud drives.'
+website: 'https://msalmancheemasoftwares.github.io/dilink/index.html'
+screenshots:
+  - {
+      imageUrl: 'https://msalmancheemasoftwares.github.io/dilink/assets/screenShots/1.png',
+    }
+keywords:
+  - Direct
+  - Download
+  - Link generator
+  - Direct download link generator
+category: Utilities
