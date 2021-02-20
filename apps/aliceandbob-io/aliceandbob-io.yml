@@ -12,6 +12,8 @@ keywords:
   - generate
   - encrypt
   - decrypt
+  - 'public key'
+  - 'private key'
 license: MIT
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/aliceandbob-io/files/main/features_generate.png'
