@@ -1,0 +1,12 @@
+name: 'Google Chat Electron'
+description: 'Unofficial desktop app for Google Chat.'
+website: https://github.com/ankurk91/google-chat-electron
+category: 'Social Networking'
+repository: https://github.com/ankurk91/google-chat-electron
+snapcraftName: google-chat-electron
+keywords:
+  - google-hangouts
+  - hangouts-chat
+license: MIT
+screenshots:
+  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2021/02/chat-desktop-screenshot.png'
