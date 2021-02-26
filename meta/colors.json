@@ -1183,6 +1183,22 @@
       "revHash": "c4b03df923"
     }
   },
+  "brisqi": {
+    "faintColorOnWhite": "rgba(36, 76, 132, 0.1)",
+    "goodColorOnBlack": "#1C98E4",
+    "goodColorOnWhite": "#244C84",
+    "palette": [
+      "#1c98e4",
+      "#fafafb",
+      "#244c84",
+      "#7e98ba",
+      "#84c4ec"
+    ],
+    "source": {
+      "path": "apps/brisqi/brisqi-icon.png",
+      "revHash": "9bfdb45235"
+    }
+  },
   "browser-dispatcher": {
     "faintColorOnWhite": "rgba(51, 72, 80, 0.1)",
     "goodColorOnBlack": "#2689AD",
@@ -2909,6 +2925,22 @@
     "source": {
       "path": "apps/deckhub/deckhub-icon.png",
       "revHash": "90916f3a89"
+    }
+  },
+  "deckmaster": {
+    "faintColorOnWhite": "rgba(140, 116, 44, 0.1)",
+    "goodColorOnBlack": "#FAE049",
+    "goodColorOnWhite": "#8C742C",
+    "palette": [
+      "#fae049",
+      "#181818",
+      "#70622c",
+      "#8c742c",
+      "#544c2c"
+    ],
+    "source": {
+      "path": "apps/deckmaster/deckmaster-icon.png",
+      "revHash": "130468ad76"
     }
   },
   "deco-ide": {
@@ -6653,6 +6685,22 @@
     "source": {
       "path": "apps/laverna/laverna-icon.png",
       "revHash": "4c74411fb9"
+    }
+  },
+  "lax": {
+    "faintColorOnWhite": "rgba(3, 125, 153, 0.1)",
+    "goodColorOnBlack": "#4FDBFB",
+    "goodColorOnWhite": "#037D99",
+    "palette": [
+      "#1bc8ef",
+      "#fafbfc",
+      "#4fdbfb",
+      "#69e3fb",
+      "#b6eefb"
+    ],
+    "source": {
+      "path": "apps/lax/lax-icon.png",
+      "revHash": "9f2aed70c0"
     }
   },
   "lazytype": {
