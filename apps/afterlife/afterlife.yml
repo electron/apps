@@ -1,0 +1,42 @@
+name: AfterLife
+description:
+  This app is for people who format the pc and do not want to forget any app to
+  install.
+website: https://aderitoneto.me/
+category: Utilities
+repository: https://github.com/AderitoNeto/AfterLife
+keywords:
+  - format
+  - clean
+  - pc
+  - windows
+  - win32
+  - win64
+  - after
+  - life
+  - html
+  - js
+  - css
+  - forget
+  - install
+  - apps
+  - browsers
+  - programming
+  - games
+  - launchers
+  - utilities
+  - communication
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/AderitoNeto/AfterLife/Master/src/images/Readme/1.PNG'
+    caption: 'Home page'
+  - imageUrl: 'https://raw.githubusercontent.com/AderitoNeto/AfterLife/Master/src/images/Readme/2.PNG'
+    caption: 'Browsers page'
+  - imageUrl: 'https://raw.githubusercontent.com/AderitoNeto/AfterLife/Master/src/images/Readme/3.PNG'
+    caption: 'Game launchers page'
+  - imageUrl: 'https://raw.githubusercontent.com/AderitoNeto/AfterLife/Master/src/images/Readme/4.PNG'
+    caption: 'Communication page'
+  - imageUrl: 'https://raw.githubusercontent.com/AderitoNeto/AfterLife/Master/src/images/Readme/5.PNG'
+    caption: 'Programming page'
+  - imageUrl: 'https://raw.githubusercontent.com/AderitoNeto/AfterLife/Master/src/images/Readme/6.PNG'
+    caption: 'Utilities page'
