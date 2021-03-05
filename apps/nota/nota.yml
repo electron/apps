@@ -1,0 +1,23 @@
+name: Nota
+description: "Pro writing app designed for local Markdown files."
+website: 'https://nota.md'
+repository: 'https://github.com/notaapp/releases'
+keywords:
+  - notes
+  - markdown
+  - 'note taking'
+  - mac
+  - knowledge-base
+  - documentation
+  - code
+  - editor
+  - 'text editor'
+  - writing
+  - prose
+category: Productivity
+screenshots:
+  - imageUrl: 'https://github.com/astoilkov/nota-images/blob/master/nota-1.png?raw=true'
+    caption: 'Nota'
+- imageUrl: 'https://github.com/astoilkov/nota-images/blob/master/nota-2.png?raw=true'
+    caption: 'Dark Mode'
+homebrewCaskName: nota
