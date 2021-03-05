@@ -1,0 +1,8 @@
+name: Agam's Internet Speedtest
+description: App to measure Network's Speed.
+website: https://github.com/agam778/Agam-s-Internet-Speedtest
+category: Utilities
+repository: https://github.com/agam778/Agam-s-Internet-Speedtest
+keywords:
+  - This is an app which will measure your Network's Speed. It is made using
+    Ookla's Speedtest Custom.
