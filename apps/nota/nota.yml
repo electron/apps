@@ -18,6 +18,6 @@ category: Productivity
 screenshots:
   - imageUrl: 'https://github.com/astoilkov/nota-images/blob/master/nota-1.png?raw=true'
     caption: 'Nota'
-- imageUrl: 'https://github.com/astoilkov/nota-images/blob/master/nota-2.png?raw=true'
+  - imageUrl: 'https://github.com/astoilkov/nota-images/blob/master/nota-2.png?raw=true'
     caption: 'Dark Mode'
 homebrewCaskName: nota
