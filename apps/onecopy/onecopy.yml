@@ -3,15 +3,13 @@ description:
   'Save all information and paste them whenever you need them.'
 website: 'https://github.com/HiroshiFuu/onecopy-electron'
 screenshots:
-  -
+  - imageUrl: 'https://res.cloudinary.com/hiroshifuu/image/upload/v1615011669/OneCopy%20screenshots/app-icon_kwkbje.png'
     caption: 'App Icon'
-    imageUrl: 'https://res.cloudinary.com/hiroshifuu/image/upload/v1615011669/OneCopy%20screenshots/app-icon_kwkbje.png',
-  -
+  - imageUrl: 'https://res.cloudinary.com/hiroshifuu/image/upload/v1615011677/OneCopy%20screenshots/home_lvpekc.png'
     caption: 'App Home'
-    imageUrl: 'https://res.cloudinary.com/hiroshifuu/image/upload/v1615011677/OneCopy%20screenshots/home_lvpekc.png',
-  -
+  - imageUrl: 'https://res.cloudinary.com/hiroshifuu/image/upload/v1615011677/OneCopy%20screenshots/dialog_hi9xgb.png'
     caption: 'Input Dialog'
-    imageUrl: 'https://res.cloudinary.com/hiroshifuu/image/upload/v1615011677/OneCopy%20screenshots/dialog_hi9xgb.png',
+    
 keywords:
   - clipboard
   - password-manager
