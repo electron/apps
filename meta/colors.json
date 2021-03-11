@@ -3855,6 +3855,22 @@
       "revHash": "39d7d0986d"
     }
   },
+  "erin": {
+    "faintColorOnWhite": "rgba(4, 129, 31, 0.1)",
+    "goodColorOnBlack": "#80FB9B",
+    "goodColorOnWhite": "#04811F",
+    "palette": [
+      "#f1fbf4",
+      "#29e085",
+      "#80fb9b",
+      "#97f6b3",
+      "#bff1c3"
+    ],
+    "source": {
+      "path": "apps/erin/erin-icon.png",
+      "revHash": "b6282b9100"
+    }
+  },
   "esteem-surfer": {
     "faintColorOnWhite": "rgba(29, 84, 156, 0.1)",
     "goodColorOnBlack": "#63BBFC",
