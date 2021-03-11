@@ -2239,6 +2239,22 @@
       "revHash": "229770e211"
     }
   },
+  "copy2": {
+    "faintColorOnWhite": "rgba(226, 17, 87, 0.1)",
+    "goodColorOnBlack": "#FBCBDB",
+    "goodColorOnWhite": "#E21157",
+    "palette": [
+      "#fbfafa",
+      "#b387b3",
+      "#f3bcbc",
+      "#fbcbdb",
+      "#bcadc9"
+    ],
+    "source": {
+      "path": "apps/copy2/copy2-icon.png",
+      "revHash": "29ac9e710e"
+    }
+  },
   "corda-node-explorer": {
     "faintColorOnWhite": "rgba(228, 36, 28, 0.1)",
     "goodColorOnBlack": "#E8241C",
