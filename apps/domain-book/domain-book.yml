@@ -5,10 +5,17 @@ website: 'https://darawish.io/domainbook/'
 repository: 'https://github.com/darawish/domainbook'
 keywords:
   - domains
+  - windows app
+  - windows 10 app
+  - windows 10 64-bit
+  - macOS app
+  - monitoring
 category: Utilities
 screenshots:
   - imageUrl: 'https://i.imgur.com/BXQ7KdJ.png'
     caption: 'main window'
+  - imageUrl: 'https://i.imgur.com/6ttUPGE.png'
+    caption: 'Windows version'      
   - imageUrl: 'https://i.imgur.com/Dr11o85.png'
     caption: 'adding domain'
   - imageUrl: 'https://i.imgur.com/WrJBMmB.png'
