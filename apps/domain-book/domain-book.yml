@@ -3,6 +3,8 @@ description:
   'Elegant domain monitoring app, it’s like a phone book but for your domains.'
 website: 'https://darawish.io/domainbook/'
 repository: 'https://github.com/darawish/domainbook'
+license: Paid
+youtube_video_url: 'https://vimeo.com/479298720'
 keywords:
   - domains
   - windows app
