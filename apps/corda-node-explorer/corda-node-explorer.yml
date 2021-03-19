@@ -1,0 +1,24 @@
+name: Corda Node Explorer
+description:
+  Interact with Corda Blockchain Nodes - explore network, vault, and
+  transactions.
+website: https://docs.corda.net/docs/corda-os/node-explorer.html
+category: Developer Tools
+repository: https://github.com/corda/node-explorer
+keywords:
+  - java
+  - kotlin
+  - dlt
+  - blockchain
+  - rpc
+  - corda
+  - cordapp
+  - smart-contract
+  - enterprise
+  - r3
+  - network
+license: Apache
+screenshots:
+  - imageUrl: 'https://docs.corda.net/docs/corda-os/4.5/resources/node-explorer/node-explorer-map.png'
+  - imageUrl: 'https://docs.corda.net/docs/corda-os/4.5/resources/node-explorer/node-explorer-transactions.png'
+  - imageUrl: 'https://docs.corda.net/docs/corda-os/4.5/resources/node-explorer/node-explorer-vault.png'

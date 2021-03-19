@@ -1,18 +1,22 @@
 name: AppServer
-description: 'A Desktop App Server for HTML, MD files for Developers and Enthusiasts.'
+description:
+  'A Desktop App Server for HTML, MD files for Developers and Enthusiasts.'
 website: 'https://github.com/bismay4u/AppServer'
 category: 'Developer Tools'
 repository: 'https://github.com/bismay4u/AppServer'
 keywords:
-    - AppServer
-    - WebServer
-    - DesktopServer
-    - Server
-    - DesignerServer
-    - QuickPreview
+  - AppServer
+  - WebServer
+  - DesktopServer
+  - Server
+  - DesignerServer
+  - QuickPreview
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://github.com/bismay4u/AppServer/blob/master/build/screenshot.png'
+  - imageUrl: 'https://github.com/bismay4u/AppServer/blob/master/build/screenshot.png'
     caption: 'Screenshot 1'
     imageLink: 'https://github.com/bismay4u/AppServer'
+disabled: true
+disabledComment:
+  'disabled in Thu, 1 Oct 2020, because the electron version is older than 3.x (
+  "electron": "^2.0.6" )'

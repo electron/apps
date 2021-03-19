@@ -3,13 +3,13 @@ description: 'A simple but smart menubar weather app.'
 website: 'https://jackd248.github.io/temps/'
 repository: 'https://github.com/jackd248/temps'
 keywords:
-    - Temps
-    - Menubar
-    - Weather
-    - Temperature
-    - Forecast
+  - Temps
+  - Menubar
+  - Weather
+  - Temperature
+  - Forecast
 license: MIT
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/jackd248/temps/master/assets/screenshot.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/jackd248/temps/master/assets/screenshot.jpg'
+disabled: true # Dead link(s): https://jackd248.github.io/temps/

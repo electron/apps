@@ -1,17 +1,14 @@
 name: 'CDN Desktop'
 description: 'Offline CDN http server, organiser and note taker.'
-website: 'https://www.cadence-desktop.com'
+website: 'https://www.cdn-desktop.co.uk'
 category: 'Developer Tools'
 keywords:
-    - "programming"
-    - "coding"
-    - "snippets"
-    - "web-design"
+  - 'programming'
+  - 'coding'
+  - 'snippets'
+  - 'web-design'
 screenshots:
-    -
-        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/cadence-8edfc.appspot.com/o/login%20screen.gif?alt=media&token=d2bbaafc-82f6-486e-aed4-9765c672d5d5'
-    -
-        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/cadence-8edfc.appspot.com/o/react_search.gif?alt=media&token=c0b4f637-09a7-421c-87b1-b8d0b5e74a29'
-    -
-        imageUrl: 'https://firebasestorage.googleapis.com/v0/b/cadence-8edfc.appspot.com/o/readNotes.gif?alt=media&token=f07e4c04-9310-44ab-84b5-a6f476c8a61e'
+  - imageUrl: 'https://firebasestorage.googleapis.com/v0/b/cadence-8edfc.appspot.com/o/login%20screen.gif?alt=media&token=d2bbaafc-82f6-486e-aed4-9765c672d5d5'
+  - imageUrl: 'https://firebasestorage.googleapis.com/v0/b/cadence-8edfc.appspot.com/o/react_search.gif?alt=media&token=c0b4f637-09a7-421c-87b1-b8d0b5e74a29'
+  - imageUrl: 'https://firebasestorage.googleapis.com/v0/b/cadence-8edfc.appspot.com/o/readNotes.gif?alt=media&token=f07e4c04-9310-44ab-84b5-a6f476c8a61e'
 license: GPL

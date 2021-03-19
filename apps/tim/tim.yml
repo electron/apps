@@ -4,15 +4,14 @@ website: 'https://github.com/tborychowski/tim/'
 category: 'Developer Tools'
 repository: 'https://github.com/tborychowski/tim/'
 keywords:
-    - browser
-    - productivity-booster
-    - manager
-    - github
-    - notifications
-    - bookmarks
+  - browser
+  - productivity-booster
+  - manager
+  - github
+  - notifications
+  - bookmarks
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/tborychowski/tim/master/screens/0-screenshot.png'
-        caption: 'TIM screenshot'
-        imageLink: 'https://github.com/tborychowski/tim'
+  - imageUrl: 'https://raw.githubusercontent.com/tborychowski/tim/master/screens/0-screenshot.png'
+    caption: 'TIM screenshot'
+    imageLink: 'https://github.com/tborychowski/tim'
 license: MIT

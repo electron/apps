@@ -4,13 +4,12 @@ website: 'https://ytmdesktop.app'
 category: Music
 repository: 'https://github.com/adlerluiz/ytmdesktop'
 keywords:
-    - youtube
-    - music
-    - desktop
-    - app
-    - node
-    - javascript
-    - materializecss
+  - youtube
+  - music
+  - desktop
+  - app
+  - node
+  - javascript
+  - materializecss
 screenshots:
-    -
-        imageUrl: 'https://ytmdesktop.app/img/product/main.png'
+  - imageUrl: 'https://ytmdesktop.app/img/product/main.png'

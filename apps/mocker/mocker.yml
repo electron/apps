@@ -3,12 +3,11 @@ description: 'HTTP/HTTPS mock tool, support for Browser and local server'
 website: 'https://github.com/eshengsky/Mocker'
 repository: 'https://github.com/eshengsky/Mocker'
 keywords:
-    - Mocker
-    - mock
-    - "mock-server"
-    - "mock-data"
+  - Mocker
+  - mock
+  - 'mock-server'
+  - 'mock-data'
 license: MIT
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/eshengsky/Mocker/master/static/image/preview.png'
+  - imageUrl: 'https://raw.githubusercontent.com/eshengsky/Mocker/master/static/image/preview.png'

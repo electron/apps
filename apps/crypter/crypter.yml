@@ -2,9 +2,8 @@ name: Crypter
 description: 'Simple, convenient and secure encryption client'
 website: 'https://github.com/HR/Crypter'
 keywords:
-    - encryption
+  - encryption
 category: Utilities
 repository: 'https://github.com/HR/Crypter'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/HR/Crypter/master/.github/Welcome_screen.png'
+  - imageUrl: 'https://raw.githubusercontent.com/HR/Crypter/master/.github/Welcome_screen.png'

@@ -2,17 +2,16 @@ name: Smallpdf
 description: 'We make PDF easy.'
 website: 'https://smallpdf.com/desktop'
 keywords:
-    - pdf
-    - document
-    - converter
-    - editor
-    - productivity
-    - utility
-    - pdf-reader
-    - word-to-pdf
-    - jpg-to-pdf
-    - excel-to-pdf
+  - pdf
+  - document
+  - converter
+  - editor
+  - productivity
+  - utility
+  - pdf-reader
+  - word-to-pdf
+  - jpg-to-pdf
+  - excel-to-pdf
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://download.smallpdf.com/assets/smallpdf-desktop-screenshot.png'
+  - imageUrl: 'https://download.smallpdf.com/assets/smallpdf-desktop-screenshot.png'

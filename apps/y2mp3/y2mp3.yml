@@ -4,56 +4,46 @@ website: 'https://github.com/moshfeu/y2mp3'
 category: Music
 repository: 'https://github.com/moshfeu/y2mp3'
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot1.png'
     caption: 'Search'
     imageLink: 'https://github.com/moshfeu/y2mp3'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot2.png'
+  - imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot2.png'
     caption: 'Search results'
     imageLink: 'https://github.com/moshfeu/y2mp3'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot3.png'
+  - imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot3.png'
     caption: 'Download in progress'
     imageLink: 'https://github.com/moshfeu/y2mp3'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot4.png'
+  - imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot4.png'
     caption: 'Download complete'
     imageLink: 'https://github.com/moshfeu/y2mp3'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot5.png'
+  - imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot5.png'
     caption: 'Options window'
     imageLink: 'https://github.com/moshfeu/y2mp3'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot6.png'
+  - imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot6.png'
     caption: 'Change output format'
     imageLink: 'https://github.com/moshfeu/y2mp3'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot7.png'
+  - imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot7.png'
     caption: 'Copied URLs auto pasted'
     imageLink: 'https://github.com/moshfeu/y2mp3'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot8.png'
+  - imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot8.png'
     caption: 'Download in different format'
     imageLink: 'https://github.com/moshfeu/y2mp3'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot9.png'
+  - imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/screenshots/screenshot9.png'
     caption: 'Media not found message'
     imageLink: 'https://github.com/moshfeu/y2mp3'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/video.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/moshfeu/y2mp3/master/app-resources/video.gif'
     caption: 'Full flow'
     imageLink: 'https://github.com/moshfeu/y2mp3'
 keywords:
-    - youtube
-    - playlist
-    - download
-    - mp3
-    - free
-    - audio
+  - youtube
+  - playlist
+  - download
+  - mp3
+  - free
+  - audio
 license: MIT
 colors:
-    goodColorOnWhite: '#148544'
-    goodColorOnBlack: '#27ae60'
+  goodColorOnWhite: '#148544'
+  goodColorOnBlack: '#27ae60'
 locales:
-    - en-US
+  - en-US

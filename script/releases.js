@@ -1,5 +1,7 @@
 const MAX_CONCURRENCY = Number(process.env.MAX_CONCURRENCY) || 4 // simultaneous open web requests
-const RELEASE_CACHE_TTL = require('human-interval')(process.env.RELEASE_CACHE_TTL || '4 hours')
+const RELEASE_CACHE_TTL = require('human-interval')(
+  process.env.RELEASE_CACHE_TTL || '4 hours'
+)
 
 const fs = require('fs')
 const path = require('path')
@@ -15,10 +17,16 @@ const limiter = new Bottleneck(MAX_CONCURRENCY)
 const apps = require('../lib/raw-app-list')()
 const appsWithRepos = require('../lib/apps-with-github-repos')
 
-console.log(`${appsWithRepos.length} of ${apps.length} apps have a GitHub repo.`)
-console.log(`${appsWithRepos.filter(shouldUpdateAppReleaseData).length} of those ${appsWithRepos.length} have missing or outdated release data.`)
+console.log(
+  `${appsWithRepos.length} of ${apps.length} apps have a GitHub repo.`
+)
+console.log(
+  `${appsWithRepos.filter(shouldUpdateAppReleaseData).length} of those ${
+    appsWithRepos.length
+  } have missing or outdated release data.`
+)
 
-appsWithRepos.forEach(app => {
+appsWithRepos.forEach((app) => {
   if (shouldUpdateAppReleaseData(app)) {
     limiter.schedule(getLatestRelease, app)
   } else {
@@ -32,35 +40,37 @@ limiter.on('idle', () => {
   process.exit()
 })
 
-function shouldUpdateAppReleaseData (app) {
+function shouldUpdateAppReleaseData(app) {
   const oldData = oldReleaseData[app.slug]
   if (!oldData || !oldData.latestReleaseFetchedAt) return true
   const oldDate = new Date(oldData.latestReleaseFetchedAt || null).getTime()
   return oldDate + RELEASE_CACHE_TTL < Date.now()
 }
 
-function getLatestRelease (app) {
-  const {user: owner, repo} = parseGitUrl(app.repository)
+function getLatestRelease(app) {
+  const { user: owner, repo } = parseGitUrl(app.repository)
   const opts = {
     owner: owner,
     repo: repo,
     headers: {
-      Accept: 'application/vnd.github.v3.html'
-    }
+      Accept: 'application/vnd.github.v3.html',
+    },
   }
 
-  return github.repos.getLatestRelease(opts)
-    .then(release => {
+  return github.repos
+    .getLatestRelease(opts)
+    .then((release) => {
       console.log(`${app.slug}: got latest release`)
       output[app.slug] = {
         latestRelease: release.data,
-        latestReleaseFetchedAt: new Date()
+        latestReleaseFetchedAt: new Date(),
       }
-    }).catch(err => {
+    })
+    .catch((err) => {
       console.error(`${app.slug}: no releases found`)
       output[app.slug] = {
         latestRelease: null,
-        latestReleaseFetchedAt: new Date()
+        latestReleaseFetchedAt: new Date(),
       }
       if (err.code !== 404) console.error(err)
     })
