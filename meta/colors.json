@@ -4239,6 +4239,22 @@
       "revHash": "2d857dd6ee"
     }
   },
+  "fitsliberator": {
+    "faintColorOnWhite": "rgba(111, 79, 70, 0.1)",
+    "goodColorOnBlack": "#DBD1BF",
+    "goodColorOnWhite": "#6F4F46",
+    "palette": [
+      "#6f4f46",
+      "#dbd1bf",
+      "#1d212b",
+      "#a7b1a6",
+      "#9493ac"
+    ],
+    "source": {
+      "path": "apps\\fitsliberator\\fitsliberator-icon.png",
+      "revHash": "47fa34fcbb"
+    }
+  },
   "flawesome": {
     "faintColorOnWhite": "rgba(165, 33, 37, 0.1)",
     "goodColorOnBlack": "#748C94",
