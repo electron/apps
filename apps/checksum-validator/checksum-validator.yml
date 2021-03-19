@@ -4,17 +4,19 @@ website: 'https://github.com/alexanderwe/checksum-validator'
 category: Productivity
 repository: 'https://github.com/alexanderwe/checksum-validator'
 keywords:
-    - checksum
-    - productivity
-    - integrity
+  - checksum
+  - productivity
+  - integrity
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/alexanderwe/checksum-validator/master/assets/screenshots/img3.png'
+  - imageUrl: 'https://raw.githubusercontent.com/alexanderwe/checksum-validator/master/assets/screenshots/img3.png'
     caption: 'Validate Checksums'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/alexanderwe/checksum-validator/master/assets/screenshots/img4.png'
+  - imageUrl: 'https://raw.githubusercontent.com/alexanderwe/checksum-validator/master/assets/screenshots/img4.png'
     caption: 'Configure for your use'
 locales:
   - de
   - en
+disabled: true
+disabledComment:
+  'disabled in Sat, 24 Oct 2020, because the electron version is older than 3.x
+  ( "electron": "^2.0.10" )'

@@ -1,15 +1,20 @@
 name: stacker
 description: 'Polyglot flow testing tool'
-website: 'https://lopidio.github.io/stacker'
+website: 'https://enqueuer-land.github.io/stacker'
 category: 'Developer Tools'
-repository: 'https://github.com/lopidio/stacker'
+repository: 'https://github.com/enqueuer-land/stacker'
 keywords:
-    - 'polyglot flow'
-    - test
-    - microservices
-    - enqueuer
-    - messages
-    - http
-    - amqp
-    - mqtt
+  - 'polyglot flow'
+  - test
+  - microservices
+  - enqueuer
+  - messages
+  - http
+  - amqp
+  - mqtt
 license: MIT
+screenshots:
+  - imageUrl: 'https://enqueuer-land.github.io/stacker/screenshot-1.png'
+    caption: 'Stacker screenshot 1'
+  - imageUrl: 'https://enqueuer-land.github.io/stacker/screenshot-2.png'
+    caption: 'Stacker screenshot 2'

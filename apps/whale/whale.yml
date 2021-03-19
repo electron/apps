@@ -2,9 +2,8 @@ name: Whale
 description: 'Unofficial Trello app'
 website: 'https://github.com/1000ch/whale'
 keywords:
-    - productivity
+  - productivity
 category: Productivity
 repository: 'https://github.com/1000ch/whale'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/1000ch/whale/master/demo.png'
+  - imageUrl: 'https://raw.githubusercontent.com/1000ch/whale/master/demo.png'

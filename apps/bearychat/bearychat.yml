@@ -2,5 +2,6 @@ name: BearyChat
 description: 'Focused team communications'
 website: 'https://bearychat.com'
 keywords:
-    - chat
+  - chat
 category: 'Social Networking'
+disabled: true # Link to website broken

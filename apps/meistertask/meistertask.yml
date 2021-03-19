@@ -2,11 +2,11 @@ name: MeisterTask
 description: 'A Kanban board based task manager for single persons and teams.'
 website: 'https://www.meistertask.com/'
 keywords:
-    - kanban
-    - taskmanagement
-    - premium
-    - free
-    - teams
-    - projectmanagement
-    - management
+  - kanban
+  - taskmanagement
+  - premium
+  - free
+  - teams
+  - projectmanagement
+  - management
 category: Productivity

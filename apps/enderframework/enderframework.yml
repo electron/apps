@@ -1,0 +1,22 @@
+name: 'EnderFramework'
+description:
+  'It is a framework, built using a framework, for you! It can make it much
+  easier for new developers to develop and build more modern apps.'
+website: 'https://enderadel.net/EnderFramework/'
+category: 'Developer Tools'
+repository: 'https://github.com/EnderAdel/EnderFramework'
+keywords:
+  - framework
+  - store
+  - studio
+  - installer
+  - gaming
+  - apps
+  - enderapps
+screenshots:
+  - imageUrl: 'https://enderadel.net/EnderFramework/assets/image/screenshot/1.png'
+  - imageUrl: 'https://enderadel.net/EnderFramework/assets/image/screenshot/2.png'
+  - imageUrl: 'https://enderadel.net/EnderFramework/assets/image/screenshot/3.png'
+  - imageUrl: 'https://enderadel.net/EnderFramework/assets/image/screenshot/4.png'
+  - imageUrl: 'https://enderadel.net/EnderFramework/assets/image/screenshot/5.png'
+  - imageUrl: 'https://enderadel.net/EnderFramework/assets/image/screenshot/6.png'

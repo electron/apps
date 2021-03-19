@@ -4,12 +4,11 @@ youtube_video_url: 'https://www.youtube.com/watch?v=76MBKJrMEn0'
 website: 'https://www.mobilelocker.com/'
 category: Business
 keywords:
-    - sales
-    - 'sales enablement'
-    - CRM
-    - marketing
+  - sales
+  - 'sales enablement'
+  - CRM
+  - marketing
 screenshots:
-    -
-        imageUrl: 'https://teams.mobilelocker.com/demo_team/assets/mobilelocker-electron-mac.png'
-        caption: 'Mobile Locker for macOS'
-        imageLink: 'https://www.mobilelocker.com/?utm_source=github&utm_medium=repo&utm_campaign=electron-apps'
+  - imageUrl: 'https://teams.mobilelocker.com/demo_team/assets/mobilelocker-electron-mac.png'
+    caption: 'Mobile Locker for macOS'
+    imageLink: 'https://www.mobilelocker.com/?utm_source=github&utm_medium=repo&utm_campaign=electron-apps'

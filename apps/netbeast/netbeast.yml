@@ -1,8 +1,10 @@
 name: Netbeast
-description: 'An Internet of Things javascript development platform that empowers developers to easily create and deploy IoT apps'
+description:
+  'An Internet of Things javascript development platform that empowers
+  developers to easily create and deploy IoT apps'
 website: 'https://netbeast.co/developer'
 keywords:
-    - development
+  - development
 category: 'Developer Tools'
 disabled: true
 disabledComment: 'disabled on Wed Jul 03 2019 because all links failed'

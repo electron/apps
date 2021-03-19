@@ -1,20 +1,20 @@
 name: 'Code Notes'
-description: 'A simple code snippet manager for developers built with Electron & Vue.js'
+description:
+  'A simple code snippet manager for developers built with Electron & Vue.js'
 website: 'https://lauthieb.github.io/code-notes'
 category: 'Developer Tools'
 repository: 'https://github.com/lauthieb/code-notes'
 keywords:
-    - snippets
-    - manager
-    - code
-    - developers
-    - vuejs
-    - vue2
+  - snippets
+  - manager
+  - code
+  - developers
+  - vuejs
+  - vue2
 license: MIT
 screenshots:
-    -
-        imageUrl: 'https://lauthieb.github.io/code-notes/img/screen.png'
-        caption: 'Code Notes - Home page'
+  - imageUrl: 'https://lauthieb.github.io/code-notes/img/screen.png'
+    caption: 'Code Notes - Home page'
 locales:
   - en-US
   - en-GB

@@ -4,11 +4,11 @@ website: 'https://github.com/ollm/OpenComic'
 repository: 'https://github.com/ollm/OpenComic'
 snapcraftName: opencomic
 keywords:
-    - comic
-    - manga
-    - cbr
-    - cbz
-    - cb7
+  - comic
+  - manga
+  - cbr
+  - cbz
+  - cb7
 license: GPL-3.0
 category: Books
 locales:
@@ -17,4 +17,6 @@ locales:
   - en-US
   - es-ES
 screenshots:
-    - {imageUrl: 'https://camo.githubusercontent.com/7bdb9004eba11d8e94fe9cb7318ff4a175a9fb23/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d317a6f4a52555259324e545a7562644d676e576d446b725f415f364171634d6e6a'}
+  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2020/08/OpenComic-ScreenShot.png'
+  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2020/08/OpenComic-ScreenShot-2.png'
+  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2020/08/OpenComic-ScreenShot-3.png'

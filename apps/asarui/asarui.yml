@@ -4,12 +4,10 @@ website: 'https://github.com/myazarc/AsarUI/releases'
 category: Utilities
 repository: 'https://github.com/myazarc/AsarUI'
 keywords:
-    - 'asar ui'
-    - asar
+  - 'asar ui'
+  - asar
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/myazarc/AsarUI/master/build/images/1.png'
-  -
-    imageUrl: 'https://raw.githubusercontent.com/myazarc/AsarUI/master/build/images/2.png'
+  - imageUrl: 'https://raw.githubusercontent.com/myazarc/AsarUI/master/build/images/1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/myazarc/AsarUI/master/build/images/2.png'
 locales:
   - en-US
