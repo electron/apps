@@ -2,7 +2,7 @@ name: 'FIST Liberator'
 description:
   'NOIRLab/IPAC/ESA/STScI/CfA FITS Liberator  is a free software program for
   processing and editing astronomical science data in the FITS format to
-  reproduce images of the universe'
+  reproduce images of the universe.'
 website: 'https://fitsliberator.bitpointer.co'
 keywords:
   - 'FIST Liberator'
