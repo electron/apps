@@ -1,0 +1,16 @@
+name: ExpressLRS Configurator
+description:
+  'App to build & flash ExpressLRS firmware'
+website: 'https://github.com/ExpressLRS/ExpressLRS-Configurator'
+repository: 'https://github.com/ExpressLRS/ExpressLRS-Configurator'
+keywords:
+  - firmware
+  - embedded
+  - drones
+  - radio
+  - utilities
+category: Utilities
+license: GPLv3
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/ExpressLRS/ExpressLRS-Configurator/master/docs/readme/screenshots/main_screen.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/ExpressLRS/ExpressLRS-Configurator/master/docs/readme/screenshots/compile_result.jpg'
