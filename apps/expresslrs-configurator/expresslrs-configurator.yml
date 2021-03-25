@@ -1,6 +1,6 @@
 name: ExpressLRS Configurator
 description:
-  'App to build & flash ExpressLRS firmware'
+  'App to build & flash ExpressLRS firmware.'
 website: 'https://github.com/ExpressLRS/ExpressLRS-Configurator'
 repository: 'https://github.com/ExpressLRS/ExpressLRS-Configurator'
 keywords:
