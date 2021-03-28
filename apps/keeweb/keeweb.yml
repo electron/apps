@@ -1,6 +1,46 @@
 name: KeeWeb
-description: 'Free cross-platform password manager compatible with KeePass'
-website: 'https://keeweb.info'
+description: Free cross-platform password manager compatible with KeePass
+website: https://keeweb.info
 keywords:
-  - manager
+  - password manager
+  - keepass
+  - kdbx
+  - security
 category: Utilities
+license: MIT
+repository: https://github.com/keeweb/keeweb
+screenshots:
+  - imageUrl: https://keeweb.info/img/scr1.png
+    caption: KeeWeb main screen
+  - imageUrl: https://keeweb.info/img/scr2.png
+    caption: Light theme
+  - imageUrl: https://keeweb.info/img/scr3.png
+    caption: Table mode
+homebrewCaskName: keeweb
+youtube_video_url: https://www.youtube.com/watch?v=2I2gXUihqe8
+locales:
+  - en-US
+  - ca
+  - cs
+  - da
+  - de-DE
+  - es-ES
+  - et-EE
+  - fi
+  - fr-FR
+  - hu
+  - it-IT
+  - ja
+  - ko
+  - nl-NL
+  - no
+  - pl
+  - pt-BR
+  - pt-PT
+  - ru-RU
+  - sk
+  - sv-SE
+  - tr
+  - uk
+  - zh-CN
+  - zh-TW
