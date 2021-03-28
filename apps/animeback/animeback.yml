@@ -1,0 +1,13 @@
+name: AnimeBack
+description: 'Anime your wallpaper.'
+website: 'https://legithubdetai.github.io/AnimeBack/'
+repository: 'https://github.com/LeGitHubDeTai/AnimeBack'
+youtube_video_url: 'https://www.youtube.com/watch?v=JpFKSTRth4M'
+category: Photo & Video
+keywords:
+  - background
+  - wallpaper
+  - animated
+  - windows
+screenshots:
+  - imageUrl: 'https://github.com/LeGitHubDeTai/AnimeBack/blob/main/assets/options%20window.png?raw=true'
