@@ -1,0 +1,15 @@
+name: Mingo
+description:
+  'Mingo is a fast, reliable, safe and intuitive MongoDB admin. Mingo has a modern design and lots of useful features to help you manage databases.
+'
+website: 'https://mingo.io'
+repository: 'https://github.com/mingo-app/mingo'
+screenshots:
+  - {
+      imageUrl: 'https://camo.githubusercontent.com/923af2f75ac4a43dd931b8d18dc4beccf9ac5b7d1bc3af5ce0d3997f2dbdaab2/68747470733a2f2f6d696e676f2e696f2f5f6e7578742f696d672f366634303533652e706e67',
+    }
+keywords:
+  - MongoDB
+  - databases
+  - admin
+category: Utilities
