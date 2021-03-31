@@ -4,11 +4,11 @@ description:
 '
 website: 'https://mingo.io'
 repository: 'https://github.com/mingo-app/mingo'
-youtube_video_url: 'https://www.youtube.com/watch?v=nt4xhRmaaOc&t=180s'
+youtube_video_url: 'https://www.youtube.com/watch?v=nt4xhRmaaOc'
 screenshots:
-  - imageUrl: 'https://camo.githubusercontent.com/923af2f75ac4a43dd931b8d18dc4beccf9ac5b7d1bc3af5ce0d3997f2dbdaab2/68747470733a2f2f6d696e676f2e696f2f5f6e7578742f696d672f366634303533652e706e67',
-  - imageUrl: 'https://mingo.io/_nuxt/img/ae5506b.png',
-  - imageUrl: 'https://mingo.io/_nuxt/img/645a839.png',
+  - imageUrl: 'https://mingo.io/_nuxt/img/6f4053e.png'
+  - imageUrl: 'https://mingo.io/_nuxt/img/ae5506b.png'
+  - imageUrl: 'https://mingo.io/_nuxt/img/645a839.png'
 keywords:
   - MongoDB
   - databases
