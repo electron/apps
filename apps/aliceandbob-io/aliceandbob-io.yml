@@ -1,0 +1,33 @@
+name: aliceandbob.io
+description: 'Free, light and easy to use PGP tool.'
+website: 'https://aliceandbob.io/'
+category: Utilities
+repository: 'https://github.com/aliceandbob-io/aliceandbob-desktop'
+keywords:
+  - encryption
+  - PGP
+  - keys
+  - alice
+  - bob
+  - generate
+  - encrypt
+  - decrypt
+  - 'public key'
+  - 'private key'
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/aliceandbob-io/files/main/features_generate.png'
+    caption: 'Generate PGP keys'
+    imageLink: 'https://aliceandbob.io/'
+
+  - imageUrl: 'https://raw.githubusercontent.com/aliceandbob-io/files/main/features_encrypt.png'
+    caption: 'Encrypt a message'
+    imageLink: 'https://aliceandbob.io/'
+
+  - imageUrl: 'https://raw.githubusercontent.com/aliceandbob-io/files/main/features_encrypt.png'
+    caption: 'Decrypt a message'
+    imageLink: 'https://aliceandbob.io/'
+
+  - imageUrl: 'https://raw.githubusercontent.com/aliceandbob-io/files/main/screenshot%20-%20landing.png'
+    caption: 'Landing page'
+    imageLink: 'https://aliceandbob.io/'
