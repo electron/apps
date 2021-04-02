@@ -1,21 +1,15 @@
 name: 'Laravel Kit'
-description: 'A desktop app for executing Laravel artisan commands'
+description: 'A desktop Laravel admin panel app'
 website: 'https://tmdh.github.io/laravel-kit'
 repository: 'https://github.com/tmdh/laravel-kit'
 homebrewCaskName: laravel-kit
-license: MIT
 keywords:
   - laravel
   - kit
   - php
 category: 'Developer Tools'
 screenshots:
-  - imageUrl: 'https://i.imgur.com/rrc6mrq.png'
-  - imageUrl: 'https://i.imgur.com/x5Yrfz4.png'
-  - imageUrl: 'https://i.imgur.com/IWP4fFx.png'
-  - imageUrl: 'https://i.imgur.com/Y1lzlRl.png'
-  - imageUrl: 'https://i.imgur.com/mL6Jcyc.png'
-  - imageUrl: 'https://i.imgur.com/smEIs0b.png'
-  - imageUrl: 'https://i.imgur.com/cxTJtEW.png'
-  - imageUrl: 'https://i.imgur.com/tjDCG4O.png'
-  - imageUrl: 'https://i.imgur.com/9BSxvd4.png'
+  - imageUrl: 'https://raw.githubusercontent.com/tmdh/laravel-kit/master/screenshots/artisan-dark.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/tmdh/laravel-kit/master/screenshots/tinker-dark.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/tmdh/laravel-kit/master/screenshots/artisan-light.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/tmdh/laravel-kit/master/screenshots/tinker-light.jpg'
