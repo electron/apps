@@ -1,0 +1,14 @@
+name: Termy
+description: Terminal with autocompletion.
+website: https://termy.app
+category: Developer Tools
+repository: https://github.com/termyapp/Termy
+keywords:
+  - terminal
+  - shell
+  - cli
+license: GPL-3.0
+goodColorOnWhite: '#000'
+goodColorOnBlack: '#FFF'
+screenshots:
+  - imageUrl: https://termy.app/screenshot.jpg
