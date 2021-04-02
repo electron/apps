@@ -1,17 +1,17 @@
 [
   {
     "name": "Productivity",
-    "count": 283,
+    "count": 285,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 227,
+    "count": 228,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 154,
+    "count": 155,
     "slug": "utilities"
   },
   {
@@ -21,7 +21,7 @@
   },
   {
     "name": "Social Networking",
-    "count": 52,
+    "count": 53,
     "slug": "social-networking"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "name": "Games",
-    "count": 38,
+    "count": 39,
     "slug": "games"
   },
   {
