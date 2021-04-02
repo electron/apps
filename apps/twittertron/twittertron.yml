@@ -1,5 +1,6 @@
 name: TwitterTron
-description: It is a standalone desktop twitter client written in typescript and react.
+description:
+  It is a standalone desktop twitter client written in typescript and react.
 website: https://afractal.github.io/twittertron-app
 category: Entertainment
 repository: https://github.com/afractal/twittertron-app
