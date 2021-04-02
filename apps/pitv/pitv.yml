@@ -1,0 +1,15 @@
+name: PiTV
+description: Cross-Platform STB (IPTV) Player Client.
+website: https://ozankaraali.com/PiTV/
+category: Entertainment
+repository: https://github.com/ozankaraali/PiTV
+keywords:
+  - iptv
+  - stb
+  - player
+screenshots:
+  - imageUrl: 'https://user-images.githubusercontent.com/19486728/109873914-7aed6080-7c7f-11eb-8bae-2af2588b2bac.png'
+    caption: 'PiTV'
+  - imageUrl: 'https://user-images.githubusercontent.com/19486728/109873933-7e80e780-7c7f-11eb-8bed-0000b17ec304.png'
+    caption: 'PiTV Settings'
+license: MIT
