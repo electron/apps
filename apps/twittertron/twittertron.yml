@@ -1,0 +1,14 @@
+name: TwitterTron
+description: It is a standalone desktop twitter client written in typescript and react.
+website: https://afractal.github.io/twittertron-app
+category: Entertainment
+repository: https://github.com/afractal/twittertron-app
+keywords:
+  - twitter
+license: Proprietary
+screenshots:
+  - imageUrl: 'https://afractal.github.io/twittertron-app/tt_screenshot.png'
+    imageLink: 'https://afractal.github.io/twittertron-app'
+goodColorOnWhite: '#343e40'
+goodColorOnBlack: '#fafbfc'
+faintColorOnWhite: 'rgba(138, 43, 226, 0.6)'
