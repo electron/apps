@@ -159,6 +159,22 @@
       "revHash": "40f3ec4bbc"
     }
   },
+  "afterlife": {
+    "faintColorOnWhite": "rgba(203, 12, 12, 0.1)",
+    "goodColorOnBlack": "#F39D16",
+    "goodColorOnWhite": "#CB0C0C",
+    "palette": [
+      "#a4b7ae",
+      "#25364e",
+      "#cb0c0c",
+      "#f39d16",
+      "#696065"
+    ],
+    "source": {
+      "path": "apps/afterlife/afterlife-icon.png",
+      "revHash": "bf222a9c06"
+    }
+  },
   "agantty": {
     "faintColorOnWhite": "rgba(25, 126, 91, 0.1)",
     "goodColorOnBlack": "#1F9D71",
@@ -301,6 +317,22 @@
     "source": {
       "path": "apps/aliasman/aliasman-icon.png",
       "revHash": "79bdcfd5e0"
+    }
+  },
+  "aliceandbob-io": {
+    "faintColorOnWhite": "rgba(116, 116, 12, 0.1)",
+    "goodColorOnBlack": "#E3E31B",
+    "goodColorOnWhite": "#74740C",
+    "palette": [
+      "#e3e31b",
+      "#060604",
+      "#8f9111",
+      "#74740c",
+      "#6c740c"
+    ],
+    "source": {
+      "path": "apps/aliceandbob-io/aliceandbob-io-icon.png",
+      "revHash": "d720e37f2f"
     }
   },
   "allow2automate": {
@@ -1117,6 +1149,22 @@
     "source": {
       "path": "apps/booker/booker-icon.png",
       "revHash": "d56a824fa6"
+    }
+  },
+  "boost-changer": {
+    "faintColorOnWhite": "rgba(134, 89, 51, 0.1)",
+    "goodColorOnBlack": "#07953F",
+    "goodColorOnWhite": "#865933",
+    "palette": [
+      "#d0a869",
+      "#4b4543",
+      "#07953f",
+      "#865933",
+      "#7cc49c"
+    ],
+    "source": {
+      "path": "apps/boost-changer/boost-changer-icon.png",
+      "revHash": "11d5752e4a"
     }
   },
   "boostnote": {
@@ -2128,19 +2176,19 @@
     }
   },
   "commandeer": {
-    "faintColorOnWhite": "rgba(9, 35, 52, 0.1)",
-    "goodColorOnBlack": "#DA8B14",
-    "goodColorOnWhite": "#092334",
+    "faintColorOnWhite": "rgba(137, 90, 38, 0.1)",
+    "goodColorOnBlack": "#FA9A04",
+    "goodColorOnWhite": "#895A26",
     "palette": [
-      "#da8b14",
-      "#343333",
-      "#745429",
-      "#092334",
-      "#5c4c2c"
+      "#333333",
+      "#fa9a04",
+      "#895a26",
+      "#644c2a",
+      "#58422d"
     ],
     "source": {
       "path": "apps/commandeer/commandeer-icon.png",
-      "revHash": "f1b51c8953"
+      "revHash": "73173cbf55"
     }
   },
   "compact-log-viewer": {
@@ -5007,6 +5055,22 @@
       "revHash": "b444fa2d3e"
     }
   },
+  "glue": {
+    "faintColorOnWhite": "rgba(33, 34, 36, 0.1)",
+    "goodColorOnBlack": "#35AAC2",
+    "goodColorOnWhite": "#212224",
+    "palette": [
+      "#212224",
+      "#35aac2",
+      "#fafafa",
+      "#3381af",
+      "#737373"
+    ],
+    "source": {
+      "path": "apps/glue/glue-icon.png",
+      "revHash": "5e120f4210"
+    }
+  },
   "gluppi": {
     "faintColorOnWhite": "rgba(205, 65, 29, 0.1)",
     "goodColorOnBlack": "#EC917A",
@@ -5069,6 +5133,22 @@
     "source": {
       "path": "apps/google-assistant-unofficial-desktop-client/google-assistant-unofficial-desktop-client-icon.png",
       "revHash": "8f27cff51b"
+    }
+  },
+  "google-chat-electron": {
+    "faintColorOnWhite": "rgba(4, 132, 44, 0.1)",
+    "goodColorOnBlack": "#04AB44",
+    "goodColorOnWhite": "#04842C",
+    "palette": [
+      "#dc3324",
+      "#04ab44",
+      "#5cbc74",
+      "#04842c",
+      "#405850"
+    ],
+    "source": {
+      "path": "apps/google-chat-electron/google-chat-electron-icon.png",
+      "revHash": "b197b6b980"
     }
   },
   "google-play-music-desktop-player": {
@@ -6447,6 +6527,22 @@
       "revHash": "0c3a291bc0"
     }
   },
+  "kaplan-desktop": {
+    "faintColorOnWhite": "rgba(5, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FA5104",
+    "goodColorOnWhite": "#050404",
+    "palette": [
+      "#fa5104",
+      "#050404",
+      "#fbf9f8",
+      "#8b8b8b",
+      "#646464"
+    ],
+    "source": {
+      "path": "apps/kaplan-desktop/kaplan-desktop-icon.png",
+      "revHash": "f1e8c0e53b"
+    }
+  },
   "kappo": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#F8F8F8",
@@ -6688,19 +6784,19 @@
     }
   },
   "laravel-kit": {
-    "faintColorOnWhite": "rgba(204, 70, 16, 0.1)",
-    "goodColorOnBlack": "#F5A281",
-    "goodColorOnWhite": "#CC4610",
+    "faintColorOnWhite": "rgba(55, 85, 236, 0.1)",
+    "goodColorOnBlack": "#6C84F4",
+    "goodColorOnWhite": "#3755EC",
     "palette": [
-      "#eeeeee",
-      "#ed6f64",
-      "#f5a281",
-      "#cab8b7",
-      "#c5908d"
+      "#3755ec",
+      "#dde2fb",
+      "#899af4",
+      "#9cacf4",
+      "#6c84f4"
     ],
     "source": {
       "path": "apps/laravel-kit/laravel-kit-icon.png",
-      "revHash": "bcdabbd828"
+      "revHash": "7651e0c45f"
     }
   },
   "last-hit": {
@@ -8847,6 +8943,22 @@
       "revHash": "ffef1b02e6"
     }
   },
+  "nota": {
+    "faintColorOnWhite": "rgba(4, 99, 251, 0.1)",
+    "goodColorOnBlack": "#FB0404",
+    "goodColorOnWhite": "#0463FB",
+    "palette": [
+      "#242424",
+      "#fbfbfb",
+      "#fb0404",
+      "#0463fb",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/nota/nota-icon.png",
+      "revHash": "f3950db3cf"
+    }
+  },
   "notable": {
     "faintColorOnWhite": "rgba(35, 35, 34, 0.1)",
     "goodColorOnBlack": "#F9B646",
@@ -9133,6 +9245,22 @@
     "source": {
       "path": "apps/one-left/one-left-icon.png",
       "revHash": "e0788f4ab0"
+    }
+  },
+  "onecopy": {
+    "faintColorOnWhite": "rgba(135, 83, 146, 0.1)",
+    "goodColorOnBlack": "#608DF4",
+    "goodColorOnWhite": "#875392",
+    "palette": [
+      "#c4d3d5",
+      "#875392",
+      "#aa865f",
+      "#8694d2",
+      "#608df4"
+    ],
+    "source": {
+      "path": "apps/onecopy/onecopy-icon.png",
+      "revHash": "ffea49d09b"
     }
   },
   "onoffice": {
@@ -9869,6 +9997,22 @@
     "source": {
       "path": "apps/piqture/piqture-icon.png",
       "revHash": "d0a9d5353e"
+    }
+  },
+  "pitv": {
+    "faintColorOnWhite": "rgba(52, 108, 156, 0.1)",
+    "goodColorOnBlack": "#53B3FB",
+    "goodColorOnWhite": "#346C9C",
+    "palette": [
+      "#141b1c",
+      "#53b3fb",
+      "#346c9c",
+      "#294c6c",
+      "#34648c"
+    ],
+    "source": {
+      "path": "apps/pitv/pitv-icon.png",
+      "revHash": "572a9985d0"
     }
   },
   "pixel-weather": {
@@ -11501,6 +11645,22 @@
     "source": {
       "path": "apps/sciencefair/sciencefair-icon.png",
       "revHash": "072ed08134"
+    }
+  },
+  "scratch-for-discord": {
+    "faintColorOnWhite": "rgba(177, 75, 106, 0.1)",
+    "goodColorOnBlack": "#F4A123",
+    "goodColorOnWhite": "#B14B6A",
+    "palette": [
+      "#f4a123",
+      "#434345",
+      "#fbfbfa",
+      "#b14b6a",
+      "#bcbabc"
+    ],
+    "source": {
+      "path": "apps/scratch-for-discord/scratch-for-discord-icon.png",
+      "revHash": "cf3dd42bb1"
     }
   },
   "screenaware": {
@@ -13471,6 +13631,22 @@
       "revHash": "7c5d11f96b"
     }
   },
+  "termy": {
+    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#050505",
+    "palette": [
+      "#fbfbfb",
+      "#050505",
+      "#a0a0a0",
+      "#7c7c7c",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/termy/termy-icon.png",
+      "revHash": "c26d512bdb"
+    }
+  },
   "tern": {
     "faintColorOnWhite": "rgba(84, 68, 108, 0.1)",
     "goodColorOnBlack": "#B38BDA",
@@ -14415,6 +14591,22 @@
       "revHash": "82fbe8f0dc"
     }
   },
+  "twittertron": {
+    "faintColorOnWhite": "rgba(2, 122, 163, 0.1)",
+    "goodColorOnBlack": "#04BCFC",
+    "goodColorOnWhite": "#027AA3",
+    "palette": [
+      "#04abec",
+      "#048bbe",
+      "#0494cc",
+      "#04bcfc",
+      "#049cd4"
+    ],
+    "source": {
+      "path": "apps/twittertron/twittertron-icon.png",
+      "revHash": "a2c729fe1c"
+    }
+  },
   "typetalk": {
     "faintColorOnWhite": "rgba(220, 45, 18, 0.1)",
     "goodColorOnBlack": "#F48C7C",
@@ -14589,6 +14781,22 @@
     "source": {
       "path": "apps/unlimited-clipboard/unlimited-clipboard-icon.png",
       "revHash": "84a429af99"
+    }
+  },
+  "unofficial-riot-games-launcher": {
+    "faintColorOnWhite": "rgba(120, 116, 116, 0.1)",
+    "goodColorOnBlack": "#FAF2F2",
+    "goodColorOnWhite": "#787474",
+    "palette": [
+      "#040404",
+      "#faf2f2",
+      "#8c8c8c",
+      "#787474",
+      "#7c7c7c"
+    ],
+    "source": {
+      "path": "apps/unofficial-riot-games-launcher/unofficial-riot-games-launcher-icon.png",
+      "revHash": "69b413edb4"
     }
   },
   "unofficial-zalo": {
@@ -15037,6 +15245,22 @@
     "source": {
       "path": "apps/vzl/vzl-icon.png",
       "revHash": "acaf16e5e2"
+    }
+  },
+  "waifu2x-gui": {
+    "faintColorOnWhite": "rgba(41, 103, 99, 0.1)",
+    "goodColorOnBlack": "#4FF1EE",
+    "goodColorOnWhite": "#296763",
+    "palette": [
+      "#070b0b",
+      "#4ff1ee",
+      "#329590",
+      "#296763",
+      "#37a49c"
+    ],
+    "source": {
+      "path": "apps/waifu2x-gui/waifu2x-gui-icon.png",
+      "revHash": "c2eb0f5905"
     }
   },
   "wail": {
