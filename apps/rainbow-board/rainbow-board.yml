@@ -1,5 +1,5 @@
 name: Rainbow Board
-description: Cross-platform Whiteboard App.
+description: 22nd Century Whiteboard App For Linux, Windows And Mac.
 website: https://harshkhandeparkar.github.io/rainbow-board
 category: Utilities
 repository: https://github.com/HarshKhandeparkar/rainbow-board
@@ -11,3 +11,6 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-1.png'
   - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-2.png'
   - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-3.png'
+  - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-4.png'
+  - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-5.png'
+  - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-6.png'
