@@ -1,0 +1,29 @@
+name: Tough Cookies
+description:
+  Flash cards study and management app with Markdown and WYSIWYG support.
+website: https://www.toughcookies.net
+category: Education
+keywords:
+  - flashcards
+  - flash cards
+  - study
+  - aid
+  - education
+  - learning
+  - exam
+  - school
+  - university
+license: proprietary, freeware
+screenshots:
+  - imageUrl: 'https://www.toughcookies.net/media/screenshots/dashboard.png'
+    caption: 'Dashboard view'
+    imageLink: 'https://www.toughcookies.net'
+  - imageUrl: 'https://www.toughcookies.net/media/screenshots/manager.png'
+    caption: 'Manage your cards, units, and folders'
+    imageLink: 'https://www.toughcookies.net'
+  - imageUrl: 'https://www.toughcookies.net/media/screenshots/desk.png'
+    caption: 'Create Flash Cards Using WYSIWYG or Markdown'
+    imageLink: 'https://www.toughcookies.net'
+  - imageUrl: 'https://www.toughcookies.net/media/screenshots/study.png'
+    caption: 'Focus on Studying with Spaced Repetition'
+    imageLink: 'https://www.toughcookies.net'

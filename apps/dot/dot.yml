@@ -10,3 +10,4 @@ keywords:
   - ui
   - material
   - privacy
+disabled: true # Dot Browser no longer uses Electron

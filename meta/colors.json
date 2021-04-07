@@ -6640,19 +6640,19 @@
     }
   },
   "keeweb": {
-    "faintColorOnWhite": "rgba(42, 107, 224, 0.1)",
-    "goodColorOnBlack": "#7CA4EC",
-    "goodColorOnWhite": "#2A6BE0",
+    "faintColorOnWhite": "rgba(25, 107, 222, 0.1)",
+    "goodColorOnBlack": "#8DB7F2",
+    "goodColorOnWhite": "#196BDE",
     "palette": [
-      "#5f80e4",
-      "#f1f2f6",
-      "#7ca4ec",
-      "#a0b0e6",
-      "#b1c4f1"
+      "#5773d6",
+      "#e6f0fb",
+      "#8db7f2",
+      "#80a8eb",
+      "#a5c7f2"
     ],
     "source": {
       "path": "apps/keeweb/keeweb-icon.png",
-      "revHash": "8c7df8863f"
+      "revHash": "93f92c83a1"
     }
   },
   "keyfant-offline-password-manager": {
@@ -7933,6 +7933,22 @@
     "source": {
       "path": "apps/minetime/minetime-icon.png",
       "revHash": "67a22c4ab1"
+    }
+  },
+  "mingo": {
+    "faintColorOnWhite": "rgba(7, 100, 236, 0.1)",
+    "goodColorOnBlack": "#3484F9",
+    "goodColorOnWhite": "#0764EC",
+    "palette": [
+      "#fbfbfc",
+      "#3484f9",
+      "#3bb3f4",
+      "#3cc4f4",
+      "#77b7fb"
+    ],
+    "source": {
+      "path": "apps/mingo/mingo-icon.png",
+      "revHash": "ccbf4c2240"
     }
   },
   "mini-diary": {
@@ -11024,19 +11040,19 @@
     }
   },
   "rainbow-board": {
-    "faintColorOnWhite": "rgba(98, 91, 235, 0.1)",
-    "goodColorOnBlack": "#A4ACFC",
-    "goodColorOnWhite": "#625BEB",
+    "faintColorOnWhite": "rgba(136, 28, 99, 0.1)",
+    "goodColorOnBlack": "#E27B2B",
+    "goodColorOnWhite": "#881C63",
     "palette": [
-      "#625beb",
-      "#e67d31",
-      "#fbfbfc",
-      "#a4acfc",
-      "#ccb4ec"
+      "#e15b63",
+      "#070505",
+      "#db34a8",
+      "#e27b2b",
+      "#881c63"
     ],
     "source": {
       "path": "apps/rainbow-board/rainbow-board-icon.png",
-      "revHash": "9e9940ecda"
+      "revHash": "75a668b469"
     }
   },
   "rambox": {
