@@ -1,34 +1,33 @@
 name: Commandeer
-description: 'Cloud Management Reimagined.'
+description:
+  'The #1 developer IDE to manage your serverless and container infrastructures,
+  both locally and in the cloud. With support for the best cloud services out
+  there.'
 website: 'https://getcommandeer.com'
+repository: 'https://github.com/commandeer/open'
+snapcraftName: 'commandeer'
+youtube_video_url: 'https://www.youtube.com/watch?v=6kNebYCE-9s'
 category: 'Developer Tools'
 keywords:
   - aws
+  - localstack
+  - s3
+  - docker
+  - sns
+  - sqs
   - cloud
   - dynamodb
   - iam
-  - s3
   - lambda
-  - sns
-  - sqs
   - commandeer
 license: Private
 screenshots:
-  - imageUrl: 'https://commander-development-images.s3-us-west-1.amazonaws.com/macbook-demo.png'
-    caption: 'Install it to your laptop'
+  - imageUrl: 'https://images.commandeer.be/_screenshots/dynamo-dashboard.png'
+    caption: 'View Your Data'
     imageLink: 'https://getcommandeer.com'
-  - imageUrl: 'https://commander-development-images.s3.amazonaws.com/dashboard-2.png'
-    caption: 'Dashboard, see all your services in a central place'
+  - imageUrl: 'https://images.commandeer.be/_screenshots/ansible-runner.png'
+    caption: 'Build Your IAC'
     imageLink: 'https://getcommandeer.com'
-  - imageUrl: 'https://commander-development-images.s3.amazonaws.com/localstack-2.png'
-    caption: 'Finally control Localstack'
-    imageLink: 'https://getcommandeer.com'
-  - imageUrl: 'https://commander-development-images.s3.amazonaws.com/account-switching-2.gif'
-    caption: 'Instantly switch between AWS accounts'
-    imageLink: 'https://getcommandeer.com'
-  - imageUrl: 'https://commander-development-images.s3.amazonaws.com/region-scanner.gif'
-    caption: 'Know where your resources are with Region Scanner'
-    imageLink: 'https://getcommandeer.com'
-  - imageUrl: 'https://commander-development-images.s3.amazonaws.com/localstack-2.png'
-    caption: 'Finally control Localstack'
+  - imageUrl: 'https://images.commandeer.be/_screenshots/system-diagrams.png'
+    caption: 'Test Your Plumbing'
     imageLink: 'https://getcommandeer.com'
