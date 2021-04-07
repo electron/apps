@@ -1,5 +1,7 @@
 name: To Do
-description: This project is a Web application that allow the user to simply have a list of tasks to do.
+description:
+  This project is a Web application that allow the user to simply have a list of
+  tasks to do.
 website: https://to-do-tasks-lists.web.app
 category: Productivity
 repository: https://github.com/luapp/ToDo
