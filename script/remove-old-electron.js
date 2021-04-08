@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
 const fs = require('fs').promises
+const semver = require('semver')
 
 const findOldElectron = require('../lib/old-electron')
 
@@ -24,28 +25,26 @@ console.log(
   } for old electron apps`
 )
 
-function isRateLimited(olds = []) {
-  return olds.every(({ version }) => version < "4.0.0")
-}
 
 async function main() {
   const oldArrays = (await findOldElectron(possibleStart, possibleEnd)).filter(
     (old) => {
-      return !isRateLimited(old.result)
+      if(old.result === undefined) return false
+      return semver.lt(old.result, "4.0.0")
     }
   )
 
   console.log(`Will disable ${oldArrays.length} entries`)
 
   for (const old of oldArrays) {
-    console.timeLog(old.result)
+    console.timeLog(old.entry.name)
     let data = await fs.readFile(old.entry.fullPath, { encoding: 'utf-8' })
 
     if (!data.endsWith('\n')) {
       data += `\n`
     }
 
-    data += `disabled: true # Old Electron version: ${old.result.version}\n`
+    data += `disabled: true # Old Electron version: v${old.result}\n`
 
     await fs.writeFile(old.entry.fullPath, data, { encoding: 'utf-8' })
 
