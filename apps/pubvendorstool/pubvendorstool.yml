@@ -3,6 +3,4 @@ description: 'Help create pubvendors.json files for IAB consent solutions.'
 website: 'https://github.com/EniroScott/pubvendors-tool'
 category: 'Developer Tools'
 repository: 'https://github.com/EniroScott/pubvendors-tool'
-keywords:
-  - ''
 license: MIT
