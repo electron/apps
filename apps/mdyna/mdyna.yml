@@ -17,13 +17,7 @@ keywords:
   - cross-platform
   - windows
 screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/mdyna/mdyna.github.io/master/screenshots/white-theme.png'
+  - imageUrl: 'https://mdyna.dev/static/bb58b997f918aa21f602f31258fdd2bf/3e65a/mockup2.png'
     caption: 'MDyna'
-  - imageUrl: 'https://raw.githubusercontent.com/mdyna/mdyna.github.io/master/screenshots/dark-theme.png'
+  - imageUrl: 'https://mdyna.dev/static/e140dad75e7383299f09e0f370d65607/3e65a/mockup.png'
     caption: 'Dark Theme'
-  - imageUrl: 'https://raw.githubusercontent.com/mdyna/mdyna.github.io/master/screenshots/editor.png'
-    caption: 'Editor'
-  - imageUrl: 'https://raw.githubusercontent.com/mdyna/mdyna.github.io/master/screenshots/focus.png'
-    caption: 'Focus'
-  - imageUrl: 'https://raw.githubusercontent.com/mdyna/mdyna.github.io/master/screenshots/menus.png'
-    caption: 'Boards'

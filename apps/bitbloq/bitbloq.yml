@@ -1,6 +1,6 @@
 name: Bitbloq
 description: 'Help children create programs for a microcontroller or robot'
-website: 'https://bitbloq.bq.com/'
+website: 'https://bitbloq.bq.com/#/offline'
 repository: 'https://github.com/bq/bitbloq-offline'
 keywords:
   - bq
