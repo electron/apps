@@ -6447,6 +6447,22 @@
       "revHash": "18f75ac0c3"
     }
   },
+  "lightyearvpn": {
+    "faintColorOnWhite": "rgba(213, 44, 26, 0.1)",
+    "goodColorOnBlack": "#F4ACA4",
+    "goodColorOnWhite": "#D52C1A",
+    "palette": [
+      "#e44b48",
+      "#fbfafa",
+      "#ee9190",
+      "#f4aca4",
+      "#ec7c74"
+    ],
+    "source": {
+      "path": "apps/lightyearvpn/lightyearvpn-icon.png",
+      "revHash": "fecd234b46"
+    }
+  },
   "ling": {
     "faintColorOnWhite": "rgba(5, 100, 172, 0.1)",
     "goodColorOnBlack": "#6CA2CA",
@@ -8684,7 +8700,7 @@
     ],
     "source": {
       "path": "apps/p3x-onenote/p3x-onenote-icon.png",
-      "revHash": "145c9c3f31"
+      "revHash": "1e9bf07bd9"
     }
   },
   "p3x-redis-ui": {
