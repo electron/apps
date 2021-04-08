@@ -1,7 +1,0 @@
-name: 'Yhat Rodeo'
-description: 'An IDE for data science'
-website: 'http://www.yhat.com/products/rodeo'
-keywords:
-  - IDE
-category: 'Developer Tools'
-disabled: true # Dead link(s): http://www.yhat.com/products/rodeo

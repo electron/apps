@@ -202,11 +202,12 @@ involves several scheduled process, and typically takes from 1 to 2 days.
 ## Removing or Disabling Apps
 
 Sometimes it's necessary to remove an app for this registry. To do so,
-add a `disabled` property to the app's YML file, followed a comment
+add a `disabled` and `disabledComment` properties to the app's YML file, followed a comment
 explaining the reason for removing it.
 
 ```yml
-disabled: true # Nylas was sunset and replaced by Mailspring
+disabled: true
+disabledComment: 'Wed Jul 03 2018 Nylas was sunset and replaced by Mailspring'
 ```
 
 This approach keeps the app data on hand, giving the app developer
