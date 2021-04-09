@@ -30,7 +30,12 @@ async function main() {
   const oldArrays = (await findOldElectron(possibleStart, possibleEnd)).filter(
     (old) => {
       if(old.result === undefined) return false
-      return semver.lt(old.result, "4.0.0")
+      try {
+        return semver.lt(old.result, "4.0.0")
+      }
+      catch (err) {
+        return false
+      }
     }
   )
 
