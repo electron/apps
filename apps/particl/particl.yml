@@ -12,3 +12,4 @@ keywords:
   - blockchain
   - p2p
 category: Finance
+disabled: true # Old Electron version: v1.7.16

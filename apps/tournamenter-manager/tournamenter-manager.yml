@@ -20,3 +20,4 @@ license: MIT
 category: Utilities
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/ivanseidel/TournamenterApp/master/midia/screenshot.png'
+disabled: true # Old Electron version: v1.6.2

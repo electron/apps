@@ -14,3 +14,4 @@ screenshots:
   - imageUrl: 'https://user-images.githubusercontent.com/5101076/31696671-70c01f8c-b3e5-11e7-9db5-5c22401ae116.png'
     caption: 'Hackable app'
     imageLink: 'https://github.com/CyanSalt/todu'
+disabled: true # Old Electron version: v3.0.8

@@ -7,3 +7,4 @@ keywords:
   - Browser
   - Windows
   - Multitask
+disabled: true # Old Electron version: v1.7.11

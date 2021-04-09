@@ -8,3 +8,4 @@ keywords:
   - qbox
   - vue
 license: MIT
+disabled: true # Old Electron version: v1.7.2

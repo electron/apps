@@ -7,3 +7,4 @@ keywords:
   - 'TodoKit'
   - 'project'
   - 'tracking'
+disabled: true # Old Electron version: v1.7.5

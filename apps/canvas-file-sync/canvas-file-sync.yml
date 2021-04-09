@@ -8,3 +8,4 @@ keywords:
   - education
   - developers
 category: Education
+disabled: true # Old Electron version: v1.7.5
