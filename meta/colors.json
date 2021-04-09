@@ -11280,19 +11280,19 @@
     }
   },
   "sleek": {
-    "faintColorOnWhite": "rgba(68, 68, 68, 0.1)",
-    "goodColorOnBlack": "#F9F9F9",
-    "goodColorOnWhite": "#444",
+    "faintColorOnWhite": "rgba(135, 83, 153, 0.1)",
+    "goodColorOnBlack": "#AC9DBC",
+    "goodColorOnWhite": "#875399",
     "palette": [
-      "#f9f9f9",
-      "#444444",
-      "#9c9c9c",
-      "#7f7f7f",
-      "#949494"
+      "#534976",
+      "#f9f9fa",
+      "#875399",
+      "#acacc0",
+      "#ac9dbc"
     ],
     "source": {
       "path": "apps/sleek/sleek-icon.png",
-      "revHash": "436dee70cd"
+      "revHash": "d807b629fc"
     }
   },
   "smallpdf": {

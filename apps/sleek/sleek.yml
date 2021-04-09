@@ -1,5 +1,7 @@
 name: sleek
-description: 'Todo app based on todo.txt, free and open-source. sleek is available for Linux, Windows and MacOS.'
+description:
+  'Todo app based on todo.txt, free and open-source. sleek is available for
+  Linux, Windows and MacOS.'
 website: 'https://github.com/ransome1/sleek'
 repository: 'https://github.com/ransome1/sleek'
 snapcraftName: sleek
