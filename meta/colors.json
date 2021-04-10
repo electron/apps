@@ -11292,7 +11292,7 @@
     ],
     "source": {
       "path": "apps/sleek/sleek-icon.png",
-      "revHash": "d807b629fc"
+      "revHash": "ab053004e1"
     }
   },
   "smallpdf": {
@@ -12653,6 +12653,22 @@
     "source": {
       "path": "apps/thomas/thomas-icon.png",
       "revHash": "6a6de29e90"
+    }
+  },
+  "thorium-reader": {
+    "faintColorOnWhite": "rgba(15, 101, 251, 0.1)",
+    "goodColorOnBlack": "#518FFC",
+    "goodColorOnWhite": "#0F65FB",
+    "palette": [
+      "#518ffc",
+      "#f8f9fc",
+      "#90b2fc",
+      "#1e7dfc",
+      "#7cacfc"
+    ],
+    "source": {
+      "path": "apps/thorium-reader/thorium-reader-icon.png",
+      "revHash": "a7fefa811a"
     }
   },
   "thunderdocs": {
