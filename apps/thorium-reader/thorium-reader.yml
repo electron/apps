@@ -1,0 +1,22 @@
+name: Thorium Reader
+description:
+  'Modern, highly accessible reading app for EPUB, PDF, Daisy books, audiobooks
+  and digital comics.'
+website: https://www.edrlab.org/software/thorium-reader/
+category: Books
+repository: https://github.com/edrlab/thorium-reader/
+keywords:
+  - epub
+  - pdf
+  - daisy
+  - ebooks
+  - reader
+  - lcp
+license: BSD-3
+screenshots:
+  - imageUrl: 'https://www.edrlab.org/wp-content/uploads/2020/01/iMac-Thorium-1024x717.png'
+    caption: 'library'
+    imageLink: 'https://www.edrlab.org/software/thorium-reader/'
+  - imageUrl: 'https://www.edrlab.org/wp-content/uploads/2020/01/Macbook-Thorium-1024x717.png'
+    caption: 'reader'
+    imageLink: 'https://www.edrlab.org/software/thorium-reader/'
