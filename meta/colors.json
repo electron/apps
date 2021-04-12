@@ -10367,6 +10367,22 @@
       "revHash": "05d530729e"
     }
   },
+  "remindr": {
+    "faintColorOnWhite": "rgba(4, 132, 116, 0.1)",
+    "goodColorOnBlack": "#04B1CB",
+    "goodColorOnWhite": "#048474",
+    "palette": [
+      "#04b1cb",
+      "#040404",
+      "#047bc9",
+      "#045357",
+      "#048474"
+    ],
+    "source": {
+      "path": "apps/remindr/remindr-icon.png",
+      "revHash": "ae9859ce85"
+    }
+  },
   "repomesh": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#FB3404",
@@ -11264,19 +11280,19 @@
     }
   },
   "sleek": {
-    "faintColorOnWhite": "rgba(68, 68, 68, 0.1)",
-    "goodColorOnBlack": "#F9F9F9",
-    "goodColorOnWhite": "#444",
+    "faintColorOnWhite": "rgba(135, 83, 153, 0.1)",
+    "goodColorOnBlack": "#AC9DBC",
+    "goodColorOnWhite": "#875399",
     "palette": [
-      "#f9f9f9",
-      "#444444",
-      "#9c9c9c",
-      "#7f7f7f",
-      "#949494"
+      "#534976",
+      "#f9f9fa",
+      "#875399",
+      "#acacc0",
+      "#ac9dbc"
     ],
     "source": {
       "path": "apps/sleek/sleek-icon.png",
-      "revHash": "436dee70cd"
+      "revHash": "ab053004e1"
     }
   },
   "smallpdf": {
@@ -12637,6 +12653,22 @@
     "source": {
       "path": "apps/thomas/thomas-icon.png",
       "revHash": "6a6de29e90"
+    }
+  },
+  "thorium-reader": {
+    "faintColorOnWhite": "rgba(15, 101, 251, 0.1)",
+    "goodColorOnBlack": "#518FFC",
+    "goodColorOnWhite": "#0F65FB",
+    "palette": [
+      "#518ffc",
+      "#f8f9fc",
+      "#90b2fc",
+      "#1e7dfc",
+      "#7cacfc"
+    ],
+    "source": {
+      "path": "apps/thorium-reader/thorium-reader-icon.png",
+      "revHash": "a7fefa811a"
     }
   },
   "thunderdocs": {
