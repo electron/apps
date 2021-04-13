@@ -6447,6 +6447,22 @@
       "revHash": "18f75ac0c3"
     }
   },
+  "lightyearvpn": {
+    "faintColorOnWhite": "rgba(213, 44, 26, 0.1)",
+    "goodColorOnBlack": "#F4ACA4",
+    "goodColorOnWhite": "#D52C1A",
+    "palette": [
+      "#e44b48",
+      "#fbfafa",
+      "#ee9190",
+      "#f4aca4",
+      "#ec7c74"
+    ],
+    "source": {
+      "path": "apps/lightyearvpn/lightyearvpn-icon.png",
+      "revHash": "fecd234b46"
+    }
+  },
   "ling": {
     "faintColorOnWhite": "rgba(5, 100, 172, 0.1)",
     "goodColorOnBlack": "#6CA2CA",
@@ -8684,7 +8700,7 @@
     ],
     "source": {
       "path": "apps/p3x-onenote/p3x-onenote-icon.png",
-      "revHash": "145c9c3f31"
+      "revHash": "1e9bf07bd9"
     }
   },
   "p3x-redis-ui": {
@@ -10351,6 +10367,22 @@
       "revHash": "05d530729e"
     }
   },
+  "remindr": {
+    "faintColorOnWhite": "rgba(4, 132, 116, 0.1)",
+    "goodColorOnBlack": "#04B1CB",
+    "goodColorOnWhite": "#048474",
+    "palette": [
+      "#04b1cb",
+      "#040404",
+      "#047bc9",
+      "#045357",
+      "#048474"
+    ],
+    "source": {
+      "path": "apps/remindr/remindr-icon.png",
+      "revHash": "ae9859ce85"
+    }
+  },
   "repomesh": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#FB3404",
@@ -11248,19 +11280,19 @@
     }
   },
   "sleek": {
-    "faintColorOnWhite": "rgba(68, 68, 68, 0.1)",
-    "goodColorOnBlack": "#F9F9F9",
-    "goodColorOnWhite": "#444",
+    "faintColorOnWhite": "rgba(135, 83, 153, 0.1)",
+    "goodColorOnBlack": "#AC9DBC",
+    "goodColorOnWhite": "#875399",
     "palette": [
-      "#f9f9f9",
-      "#444444",
-      "#9c9c9c",
-      "#7f7f7f",
-      "#949494"
+      "#534976",
+      "#f9f9fa",
+      "#875399",
+      "#acacc0",
+      "#ac9dbc"
     ],
     "source": {
       "path": "apps/sleek/sleek-icon.png",
-      "revHash": "436dee70cd"
+      "revHash": "ab053004e1"
     }
   },
   "smallpdf": {
@@ -11405,6 +11437,38 @@
     "source": {
       "path": "apps/social-amnesia/social-amnesia-icon.png",
       "revHash": "4103897f52"
+    }
+  },
+  "socially": {
+    "faintColorOnWhite": "rgba(28, 44, 52, 0.1)",
+    "goodColorOnBlack": "#7C848C",
+    "goodColorOnWhite": "#1C2C34",
+    "palette": [
+      "#1c2c34",
+      "#f2f2f2",
+      "#848c92",
+      "#6a737a",
+      "#7c848c"
+    ],
+    "source": {
+      "path": "apps/socially/socially-icon.png",
+      "revHash": "5867f97bb5"
+    }
+  },
+  "sofia": {
+    "faintColorOnWhite": "rgba(140, 80, 244, 0.1)",
+    "goodColorOnBlack": "#70B0FF",
+    "goodColorOnWhite": "#8C50F4",
+    "palette": [
+      "#66d5fc",
+      "#8c50f4",
+      "#70b0ff",
+      "#70b0ff",
+      "#70b0ff"
+    ],
+    "source": {
+      "path": "apps/sofia/sofia-icon.png",
+      "revHash": "2621f1373c"
     }
   },
   "somiibo": {
@@ -12621,6 +12685,22 @@
     "source": {
       "path": "apps/thomas/thomas-icon.png",
       "revHash": "6a6de29e90"
+    }
+  },
+  "thorium-reader": {
+    "faintColorOnWhite": "rgba(15, 101, 251, 0.1)",
+    "goodColorOnBlack": "#518FFC",
+    "goodColorOnWhite": "#0F65FB",
+    "palette": [
+      "#518ffc",
+      "#f8f9fc",
+      "#90b2fc",
+      "#1e7dfc",
+      "#7cacfc"
+    ],
+    "source": {
+      "path": "apps/thorium-reader/thorium-reader-icon.png",
+      "revHash": "a7fefa811a"
     }
   },
   "thunderdocs": {
