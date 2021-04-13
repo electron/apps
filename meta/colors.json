@@ -11439,6 +11439,38 @@
       "revHash": "4103897f52"
     }
   },
+  "socially": {
+    "faintColorOnWhite": "rgba(28, 44, 52, 0.1)",
+    "goodColorOnBlack": "#7C848C",
+    "goodColorOnWhite": "#1C2C34",
+    "palette": [
+      "#1c2c34",
+      "#f2f2f2",
+      "#848c92",
+      "#6a737a",
+      "#7c848c"
+    ],
+    "source": {
+      "path": "apps/socially/socially-icon.png",
+      "revHash": "5867f97bb5"
+    }
+  },
+  "sofia": {
+    "faintColorOnWhite": "rgba(140, 80, 244, 0.1)",
+    "goodColorOnBlack": "#70B0FF",
+    "goodColorOnWhite": "#8C50F4",
+    "palette": [
+      "#66d5fc",
+      "#8c50f4",
+      "#70b0ff",
+      "#70b0ff",
+      "#70b0ff"
+    ],
+    "source": {
+      "path": "apps/sofia/sofia-icon.png",
+      "revHash": "2621f1373c"
+    }
+  },
   "somiibo": {
     "faintColorOnWhite": "rgba(4, 120, 161, 0.1)",
     "goodColorOnBlack": "#65D4FB",
