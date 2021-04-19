@@ -6,7 +6,7 @@ website: 'https://moderndeck.org/'
 repository: 'https://github.com/dangeredwolf/ModernDeck'
 license: MIT
 screenshots:
-  - imageUrl: 'https://moderndeck.org/mac@2x.png'
+  - imageUrl: 'https://moderndeck.org/61b688c033c51d4cfc18.webp'
 keywords:
   - moderndeck
   - tweetdeck

@@ -11,3 +11,4 @@ keywords:
   - office
 license: GPLv3
 category: Productivity
+disabled: true # Electron < v3
