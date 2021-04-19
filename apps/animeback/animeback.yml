@@ -1,5 +1,5 @@
 name: AnimeBack
-description: 'Anime your wallpaper.'
+description: 'Animate your wallpaper. And create your own extension(s).'
 website: 'https://legithubdetai.github.io/AnimeBack/'
 youtube_video_url: 'https://www.youtube.com/watch?v=JpFKSTRth4M'
 category: Photo & Video
@@ -9,6 +9,12 @@ keywords:
   - animated
   - windows
 screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/LeGitHubDeTai/AnimeBack/main/assets/tray.png?raw=true'
+  - imageUrl: 'https://raw.githubusercontent.com/LeGitHubDeTai/AnimeBack/main/assets/changelog.png?raw=true'
+  - imageUrl: 'https://raw.githubusercontent.com/LeGitHubDeTai/AnimeBack/main/assets/desktop.png?raw=true'
+  - imageUrl: 'https://raw.githubusercontent.com/LeGitHubDeTai/AnimeBack/main/assets/options.png?raw=true'
+  - imageUrl: 'https://raw.githubusercontent.com/LeGitHubDeTai/AnimeBack/main/assets/wikigit.png?raw=true'
+  - imageUrl: 'https://raw.githubusercontent.com/LeGitHubDeTai/AnimeBack/main/assets/github.png?raw=true'
   - imageUrl: 'https://github.com/LeGitHubDeTai/AnimeBack/blob/main/assets/options%20window.png?raw=true'
   - imageUrl: 'https://github.com/LeGitHubDeTai/AnimeBack/blob/main/assets/tray%20options.png?raw=true'
   - imageUrl: 'https://github.com/LeGitHubDeTai/AnimeBack/blob/main/assets/options%20window.png?raw=true'

@@ -3,10 +3,8 @@ description: 'Translate 100+ Languages like a Pro'
 website: 'https://atomery.com/translatium'
 repository: 'https://github.com/atomery/translatium'
 screenshots:
-  - imageUrl: 'https://storage.atomery.com/marketing/translatium/screenshot.png'
+  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/1ac6c6b750882dd808c186f9af22f7bbe6271ad4/f1c35/images/translatium-screenshot@2x.webp'
     caption: 'Translatium (Light theme)'
-  - imageUrl: 'https://storage.atomery.com/marketing/translatium/screenshot-2.png'
-    caption: 'Translatium (Dark theme)'
 keywords:
   - 'google translate'
   - 'material design'

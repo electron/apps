@@ -3,7 +3,7 @@ description: 'Manage npm dependencies through a modern UI'
 website: 'https://github.com/rvpanoz/luna'
 repository: 'https://github.com/rvpanoz/luna'
 screenshots:
-  - imageUrl: 'https://github.com/rvpanoz/luna/blob/master/resources/luna-small.jpeg'
+  - imageUrl: 'https://github.com/rvpanoz/luna/blob/master/resources/media/images/luna-screen-1.png'
     caption: 'luna'
 keywords:
   - npm

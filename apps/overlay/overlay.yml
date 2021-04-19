@@ -2,7 +2,7 @@ name: Overlay
 description:
   'Set of tools for developers and designers to measure, align and overlay
   on-screen graphics and layouts'
-website: 'https://overlay.singuerinc.com/'
+website: 'https://overlay-app.netlify.app/'
 repository: 'https://github.com/singuerinc/overlay'
 keywords:
   - measuring

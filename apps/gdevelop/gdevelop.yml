@@ -20,8 +20,6 @@ youtube_video_url: 'https://www.youtube.com/watch?v=-lWGUI_xj0U'
 screenshots:
   - imageUrl: 'https://github.com/4ian/GDevelop/blob/master/newIDE/gd-ide-screenshot.png'
     caption: 'GDevelop Editor Dark Mode'
-  - imageUrl: 'https://github.com/4ian/GDevelop-website/blob/master/src/img/events.png'
-    caption: 'GDevelop visual events'
   - imageUrl: 'https://img.itch.zone/aW1nLzE1ODkwOTIucG5n/original/nP4Tp%2F.png'
     caption: 'Piskel sprite editor'
   - imageUrl: 'https://img.itch.zone/aW1nLzE1OTMzNzAucG5n/original/g7gty6.png'
