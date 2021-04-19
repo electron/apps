@@ -14,6 +14,6 @@ keywords:
 license: MIT
 
 screenshots:
-  - imageUrl: 'https://metronome.io/images/metronome-apps-demo@2x.png'
+  - imageUrl: 'https://metronome.io/dist/images/screen-desktop-wallet-gray-bar@2x.png'
     caption: 'Metronome Desktop Wallet'
     imageLink: 'https://metronome.io/wallet/'

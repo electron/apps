@@ -10,9 +10,9 @@ keywords:
   - stacks
   - kanban
 screenshots:
-  - imageUrl: 'https://stacks.rocks/assets/img/stacks.png'
+  - imageUrl: 'https://stacks.rocks/site/templates/assets/images/home-bg@2x.png'
     caption: 'Stacks'
     imageLink: 'https://stacks.rocks'
-  - imageUrl: 'https://stacks.rocks/assets/img/images/black-and-white.png'
+  - imageUrl: 'https://stacks.rocks/site/templates/assets/images/task-details-small.png'
     caption: 'Stacks'
     imageLink: 'https://stacks.rocks'

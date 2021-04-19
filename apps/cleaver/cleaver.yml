@@ -28,7 +28,7 @@ keywords:
   - Memcached
   - 'deploy desktop'
 screenshots:
-  - imageUrl: 'https://cleaver.cloud/images/newsite.png'
+  - imageUrl: 'https://cleavr.io/images/newsite.png'
     caption: 'Quickly spin up a server for your site'
     imageLink: 'https://cleavr.io'
   - imageUrl: 'https://cleavr.io/images/slide-deployment.png'
