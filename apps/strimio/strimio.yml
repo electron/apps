@@ -1,0 +1,24 @@
+name: Strimio
+description:
+  Strimio is a free cloud-based streaming service that provides you access to
+  tens of thousands of live streams from all over the world.
+website: https://strimio.com
+category: Entertainment
+keywords:
+  - free
+  - live streams
+  - live
+  - radio
+  - tv
+snapcraftName: strimio-desktop
+license: https://dtexpk7nyglo5.cloudfront.net/terms.html
+screenshots:
+  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2021/01/Strimio_banner_1920_1080_copy.png'
+    caption: 'Strimio desktop'
+  - imageUrl: 'https://www.strimio.com/images/hero.png'
+    caption: 'Strimio desktop'
+  - imageUrl: 'https://www.strimio.com/images/strimio-dark-home.jpg'
+    caption: 'Strimio desktop'
+goodColorOnBlack: '#9930d7'
+goodColorOnWhite: '#9930d7'
+faintColorOnWhite: 'rgba(203, 45, 111, .95)'
