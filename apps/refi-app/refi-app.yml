@@ -1,0 +1,24 @@
+name: Refi App
+description: A GUI tool to make interacting with Firestore less painful
+website: https://refiapp.io/
+category: Developer Tools
+keywords:
+  - Firebase
+  - Firestore GUI
+  - Firebase UI tool
+screenshots:
+  - imageUrl: 'https://refiapp.io/images/main.png'
+    caption: 'App'
+    imageLink: 'https://refiapp.io/'
+  - imageUrl: 'https://user-images.githubusercontent.com/9281080/115814339-0b922280-a41f-11eb-90c0-a85ac1979ea8.png'
+    caption: 'Table view'
+    imageLink: 'https://refiapp.io/'
+  - imageUrl: 'https://user-images.githubusercontent.com/9281080/115814309-fddc9d00-a41e-11eb-98e0-3133c24e05e2.png'
+    caption: 'JSON Editor'
+    imageLink: 'https://refiapp.io/'
+  - imageUrl: 'https://user-images.githubusercontent.com/9281080/115814325-0503ab00-a41f-11eb-8c6b-1b45e39db7d1.png'
+    caption: 'Hotkeys'
+    imageLink: 'https://refiapp.io/'
+  - imageUrl: 'https://user-images.githubusercontent.com/9281080/115814355-1351c700-a41f-11eb-9e4d-a99f34908877.png'
+    caption: 'Preview changes'
+    imageLink: 'https://refiapp.io/'
