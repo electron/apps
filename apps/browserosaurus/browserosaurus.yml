@@ -1,9 +1,10 @@
 name: Browserosaurus
 description: 'Browser prompter for macOS.'
-website: 'https://browserosaurus.com/'
+website: 'https://wstone.io/browserosaurus'
 repository: 'https://github.com/will-stone/browserosaurus'
 keywords:
-  - browsers
+  - productivity
+  - development
   - utility
   - macos
 category: Utilities
