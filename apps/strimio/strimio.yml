@@ -19,6 +19,3 @@ screenshots:
     caption: 'Strimio desktop'
   - imageUrl: 'https://www.strimio.com/images/strimio-dark-home.jpg'
     caption: 'Strimio desktop'
-goodColorOnBlack: '#9930d7'
-goodColorOnWhite: '#9930d7'
-faintColorOnWhite: 'rgba(203, 45, 111, .95)'
