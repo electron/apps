@@ -1,0 +1,10 @@
+name: quickstart-firebase
+description:
+  Framework and quickstart sample app integrates Firebase login, DB, storage.
+website: https://www.npmjs.com/package/electron-firebase
+category: Developer Tools
+repository: https://github.com/david-asher/electron-firebase.git
+keywords:
+  - firebase
+  - authentication
+license: MIT
