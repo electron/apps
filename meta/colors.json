@@ -11727,6 +11727,22 @@
       "revHash": "c778e557eb"
     }
   },
+  "strimio": {
+    "faintColorOnWhite": "rgba(147, 62, 228, 0.1)",
+    "goodColorOnBlack": "#D657D3",
+    "goodColorOnWhite": "#933EE4",
+    "palette": [
+      "#942fba",
+      "#f1e5f6",
+      "#a46bd2",
+      "#d657d3",
+      "#933ee4"
+    ],
+    "source": {
+      "path": "apps/strimio/strimio-icon.png",
+      "revHash": "81076b1ed8"
+    }
+  },
   "studiotrans": {
     "faintColorOnWhite": "rgba(4, 77, 251, 0.1)",
     "goodColorOnBlack": "#3479FC",
