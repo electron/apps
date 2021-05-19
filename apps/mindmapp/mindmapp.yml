@@ -1,6 +1,6 @@
 name: Mindmapp
 description: 'Draw effective mind maps in a few minutes.'
-website: 'https://mindmapp.cedoor.org/'
+website: 'https://mindmapp.cedoor.dev/'
 repository: 'https://github.com/Mindmapp/mindmapp'
 keywords:
   - map
@@ -11,4 +11,3 @@ keywords:
   - productivity
 license: MIT
 category: Productivity
-disabled: true # Dead link(s): https://mindmapp.cedoor.org/

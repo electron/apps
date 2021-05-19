@@ -26,3 +26,4 @@ screenshots:
     imageLink: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/SSH.png'
   - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Transfers.png'
     imageLink: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Transfers.png'
+disabled: true # Dead link(s): https://www.sftpclient.io/download

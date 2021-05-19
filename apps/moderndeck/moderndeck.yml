@@ -1,0 +1,35 @@
+name: 'ModernDeck for Twitter'
+description:
+  'Powerful, beautiful, full-featured, and customizable Twitter client.'
+category: 'Social Networking'
+website: 'https://moderndeck.org/'
+repository: 'https://github.com/dangeredwolf/ModernDeck'
+license: MIT
+screenshots:
+  - imageUrl: 'https://moderndeck.org/61b688c033c51d4cfc18.webp'
+keywords:
+  - moderndeck
+  - tweetdeck
+  - twitter
+  - tweet
+locales:
+  - bg
+  - cs
+  - de
+  - en
+  - en-CA
+  - en-GB
+  - en-US
+  - es
+  - es-AR
+  - es-ES
+  - es-MX
+  - fr
+  - fr-CA
+  - hr
+  - ja
+  - no
+  - pl
+  - pt-BR
+  - ru
+  - zh-CN

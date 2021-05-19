@@ -1,0 +1,34 @@
+name: 'Master Tour'
+description:
+  'The industry leading entertainment tour management platform used globally by
+  traveling professionals.'
+website: 'https://www.eventric.com/master-tour-management-software/'
+category: Productivity
+keywords:
+  - tour
+  - management
+  - music
+  - concert
+  - crew
+  - event
+  - show
+  - band
+  - musician
+  - hotel
+  - travel
+  - schedule
+  - set
+  - guest
+  - road
+  - bus
+  - venue
+screenshots:
+  - imageUrl: 'https://eventric.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-14-at-10.28.05-AM.png'
+    caption: 'Dashboard View'
+    imageLink: 'https://www.eventric.com/master-tour-management-software/'
+  - imageUrl: 'https://eventric.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-14-at-10.28.44-AM.png'
+    caption: 'Schedule View'
+    imageLink: 'https://www.eventric.com/master-tour-management-software/'
+  - imageUrl: 'https://eventric.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-14-at-10.29.35-AM.png'
+    caption: 'Guest List Management'
+    imageLink: 'https://www.eventric.com/master-tour-management-software/'

@@ -1,0 +1,30 @@
+name: TaskView
+description:
+  'Local service for daily planning, aimed at achieving results. For personal
+  affairs and work tasks.'
+website: 'https://github.com/Gimanh/handscream'
+category: Productivity
+repository: 'https://github.com/Gimanh/handscream'
+keywords:
+  - taskview
+  - electron-vue
+  - dark-theme
+  - vue
+  - vuetify
+  - tasks
+  - reports
+  - better-sqlite3
+license: 'GPLv3'
+screenshots:
+  - imageUrl: 'https://github.com/Gimanh/handscream/wiki/images/2.png'
+    caption: 'Dark theme'
+  - imageUrl: 'https://github.com/Gimanh/handscream/wiki/images/1.png'
+    caption: 'Light theme'
+  - imageUrl: 'https://github.com/Gimanh/handscream/wiki/images/7.png'
+    caption: 'Time activity control'
+  - imageUrl: 'https://github.com/Gimanh/handscream/wiki/images/4.png'
+    caption: 'Report section'
+  - imageUrl: 'https://github.com/Gimanh/handscream/wiki/images/4.1.png'
+    caption: 'Report result'
+  - imageUrl: 'https://github.com/Gimanh/handscream/wiki/images/6.png'
+    caption: 'Storage dialog'

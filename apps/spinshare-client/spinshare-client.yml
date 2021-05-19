@@ -1,0 +1,37 @@
+name: SpinShare Client
+description: 'Download, Extract and Manage your Spin Rhythm XD library.'
+website: 'https://spinsha.re/client'
+repository: 'https://github.com/SpinShare/client'
+keywords:
+  - games
+  - gaming
+  - music
+  - videogame
+  - community
+  - custom
+  - usercontent
+  - vue
+license: GNU
+category: Music
+goodColorOnWhite: '#D61D6A'
+goodColorOnBlack: '#E22C78'
+locales:
+  - en
+  - de
+  - es
+  - fr
+  - kr
+  - nl
+  - pl
+  - pt-BR
+  - ru
+  - zh-CN
+screenshots:
+  - imageUrl: 'https://spinshare.b-cdn.net/assets/img/clientScreenshots/frontpage.png'
+    caption: 'Client Frontpage'
+  - imageUrl: 'https://spinshare.b-cdn.net/assets/img/clientScreenshots/detail.png'
+    caption: 'Client Chart Detail'
+  - imageUrl: 'https://spinshare.b-cdn.net/assets/img/clientScreenshots/library.png'
+    caption: 'Client Library'
+  - imageUrl: 'https://spinshare.b-cdn.net/assets/img/clientScreenshots/newsongs.png'
+    caption: 'Client Discovery'

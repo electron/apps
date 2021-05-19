@@ -1,0 +1,34 @@
+name: Motrix
+description: Full-featured download manager.
+website: https://github.com/agalwood/Motrix
+category: Utilities
+repository: https://github.com/agalwood/Motrix
+keywords:
+  - download-manager
+  - bittorrent
+  - magnet
+  - bt
+  - aria2
+license: MIT
+homebrewCaskName: motrix
+snapcraftName: motrix
+locales:
+  - ca
+  - de
+  - en-US
+  - es
+  - fa
+  - fr
+  - id
+  - ja
+  - ko
+  - pt-BR
+  - ru
+  - tr
+  - zh-CN
+  - zh-TW
+  - uk
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/agalwood/Motrix/master/screenshots/electron-apps-banner.png'
+    caption: 'Motrix'
+    imageLink: 'https://motrix.app'

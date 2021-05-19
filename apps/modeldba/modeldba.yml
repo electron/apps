@@ -1,0 +1,28 @@
+name: modelDBA
+description:
+  The database IDE for modern developers. Visualize SQL queries as you type.
+website: https://modeldba.com/
+category: Developer Tools
+keywords:
+  - database
+  - sql
+  - mysql
+  - sql server
+  - postgresql
+  - visualizer
+  - no-code
+screenshots:
+  - imageUrl: 'https://modeldba.com/wp-content/uploads/2020/10/SQLEditor.gif'
+    caption: 'Visualize SQL queries as you type.'
+  - imageUrl: 'https://modeldba.com/wp-content/uploads/2020/07/modelDBA_databaseDiagram_Sakila.png'
+    caption:
+      'An interactive database diagram is generated for each of your databases.
+      Click a table to start editing it.'
+  - imageUrl: 'https://modeldba.com/wp-content/uploads/2020/10/SQLEditor.png'
+    caption:
+      'Relevant tables and columns referenced in your queries appear
+      automatically in the query diagram.'
+  - imageUrl: 'https://modeldba.com/wp-content/uploads/2020/07/modelDBA_tableEditor.png'
+    caption:
+      'The no-code table editor lets you make the most common changes to your
+      tables in just a click.'

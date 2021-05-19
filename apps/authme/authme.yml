@@ -1,0 +1,11 @@
+name: Authme
+description: 'Cross platform simple two-factor authentication app for desktop.'
+website: 'https://github.com/Levminer/authme'
+repository: 'https://github.com/Levminer/authme'
+screenshots:
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/Levminer/authme/main/img/screenshot.png',
+    }
+keywords:
+  - authme
+category: Utilities

@@ -1,0 +1,11 @@
+name: Elephicon
+description: 'Generate ICO and ICNS files for your desktop apps.'
+website: 'https://sprout2000.github.io/elephicon/'
+repository: 'https://github.com/sprout2000/elephicon'
+category: 'Developer Tools'
+screenshots:
+  - imageUrl: 'https://user-images.githubusercontent.com/52094761/89375057-d6766080-d727-11ea-9d6a-d0cad4cd607e.png'
+  - imageUrl: 'https://user-images.githubusercontent.com/52094761/89375071-dfffc880-d727-11ea-95eb-f85d15135a19.png'
+  - imageUrl: 'https://user-images.githubusercontent.com/52094761/89375077-e42be600-d727-11ea-91d9-be377e60cc7b.png'
+locales:
+  - en-US

@@ -1,22 +1,22 @@
 name: WebCatalog
 description: 'Run Web Apps like Real Apps'
-website: 'https://getwebcatalog.com/'
-repository: 'https://github.com/quanglam2807/webcatalog'
+website: 'https://atomery.com/webcatalog'
+repository: 'https://github.com/atomery/webcatalog'
 screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/catalog.png'
-    caption: 'Catalog'
-  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/appview.png'
-    caption: 'AppView'
-  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/workspace.png'
-    caption: 'Workspaces'
-  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/53d4896b727ab18f3b8bcee644dde9ac12e3c302/docs/images/demos/menubar.png'
-    caption: 'Menubar'
-  - imageUrl: 'https://raw.githubusercontent.com/quanglam2807/webcatalog/440498bb82138e786a9f9848ea58795e17e6dda9/docs/images/demos/customization.png'
-    caption: 'Customization'
+  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/8e4d23c380a1f32a8d75528c03923f4403fdc70b/c1b9a/images/webcatalog-custom-apps.webp'
+    caption: 'WebCatalog - Run Web Apps like Real Apps'
+  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/558acc4cec8519fe6793be37018a355ec35f5a54/72cef/images/webcatalog-workspaces.webp'
+    caption: 'Catalog - Install apps quickly from our curated catalog'
+  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/e7704d92f9958a5602ace9999ddff1f2a1849a2f/bdf00/images/webcatalog-notifications.webp'
+    caption: 'Notifications - Control notifications with scheduling'
 keywords:
+  - 'app store'
+  - 'create desktop app'
+  - 'real app'
   - 'site-specific browser'
   - browser
   - fluid
   - fluidapp
-  - 'app store'
+  - productivity
+  - ssb
 category: Productivity

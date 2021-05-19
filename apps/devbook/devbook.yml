@@ -1,0 +1,15 @@
+name: Devbook
+description: Search engine for developers.
+website: https://usedevbook.com/
+category: Developer Tools
+keywords:
+  - search
+  - development
+homebrewCaskName: devbook
+screenshots:
+  - imageUrl: 'https://storage.googleapis.com/devbook-marketing-images/devbook-so.png'
+    caption: 'Devbook Stack Overflow search'
+    imageLink: 'https://usedevbook.com'
+  - imageUrl: 'https://storage.googleapis.com/devbook-marketing-images/devbook-docs.png'
+    caption: 'Devbook Docs search'
+    imageLink: 'https://usedevbook.com'

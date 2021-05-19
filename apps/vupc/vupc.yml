@@ -1,0 +1,11 @@
+name: VuPC
+description: 'WebRTC screensharing.'
+website: 'https://github.com/machester4/vupc'
+keywords:
+  - screensharing
+  - collaboration
+  - WebRTC
+category: 'Social Networking'
+repository: 'https://github.com/machester4/vupc'
+screenshots:
+  - imageUrl: 'https://github.com/machester4/vupc/blob/master/screenshot.png?raw=true'

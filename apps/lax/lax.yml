@@ -1,0 +1,8 @@
+name: Lax
+description: Friendly IRC client.
+website: https://github.com/brandly/Lax
+category: Social Networking
+keywords:
+  - chat
+  - irc
+license: MIT

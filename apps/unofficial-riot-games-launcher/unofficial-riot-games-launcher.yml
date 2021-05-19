@@ -1,0 +1,15 @@
+name: Unofficial Riot Games Launcher
+description:
+  'Custom Launcher for League of Legends, Legends of Runeterra and VALORANT.'
+website: 'https://www.softpedia.com/get/Gaming-Related/Unofficial-Riot-Games-Launcher.shtml'
+repository: 'https://github.com/Eliosth/UNOFFICIAL-Riot-Games-Launcher'
+youtube_video_url: 'https://www.youtube.com/watch?v=vJ7sgziaUUg'
+category: Games
+keywords:
+  - League of Legends
+  - Legends of Runeterra
+  - Valorant
+  - Game Launcher
+
+screenshots:
+  - imageUrl: 'https://camo.githubusercontent.com/1bd49f7d5bfb00418e3c6b2e3483638091762ff68e8e2c83485ef03a444f34b5/68747470733a2f2f692e696d6775722e636f6d2f7352326a5a57502e6a7067'

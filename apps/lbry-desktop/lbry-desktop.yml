@@ -4,7 +4,7 @@ description:
   data. You control the network. Indeed, you are the network. Hollywood films,
   college lessons, amazing streamers and more are on the first media network
   ruled by you.'
-website: 'https://lbry.io'
+website: 'https://lbry.com'
 repository: 'https://github.com/lbryio/lbry-desktop'
 keywords:
   - Decentralized
@@ -14,4 +14,4 @@ keywords:
 license: MIT
 category: 'Entertainment'
 screenshots:
-  - imageUrl: 'https://spee.ch/0/lbryhome.jpeg'
+  - imageUrl: 'https://github.com/lbryio/lbry-desktop/blob/master/static/img/v2-og.png'
