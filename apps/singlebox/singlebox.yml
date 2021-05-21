@@ -1,19 +1,15 @@
 name: Singlebox
-description: 'Smart Browser for Busy People.'
-website: 'https://atomery.com/singlebox'
-repository: 'https://github.com/atomery/singlebox'
+description: 'All-in-One Messenger'
+website: 'https://singlebox.app'
+repository: 'https://github.com/webcatalog/singlebox'
 screenshots:
-  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/1ef3cc4d2657e14fd36276c7681a405471525daa/aa272/images/screenshot-1.png'
-    caption: 'Singlebox - Smart Browser for Busy People'
-  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/2e4fcf3b8c9a3b939a121c3ff48b3874bd1a0550/4c7ab/images/screenshot-2.png'
-    caption: 'Stay organized with workspaces'
-  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/65deb3b9e306b0b74b7dc9f26cabcd3917bcca64/c619d/images/screenshot-3.png'
-    caption: 'Protect your privacy'
-  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/111c8a291db5041327903d2af28cdb2c8d45d133/236dd/images/prefs.png'
-    caption: 'Take control'
-  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/85def36a1e1db817a482d00558387026da64abb5/688e6/images/catalog.png'
-    caption: 'Work with all web services'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/singlebox/Multiple+Accounts+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/singlebox/Add+Account+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/singlebox/Edit+Account+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/singlebox/Preferences+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/singlebox/App+Lock+-+Light.png'
 keywords:
+  - 'all-in-one messenger'
   - chat
   - messaging
   - browser
