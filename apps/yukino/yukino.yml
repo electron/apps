@@ -1,0 +1,16 @@
+name: "Yukino"
+description: "Yukino let's you stream anime or read manga ad-free from multiple sources."
+website: "https://zyrouge.github.io/yukino-app"
+repository: "https://github.com/zyrouge/yukino-app/"
+screenshots:
+  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/home.png"
+  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/search.png"
+  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/anime.png"
+  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/episodes.png"
+  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/sources.png"
+  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/manga.png"
+keywords:
+  - "anime"
+  - "manga"
+category: "Entertainment"
+license: "MIT"
