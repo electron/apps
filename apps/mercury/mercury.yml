@@ -13,3 +13,4 @@ keywords:
 license: MIT
 locales:
   - fr
+disabled: true # Old Electron version: v1.8.1

@@ -11,3 +11,4 @@ keywords:
   - ram
   - hdd
 license: MIT
+disabled: true # Old Electron version: v2.0.4

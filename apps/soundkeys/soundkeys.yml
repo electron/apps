@@ -12,3 +12,4 @@ keywords:
 category: Music
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/MSandeep96/SoundKeys/master/ReadmeImages/Soundkeys.PNG'
+disabled: true # Old Electron version: v1.7.9

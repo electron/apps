@@ -11,3 +11,4 @@ keywords:
 category: Utilities
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/Nazgul07/BitCrypt/master/Screenshot.PNG'
+disabled: true # Old Electron version: v1.4.12
