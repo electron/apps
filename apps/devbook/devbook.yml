@@ -5,11 +5,13 @@ category: Developer Tools
 keywords:
   - search
   - development
+  - productivity
 homebrewCaskName: devbook
+youtube_video_url: https://www.youtube.com/watch?v=uUpGjzyAV_E
 screenshots:
   - imageUrl: 'https://storage.googleapis.com/devbook-marketing-images/devbook-so.png'
-    caption: 'Devbook Stack Overflow search'
+    caption: 'Stack Overflow search'
     imageLink: 'https://usedevbook.com'
   - imageUrl: 'https://storage.googleapis.com/devbook-marketing-images/devbook-docs.png'
-    caption: 'Devbook Docs search'
+    caption: 'Docs search'
     imageLink: 'https://usedevbook.com'
