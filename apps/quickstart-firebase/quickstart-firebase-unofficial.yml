@@ -1,4 +1,4 @@
-name: quickstart-firebase
+name: quickstart-firebase-unofficial
 description:
   Framework and quickstart sample app integrates Firebase login, DB, storage.
 website: https://www.npmjs.com/package/electron-firebase
