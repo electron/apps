@@ -21,4 +21,4 @@ screenshots:
       caption: 'udemy-dl dashboard',
       imageLink: 'http://riazxrazor.in',
     }
-disabled: true # Old Electron version: v1.7.5
+disabled: true # Dead link(s): http://riazxrazor.in & electron < v3

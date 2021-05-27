@@ -11,11 +11,5 @@ keywords:
   - timelines
 category: 'Business'
 screenshots:
-  - imageUrl: 'https://files.swit.io/app/screenshots/chat.jpg'
-    caption: 'Chat'
-  - imageUrl: 'https://files.swit.io/app/screenshots/ideas.jpg'
-    caption: 'Ideas detail'
-  - imageUrl: 'https://files.swit.io/app/screenshots/detail.jpg'
-    caption: 'Project detail'
-  - imageUrl: 'https://files.swit.io/app/screenshots/timeline.jpg'
-    caption: 'Project timeline'
+  - imageUrl: 'https://swit.io/assets/images/home/features/device_app.png'
+    caption: 'Swit'

@@ -1,25 +1,53 @@
 name: sleek
-description: 'Todo app based on todo.txt, Sleek is free and open-source.'
+description:
+  'Todo app based on todo.txt, free and open-source. sleek is available for
+  Linux, Windows and MacOS.'
 website: 'https://github.com/ransome1/sleek'
 repository: 'https://github.com/ransome1/sleek'
 snapcraftName: sleek
 keywords:
   - todo
   - todo.txt
+  - todo.txt gui
+  - todo.txt client
+  - todo.txt app
   - productivity
   - task manager
   - todo manager
   - open source
-  - reminders
   - lists
+  - fulltext search
+  - filters
+  - multi language
+  - dark mode
+  - repeating todos
+  - archiving
+  - thresolds
+  - alarms
+  - reminders
+  - due dates
+  - compact view
+  - file watcher
+  - mac
+  - windows
+  - linux
 category: 'Productivity'
 license: MIT
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/mac/main.png'
     caption: 'sleeks main view'
     imageLink: 'https://github.com/ransome1/sleek'
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/mac/main_dark.png'
+    caption: 'sleeks main view in dark mode'
+    imageLink: 'https://github.com/ransome1/sleek'
   - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/mac/main_filter_dark.png'
     caption: 'sleeks main view in dark mode, filter drawer opened'
+    imageLink: 'https://github.com/ransome1/sleek'
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/mac/add_todo_typeahead.png'
+    caption: 'Adding a new todo and auto complete function shown'
+    imageLink: 'https://github.com/ransome1/sleek'
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/mac/add_todo.png'
+    caption: 'Adding a new todo and date picker shown'
     imageLink: 'https://github.com/ransome1/sleek'
 locales:
   - de-DE
