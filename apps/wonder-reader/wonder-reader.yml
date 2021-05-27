@@ -9,3 +9,4 @@ keywords:
   - 'comic book'
 license: ISC
 category: Books
+disabled: true # Old Electron version: v3.1.13

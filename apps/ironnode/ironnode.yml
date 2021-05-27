@@ -12,3 +12,4 @@ screenshots:
   - {
       imageUrl: 'https://raw.githubusercontent.com/s-a/iron-node/master/docs/iron-node-demo.gif',
     }
+disabled: true # Old Electron version: v2.0.8

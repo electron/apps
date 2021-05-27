@@ -9,3 +9,4 @@ keywords:
 category: 'Developer Tools'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/harksys/HawkEye/master/.github/dark.png'
+disabled: true # Old Electron version: v1.4.11

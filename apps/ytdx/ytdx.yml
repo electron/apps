@@ -18,3 +18,4 @@ screenshots:
   - imageUrl: 'https://aveeksaha.gitlab.io/ytdx/screenshot2.png'
     caption: 'Notification'
     imageLink: 'https://github.com/Aveek-Saha/ytdx/releases'
+disabled: true # Old Electron version: v3.0.13

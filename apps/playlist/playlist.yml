@@ -17,3 +17,4 @@ repository: 'https://github.com/danielsidev/playlist'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/danielsidev/playlist/master/build_resources/screenshot.png'
     caption: 'Playlist Screenshots'
+disabled: true # Old Electron version: v1.7.10

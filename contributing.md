@@ -187,6 +187,7 @@ Some things to keep in mind when preparing your app for submission. Heavily insp
 - If you just created something, wait at least 20 days before submitting.
 - If you're submitting a closed source app, include evidence of it being built with Electron.
 - Submitted open source apps should have a readme, screenshot of the app in the readme, and a binary for at least one OS, preferably macOS, Linux and Windows.
+- Your app must use at least Electron v4.0.0.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
 - Don't mention `Electron` in the description as it's implied.
