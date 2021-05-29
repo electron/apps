@@ -14,3 +14,4 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/myazarc/ytdownloader/master/build/images/YT.Downloader.png'
 locales:
   - en-US
+disabled: true # Old Electron version: v2.0.4
