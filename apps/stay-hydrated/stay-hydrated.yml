@@ -1,0 +1,7 @@
+name: stay-hydrated
+description: 'Reminder to drink water'
+category: Utilities
+keywords:
+  - water
+repository: 'https://github.com/QuentinGruber/stay-hydrated'
+license: MIT
