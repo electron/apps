@@ -14,3 +14,4 @@ license: MIT
 category: Productivity
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/CellarD0-0r/whatever/master/screenshots/splash.png'
+disabled: true # Old Electron version: v1.4.15

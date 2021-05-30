@@ -8,3 +8,4 @@ keywords:
   - api-mock
   - vue
 license: AGPL
+disabled: true # Old Electron version: v2.0.4
