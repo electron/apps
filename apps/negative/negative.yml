@@ -12,3 +12,4 @@ category: 'Developer Tools'
 repository: 'https://github.com/atdrago/negative'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/atdrago/negative/develop/docs/demo-usage.gif'
+disabled: true # Old Electron version: v1.7.9

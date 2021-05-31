@@ -14,3 +14,4 @@ keywords:
   - Browser
   - PowerShell
 license: MIT
+disabled: true # Old Electron version: v2.0.9
