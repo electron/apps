@@ -3679,6 +3679,22 @@
       "revHash": "b2a9384959"
     }
   },
+  "falix-software": {
+    "faintColorOnWhite": "rgba(43, 114, 202, 0.1)",
+    "goodColorOnBlack": "#92F2A2",
+    "goodColorOnWhite": "#2B72CA",
+    "palette": [
+      "#454443",
+      "#2b72ca",
+      "#747474",
+      "#92f2a2",
+      "#244474"
+    ],
+    "source": {
+      "path": "apps/falix-software/falix-software-icon.png",
+      "revHash": "6e2e1dd8f6"
+    }
+  },
   "fangyuanjian": {
     "faintColorOnWhite": "rgba(44, 60, 68, 0.1)",
     "goodColorOnBlack": "#949CA4",
