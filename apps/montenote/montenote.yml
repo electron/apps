@@ -15,3 +15,4 @@ category: Productivity
 screenshots:
   - imageUrl: 'https://github.com/urbanogardun/monte-note/raw/master/static/monte-note-note-page.gif'
     imageLink: 'https://github.com/urbanogardun/monte-note'
+disabled: true # Old Electron version: v1.7.9

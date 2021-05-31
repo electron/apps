@@ -10,3 +10,4 @@ keywords:
   - demo
   - chatbot
 license: ISC
+disabled: true # Old Electron version: v1.7.8
