@@ -13,14 +13,10 @@ keywords:
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/AndrewLang/writer/master/screenshots/0x0ss-P3.jpg'
     caption: 'Writer Welcome on MacOS'
-    imageLink: ''
   - imageUrl: 'https://raw.githubusercontent.com/AndrewLang/writer/master/screenshots/writer-v14.png'
     caption: 'Writer Welcome on Windows'
-    imageLink: ''
   - imageUrl: 'https://raw.githubusercontent.com/AndrewLang/writer/master/screenshots/ubuntu-editor.png'
     caption: 'Writer editor on ubuntu'
-    imageLink: ''
   - imageUrl: 'https://raw.githubusercontent.com/AndrewLang/writer/master/screenshots/editor-centos.png'
     caption: 'Writer editor on CentOS'
-    imageLink: ''
 category: Productivity

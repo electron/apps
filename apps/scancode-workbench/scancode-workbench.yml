@@ -12,7 +12,6 @@ keywords:
   - scancode
   - workbench
   - copyright
-  - ''
 license: 'https://github.com/nexB/scancode-workbench/blob/develop/LICENSE'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/wiki/nexB/scancode-workbench/scancode-workbench-chart-summary.gif'
