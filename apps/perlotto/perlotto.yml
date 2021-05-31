@@ -13,3 +13,4 @@ license: MIT
 category: Music
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/can3p/perlotto/master/perlotto.png'
+disabled: true # Old Electron version: v3.0.10

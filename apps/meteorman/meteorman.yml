@@ -5,3 +5,4 @@ category: Developer Tools
 repository: https://github.com/antwaremx/meteorman
 keywords:
   - ddp-client
+disabled: true # Old Electron version: v2.0.4
