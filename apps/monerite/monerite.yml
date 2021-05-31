@@ -11,4 +11,4 @@ keywords:
   - crypto
   - cryptocurrency
   - bitcoin
-disabled: true # Dead link(s): http://www.monerite.com & Electron < v3
+disabled: true # Old Electron version: v1.8.3
