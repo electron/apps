@@ -10,3 +10,4 @@ license: MIT
 category: Productivity
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/rhysd/ss/master/Shiba/shiba-screenshot.gif'
+disabled: true # Old Electron version: v2.0.8

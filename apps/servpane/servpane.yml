@@ -12,3 +12,4 @@ keywords:
 license: MIT
 screenshots:
   - imageUrl: 'https://gist.githubusercontent.com/aderyabin/74f49078ba522a9e923614050dd6895b/raw/ServPane-screen.png'
+disabled: true # Old Electron version: v1.8.3

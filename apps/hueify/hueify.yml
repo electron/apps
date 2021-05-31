@@ -11,3 +11,4 @@ keywords:
 license: MIT
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/kvartborg/hueify/master/demo.gif'
+disabled: true # Old Electron version: v1.6.2

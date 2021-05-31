@@ -1,6 +1,6 @@
 name: KongDash
 description: 'Desktop client for Kong Admin API'
-website: 'https://kongdash.xyz'
+website: 'https://kongdash.in/'
 repository: 'https://github.com/ajaysreedhar/kongdash'
 keywords:
   - Kong
@@ -11,3 +11,4 @@ license: MIT
 category: 'Developer Tools'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/ajaysreedhar/kongdash/master/screenshot.png'
+disabled: true # Old Electron version: v1.6.11

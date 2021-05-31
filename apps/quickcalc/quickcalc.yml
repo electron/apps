@@ -9,3 +9,4 @@ license: MIT
 category: Utilities
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/Cwoodall6/quickcalc/master/assets/quickcalc_design.jpg'
+disabled: true # Old Electron version: v1.3.3

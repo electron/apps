@@ -10,3 +10,4 @@ license: MIT
 category: Productivity
 screenshots:
   - imageUrl: 'https://cloud.githubusercontent.com/assets/594298/20180624/858a483a-a75b-11e6-94a1-ef1edc4d95c3.gif'
+disabled: true # Old Electron version: v1.8.8

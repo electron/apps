@@ -1,7 +1,7 @@
 name: sFTP Client
 description:
   'Transfer files with FTP, FTPIS, FTPES and SFTP (Including SSH Terminal)'
-website: 'https://www.sftpclient.io/download'
+website: 'https://purpleio.uk/download'
 keywords:
   - sftp
   - ftp
@@ -26,3 +26,4 @@ screenshots:
     imageLink: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/SSH.png'
   - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Transfers.png'
     imageLink: 'https://dashboard.snapcraft.io/site_media/appmedia/2018/08/Transfers.png'
+disabled: false

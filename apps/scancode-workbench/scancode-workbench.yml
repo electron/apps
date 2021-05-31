@@ -20,3 +20,4 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/wiki/nexB/scancode-workbench/import-json-file.gif'
     caption: 'Import JSON File'
     imageLink: 'https://github.com/nexB/scancode-workbench'
+disabled: true # Old Electron version: v3.1.11

@@ -1,0 +1,38 @@
+name: Copy 2 Online
+description:
+  'Cloud-based multiplatform clipboard manager that allows you to access, view,
+  and manage your copy history.'
+website: 'https://copy2.online'
+keywords:
+  - clipboard
+  - manager
+  - copy
+  - paste
+  - history
+  - mac
+  - windows
+  - linux
+  - android
+  - ios
+  - c2o
+license: Commercial
+category: Productivity
+locales:
+  - en
+  - tr
+screenshots:
+  - imageUrl: 'https://c2o-storage.fra1.digitaloceanspaces.com/images/electron-apps/01.png'
+    caption: 'Homepage'
+    imageLink: 'https://copy2.online'
+  - imageUrl: 'https://c2o-storage.fra1.digitaloceanspaces.com/images/electron-apps/02.png'
+    caption: 'Upgrade'
+    imageLink: 'https://copy2.online'
+  - imageUrl: 'https://c2o-storage.fra1.digitaloceanspaces.com/images/electron-apps/03.png'
+    caption: 'Settings'
+    imageLink: 'https://copy2.online'
+  - imageUrl: 'https://c2o-storage.fra1.digitaloceanspaces.com/images/electron-apps/04.png'
+    caption: 'Search Window (collapsed)'
+    imageLink: 'https://copy2.online'
+  - imageUrl: 'https://c2o-storage.fra1.digitaloceanspaces.com/images/electron-apps/05.png'
+    caption: 'Search Window (expanded)'
+    imageLink: 'https://copy2.online'

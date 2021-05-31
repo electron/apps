@@ -1,0 +1,32 @@
+name: RenderTune
+description: Combine audio + image file(s) into video files.
+website: https://www.martinbarker.me/rendertune
+category: Music
+repository: https://github.com/MartinBarker/RenderTune
+snapcraftName: rendertune
+youtube_video_url: https://www.youtube.com/watch?v=LVnacPxquT4
+screenshots:
+  - imageUrl: 'https://store-images.s-microsoft.com/image/apps.58830.13968948154400436.12308693-7e4f-4db5-91c8-02e26087e9af.4204d84e-acb2-4003-9589-bd8770b729ba?w=1084&h=1084&q=90&format=jpg'
+    caption: 'RenderTune screenshot 1'
+    imageLink: 'https://martinbarker.me/rendertune'
+  - imageUrl: 'https://store-images.s-microsoft.com/image/apps.9660.13968948154400436.12308693-7e4f-4db5-91c8-02e26087e9af.a6427d27-7068-40e7-bbc6-0911d9cca92a?w=1084&h=1084&q=90&format=jpg'
+    caption: 'RenderTune screenshot 2'
+    imageLink: 'https://martinbarker.me/rendertune'
+  - imageUrl: 'https://store-images.s-microsoft.com/image/apps.33152.13968948154400436.12308693-7e4f-4db5-91c8-02e26087e9af.47bc55bd-481f-4aea-83dd-b101bf7010fd?w=1084&h=1084&q=90&format=jpg'
+    caption: 'RenderTune screenshot 3'
+    imageLink: 'https://martinbarker.me/rendertune'
+  - imageUrl: 'https://store-images.s-microsoft.com/image/apps.11013.13968948154400436.12308693-7e4f-4db5-91c8-02e26087e9af.33adbd10-f27b-4568-a098-ed08d0254afd?w=1084&h=1084&q=90&format=jpg'
+    caption: 'RenderTune screenshot 4'
+    imageLink: 'https://martinbarker.me/rendertune'
+  - imageUrl: 'https://store-images.s-microsoft.com/image/apps.39322.13968948154400436.12308693-7e4f-4db5-91c8-02e26087e9af.b5e06656-149f-40bf-bcd2-5e390a5eb2b2?w=1084&h=1084&q=90&format=jpg'
+    caption: 'RenderTune screenshot 5'
+    imageLink: 'https://martinbarker.me/rendertune'
+keywords:
+  - ffmpeg
+  - video
+  - render
+  - music
+  - album
+  - combine
+  - concat
+license: MIT

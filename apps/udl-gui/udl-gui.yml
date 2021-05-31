@@ -21,3 +21,4 @@ screenshots:
       caption: 'udemy-dl dashboard',
       imageLink: 'http://riazxrazor.in',
     }
+disabled: true # Dead link(s): http://riazxrazor.in & electron < v3
