@@ -1,0 +1,20 @@
+name: Responsivize
+description: Develop responsive websites with Responsivize.
+website: https://virejdasani.github.io/Responsivize/
+category: Developer Tools
+repository: https://github.com/virejdasani/Responsivize
+keywords:
+  - Responsivize
+  - Responsive
+  - web-tool
+  - Responsive-websites
+  - Responsively
+license: MIT
+screenshots:
+  - imageUrl: 'https://virejdasani.github.io/Responsivize/assets/HomePage.png'
+    caption: 'Responsivize home page'
+    imageLink: 'https://virejdasani.github.io/Responsivize/'
+  - imageUrl: 'https://virejdasani.github.io/Responsivize/assets/Mobile.png'
+    caption: 'Responsivize mobile view'
+    imageLink: 'https://virejdasani.github.io/Responsivize/'
+youtube_video_url: 'https://www.youtube.com/watch?v=KqGJQ24jhkY'
