@@ -1,5 +1,7 @@
 name: 'Wanna Class'
-description: 'Campus desktop software for YuanZe University students to select wanted course.'
+description:
+  'Campus desktop software for YuanZe University students to select wanted
+  course.'
 website: 'https://github.com/MissterHao/WannaClass'
 repository: 'https://github.com/MissterHao/WannaClass'
 keywords:

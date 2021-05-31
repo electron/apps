@@ -1,0 +1,25 @@
+name: Repic
+description: 'Plug-in-based image compression tool, supports many well-known compression schemes.'
+website: 'https://repic.app'
+category: 'Graphics & Design'
+keywords:
+  - image
+  - picture
+  - compression
+  - optimize
+  - squash
+locales:
+  - zh-CN
+screenshots:
+  -
+    imageUrl: 'https://margox-cn-wp-blog-1254052530.file.myqcloud.com/wp-content/uploads/2021/05/empty.png'
+    caption: 'Empty task list'
+  -
+    imageUrl: 'https://margox-cn-wp-blog-1254052530.file.myqcloud.com/wp-content/uploads/2021/05/tasks.png'
+    caption: 'Task processing'
+  -
+    imageUrl: 'https://margox-cn-wp-blog-1254052530.file.myqcloud.com/wp-content/uploads/2021/05/compare.png'
+    caption: 'Comparison window'
+  -
+    imageUrl: 'https://margox-cn-wp-blog-1254052530.file.myqcloud.com/wp-content/uploads/2021/05/plugins.png'
+    caption: 'Plugins'
