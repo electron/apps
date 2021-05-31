@@ -8,3 +8,4 @@ keywords:
   - 'subtitle downloader'
   - 'download subtitles'
 license: MIT
+disabled: true # Old Electron version: v2.0.7

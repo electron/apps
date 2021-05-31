@@ -14,3 +14,4 @@ keywords:
   - desktop
   - pretzel
 license: MIT
+disabled: true # Old Electron version: v1.8.8

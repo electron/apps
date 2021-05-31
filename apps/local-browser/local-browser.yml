@@ -14,3 +14,4 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/Chhekur/local-browser/gh-pages/img/scr-img/app(2).png'
   - imageUrl: 'https://raw.githubusercontent.com/Chhekur/local-browser/gh-pages/img/scr-img/app(3).png'
   - imageUrl: 'https://raw.githubusercontent.com/Chhekur/local-browser/gh-pages/img/scr-img/app(4).png'
+disabled: true # Old Electron version: v2.0.0
