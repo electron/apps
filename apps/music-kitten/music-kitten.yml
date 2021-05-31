@@ -9,3 +9,4 @@ keywords:
   - 'music kit'
 license: GPL-3.0
 snapcraftName: 'https://snapcraft.io/music-kitten'
+disabled: true # Old Electron version: v3.0.3

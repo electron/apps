@@ -24,3 +24,4 @@ screenshots:
   - imageUrl: 'https://github.com/Yamazaki93/S3Uploader/raw/master/misc/sc-4.PNG'
     caption: 'Multi-file upload with rename options'
     imageLink: 'https://github.com/Yamazaki93/S3Uploader'
+disabled: true # Old Electron version: v2.0.8

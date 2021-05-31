@@ -18,3 +18,4 @@ license: MIT
 category: 'Social Networking'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/DavidMellul/Opale-Messenger/master/images/screen.png'
+disabled: true # Old Electron version: v1.4.1
