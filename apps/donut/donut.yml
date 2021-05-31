@@ -12,3 +12,4 @@ license: MIT
 category: Finance
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/etherbithq/donut/master/preview.gif'
+disabled: true # Old Electron version: v1.4.1

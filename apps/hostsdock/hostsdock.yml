@@ -12,3 +12,4 @@ license: MIT
 category: 'Developer Tools'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/eshengsky/HostsDock/master/public/image/review_en.png'
+disabled: true # Old Electron version: v1.7.11

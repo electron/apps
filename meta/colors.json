@@ -1295,6 +1295,22 @@
       "revHash": "69a6be950c"
     }
   },
+  "calmlywriter": {
+    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#050505",
+    "palette": [
+      "#050505",
+      "#fbfbfb",
+      "#7c7c7c",
+      "#848484",
+      "#6c6c6c"
+    ],
+    "source": {
+      "path": "apps/calmlywriter/calmlywriter-icon.png",
+      "revHash": "5ef8486bac"
+    }
+  },
   "camunda-modeler": {
     "faintColorOnWhite": "rgba(163, 90, 2, 0.1)",
     "goodColorOnBlack": "#FC8C04",
@@ -2800,19 +2816,19 @@
     }
   },
   "devbook": {
-    "faintColorOnWhite": "rgba(111, 80, 192, 0.1)",
-    "goodColorOnBlack": "#BE5697",
-    "goodColorOnWhite": "#6F50C0",
+    "faintColorOnWhite": "rgba(19, 90, 68, 0.1)",
+    "goodColorOnBlack": "#25C67A",
+    "goodColorOnWhite": "#135A44",
     "palette": [
-      "#34314f",
-      "#be5697",
-      "#6f50c0",
-      "#4f4985",
-      "#873f80"
+      "#1a2131",
+      "#25c67a",
+      "#135a44",
+      "#44445c",
+      "#443e54"
     ],
     "source": {
       "path": "apps/devbook/devbook-icon.png",
-      "revHash": "a3aec7718a"
+      "revHash": "04506525e7"
     }
   },
   "devdocs-app": {
@@ -3661,6 +3677,22 @@
     "source": {
       "path": "apps/extraterm/extraterm-icon.png",
       "revHash": "b2a9384959"
+    }
+  },
+  "falix-software": {
+    "faintColorOnWhite": "rgba(43, 114, 202, 0.1)",
+    "goodColorOnBlack": "#92F2A2",
+    "goodColorOnWhite": "#2B72CA",
+    "palette": [
+      "#454443",
+      "#2b72ca",
+      "#747474",
+      "#92f2a2",
+      "#244474"
+    ],
+    "source": {
+      "path": "apps/falix-software/falix-software-icon.png",
+      "revHash": "6e2e1dd8f6"
     }
   },
   "fangyuanjian": {
@@ -10173,6 +10205,22 @@
     "source": {
       "path": "apps/remindr/remindr-icon.png",
       "revHash": "ae9859ce85"
+    }
+  },
+  "rendertune": {
+    "faintColorOnWhite": "rgba(115, 99, 203, 0.1)",
+    "goodColorOnBlack": "#A79ADE",
+    "goodColorOnWhite": "#7363CB",
+    "palette": [
+      "#7363cb",
+      "#fbfafb",
+      "#a79ade",
+      "#bcace4",
+      "#9c84d4"
+    ],
+    "source": {
+      "path": "apps/rendertune/rendertune-icon.png",
+      "revHash": "ef20988c1e"
     }
   },
   "repomesh": {
