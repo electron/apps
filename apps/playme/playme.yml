@@ -16,3 +16,4 @@ screenshots:
   - {
       imageUrl: 'https://camo.githubusercontent.com/f04454a4f74425ea74fd75038500fc18f10f0f1a/68747470733a2f2f63646e2d7374642e64707263646e2e6e65742f66696c65732f6163635f3636313031322f556b784c7631',
     }
+disabled: true # Old Electron version: v2.0.3

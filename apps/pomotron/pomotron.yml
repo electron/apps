@@ -6,3 +6,4 @@ repository: 'https://github.com/mattbudde/pomotron'
 keywords:
   - 'Pomodoro'
   - 'Timer'
+disabled: true # Old Electron version: v2.0.4

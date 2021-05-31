@@ -10,3 +10,4 @@ keywords:
   - phresh
 category: 'Games'
 repository: 'https://github.com/Phreshhh/PokerClock'
+disabled: true # Old Electron version: v2.0.8

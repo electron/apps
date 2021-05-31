@@ -6,3 +6,4 @@ repository: 'https://github.com/EniroScott/pubvendors-tool'
 keywords:
   - ''
 license: MIT
+disabled: true # Old Electron version: v3.0.10

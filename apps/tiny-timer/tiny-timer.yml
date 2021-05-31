@@ -9,3 +9,4 @@ keywords:
   - boilerplate
   - reference
 license: 'MIT'
+disabled: true # Old Electron version: v3.0.4

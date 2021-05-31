@@ -11,3 +11,10 @@ keywords:
   - terminal shell
   - powershell
   - nxshell
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/nxshell/nxshell/main/screenshots/home.png'
+    caption: 'Home Page'
+  - imageUrl: 'https://raw.githubusercontent.com/nxshell/nxshell/main/screenshots/ssh-terminal.png'
+    caption: 'Terminal view'
+  - imageUrl: 'https://raw.githubusercontent.com/nxshell/nxshell/main/screenshots/sftp-download.png'
+    caption: 'Sftp download view'
