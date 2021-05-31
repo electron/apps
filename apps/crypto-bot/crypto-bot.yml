@@ -10,3 +10,4 @@ keywords:
 license: MIT
 locales:
   - zh-CN
+disabled: true # Old Electron version: v1.8.4
