@@ -1,11 +1,10 @@
 name: 'Fishing Funds'
-description:
-  'Display real-time trends of Chinese funds in the menubar.'
+description: 'Display real-time trends of Chinese funds in the menubar.'
 website: 'https://ff.1zilc.top'
 category: Finance
 repository: 'https://github.com/1zilc/fishing-funds'
 keywords:
-  - funds 
+  - funds
   - menubar
 locales:
   - zh-CN
