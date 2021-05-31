@@ -13,7 +13,9 @@ const parseGitUrl = require('github-url-to-object')
 const outputFile = path.join(__dirname, '../meta/readmes.json')
 const oldReadmeData = require(outputFile)
 const output = {}
-const limiter = new Bottleneck(MAX_CONCURRENCY)
+const limiter = new Bottleneck({
+  maxConcurrent: MAX_CONCURRENCY,
+})
 
 const apps = require('../lib/raw-app-list')()
 const appsWithRepos = require('../lib/apps-with-github-repos')

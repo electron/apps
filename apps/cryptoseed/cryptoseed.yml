@@ -14,3 +14,4 @@ category: Finance
 repository: 'https://github.com/anderson-arlen/cryptoseed'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/anderson-arlen/cryptoseed/master/encrypt.png'
+disabled: true # Old Electron version: v1.4.1

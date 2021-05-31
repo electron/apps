@@ -10,3 +10,4 @@ license: MIT
 category: Music
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/renhongl/renhongl.github.io/master/images/aiting1.png'
+disabled: true # Old Electron version: v1.4.14

@@ -4,3 +4,4 @@ description:
 website: 'https://github.com/j-andrews7/Genotify'
 repository: 'https://github.com/j-andrews7/Genotify'
 category: Medical
+disabled: true # Old Electron version: v3.1.13

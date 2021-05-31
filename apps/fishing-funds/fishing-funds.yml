@@ -1,0 +1,24 @@
+name: 'Fishing Funds'
+description: 'Display real-time trends of Chinese funds in the menubar.'
+website: 'https://ff.1zilc.top'
+category: Finance
+repository: 'https://github.com/1zilc/fishing-funds'
+keywords:
+  - funds
+  - menubar
+locales:
+  - zh-CN
+license: GPL-3.0
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/master/screenshots/1.png'
+    caption: 'Funds'
+  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/master/screenshots/2.png'
+    caption: 'Indexes'
+  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/master/screenshots/3.png'
+    caption: 'Sections'
+  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/master/screenshots/4.png'
+    caption: 'Fund Detail'
+  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/master/screenshots/5.png'
+    caption: 'Fund Manager'
+  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/master/screenshots/6.png'
+    caption: 'Add Fund'

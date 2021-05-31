@@ -16,3 +16,4 @@ screenshots:
     caption: 'key-value factory'
   - imageUrl: 'https://github.com/TianlunXiong/DataStore/blob/master/static/p3.JPG?raw=true'
     caption: 'json-object management'
+disabled: true # Old Electron version: v1.7.5

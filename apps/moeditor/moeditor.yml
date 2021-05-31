@@ -12,3 +12,4 @@ license: GPLv3
 category: Productivity
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/Moeditor/Moeditor/master/screenshots/main.png'
+disabled: true # Old Electron version: v1.4.0

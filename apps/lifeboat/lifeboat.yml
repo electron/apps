@@ -14,3 +14,4 @@ screenshots:
     caption: 'Lifeboat User Interface'
   - imageUrl: 'https://user-images.githubusercontent.com/848147/33151650-86f169d0-cf9e-11e7-87cb-66dc9640e7e2.png'
     caption: 'Docker Compose logs, filtered by service, in Lifeboat'
+disabled: true # Old Electron version: v1.7.6
