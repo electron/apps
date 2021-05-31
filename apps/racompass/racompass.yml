@@ -1,0 +1,25 @@
+name: Racompass
+category: Developer Tools
+description:
+    'The modern high performance GUI for Redis.
+    A faster and robust Redis management tool. 
+    For developers that need to manage data with confidence.
+    It supports Redis 6.'
+website: 'https://racompass.com'
+repository: 'https://github.com/racompass/racompass'
+screenshots:
+    -   imageUrl: 'https://racompass.com/img/app-landing.png'
+    -   imageUrl: 'https://racompass.com/img/screen-connections.png'
+    -   imageUrl: 'https://racompass.com/img/screen-crud.jpg'
+    -   imageUrl: 'https://racompass.com/img/screen-terminal.png'
+    -   imageUrl: 'https://racompass.com/img/screen-acl.jpg'
+keywords:
+    - Redis
+    - admin
+    - redis-desktop-manager
+    - redis-client
+    - redis-desktop
+    - redis-gui
+    - db
+    - databases
+    - develop
