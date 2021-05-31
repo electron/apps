@@ -19,3 +19,4 @@ goodColorOnWhite: '#181ea9'
 goodColorOnBlack: '#7176EB'
 repository: https://github.com/golemfactory/golem-electron
 youtube_video_url: https://www.youtube.com/watch?v=FZb_w5JXvJ8
+disabled: true # Old Electron version: v1.4.5

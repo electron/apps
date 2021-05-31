@@ -5,3 +5,4 @@ repository: 'https://github.com/JKooll/mobile-browser-on-desktop'
 keywords:
   - 'MBoD Mobile Browser Desktop'
 category: 'Developer Tools'
+disabled: true # Old Electron version: v2.0.4

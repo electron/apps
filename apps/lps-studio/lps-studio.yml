@@ -21,3 +21,4 @@ keywords:
   - logic programming
   - logic production system
 category: 'Developer Tools'
+disabled: true # Old Electron version: v3.0.0

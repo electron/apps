@@ -9,3 +9,4 @@ license: MIT
 category: Utilities
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/dcrousso/GIFBar/master/assets/Icon.png'
+disabled: true # Old Electron version: v1.4.14

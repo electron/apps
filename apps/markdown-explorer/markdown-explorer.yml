@@ -16,3 +16,4 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/jersou/markdown-explorer/master/doc/img/edit-mode.png'
     caption: 'Edit mode'
     imageLink: 'https://github.com/jersou/markdown-explorer'
+disabled: true # Old Electron version: v2.0.9

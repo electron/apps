@@ -10,3 +10,4 @@ license: MIT
 category: 'Photo & Video'
 screenshots:
   - imageUrl: 'https://i.imgur.com/kvxMMwp.gif'
+disabled: true # Old Electron version: v3.0.12

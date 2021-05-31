@@ -11,3 +11,4 @@ license: MIT
 category: 'Photo & Video'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/willyb321/media_mate/develop/img/homepage.png'
+disabled: true # Old Electron version: v1.7.1
