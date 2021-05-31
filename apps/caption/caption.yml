@@ -7,3 +7,4 @@ keywords:
 category: Utilities
 screenshots:
   - imageUrl: 'https://gielcobben.com/github/caption/github_cover.png'
+disabled: true # Old Electron version: v1.8.2

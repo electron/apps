@@ -11,3 +11,4 @@ license: MIT
 category: 'Social Networking'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png'
+disabled: true # Old Electron version: v1.4.14

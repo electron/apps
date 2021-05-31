@@ -8,3 +8,4 @@ keywords:
 category: Utilities
 screenshots:
   - imageUrl: 'https://github.com/willyb321/electron-menubar-timetable/raw/master/example.gif'
+disabled: true # Old Electron version: v1.6.7

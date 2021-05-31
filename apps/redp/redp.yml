@@ -12,3 +12,4 @@ keywords:
   - desktop
 screenshots:
   - imageUrl: 'https://user-images.githubusercontent.com/20098648/40877410-a772cc6a-6695-11e8-921a-1f8aff6ae8b9.jpg'
+disabled: true # Old Electron version: v2.0.0
