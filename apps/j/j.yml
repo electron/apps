@@ -9,3 +9,4 @@ keywords:
 locales:
   - zh_CN
 category: Social Networking
+disabled: true # Old Electron version: v3.0.6

@@ -7,3 +7,4 @@ category: 'Photo & Video'
 repository: 'https://github.com/MedZed/Electron-Youtube-to-Mp3-Converter'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/MedZed/Electron-Youtube-to-Mp3-Converter/master/img/screenshot.JPG'
+disabled: true # Old Electron version: v1.4.1

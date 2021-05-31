@@ -25,3 +25,4 @@ screenshots:
   - imageUrl: 'https://img.itch.zone/aW1hZ2UvMjc4NDU2LzEzNTA4ODcucG5n/original/BZJtDX.png'
     caption: 'Game over'
     imageLink: 'https://github.com/Aveek-Saha/HastyHeroes/releases'
+disabled: true # Old Electron version: v2.0.0

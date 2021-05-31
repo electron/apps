@@ -11,3 +11,4 @@ license: MIT
 screenshots:
   - imageUrl: 'https://github.com/e346m/Seton/blob/master/assets/demo.gif'
     caption: 'Demo'
+disabled: true # Old Electron version: v1.7.9

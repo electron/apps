@@ -17,3 +17,4 @@ screenshots:
 goodColorOnWhite: '#000'
 goodColorOnBlack: '#FFF'
 faintColorOnWhite: 'rgba(0, 0, 0, 0.5)'
+disabled: true # Old Electron version: v2.0.0
