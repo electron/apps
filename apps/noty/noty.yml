@@ -14,3 +14,4 @@ screenshots:
     caption: 'Switching Notes'
   - imageUrl: 'https://github.com/fabiospampinato/noty/raw/master/resources/demo/creation.gif'
     caption: 'Creating Notes'
+disabled: true # Old Electron version: v3.0.0 && repository archived

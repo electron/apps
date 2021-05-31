@@ -16,3 +16,4 @@ keywords:
 license: MIT
 screenshots:
   - imageUrl: 'https://user-images.githubusercontent.com/23068820/50515866-42650180-0acd-11e9-9e8f-02b0292929a5.png'
+disabled: true # Old Electron version: v3.0.10 && repository archived

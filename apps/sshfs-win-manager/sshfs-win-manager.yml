@@ -16,3 +16,4 @@ keywords:
   - productivity
   - manager
 license: MIT
+disabled: true # Old Electron version: v3.1.13
