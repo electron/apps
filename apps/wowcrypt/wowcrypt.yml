@@ -8,3 +8,4 @@ category: Games
 screenshots:
   - imageUrl: 'https://cloud.githubusercontent.com/assets/2179775/26266749/65eb186a-3cac-11e7-8159-f139ed37f665.png'
 license: MIT
+disabled: true # Old Electron version: v1.3.1

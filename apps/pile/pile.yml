@@ -16,3 +16,4 @@ screenshots:
   - imageUrl: 'https://user-images.githubusercontent.com/5097752/37512418-14efa934-293d-11e8-89d8-4038e1235ba0.png'
     caption: 'Demo'
     imageLink: 'https://github.com/mtobeiyf/pile'
+disabled: true # Old Electron version: v1.7.5
