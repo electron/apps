@@ -11,3 +11,4 @@ keywords:
   - https-proxy
   - http
   - https
+disabled: true # Old Electron version: v3.0.2

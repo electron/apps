@@ -1,0 +1,14 @@
+name: Falix Software
+description: Access FalixNodes and manage your servers all from one place.
+website: https://software.falixnodes.net/
+snapcraftName: falixnodes
+category: Utilities
+repository: https://github.com/FalixNodes-Software/Desktop-App
+keywords:
+  - ''
+license:
+  Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public
+  License
+screenshots:
+  - imageUrl: 'https://i.imgur.com/63SCP42.png'
+    caption: 'Manage servers in client Area'

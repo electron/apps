@@ -17,3 +17,4 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/nrlquaker/nfov/master/screenshots/crude.nfo.png'
   - imageUrl: 'https://raw.githubusercontent.com/nrlquaker/nfov/master/screenshots/flt-1000.nfo.png'
   - imageUrl: 'https://raw.githubusercontent.com/nrlquaker/nfov/master/screenshots/cl!-al02.ans.png'
+disabled: true # Old Electron version: v1.8.4

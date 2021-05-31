@@ -13,3 +13,4 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/trazyn/weweChat/master/screenshots/1.png'
 locales:
   - zh-CN
+disabled: true # Old Electron version: v2.0.16

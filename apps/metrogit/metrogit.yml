@@ -26,3 +26,4 @@ screenshots:
   - imageUrl: 'https://github.com/Yamazaki93/MetroGit/raw/master/misc/metrogit5.PNG'
     caption: 'Map integrated CI build status'
     imageLink: 'https://github.com/Yamazaki93/MetroGit'
+disabled: true # Old Electron version: v1.8.4

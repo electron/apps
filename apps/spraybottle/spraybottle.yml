@@ -16,3 +16,4 @@ screenshots:
   - imageUrl: 'https://github.com/jooshkins/SprayBottle/blob/master/1.png'
     caption: 'Admin mode screenshot'
     imageLink: 'https://github.com/jooshkins/SprayBottle'
+disabled: true # Old Electron version: v2.0.2
