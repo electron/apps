@@ -4287,6 +4287,22 @@
       "revHash": "4edb723290"
     }
   },
+  "geppetto": {
+    "faintColorOnWhite": "rgba(124, 60, 28, 0.1)",
+    "goodColorOnBlack": "#E29A63",
+    "goodColorOnWhite": "#7C3C1C",
+    "palette": [
+      "#e29a63",
+      "#7c3c1c",
+      "#ac6c3d",
+      "#a6643c",
+      "#b46c44"
+    ],
+    "source": {
+      "path": "apps/geppetto/geppetto-icon.png",
+      "revHash": "40c44c1547"
+    }
+  },
   "getraenkeliste": {
     "faintColorOnWhite": "rgba(129, 116, 44, 0.1)",
     "goodColorOnBlack": "#FBE658",
@@ -11725,6 +11741,22 @@
     "source": {
       "path": "apps/streetviewdownload360/streetviewdownload360-icon.png",
       "revHash": "c778e557eb"
+    }
+  },
+  "strimio": {
+    "faintColorOnWhite": "rgba(147, 62, 228, 0.1)",
+    "goodColorOnBlack": "#D657D3",
+    "goodColorOnWhite": "#933EE4",
+    "palette": [
+      "#942fba",
+      "#f1e5f6",
+      "#a46bd2",
+      "#d657d3",
+      "#933ee4"
+    ],
+    "source": {
+      "path": "apps/strimio/strimio-icon.png",
+      "revHash": "81076b1ed8"
     }
   },
   "studiotrans": {
