@@ -9919,6 +9919,22 @@
       "revHash": "78485920f3"
     }
   },
+  "quickstart-firebase-unofficial": {
+    "faintColorOnWhite": "rgba(14, 126, 127, 0.1)",
+    "goodColorOnBlack": "#F3CB3B",
+    "goodColorOnWhite": "#0E7E7F",
+    "palette": [
+      "#0e7e7f",
+      "#f3cb3b",
+      "#94ac54",
+      "#b4b44c",
+      "#cabc44"
+    ],
+    "source": {
+      "path": "apps/quickstart-firebase-unofficial/quickstart-firebase-unofficial-icon.png",
+      "revHash": "e798eed02e"
+    }
+  },
   "quickwords": {
     "faintColorOnWhite": "rgba(18, 118, 156, 0.1)",
     "goodColorOnBlack": "#5CC4EC",
@@ -9981,6 +9997,22 @@
     "source": {
       "path": "apps/raadyo/raadyo-icon.png",
       "revHash": "537ff1d140"
+    }
+  },
+  "racompass": {
+    "faintColorOnWhite": "rgba(78, 8, 149, 0.1)",
+    "goodColorOnBlack": "#FAB425",
+    "goodColorOnWhite": "#4E0895",
+    "palette": [
+      "#4e0895",
+      "#fab425",
+      "#c4271d",
+      "#8b4ae3",
+      "#b963b6"
+    ],
+    "source": {
+      "path": "apps/racompass/racompass-icon.png",
+      "revHash": "7e369e6925"
     }
   },
   "radio5050": {
@@ -10303,6 +10335,22 @@
       "revHash": "ef20988c1e"
     }
   },
+  "repic": {
+    "faintColorOnWhite": "rgba(102, 68, 249, 0.1)",
+    "goodColorOnBlack": "#8266FA",
+    "goodColorOnWhite": "#6644F9",
+    "palette": [
+      "#3689ef",
+      "#eef5fb",
+      "#8266fa",
+      "#9bc6eb",
+      "#b4c4f4"
+    ],
+    "source": {
+      "path": "apps/repic/repic-icon.png",
+      "revHash": "02a0256d4d"
+    }
+  },
   "repomesh": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#FB3404",
@@ -10349,6 +10397,22 @@
     "source": {
       "path": "apps/responsively/responsively-icon.png",
       "revHash": "d582353142"
+    }
+  },
+  "responsivize": {
+    "faintColorOnWhite": "rgba(38, 38, 38, 0.1)",
+    "goodColorOnBlack": "#FC7C7C",
+    "goodColorOnWhite": "#262626",
+    "palette": [
+      "#262626",
+      "#eaeada",
+      "#60f7c4",
+      "#fc7c7c",
+      "#8c8c8c"
+    ],
+    "source": {
+      "path": "apps/responsivize/responsivize-icon.png",
+      "revHash": "b5be3c9120"
     }
   },
   "reversee": {
