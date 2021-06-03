@@ -1,0 +1,10 @@
+name: linked
+description: Links your thoughts to days, but keeping it simple.
+website: https://muc.dev/projects/linked
+category: Utilities
+repository: https://github.com/muc-dev/linked
+keywords:
+  - journal
+  - ideas
+  - calendar
+license: GPL-3.0
