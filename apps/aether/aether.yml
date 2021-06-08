@@ -1,0 +1,32 @@
+name: Aether
+description:
+  'Open source, self-governing communities with auditable moderation and mod elections'
+website: https://getaether.net
+category: 'Social Networking'
+repository: https://github.com/aethereans/aether-app
+keywords:
+  - collaboration
+  - communication
+  - communities
+  - community
+  - ephemeral
+  - forum
+  - peer-to-peer
+  - privacy
+license: AGPLv3
+screenshots:
+  - imageUrl: 'https://getaether.net/images/product-images-v2/pi-1.png'
+    caption: 'Aether subs'
+    imageLink: 'https://getaether.net'
+  - imageUrl: 'https://getaether.net/images/product-images-v2/pi-2.png'
+    caption: 'Aether thread'
+    imageLink: 'https://getaether.net'
+  - imageUrl: 'https://getaether.net/images/product-images-v2/pi-3.png'
+    caption: 'Nested thread'
+    imageLink: 'https://getaether.net'
+  - imageUrl: 'https://getaether.net/images/product-images-v2/pi-4.png'
+    caption: 'Threads by popularity'
+    imageLink: 'https://getaether.net'
+  - imageUrl: 'https://getaether.net/images/product-images-v2/pi-5.png'
+    caption: 'Posts by profile'
+    imageLink: 'https://getaether.net'
