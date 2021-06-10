@@ -14687,6 +14687,22 @@
       "revHash": "6c1cf97dfa"
     }
   },
+  "youtube-music-desktop": {
+    "faintColorOnWhite": "rgba(227, 3, 3, 0.1)",
+    "goodColorOnBlack": "#FC0404",
+    "goodColorOnWhite": "#E30303",
+    "palette": [
+      "#fc0404",
+      "#fcf9f9",
+      "#fc5b5b",
+      "#fc7c7c",
+      "#fc3c3c"
+    ],
+    "source": {
+      "path": "apps\\youtube-music-desktop\\youtube-music-desktop-icon.png",
+      "revHash": "2dd453c589"
+    }
+  },
   "youtube-music-desktop-app": {
     "faintColorOnWhite": "rgba(227, 3, 3, 0.1)",
     "goodColorOnBlack": "#FC0404",

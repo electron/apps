@@ -1,0 +1,30 @@
+name: 'YouTube Music Desktop'
+description: 'It is a music listening application with safe and clean environment.'
+website: 'https://github.com/mstfdmrsln/YouTubeMusic'
+repository: 'https://github.com/mstfdmrsln/YouTubeMusic'
+keywords:
+  - youtube
+  - desktop
+  - music
+license: GNU General Public License v3.0
+category: 'Music'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/mstfdmrsln/YouTubeMusic/main/screenshots/youtubedesktop.png'
+    caption: 'Play Your Playlist'
+    imageLink: 'https://github.com/mstfdmrsln/YouTubeMusic'
+
+  - imageUrl: 'https://raw.githubusercontent.com/mstfdmrsln/YouTubeMusic/main/screenshots/youtubedesktop1.png'
+    caption: 'View Albums'
+    imageLink: 'https://github.com/mstfdmrsln/YouTubeMusic'
+
+  - imageUrl: 'https://raw.githubusercontent.com/mstfdmrsln/YouTubeMusic/main/screenshots/youtubedesktop2.png'
+    caption: 'Search Your Favorite Music'
+    imageLink: 'https://github.com/mstfdmrsln/YouTubeMusic'
+
+  - imageUrl: 'https://raw.githubusercontent.com/mstfdmrsln/YouTubeMusic/main/screenshots/youtubedesktop3.png'
+    caption: 'Watch Clips'
+    imageLink: 'https://github.com/mstfdmrsln/YouTubeMusic'
+
+  - imageUrl: 'https://raw.githubusercontent.com/mstfdmrsln/YouTubeMusic/main/screenshots/youtubedesktop4.png'
+    caption: 'Watch Clips'
+    imageLink: 'https://github.com/mstfdmrsln/YouTubeMusic'
