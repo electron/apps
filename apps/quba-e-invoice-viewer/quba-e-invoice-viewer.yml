@@ -1,0 +1,16 @@
+name: Quba E-Invoice Viewer
+description:
+  Quba allows to visualize structured (=XML) or hybrid (PDF) e-invoices.
+website: https://quba-viewer.org/
+category: Business
+repository: https://github.com/ZUGFeRD/quba-viewer
+keywords:
+  - invoice
+  - viewer
+  - order
+  - PDF
+  - XML
+  - Factur-X
+  - ZUGFeRD
+  - XRechnung
+license: Apache Public License 2.0
