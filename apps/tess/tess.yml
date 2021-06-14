@@ -1,0 +1,14 @@
+name: Tess
+description: 'Tess is a hackable, simple, rapid and beautiful terminal for the new era of technology.'
+website: 'https://github.com/SquitchYT/Tess/'
+repository: 'https://github.com/SquitchYT/Tess/'
+keywords:
+  - 'tess'
+  - 'terminal'
+  - 'terminal-emulator'
+license: MIT
+category: Utilities
+screenshots:
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/SquitchYT/Tess/main/preview/preview.gif',
+    }
