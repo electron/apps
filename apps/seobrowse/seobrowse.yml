@@ -2,6 +2,7 @@ name: SEOBrowse
 description: 'Browser build for SEO professionals.'
 website: 'https://seobrowse.com/?rel=electron'
 category: 'Productivity'
+repository: https://github.com/seobrowse/serp/
 keywords:
   - browser
   - seo
