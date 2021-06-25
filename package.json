@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.8744.0",
+  "version": "1.8829.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -34,58 +34,53 @@
   "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
   "license": "MIT",
   "devDependencies": {
-    "@octokit/rest": "^16",
-    "@zeit/fetch-retry": "^5.0.0",
-    "bottleneck": "^1.16.0",
-    "chai": "^4.2.0",
-    "check-for-leaks": "^1.2.0",
-    "cheerio": "^1.0.0-rc.2",
-    "clean-deep": "^2.0.1",
-    "color-convert": "^1.9.1",
+    "@octokit/rest": "^18.5.5",
+    "@zeit/fetch-retry": "^5.0.1",
+    "bottleneck": "^2.19.5",
+    "chai": "^4.3.4",
+    "check-for-leaks": "^1.2.1",
+    "cheerio": "^1.0.0-rc.9",
+    "clean-deep": "^3.4.0",
+    "color-convert": "^2.0.1",
     "count-array-values": "^1.2.1",
-    "dotenv-safe": "^4.0.4",
-    "get-image-colors": "^1.8.1",
-    "github-url-to-object": "^4.0.2",
-    "human-interval": "^0.1.6",
-    "husky": "^4.2.3",
-    "image-size": "^0.5.0",
-    "imagemin": "^6.1.0",
-    "imagemin-pngquant": "^8.0.0",
-    "inquirer": "^2.0.0",
+    "dotenv-safe": "^8.2.0",
+    "get-image-colors": "^4.0.0",
+    "github-url-to-object": "^4.0.6",
+    "human-interval": "^2.0.1",
+    "husky": "^6.0.0",
+    "image-size": "^1.0.0",
+    "imagemin": "^7.0.1",
+    "imagemin-pngquant": "^9.0.2",
+    "inquirer": "^8.1.0",
     "is-hexcolor": "^1.0.0",
-    "is-url": "^1.2.2",
-    "jimp": "^0.3.5",
-    "js-yaml": "^3.13.1",
-    "lint-staged": "^10.0.9",
+    "is-url": "^1.2.4",
+    "jimp": "^0.16.1",
+    "js-yaml": "^4.1.0",
+    "lint-staged": "^11.0.0",
     "make-color-accessible": "^1.2.0",
-    "mkdirp": "^0.5.1",
-    "mocha": "^5.2.0",
-    "node-fetch": "^2.6.0",
-    "npm-run-all": "^4.0.1",
+    "mkdirp": "^1.0.4",
+    "mocha": "^8.4.0",
+    "node-fetch": "^2.6.1",
+    "npm-run-all": "^4.1.5",
     "pick-a-good-color": "^1.1.1",
-    "prettier": "^2.0.2",
-    "readdirp": "^3.0.2",
+    "prettier": "^2.3.0",
+    "readdirp": "^3.6.0",
     "recursive-readdir-sync": "^1.0.6",
-    "rimraf": "^2.6.1",
-    "sharp": "^0.23.0",
-    "sinon": "^7.2.2",
-    "slugg": "^1.1.0",
-    "yaml": "^1.9.2"
+    "rimraf": "^3.0.2",
+    "sharp": "^0.28.3",
+    "sinon": "^11.1.1",
+    "slugg": "^1.2.1",
+    "yaml": "^1.10.2"
   },
   "engines": {
-    "node": ">=8"
+    "node": ">=12"
   },
   "dependencies": {
     "json-stable-stringify": "^1.0.1",
-    "mime-types": "^2.1.19",
-    "rev-hash": "^2.0.0"
+    "mime-types": "^2.1.30",
+    "rev-hash": "^3.0.0"
   },
   "lint-staged": {
     "*.{js,ts,yml}": "prettier --write"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
   }
 }

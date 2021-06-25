@@ -11,3 +11,4 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/myazarc/AsarUI/master/build/images/2.png'
 locales:
   - en-US
+disabled: true # Old Electron version: v2.0.4

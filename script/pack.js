@@ -18,7 +18,7 @@ fs.readdirSync(path.join(__dirname, '../apps'))
     const yamlFile = path.join(__dirname, `../apps/${slug}/${slug}.yml`)
     const app = Object.assign(
       { slug: slug },
-      yaml.safeLoad(fs.readFileSync(yamlFile)),
+      yaml.load(fs.readFileSync(yamlFile)),
       {
         icon: `${slug}-icon.png`,
         icon32: `${slug}-icon-32.png`,

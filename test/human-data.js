@@ -44,7 +44,7 @@ describe('human-submitted app data', () => {
       })
 
       describe(`${yamlFile}`, () => {
-        const app = yaml.safeLoad(fs.readFileSync(yamlPath))
+        const app = yaml.load(fs.readFileSync(yamlPath))
 
         it('has a name', () => {
           expect(app.name.length).to.be.above(0)
