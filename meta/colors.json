@@ -443,8 +443,8 @@
       "#da8c82"
     ],
     "source": {
-      "path": "apps\\anotherredisdesktopmanager\\anotherredisdesktopmanager-icon.png",
-      "revHash": "220f5124fa"
+      "path": "apps/anotherredisdesktopmanager/anotherredisdesktopmanager-icon.png",
+      "revHash": "9e6151eefb"
     }
   },
   "antares": {
@@ -1308,7 +1308,7 @@
     ],
     "source": {
       "path": "apps/calmlywriter/calmlywriter-icon.png",
-      "revHash": "5ef8486bac"
+      "revHash": "fbd1bee243"
     }
   },
   "camunda-modeler": {
@@ -2107,8 +2107,8 @@
       "#909488"
     ],
     "source": {
-      "path": "apps\\copy-2-online\\copy-2-online-icon.png",
-      "revHash": "3fffc23428"
+      "path": "apps/copy-2-online/copy-2-online-icon.png",
+      "revHash": "11e01b473d"
     }
   },
   "copy2": {
@@ -2860,7 +2860,7 @@
     ],
     "source": {
       "path": "apps/devbook/devbook-icon.png",
-      "revHash": "04506525e7"
+      "revHash": "bc88830784"
     }
   },
   "devdocs-app": {
@@ -3724,7 +3724,7 @@
     ],
     "source": {
       "path": "apps/falix-software/falix-software-icon.png",
-      "revHash": "6e2e1dd8f6"
+      "revHash": "fd01fb73b8"
     }
   },
   "fangyuanjian": {
@@ -3931,8 +3931,8 @@
       "#ba747c"
     ],
     "source": {
-      "path": "apps\\fishing-funds\\fishing-funds-icon.png",
-      "revHash": "c47f155abf"
+      "path": "apps/fishing-funds/fishing-funds-icon.png",
+      "revHash": "37bbe2b905"
     }
   },
   "flawesome": {
@@ -4159,22 +4159,6 @@
       "revHash": "51a1a04371"
     }
   },
-  "freelook": {
-    "faintColorOnWhite": "rgba(4, 101, 169, 0.1)",
-    "goodColorOnBlack": "#7CB4E4",
-    "goodColorOnWhite": "#0465A9",
-    "palette": [
-      "#0465a9",
-      "#fbfbfb",
-      "#6b9abe",
-      "#88accc",
-      "#7cb4e4"
-    ],
-    "source": {
-      "path": "apps/freelook/freelook-icon.png",
-      "revHash": "17ea6f0bf7"
-    }
-  },
   "freeman": {
     "faintColorOnWhite": "rgba(32, 32, 48, 0.1)",
     "goodColorOnBlack": "#EAEAF7",
@@ -4363,8 +4347,8 @@
       "#6d7567"
     ],
     "source": {
-      "path": "apps\\geniemoji\\geniemoji-icon.png",
-      "revHash": "3ceb4e7779"
+      "path": "apps/geniemoji/geniemoji-icon.png",
+      "revHash": "baf51a6efa"
     }
   },
   "genotify": {
@@ -4396,7 +4380,7 @@
     ],
     "source": {
       "path": "apps/geppetto/geppetto-icon.png",
-      "revHash": "40c44c1547"
+      "revHash": "830f3f5323"
     }
   },
   "getraenkeliste": {
@@ -5867,8 +5851,8 @@
       "#0c4c84"
     ],
     "source": {
-      "path": "apps\\jukeboks\\jukeboks-icon.png",
-      "revHash": "5c15577a27"
+      "path": "apps/jukeboks/jukeboks-icon.png",
+      "revHash": "1020d5b9fb"
     }
   },
   "jumpfm": {
@@ -6507,8 +6491,8 @@
       "#3c1424"
     ],
     "source": {
-      "path": "apps\\linked\\linked-icon.png",
-      "revHash": "832efeb81c"
+      "path": "apps/linked/linked-icon.png",
+      "revHash": "69e00364fa"
     }
   },
   "lisk-hub": {
@@ -9855,6 +9839,22 @@
       "revHash": "398e0a8581"
     }
   },
+  "quba-e-invoice-viewer": {
+    "faintColorOnWhite": "rgba(56, 112, 16, 0.1)",
+    "goodColorOnBlack": "#F0D410",
+    "goodColorOnWhite": "#387010",
+    "palette": [
+      "#ecd414",
+      "#040404",
+      "#eccc1a",
+      "#387010",
+      "#f0d410"
+    ],
+    "source": {
+      "path": "apps/quba-e-invoice-viewer/quba-e-invoice-viewer-icon.png",
+      "revHash": "0f450990b6"
+    }
+  },
   "qubus": {
     "faintColorOnWhite": "rgba(4, 105, 153, 0.1)",
     "goodColorOnBlack": "#04ABF3",
@@ -9932,7 +9932,7 @@
     ],
     "source": {
       "path": "apps/quickstart-firebase-unofficial/quickstart-firebase-unofficial-icon.png",
-      "revHash": "e798eed02e"
+      "revHash": "027afcf4a9"
     }
   },
   "quickwords": {
@@ -10012,7 +10012,7 @@
     ],
     "source": {
       "path": "apps/racompass/racompass-icon.png",
-      "revHash": "7e369e6925"
+      "revHash": "9ea1c56cae"
     }
   },
   "radio5050": {
@@ -10332,7 +10332,7 @@
     ],
     "source": {
       "path": "apps/rendertune/rendertune-icon.png",
-      "revHash": "ef20988c1e"
+      "revHash": "e5ffb43348"
     }
   },
   "repic": {
@@ -10348,7 +10348,7 @@
     ],
     "source": {
       "path": "apps/repic/repic-icon.png",
-      "revHash": "02a0256d4d"
+      "revHash": "94b27fe63a"
     }
   },
   "repomesh": {
@@ -11372,7 +11372,7 @@
     ],
     "source": {
       "path": "apps/socially/socially-icon.png",
-      "revHash": "5867f97bb5"
+      "revHash": "9a7dabefbb"
     }
   },
   "sofia": {
@@ -11388,7 +11388,7 @@
     ],
     "source": {
       "path": "apps/sofia/sofia-icon.png",
-      "revHash": "2621f1373c"
+      "revHash": "d15414ca5f"
     }
   },
   "somiibo": {
@@ -11964,7 +11964,7 @@
     ],
     "source": {
       "path": "apps/strimio/strimio-icon.png",
-      "revHash": "81076b1ed8"
+      "revHash": "981748dd5e"
     }
   },
   "studiotrans": {
@@ -13963,8 +13963,8 @@
       "#3c7494"
     ],
     "source": {
-      "path": "apps\\wanna-class\\wanna-class-icon.png",
-      "revHash": "26b54a8e01"
+      "path": "apps/wanna-class/wanna-class-icon.png",
+      "revHash": "71cfa3fbef"
     }
   },
   "waqt": {
