@@ -4159,22 +4159,6 @@
       "revHash": "51a1a04371"
     }
   },
-  "freelook": {
-    "faintColorOnWhite": "rgba(4, 101, 169, 0.1)",
-    "goodColorOnBlack": "#7CB4E4",
-    "goodColorOnWhite": "#0465A9",
-    "palette": [
-      "#0465a9",
-      "#fbfbfb",
-      "#6b9abe",
-      "#88accc",
-      "#7cb4e4"
-    ],
-    "source": {
-      "path": "apps/freelook/freelook-icon.png",
-      "revHash": "17ea6f0bf7"
-    }
-  },
   "freeman": {
     "faintColorOnWhite": "rgba(32, 32, 48, 0.1)",
     "goodColorOnBlack": "#EAEAF7",
