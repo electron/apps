@@ -1,11 +1,13 @@
-name: Terminus
+name: Tabby Terminal
 description: 'Terminal for a more modern age.'
-website: 'https://github.com/Eugeny/terminus'
-repository: 'https://github.com/Eugeny/terminus'
+website: 'https://tabby.sh'
+repository: 'https://github.com/Eugeny/tabby'
 keywords:
   - terminal
   - shell
   - tty
+  - ssh
+  - serial
   - terminal-emulator
 license: MIT
 category: 'Developer Tools'
