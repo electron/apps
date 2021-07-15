@@ -35,7 +35,6 @@
   "license": "MIT",
   "devDependencies": {
     "@octokit/rest": "^18.5.5",
-    "@zeit/fetch-retry": "^5.0.1",
     "bottleneck": "^2.19.5",
     "chai": "^4.3.4",
     "check-for-leaks": "^1.2.1",
@@ -67,9 +66,11 @@
     "readdirp": "^3.6.0",
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^3.0.2",
+    "semver": "^5.7.1",
     "sharp": "^0.28.3",
     "sinon": "^11.1.1",
     "slugg": "^1.2.1",
+    "tinycolor2": "^1.4.2",
     "yaml": "^1.10.2"
   },
   "engines": {
