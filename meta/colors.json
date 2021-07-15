@@ -12239,6 +12239,22 @@
       "revHash": "8700147922"
     }
   },
+  "tabby-terminal": {
+    "faintColorOnWhite": "rgba(4, 36, 44, 0.1)",
+    "goodColorOnBlack": "#B3EBF5",
+    "goodColorOnWhite": "#04242C",
+    "palette": [
+      "#6aa6bd",
+      "#04242c",
+      "#b3ebf5",
+      "#3c6c7e",
+      "#487088"
+    ],
+    "source": {
+      "path": "apps/tabby-terminal/tabby-terminal-icon.png",
+      "revHash": "7c5d11f96b"
+    }
+  },
   "tagflow": {
     "faintColorOnWhite": "rgba(62, 120, 162, 0.1)",
     "goodColorOnBlack": "#A4C4DC",
@@ -12397,22 +12413,6 @@
     "source": {
       "path": "apps/ten-hands/ten-hands-icon.png",
       "revHash": "99677612f3"
-    }
-  },
-  "terminus": {
-    "faintColorOnWhite": "rgba(4, 36, 44, 0.1)",
-    "goodColorOnBlack": "#B3EBF5",
-    "goodColorOnWhite": "#04242C",
-    "palette": [
-      "#6aa6bd",
-      "#04242c",
-      "#b3ebf5",
-      "#3c6c7e",
-      "#487088"
-    ],
-    "source": {
-      "path": "apps/terminus/terminus-icon.png",
-      "revHash": "7c5d11f96b"
     }
   },
   "termy": {
