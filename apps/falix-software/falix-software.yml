@@ -1,7 +1,6 @@
 name: Falix Software
 description: Access FalixNodes and manage your servers all from one place.
 website: https://software.falixnodes.net/
-snapcraftName: falixnodes
 category: Utilities
 repository: https://github.com/FalixNodes-Software/Desktop-App
 license:

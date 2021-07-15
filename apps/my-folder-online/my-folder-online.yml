@@ -1,0 +1,13 @@
+name: 'My folder online'
+description:
+  'Help you share your local folder for view only (with downloads and zips).'
+website: https://my-folder-online.vercel.app
+screenshots:
+  - imageUrl: 'https://my-folder-online.vercel.app/Example.png'
+    caption: 'The file manager (online webapp)'
+  - imageUrl: 'https://my-folder-online.vercel.app/desktop.png'
+    caption: 'The desktop app'
+keywords:
+  - 'file manager'
+  - 'local share'
+category: Utilities
