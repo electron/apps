@@ -1,0 +1,12 @@
+name: "passky"
+description: "Simple and secure password manager."
+website: "https://passky.org"
+repository: "https://github.com/Rabbit-Company/Passky-Desktop"
+keywords:
+  - passky
+  - password
+  - passwords
+  - manager
+license: "GPL-3.0"
+snapcraftName: "passky"
+category: "Utilities"
