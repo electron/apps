@@ -41,3 +41,4 @@ locales:
   - sl
   - sr
   - sv
+disabled: true # Old Electron version: v1.8.7

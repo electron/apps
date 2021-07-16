@@ -32,3 +32,4 @@ screenshots:
   - imageUrl: 'https://user-images.githubusercontent.com/47108/28134552-ad04c16e-6719-11e7-8d80-316d8285ac4d.gif'
     caption: 'Ethereum Automatic ENS to Address conversion'
     imageLink: 'https://github.com/ethereum/mist'
+disabled: true # Old Electron version: v1.8.8

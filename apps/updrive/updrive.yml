@@ -3,3 +3,4 @@ description: 'upyun file manager'
 website: 'https://github.com/aniiantt/updrive'
 repository: 'https://github.com/aniiantt/updrive'
 category: 'Developer Tools'
+disabled: true # Old Electron version: v2.0.0

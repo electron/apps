@@ -1,0 +1,13 @@
+name: linked
+description: Links your thoughts to days, but keeping it simple.
+website: https://uselinked.com/
+category: Utilities
+repository: https://github.com/lostdesign/linked
+keywords:
+  - journal
+  - ideas
+  - calendar
+  - notes
+  - diary
+  - editor
+license: GPL-3.0

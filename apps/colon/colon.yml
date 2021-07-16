@@ -16,3 +16,4 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/Chhekur/colon-ide/master/assets/colon-screenshots/3.png'
   - imageUrl: 'https://raw.githubusercontent.com/Chhekur/colon-ide/master/assets/colon-screenshots/4.png'
   - imageUrl: 'https://raw.githubusercontent.com/Chhekur/colon-ide/master/assets/colon-screenshots/5.png'
+disabled: true # Old Electron version: v2.0.8

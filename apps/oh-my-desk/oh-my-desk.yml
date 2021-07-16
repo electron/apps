@@ -9,3 +9,4 @@ keywords:
   - widget
   - web
 license: 'GPL-3.0'
+disabled: true # Old Electron version: v2.0.13

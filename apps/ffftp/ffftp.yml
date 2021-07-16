@@ -6,3 +6,4 @@ keywords:
   - ftp
   - development
 category: 'Developer Tools'
+disabled: true # Old Electron version: v1.4.10

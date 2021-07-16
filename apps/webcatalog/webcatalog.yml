@@ -1,14 +1,20 @@
 name: WebCatalog
-description: 'Run Web Apps like Real Apps'
-website: 'https://atomery.com/webcatalog'
-repository: 'https://github.com/atomery/webcatalog'
+description: 'Turn Any Websites Into Real Desktop Apps'
+website: 'https://webcatalog.app'
+repository: 'https://github.com/webcatalog/webcatalog'
+license: MPL-2.0
+homebrewCaskName: webcatalog
+youtube_video_url: 'https://www.youtube.com/watch?v=kWuGFW42Vjo'
 screenshots:
-  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/8e4d23c380a1f32a8d75528c03923f4403fdc70b/c1b9a/images/webcatalog-custom-apps.webp'
-    caption: 'WebCatalog - Run Web Apps like Real Apps'
-  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/558acc4cec8519fe6793be37018a355ec35f5a54/72cef/images/webcatalog-workspaces.webp'
-    caption: 'Catalog - Install apps quickly from our curated catalog'
-  - imageUrl: 'https://d33wubrfki0l68.cloudfront.net/e7704d92f9958a5602ace9999ddff1f2a1849a2f/bdf00/images/webcatalog-notifications.webp'
-    caption: 'Notifications - Control notifications with scheduling'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Discover+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Custom+App+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Preferences+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/App+-+Multiple+Accounts+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Space+-+Multiple+Accounts%2BServices+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Space+-+Add+Account%2BService+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Space+-+Edit+Account%2BService+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Space+-+App+Lock+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Space+-+Preferences+-+Light.png'
 keywords:
   - 'app store'
   - 'create desktop app'
