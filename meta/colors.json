@@ -751,6 +751,22 @@
       "revHash": "fcfd105064"
     }
   },
+  "baiplay": {
+    "faintColorOnWhite": "rgba(82, 117, 25, 0.1)",
+    "goodColorOnBlack": "#C4E68C",
+    "goodColorOnWhite": "#527519",
+    "palette": [
+      "#f6fbef",
+      "#9bbb54",
+      "#c4d49e",
+      "#c4e68c",
+      "#bcd494"
+    ],
+    "source": {
+      "path": "apps/baiplay/baiplay-icon.png",
+      "revHash": "c46a1a2f01"
+    }
+  },
   "basecamp-3": {
     "faintColorOnWhite": "rgba(8, 12, 7, 0.1)",
     "goodColorOnBlack": "#1AAC4A",
@@ -3024,19 +3040,19 @@
     }
   },
   "discord": {
-    "faintColorOnWhite": "rgba(64, 97, 207, 0.1)",
-    "goodColorOnBlack": "#748CDC",
-    "goodColorOnWhite": "#4061CF",
+    "faintColorOnWhite": "rgba(92, 100, 244, 0.1)",
+    "goodColorOnBlack": "#ACB4FC",
+    "goodColorOnWhite": "#5C64F4",
     "palette": [
-      "#748cdc",
-      "#788cdc",
-      "#788cdc",
-      "#788cdc",
-      "#788cdc"
+      "#fafafc",
+      "#5c64f4",
+      "#949cf5",
+      "#acb4fc",
+      "#848ff4"
     ],
     "source": {
       "path": "apps/discord/discord-icon.png",
-      "revHash": "44f1f440ed"
+      "revHash": "7ada64034d"
     }
   },
   "dixa": {
@@ -6095,6 +6111,22 @@
       "revHash": "93f92c83a1"
     }
   },
+  "keycombiner": {
+    "faintColorOnWhite": "rgba(69, 100, 116, 0.1)",
+    "goodColorOnBlack": "#8BC2EA",
+    "goodColorOnWhite": "#456474",
+    "palette": [
+      "#8bc2ea",
+      "#040505",
+      "#1c2c2c",
+      "#456474",
+      "#4c6c7c"
+    ],
+    "source": {
+      "path": "apps/keycombiner/keycombiner-icon.png",
+      "revHash": "5c02c04c6c"
+    }
+  },
   "kinesis-ci": {
     "faintColorOnWhite": "rgba(181, 72, 2, 0.1)",
     "goodColorOnBlack": "#FC6404",
@@ -6669,6 +6701,22 @@
     "source": {
       "path": "apps/luna/luna-icon.png",
       "revHash": "b093cf24ea"
+    }
+  },
+  "lyna": {
+    "faintColorOnWhite": "rgba(4, 90, 202, 0.1)",
+    "goodColorOnBlack": "#7C9CCC",
+    "goodColorOnWhite": "#045ACA",
+    "palette": [
+      "#045aca",
+      "#f6f7f9",
+      "#5d83ba",
+      "#074198",
+      "#7c9ccc"
+    ],
+    "source": {
+      "path": "apps/lyna/lyna-icon.png",
+      "revHash": "7690d02335"
     }
   },
   "magicbox": {
@@ -7887,6 +7935,22 @@
       "revHash": "6385782393"
     }
   },
+  "my-folder-online": {
+    "faintColorOnWhite": "rgba(14, 115, 151, 0.1)",
+    "goodColorOnBlack": "#34BCEC",
+    "goodColorOnWhite": "#0E7397",
+    "palette": [
+      "#34bce4",
+      "#34bcec",
+      "#38bce4",
+      "#38bce4",
+      "#38bce4"
+    ],
+    "source": {
+      "path": "apps/my-folder-online/my-folder-online-icon.png",
+      "revHash": "30047b99d5"
+    }
+  },
   "mylottery": {
     "faintColorOnWhite": "rgba(234, 0, 0, 0.1)",
     "goodColorOnBlack": "#FF0404",
@@ -8781,6 +8845,22 @@
     "source": {
       "path": "apps/particle-dev/particle-dev-icon.png",
       "revHash": "d64a76fd35"
+    }
+  },
+  "passky": {
+    "faintColorOnWhite": "rgba(38, 68, 252, 0.1)",
+    "goodColorOnBlack": "#446CFC",
+    "goodColorOnWhite": "#2644FC",
+    "palette": [
+      "#6690fc",
+      "#2644fc",
+      "#395dfc",
+      "#446cfc",
+      "#2c54fc"
+    ],
+    "source": {
+      "path": "apps/passky/passky-icon.png",
+      "revHash": "88307a2ad1"
     }
   },
   "patchwork": {
@@ -9852,7 +9932,7 @@
     ],
     "source": {
       "path": "apps/quba-e-invoice-viewer/quba-e-invoice-viewer-icon.png",
-      "revHash": "0f450990b6"
+      "revHash": "113c2ad5bf"
     }
   },
   "qubus": {
@@ -11839,6 +11919,22 @@
       "revHash": "9c4975a9e9"
     }
   },
+  "stinker": {
+    "faintColorOnWhite": "rgba(36, 36, 36, 0.1)",
+    "goodColorOnBlack": "#FAFAFA",
+    "goodColorOnWhite": "#242424",
+    "palette": [
+      "#fafafa",
+      "#242424",
+      "#8c8c8c",
+      "#6f6f6f",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/stinker/stinker-icon.png",
+      "revHash": "7dbec6b477"
+    }
+  },
   "stockifier": {
     "faintColorOnWhite": "rgba(75, 35, 163, 0.1)",
     "goodColorOnBlack": "#A48CCC",
@@ -12029,6 +12125,22 @@
     "source": {
       "path": "apps/subordination/subordination-icon.png",
       "revHash": "067b967e05"
+    }
+  },
+  "subtitler": {
+    "faintColorOnWhite": "rgba(24, 32, 47, 0.1)",
+    "goodColorOnBlack": "#92949C",
+    "goodColorOnWhite": "#18202F",
+    "palette": [
+      "#18202f",
+      "#fafafa",
+      "#8b8c94",
+      "#7b7c84",
+      "#92949c"
+    ],
+    "source": {
+      "path": "apps/subtitler/subtitler-icon.png",
+      "revHash": "e2ceaec34d"
     }
   },
   "super-productivity": {
@@ -12623,6 +12735,22 @@
       "revHash": "9afe9a5954"
     }
   },
+  "threema-for-desktop": {
+    "faintColorOnWhite": "rgba(52, 52, 52, 0.1)",
+    "goodColorOnBlack": "#04A33C",
+    "goodColorOnWhite": "#343434",
+    "palette": [
+      "#343434",
+      "#fbfbfb",
+      "#04a33c",
+      "#9c9c9c",
+      "#949494"
+    ],
+    "source": {
+      "path": "apps/threema-for-desktop/threema-for-desktop-icon.png",
+      "revHash": "503d8e4e99"
+    }
+  },
   "thunderdocs": {
     "faintColorOnWhite": "rgba(4, 116, 217, 0.1)",
     "goodColorOnBlack": "#0481F0",
@@ -12925,6 +13053,22 @@
     "source": {
       "path": "apps/tournamenter-manager/tournamenter-manager-icon.png",
       "revHash": "b11117afc1"
+    }
+  },
+  "trackabi": {
+    "faintColorOnWhite": "rgba(3, 126, 171, 0.1)",
+    "goodColorOnBlack": "#04ACEA",
+    "goodColorOnWhite": "#037EAB",
+    "palette": [
+      "#e5ecf4",
+      "#04acea",
+      "#0483c8",
+      "#f9fafb",
+      "#4480c8"
+    ],
+    "source": {
+      "path": "apps/trackabi/trackabi-icon.png",
+      "revHash": "273a7a5a06"
     }
   },
   "trackingtime": {
