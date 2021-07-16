@@ -11,7 +11,7 @@
   },
   {
     "name": "Utilities",
-    "count": 142,
+    "count": 143,
     "slug": "utilities"
   },
   {
@@ -20,14 +20,14 @@
     "slug": "music"
   },
   {
+    "name": "Social Networking",
+    "count": 49,
+    "slug": "social-networking"
+  },
+  {
     "name": "Photo & Video",
     "count": 49,
     "slug": "photo-video"
-  },
-  {
-    "name": "Social Networking",
-    "count": 48,
-    "slug": "social-networking"
   },
   {
     "name": "Games",
