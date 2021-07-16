@@ -1,5 +1,5 @@
 name: Utilso
-description: 'All-in-one tools for developers. Format JSON, debug JWT, decode Base64, convert timestamps… with just one click! Work entirely offline'
+description: 'All-in-one tools for developers. Regex Tester, JWT Verify, Format JSON, Decode base64, Code Beautify and more. Work completely offline'
 website: 'https://utilso.com'
 category: 'Developer Tools'
 snapcraftName: utilso
