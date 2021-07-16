@@ -1,0 +1,27 @@
+name: Utilso
+description: 'All-in-one tools for developers. Regex Tester, JWT Verify, Format JSON, Decode base64, Code Beautify and more. Work completely offline.'
+website: 'https://utilso.com'
+category: 'Developer Tools'
+snapcraftName: utilso
+keywords:
+  - 'dev tools'
+  - 'development'
+  - 'JWT verify'
+  - 'Base64 decode'
+  - 'JSON format'
+  - 'YAML to JSON'
+  - 'XML beautify'
+  - 'UUID Generate'
+  - 'HTML Beautify'
+  - 'RegExp Tester'
+  - 'Unix Time Converter'
+screenshots:
+  - imageUrl: 'https://utilso.com/demo/jwt-debugger.png'
+    caption: 'JWT Debugger'
+    imageLink: 'https://utilso.com/tools/jwt-debugger/'
+  - imageUrl: 'https://utilso.com/demo/yaml-to-json.png'
+    caption: 'YAML to JSON'
+    imageLink: 'https://utilso.com/tools/yaml-to-json/'
+  - imageUrl: 'https://utilso.com/demo/unix-timestamp-conversion.png'
+    caption: 'Unix Timestamp Conversion'
+    imageLink: 'https://utilso.com/tools/unix-timestamp-conversion/'
