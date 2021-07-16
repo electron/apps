@@ -751,6 +751,22 @@
       "revHash": "fcfd105064"
     }
   },
+  "baiplay": {
+    "faintColorOnWhite": "rgba(82, 117, 25, 0.1)",
+    "goodColorOnBlack": "#C4E68C",
+    "goodColorOnWhite": "#527519",
+    "palette": [
+      "#f6fbef",
+      "#9bbb54",
+      "#c4d49e",
+      "#c4e68c",
+      "#bcd494"
+    ],
+    "source": {
+      "path": "apps/baiplay/baiplay-icon.png",
+      "revHash": "07f45cd44a"
+    }
+  },
   "basecamp-3": {
     "faintColorOnWhite": "rgba(8, 12, 7, 0.1)",
     "goodColorOnBlack": "#1AAC4A",
@@ -3024,19 +3040,19 @@
     }
   },
   "discord": {
-    "faintColorOnWhite": "rgba(64, 97, 207, 0.1)",
-    "goodColorOnBlack": "#748CDC",
-    "goodColorOnWhite": "#4061CF",
+    "faintColorOnWhite": "rgba(92, 100, 244, 0.1)",
+    "goodColorOnBlack": "#ACB4FC",
+    "goodColorOnWhite": "#5C64F4",
     "palette": [
-      "#748cdc",
-      "#788cdc",
-      "#788cdc",
-      "#788cdc",
-      "#788cdc"
+      "#fafafc",
+      "#5c64f4",
+      "#949cf5",
+      "#acb4fc",
+      "#848ff4"
     ],
     "source": {
       "path": "apps/discord/discord-icon.png",
-      "revHash": "44f1f440ed"
+      "revHash": "e2c4f418ee"
     }
   },
   "dixa": {
@@ -4157,22 +4173,6 @@
     "source": {
       "path": "apps/free-chess-club/free-chess-club-icon.png",
       "revHash": "51a1a04371"
-    }
-  },
-  "freelook": {
-    "faintColorOnWhite": "rgba(4, 101, 169, 0.1)",
-    "goodColorOnBlack": "#7CB4E4",
-    "goodColorOnWhite": "#0465A9",
-    "palette": [
-      "#0465a9",
-      "#fbfbfb",
-      "#6b9abe",
-      "#88accc",
-      "#7cb4e4"
-    ],
-    "source": {
-      "path": "apps/freelook/freelook-icon.png",
-      "revHash": "17ea6f0bf7"
     }
   },
   "freeman": {
@@ -6687,6 +6687,22 @@
       "revHash": "b093cf24ea"
     }
   },
+  "lyna": {
+    "faintColorOnWhite": "rgba(4, 90, 202, 0.1)",
+    "goodColorOnBlack": "#7C9CCC",
+    "goodColorOnWhite": "#045ACA",
+    "palette": [
+      "#045aca",
+      "#f6f7f9",
+      "#5d83ba",
+      "#074198",
+      "#7c9ccc"
+    ],
+    "source": {
+      "path": "apps/lyna/lyna-icon.png",
+      "revHash": "6436b7be4d"
+    }
+  },
   "magicbox": {
     "faintColorOnWhite": "rgba(46, 119, 88, 0.1)",
     "goodColorOnBlack": "#25B47F",
@@ -7903,6 +7919,22 @@
       "revHash": "6385782393"
     }
   },
+  "my-folder-online": {
+    "faintColorOnWhite": "rgba(14, 115, 151, 0.1)",
+    "goodColorOnBlack": "#34BCEC",
+    "goodColorOnWhite": "#0E7397",
+    "palette": [
+      "#34bce4",
+      "#34bcec",
+      "#38bce4",
+      "#38bce4",
+      "#38bce4"
+    ],
+    "source": {
+      "path": "apps/my-folder-online/my-folder-online-icon.png",
+      "revHash": "30047b99d5"
+    }
+  },
   "mylottery": {
     "faintColorOnWhite": "rgba(234, 0, 0, 0.1)",
     "goodColorOnBlack": "#FF0404",
@@ -8797,6 +8829,22 @@
     "source": {
       "path": "apps/particle-dev/particle-dev-icon.png",
       "revHash": "d64a76fd35"
+    }
+  },
+  "passky": {
+    "faintColorOnWhite": "rgba(38, 68, 252, 0.1)",
+    "goodColorOnBlack": "#446CFC",
+    "goodColorOnWhite": "#2644FC",
+    "palette": [
+      "#6690fc",
+      "#2644fc",
+      "#395dfc",
+      "#446cfc",
+      "#2c54fc"
+    ],
+    "source": {
+      "path": "apps/passky/passky-icon.png",
+      "revHash": "e8ba1970f5"
     }
   },
   "patchwork": {
@@ -9868,7 +9916,7 @@
     ],
     "source": {
       "path": "apps/quba-e-invoice-viewer/quba-e-invoice-viewer-icon.png",
-      "revHash": "0f450990b6"
+      "revHash": "113c2ad5bf"
     }
   },
   "qubus": {
@@ -11855,6 +11903,22 @@
       "revHash": "9c4975a9e9"
     }
   },
+  "stinker": {
+    "faintColorOnWhite": "rgba(36, 36, 36, 0.1)",
+    "goodColorOnBlack": "#FAFAFA",
+    "goodColorOnWhite": "#242424",
+    "palette": [
+      "#fafafa",
+      "#242424",
+      "#8c8c8c",
+      "#6f6f6f",
+      "#848484"
+    ],
+    "source": {
+      "path": "apps/stinker/stinker-icon.png",
+      "revHash": "40e530a0d3"
+    }
+  },
   "stockifier": {
     "faintColorOnWhite": "rgba(75, 35, 163, 0.1)",
     "goodColorOnBlack": "#A48CCC",
@@ -12045,6 +12109,22 @@
     "source": {
       "path": "apps/subordination/subordination-icon.png",
       "revHash": "067b967e05"
+    }
+  },
+  "subtitler": {
+    "faintColorOnWhite": "rgba(24, 32, 47, 0.1)",
+    "goodColorOnBlack": "#92949C",
+    "goodColorOnWhite": "#18202F",
+    "palette": [
+      "#18202f",
+      "#fafafa",
+      "#8b8c94",
+      "#7b7c84",
+      "#92949c"
+    ],
+    "source": {
+      "path": "apps/subtitler/subtitler-icon.png",
+      "revHash": "f68ca38d6a"
     }
   },
   "super-productivity": {
@@ -12255,6 +12335,22 @@
       "revHash": "8700147922"
     }
   },
+  "tabby-terminal": {
+    "faintColorOnWhite": "rgba(4, 36, 44, 0.1)",
+    "goodColorOnBlack": "#B3EBF5",
+    "goodColorOnWhite": "#04242C",
+    "palette": [
+      "#6aa6bd",
+      "#04242c",
+      "#b3ebf5",
+      "#3c6c7e",
+      "#487088"
+    ],
+    "source": {
+      "path": "apps/tabby-terminal/tabby-terminal-icon.png",
+      "revHash": "7c5d11f96b"
+    }
+  },
   "tagflow": {
     "faintColorOnWhite": "rgba(62, 120, 162, 0.1)",
     "goodColorOnBlack": "#A4C4DC",
@@ -12413,22 +12509,6 @@
     "source": {
       "path": "apps/ten-hands/ten-hands-icon.png",
       "revHash": "99677612f3"
-    }
-  },
-  "terminus": {
-    "faintColorOnWhite": "rgba(4, 36, 44, 0.1)",
-    "goodColorOnBlack": "#B3EBF5",
-    "goodColorOnWhite": "#04242C",
-    "palette": [
-      "#6aa6bd",
-      "#04242c",
-      "#b3ebf5",
-      "#3c6c7e",
-      "#487088"
-    ],
-    "source": {
-      "path": "apps/terminus/terminus-icon.png",
-      "revHash": "7c5d11f96b"
     }
   },
   "termy": {
@@ -12941,6 +13021,22 @@
     "source": {
       "path": "apps/tournamenter-manager/tournamenter-manager-icon.png",
       "revHash": "b11117afc1"
+    }
+  },
+  "trackabi": {
+    "faintColorOnWhite": "rgba(3, 126, 171, 0.1)",
+    "goodColorOnBlack": "#04ACEA",
+    "goodColorOnWhite": "#037EAB",
+    "palette": [
+      "#e5ecf4",
+      "#04acea",
+      "#0483c8",
+      "#f9fafb",
+      "#4480c8"
+    ],
+    "source": {
+      "path": "apps/trackabi/trackabi-icon.png",
+      "revHash": "273a7a5a06"
     }
   },
   "trackingtime": {
