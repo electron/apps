@@ -1,17 +1,17 @@
-name: "Yukino"
-description: "Watch anime or read manga ad-free from multiple sources."
-website: "https://zyrouge.github.io/yukino-app"
-repository: "https://github.com/zyrouge/yukino-app/"
+name: 'Yukino'
+description: 'Watch anime or read manga ad-free from multiple sources.'
+website: 'https://zyrouge.github.io/yukino-app'
+repository: 'https://github.com/zyrouge/yukino-app/'
 screenshots:
-  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/home.png"
-  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/search.png"
-  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/anime.png"
-  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/episodes.png"
-  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/player.png"
-  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/sources.png"
-  - imageUrl: "https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/manga.png"
+  - imageUrl: 'https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/home.png'
+  - imageUrl: 'https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/search.png'
+  - imageUrl: 'https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/anime.png'
+  - imageUrl: 'https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/episodes.png'
+  - imageUrl: 'https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/player.png'
+  - imageUrl: 'https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/sources.png'
+  - imageUrl: 'https://raw.githubusercontent.com/zyrouge/yukino-app/next/screenshots/desktop/manga.png'
 keywords:
-  - "anime"
-  - "manga"
-category: "Entertainment"
-license: "MIT"
+  - 'anime'
+  - 'manga'
+category: 'Entertainment'
+license: 'MIT'
