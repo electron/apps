@@ -75,10 +75,11 @@ inquirer
   .then(function (answers) {
     const app = cleanDeep(answers)
     const slug = slugify(app.name)
-    const basepath = path.join(__dirname, `apps/${slug}`)
+    const basepath = path.join(path.join(__dirname, 'apps'), slug)
     const yamlPath = path.join(basepath, `${slug}.yml`)
     const yamlContent = yaml.stringify(app, 2)
-    mkdirp(basepath)
+    fs.mkdirSync(basepath)
+    console.log(app, slug, basepath, yamlPath, yamlContent)
     fs.writeFileSync(yamlPath, yamlContent)
     console.log()
     console.log(`Yay! Created ${path.relative(process.cwd(), yamlPath)}`)
