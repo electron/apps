@@ -1,0 +1,21 @@
+name: Lyna
+description: 'Create a page for provide your social links and other.'
+website: 'https://lyna.ga/'
+category: Social Networking
+keywords:
+  - background
+  - tai
+  - studio
+  - lyna
+  - open-source
+  - share
+  - free
+  - social
+  - links
+  - promote
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/TaiStudio/Lyna/main/img/assets/Lyna%20demo.PNG'
+  - imageUrl: 'https://raw.githubusercontent.com/TaiStudio/Lyna/main/img/assets/taistudio.png'
+  - imageUrl: 'https://raw.githubusercontent.com/TaiStudio/Lyna/main/img/assets/potion.png'
+  - imageUrl: 'https://raw.githubusercontent.com/TaiStudio/Lyna/main/img/assets/les-autodidactes.PNG'
+  - imageUrl: 'https://raw.githubusercontent.com/TaiStudio/Lyna/main/img/assets/lafolledurang8.PNG'
