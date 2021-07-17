@@ -1,6 +1,6 @@
 name: Tockler
 description: 'Application title and computer state recorder. Track your time or look when and what were you doing at some point in time.'
-website: 'http://maygo.github.io/tockler'
+website: 'https://maygo.github.io/tockler'
 repository: 'https://github.com/MayGo/tockler'
 keywords:
   - 'free time tracking'
