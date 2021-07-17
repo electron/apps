@@ -13,8 +13,8 @@ keywords:
   - download
   - deezer
   - spotify
-goodColorOnWhite: "#3469C1"
-goodColorOnBlack: "#4175CC"
+goodColorOnWhite: '#3469C1'
+goodColorOnBlack: '#4175CC'
 screenshots:
   - imageUrl: https://feelthebeat.xyz
     caption: Fast and Easy Search
