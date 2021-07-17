@@ -13647,6 +13647,22 @@
       "revHash": "cac2d7f8cf"
     }
   },
+  "utilso": {
+    "faintColorOnWhite": "rgba(28, 49, 60, 0.1)",
+    "goodColorOnBlack": "#2C9CDC",
+    "goodColorOnWhite": "#1C313C",
+    "palette": [
+      "#1c313c",
+      "#e1d7d1",
+      "#2c9cdc",
+      "#636263",
+      "#4c84a4"
+    ],
+    "source": {
+      "path": "apps/utilso/utilso-icon.png",
+      "revHash": "c14ec4fe4f"
+    }
+  },
   "vade-mecum-shelf": {
     "faintColorOnWhite": "rgba(32, 118, 147, 0.1)",
     "goodColorOnBlack": "#2484A4",
