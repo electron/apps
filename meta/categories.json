@@ -6,12 +6,12 @@
   },
   {
     "name": "Developer Tools",
-    "count": 214,
+    "count": 219,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 140,
+    "count": 143,
     "slug": "utilities"
   },
   {
@@ -20,14 +20,14 @@
     "slug": "music"
   },
   {
-    "name": "Photo & Video",
-    "count": 48,
-    "slug": "photo-video"
+    "name": "Social Networking",
+    "count": 49,
+    "slug": "social-networking"
   },
   {
-    "name": "Social Networking",
-    "count": 47,
-    "slug": "social-networking"
+    "name": "Photo & Video",
+    "count": 49,
+    "slug": "photo-video"
   },
   {
     "name": "Games",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Business",
-    "count": 26,
+    "count": 27,
     "slug": "business"
   },
   {
@@ -51,12 +51,12 @@
   },
   {
     "name": "Graphics & Design",
-    "count": 19,
+    "count": 20,
     "slug": "graphics-design"
   },
   {
     "name": "Entertainment",
-    "count": 13,
+    "count": 14,
     "slug": "entertainment"
   },
   {
