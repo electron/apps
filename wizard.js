@@ -79,7 +79,6 @@ inquirer
     const yamlPath = path.join(basepath, `${slug}.yml`)
     const yamlContent = yaml.stringify(app, 2)
     fs.mkdirSync(basepath)
-    console.log(app, slug, basepath, yamlPath, yamlContent)
     fs.writeFileSync(yamlPath, yamlContent)
     console.log()
     console.log(`Yay! Created ${path.relative(process.cwd(), yamlPath)}`)
