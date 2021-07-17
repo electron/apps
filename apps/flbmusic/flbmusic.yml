@@ -1,0 +1,85 @@
+name: FLB Music
+description: Beautifully designed Music Player and Downloader.
+website: https://flb.netlify.app
+repository: https://github.com/Patrick-web/FLB-Music-Player-Official
+license: MIT
+category: Music
+youtube_video_url: https://youtu.be/tjInHlpOK38
+keywords:
+  - music
+  - player
+  - vue
+  - youtube
+  - download
+  - deezer
+  - spotify
+goodColorOnWhite: "#3469C1"
+goodColorOnBlack: "#4175CC"
+screenshots:
+  - imageUrl: https://feelthebeat.xyz
+    caption: Fast and Easy Search
+    imageLink: https://drive.google.com/uc?export=download&id=1-W0n8k4Ka26Pq2dV9tfT1u5XdL3z3m4n
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Completed Downloads
+    imageLink: https://drive.google.com/uc?export=download&id=13027sgNuteWNn-fvE0DiPitNz3pt_ntp
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Deezex Downloader
+    imageLink: https://drive.google.com/uc?export=download&id=17u26Ba1vwdHnIdjLoRry6FCyQzT4NGYX
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: YouTube Downloader
+    imageLink: https://drive.google.com/uc?export=download&id=1EYV_Xt2uaCxbjwgBJ7zWrDmb3056KuaC
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Playlists Tab
+    imageLink: https://drive.google.com/uc?export=download&id=1GOQM8JSR4XLwsUrYSgqAWwrpHt-jz5bg
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Settings
+    imageLink: https://drive.google.com/uc?export=download&id=1GooUBRQPInv6QfS9aJU7WBnNrQ6uSAMf
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Playlist Opened
+    imageLink: https://drive.google.com/uc?export=download&id=1Jh3vU3KnhYugz9CLkp9VvzeH1lE6ADaj
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Artists Tab
+    imageLink: https://drive.google.com/uc?export=download&id=1KAcQM_ZH0TzOIZUE52iSYeIeUniGLRgM
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Albums Tab
+    imageLink: https://drive.google.com/uc?export=download&id=1N7n3qN8oQ7pIADJtvwHwnXew0wlv20bw
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Selected Artist
+    imageLink: https://drive.google.com/uc?export=download&id=1Y5kXDIRIUJYOmfwCiFUlhvII-NVJHaWq
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Selected Folder
+    imageLink: https://drive.google.com/uc?export=download&id=1ZTf_G_JY6iAnTA6gQgZgo6oqQXvrCG0i
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Album Opened
+    imageLink: https://drive.google.com/uc?export=download&id=1Zk4SEMG1nUGcbtugUXMK3SEifm8UE1ll
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: FLBing Downloader
+    imageLink: https://drive.google.com/uc?export=download&id=1gzVYP0dWdYp9bdznqYLvzgEjz7_GTNZ4
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Download in progress
+    imageLink: https://drive.google.com/uc?export=download&id=1iytwHwOrSTdxuY1u2P2uWZHT3i2lhL2f
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Folders Tab
+    imageLink: https://drive.google.com/uc?export=download&id=1lzd8pZc6J4bBZS63FBf-SlibG83Lj5b4
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Daily mixes
+    imageLink: https://drive.google.com/uc?export=download&id=1pbEadsUXi7yA4GFaje-Mlrh3Zlopq-QU
+
+  - imageUrl: https://feelthebeat.xyz
+    caption: Deezex Artist Page
+    imageLink: https://drive.google.com/uc?export=download&id=1x6txG7YgzjisJaDpni9tDhowzzvlrF4K
