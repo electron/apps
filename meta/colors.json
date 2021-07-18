@@ -3980,7 +3980,7 @@
     ],
     "source": {
       "path": "apps/flbmusic/flbmusic-icon.png",
-      "revHash": "c2d9ace526"
+      "revHash": "8bc57c0840"
     }
   },
   "flexpaper": {
@@ -6140,7 +6140,7 @@
     ],
     "source": {
       "path": "apps/keycombiner/keycombiner-icon.png",
-      "revHash": "5c02c04c6c"
+      "revHash": "a19fd13b77"
     }
   },
   "kinesis-ci": {
@@ -12764,7 +12764,7 @@
     ],
     "source": {
       "path": "apps/threema-for-desktop/threema-for-desktop-icon.png",
-      "revHash": "503d8e4e99"
+      "revHash": "e6e574da3b"
     }
   },
   "thunderdocs": {
@@ -12924,7 +12924,7 @@
     ],
     "source": {
       "path": "apps/tockler/tockler-icon.png",
-      "revHash": "8dcff05c7b"
+      "revHash": "2da34bc7b0"
     }
   },
   "todo": {
@@ -14956,7 +14956,7 @@
     ],
     "source": {
       "path": "apps/yukino/yukino-icon.png",
-      "revHash": "0a30dd71af"
+      "revHash": "0495f80890"
     }
   },
   "zap": {
