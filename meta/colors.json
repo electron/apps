@@ -12575,6 +12575,22 @@
       "revHash": "52a7ed967f"
     }
   },
+  "tess": {
+    "faintColorOnWhite": "rgba(7, 120, 158, 0.1)",
+    "goodColorOnBlack": "#FAFAFA",
+    "goodColorOnWhite": "#07789E",
+    "palette": [
+      "#1c1d28",
+      "#fafafa",
+      "#07789e",
+      "#6a6a6a",
+      "#8c8c8c"
+    ],
+    "source": {
+      "path": "apps/tess/tess-icon.png",
+      "revHash": "f28eb07a7c"
+    }
+  },
   "testcafe-studio": {
     "faintColorOnWhite": "rgba(27, 43, 60, 0.1)",
     "goodColorOnBlack": "#34B4E4",
