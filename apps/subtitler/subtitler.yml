@@ -1,0 +1,14 @@
+name: Subtitler
+description: Quickly download subtitles.
+website: https://s8sachin.github.io/subtitler/
+category: Entertainment
+repository: https://github.com/s8sachin/subtitler
+keywords:
+  - Subtitler
+  - Finder
+  - Downloader
+  - Searcher
+  - closed-caption
+  - open-subtitles
+license: MIT
+youtube_video_url: 'https://youtu.be/3-ikI6ZxBZA'
