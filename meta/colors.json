@@ -143,6 +143,22 @@
       "revHash": "40f3ec4bbc"
     }
   },
+  "aether": {
+    "faintColorOnWhite": "rgba(206, 75, 19, 0.1)",
+    "goodColorOnBlack": "#EE7A48",
+    "goodColorOnWhite": "#CE4B13",
+    "palette": [
+      "#fbfbfb",
+      "#ee7a48",
+      "#f4b18c",
+      "#f4c1b1",
+      "#f39883"
+    ],
+    "source": {
+      "path": "apps/aether/aether-icon.png",
+      "revHash": "bf415f3c8b"
+    }
+  },
   "afterlife": {
     "faintColorOnWhite": "rgba(203, 12, 12, 0.1)",
     "goodColorOnBlack": "#F39D16",
