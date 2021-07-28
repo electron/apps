@@ -1,0 +1,44 @@
+name: 白前
+description: '看图片，用白前，当代前沿看图软件，越看越顺手.'
+website: 'https://efront.cc/baiplay'
+category: 'Photo & Video'
+locales:
+  - zh-CN
+keywords:
+  - 白前
+  - 看图
+  - 图片
+  - 滤镜
+  - 照片
+  - 影像
+  - baiplay
+  - gif
+  - png
+  - jpg
+  - jpeg
+  - dib
+  - tiff
+  - tif
+  - image
+  - view
+  - viewer
+  - photo
+screenshots:
+  - imageUrl: 'https://baiplay.efront.cc/shanghetu-0.png'
+    caption: '用白前打开清明上河图'
+    imageLink: 'https://efront.cc/baiplay/'
+  - imageUrl: 'https://baiplay.efront.cc/shanghetu-1.png'
+    caption: '任意角度旋转'
+    imageLink: 'https://efront.cc/baiplay/'
+  - imageUrl: 'https://baiplay.efront.cc/photo-list.png'
+    caption: '照片图像列表'
+    imageLink: 'https://efront.cc/baiplay/'
+  - imageUrl: 'https://baiplay.efront.cc/filter-revert.png'
+    caption: '对调 - 灵感滤镜'
+    imageLink: 'https://efront.cc/baiplay/'
+  - imageUrl: 'https://baiplay.efront.cc/filter-gray.png'
+    caption: '灰度 - 滤镜'
+    imageLink: 'https://efront.cc/baiplay/'
+  - imageUrl: 'https://baiplay.efront.cc/filter-multi.png'
+    caption: '滤镜组合'
+    imageLink: 'https://efront.cc/baiplay/'
