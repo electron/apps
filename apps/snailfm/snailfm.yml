@@ -1,0 +1,9 @@
+name: SnailFM
+description: Powerful tool, that allows you to tune into great music.
+website: https://snaildos.com/snailfm
+category: Music
+repository: https://github.com/snaildos/SnailFM-Application
+keywords:
+  - music
+  - NCS
+  - simple
