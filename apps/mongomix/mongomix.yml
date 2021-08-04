@@ -1,5 +1,5 @@
 name: 'Mongomix'
-description: 'Simple MongoDB GUI Shell'
+description: 'Simple MongoDB GUI Shell.'
 website: 'https://mongomix.sigma-solutions.fr'
 keywords:
   - mongodb
