@@ -2,12 +2,15 @@ name: 'My folder online'
 description:
   'Help you share your local folder for view only (with downloads and zips).'
 website: https://my-folder-online.vercel.app
+repository: 'https://gitlab.com/ido.very.much/my-folder-online'
 screenshots:
-  - imageUrl: 'https://my-folder-online.vercel.app/Example.png'
+  - imageUrl: 'https://my-folder-online.vercel.app/example.png'
     caption: 'The file manager (online webapp)'
   - imageUrl: 'https://my-folder-online.vercel.app/desktop.png'
     caption: 'The desktop app'
+license: MIT
 keywords:
   - 'file manager'
-  - 'local share'
+  - 'share files'
+  - 'productivity'
 category: Utilities
