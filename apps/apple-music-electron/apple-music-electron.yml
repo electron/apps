@@ -1,0 +1,12 @@
+name: Apple Music Electron
+description: The free, lightweight, open source alternative to iTunes.
+website: https://applemusicelectron.com/
+category: Music
+repository: https://github.com/Apple-Music-Electron/Apple-Music-Electron/
+keywords:
+  - Music
+  - Apple Music
+  - Node
+  - MIT
+  - Open-Source
+license: MIT
