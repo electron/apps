@@ -16,9 +16,15 @@ fs.readdirSync(path.join(__dirname, '../apps'))
   })
   .forEach((slug) => {
     const yamlFile = path.join(__dirname, `../apps/${slug}/${slug}.yml`)
+    const meta = yaml.load(fs.readFileSync(yamlFile))
+
+    if (meta.disabled) {
+      return;
+    }
+
     const app = Object.assign(
       { slug: slug },
-      yaml.load(fs.readFileSync(yamlFile)),
+      meta,
       {
         icon: `${slug}-icon.png`,
         icon32: `${slug}-icon-32.png`,
