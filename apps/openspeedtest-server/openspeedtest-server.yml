@@ -1,12 +1,9 @@
 name: OpenSpeedTest-Server
-description:
-  Pure HTML5 Network Performance Estimation Tool. 
+description: Pure HTML5 Network Performance Estimation Tool.
 website: 'https://openspeedtest.com'
 repository: 'https://github.com/openspeedtest/Speed-Test'
 screenshots:
-  - {
-      imageUrl: 'https://openspeedtest.com/images/OSTV2-SS.png',
-    }
+  - { imageUrl: 'https://openspeedtest.com/images/OSTV2-SS.png' }
 keywords:
   - speedtest
 category: Utilities

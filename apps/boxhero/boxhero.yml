@@ -1,5 +1,6 @@
 name: BoxHero
-description: 'No experience needed! BoxHero is the inventory management for everyone.'
+description:
+  'No experience needed! BoxHero is the inventory management for everyone.'
 website: https://www.boxhero-app.com
 repository: https://github.com/bgpworks/boxhero-electron
 category: Business
