@@ -4,3 +4,4 @@ website: 'http://www.kakapo.co/app.html#desktop'
 keywords:
   - music
 category: Music
+disabled: true # Project website not working
