@@ -1,0 +1,19 @@
+name: Codex
+description:
+  'Free note-taking software for programmers and CS students.'
+website: 'https://www.codexnotes.com/'
+category: Developer Tools
+repository: 'https://github.com/jcv8000/Codex'
+keywords:
+  - notes
+  - notetaker
+  - note-taking
+  - notetaking
+  - programmer
+  - computerscience
+  - compsci
+license: 'CC BY-NC 4.0'
+screenshots:
+  - imageUrl: 'https://codexnotes.com/exampleimg/main2.png'
+  - imageUrl: 'https://codexnotes.com/exampleimg/darkmode2.png'
+  - imageUrl: 'https://codexnotes.com/exampleimg/sql2.png'
