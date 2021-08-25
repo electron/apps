@@ -19,7 +19,7 @@
     "prettier": "prettier --check \"./**/*.{ts,js,yml}\"",
     "test": "mocha --reporter min test/human-data.js test/colors-spec.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "test:debug": "mocha --reporter spec test/human-data.js test/colors-spec.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
-    "pretesst-all": "npm run build",
+    "pretest-all": "npm run build",
     "test-all": "mocha --reporter min && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "wizard": "node wizard.js",
     "release": "script/release.sh"
