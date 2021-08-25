@@ -1,24 +1,27 @@
+import fs from 'fs'
+import Bottleneck from 'bottleneck'
+import github from '../lib/github.js'
+import cheerio from 'cheerio'
+import parseGitUrl from 'github-url-to-object'
+import humanInterval from 'human-interval'
+import apps from '../lib/raw-app-list.js'
+import appsWithRepos from '../lib/apps-with-github-repos.js'
+import path from 'path'
+import { _dirname } from '../lib/dirname.js'
+
 const MAX_CONCURRENCY = Number(process.env.MAX_CONCURRENCY) || 4 // simultaneous open web requests
-const README_CACHE_TTL = require('human-interval')(
+const README_CACHE_TTL = humanInterval(
   process.env.README_CACHE_TTL || '4 hours'
 )
 
-const fs = require('fs')
-const path = require('path')
-const Bottleneck = require('bottleneck')
-const github = require('../lib/github')
-const cheerio = require('cheerio')
-const parseGitUrl = require('github-url-to-object')
+const outputFile = path.join(_dirname(import.meta), '../meta/readmes.json')
+const oldReadmeData = JSON.parse(fs.readFileSync(outputFile))
 
-const outputFile = path.join(__dirname, '../meta/readmes.json')
-const oldReadmeData = require(outputFile)
 const output = {}
 const limiter = new Bottleneck({
   maxConcurrent: MAX_CONCURRENCY,
 })
 
-const apps = require('../lib/raw-app-list')()
-const appsWithRepos = require('../lib/apps-with-github-repos')
 const appsToUpdate = appsWithRepos.filter((app) => {
   const oldData = oldReadmeData[app.slug]
   if (!oldData) return true
@@ -34,27 +37,8 @@ console.log(
 )
 
 appsToUpdate.forEach((app) => {
-  limiter.schedule(getReadme, app)
-})
-
-limiter.on('idle', () => {
-  fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
-  console.log(`Done fetching README files.\nWrote ${outputFile}`)
-  process.exit()
-})
-
-function getReadme(app) {
-  const { user: owner, repo } = parseGitUrl(app.repository)
-  const opts = {
-    owner: owner,
-    repo: repo,
-    headers: {
-      Accept: 'application/vnd.github.v3.html',
-    },
-  }
-
-  return github.repos
-    .get(opts)
+  limiter
+    .schedule(getReadme, app)
     .then((repository) => {
       return repository.data.default_branch
     })
@@ -67,8 +51,8 @@ function getReadme(app) {
       return
     })
     .then((defaultBranch) => {
-      github.repos
-        .getReadme(opts)
+      limiter
+        .schedule(getReadme, app, defaultBranch)
         .then((release) => {
           console.log(`${app.slug}: got latest README`)
           output[app.slug] = {
@@ -89,6 +73,31 @@ function getReadme(app) {
           }
         })
     })
+})
+
+limiter.on('idle', () => {
+  setTimeout(() => {
+    fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
+    console.log(`Done fetching README files.\nWrote ${outputFile}`)
+    process.exit()
+  }, 1000)
+})
+
+function getReadme(app, defaultBranch) {
+  const { user: owner, repo } = parseGitUrl(app.repository)
+  const opts = {
+    owner: owner,
+    repo: repo,
+    headers: {
+      Accept: 'application/vnd.github.v3.html',
+    },
+  }
+
+  if (defaultBranch) {
+    return github.repos.getReadme(opts)
+  }
+
+  return github.repos.get(opts)
 }
 
 function cleanReadme(readme, defaultBranch, app) {

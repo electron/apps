@@ -1,23 +1,24 @@
+import fs from 'fs'
+import Bottleneck from 'bottleneck'
+import github from '../lib/github.js'
+import parseGitUrl from 'github-url-to-object'
+import apps from '../lib/raw-app-list.js'
+import humanInterval from 'human-interval'
+import appsWithRepos from '../lib/apps-with-github-repos.js'
+import path from 'path'
+import { _dirname } from '../lib/dirname.js'
+
 const MAX_CONCURRENCY = Number(process.env.MAX_CONCURRENCY) || 4 // simultaneous open web requests
-const RELEASE_CACHE_TTL = require('human-interval')(
+const RELEASE_CACHE_TTL = humanInterval(
   process.env.RELEASE_CACHE_TTL || '4 hours'
 )
 
-const fs = require('fs')
-const path = require('path')
-const Bottleneck = require('bottleneck')
-const github = require('../lib/github')
-const parseGitUrl = require('github-url-to-object')
-
-const outputFile = path.join(__dirname, '../meta/releases.json')
-const oldReleaseData = require(outputFile)
+const outputFile = path.join(_dirname(import.meta), '../meta/releases.json')
+const oldReleaseData = JSON.parse(fs.readFileSync(outputFile))
 const output = {}
 const limiter = new Bottleneck({
   maxConcurrent: MAX_CONCURRENCY,
 })
-
-const apps = require('../lib/raw-app-list')()
-const appsWithRepos = require('../lib/apps-with-github-repos')
 
 console.log(
   `${appsWithRepos.length} of ${apps.length} apps have a GitHub repo.`
@@ -30,16 +31,38 @@ console.log(
 
 appsWithRepos.forEach((app) => {
   if (shouldUpdateAppReleaseData(app)) {
-    limiter.schedule(getLatestRelease, app)
+    limiter
+      .schedule(getLatestRelease, app)
+      .then((release) => {
+        console.log(`${app.slug}: got latest release`)
+        output[app.slug] = {
+          latestRelease: release.data,
+          latestReleaseFetchedAt: new Date(),
+        }
+      })
+      .catch((err) => {
+        console.error(`${app.slug}: no releases found`)
+        output[app.slug] = {
+          latestRelease: null,
+          latestReleaseFetchedAt: new Date(),
+        }
+        if (err.status !== 404) console.error(err)
+      })
   } else {
     output[app.slug] = oldReleaseData[app.slug]
   }
 })
 
+limiter.on('error', (err) => {
+  console.error(err)
+})
+
 limiter.on('idle', () => {
-  fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
-  console.log(`Done fetching release data.\nWrote ${outputFile}`)
-  process.exit()
+  setTimeout(() => {
+    fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
+    console.log(`Done fetching release data.\nWrote ${outputFile}`)
+    process.exit()
+  }, 1000)
 })
 
 function shouldUpdateAppReleaseData(app) {
@@ -59,21 +82,5 @@ function getLatestRelease(app) {
     },
   }
 
-  return github.repos
-    .getLatestRelease(opts)
-    .then((release) => {
-      console.log(`${app.slug}: got latest release`)
-      output[app.slug] = {
-        latestRelease: release.data,
-        latestReleaseFetchedAt: new Date(),
-      }
-    })
-    .catch((err) => {
-      console.error(`${app.slug}: no releases found`)
-      output[app.slug] = {
-        latestRelease: null,
-        latestReleaseFetchedAt: new Date(),
-      }
-      if (err.code !== 404) console.error(err)
-    })
+  return github.repos.getLatestRelease(opts)
 }

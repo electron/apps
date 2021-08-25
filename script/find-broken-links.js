@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const findBrokenLinks = require('../lib/broken-links')
+import findBrokenLinks from '../lib/broken-links.js'
 
 /* Links can break at any time and it's outside of the repo's control,
    so it doesn't make sense to run this script as part of CI. Instead,
