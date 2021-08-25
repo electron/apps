@@ -1,25 +1,25 @@
-const categories = require('../lib/app-categories')
-const mocha = require('mocha')
-const describe = mocha.describe
-const it = mocha.it
-const fs = require('fs')
-const path = require('path')
-const expect = require('chai').expect
-const yaml = require('js-yaml')
-const isUrl = require('is-url')
-const { URL } = require('url')
-const cleanDeep = require('clean-deep')
-const imageSize = require('image-size')
-const makeColorAccessible = require('make-color-accessible')
-const slugg = require('slugg')
-const grandfatheredDescriptions = require('../lib/grandfathered-descriptions')
-const grandfatheredLinks = require('../lib/grandfathered-links.js')
-const grandfatheredSlugs = require('../lib/grandfathered-small-icons')
+import categories from '../lib/app-categories.js'
+import { describe, it } from 'mocha'
+import fs from 'fs'
+import path from 'path'
+import { expect } from 'chai'
+import yaml from 'js-yaml'
+import isUrl from 'is-url'
+import { URL } from 'url'
+import cleanDeep from 'clean-deep'
+import imageSize from 'image-size'
+import makeColorAccessible from 'make-color-accessible'
+import slugg from 'slugg'
+import grandfatheredDescriptions from '../lib/grandfathered-descriptions.js'
+import grandfatheredLinks from '../lib/grandfathered-links.js'
+import grandfatheredSlugs from '../lib/grandfathered-small-icons.js'
+import { _dirname } from '../lib/dirname.js'
+
 const slugs = fs
-  .readdirSync(path.join(__dirname, '../apps'))
+  .readdirSync(path.join(_dirname(import.meta), '../apps'))
   .filter((filename) => {
     return fs
-      .statSync(path.join(__dirname, `../apps/${filename}`))
+      .statSync(path.join(_dirname(import.meta), `../apps/${filename}`))
       .isDirectory()
   })
 
@@ -30,7 +30,7 @@ describe('human-submitted app data', () => {
 
   slugs.forEach((slug) => {
     describe(slug, () => {
-      const basedir = path.join(__dirname, `../apps/${slug}`)
+      const basedir = path.join(_dirname(import.meta), `../apps/${slug}`)
       const yamlFile = `${slug}.yml`
       const yamlPath = path.join(basedir, yamlFile)
       const iconPath = path.join(basedir, `${slug}-icon.png`)
