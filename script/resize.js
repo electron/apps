@@ -1,10 +1,11 @@
-const sharp = require('sharp')
-const path = require('path')
-const fs = require('fs')
-const recursiveReadSync = require('recursive-readdir-sync')
-const imagemin = require('imagemin')
-const imageminPngquant = require('imagemin-pngquant')
-const yaml = require('js-yaml')
+import sharp from 'sharp'
+import path from 'path'
+import fs from 'fs'
+import recursiveReadSync from 'recursive-readdir-sync'
+import imagemin from 'imagemin'
+import imageminPngquant from 'imagemin-pngquant'
+import yaml from 'js-yaml'
+import { _dirname } from '../lib/dirname.js'
 
 async function resize(file, size) {
   const newFile = file.replace('.png', `-${size}.png`)
@@ -27,31 +28,35 @@ async function resize(file, size) {
 }
 
 async function main() {
-  const icons = recursiveReadSync(path.join(__dirname, '../apps')).filter(
-    (file) => file.match(/icon\.png/)
-  )
+  const icons = recursiveReadSync(
+    path.join(_dirname(import.meta), '../apps')
+  ).filter((file) => file.match(/icon\.png/))
 
   console.log(`Resizing ${icons.length} icons...`)
-  const resizes = icons
-    .reduce((acc, icon) => {
-      const iconName = path.basename(icon)
+  const resizes = icons.reduce((acc, icon) => {
+    const iconName = path.basename(icon)
 
-      // skip disabled app
-      const yamlFile = path.join(icon.replace('-icon.png', '.yml'))
-      const { disabled } = yaml.load(fs.readFileSync(yamlFile))
-      if (disabled) {
-        return acc
-      }
+    // skip disabled app
+    const yamlFile = path.join(icon.replace('-icon.png', '.yml'))
+    const { disabled } = yaml.load(fs.readFileSync(yamlFile))
+    if (disabled) {
+      return acc
+    }
 
-      return {
-        ...acc,
-        [iconName]: [resize(icon, 32), resize(icon, 64), resize(icon, 128), resize(icon, 256)]
-      }
-    }, {})
+    return {
+      ...acc,
+      [iconName]: [
+        resize(icon, 32),
+        resize(icon, 64),
+        resize(icon, 128),
+        resize(icon, 256),
+      ],
+    }
+  }, {})
 
   for (const icon in resizes) {
     const promises = await Promise.allSettled(Object.values(resizes[icon]))
-    const failed = promises.filter(p => p.status === 'rejected')
+    const failed = promises.filter((p) => p.status === 'rejected')
 
     if (failed.length > 0) {
       console.error(`🔴 Failed to resize icons for icon "${icon}"!`)
@@ -63,4 +68,4 @@ async function main() {
   }
 }
 
-main();
+main()
