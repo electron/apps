@@ -156,7 +156,7 @@
     ],
     "source": {
       "path": "apps/aether/aether-icon.png",
-      "revHash": "bf415f3c8b"
+      "revHash": "85d6e0f820"
     }
   },
   "afterlife": {
@@ -221,22 +221,6 @@
     "source": {
       "path": "apps/airtame/airtame-icon.png",
       "revHash": "eaf5f91fb5"
-    }
-  },
-  "aiting": {
-    "faintColorOnWhite": "rgba(92, 91, 83, 0.1)",
-    "goodColorOnBlack": "#C1D0BA",
-    "goodColorOnWhite": "#5C5B53",
-    "palette": [
-      "#c1d0ba",
-      "#242523",
-      "#5c5b53",
-      "#798076",
-      "#616464"
-    ],
-    "source": {
-      "path": "apps/aiting/aiting-icon.png",
-      "revHash": "094723e42d"
     }
   },
   "akiee": {
@@ -559,22 +543,6 @@
       "revHash": "b2822d9b1e"
     }
   },
-  "asarui": {
-    "faintColorOnWhite": "rgba(45, 46, 61, 0.1)",
-    "goodColorOnBlack": "#F7FAFA",
-    "goodColorOnWhite": "#2D2E3D",
-    "palette": [
-      "#2d2e3d",
-      "#f7fafa",
-      "#8e949e",
-      "#849ca4",
-      "#949ca4"
-    ],
-    "source": {
-      "path": "apps/asarui/asarui-icon.png",
-      "revHash": "1411554d02"
-    }
-  },
   "assessment-disaggregation": {
     "faintColorOnWhite": "rgba(76, 76, 76, 0.1)",
     "goodColorOnBlack": "#FAFAF9",
@@ -703,22 +671,6 @@
       "revHash": "e5ef550339"
     }
   },
-  "autoedit": {
-    "faintColorOnWhite": "rgba(199, 48, 48, 0.1)",
-    "goodColorOnBlack": "#B89295",
-    "goodColorOnWhite": "#C73030",
-    "palette": [
-      "#c6c2c2",
-      "#c73030",
-      "#2f2121",
-      "#752828",
-      "#b89295"
-    ],
-    "source": {
-      "path": "apps/autoedit/autoedit-icon.png",
-      "revHash": "3776ee701d"
-    }
-  },
   "avocode": {
     "faintColorOnWhite": "rgba(39, 129, 4, 0.1)",
     "goodColorOnBlack": "#42D807",
@@ -733,22 +685,6 @@
     "source": {
       "path": "apps/avocode/avocode-icon.png",
       "revHash": "781eb25756"
-    }
-  },
-  "aws-s3-backup": {
-    "faintColorOnWhite": "rgba(134, 25, 158, 0.1)",
-    "goodColorOnBlack": "#65E0F3",
-    "goodColorOnWhite": "#86199E",
-    "palette": [
-      "#5127a5",
-      "#65e0f3",
-      "#356fdc",
-      "#86199e",
-      "#d94e93"
-    ],
-    "source": {
-      "path": "apps/aws-s3-backup/aws-s3-backup-icon.png",
-      "revHash": "2ad20df992"
     }
   },
   "backlog": {
@@ -991,38 +927,6 @@
       "revHash": "7f4f26eb03"
     }
   },
-  "bitcrypt": {
-    "faintColorOnWhite": "rgba(59, 97, 152, 0.1)",
-    "goodColorOnBlack": "#3591DB",
-    "goodColorOnWhite": "#3B6198",
-    "palette": [
-      "#3591db",
-      "#22273f",
-      "#3b6198",
-      "#384c80",
-      "#4864ac"
-    ],
-    "source": {
-      "path": "apps/bitcrypt/bitcrypt-icon.png",
-      "revHash": "7a8c822ff5"
-    }
-  },
-  "bitshares-ui": {
-    "faintColorOnWhite": "rgba(3, 123, 162, 0.1)",
-    "goodColorOnBlack": "#04ACE4",
-    "goodColorOnWhite": "#037BA2",
-    "palette": [
-      "#04ace4",
-      "#04a4e0",
-      "#04acdc",
-      "#04b4e4",
-      "#04a4ec"
-    ],
-    "source": {
-      "path": "apps/bitshares-ui/bitshares-ui-icon.png",
-      "revHash": "f5c7780c2d"
-    }
-  },
   "blankup": {
     "faintColorOnWhite": "rgba(4, 116, 188, 0.1)",
     "goodColorOnBlack": "#0481D1",
@@ -1135,6 +1039,22 @@
       "revHash": "8e449a37b6"
     }
   },
+  "boxhero": {
+    "faintColorOnWhite": "rgba(76, 100, 252, 0.1)",
+    "goodColorOnBlack": "#4C78FC",
+    "goodColorOnWhite": "#4C64FC",
+    "palette": [
+      "#4c78fc",
+      "#4a84fc",
+      "#4c6cfc",
+      "#448cfc",
+      "#4c64fc"
+    ],
+    "source": {
+      "path": "apps/boxhero/boxhero-icon.png",
+      "revHash": "39a72aa177"
+    }
+  },
   "boxy-svg": {
     "faintColorOnWhite": "rgba(67, 103, 102, 0.1)",
     "goodColorOnBlack": "#FABC4D",
@@ -1181,22 +1101,6 @@
     "source": {
       "path": "apps/brisqi/brisqi-icon.png",
       "revHash": "1d964b0243"
-    }
-  },
-  "browser-dispatcher": {
-    "faintColorOnWhite": "rgba(51, 72, 80, 0.1)",
-    "goodColorOnBlack": "#2689AD",
-    "goodColorOnWhite": "#334850",
-    "palette": [
-      "#2689ad",
-      "#dee8eb",
-      "#192326",
-      "#334850",
-      "#8cc4d4"
-    ],
-    "source": {
-      "path": "apps/browser-dispatcher/browser-dispatcher-icon.png",
-      "revHash": "7480b314d9"
     }
   },
   "browserosaurus": {
@@ -1375,38 +1279,6 @@
       "revHash": "b328d92e2d"
     }
   },
-  "canvas-file-sync": {
-    "faintColorOnWhite": "rgba(59, 36, 4, 0.1)",
-    "goodColorOnBlack": "#EF901B",
-    "goodColorOnWhite": "#3B2404",
-    "palette": [
-      "#ef901b",
-      "#040404",
-      "#5a360c",
-      "#3b2404",
-      "#7c4c0c"
-    ],
-    "source": {
-      "path": "apps/canvas-file-sync/canvas-file-sync-icon.png",
-      "revHash": "91b6862d2c"
-    }
-  },
-  "caption": {
-    "faintColorOnWhite": "rgba(3, 122, 203, 0.1)",
-    "goodColorOnBlack": "#0497FB",
-    "goodColorOnWhite": "#037ACB",
-    "palette": [
-      "#0497fb",
-      "#f8fafb",
-      "#04b4fb",
-      "#5ebdfa",
-      "#7cccfc"
-    ],
-    "source": {
-      "path": "apps/caption/caption-icon.png",
-      "revHash": "66fa201949"
-    }
-  },
   "caption-pro": {
     "faintColorOnWhite": "rgba(150, 64, 240, 0.1)",
     "goodColorOnBlack": "#C489FC",
@@ -1535,38 +1407,6 @@
       "revHash": "3e702e6a08"
     }
   },
-  "cemui": {
-    "faintColorOnWhite": "rgba(3, 125, 149, 0.1)",
-    "goodColorOnBlack": "#04ACCC",
-    "goodColorOnWhite": "#037D95",
-    "palette": [
-      "#a6a6a6",
-      "#04accc",
-      "#e6e6e6",
-      "#bbd7dd",
-      "#62c9dc"
-    ],
-    "source": {
-      "path": "apps/cemui/cemui-icon.png",
-      "revHash": "c837c76094"
-    }
-  },
-  "cerebro": {
-    "faintColorOnWhite": "rgba(68, 57, 90, 0.1)",
-    "goodColorOnBlack": "#986AEB",
-    "goodColorOnWhite": "#44395A",
-    "palette": [
-      "#f8f7f9",
-      "#44395a",
-      "#986aeb",
-      "#747474",
-      "#7c7c7c"
-    ],
-    "source": {
-      "path": "apps/cerebro/cerebro-icon.png",
-      "revHash": "324570120b"
-    }
-  },
   "chatwork": {
     "faintColorOnWhite": "rgba(55, 55, 47, 0.1)",
     "goodColorOnBlack": "#F74435",
@@ -1581,22 +1421,6 @@
     "source": {
       "path": "apps/chatwork/chatwork-icon.png",
       "revHash": "f7de22ebef"
-    }
-  },
-  "checksum": {
-    "faintColorOnWhite": "rgba(139, 115, 13, 0.1)",
-    "goodColorOnBlack": "#EAC31A",
-    "goodColorOnWhite": "#8B730D",
-    "palette": [
-      "#6b7aab",
-      "#eac31a",
-      "#c3cbc3",
-      "#9cacbc",
-      "#8c8c84"
-    ],
-    "source": {
-      "path": "apps/checksum/checksum-icon.png",
-      "revHash": "5d9fff7978"
     }
   },
   "chronobreak": {
@@ -1693,22 +1517,6 @@
     "source": {
       "path": "apps/clipboard-manager-electron/clipboard-manager-electron-icon.png",
       "revHash": "84a429af99"
-    }
-  },
-  "clipboardmemo": {
-    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
-    "goodColorOnBlack": "#FFF",
-    "goodColorOnWhite": "#080404",
-    "palette": [
-      "#040404",
-      "#080404",
-      "#080404",
-      "#080404",
-      "#080404"
-    ],
-    "source": {
-      "path": "apps/clipboardmemo/clipboardmemo-icon.png",
-      "revHash": "66735ab270"
     }
   },
   "clipper": {
@@ -1835,7 +1643,7 @@
       "#ecb474"
     ],
     "source": {
-      "path": "apps\\clovery\\clovery-icon.png",
+      "path": "apps/clovery/clovery-icon.png",
       "revHash": "bb2262176c"
     }
   },
@@ -1967,22 +1775,6 @@
       "revHash": "0ccd8f2f54"
     }
   },
-  "colon": {
-    "faintColorOnWhite": "rgba(129, 76, 4, 0.1)",
-    "goodColorOnBlack": "#FB9304",
-    "goodColorOnWhite": "#814C04",
-    "palette": [
-      "#fb9304",
-      "#130b04",
-      "#562e04",
-      "#814c04",
-      "#8c4c04"
-    ],
-    "source": {
-      "path": "apps/colon/colon-icon.png",
-      "revHash": "8259a371cd"
-    }
-  },
   "color-ramp-formulator": {
     "faintColorOnWhite": "rgba(5, 48, 72, 0.1)",
     "goodColorOnBlack": "#FC0404",
@@ -2093,22 +1885,6 @@
     "source": {
       "path": "apps/compress/compress-icon.png",
       "revHash": "ee4b208a38"
-    }
-  },
-  "concats": {
-    "faintColorOnWhite": "rgba(163, 90, 44, 0.1)",
-    "goodColorOnBlack": "#D1A67B",
-    "goodColorOnWhite": "#A35A2C",
-    "palette": [
-      "#d1a67b",
-      "#2f2e2d",
-      "#a35a2c",
-      "#93846d",
-      "#907c74"
-    ],
-    "source": {
-      "path": "apps/concats/concats-icon.png",
-      "revHash": "a256a300aa"
     }
   },
   "container-ps": {
@@ -2319,22 +2095,6 @@
       "revHash": "e6808f4b50"
     }
   },
-  "crypto-bot": {
-    "faintColorOnWhite": "rgba(88, 64, 248, 0.1)",
-    "goodColorOnBlack": "#B4A9FC",
-    "goodColorOnWhite": "#5840F8",
-    "palette": [
-      "#f5f5fc",
-      "#9e92f5",
-      "#b4a9fc",
-      "#beb7fc",
-      "#ccc4fc"
-    ],
-    "source": {
-      "path": "apps/crypto-bot/crypto-bot-icon.png",
-      "revHash": "917ef5299d"
-    }
-  },
   "cryptoarm-gost": {
     "faintColorOnWhite": "rgba(188, 60, 28, 0.1)",
     "goodColorOnBlack": "#E4AC8C",
@@ -2349,38 +2109,6 @@
     "source": {
       "path": "apps/cryptoarm-gost/cryptoarm-gost-icon.png",
       "revHash": "489051a3b8"
-    }
-  },
-  "cryptobar": {
-    "faintColorOnWhite": "rgba(140, 114, 2, 0.1)",
-    "goodColorOnBlack": "#FCDB4B",
-    "goodColorOnWhite": "#8C7202",
-    "palette": [
-      "#f9c12a",
-      "#cd9c14",
-      "#fcdb4b",
-      "#dcac17",
-      "#fcd43c"
-    ],
-    "source": {
-      "path": "apps/cryptobar/cryptobar-icon.png",
-      "revHash": "f96a913634"
-    }
-  },
-  "cryptoseed": {
-    "faintColorOnWhite": "rgba(12, 12, 12, 0.1)",
-    "goodColorOnBlack": "#F6F6F6",
-    "goodColorOnWhite": "#0C0C0C",
-    "palette": [
-      "#0c0c0c",
-      "#f6f6f6",
-      "#747474",
-      "#848484",
-      "#7c7c7c"
-    ],
-    "source": {
-      "path": "apps/cryptoseed/cryptoseed-icon.png",
-      "revHash": "cee94e10d1"
     }
   },
   "csbooks": {
@@ -2527,22 +2255,6 @@
       "revHash": "394871e3b0"
     }
   },
-  "d-tools": {
-    "faintColorOnWhite": "rgba(46, 100, 155, 0.1)",
-    "goodColorOnBlack": "#9CCCF4",
-    "goodColorOnWhite": "#2E649B",
-    "palette": [
-      "#4193df",
-      "#f8f9fa",
-      "#89aed3",
-      "#2e649b",
-      "#9cccf4"
-    ],
-    "source": {
-      "path": "apps/d-tools/d-tools-icon.png",
-      "revHash": "8e93ec8c8f"
-    }
-  },
   "danger-crew": {
     "faintColorOnWhite": "rgba(97, 65, 56, 0.1)",
     "goodColorOnBlack": "#E4ACAC",
@@ -2637,22 +2349,6 @@
     "source": {
       "path": "apps/data-pixels-playground/data-pixels-playground-icon.png",
       "revHash": "0f1f16b1c8"
-    }
-  },
-  "data-store": {
-    "faintColorOnWhite": "rgba(3, 126, 110, 0.1)",
-    "goodColorOnBlack": "#04BCA4",
-    "goodColorOnWhite": "#037E6E",
-    "palette": [
-      "#e2f3f3",
-      "#04bca4",
-      "#6bd9c9",
-      "#39ccbc",
-      "#91e0d8"
-    ],
-    "source": {
-      "path": "apps/data-store/data-store-icon.png",
-      "revHash": "218691ee82"
     }
   },
   "datazenit": {
@@ -2943,22 +2639,6 @@
       "revHash": "ff4a9a2a84"
     }
   },
-  "devrantron": {
-    "faintColorOnWhite": "rgba(197, 69, 5, 0.1)",
-    "goodColorOnBlack": "#FCAC84",
-    "goodColorOnWhite": "#C54505",
-    "palette": [
-      "#f79861",
-      "#d55564",
-      "#fcc2a0",
-      "#e87864",
-      "#fcac84"
-    ],
-    "source": {
-      "path": "apps/devrantron/devrantron-icon.png",
-      "revHash": "406c0e6d31"
-    }
-  },
   "devsession-gui-starter": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#818181",
@@ -2973,22 +2653,6 @@
     "source": {
       "path": "apps/devsession-gui-starter/devsession-gui-starter-icon.png",
       "revHash": "ba3cf6a0be"
-    }
-  },
-  "dext": {
-    "faintColorOnWhite": "rgba(18, 108, 130, 0.1)",
-    "goodColorOnBlack": "#06AAD3",
-    "goodColorOnWhite": "#126C82",
-    "palette": [
-      "#1b0c3c",
-      "#06aad3",
-      "#126c82",
-      "#164c7b",
-      "#246498"
-    ],
-    "source": {
-      "path": "apps/dext/dext-icon.png",
-      "revHash": "46518a36a8"
     }
   },
   "dict": {
@@ -3039,22 +2703,6 @@
       "revHash": "415b1aea5c"
     }
   },
-  "dipp": {
-    "faintColorOnWhite": "rgba(49, 125, 119, 0.1)",
-    "goodColorOnBlack": "#44ACA4",
-    "goodColorOnWhite": "#317D77",
-    "palette": [
-      "#fbfbfb",
-      "#44aca4",
-      "#82c8c2",
-      "#61bcb4",
-      "#b8dfdd"
-    ],
-    "source": {
-      "path": "apps/dipp/dipp-icon.png",
-      "revHash": "843ab027ba"
-    }
-  },
   "discord": {
     "faintColorOnWhite": "rgba(92, 100, 244, 0.1)",
     "goodColorOnBlack": "#ACB4FC",
@@ -3069,6 +2717,22 @@
     "source": {
       "path": "apps/discord/discord-icon.png",
       "revHash": "7ada64034d"
+    }
+  },
+  "ditto": {
+    "faintColorOnWhite": "rgba(84, 108, 124, 0.1)",
+    "goodColorOnBlack": "#B49434",
+    "goodColorOnWhite": "#546C7C",
+    "palette": [
+      "#e5e9de",
+      "#080808",
+      "#546c7c",
+      "#939898",
+      "#b49434"
+    ],
+    "source": {
+      "path": "apps/ditto/ditto-icon.png",
+      "revHash": "dff7aa610d"
     }
   },
   "dixa": {
@@ -3101,22 +2765,6 @@
     "source": {
       "path": "apps/dn-tool-container/dn-tool-container-icon.png",
       "revHash": "ba3990fbc5"
-    }
-  },
-  "dockstation": {
-    "faintColorOnWhite": "rgba(84, 108, 124, 0.1)",
-    "goodColorOnBlack": "#C1E5F6",
-    "goodColorOnWhite": "#546C7C",
-    "palette": [
-      "#c1e5f6",
-      "#29a6df",
-      "#263136",
-      "#6abbe1",
-      "#546c7c"
-    ],
-    "source": {
-      "path": "apps/dockstation/dockstation-icon.png",
-      "revHash": "e411640c32"
     }
   },
   "doki-doki-mod-manager": {
@@ -3167,22 +2815,6 @@
       "revHash": "65d3c3a8b9"
     }
   },
-  "donut": {
-    "faintColorOnWhite": "rgba(124, 100, 52, 0.1)",
-    "goodColorOnBlack": "#F3B33B",
-    "goodColorOnWhite": "#7C6434",
-    "palette": [
-      "#ce4987",
-      "#f3b33b",
-      "#f9ecf3",
-      "#363435",
-      "#7c6434"
-    ],
-    "source": {
-      "path": "apps/donut/donut-icon.png",
-      "revHash": "f3d568553b"
-    }
-  },
   "dotgrid": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#F2F2F2",
@@ -3197,22 +2829,6 @@
     "source": {
       "path": "apps/dotgrid/dotgrid-icon.png",
       "revHash": "2f0b69180f"
-    }
-  },
-  "downline": {
-    "faintColorOnWhite": "rgba(15, 106, 252, 0.1)",
-    "goodColorOnBlack": "#2C7CFC",
-    "goodColorOnWhite": "#0F6AFC",
-    "palette": [
-      "#2c7cfc",
-      "#f9fafc",
-      "#94bcfc",
-      "#80aefc",
-      "#9cbcfc"
-    ],
-    "source": {
-      "path": "apps/downline/downline-icon.png",
-      "revHash": "7e2c042381"
     }
   },
   "drawtify-designer": {
@@ -3279,38 +2895,6 @@
       "revHash": "d67c96ca0f"
     }
   },
-  "e-mage": {
-    "faintColorOnWhite": "rgba(147, 108, 45, 0.1)",
-    "goodColorOnBlack": "#F9C10E",
-    "goodColorOnWhite": "#936C2D",
-    "palette": [
-      "#9b8ed3",
-      "#f9c10e",
-      "#70496d",
-      "#ad8120",
-      "#936c2d"
-    ],
-    "source": {
-      "path": "apps/e-mage/e-mage-icon.png",
-      "revHash": "c63a7b1419"
-    }
-  },
-  "e-tools": {
-    "faintColorOnWhite": "rgba(28, 115, 187, 0.1)",
-    "goodColorOnBlack": "#23ACE4",
-    "goodColorOnWhite": "#1C73BB",
-    "palette": [
-      "#23ace4",
-      "#1c73bb",
-      "#185f8c",
-      "#237cc8",
-      "#1f83b0"
-    ],
-    "source": {
-      "path": "apps/e-tools/e-tools-icon.png",
-      "revHash": "719bb54049"
-    }
-  },
   "eagle": {
     "faintColorOnWhite": "rgba(2, 123, 145, 0.1)",
     "goodColorOnBlack": "#05D6FB",
@@ -3341,22 +2925,6 @@
     "source": {
       "path": "apps/eagluet/eagluet-icon.png",
       "revHash": "e0688544f1"
-    }
-  },
-  "easytongue": {
-    "faintColorOnWhite": "rgba(149, 95, 2, 0.1)",
-    "goodColorOnBlack": "#FCB845",
-    "goodColorOnWhite": "#955F02",
-    "palette": [
-      "#fcb845",
-      "#fcfbf6",
-      "#fcdc64",
-      "#fce2a8",
-      "#fccc8c"
-    ],
-    "source": {
-      "path": "apps/easytongue/easytongue-icon.png",
-      "revHash": "a9e6d53e27"
     }
   },
   "ebtcalc": {
@@ -3487,22 +3055,6 @@
       "revHash": "47f143c423"
     }
   },
-  "elite-journal": {
-    "faintColorOnWhite": "rgba(72, 59, 73, 0.1)",
-    "goodColorOnBlack": "#FA9C4E",
-    "goodColorOnWhite": "#483B49",
-    "palette": [
-      "#f4f5f7",
-      "#483b49",
-      "#fa9c4e",
-      "#7e9acb",
-      "#99aac9"
-    ],
-    "source": {
-      "path": "apps/elite-journal/elite-journal-icon.png",
-      "revHash": "4baff20a1f"
-    }
-  },
   "email-securely-app": {
     "faintColorOnWhite": "rgba(23, 133, 114, 0.1)",
     "goodColorOnBlack": "#1CA48C",
@@ -3581,22 +3133,6 @@
     "source": {
       "path": "apps/erin/erin-icon.png",
       "revHash": "2977488386"
-    }
-  },
-  "esteem-surfer": {
-    "faintColorOnWhite": "rgba(29, 84, 156, 0.1)",
-    "goodColorOnBlack": "#63BBFC",
-    "goodColorOnWhite": "#1D549C",
-    "palette": [
-      "#fbfbfb",
-      "#1d549c",
-      "#63bbfc",
-      "#92b6da",
-      "#7c94c4"
-    ],
-    "source": {
-      "path": "apps/esteem-surfer/esteem-surfer-icon.png",
-      "revHash": "2f98866237"
     }
   },
   "etcd-manager": {
@@ -3839,22 +3375,6 @@
       "revHash": "e6dc9a5185"
     }
   },
-  "ffftp": {
-    "faintColorOnWhite": "rgba(17, 33, 64, 0.1)",
-    "goodColorOnBlack": "#748494",
-    "goodColorOnWhite": "#112140",
-    "palette": [
-      "#f8f8f8",
-      "#112140",
-      "#87949c",
-      "#848c9c",
-      "#748494"
-    ],
-    "source": {
-      "path": "apps/ffftp/ffftp-icon.png",
-      "revHash": "49e5536e5f"
-    }
-  },
   "figma": {
     "faintColorOnWhite": "rgba(68, 33, 86, 0.1)",
     "goodColorOnBlack": "#09AF70",
@@ -3917,22 +3437,6 @@
     "source": {
       "path": "apps/find-better-questions/find-better-questions-icon.png",
       "revHash": "e1a4b17e2b"
-    }
-  },
-  "firebase-admin": {
-    "faintColorOnWhite": "rgba(145, 105, 2, 0.1)",
-    "goodColorOnBlack": "#FCC535",
-    "goodColorOnWhite": "#916902",
-    "palette": [
-      "#fcc535",
-      "#fcfaf6",
-      "#f4840c",
-      "#fcdc7f",
-      "#fcd464"
-    ],
-    "source": {
-      "path": "apps/firebase-admin/firebase-admin-icon.png",
-      "revHash": "9870343b63"
     }
   },
   "fireman": {
@@ -4045,38 +3549,6 @@
     "source": {
       "path": "apps/fluent-reader/fluent-reader-icon.png",
       "revHash": "4672cbe2c3"
-    }
-  },
-  "fnew-desktop": {
-    "faintColorOnWhite": "rgba(17, 75, 10, 0.1)",
-    "goodColorOnBlack": "#F9BA0A",
-    "goodColorOnWhite": "#114B0A",
-    "palette": [
-      "#fbfafa",
-      "#114b0a",
-      "#7c5d1d",
-      "#f9ba0a",
-      "#918f8f"
-    ],
-    "source": {
-      "path": "apps/fnew-desktop/fnew-desktop-icon.png",
-      "revHash": "1820d98aa3"
-    }
-  },
-  "foco": {
-    "faintColorOnWhite": "rgba(29, 125, 141, 0.1)",
-    "goodColorOnBlack": "#28AEC4",
-    "goodColorOnWhite": "#1D7D8D",
-    "palette": [
-      "#28aec4",
-      "#f8fafb",
-      "#4c9dcc",
-      "#79c0d9",
-      "#5cccd4"
-    ],
-    "source": {
-      "path": "apps/foco/foco-icon.png",
-      "revHash": "b0f20456e7"
     }
   },
   "focused-task": {
@@ -4205,22 +3677,6 @@
     "source": {
       "path": "apps/free-chess-club/free-chess-club-icon.png",
       "revHash": "51a1a04371"
-    }
-  },
-  "freeman": {
-    "faintColorOnWhite": "rgba(32, 32, 48, 0.1)",
-    "goodColorOnBlack": "#EAEAF7",
-    "goodColorOnWhite": "#202030",
-    "palette": [
-      "#eaeaf7",
-      "#202030",
-      "#6c6c71",
-      "#64646a",
-      "#747474"
-    ],
-    "source": {
-      "path": "apps/freeman/freeman-icon.png",
-      "revHash": "a81321a93e"
     }
   },
   "freeter": {
@@ -4384,35 +3840,19 @@
     }
   },
   "geniemoji": {
-    "faintColorOnWhite": "rgba(48, 122, 179, 0.1)",
-    "goodColorOnBlack": "#4AA6CF",
-    "goodColorOnWhite": "#307AB3",
+    "faintColorOnWhite": "rgba(51, 61, 71, 0.1)",
+    "goodColorOnBlack": "#F5C607",
+    "goodColorOnWhite": "#333D47",
     "palette": [
-      "#242727",
-      "#4aa6cf",
-      "#cebb8e",
-      "#307ab3",
-      "#6d7567"
+      "#879af0",
+      "#333d47",
+      "#f5c607",
+      "#f261dc",
+      "#e8f3c0"
     ],
     "source": {
       "path": "apps/geniemoji/geniemoji-icon.png",
-      "revHash": "baf51a6efa"
-    }
-  },
-  "genotify": {
-    "faintColorOnWhite": "rgba(4, 86, 84, 0.1)",
-    "goodColorOnBlack": "#04867B",
-    "goodColorOnWhite": "#045654",
-    "palette": [
-      "#040c04",
-      "#04867b",
-      "#045654",
-      "#04433b",
-      "#042f2c"
-    ],
-    "source": {
-      "path": "apps/genotify/genotify-icon.png",
-      "revHash": "4edb723290"
+      "revHash": "5c9c02c2a6"
     }
   },
   "geppetto": {
@@ -4477,22 +3917,6 @@
     "source": {
       "path": "apps/gibu/gibu-icon.png",
       "revHash": "152cb74fff"
-    }
-  },
-  "gifbar": {
-    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
-    "goodColorOnBlack": "#FFF",
-    "goodColorOnWhite": "#040404",
-    "palette": [
-      "#040404",
-      "#646464",
-      "#4c4c4c",
-      "#303030",
-      "#444444"
-    ],
-    "source": {
-      "path": "apps/gifbar/gifbar-icon.png",
-      "revHash": "e094a6f7e3"
     }
   },
   "git-it": {
@@ -4655,22 +4079,6 @@
       "revHash": "5acdc5986f"
     }
   },
-  "glass-browser": {
-    "faintColorOnWhite": "rgba(13, 79, 181, 0.1)",
-    "goodColorOnBlack": "#749CD4",
-    "goodColorOnWhite": "#0D4FB5",
-    "palette": [
-      "#f3f3fb",
-      "#0d4fb5",
-      "#749cd4",
-      "#7c94bc",
-      "#8c9cbc"
-    ],
-    "source": {
-      "path": "apps/glass-browser/glass-browser-icon.png",
-      "revHash": "b444fa2d3e"
-    }
-  },
   "glue": {
     "faintColorOnWhite": "rgba(33, 34, 36, 0.1)",
     "goodColorOnBlack": "#35AAC2",
@@ -4719,22 +4127,6 @@
       "revHash": "c454a4cfba"
     }
   },
-  "golem": {
-    "faintColorOnWhite": "rgba(36, 52, 76, 0.1)",
-    "goodColorOnBlack": "#848C9C",
-    "goodColorOnWhite": "#24344C",
-    "palette": [
-      "#f9f9fa",
-      "#24344c",
-      "#848c9c",
-      "#747c8c",
-      "#5f6777"
-    ],
-    "source": {
-      "path": "apps/golem/golem-icon.png",
-      "revHash": "c2407a50a7"
-    }
-  },
   "google-assistant-unofficial-desktop-client": {
     "faintColorOnWhite": "rgba(15, 96, 237, 0.1)",
     "goodColorOnBlack": "#4484F3",
@@ -4765,22 +4157,6 @@
     "source": {
       "path": "apps/google-chat-electron/google-chat-electron-icon.png",
       "revHash": "b197b6b980"
-    }
-  },
-  "google-play-music-desktop-player": {
-    "faintColorOnWhite": "rgba(136, 108, 2, 0.1)",
-    "goodColorOnBlack": "#FCD027",
-    "goodColorOnWhite": "#886C02",
-    "palette": [
-      "#f5681c",
-      "#fcd027",
-      "#fbfbfb",
-      "#fba60e",
-      "#b48954"
-    ],
-    "source": {
-      "path": "apps/google-play-music-desktop-player/google-play-music-desktop-player-icon.png",
-      "revHash": "5f0ec8d3cc"
     }
   },
   "gordie": {
@@ -4943,22 +4319,6 @@
       "revHash": "80df03ccba"
     }
   },
-  "groupme": {
-    "faintColorOnWhite": "rgba(4, 116, 140, 0.1)",
-    "goodColorOnBlack": "#0ADCFC",
-    "goodColorOnWhite": "#04748C",
-    "palette": [
-      "#05abeb",
-      "#f1f8fb",
-      "#0adcfc",
-      "#04445a",
-      "#04748c"
-    ],
-    "source": {
-      "path": "apps/groupme/groupme-icon.png",
-      "revHash": "cc5174e725"
-    }
-  },
   "gsubs": {
     "faintColorOnWhite": "rgba(114, 59, 206, 0.1)",
     "goodColorOnBlack": "#BCA2E8",
@@ -5023,38 +4383,6 @@
       "revHash": "9620664d26"
     }
   },
-  "hastyheroes": {
-    "faintColorOnWhite": "rgba(140, 93, 211, 0.1)",
-    "goodColorOnBlack": "#8C5DD3",
-    "goodColorOnWhite": "#8C5DD3",
-    "palette": [
-      "#64bb74",
-      "#fafafa",
-      "#8c5dd3",
-      "#a4d4b4",
-      "#9cd4a4"
-    ],
-    "source": {
-      "path": "apps/hastyheroes/hastyheroes-icon.png",
-      "revHash": "ee6f0a7e8a"
-    }
-  },
-  "hawkeye": {
-    "faintColorOnWhite": "rgba(24, 127, 127, 0.1)",
-    "goodColorOnBlack": "#21AFAF",
-    "goodColorOnWhite": "#187F7F",
-    "palette": [
-      "#dfdfdf",
-      "#21afaf",
-      "#7ecbc4",
-      "#868181",
-      "#9c918c"
-    ],
-    "source": {
-      "path": "apps/hawkeye/hawkeye-icon.png",
-      "revHash": "6e3bb36f69"
-    }
-  },
   "hbbatchbeast": {
     "faintColorOnWhite": "rgba(41, 50, 54, 0.1)",
     "goodColorOnBlack": "#CCECF9",
@@ -5069,22 +4397,6 @@
     "source": {
       "path": "apps/hbbatchbeast/hbbatchbeast-icon.png",
       "revHash": "09c75e3321"
-    }
-  },
-  "headlines": {
-    "faintColorOnWhite": "rgba(33, 63, 146, 0.1)",
-    "goodColorOnBlack": "#8494C4",
-    "goodColorOnWhite": "#213F92",
-    "palette": [
-      "#213f92",
-      "#e8e9ea",
-      "#8c9cc4",
-      "#8494c4",
-      "#949cc4"
-    ],
-    "source": {
-      "path": "apps/headlines/headlines-icon.png",
-      "revHash": "869492ea23"
     }
   },
   "heads-tails": {
@@ -5215,22 +4527,6 @@
       "revHash": "50822ade6d"
     }
   },
-  "hostsdock": {
-    "faintColorOnWhite": "rgba(228, 36, 44, 0.1)",
-    "goodColorOnBlack": "#F48C94",
-    "goodColorOnWhite": "#E4242C",
-    "palette": [
-      "#fbfafa",
-      "#e4242c",
-      "#f1787c",
-      "#f49494",
-      "#f48c94"
-    ],
-    "source": {
-      "path": "apps/hostsdock/hostsdock-icon.png",
-      "revHash": "12a87013d1"
-    }
-  },
   "hozz": {
     "faintColorOnWhite": "rgba(3, 126, 39, 0.1)",
     "goodColorOnBlack": "#05D341",
@@ -5277,22 +4573,6 @@
     "source": {
       "path": "apps/https-checker/https-checker-icon.png",
       "revHash": "792772ff83"
-    }
-  },
-  "hueify": {
-    "faintColorOnWhite": "rgba(55, 113, 113, 0.1)",
-    "goodColorOnBlack": "#CFD749",
-    "goodColorOnWhite": "#377171",
-    "palette": [
-      "#377171",
-      "#dec8c4",
-      "#d44dc3",
-      "#cfd749",
-      "#74dbd2"
-    ],
-    "source": {
-      "path": "apps/hueify/hueify-icon.png",
-      "revHash": "109b7ed6a9"
     }
   },
   "hyper": {
@@ -5679,22 +4959,6 @@
       "revHash": "8ef4a9bfbc"
     }
   },
-  "ironnode": {
-    "faintColorOnWhite": "rgba(59, 110, 176, 0.1)",
-    "goodColorOnBlack": "#54B8E0",
-    "goodColorOnWhite": "#3B6EB0",
-    "palette": [
-      "#447cc4",
-      "#151616",
-      "#f3f3f3",
-      "#3b6eb0",
-      "#54b8e0"
-    ],
-    "source": {
-      "path": "apps/ironnode/ironnode-icon.png",
-      "revHash": "2091120c46"
-    }
-  },
   "istrolid": {
     "faintColorOnWhite": "rgba(62, 95, 113, 0.1)",
     "goodColorOnBlack": "#517D95",
@@ -5727,22 +4991,6 @@
       "revHash": "175935d68c"
     }
   },
-  "j": {
-    "faintColorOnWhite": "rgba(60, 60, 60, 0.1)",
-    "goodColorOnBlack": "#E9E9E9",
-    "goodColorOnWhite": "#3C3C3C",
-    "palette": [
-      "#3c3c3c",
-      "#e9e9e9",
-      "#828282",
-      "#9c9c9c",
-      "#a4a4a4"
-    ],
-    "source": {
-      "path": "apps/j/j-icon.png",
-      "revHash": "42e452f44b"
-    }
-  },
   "jabra-direct": {
     "faintColorOnWhite": "rgba(42, 39, 8, 0.1)",
     "goodColorOnBlack": "#FADB04",
@@ -5757,22 +5005,6 @@
     "source": {
       "path": "apps/jabra-direct/jabra-direct-icon.png",
       "revHash": "4e7d6a1a2d"
-    }
-  },
-  "james": {
-    "faintColorOnWhite": "rgba(212, 44, 60, 0.1)",
-    "goodColorOnBlack": "#D43C94",
-    "goodColorOnWhite": "#D42C3C",
-    "palette": [
-      "#d42c3c",
-      "#fbfbfb",
-      "#d484cc",
-      "#e07c7a",
-      "#d43c94"
-    ],
-    "source": {
-      "path": "apps/james/james-icon.png",
-      "revHash": "9cca67c4e1"
     }
   },
   "jamovi": {
@@ -5935,38 +5167,6 @@
       "revHash": "d617d15a09"
     }
   },
-  "kakapo": {
-    "faintColorOnWhite": "rgba(36, 29, 14, 0.1)",
-    "goodColorOnBlack": "#CDAD67",
-    "goodColorOnWhite": "#241D0E",
-    "palette": [
-      "#806c41",
-      "#e3ded0",
-      "#241d0e",
-      "#cdad67",
-      "#b7b6b4"
-    ],
-    "source": {
-      "path": "apps/kakapo/kakapo-icon.png",
-      "revHash": "39b6c8640a"
-    }
-  },
-  "kaku": {
-    "faintColorOnWhite": "rgba(120, 71, 86, 0.1)",
-    "goodColorOnBlack": "#D4887A",
-    "goodColorOnWhite": "#784756",
-    "palette": [
-      "#784756",
-      "#f7eef2",
-      "#bb86c4",
-      "#d4887a",
-      "#301e2a"
-    ],
-    "source": {
-      "path": "apps/kaku/kaku-icon.png",
-      "revHash": "907468cc1e"
-    }
-  },
   "kalk": {
     "faintColorOnWhite": "rgba(4, 4, 252, 0.1)",
     "goodColorOnBlack": "#FC9C04",
@@ -6095,22 +5295,6 @@
       "revHash": "af031d93d6"
     }
   },
-  "keeper": {
-    "faintColorOnWhite": "rgba(35, 59, 64, 0.1)",
-    "goodColorOnBlack": "#F5BEC8",
-    "goodColorOnWhite": "#233B40",
-    "palette": [
-      "#f5bec8",
-      "#233b40",
-      "#75676b",
-      "#849498",
-      "#848c8c"
-    ],
-    "source": {
-      "path": "apps/keeper/keeper-icon.png",
-      "revHash": "e226de390f"
-    }
-  },
   "keeper-password-manager-digital-vault": {
     "faintColorOnWhite": "rgba(132, 100, 4, 0.1)",
     "goodColorOnBlack": "#F9C204",
@@ -6221,22 +5405,6 @@
     "source": {
       "path": "apps/kobiton/kobiton-icon.png",
       "revHash": "2125e865fe"
-    }
-  },
-  "kongdash": {
-    "faintColorOnWhite": "rgba(92, 92, 92, 0.1)",
-    "goodColorOnBlack": "#2E8EE0",
-    "goodColorOnWhite": "#5C5C5C",
-    "palette": [
-      "#2e8ee0",
-      "#f7f9fb",
-      "#50a4e1",
-      "#5c5c5c",
-      "#9c9c9c"
-    ],
-    "source": {
-      "path": "apps/kongdash/kongdash-icon.png",
-      "revHash": "f3cec9a187"
     }
   },
   "kube-dev-dashboard": {
@@ -6447,22 +5615,6 @@
       "revHash": "aba64be85b"
     }
   },
-  "lifeboat": {
-    "faintColorOnWhite": "rgba(203, 35, 45, 0.1)",
-    "goodColorOnBlack": "#5CCCD4",
-    "goodColorOnWhite": "#CB232D",
-    "palette": [
-      "#559aa0",
-      "#cb232d",
-      "#f6f4f4",
-      "#cc5454",
-      "#5cccd4"
-    ],
-    "source": {
-      "path": "apps/lifeboat/lifeboat-icon.png",
-      "revHash": "91e3022f09"
-    }
-  },
   "light-table": {
     "faintColorOnWhite": "rgba(4, 52, 100, 0.1)",
     "goodColorOnBlack": "#187CAE",
@@ -6527,22 +5679,6 @@
       "revHash": "fecd234b46"
     }
   },
-  "ling": {
-    "faintColorOnWhite": "rgba(5, 100, 172, 0.1)",
-    "goodColorOnBlack": "#6CA2CA",
-    "goodColorOnWhite": "#0564AC",
-    "palette": [
-      "#0564ac",
-      "#fafafb",
-      "#97bcd7",
-      "#6ca2ca",
-      "#acc4dc"
-    ],
-    "source": {
-      "path": "apps/ling/ling-icon.png",
-      "revHash": "afb6e95043"
-    }
-  },
   "linked": {
     "faintColorOnWhite": "rgba(176, 28, 74, 0.1)",
     "goodColorOnBlack": "#DE2F66",
@@ -6573,22 +5709,6 @@
     "source": {
       "path": "apps/lisk-hub/lisk-hub-icon.png",
       "revHash": "4a21043800"
-    }
-  },
-  "local-browser": {
-    "faintColorOnWhite": "rgba(76, 14, 4, 0.1)",
-    "goodColorOnBlack": "#FB3414",
-    "goodColorOnWhite": "#4C0E04",
-    "palette": [
-      "#230404",
-      "#fb3414",
-      "#781909",
-      "#a7230c",
-      "#4c0e04"
-    ],
-    "source": {
-      "path": "apps/local-browser/local-browser-icon.png",
-      "revHash": "5038ecd384"
     }
   },
   "local-by-flywheel": {
@@ -6685,22 +5805,6 @@
     "source": {
       "path": "apps/losslesscut/losslesscut-icon.png",
       "revHash": "6d37aeb466"
-    }
-  },
-  "lps-studio": {
-    "faintColorOnWhite": "rgba(32, 113, 131, 0.1)",
-    "goodColorOnBlack": "#B96F10",
-    "goodColorOnWhite": "#207183",
-    "palette": [
-      "#b96f10",
-      "#207183",
-      "#f7f8f8",
-      "#686c40",
-      "#4c5c3c"
-    ],
-    "source": {
-      "path": "apps/lps-studio/lps-studio-icon.png",
-      "revHash": "9829b04ecc"
     }
   },
   "lsdeer": {
@@ -6815,22 +5919,6 @@
       "revHash": "8227461064"
     }
   },
-  "manta": {
-    "faintColorOnWhite": "rgba(134, 77, 197, 0.1)",
-    "goodColorOnBlack": "#CBAFE4",
-    "goodColorOnWhite": "#864DC5",
-    "palette": [
-      "#864dc5",
-      "#fbfbfb",
-      "#cbafe4",
-      "#d4d0dd",
-      "#ac9cdc"
-    ],
-    "source": {
-      "path": "apps/manta/manta-icon.png",
-      "revHash": "48a3eaca9a"
-    }
-  },
   "markdown-c3": {
     "faintColorOnWhite": "rgba(3, 130, 117, 0.1)",
     "goodColorOnBlack": "#05E3CC",
@@ -6845,22 +5933,6 @@
     "source": {
       "path": "apps/markdown-c3/markdown-c3-icon.png",
       "revHash": "e4ffb87dc2"
-    }
-  },
-  "markdown-explorer": {
-    "faintColorOnWhite": "rgba(22, 11, 42, 0.1)",
-    "goodColorOnBlack": "#C6CAF7",
-    "goodColorOnWhite": "#160B2A",
-    "palette": [
-      "#160b2a",
-      "#c6caf7",
-      "#5d606d",
-      "#777a95",
-      "#595f80"
-    ],
-    "source": {
-      "path": "apps/markdown-explorer/markdown-explorer-icon.png",
-      "revHash": "6041a84fe1"
     }
   },
   "markdown-office": {
@@ -6893,22 +5965,6 @@
     "source": {
       "path": "apps/markdownify/markdownify-icon.png",
       "revHash": "e2476c5269"
-    }
-  },
-  "marksearch": {
-    "faintColorOnWhite": "rgba(29, 115, 168, 0.1)",
-    "goodColorOnBlack": "#349CDC",
-    "goodColorOnWhite": "#1D73A8",
-    "palette": [
-      "#349cdc",
-      "#389cdc",
-      "#389cdc",
-      "#389cdc",
-      "#389cdc"
-    ],
-    "source": {
-      "path": "apps/marksearch/marksearch-icon.png",
-      "revHash": "774687df54"
     }
   },
   "marktext": {
@@ -6991,22 +6047,6 @@
       "revHash": "b67b8ab02e"
     }
   },
-  "mbod": {
-    "faintColorOnWhite": "rgba(4, 105, 217, 0.1)",
-    "goodColorOnBlack": "#54A4FC",
-    "goodColorOnWhite": "#0469D9",
-    "palette": [
-      "#54a4fc",
-      "#fbfbfc",
-      "#94c6fc",
-      "#aed4fc",
-      "#7abcfc"
-    ],
-    "source": {
-      "path": "apps/mbod/mbod-icon.png",
-      "revHash": "b095db20a2"
-    }
-  },
   "md5app": {
     "faintColorOnWhite": "rgba(180, 36, 20, 0.1)",
     "goodColorOnBlack": "#E63521",
@@ -7071,22 +6111,6 @@
       "revHash": "1beb11a355"
     }
   },
-  "media-mate": {
-    "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
-    "goodColorOnBlack": "#FFF",
-    "goodColorOnWhite": "#080404",
-    "palette": [
-      "#040404",
-      "#080404",
-      "#080404",
-      "#080404",
-      "#080404"
-    ],
-    "source": {
-      "path": "apps/media-mate/media-mate-icon.png",
-      "revHash": "c949d6af42"
-    }
-  },
   "medley": {
     "faintColorOnWhite": "rgba(210, 57, 57, 0.1)",
     "goodColorOnBlack": "#ECACAC",
@@ -7135,22 +6159,6 @@
       "revHash": "b909eaef43"
     }
   },
-  "mercury": {
-    "faintColorOnWhite": "rgba(148, 108, 4, 0.1)",
-    "goodColorOnBlack": "#FBC604",
-    "goodColorOnWhite": "#946C04",
-    "palette": [
-      "#fbc604",
-      "#4a3104",
-      "#b28904",
-      "#946c04",
-      "#c49c04"
-    ],
-    "source": {
-      "path": "apps/mercury/mercury-icon.png",
-      "revHash": "7c0641380a"
-    }
-  },
   "merge-request-notifier": {
     "faintColorOnWhite": "rgba(30, 121, 122, 0.1)",
     "goodColorOnBlack": "#0CBFDA",
@@ -7167,22 +6175,6 @@
       "revHash": "3038a85465"
     }
   },
-  "messenger-demo-viewer": {
-    "faintColorOnWhite": "rgba(3, 117, 153, 0.1)",
-    "goodColorOnBlack": "#04B3EA",
-    "goodColorOnWhite": "#037599",
-    "palette": [
-      "#04b3ea",
-      "#0492f8",
-      "#04d0dc",
-      "#04f1ce",
-      "#04dfd5"
-    ],
-    "source": {
-      "path": "apps/messenger-demo-viewer/messenger-demo-viewer-icon.png",
-      "revHash": "ab0bd44d63"
-    }
-  },
   "metastream": {
     "faintColorOnWhite": "rgba(189, 79, 54, 0.1)",
     "goodColorOnBlack": "#EABFB5",
@@ -7197,38 +6189,6 @@
     "source": {
       "path": "apps/metastream/metastream-icon.png",
       "revHash": "985f4a2f77"
-    }
-  },
-  "meteorman": {
-    "faintColorOnWhite": "rgba(196, 76, 68, 0.1)",
-    "goodColorOnBlack": "#E4A49C",
-    "goodColorOnWhite": "#C44C44",
-    "palette": [
-      "#c44c44",
-      "#f9f3f3",
-      "#d78c83",
-      "#e4a49c",
-      "#d47c6c"
-    ],
-    "source": {
-      "path": "apps/meteorman/meteorman-icon.png",
-      "revHash": "54ed4b77ee"
-    }
-  },
-  "metrogit": {
-    "faintColorOnWhite": "rgba(32, 40, 56, 0.1)",
-    "goodColorOnBlack": "#F8F8F9",
-    "goodColorOnWhite": "#202838",
-    "palette": [
-      "#f8f8f9",
-      "#202838",
-      "#848c94",
-      "#747c84",
-      "#5f6870"
-    ],
-    "source": {
-      "path": "apps/metrogit/metrogit-icon.png",
-      "revHash": "f5e7ea9ee0"
     }
   },
   "metronome": {
@@ -7391,22 +6351,6 @@
       "revHash": "9d20139605"
     }
   },
-  "minta": {
-    "faintColorOnWhite": "rgba(92, 50, 177, 0.1)",
-    "goodColorOnBlack": "#AC94D4",
-    "goodColorOnWhite": "#5C32B1",
-    "palette": [
-      "#5c32b1",
-      "#eae9ec",
-      "#937bc9",
-      "#ac94d4",
-      "#8454c4"
-    ],
-    "source": {
-      "path": "apps/minta/minta-icon.png",
-      "revHash": "0f16f3993d"
-    }
-  },
   "missive": {
     "faintColorOnWhite": "rgba(22, 117, 208, 0.1)",
     "goodColorOnBlack": "#96C6F4",
@@ -7421,22 +6365,6 @@
     "source": {
       "path": "apps/missive/missive-icon.png",
       "revHash": "6ef199b6ed"
-    }
-  },
-  "mist": {
-    "faintColorOnWhite": "rgba(70, 100, 141, 0.1)",
-    "goodColorOnBlack": "#6382A4",
-    "goodColorOnWhite": "#46648D",
-    "palette": [
-      "#dcdddf",
-      "#46648d",
-      "#6382a4",
-      "#8f9aab",
-      "#a4b4c0"
-    ],
-    "source": {
-      "path": "apps/mist/mist-icon.png",
-      "revHash": "ad08756cca"
     }
   },
   "mixmax": {
@@ -7503,22 +6431,6 @@
       "revHash": "57b9b8aa46"
     }
   },
-  "mocker": {
-    "faintColorOnWhite": "rgba(9, 117, 174, 0.1)",
-    "goodColorOnBlack": "#0C94DC",
-    "goodColorOnWhite": "#0975AE",
-    "palette": [
-      "#1494dc",
-      "#0c94dc",
-      "#1894dc",
-      "#1894dc",
-      "#1894dc"
-    ],
-    "source": {
-      "path": "apps/mocker/mocker-icon.png",
-      "revHash": "e6f6786559"
-    }
-  },
   "mockingbot": {
     "faintColorOnWhite": "rgba(222, 18, 8, 0.1)",
     "goodColorOnBlack": "#FB928D",
@@ -7533,22 +6445,6 @@
     "source": {
       "path": "apps/mockingbot/mockingbot-icon.png",
       "revHash": "0f84c766fb"
-    }
-  },
-  "mockman": {
-    "faintColorOnWhite": "rgba(13, 130, 130, 0.1)",
-    "goodColorOnBlack": "#3AECEC",
-    "goodColorOnWhite": "#0D8282",
-    "palette": [
-      "#25cdd7",
-      "#f9fbfb",
-      "#79dee4",
-      "#3aecec",
-      "#4adfe3"
-    ],
-    "source": {
-      "path": "apps/mockman/mockman-icon.png",
-      "revHash": "fbd8a38265"
     }
   },
   "mockoon": {
@@ -7599,54 +6495,6 @@
       "revHash": "32577f1024"
     }
   },
-  "moeditor": {
-    "faintColorOnWhite": "rgba(49, 49, 49, 0.1)",
-    "goodColorOnBlack": "#F3F3F3",
-    "goodColorOnWhite": "#313131",
-    "palette": [
-      "#f3f3f3",
-      "#313131",
-      "#8c8c8c",
-      "#a9a9a9",
-      "#949494"
-    ],
-    "source": {
-      "path": "apps/moeditor/moeditor-icon.png",
-      "revHash": "ac68c0c29f"
-    }
-  },
-  "mojibar": {
-    "faintColorOnWhite": "rgba(143, 102, 3, 0.1)",
-    "goodColorOnBlack": "#FBCC5B",
-    "goodColorOnWhite": "#8F6603",
-    "palette": [
-      "#fbcc5b",
-      "#fcfaf7",
-      "#fcde9c",
-      "#f4cc32",
-      "#fcd57e"
-    ],
-    "source": {
-      "path": "apps/mojibar/mojibar-icon.png",
-      "revHash": "29501fe568"
-    }
-  },
-  "monerite": {
-    "faintColorOnWhite": "rgba(24, 131, 2, 0.1)",
-    "goodColorOnBlack": "#2CF404",
-    "goodColorOnWhite": "#188302",
-    "palette": [
-      "#2cf404",
-      "#30f404",
-      "#30f404",
-      "#30f404",
-      "#30f404"
-    ],
-    "source": {
-      "path": "apps/monerite/monerite-icon.png",
-      "revHash": "9a64133c4b"
-    }
-  },
   "mongoclient": {
     "faintColorOnWhite": "rgba(95, 59, 25, 0.1)",
     "goodColorOnBlack": "#96BC19",
@@ -7679,6 +6527,22 @@
       "revHash": "3b0bed50fe"
     }
   },
+  "mongomix": {
+    "faintColorOnWhite": "rgba(118, 84, 105, 0.1)",
+    "goodColorOnBlack": "#D85029",
+    "goodColorOnWhite": "#765469",
+    "palette": [
+      "#d85029",
+      "#29983d",
+      "#4d90aa",
+      "#df567d",
+      "#765469"
+    ],
+    "source": {
+      "path": "apps/mongomix/mongomix-icon.png",
+      "revHash": "7748c5a523"
+    }
+  },
   "mongotron": {
     "faintColorOnWhite": "rgba(33, 50, 80, 0.1)",
     "goodColorOnBlack": "#D2E4F2",
@@ -7709,22 +6573,6 @@
     "source": {
       "path": "apps/monsterwriter/monsterwriter-icon.png",
       "revHash": "20fe912f0a"
-    }
-  },
-  "montenote": {
-    "faintColorOnWhite": "rgba(44, 44, 60, 0.1)",
-    "goodColorOnBlack": "#949CA4",
-    "goodColorOnWhite": "#2C2C3C",
-    "palette": [
-      "#2c2c3c",
-      "#f3f3f3",
-      "#949ca4",
-      "#9c9ca4",
-      "#9494a4"
-    ],
-    "source": {
-      "path": "apps/montenote/montenote-icon.png",
-      "revHash": "7f0ec02d85"
     }
   },
   "moonitor": {
@@ -7903,22 +6751,6 @@
       "revHash": "80f2fd9e14"
     }
   },
-  "music-kitten": {
-    "faintColorOnWhite": "rgba(226, 17, 64, 0.1)",
-    "goodColorOnBlack": "#F8A3B6",
-    "goodColorOnWhite": "#E21140",
-    "palette": [
-      "#f04364",
-      "#f5f5f5",
-      "#e88c9e",
-      "#f8a3b6",
-      "#d7adb4"
-    ],
-    "source": {
-      "path": "apps/music-kitten/music-kitten-icon.png",
-      "revHash": "0f57b799cb"
-    }
-  },
   "music-player": {
     "faintColorOnWhite": "rgba(29, 68, 68, 0.1)",
     "goodColorOnBlack": "#EE4747",
@@ -8015,38 +6847,6 @@
       "revHash": "6f41e4211a"
     }
   },
-  "ndm": {
-    "faintColorOnWhite": "rgba(228, 13, 13, 0.1)",
-    "goodColorOnBlack": "#F28F8F",
-    "goodColorOnWhite": "#E40D0D",
-    "palette": [
-      "#f5f5f5",
-      "#e40d0d",
-      "#f28f8f",
-      "#ec7c7c",
-      "#d9b4b4"
-    ],
-    "source": {
-      "path": "apps/ndm/ndm-icon.png",
-      "revHash": "7f066eab5f"
-    }
-  },
-  "negative": {
-    "faintColorOnWhite": "rgba(5, 123, 118, 0.1)",
-    "goodColorOnBlack": "#068A84",
-    "goodColorOnWhite": "#057B76",
-    "palette": [
-      "#068a84",
-      "#eaebeb",
-      "#72b2b4",
-      "#71c4b9",
-      "#a0a0a0"
-    ],
-    "source": {
-      "path": "apps/negative/negative-icon.png",
-      "revHash": "3b5e407d48"
-    }
-  },
   "nertivia": {
     "faintColorOnWhite": "rgba(5, 113, 197, 0.1)",
     "goodColorOnBlack": "#89CAFC",
@@ -8127,22 +6927,6 @@
       "revHash": "2c8493dc32"
     }
   },
-  "nfov": {
-    "faintColorOnWhite": "rgba(23, 23, 23, 0.1)",
-    "goodColorOnBlack": "#84847C",
-    "goodColorOnWhite": "#171717",
-    "palette": [
-      "#fafafa",
-      "#171717",
-      "#747473",
-      "#7c7c7c",
-      "#84847c"
-    ],
-    "source": {
-      "path": "apps/nfov/nfov-icon.png",
-      "revHash": "b64be41042"
-    }
-  },
   "nicepage": {
     "faintColorOnWhite": "rgba(26, 100, 249, 0.1)",
     "goodColorOnBlack": "#84ACFC",
@@ -8173,22 +6957,6 @@
     "source": {
       "path": "apps/nighthawk/nighthawk-icon.png",
       "revHash": "696c2f9a7b"
-    }
-  },
-  "nimble": {
-    "faintColorOnWhite": "rgba(172, 91, 3, 0.1)",
-    "goodColorOnBlack": "#FB890D",
-    "goodColorOnWhite": "#AC5B03",
-    "palette": [
-      "#e7e7e6",
-      "#fb890d",
-      "#bc6c16",
-      "#c6996d",
-      "#fcb45c"
-    ],
-    "source": {
-      "path": "apps/nimble/nimble-icon.png",
-      "revHash": "12827eef50"
     }
   },
   "nimblenote": {
@@ -8351,22 +7119,6 @@
       "revHash": "07a3a28e90"
     }
   },
-  "noty": {
-    "faintColorOnWhite": "rgba(105, 100, 65, 0.1)",
-    "goodColorOnBlack": "#FBE748",
-    "goodColorOnWhite": "#696441",
-    "palette": [
-      "#fbf19c",
-      "#fbe748",
-      "#696441",
-      "#aaa36b",
-      "#8c8c5c"
-    ],
-    "source": {
-      "path": "apps/noty/noty-icon.png",
-      "revHash": "b171e282d5"
-    }
-  },
   "now": {
     "faintColorOnWhite": "rgba(12, 12, 12, 0.1)",
     "goodColorOnBlack": "#DDD",
@@ -8495,22 +7247,6 @@
       "revHash": "75e29c6023"
     }
   },
-  "oh-my-desk": {
-    "faintColorOnWhite": "rgba(84, 104, 241, 0.1)",
-    "goodColorOnBlack": "#07C56B",
-    "goodColorOnWhite": "#5468F1",
-    "palette": [
-      "#5468f1",
-      "#141415",
-      "#07c56b",
-      "#34dfbe",
-      "#443484"
-    ],
-    "source": {
-      "path": "apps/oh-my-desk/oh-my-desk-icon.png",
-      "revHash": "529d88d803"
-    }
-  },
   "ohhai-browser": {
     "faintColorOnWhite": "rgba(22, 38, 101, 0.1)",
     "goodColorOnBlack": "#7C849E",
@@ -8573,22 +7309,6 @@
     "source": {
       "path": "apps/onoffice/onoffice-icon.png",
       "revHash": "80c6d31846"
-    }
-  },
-  "opale-messenger": {
-    "faintColorOnWhite": "rgba(4, 60, 124, 0.1)",
-    "goodColorOnBlack": "#0477F1",
-    "goodColorOnWhite": "#043C7C",
-    "palette": [
-      "#0477f1",
-      "#f2f6fc",
-      "#040910",
-      "#043c7c",
-      "#7cacfc"
-    ],
-    "source": {
-      "path": "apps/opale-messenger/opale-messenger-icon.png",
-      "revHash": "aec6862d6d"
     }
   },
   "open-ias-scoreboard": {
@@ -8671,36 +7391,20 @@
       "revHash": "5aa25e9dac"
     }
   },
-  "opus": {
-    "faintColorOnWhite": "rgba(3, 114, 163, 0.1)",
-    "goodColorOnBlack": "#04ADF7",
-    "goodColorOnWhite": "#0372A3",
+  "openspeedtest-server": {
+    "faintColorOnWhite": "rgba(76, 76, 77, 0.1)",
+    "goodColorOnBlack": "#3CA3FB",
+    "goodColorOnWhite": "#4C4C4D",
     "palette": [
-      "#f2f2f2",
-      "#04adf7",
-      "#55bef7",
-      "#9cd7f5",
-      "#28c4f9"
+      "#4c4c4d",
+      "#3ca3fb",
+      "#5087b6",
+      "#5a7c98",
+      "#547ca4"
     ],
     "source": {
-      "path": "apps/opus/opus-icon.png",
-      "revHash": "7fb9877e2b"
-    }
-  },
-  "orb": {
-    "faintColorOnWhite": "rgba(16, 19, 26, 0.1)",
-    "goodColorOnBlack": "#7B96B4",
-    "goodColorOnWhite": "#10131A",
-    "palette": [
-      "#f5f6f7",
-      "#10131a",
-      "#7b96b4",
-      "#647b96",
-      "#626b78"
-    ],
-    "source": {
-      "path": "apps/orb/orb-icon.png",
-      "revHash": "ca1a76c916"
+      "path": "apps/openspeedtest-server/openspeedtest-server-icon.png",
+      "revHash": "aafa38c99b"
     }
   },
   "overlay": {
@@ -8847,22 +7551,6 @@
       "revHash": "8381ceb763"
     }
   },
-  "particl": {
-    "faintColorOnWhite": "rgba(29, 132, 88, 0.1)",
-    "goodColorOnBlack": "#3CD494",
-    "goodColorOnWhite": "#1D8458",
-    "palette": [
-      "#3cd494",
-      "#40d494",
-      "#40d494",
-      "#40d494",
-      "#40d494"
-    ],
-    "source": {
-      "path": "apps/particl/particl-icon.png",
-      "revHash": "3e1b29d069"
-    }
-  },
   "particle-dev": {
     "faintColorOnWhite": "rgba(14, 118, 165, 0.1)",
     "goodColorOnBlack": "#13A3E4",
@@ -8991,38 +7679,6 @@
       "revHash": "8e6b31a47c"
     }
   },
-  "pepefe": {
-    "faintColorOnWhite": "rgba(59, 59, 59, 0.1)",
-    "goodColorOnBlack": "#FC8404",
-    "goodColorOnWhite": "#3B3B3B",
-    "palette": [
-      "#fc8404",
-      "#fcfbfb",
-      "#3b3b3b",
-      "#545454",
-      "#fcac6c"
-    ],
-    "source": {
-      "path": "apps/pepefe/pepefe-icon.png",
-      "revHash": "497ceec015"
-    }
-  },
-  "perlotto": {
-    "faintColorOnWhite": "rgba(19, 120, 128, 0.1)",
-    "goodColorOnBlack": "#15848C",
-    "goodColorOnWhite": "#137880",
-    "palette": [
-      "#f7fafa",
-      "#15848c",
-      "#66ced2",
-      "#72b4bc",
-      "#92c4cc"
-    ],
-    "source": {
-      "path": "apps/perlotto/perlotto-icon.png",
-      "revHash": "4b00352ace"
-    }
-  },
   "petal": {
     "faintColorOnWhite": "rgba(202, 70, 118, 0.1)",
     "goodColorOnBlack": "#FADDA5",
@@ -9103,22 +7759,6 @@
       "revHash": "11ccef2004"
     }
   },
-  "phreshplayer": {
-    "faintColorOnWhite": "rgba(29, 99, 36, 0.1)",
-    "goodColorOnBlack": "#358C3C",
-    "goodColorOnWhite": "#1D6324",
-    "palette": [
-      "#28752d",
-      "#348434",
-      "#1d6324",
-      "#358c3c",
-      "#2c8434"
-    ],
-    "source": {
-      "path": "apps/phreshplayer/phreshplayer-icon.png",
-      "revHash": "87b2d77d1f"
-    }
-  },
   "pic-crop": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
@@ -9151,22 +7791,6 @@
       "revHash": "0ea6413332"
     }
   },
-  "pile": {
-    "faintColorOnWhite": "rgba(124, 96, 136, 0.1)",
-    "goodColorOnBlack": "#DC44FB",
-    "goodColorOnWhite": "#7C6088",
-    "palette": [
-      "#e8e8e9",
-      "#b63ae5",
-      "#dc44fb",
-      "#938596",
-      "#7c6088"
-    ],
-    "source": {
-      "path": "apps/pile/pile-icon.png",
-      "revHash": "ae13009638"
-    }
-  },
   "pilemd": {
     "faintColorOnWhite": "rgba(29, 128, 136, 0.1)",
     "goodColorOnBlack": "#2CC2CF",
@@ -9181,38 +7805,6 @@
     "source": {
       "path": "apps/pilemd/pilemd-icon.png",
       "revHash": "2bbbfcd025"
-    }
-  },
-  "pinesql": {
-    "faintColorOnWhite": "rgba(68, 84, 212, 0.1)",
-    "goodColorOnBlack": "#8F949F",
-    "goodColorOnWhite": "#4454D4",
-    "palette": [
-      "#f9f9f9",
-      "#343c54",
-      "#4454d4",
-      "#8f949f",
-      "#797c8c"
-    ],
-    "source": {
-      "path": "apps/pinesql/pinesql-icon.png",
-      "revHash": "5a2d9dde89"
-    }
-  },
-  "piqture": {
-    "faintColorOnWhite": "rgba(116, 37, 164, 0.1)",
-    "goodColorOnBlack": "#965FB6",
-    "goodColorOnWhite": "#7425A4",
-    "palette": [
-      "#242424",
-      "#e2e2e3",
-      "#7425a4",
-      "#965fb6",
-      "#848484"
-    ],
-    "source": {
-      "path": "apps/piqture/piqture-icon.png",
-      "revHash": "d0a9d5353e"
     }
   },
   "pitv": {
@@ -9295,38 +7887,6 @@
       "revHash": "ae9692a492"
     }
   },
-  "playlist": {
-    "faintColorOnWhite": "rgba(116, 108, 60, 0.1)",
-    "goodColorOnBlack": "#9C8408",
-    "goodColorOnWhite": "#746C3C",
-    "palette": [
-      "#2f2e27",
-      "#e4ce29",
-      "#9c8408",
-      "#948c24",
-      "#746c3c"
-    ],
-    "source": {
-      "path": "apps/playlist/playlist-icon.png",
-      "revHash": "fc0ed79959"
-    }
-  },
-  "playme": {
-    "faintColorOnWhite": "rgba(66, 74, 242, 0.1)",
-    "goodColorOnBlack": "#6269F4",
-    "goodColorOnWhite": "#424AF2",
-    "palette": [
-      "#3ca8eb",
-      "#fafbfb",
-      "#6269f4",
-      "#8fb5f4",
-      "#87d9f1"
-    ],
-    "source": {
-      "path": "apps/playme/playme-icon.png",
-      "revHash": "0251850ea3"
-    }
-  },
   "pocket-server": {
     "faintColorOnWhite": "rgba(66, 112, 60, 0.1)",
     "goodColorOnBlack": "#57B551",
@@ -9389,22 +7949,6 @@
     "source": {
       "path": "apps/poi/poi-icon.png",
       "revHash": "e5ca9fea6a"
-    }
-  },
-  "pokerclock": {
-    "faintColorOnWhite": "rgba(9, 8, 8, 0.1)",
-    "goodColorOnBlack": "#F0070E",
-    "goodColorOnWhite": "#090808",
-    "palette": [
-      "#e6e5e7",
-      "#f0070e",
-      "#090808",
-      "#646c6a",
-      "#747474"
-    ],
-    "source": {
-      "path": "apps/pokerclock/pokerclock-icon.png",
-      "revHash": "5494f93526"
     }
   },
   "polar": {
@@ -9485,22 +8029,6 @@
     "source": {
       "path": "apps/pomotroid/pomotroid-icon.png",
       "revHash": "156bd82049"
-    }
-  },
-  "pomotron": {
-    "faintColorOnWhite": "rgba(103, 85, 106, 0.1)",
-    "goodColorOnBlack": "#B17B75",
-    "goodColorOnWhite": "#67556A",
-    "palette": [
-      "#67556a",
-      "#e6e6e6",
-      "#b17b75",
-      "#bbbbc6",
-      "#a8a8be"
-    ],
-    "source": {
-      "path": "apps/pomotron/pomotron-icon.png",
-      "revHash": "666b13225c"
     }
   },
   "popsql": {
@@ -9631,22 +8159,6 @@
       "revHash": "b3db98a9e7"
     }
   },
-  "pretzel": {
-    "faintColorOnWhite": "rgba(37, 99, 229, 0.1)",
-    "goodColorOnBlack": "#A1BCF4",
-    "goodColorOnWhite": "#2563E5",
-    "palette": [
-      "#f8f8fb",
-      "#4e72e0",
-      "#8fa4eb",
-      "#a1bcf4",
-      "#6994ea"
-    ],
-    "source": {
-      "path": "apps/pretzel/pretzel-icon.png",
-      "revHash": "fc3343a851"
-    }
-  },
   "prexview": {
     "faintColorOnWhite": "rgba(42, 128, 42, 0.1)",
     "goodColorOnBlack": "#ACE4AC",
@@ -9775,22 +8287,6 @@
       "revHash": "eb3f0d2839"
     }
   },
-  "pubvendorstool": {
-    "faintColorOnWhite": "rgba(68, 68, 67, 0.1)",
-    "goodColorOnBlack": "#FBE304",
-    "goodColorOnWhite": "#444443",
-    "palette": [
-      "#444443",
-      "#fbe304",
-      "#b3a019",
-      "#9c8c24",
-      "#ccb414"
-    ],
-    "source": {
-      "path": "apps/pubvendorstool/pubvendorstool-icon.png",
-      "revHash": "a94f470443"
-    }
-  },
   "pullp": {
     "faintColorOnWhite": "rgba(119, 68, 239, 0.1)",
     "goodColorOnBlack": "#0AE5D7",
@@ -9869,22 +8365,6 @@
     "source": {
       "path": "apps/qawl/qawl-icon.png",
       "revHash": "8b81983f5f"
-    }
-  },
-  "qbox": {
-    "faintColorOnWhite": "rgba(78, 76, 252, 0.1)",
-    "goodColorOnBlack": "#8D67FC",
-    "goodColorOnWhite": "#4E4CFC",
-    "palette": [
-      "#4e4cfc",
-      "#fafafc",
-      "#8d67fc",
-      "#afb5fc",
-      "#7586fc"
-    ],
-    "source": {
-      "path": "apps/qbox/qbox-icon.png",
-      "revHash": "3bbe409ee7"
     }
   },
   "qikqr": {
@@ -9999,22 +8479,6 @@
       "revHash": "fab41beb4c"
     }
   },
-  "quickcalc": {
-    "faintColorOnWhite": "rgba(73, 126, 21, 0.1)",
-    "goodColorOnBlack": "#7CD424",
-    "goodColorOnWhite": "#497E15",
-    "palette": [
-      "#7cd424",
-      "#fbfbfb",
-      "#bce58b",
-      "#abe271",
-      "#bcec94"
-    ],
-    "source": {
-      "path": "apps/quickcalc/quickcalc-icon.png",
-      "revHash": "8ec202643e"
-    }
-  },
   "quickredis": {
     "faintColorOnWhite": "rgba(212, 4, 4, 0.1)",
     "goodColorOnBlack": "#FA0808",
@@ -10045,22 +8509,6 @@
     "source": {
       "path": "apps/quickstart-firebase-unofficial/quickstart-firebase-unofficial-icon.png",
       "revHash": "027afcf4a9"
-    }
-  },
-  "quickwords": {
-    "faintColorOnWhite": "rgba(18, 118, 156, 0.1)",
-    "goodColorOnBlack": "#5CC4EC",
-    "goodColorOnWhite": "#12769C",
-    "palette": [
-      "#2cace4",
-      "#fbfbfc",
-      "#86d0ef",
-      "#ade2f4",
-      "#5cc4ec"
-    ],
-    "source": {
-      "path": "apps/quickwords/quickwords-icon.png",
-      "revHash": "ab697ae689"
     }
   },
   "r2e-todoworks": {
@@ -10191,22 +8639,6 @@
       "revHash": "fd384229ae"
     }
   },
-  "ramme": {
-    "faintColorOnWhite": "rgba(162, 96, 22, 0.1)",
-    "goodColorOnBlack": "#E8A356",
-    "goodColorOnWhite": "#A26016",
-    "palette": [
-      "#fbfafa",
-      "#c84987",
-      "#e8a356",
-      "#cc8ccc",
-      "#c47ccc"
-    ],
-    "source": {
-      "path": "apps/ramme/ramme-icon.png",
-      "revHash": "6af0f58d69"
-    }
-  },
   "raven-reader": {
     "faintColorOnWhite": "rgba(24, 50, 72, 0.1)",
     "goodColorOnBlack": "#65DEC4",
@@ -10333,22 +8765,6 @@
     "source": {
       "path": "apps/redis-gui-unofficial/redis-gui-unofficial-icon.png",
       "revHash": "b2a19670b8"
-    }
-  },
-  "redp": {
-    "faintColorOnWhite": "rgba(224, 46, 73, 0.1)",
-    "goodColorOnBlack": "#ED8494",
-    "goodColorOnWhite": "#E02E49",
-    "palette": [
-      "#fbfbfb",
-      "#e45469",
-      "#e08e90",
-      "#f3b1bc",
-      "#ed8494"
-    ],
-    "source": {
-      "path": "apps/redp/redp-icon.png",
-      "revHash": "b7b362b257"
     }
   },
   "rekord": {
@@ -10623,22 +9039,6 @@
       "revHash": "18daecb882"
     }
   },
-  "rocketcleaner": {
-    "faintColorOnWhite": "rgba(98, 54, 90, 0.1)",
-    "goodColorOnBlack": "#B1B6CE",
-    "goodColorOnWhite": "#62365A",
-    "palette": [
-      "#62365a",
-      "#dfe0e9",
-      "#b1b6ce",
-      "#8c8ea4",
-      "#948490"
-    ],
-    "source": {
-      "path": "apps/rocketcleaner/rocketcleaner-icon.png",
-      "revHash": "626a9218c6"
-    }
-  },
   "runjs": {
     "faintColorOnWhite": "rgba(126, 108, 12, 0.1)",
     "goodColorOnBlack": "#F7DF1F",
@@ -10671,22 +9071,6 @@
       "revHash": "9d82f3509d"
     }
   },
-  "s3uploader": {
-    "faintColorOnWhite": "rgba(32, 40, 55, 0.1)",
-    "goodColorOnBlack": "#767E84",
-    "goodColorOnWhite": "#202837",
-    "palette": [
-      "#202837",
-      "#f4f4f5",
-      "#767e84",
-      "#616a72",
-      "#898c94"
-    ],
-    "source": {
-      "path": "apps/s3uploader/s3uploader-icon.png",
-      "revHash": "058d743a26"
-    }
-  },
   "saadhn": {
     "faintColorOnWhite": "rgba(44, 131, 117, 0.1)",
     "goodColorOnBlack": "#78D2C4",
@@ -10701,22 +9085,6 @@
     "source": {
       "path": "apps/saadhn/saadhn-icon.png",
       "revHash": "1d54d73e8f"
-    }
-  },
-  "scancode-workbench": {
-    "faintColorOnWhite": "rgba(4, 100, 204, 0.1)",
-    "goodColorOnBlack": "#5092DE",
-    "goodColorOnWhite": "#0464CC",
-    "palette": [
-      "#0464cc",
-      "#f2f6fa",
-      "#5092de",
-      "#74ace4",
-      "#3484d4"
-    ],
-    "source": {
-      "path": "apps/scancode-workbench/scancode-workbench-icon.png",
-      "revHash": "b182bfada9"
     }
   },
   "school-timetable": {
@@ -10736,19 +9104,19 @@
     }
   },
   "scratch-for-discord": {
-    "faintColorOnWhite": "rgba(177, 75, 106, 0.1)",
-    "goodColorOnBlack": "#F4A123",
-    "goodColorOnWhite": "#B14B6A",
+    "faintColorOnWhite": "rgba(158, 106, 3, 0.1)",
+    "goodColorOnBlack": "#FCC454",
+    "goodColorOnWhite": "#9E6A03",
     "palette": [
-      "#f4a123",
-      "#434345",
-      "#fbfbfa",
-      "#b14b6a",
-      "#bcbabc"
+      "#fcfbfa",
+      "#fbae23",
+      "#cb8c15",
+      "#fccb74",
+      "#fcc454"
     ],
     "source": {
       "path": "apps/scratch-for-discord/scratch-for-discord-icon.png",
-      "revHash": "557e614e74"
+      "revHash": "cdeb93aa97"
     }
   },
   "screencat": {
@@ -10959,22 +9327,6 @@
       "revHash": "bd7be18fda"
     }
   },
-  "servpane": {
-    "faintColorOnWhite": "rgba(40, 41, 40, 0.1)",
-    "goodColorOnBlack": "#F2B6B4",
-    "goodColorOnWhite": "#282928",
-    "palette": [
-      "#282928",
-      "#f2b6b4",
-      "#4bd662",
-      "#8b8783",
-      "#949494"
-    ],
-    "source": {
-      "path": "apps/servpane/servpane-icon.png",
-      "revHash": "841348018b"
-    }
-  },
   "ses": {
     "faintColorOnWhite": "rgba(12, 12, 12, 0.1)",
     "goodColorOnBlack": "#FBFBFB",
@@ -10989,22 +9341,6 @@
     "source": {
       "path": "apps/ses/ses-icon.png",
       "revHash": "463d3925ff"
-    }
-  },
-  "seton": {
-    "faintColorOnWhite": "rgba(116, 4, 52, 0.1)",
-    "goodColorOnBlack": "#BC7C94",
-    "goodColorOnWhite": "#740434",
-    "palette": [
-      "#740434",
-      "#faf8f9",
-      "#a55d7b",
-      "#bc7c94",
-      "#bc7c9c"
-    ],
-    "source": {
-      "path": "apps/seton/seton-icon.png",
-      "revHash": "1a826fdf6e"
     }
   },
   "sftpclient": {
@@ -11055,22 +9391,6 @@
       "revHash": "6e6e1c1b7a"
     }
   },
-  "sharp-tune": {
-    "faintColorOnWhite": "rgba(201, 16, 44, 0.1)",
-    "goodColorOnBlack": "#74747C",
-    "goodColorOnWhite": "#C9102C",
-    "palette": [
-      "#070708",
-      "#c9102c",
-      "#646468",
-      "#74747c",
-      "#747c7c"
-    ],
-    "source": {
-      "path": "apps/sharp-tune/sharp-tune-icon.png",
-      "revHash": "8f29d0151c"
-    }
-  },
   "sheepchat": {
     "faintColorOnWhite": "rgba(4, 116, 164, 0.1)",
     "goodColorOnBlack": "#0CB4FB",
@@ -11085,22 +9405,6 @@
     "source": {
       "path": "apps/sheepchat/sheepchat-icon.png",
       "revHash": "177e6cdccd"
-    }
-  },
-  "shiba": {
-    "faintColorOnWhite": "rgba(55, 32, 10, 0.1)",
-    "goodColorOnBlack": "#E1B077",
-    "goodColorOnWhite": "#37200A",
-    "palette": [
-      "#e1b077",
-      "#37200a",
-      "#cb3742",
-      "#9e784e",
-      "#745424"
-    ],
-    "source": {
-      "path": "apps/shiba/shiba-icon.png",
-      "revHash": "f6b6029e05"
     }
   },
   "shift": {
@@ -11227,7 +9531,7 @@
       "#ca7d79"
     ],
     "source": {
-      "path": "apps\\singlebox\\singlebox-icon.png",
+      "path": "apps/singlebox/singlebox-icon.png",
       "revHash": "4299bd8287"
     }
   },
@@ -11245,22 +9549,6 @@
     "source": {
       "path": "apps/sizzy/sizzy-icon.png",
       "revHash": "ce401c5ba3"
-    }
-  },
-  "skrifa": {
-    "faintColorOnWhite": "rgba(136, 110, 2, 0.1)",
-    "goodColorOnBlack": "#FCCC07",
-    "goodColorOnWhite": "#886E02",
-    "palette": [
-      "#fbfbfb",
-      "#298a65",
-      "#fc3b33",
-      "#fccc07",
-      "#99aaa2"
-    ],
-    "source": {
-      "path": "apps/skrifa/skrifa-icon.png",
-      "revHash": "f161aa811f"
     }
   },
   "skype": {
@@ -11343,22 +9631,6 @@
       "revHash": "4633c928b9"
     }
   },
-  "smartholdem": {
-    "faintColorOnWhite": "rgba(7, 34, 34, 0.1)",
-    "goodColorOnBlack": "#E3354E",
-    "goodColorOnWhite": "#072222",
-    "palette": [
-      "#e3354e",
-      "#2a242b",
-      "#952e3f",
-      "#072222",
-      "#5f2c34"
-    ],
-    "source": {
-      "path": "apps/smartholdem/smartholdem-icon.png",
-      "revHash": "ec697f6c1f"
-    }
-  },
   "smokerstopper": {
     "faintColorOnWhite": "rgba(212, 51, 54, 0.1)",
     "goodColorOnBlack": "#E1D3C1",
@@ -11373,6 +9645,22 @@
     "source": {
       "path": "apps/smokerstopper/smokerstopper-icon.png",
       "revHash": "da80b3a4e3"
+    }
+  },
+  "snailfm": {
+    "faintColorOnWhite": "rgba(39, 70, 106, 0.1)",
+    "goodColorOnBlack": "#F72B66",
+    "goodColorOnWhite": "#27466A",
+    "palette": [
+      "#eb53b7",
+      "#27466a",
+      "#e774f7",
+      "#f72b66",
+      "#f71b46"
+    ],
+    "source": {
+      "path": "apps/snailfm/snailfm-icon.png",
+      "revHash": "f24e7ca078"
     }
   },
   "snipaway": {
@@ -11567,22 +9855,6 @@
       "revHash": "29770f1162"
     }
   },
-  "soundkeys": {
-    "faintColorOnWhite": "rgba(8, 8, 7, 0.1)",
-    "goodColorOnBlack": "#FA7304",
-    "goodColorOnWhite": "#080807",
-    "palette": [
-      "#fa7304",
-      "#080807",
-      "#f4f3f3",
-      "#949494",
-      "#747474"
-    ],
-    "source": {
-      "path": "apps/soundkeys/soundkeys-icon.png",
-      "revHash": "82f3346860"
-    }
-  },
   "soundnode": {
     "faintColorOnWhite": "rgba(213, 53, 66, 0.1)",
     "goodColorOnBlack": "#F5EBEC",
@@ -11727,22 +9999,6 @@
       "revHash": "5124310469"
     }
   },
-  "spraybottle": {
-    "faintColorOnWhite": "rgba(29, 46, 170, 0.1)",
-    "goodColorOnBlack": "#FBB32C",
-    "goodColorOnWhite": "#1D2EAA",
-    "palette": [
-      "#1d2eaa",
-      "#fbb32c",
-      "#281f1e",
-      "#a09d9d",
-      "#8c746c"
-    ],
-    "source": {
-      "path": "apps/spraybottle/spraybottle-icon.png",
-      "revHash": "b5b0081178"
-    }
-  },
   "spreaker-studio": {
     "faintColorOnWhite": "rgba(201, 46, 49, 0.1)",
     "goodColorOnBlack": "#E08284",
@@ -11773,22 +10029,6 @@
     "source": {
       "path": "apps/sqlectron/sqlectron-icon.png",
       "revHash": "d050a4326c"
-    }
-  },
-  "sshfs-win-manager": {
-    "faintColorOnWhite": "rgba(60, 131, 2, 0.1)",
-    "goodColorOnBlack": "#73FB05",
-    "goodColorOnWhite": "#3C8302",
-    "palette": [
-      "#2e95e7",
-      "#62aae4",
-      "#73fb05",
-      "#54d481",
-      "#4ccc94"
-    ],
-    "source": {
-      "path": "apps/sshfs-win-manager/sshfs-win-manager-icon.png",
-      "revHash": "3c4006f425"
     }
   },
   "stack": {
@@ -11915,7 +10155,7 @@
       "#3a99b3"
     ],
     "source": {
-      "path": "apps\\stay-hydrated\\stay-hydrated-icon.png",
+      "path": "apps/stay-hydrated/stay-hydrated-icon.png",
       "revHash": "c444d87379"
     }
   },
@@ -12125,22 +10365,6 @@
     "source": {
       "path": "apps/studymd/studymd-icon.png",
       "revHash": "b2e4dac868"
-    }
-  },
-  "subgenesis": {
-    "faintColorOnWhite": "rgba(21, 110, 218, 0.1)",
-    "goodColorOnBlack": "#8CBCF2",
-    "goodColorOnWhite": "#156EDA",
-    "palette": [
-      "#156eda",
-      "#f3f6fb",
-      "#6ea4ee",
-      "#8cbcf2",
-      "#4c94e4"
-    ],
-    "source": {
-      "path": "apps/subgenesis/subgenesis-icon.png",
-      "revHash": "bc2cd9f135"
     }
   },
   "subordination": {
@@ -12604,7 +10828,7 @@
     ],
     "source": {
       "path": "apps/tess/tess-icon.png",
-      "revHash": "f28eb07a7c"
+      "revHash": "7196177b31"
     }
   },
   "testcafe-studio": {
@@ -12895,54 +11119,6 @@
       "revHash": "71e7016a7b"
     }
   },
-  "timestamp": {
-    "faintColorOnWhite": "rgba(7, 99, 231, 0.1)",
-    "goodColorOnBlack": "#33C4FC",
-    "goodColorOnWhite": "#0763E7",
-    "palette": [
-      "#1e9cf5",
-      "#33c4fc",
-      "#0763e7",
-      "#0c78ec",
-      "#1474cc"
-    ],
-    "source": {
-      "path": "apps/timestamp/timestamp-icon.png",
-      "revHash": "835e5099e5"
-    }
-  },
-  "timetable": {
-    "faintColorOnWhite": "rgba(12, 12, 12, 0.1)",
-    "goodColorOnBlack": "#BAB9B9",
-    "goodColorOnWhite": "#0C0C0C",
-    "palette": [
-      "#bab9b9",
-      "#0c0c0c",
-      "#818180",
-      "#5c5c5c",
-      "#646464"
-    ],
-    "source": {
-      "path": "apps/timetable/timetable-icon.png",
-      "revHash": "9ae8261e14"
-    }
-  },
-  "tiny-timer": {
-    "faintColorOnWhite": "rgba(3, 126, 79, 0.1)",
-    "goodColorOnBlack": "#04C47B",
-    "goodColorOnWhite": "#037E4F",
-    "palette": [
-      "#f3eddb",
-      "#04c47b",
-      "#6bd449",
-      "#78798b",
-      "#8ec594"
-    ],
-    "source": {
-      "path": "apps/tiny-timer/tiny-timer-icon.png",
-      "revHash": "b028819dc6"
-    }
-  },
   "tockler": {
     "faintColorOnWhite": "rgba(105, 65, 251, 0.1)",
     "goodColorOnBlack": "#8464FC",
@@ -12991,22 +11167,6 @@
       "revHash": "d038e8b769"
     }
   },
-  "todokit": {
-    "faintColorOnWhite": "rgba(23, 23, 23, 0.1)",
-    "goodColorOnBlack": "#F5F5F5",
-    "goodColorOnWhite": "#171717",
-    "palette": [
-      "#f5f5f5",
-      "#171717",
-      "#343434",
-      "#646464",
-      "#444444"
-    ],
-    "source": {
-      "path": "apps/todokit/todokit-icon.png",
-      "revHash": "d9cd9b18d3"
-    }
-  },
   "todolist": {
     "faintColorOnWhite": "rgba(3, 121, 162, 0.1)",
     "goodColorOnBlack": "#62D4FC",
@@ -13037,22 +11197,6 @@
     "source": {
       "path": "apps/todometer/todometer-icon.png",
       "revHash": "1b2c1edc86"
-    }
-  },
-  "todu": {
-    "faintColorOnWhite": "rgba(34, 131, 109, 0.1)",
-    "goodColorOnBlack": "#62D6BC",
-    "goodColorOnWhite": "#22836D",
-    "palette": [
-      "#fbfbfb",
-      "#62d6bc",
-      "#b5b5b5",
-      "#c4c4c4",
-      "#999999"
-    ],
-    "source": {
-      "path": "apps/todu/todu-icon.png",
-      "revHash": "ba8c90a2d3"
     }
   },
   "tofino": {
@@ -13101,22 +11245,6 @@
     "source": {
       "path": "apps/tough-cookies/tough-cookies-icon.png",
       "revHash": "983d10bad7"
-    }
-  },
-  "tournamenter-manager": {
-    "faintColorOnWhite": "rgba(25, 116, 211, 0.1)",
-    "goodColorOnBlack": "#3BB3F3",
-    "goodColorOnWhite": "#1974D3",
-    "palette": [
-      "#1974d3",
-      "#fafbfc",
-      "#3bb3f3",
-      "#71c9f4",
-      "#54bcf4"
-    ],
-    "source": {
-      "path": "apps/tournamenter-manager/tournamenter-manager-icon.png",
-      "revHash": "b11117afc1"
     }
   },
   "trackabi": {
@@ -13195,7 +11323,7 @@
       "#b4d4b4"
     ],
     "source": {
-      "path": "apps\\translatium\\translatium-icon.png",
+      "path": "apps/translatium/translatium-icon.png",
       "revHash": "cd5b49a651"
     }
   },
@@ -13535,22 +11663,6 @@
       "revHash": "5691326f1b"
     }
   },
-  "udl-gui": {
-    "faintColorOnWhite": "rgba(135, 117, 48, 0.1)",
-    "goodColorOnBlack": "#D3C284",
-    "goodColorOnWhite": "#877530",
-    "palette": [
-      "#44886d",
-      "#fbfbfa",
-      "#977858",
-      "#d3c284",
-      "#8cc4ac"
-    ],
-    "source": {
-      "path": "apps/udl-gui/udl-gui-icon.png",
-      "revHash": "f99135429c"
-    }
-  },
   "ueli": {
     "faintColorOnWhite": "rgba(8, 4, 4, 0.1)",
     "goodColorOnBlack": "#FFF",
@@ -13565,22 +11677,6 @@
     "source": {
       "path": "apps/ueli/ueli-icon.png",
       "revHash": "d5aceafff1"
-    }
-  },
-  "un-colored": {
-    "faintColorOnWhite": "rgba(40, 40, 40, 0.1)",
-    "goodColorOnBlack": "#FBFBFB",
-    "goodColorOnWhite": "#282828",
-    "palette": [
-      "#fbfbfb",
-      "#282828",
-      "#9c9c9c",
-      "#949494",
-      "#b0b0b0"
-    ],
-    "source": {
-      "path": "apps/un-colored/un-colored-icon.png",
-      "revHash": "e33da13d68"
     }
   },
   "unfx-proxy-checker": {
@@ -13679,22 +11775,6 @@
       "revHash": "8893f6f6b0"
     }
   },
-  "updrive": {
-    "faintColorOnWhite": "rgba(2, 118, 181, 0.1)",
-    "goodColorOnBlack": "#04A4FC",
-    "goodColorOnWhite": "#0276B5",
-    "palette": [
-      "#04a4fc",
-      "#049cfc",
-      "#08a4fc",
-      "#08a4fc",
-      "#08a4fc"
-    ],
-    "source": {
-      "path": "apps/updrive/updrive-icon.png",
-      "revHash": "2abb538002"
-    }
-  },
   "uphone": {
     "faintColorOnWhite": "rgba(180, 86, 89, 0.1)",
     "goodColorOnBlack": "#BCC4C4",
@@ -13759,22 +11839,6 @@
       "revHash": "add8d48688"
     }
   },
-  "vechain-sync": {
-    "faintColorOnWhite": "rgba(79, 91, 140, 0.1)",
-    "goodColorOnBlack": "#949CC4",
-    "goodColorOnWhite": "#4F5B8C",
-    "palette": [
-      "#4f5b8c",
-      "#fafafb",
-      "#a0a4b8",
-      "#8d92b4",
-      "#949cc4"
-    ],
-    "source": {
-      "path": "apps/vechain-sync/vechain-sync-icon.png",
-      "revHash": "1f1dec2a0d"
-    }
-  },
   "vectr": {
     "faintColorOnWhite": "rgba(33, 34, 34, 0.1)",
     "goodColorOnBlack": "#7C8C94",
@@ -13823,22 +11887,6 @@
       "revHash": "33f98a48e9"
     }
   },
-  "vii": {
-    "faintColorOnWhite": "rgba(165, 63, 53, 0.1)",
-    "goodColorOnBlack": "#EA4B3C",
-    "goodColorOnWhite": "#A53F35",
-    "palette": [
-      "#ea4b3c",
-      "#2c2c2c",
-      "#793632",
-      "#a53f35",
-      "#54302c"
-    ],
-    "source": {
-      "path": "apps/vii/vii-icon.png",
-      "revHash": "b5ba435404"
-    }
-  },
   "violin": {
     "faintColorOnWhite": "rgba(217, 38, 3, 0.1)",
     "goodColorOnBlack": "#FC5433",
@@ -13853,22 +11901,6 @@
     "source": {
       "path": "apps/violin/violin-icon.png",
       "revHash": "db8b45d60e"
-    }
-  },
-  "visual-comic-reader": {
-    "faintColorOnWhite": "rgba(179, 36, 43, 0.1)",
-    "goodColorOnBlack": "#04C3EB",
-    "goodColorOnWhite": "#B3242B",
-    "palette": [
-      "#f4bd6e",
-      "#b3242b",
-      "#04c3eb",
-      "#080c0b",
-      "#ced0d0"
-    ],
-    "source": {
-      "path": "apps/visual-comic-reader/visual-comic-reader-icon.png",
-      "revHash": "4d56ec975b"
     }
   },
   "visual-family-tree": {
@@ -14047,22 +12079,6 @@
       "revHash": "d6d3bceab4"
     }
   },
-  "vzl": {
-    "faintColorOnWhite": "rgba(2, 124, 181, 0.1)",
-    "goodColorOnBlack": "#04ACFC",
-    "goodColorOnWhite": "#027CB5",
-    "palette": [
-      "#04acfc",
-      "#aae4fc",
-      "#4bbffc",
-      "#34bcfc",
-      "#24b4fc"
-    ],
-    "source": {
-      "path": "apps/vzl/vzl-icon.png",
-      "revHash": "acaf16e5e2"
-    }
-  },
   "waifu2x-gui": {
     "faintColorOnWhite": "rgba(41, 103, 99, 0.1)",
     "goodColorOnBlack": "#4FF1EE",
@@ -14157,22 +12173,6 @@
     "source": {
       "path": "apps/walling/walling-icon.png",
       "revHash": "279c7456cb"
-    }
-  },
-  "wanna": {
-    "faintColorOnWhite": "rgba(10, 114, 173, 0.1)",
-    "goodColorOnBlack": "#44B4F4",
-    "goodColorOnWhite": "#0A72AD",
-    "palette": [
-      "#1197e4",
-      "#f8fafb",
-      "#69bef2",
-      "#44b4f4",
-      "#3ea2e1"
-    ],
-    "source": {
-      "path": "apps/wanna/wanna-icon.png",
-      "revHash": "83635e8492"
     }
   },
   "wanna-class": {
@@ -14283,7 +12283,7 @@
       "#8cb4dc"
     ],
     "source": {
-      "path": "apps\\webcatalog\\webcatalog-icon.png",
+      "path": "apps/webcatalog/webcatalog-icon.png",
       "revHash": "adfbeed343"
     }
   },
@@ -14383,22 +12383,6 @@
       "revHash": "634d63df25"
     }
   },
-  "wewe-chat": {
-    "faintColorOnWhite": "rgba(22, 130, 92, 0.1)",
-    "goodColorOnBlack": "#1BA374",
-    "goodColorOnWhite": "#16825C",
-    "palette": [
-      "#eaf4f9",
-      "#1ba374",
-      "#86ccbe",
-      "#5ec4a4",
-      "#7cbcb4"
-    ],
-    "source": {
-      "path": "apps/wewe-chat/wewe-chat-icon.png",
-      "revHash": "ae0a523553"
-    }
-  },
   "wexond": {
     "faintColorOnWhite": "rgba(2, 120, 186, 0.1)",
     "goodColorOnBlack": "#09A5FC",
@@ -14429,38 +12413,6 @@
     "source": {
       "path": "apps/whale/whale-icon.png",
       "revHash": "bb8f40ea8b"
-    }
-  },
-  "wharf": {
-    "faintColorOnWhite": "rgba(205, 67, 6, 0.1)",
-    "goodColorOnBlack": "#FCB494",
-    "goodColorOnWhite": "#CD4306",
-    "palette": [
-      "#fcfafa",
-      "#f47444",
-      "#fcb494",
-      "#f9a37e",
-      "#f4946c"
-    ],
-    "source": {
-      "path": "apps/wharf/wharf-icon.png",
-      "revHash": "7ee8a5c8c3"
-    }
-  },
-  "whatever": {
-    "faintColorOnWhite": "rgba(15, 56, 39, 0.1)",
-    "goodColorOnBlack": "#26845C",
-    "goodColorOnWhite": "#0F3827",
-    "palette": [
-      "#26845c",
-      "#0f3827",
-      "#cae5e0",
-      "#8caeac",
-      "#7cc49c"
-    ],
-    "source": {
-      "path": "apps/whatever/whatever-icon.png",
-      "revHash": "a01c19aa4d"
     }
   },
   "whatsapp": {
@@ -14575,22 +12527,6 @@
       "revHash": "09956328d9"
     }
   },
-  "wonder-reader": {
-    "faintColorOnWhite": "rgba(116, 31, 10, 0.1)",
-    "goodColorOnBlack": "#FBD537",
-    "goodColorOnWhite": "#741F0A",
-    "palette": [
-      "#741f0a",
-      "#2771ba",
-      "#fbd537",
-      "#de7d57",
-      "#2a3c54"
-    ],
-    "source": {
-      "path": "apps/wonder-reader/wonder-reader-icon.png",
-      "revHash": "8aa6eed647"
-    }
-  },
   "wordmark": {
     "faintColorOnWhite": "rgba(4, 124, 189, 0.1)",
     "goodColorOnBlack": "#74CCFC",
@@ -14687,22 +12623,6 @@
       "revHash": "8858cf64b6"
     }
   },
-  "wowcrypt": {
-    "faintColorOnWhite": "rgba(16, 25, 22, 0.1)",
-    "goodColorOnBlack": "#D951EB",
-    "goodColorOnWhite": "#101916",
-    "palette": [
-      "#e2d4e2",
-      "#101916",
-      "#d951eb",
-      "#8a8888",
-      "#6c746c"
-    ],
-    "source": {
-      "path": "apps/wowcrypt/wowcrypt-icon.png",
-      "revHash": "ff739b1f51"
-    }
-  },
   "writebar": {
     "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
     "goodColorOnBlack": "#F3F3F3",
@@ -14717,22 +12637,6 @@
     "source": {
       "path": "apps/writebar/writebar-icon.png",
       "revHash": "2a590cf710"
-    }
-  },
-  "xcel": {
-    "faintColorOnWhite": "rgba(43, 51, 67, 0.1)",
-    "goodColorOnBlack": "#90939B",
-    "goodColorOnWhite": "#2B3343",
-    "palette": [
-      "#2b3343",
-      "#90939b",
-      "#646974",
-      "#535868",
-      "#6c6c7c"
-    ],
-    "source": {
-      "path": "apps/xcel/xcel-icon.png",
-      "revHash": "095f292114"
     }
   },
   "xmind-zen": {
@@ -14863,22 +12767,6 @@
       "revHash": "38d8f5bef6"
     }
   },
-  "youget": {
-    "faintColorOnWhite": "rgba(202, 63, 71, 0.1)",
-    "goodColorOnBlack": "#F24C54",
-    "goodColorOnWhite": "#CA3F47",
-    "palette": [
-      "#ca3f47",
-      "#f24c54",
-      "#e44450",
-      "#dc444c",
-      "#ec4454"
-    ],
-    "source": {
-      "path": "apps/youget/youget-icon.png",
-      "revHash": "f6583c6d07"
-    }
-  },
   "yout": {
     "faintColorOnWhite": "rgba(217, 41, 76, 0.1)",
     "goodColorOnBlack": "#F4F4F4",
@@ -14895,22 +12783,6 @@
       "revHash": "f68f2da091"
     }
   },
-  "youtube-mp3": {
-    "faintColorOnWhite": "rgba(119, 24, 31, 0.1)",
-    "goodColorOnBlack": "#DC9C9C",
-    "goodColorOnWhite": "#77181F",
-    "palette": [
-      "#b62a2c",
-      "#eaeaeb",
-      "#77181f",
-      "#dc9c9c",
-      "#bc949c"
-    ],
-    "source": {
-      "path": "apps/youtube-mp3/youtube-mp3-icon.png",
-      "revHash": "6c1cf97dfa"
-    }
-  },
   "youtube-music-desktop-app": {
     "faintColorOnWhite": "rgba(227, 3, 3, 0.1)",
     "goodColorOnBlack": "#FC0404",
@@ -14925,54 +12797,6 @@
     "source": {
       "path": "apps/youtube-music-desktop-app/youtube-music-desktop-app-icon.png",
       "revHash": "64531d5548"
-    }
-  },
-  "youtube-to-mp3": {
-    "faintColorOnWhite": "rgba(117, 112, 2, 0.1)",
-    "goodColorOnBlack": "#FBEF04",
-    "goodColorOnWhite": "#757002",
-    "palette": [
-      "#8ddad1",
-      "#fbef04",
-      "#768f88",
-      "#aed381",
-      "#ccd266"
-    ],
-    "source": {
-      "path": "apps/youtube-to-mp3/youtube-to-mp3-icon.png",
-      "revHash": "08bcd6f749"
-    }
-  },
-  "ytdownloader": {
-    "faintColorOnWhite": "rgba(227, 29, 21, 0.1)",
-    "goodColorOnBlack": "#F48C88",
-    "goodColorOnWhite": "#E31D15",
-    "palette": [
-      "#e42c24",
-      "#fbfafa",
-      "#f48c88",
-      "#ec726c",
-      "#f49c9c"
-    ],
-    "source": {
-      "path": "apps/ytdownloader/ytdownloader-icon.png",
-      "revHash": "ae152e01d9"
-    }
-  },
-  "ytdx": {
-    "faintColorOnWhite": "rgba(219, 44, 67, 0.1)",
-    "goodColorOnBlack": "#DF4559",
-    "goodColorOnWhite": "#DB2C43",
-    "palette": [
-      "#db2c43",
-      "#242424",
-      "#2c2a2c",
-      "#48282c",
-      "#5e2c2e"
-    ],
-    "source": {
-      "path": "apps/ytdx/ytdx-icon.png",
-      "revHash": "7c51de78d9"
     }
   },
   "yukino": {
@@ -15071,22 +12895,6 @@
       "revHash": "5410f7a7cf"
     }
   },
-  "zenfocus": {
-    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
-    "goodColorOnBlack": "#E89D9D",
-    "goodColorOnWhite": "#040404",
-    "palette": [
-      "#040404",
-      "#e89d9d",
-      "#565656",
-      "#7c7c7c",
-      "#747474"
-    ],
-    "source": {
-      "path": "apps/zenfocus/zenfocus-icon.png",
-      "revHash": "4412acfa51"
-    }
-  },
   "zeplin": {
     "faintColorOnWhite": "rgba(145, 110, 2, 0.1)",
     "goodColorOnBlack": "#FCCC36",
@@ -15181,22 +12989,6 @@
     "source": {
       "path": "apps/zulip/zulip-icon.png",
       "revHash": "739f92420b"
-    }
-  },
-  "zuzu": {
-    "faintColorOnWhite": "rgba(4, 84, 76, 0.1)",
-    "goodColorOnBlack": "#049484",
-    "goodColorOnWhite": "#04544C",
-    "palette": [
-      "#049484",
-      "#f6f9f9",
-      "#042020",
-      "#76c4bc",
-      "#04544c"
-    ],
-    "source": {
-      "path": "apps/zuzu/zuzu-icon.png",
-      "revHash": "0c5654d6df"
     }
   }
 }
