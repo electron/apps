@@ -1,4 +1,4 @@
-import categories from './lib/app-categories'
+import categories from './lib/app-categories.js'
 import inquirer from 'inquirer'
 import isUrl from 'is-url'
 import fs from 'fs'
@@ -83,9 +83,7 @@ inquirer
     fs.writeFileSync(yamlPath, yamlContent)
     console.log()
     console.log(
-      `Yay! Created ${path.relative(
-        path.join(_dirname(import.meta), yamlPath)
-      )}`
+      `Yay! Created ${path.relative(_dirname(import.meta), yamlPath)}`
     )
     console.log(`Now you just need to add an icon named ${slug}-icon.png\n`)
     console.log(
