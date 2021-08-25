@@ -1,19 +1,18 @@
 'use strict'
 
-const fs = require('fs')
-const os = require('os')
-const path = require('path')
-const sinon = require('sinon')
+import fs from 'fs'
+import os from 'os'
+import path from 'path'
+import sinon from 'sinon'
 
-const chai = require('chai')
-const Jimp = require('jimp')
-const tinyColor = require('tinycolor2')
+import chai from 'chai'
+import Jimp from 'jimp'
+import tinyColor from 'tinycolor2'
+import { getColors } from '../lib/colors.js'
 
 chai.should()
 
 const expect = chai.expect
-
-const Colors = require('../lib/colors.js')
 
 describe('colors', function () {
   let consoleInfo
@@ -58,7 +57,7 @@ describe('colors', function () {
   it('should create entries with the expected properties', async () => {
     // test input
     const entry = slugsAndIconPaths[0]
-    const colors = await Colors.getColors([entry], {}, testDir)
+    const colors = await getColors([entry], {}, testDir)
     colors.should.have
       .keys(entry.slug)
       .and.property(entry.slug)
@@ -76,12 +75,12 @@ describe('colors', function () {
   }).timeout(5000)
 
   it('should add an entry when a new app is added', async () => {
-    const oldColors = await Colors.getColors(
+    const oldColors = await getColors(
       slugsAndIconPaths.slice(0, 1),
       {},
       testDir
     )
-    const newColors = await Colors.getColors(
+    const newColors = await getColors(
       slugsAndIconPaths.slice(0, 2),
       oldColors,
       testDir
@@ -93,12 +92,12 @@ describe('colors', function () {
   })
 
   it('should remove an entry when an app is removed', async () => {
-    const oldColors = await Colors.getColors(
+    const oldColors = await getColors(
       slugsAndIconPaths.slice(0, 2),
       {},
       testDir
     )
-    const newColors = await Colors.getColors(
+    const newColors = await getColors(
       slugsAndIconPaths.slice(0, 1),
       oldColors,
       testDir
@@ -110,8 +109,8 @@ describe('colors', function () {
   })
 
   it('should create reproducible output', async () => {
-    const a = await Colors.getColors(slugsAndIconPaths, {}, testDir)
-    const b = await Colors.getColors(slugsAndIconPaths, {}, testDir)
+    const a = await getColors(slugsAndIconPaths, {}, testDir)
+    const b = await getColors(slugsAndIconPaths, {}, testDir)
     a.should.deep.equal(b)
     expect(consoleInfo.callCount).to.equal(4)
   })
@@ -124,7 +123,7 @@ describe('colors', function () {
     // make the first icon unreadable
     fs.unlinkSync(badEntry.iconPath)
 
-    const colors = await Colors.getColors(input, {}, testDir)
+    const colors = await getColors(input, {}, testDir)
     colors.should.have.keys(goodEntry.slug).and.not.have.keys(badEntry.slug)
 
     expect(consoleError.callCount).to.equal(1)
@@ -143,7 +142,7 @@ describe('colors', function () {
       'This is a text file! The file suffix is wrong!\n'
     )
 
-    const colors = await Colors.getColors(entries, {}, testDir)
+    const colors = await getColors(entries, {}, testDir)
     colors.should.have.keys(goodEntry.slug).and.not.have.keys(badEntry.slug)
 
     expect(consoleError.callCount).to.equal(1)
@@ -154,13 +153,13 @@ describe('colors', function () {
 
   it('should update revHashes when icon files change', async () => {
     let entries = slugsAndIconPaths.map((original) => Object.create(original))
-    const oldColors = await Colors.getColors(entries, {}, testDir)
+    const oldColors = await getColors(entries, {}, testDir)
 
     entries = slugsAndIconPaths.map((original) => Object.create(original))
     const changedEntry = entries[0]
     const unchangedEntry = entries[1]
     changedEntry.iconPath = unchangedEntry.iconPath
-    const newColors = await Colors.getColors(entries, oldColors, testDir)
+    const newColors = await getColors(entries, oldColors, testDir)
 
     // the revHash on the unchanged entry should be unchanged
     expect(newColors)
