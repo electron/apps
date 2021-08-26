@@ -19,7 +19,7 @@ fs.readdirSync(path.join(__dirname, '../apps'))
     const meta = yaml.load(fs.readFileSync(yamlFile))
 
     if (meta.disabled) {
-      return;
+      return
     }
 
     const app = Object.assign(
