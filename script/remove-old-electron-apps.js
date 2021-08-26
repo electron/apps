@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
-import fs from 'fs'
-import semver from 'semver'
+const fs = require('fs').promises
+const semver = require('semver')
 
-import findOldElectronApps from '../lib/old-electron.js'
+const findOldElectronApps = require('../lib/old-electron')
 
 /* Links can break at any time and it's outside of the repo's control,
    so it doesn't make sense to run this script as part of CI. Instead,

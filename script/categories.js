@@ -1,9 +1,8 @@
-import fs from 'fs'
-import countArrayValues from 'count-array-values'
-import slugg from 'slugg'
-import apps from '../lib/raw-app-list.js'
-import path from 'path'
-import { _dirname } from '../lib/dirname.js'
+const fs = require('fs')
+const path = require('path')
+const countArrayValues = require('count-array-values')
+const slugg = require('slugg')
+const apps = require('../lib/raw-app-list')()
 
 console.log('Generating a list of categories with counts...')
 
@@ -15,6 +14,6 @@ const categories = countArrayValues(
   .sort((a, b) => b.count - a.count)
 
 fs.writeFileSync(
-  path.join(_dirname(import.meta), '../meta/categories.json'),
+  path.join(__dirname, '../meta/categories.json'),
   JSON.stringify(categories, null, 2)
 )

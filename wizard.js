@@ -1,14 +1,13 @@
-import categories from './lib/app-categories.js'
-import inquirer from 'inquirer'
-import isUrl from 'is-url'
-import fs from 'fs'
-import slugify from 'slugg'
-import cleanDeep from 'clean-deep'
-import yaml from 'yaml'
-import path from 'path'
-import { _dirname } from './lib/dirname.js'
-
-const existingSlugs = fs.readdirSync(path.join(_dirname(import.meta), 'apps'))
+const categories = require('./lib/app-categories')
+const inquirer = require('inquirer')
+const isUrl = require('is-url')
+const path = require('path')
+const fs = require('fs')
+const slugify = require('slugg')
+const mkdirp = require('mkdirp')
+const cleanDeep = require('clean-deep')
+const yaml = require('yaml')
+const existingSlugs = fs.readdirSync(path.join(__dirname, 'apps'))
 
 const questions = [
   {
@@ -76,15 +75,13 @@ inquirer
   .then(function (answers) {
     const app = cleanDeep(answers)
     const slug = slugify(app.name)
-    const basepath = path.join(_dirname(import.meta), 'apps', slug)
+    const basepath = path.join(path.join(__dirname, 'apps'), slug)
     const yamlPath = path.join(basepath, `${slug}.yml`)
     const yamlContent = yaml.stringify(app, 2)
     fs.mkdirSync(basepath)
     fs.writeFileSync(yamlPath, yamlContent)
     console.log()
-    console.log(
-      `Yay! Created ${path.relative(_dirname(import.meta), yamlPath)}`
-    )
+    console.log(`Yay! Created ${path.relative(process.cwd(), yamlPath)}`)
     console.log(`Now you just need to add an icon named ${slug}-icon.png\n`)
     console.log(
       `Once you're done, run \`npm test\` to verify. Then open your pull request!`

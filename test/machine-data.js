@@ -1,16 +1,12 @@
-import { describe, it } from 'mocha'
-import fs from 'fs'
-import isHexColor from 'is-hexcolor'
-import categories from '../categories.js'
-import { expect } from 'chai'
-import path from 'path'
-import yaml from 'js-yaml'
-import { _dirname } from '../lib/dirname.js'
-import appsWithRepos from '../lib/apps-with-github-repos.js'
-
-const apps = JSON.parse(
-  fs.readFileSync(path.join(_dirname(import.meta), '../index.json'))
-)
+const mocha = require('mocha')
+const describe = mocha.describe
+const it = mocha.it
+const fs = require('fs')
+const path = require('path')
+const apps = require('..')
+const isHexColor = require('is-hexcolor')
+const categories = require('../categories')
+const expect = require('chai').expect
 
 describe('machine-generated app data (exported by the module)', () => {
   it('is an array', () => {
@@ -19,12 +15,12 @@ describe('machine-generated app data (exported by the module)', () => {
 
   it('has the same number of apps as the apps directory', () => {
     const slugs = fs
-      .readdirSync(path.join(_dirname(import.meta), '../apps'))
-      .filter((filename) =>
-        fs
-          .statSync(path.join(_dirname(import.meta), `../apps/${filename}`))
+      .readdirSync(path.join(__dirname, '../apps'))
+      .filter((filename) => {
+        return fs
+          .statSync(path.join(__dirname, `../apps/${filename}`))
           .isDirectory()
-      )
+      })
       .filter((filename) => {
         const yamlFile = path.join(
           _dirname(import.meta),
@@ -112,6 +108,7 @@ describe('machine-generated app data (exported by the module)', () => {
   })
 
   describe('releases', () => {
+    const appsWithRepos = require('../lib/apps-with-github-repos')
     const appsWithLatestRelease = apps.filter((app) => app.latestRelease)
 
     it('tries to fetch a release for every app with a GitHub repo', () => {
@@ -161,6 +158,34 @@ describe('machine-generated app data (exported by the module)', () => {
         true
       )
     })
+  })
+
+  it('rewrites relative image source tags', () => {
+    const beaker = apps.find((app) => app.slug === 'beaker-browser')
+    const local = '<img src="build/icons/256x256.png"'
+    const remote =
+      '<img src="https://github.com/beakerbrowser/beaker/raw/master/build/icons/256x256.png"'
+
+    expect(beaker.readmeOriginal).to.include(local)
+    expect(beaker.readmeOriginal).to.not.include(remote)
+
+    expect(beaker.readmeCleaned).to.not.include(local)
+    expect(beaker.readmeCleaned).to.include(remote)
+  })
+
+  it('rewrites relative link hrefs', () => {
+    const app = apps.find(
+      (app) => app.slug === 'google-play-music-desktop-player'
+    )
+    const local = 'href="docs/PlaybackAPI.md"'
+    const remote =
+      'href="https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/blob/master/docs/PlaybackAPI.md"'
+
+    expect(app.readmeOriginal).to.include(local)
+    expect(app.readmeOriginal).to.not.include(remote)
+
+    expect(app.readmeCleaned).to.not.include(local)
+    expect(app.readmeCleaned).to.include(remote)
   })
 })
 

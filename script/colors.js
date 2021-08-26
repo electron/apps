@@ -1,10 +1,9 @@
 'use strict'
 
-import slugsAndIconPaths from '../lib/raw-app-list.js'
-import updateComplimentaryColorsFile from '../lib/colors.js'
-import path from 'path'
-import { _dirname } from '../lib/dirname.js'
+const path = require('path')
+const slugsAndIconPaths = require('../lib/raw-app-list')()
+const updateComplimentaryColorsFile = require('../lib/colors')
 
-const root = path.normalize(path.join(_dirname(import.meta), '..'))
+const root = path.normalize(path.join(__dirname, '..'))
 const colorsFile = path.normalize(path.join(root, 'meta', 'colors.json'))
 updateComplimentaryColorsFile(slugsAndIconPaths, colorsFile, root)
