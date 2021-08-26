@@ -1,15 +1,11 @@
-import fs from 'fs'
-import github from '../lib/github.js'
-import path from 'path'
-import { _dirname } from '../lib/dirname.js'
-
-const packageJSON = JSON.parse(
-  fs.readFileSync(path.join(_dirname(import.meta), '../package.json'))
-)
+const fs = require('fs')
+const path = require('path')
+const packageJSON = require('../package.json')
+const github = require('../lib/github')
 
 async function main() {
   const name = `${packageJSON.name}-${packageJSON.version}.tgz`
-  const archivePath = path.join(_dirname(import.meta), `../${name}`)
+  const archivePath = path.resolve(__dirname, `../${name}`)
 
   if (!fs.existsSync(archivePath)) {
     return console.warn('[METRICS] Unable to find the archive')

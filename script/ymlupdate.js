@@ -1,15 +1,12 @@
-import categories from '../lib/app-categories.js'
-import fs from 'fs'
-import path from 'path'
-import yaml from 'yaml'
-import path from 'path'
-import { _dirname } from '../lib/dirname.js'
-
+const categories = require('../lib/app-categories')
+const fs = require('fs')
+const path = require('path')
+const yaml = require('yaml')
 const slugs = fs
-  .readdirSync(path.join(_dirname(import.meta), '../apps'))
+  .readdirSync(path.join(__dirname, '../apps'))
   .filter((filename) => {
     return fs
-      .statSync(path.join(_dirname(import.meta), `../apps/${filename}`))
+      .statSync(path.join(__dirname, `../apps/${filename}`))
       .isDirectory()
   })
 
@@ -215,7 +212,7 @@ function saveYaml(app, yamlPath) {
 }
 
 slugs.forEach((slug) => {
-  const basedir = path.join(_dirname(import.meta), `../apps/${slug}`)
+  const basedir = path.join(__dirname, `../apps/${slug}`)
   const yamlFile = `${slug}.yml`
   const yamlPath = path.join(basedir, yamlFile)
   let app
