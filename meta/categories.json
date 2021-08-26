@@ -1,43 +1,38 @@
 [
   {
     "name": "Productivity",
-    "count": 255,
+    "count": 232,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 219,
+    "count": 185,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 144,
+    "count": 110,
     "slug": "utilities"
   },
   {
-    "name": "Music",
-    "count": 53,
-    "slug": "music"
-  },
-  {
     "name": "Social Networking",
-    "count": 50,
+    "count": 45,
     "slug": "social-networking"
   },
   {
+    "name": "Music",
+    "count": 43,
+    "slug": "music"
+  },
+  {
     "name": "Photo & Video",
-    "count": 49,
+    "count": 41,
     "slug": "photo-video"
   },
   {
     "name": "Games",
-    "count": 37,
+    "count": 33,
     "slug": "games"
-  },
-  {
-    "name": "Finance",
-    "count": 29,
-    "slug": "finance"
   },
   {
     "name": "Business",
@@ -46,7 +41,7 @@
   },
   {
     "name": "Education",
-    "count": 25,
+    "count": 23,
     "slug": "education"
   },
   {
@@ -55,19 +50,24 @@
     "slug": "graphics-design"
   },
   {
+    "name": "Finance",
+    "count": 19,
+    "slug": "finance"
+  },
+  {
     "name": "Entertainment",
-    "count": 15,
+    "count": 14,
     "slug": "entertainment"
   },
   {
-    "name": "Books",
-    "count": 9,
-    "slug": "books"
+    "name": "News",
+    "count": 7,
+    "slug": "news"
   },
   {
-    "name": "News",
-    "count": 8,
-    "slug": "news"
+    "name": "Books",
+    "count": 6,
+    "slug": "books"
   },
   {
     "name": "Lifestyle",
@@ -78,11 +78,6 @@
     "name": "Food & Drink",
     "count": 2,
     "slug": "food-drink"
-  },
-  {
-    "name": "Medical",
-    "count": 2,
-    "slug": "medical"
   },
   {
     "name": "Health & Fitness",
@@ -98,5 +93,10 @@
     "name": "Sports",
     "count": 1,
     "slug": "sports"
+  },
+  {
+    "name": "Medical",
+    "count": 1,
+    "slug": "medical"
   }
 ]
