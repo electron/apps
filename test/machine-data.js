@@ -35,11 +35,6 @@ describe('machine-generated app data (exported by the module)', () => {
         return true
       })
 
-    const generatedSlugs = apps.map((app) => app.slug)
-    const missingApps = slugs.filter((slug) => !generatedSlugs.includes(slug))
-    if (missingApps)
-      console.log('missings theses apps from generated json:', missingApps)
-
     expect(apps.length).to.be.above(100)
     expect(apps.length).to.equal(slugs.length)
   })
