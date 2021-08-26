@@ -1743,6 +1743,22 @@
       "revHash": "aeed425da4"
     }
   },
+  "codex": {
+    "faintColorOnWhite": "rgba(125, 60, 23, 0.1)",
+    "goodColorOnBlack": "#FB8338",
+    "goodColorOnWhite": "#7D3C17",
+    "palette": [
+      "#fb8338",
+      "#070504",
+      "#fca375",
+      "#9e582e",
+      "#7d3c17"
+    ],
+    "source": {
+      "path": "apps/codex/codex-icon.png",
+      "revHash": "c6d1515681"
+    }
+  },
   "colibri": {
     "faintColorOnWhite": "rgba(14, 121, 170, 0.1)",
     "goodColorOnBlack": "#1197D5",
@@ -9837,6 +9853,22 @@
     "source": {
       "path": "apps/sononym/sononym-icon.png",
       "revHash": "3f62a87ef2"
+    }
+  },
+  "soundboard": {
+    "faintColorOnWhite": "rgba(52, 76, 44, 0.1)",
+    "goodColorOnBlack": "#2CEB04",
+    "goodColorOnWhite": "#344C2C",
+    "palette": [
+      "#2ceb04",
+      "#040404",
+      "#80b360",
+      "#4e693e",
+      "#344c2c"
+    ],
+    "source": {
+      "path": "apps/soundboard/soundboard-icon.png",
+      "revHash": "895b90f9ef"
     }
   },
   "soundglass": {
