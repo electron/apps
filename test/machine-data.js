@@ -3,6 +3,7 @@ const describe = mocha.describe
 const it = mocha.it
 const fs = require('fs')
 const path = require('path')
+const yaml = require('js-yaml')
 const apps = require('..')
 const isHexColor = require('is-hexcolor')
 const categories = require('../categories')
@@ -16,14 +17,12 @@ describe('machine-generated app data (exported by the module)', () => {
   it('has the same number of apps as the apps directory', () => {
     const slugs = fs
       .readdirSync(path.join(__dirname, '../apps'))
-      .filter((filename) => {
-        return fs
-          .statSync(path.join(__dirname, `../apps/${filename}`))
-          .isDirectory()
-      })
+      .filter((filename) =>
+        fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory()
+      )
       .filter((filename) => {
         const yamlFile = path.join(
-          _dirname(import.meta),
+          __dirname,
           `../apps/${filename}/${filename}.yml`
         )
         const meta = yaml.load(fs.readFileSync(yamlFile))
@@ -34,6 +33,11 @@ describe('machine-generated app data (exported by the module)', () => {
 
         return true
       })
+
+    const generatedSlugs = apps.map((app) => app.slug)
+    const missingApps = slugs.filter((slug) => !generatedSlugs.includes(slug))
+    if (missingApps)
+      console.log('missings theses apps from generated json:', missingApps)
 
     expect(apps.length).to.be.above(100)
     expect(apps.length).to.equal(slugs.length)
@@ -153,34 +157,6 @@ describe('machine-generated app data (exported by the module)', () => {
         true
       )
     })
-  })
-
-  it('rewrites relative image source tags', () => {
-    const beaker = apps.find((app) => app.slug === 'beaker-browser')
-    const local = '<img src="build/icons/256x256.png"'
-    const remote =
-      '<img src="https://github.com/beakerbrowser/beaker/raw/master/build/icons/256x256.png"'
-
-    expect(beaker.readmeOriginal).to.include(local)
-    expect(beaker.readmeOriginal).to.not.include(remote)
-
-    expect(beaker.readmeCleaned).to.not.include(local)
-    expect(beaker.readmeCleaned).to.include(remote)
-  })
-
-  it('rewrites relative link hrefs', () => {
-    const app = apps.find(
-      (app) => app.slug === 'google-play-music-desktop-player'
-    )
-    const local = 'href="docs/PlaybackAPI.md"'
-    const remote =
-      'href="https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-/blob/master/docs/PlaybackAPI.md"'
-
-    expect(app.readmeOriginal).to.include(local)
-    expect(app.readmeOriginal).to.not.include(remote)
-
-    expect(app.readmeCleaned).to.not.include(local)
-    expect(app.readmeCleaned).to.include(remote)
   })
 })
 
