@@ -34,8 +34,27 @@ console.log(
 )
 
 appsToUpdate.forEach((app) => {
-  limiter
-    .schedule(getReadme, app)
+  limiter.schedule(getReadme, app)
+})
+
+limiter.on('idle', () => {
+  fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
+  console.log(`Done fetching README files.\nWrote ${outputFile}`)
+  process.exit()
+})
+
+function getReadme(app) {
+  const { user: owner, repo } = parseGitUrl(app.repository)
+  const opts = {
+    owner: owner,
+    repo: repo,
+    headers: {
+      Accept: 'application/vnd.github.v3.html',
+    },
+  }
+
+  return github.repos
+    .get(opts)
     .then((repository) => {
       return repository.data.default_branch
     })
@@ -48,8 +67,8 @@ appsToUpdate.forEach((app) => {
       return
     })
     .then((defaultBranch) => {
-      limiter
-        .schedule(getReadme, app, defaultBranch)
+      github.repos
+        .getReadme(opts)
         .then((release) => {
           console.log(`${app.slug}: got latest README`)
           output[app.slug] = {
@@ -70,31 +89,6 @@ appsToUpdate.forEach((app) => {
           }
         })
     })
-})
-
-limiter.on('idle', () => {
-  setTimeout(() => {
-    fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
-    console.log(`Done fetching README files.\nWrote ${outputFile}`)
-    process.exit()
-  }, 1000)
-})
-
-function getReadme(app, defaultBranch) {
-  const { user: owner, repo } = parseGitUrl(app.repository)
-  const opts = {
-    owner: owner,
-    repo: repo,
-    headers: {
-      Accept: 'application/vnd.github.v3.html',
-    },
-  }
-
-  if (defaultBranch) {
-    return github.repos.getReadme(opts)
-  }
-
-  return github.repos.get(opts)
 }
 
 function cleanReadme(readme, defaultBranch, app) {
