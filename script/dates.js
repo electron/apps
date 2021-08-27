@@ -1,11 +1,9 @@
-import fs from 'fs'
-import apps from '../lib/raw-app-list.js'
-import path from 'path'
-import { _dirname } from '../lib/dirname.js'
-
-const datesPath = path.join(_dirname(import.meta), '../meta/dates.json')
-const dates = JSON.parse(fs.readFileSync(datesPath))
+const fs = require('fs')
+const path = require('path')
+const datesPath = path.join(__dirname, '../meta/dates.json')
+const dates = require(datesPath)
 const existingSlugs = Object.keys(dates)
+const apps = require('../lib/raw-app-list')()
 
 console.log('Checking app submission dates...')
 

@@ -1,35 +1,21 @@
-import fs from 'fs'
-import yaml from 'js-yaml'
-import parseGitHubUrl from 'github-url-to-object'
-import path from 'path'
-import { _dirname } from '../lib/dirname.js'
-
-const dates = JSON.parse(
-  fs.readFileSync(path.join(_dirname(import.meta), '../meta/dates.json'))
-)
-const colors = JSON.parse(
-  fs.readFileSync(path.join(_dirname(import.meta), '../meta/colors.json'))
-)
-const releases = JSON.parse(
-  fs.readFileSync(path.join(_dirname(import.meta), '../meta/releases.json'))
-)
-const readmes = JSON.parse(
-  fs.readFileSync(path.join(_dirname(import.meta), '../meta/readmes.json'))
-)
-
+const fs = require('fs')
+const path = require('path')
+const yaml = require('js-yaml')
+const dates = require('../meta/dates.json')
+const colors = require('../meta/colors.json')
+const releases = require('../meta/releases.json')
+const readmes = require('../meta/readmes.json')
+const parseGitHubUrl = require('github-url-to-object')
 const apps = []
 
-fs.readdirSync(path.join(_dirname(import.meta), '../apps'))
+fs.readdirSync(path.join(__dirname, '../apps'))
   .filter((filename) => {
     return fs
-      .statSync(path.join(_dirname(import.meta), `../apps/${filename}`))
+      .statSync(path.join(__dirname, `../apps/${filename}`))
       .isDirectory()
   })
   .forEach((slug) => {
-    const yamlFile = path.join(
-      _dirname(import.meta),
-      `../apps/${slug}/${slug}.yml`
-    )
+    const yamlFile = path.join(__dirname, `../apps/${slug}/${slug}.yml`)
     const meta = yaml.load(fs.readFileSync(yamlFile))
 
     if (meta.disabled) {
@@ -72,6 +58,6 @@ fs.readdirSync(path.join(_dirname(import.meta), '../apps'))
   })
 
 fs.writeFileSync(
-  path.join(_dirname(import.meta), '../index.json'),
+  path.join(__dirname, '../index.json'),
   JSON.stringify(apps, null, 2)
 )

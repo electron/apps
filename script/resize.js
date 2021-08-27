@@ -1,11 +1,10 @@
-import sharp from 'sharp'
-import path from 'path'
-import fs from 'fs'
-import recursiveReadSync from 'recursive-readdir-sync'
-import imagemin from 'imagemin'
-import imageminPngquant from 'imagemin-pngquant'
-import yaml from 'js-yaml'
-import { _dirname } from '../lib/dirname.js'
+const sharp = require('sharp')
+const path = require('path')
+const fs = require('fs')
+const recursiveReadSync = require('recursive-readdir-sync')
+const imagemin = require('imagemin')
+const imageminPngquant = require('imagemin-pngquant')
+const yaml = require('js-yaml')
 
 async function resize(file, size) {
   const newFile = file.replace('.png', `-${size}.png`)
@@ -28,9 +27,9 @@ async function resize(file, size) {
 }
 
 async function main() {
-  const icons = recursiveReadSync(
-    path.join(_dirname(import.meta), '../apps')
-  ).filter((file) => file.match(/icon\.png/))
+  const icons = recursiveReadSync(path.join(__dirname, '../apps')).filter(
+    (file) => file.match(/icon\.png/)
+  )
 
   console.log(`Resizing ${icons.length} icons...`)
   const resizes = icons.reduce((acc, icon) => {

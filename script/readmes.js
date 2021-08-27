@@ -1,27 +1,24 @@
-import fs from 'fs'
-import Bottleneck from 'bottleneck'
-import github from '../lib/github.js'
-import cheerio from 'cheerio'
-import parseGitUrl from 'github-url-to-object'
-import humanInterval from 'human-interval'
-import apps from '../lib/raw-app-list.js'
-import appsWithRepos from '../lib/apps-with-github-repos.js'
-import path from 'path'
-import { _dirname } from '../lib/dirname.js'
-
 const MAX_CONCURRENCY = Number(process.env.MAX_CONCURRENCY) || 4 // simultaneous open web requests
-const README_CACHE_TTL = humanInterval(
+const README_CACHE_TTL = require('human-interval')(
   process.env.README_CACHE_TTL || '4 hours'
 )
 
-const outputFile = path.join(_dirname(import.meta), '../meta/readmes.json')
-const oldReadmeData = JSON.parse(fs.readFileSync(outputFile))
+const fs = require('fs')
+const path = require('path')
+const Bottleneck = require('bottleneck')
+const github = require('../lib/github')
+const cheerio = require('cheerio')
+const parseGitUrl = require('github-url-to-object')
 
+const outputFile = path.join(__dirname, '../meta/readmes.json')
+const oldReadmeData = require(outputFile)
 const output = {}
 const limiter = new Bottleneck({
   maxConcurrent: MAX_CONCURRENCY,
 })
 
+const apps = require('../lib/raw-app-list')()
+const appsWithRepos = require('../lib/apps-with-github-repos')
 const appsToUpdate = appsWithRepos.filter((app) => {
   const oldData = oldReadmeData[app.slug]
   if (!oldData) return true

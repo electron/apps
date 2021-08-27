@@ -1,6 +1,5 @@
 name: Codex
-description:
-  'Free note-taking software for programmers and CS students.'
+description: 'Free note-taking software for programmers and CS students.'
 website: 'https://www.codexnotes.com/'
 category: Developer Tools
 repository: 'https://github.com/jcv8000/Codex'
