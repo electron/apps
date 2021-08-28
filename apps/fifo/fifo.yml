@@ -1,0 +1,10 @@
+name: Fifo
+description: This is a privacy orientated browser. Fork of Wexond.
+website: https://fifo.snaildos.com
+category: Productivity
+repository: https://github.com/snaildos/Fifo-Browser
+keywords:
+  - Browser
+  - Privacy
+  - Secure
+  - React
