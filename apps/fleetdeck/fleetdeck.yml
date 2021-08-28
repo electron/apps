@@ -1,0 +1,14 @@
+name: 'FleetDeck'
+description:
+  'Remote Desktop & Virtual Terminal solution, tailored for techs to securely
+  manage large fleets of computers.'
+website: 'https://fleetdeck.io'
+keywords:
+  - 'remote powershell'
+  - 'remote desktop'
+  - 'virtual terminal'
+  - 'unattended access'
+  - 'remote access'
+  - security
+  - RMM
+category: Utilities
