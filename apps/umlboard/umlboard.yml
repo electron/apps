@@ -1,0 +1,22 @@
+name: UMLBoard
+description: Create UML class diagrams with a nice whiteboard look.
+website: https://www.umlboard.com
+category: Developer Tools
+keywords:
+  - UML
+  - whiteboard
+  - class designer
+  - handdrawn
+screenshots:
+  - imageUrl: 'https://www.umlboard.com/images/screenshots/Adapter-text.png'
+    caption: 'Easy-to-use UML class designer'
+  - imageUrl: 'https://www.umlboard.com/images/screenshots/Color-text.png'
+    caption: 'Use different colors to group your diagram concepts'
+  - imageUrl: 'https://www.umlboard.com/images/screenshots/DesignPattern-text.png'
+    caption:
+      'Use existing design patterns as a starting point for your own diagrams'
+  - imageUrl: 'https://www.umlboard.com/images/screenshots/Observer.png'
+    caption: 'Available on Windows and Mac Desktop'
+locales:
+  - en-US
+  - de-DE
