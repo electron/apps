@@ -1,0 +1,25 @@
+name: wintube
+description: 'YouTube Client for people arround the world to watch youtube without any ad or even anonymous(available in blocked countries without using VPN or Proxy)'
+website: 'https://wintube.herokuapp.com/'
+keywords: 
+  - wintube
+  - youtube
+  - client
+  - yt-dl
+  - yt
+  - tube
+  - Exxon
+  - EhsanFox
+category: 'Photo & Video'
+screenshots:
+  - 
+    imageUrl: 'https://cdn.discordapp.com/attachments/850741464437882920/880280852754489354/unknown.png'
+    caption: 'Screenshot-1'
+    imageLink: 'https://wintube.herokuapp.com/'
+  - 
+    imageUrl: 'https://cdn.discordapp.com/attachments/850741464437882920/880281005255168050/unknown.png'
+    caption: 'Screenshot-2'
+    imageLink: 'https://wintube.herokuapp.com/'
+locales:
+  - en-US
+  - fa-IR
