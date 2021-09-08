@@ -1,0 +1,25 @@
+name: Monokle
+description: 'K8s Resource & Manifest IDE.'
+website: 'https://monokle.io'
+license: MIT
+repository: 'https://github.com/kubeshop/monokle'
+youtube_video_url: 'https://www.youtube.com/watch?v=9c80qj9NkQk&t=3s'
+keywords:
+  - Kubernetes
+  - Helm
+  - Kustomize
+  - Validation
+category: 'Developer Tools'
+screenshots:
+  - imageUrl: 'https://kubeshop.github.io/monokle/img/resource-navigation-2.png'
+    caption: 'Resource navigation'
+    imageLink: 'https://kubeshop.github.io/monokle/resource-navigation/'
+  - imageUrl: 'https://kubeshop.github.io/monokle/img/kustomize-navigation.png'
+    caption: 'Kustomize Support'
+    imageLink: 'https://kubeshop.github.io/monokle/kustomize/'
+  - imageUrl: 'https://kubeshop.github.io/monokle/img/helm-preview-output.png'
+    caption: 'Debug the output of a Helm Chart'
+    imageLink: 'https://kubeshop.github.io/monokle/helm/'
+  - imageUrl: 'https://kubeshop.github.io/monokle/img/cluster-preview.png'
+    caption: 'View Cluster Resources'
+    imageLink: 'https://kubeshop.github.io/monokle/cluster-integration/'
