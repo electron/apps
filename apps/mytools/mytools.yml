@@ -1,0 +1,11 @@
+name: MyTools
+description: 'A set of tools for developers.'
+website: 'https://github.com/hiql/mytools-desktop'
+repository: 'https://github.com/hiql/mytools-desktop'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/hiql/mytools-desktop/main/screenshots/screenshot.jpg'
+keywords:
+  - utility
+  - tools
+category: 'Developer Tools'
+license: MIT
