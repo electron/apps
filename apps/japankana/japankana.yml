@@ -1,0 +1,14 @@
+name: Janpankana
+description: 'Japanese Kanji to Katakana.'
+website: 'https://github.com/styunan/japankana#readme'
+repository: 'https://github.com/styunan/japankana'
+license: MIT
+screenshots:
+  - imageUrl: 'https://img-blog.csdnimg.cn/2021040415460812.png'
+keywords:
+  - 'japankana'
+  - 'japanhr'
+  - 'Japanese'
+  - 'Kanji'
+  - 'Katakana'
+category: Productivity
