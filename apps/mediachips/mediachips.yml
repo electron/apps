@@ -1,0 +1,33 @@
+name: mediaChips
+description: Adding metadata to local media, organizing and browsing.
+website: https://mediachips.app
+category: Photo & Video
+repository: https://github.com/fupdec/mediaChips
+keywords:
+  - organization
+  - management
+  - file-manager
+  - database
+  - catalog
+  - search
+  - library
+  - media
+  - video
+  - videos
+license: GPL-3.0
+screenshots:
+  - {
+      imageUrl: 'https://mediachips.app/wp-content/uploads/2021/08/videos_dark.jpg',
+      caption: Videos,
+      imageLink: 'https://mediachips.app/',
+    }
+  - {
+      imageUrl: 'https://mediachips.app/wp-content/uploads/2021/08/videos_player_dark.jpg',
+      caption: 'Video Player',
+      imageLink: 'https://mediachips.app/',
+    }
+  - {
+      imageUrl: 'https://mediachips.app/wp-content/uploads/2021/08/meta_page.jpg',
+      caption: Metadata,
+      imageLink: 'https://mediachips.app/',
+    }
