@@ -4,3 +4,4 @@ website: 'https://maybulb.com/nimble/'
 keywords:
   - menubar
 category: Utilities
+disabled: true # Project website not working
