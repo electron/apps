@@ -2,8 +2,12 @@ name: Threema For Desktop
 description: Unofficial desktop client for Threema.
 website: https://github.com/GeekCornerGH/Threema-For-Desktop#readme
 category: Social Networking
-repository: https://github.com/GeekCornerGH/Threema-For-Desktop.git
+repository: https://github.com/GeekCornerGH/Threema-For-Desktop
 keywords:
   - threema
   - desktop
 license: MIT
+sceenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/GeekCornerGH/threema-for-desktop/master/docs/imgs/Landing_screen.png'
+    caption: 'Landing page'
+    imageLink: 'https://github.com/GeekCornerGH/Threema-For-Desktop/'
