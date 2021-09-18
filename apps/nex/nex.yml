@@ -1,0 +1,14 @@
+name: Nex
+description: The incognito browser of the 30th century
+website: https://tesseract.github.io/Nex
+category: Productivity
+repository: https://github.com/tesseract-org/Nex
+keywords:
+  - browser
+  - privacy
+  - minimal
+  - incognito
+  - tor
+  - security
+  - web
+license: EPL-2.0
