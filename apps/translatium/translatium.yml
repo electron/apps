@@ -1,12 +1,12 @@
 name: Translatium
-description: 'Translate 100+ Languages like a Pro'
-website: 'https://atomery.com/translatium'
-repository: 'https://github.com/atomery/translatium'
+description: 'Translate 100+ Languages Instantly.'
+website: 'https://translatium.app'
+repository: 'https://github.com/webcatalog/translatium-desktop'
+license: MPL-2.0
 screenshots:
-  - imageUrl: 'https://storage.atomery.com/marketing/translatium/screenshot.png'
-    caption: 'Translatium (Light theme)'
-  - imageUrl: 'https://storage.atomery.com/marketing/translatium/screenshot-2.png'
-    caption: 'Translatium (Dark theme)'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/translatium/Home+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/translatium/Phrasebook+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/translatium/Preferences+-+Light.png'
 keywords:
   - 'google translate'
   - 'material design'

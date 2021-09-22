@@ -10,3 +10,4 @@ keywords:
   - File Manager
   - Minimalistic
 category: Utilities
+disabled: true # Old Electron version: v3.0.10

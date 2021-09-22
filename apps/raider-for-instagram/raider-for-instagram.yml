@@ -9,15 +9,5 @@ keywords:
   - IG
   - Insta
 screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/AssetKid/raider-release/master/showcase/demo.gif'
-    caption: 'Simple Demo'
-  - imageUrl: 'https://raw.githubusercontent.com/AssetKid/raider-release/master/showcase/main_ui.gif'
-    caption: 'Clean Minimal Design'
-  - imageUrl: 'https://raw.githubusercontent.com/AssetKid/raider-release/master/showcase/add_account.gif'
-    caption: 'Add Account'
-  - imageUrl: 'https://raw.githubusercontent.com/AssetKid/raider-release/master/showcase/multi_accounts.gif'
-    caption: 'Multi Accounts Support'
-  - imageUrl: 'https://raw.githubusercontent.com/AssetKid/raider-release/master/showcase/update_all.gif'
-    caption: 'Subscribe to Accounts'
-  - imageUrl: 'https://raw.githubusercontent.com/AssetKid/raider-release/master/showcase/edit_account.gif'
-    caption: 'Edit/Delete Subscribed Accounts'
+  - imageUrl: 'https://github.com/AssetKid/raider-release/blob/master/showcase/ss.png?raw=true'
+    caption: 'Showcase'

@@ -1,0 +1,45 @@
+name: BoxHero
+description:
+  'No experience needed! BoxHero is the inventory management for everyone.'
+website: https://www.boxhero-app.com
+repository: https://github.com/bgpworks/boxhero-electron
+category: Business
+screenshots:
+  - imageUrl: 'https://cdn.bgp.works/boxhero-electron-apps/item_list.png'
+    caption: 'Item List'
+    imageLink: 'https://www.boxhero-app.com'
+  - imageUrl: 'https://cdn.bgp.works/boxhero-electron-apps/item_detail.png'
+    caption: 'Item Detail'
+    imageLink: 'https://www.boxhero-app.com'
+  - imageUrl: 'https://cdn.bgp.works/boxhero-electron-apps/dashboard.png'
+    caption: 'Dashboard'
+    imageLink: 'https://www.boxhero-app.com'
+  - imageUrl: 'https://cdn.bgp.works/boxhero-electron-apps/stock_in.png'
+    caption: 'Stock In'
+    imageLink: 'https://www.boxhero-app.com'
+  - imageUrl: 'https://cdn.bgp.works/boxhero-electron-apps/barcode_scan.png'
+    caption: 'Barcode Scan'
+    imageLink: 'https://www.boxhero-app.com'
+  - imageUrl: 'https://cdn.bgp.works/boxhero-electron-apps/label_design.png'
+    caption: 'Barcode Label Design'
+    imageLink: 'https://www.boxhero-app.com'
+  - imageUrl: 'https://cdn.bgp.works/boxhero-electron-apps/label_print.png'
+    caption: 'Barcode Label Print'
+    imageLink: 'https://www.boxhero-app.com'
+  - imageUrl: 'https://cdn.bgp.works/boxhero-electron-apps/transaction_history.png'
+    caption: 'Transaction History'
+    imageLink: 'https://www.boxhero-app.com'
+keywords:
+  - inventory
+  - 'inventory management'
+  - 'stock control'
+  - barcode
+  - qrcode
+  - sku
+  - scanner
+  - warehouse
+  - e-commerce
+  - POS
+locales:
+  - en
+  - ko

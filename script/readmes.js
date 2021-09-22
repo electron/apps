@@ -13,7 +13,9 @@ const parseGitUrl = require('github-url-to-object')
 const outputFile = path.join(__dirname, '../meta/readmes.json')
 const oldReadmeData = require(outputFile)
 const output = {}
-const limiter = new Bottleneck(MAX_CONCURRENCY)
+const limiter = new Bottleneck({
+  maxConcurrent: MAX_CONCURRENCY,
+})
 
 const apps = require('../lib/raw-app-list')()
 const appsWithRepos = require('../lib/apps-with-github-repos')
@@ -32,27 +34,8 @@ console.log(
 )
 
 appsToUpdate.forEach((app) => {
-  limiter.schedule(getReadme, app)
-})
-
-limiter.on('idle', () => {
-  fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
-  console.log(`Done fetching README files.\nWrote ${outputFile}`)
-  process.exit()
-})
-
-function getReadme(app) {
-  const { user: owner, repo } = parseGitUrl(app.repository)
-  const opts = {
-    owner: owner,
-    repo: repo,
-    headers: {
-      Accept: 'application/vnd.github.v3.html',
-    },
-  }
-
-  return github.repos
-    .get(opts)
+  limiter
+    .schedule(getReadme, app)
     .then((repository) => {
       return repository.data.default_branch
     })
@@ -65,8 +48,8 @@ function getReadme(app) {
       return
     })
     .then((defaultBranch) => {
-      github.repos
-        .getReadme(opts)
+      limiter
+        .schedule(getReadme, app, defaultBranch)
         .then((release) => {
           console.log(`${app.slug}: got latest README`)
           output[app.slug] = {
@@ -87,6 +70,31 @@ function getReadme(app) {
           }
         })
     })
+})
+
+limiter.on('idle', () => {
+  setTimeout(() => {
+    fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
+    console.log(`Done fetching README files.\nWrote ${outputFile}`)
+    process.exit()
+  }, 1000)
+})
+
+function getReadme(app, defaultBranch) {
+  const { user: owner, repo } = parseGitUrl(app.repository)
+  const opts = {
+    owner: owner,
+    repo: repo,
+    headers: {
+      Accept: 'application/vnd.github.v3.html',
+    },
+  }
+
+  if (defaultBranch) {
+    return github.repos.getReadme(opts)
+  }
+
+  return github.repos.get(opts)
 }
 
 function cleanReadme(readme, defaultBranch, app) {

@@ -1,6 +1,6 @@
 name: Yosoro
 description: 'Beautiful Cloud Drive Markdown NoteBook Desktop App.'
-website: 'https://yosoro.coolecho.net'
+website: 'https://github.com/IceEnd/Yosoro'
 category: Productivity
 repository: 'https://github.com/IceEnd/Yosoro'
 keywords:
@@ -10,4 +10,4 @@ keywords:
   - notebook
 license: GPL-3.0
 screenshots:
-  - imageUrl: 'https://yosoro.coolecho.net/static/img/osx.9c37ed1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/IceEnd/Yosoro-Img/img/yosoro/20190629190325-image.png'

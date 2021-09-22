@@ -1,0 +1,68 @@
+name: sleek
+description:
+  'Todo app based on todo.txt, free and open-source. sleek is available for
+  Linux, Windows and MacOS.'
+website: 'https://github.com/ransome1/sleek'
+repository: 'https://github.com/ransome1/sleek'
+snapcraftName: sleek
+keywords:
+  - todo
+  - todo.txt
+  - todo.txt gui
+  - todo.txt client
+  - todo.txt app
+  - productivity
+  - task manager
+  - todo manager
+  - open source
+  - lists
+  - fulltext search
+  - filters
+  - multi language
+  - dark mode
+  - repeating todos
+  - archiving
+  - thresolds
+  - alarms
+  - reminders
+  - due dates
+  - compact view
+  - file watcher
+  - mac
+  - windows
+  - linux
+category: 'Productivity'
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/linux/todo_list.png'
+    caption: 'sleeks main view'
+    imageLink: 'https://github.com/ransome1/sleek'
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/linux/sort_by_due_date_dark.png'
+    caption: 'sleeks main view in dark mode, sorted by due date'
+    imageLink: 'https://github.com/ransome1/sleek'
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/linux/category_filtered_dark.png'
+    caption:
+      'sleeks main view in dark mode, filter drawer opened, whole priority
+      category hidden'
+    imageLink: 'https://github.com/ransome1/sleek'
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/linux/multiline_autocomplete_dark.png'
+    caption: 'Adding a new multi line todo and auto complete function shown'
+    imageLink: 'https://github.com/ransome1/sleek'
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/linux/date_picker.png'
+    caption: 'Adding a new todo and date picker shown'
+    imageLink: 'https://github.com/ransome1/sleek'
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/linux/compact_view_dark.png'
+    caption: 'sleeks main view in dark mode and in compact view'
+    imageLink: 'https://github.com/ransome1/sleek'
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/linux/recurrence_picker_dark.png'
+    caption: 'sleek in dark mode, recurrence picker shown'
+    imageLink: 'https://github.com/ransome1/sleek'
+  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/linux/file_switcher.png'
+    caption: 'File switcher'
+    imageLink: 'https://github.com/ransome1/sleek'
+locales:
+  - de-DE
+  - en-GB
+  - fr-FR
+  - es-ES
+  - it-IT
