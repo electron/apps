@@ -10,15 +10,5 @@ keywords:
   - Checker
 license: MIT
 screenshots:
-  - imageUrl: 'https://openproxy.space/static/images/checker/0.png'
+  - imageUrl: 'https://camo.githubusercontent.com/3a4d410a794ac85553c954ed6a99e095eb0e2417a5064eace66207f175b62949/68747470733a2f2f692e6962622e636f2f6a3562354373522f332e706e67g'
     caption: 'Main page'
-  - imageUrl: 'https://openproxy.space/static/images/checker/1.png'
-    caption: 'Ping judges overlay'
-  - imageUrl: 'https://openproxy.space/static/images/checker/2.png'
-    caption: 'Checking process'
-  - imageUrl: 'https://openproxy.space/static/images/checker/3.png'
-    caption: 'Results'
-  - imageUrl: 'https://openproxy.space/static/images/checker/4.png'
-    caption: 'Countries selector'
-  - imageUrl: 'https://openproxy.space/static/images/checker/5.png'
-    caption: 'Export'

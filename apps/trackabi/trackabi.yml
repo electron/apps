@@ -1,0 +1,15 @@
+name: Trackabi Time Tracker
+description:
+  'Trackabi desktop timer for Windows, Linux, & macOS can automatically log time
+  worked & prepare user activity statistics. It can detect idle time & record
+  applications used. Trackabi is an excellent choice for freelancers, small &
+  medium-sized enterprises.'
+website: 'https://trackabi.com'
+repository: 'https://github.com/Trackabi/desktop-time-tracking'
+youtube_video_url: 'https://www.youtube.com/watch?v=kQQDDb0qzuE'
+keywords:
+  - Time tracking application
+  - Timesheets
+  - User activity monitoring
+  - Gamification of time tracking
+category: Productivity

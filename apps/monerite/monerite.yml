@@ -11,3 +11,4 @@ keywords:
   - crypto
   - cryptocurrency
   - bitcoin
+disabled: true # Old Electron version: v1.8.3

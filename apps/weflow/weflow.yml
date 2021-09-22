@@ -1,6 +1,6 @@
 name: WeFlow
 description: 'A Web development workflow tool based on tmt-workflow'
-website: 'https://weflow.io/'
+website: 'https://github.com/weixin/WeFlow'
 repository: 'https://github.com/weixin/WeFlow'
 keywords:
   - 'Web Development'

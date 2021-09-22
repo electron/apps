@@ -10,3 +10,4 @@ category: Utilities
 repository: 'https://github.com/DextApp/dext'
 screenshots:
   - imageUrl: 'https://github.com/DextApp/dext/raw/6c5207252ddc2faeaca9688b8e9023d9bfd14055/screenshot.gif'
+disabled: true # Old Electron version: v1.6.1

@@ -8,3 +8,4 @@ keywords:
 category: Utilities
 screenshots:
   - imageUrl: 'https://camo.githubusercontent.com/a3fd460c6de33853b44ca48b0c6911e90181a5ef/68747470733a2f2f666c6f7269616e66652e6769746875622e696f2f73637265656e73686f74732f656173792d746f6e6775652f73637265656e73686f742d312e706e67'
+disabled: true # Old Electron version: v1.4.1

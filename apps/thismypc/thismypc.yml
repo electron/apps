@@ -1,6 +1,6 @@
 name: ThisMyPC
 description: 'Browse your PC remotely from any web browser.'
-website: 'http://thismypc.com/'
+website: 'https://github.com/supunlakmal/thismypc'
 category: 'Developer Tools'
 repository: 'https://github.com/supunlakmal/thismypc'
 keywords:

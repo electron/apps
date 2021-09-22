@@ -13,3 +13,4 @@ screenshots:
   - imageUrl: 'https://camo.githubusercontent.com/22195144ba3459ab4437873b38614d6bede5a11e/68747470733a2f2f647a776f6e73656d72697368372e636c6f756466726f6e742e6e65742f6974656d732f33473132324d334c3349323232773176307430572f466f726d2e6a70673f763d3939663634376137'
     caption: 'Form'
     imageLink: 'https://getmanta.app'
+disabled: true # Old Electron version: v1.8.3

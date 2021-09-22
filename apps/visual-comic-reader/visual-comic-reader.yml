@@ -11,3 +11,4 @@ keywords:
 category: Books
 screenshots:
   - imageUrl: 'https://camo.githubusercontent.com/d2c6e221bede9ec580d285d203079b322cf75388/687474703a2f2f692e696d6775722e636f6d2f55794374506e732e6a7067'
+disabled: true # Old Electron version: v1.6.2

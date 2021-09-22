@@ -10,3 +10,4 @@ screenshots:
     caption: 'ZUZU'
     imageLink: 'https://electronjs.org/apps/zuzu'
 license: MIT
+disabled: true # Old Electron version: v1.8.6
