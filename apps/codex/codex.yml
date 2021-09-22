@@ -12,6 +12,8 @@ keywords:
   - computerscience
   - compsci
 license: 'CC BY-NC 4.0'
+goodColorOnWhite: '#EA5F09'
+goodColorOnBlack: '#EA5F09'
 screenshots:
   - imageUrl: 'https://codexnotes.com/exampleimg/main2.png'
   - imageUrl: 'https://codexnotes.com/exampleimg/darkmode2.png'
