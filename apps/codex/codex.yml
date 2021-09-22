@@ -13,6 +13,6 @@ keywords:
   - compsci
 license: 'CC BY-NC 4.0'
 screenshots:
-  - imageUrl: 'https://codexnotes.com/exampleimg/main2.png'
-  - imageUrl: 'https://codexnotes.com/exampleimg/darkmode2.png'
-  - imageUrl: 'https://codexnotes.com/exampleimg/sql2.png'
+  - imageUrl: 'https://codexnotes.com/img/main2.png'
+  - imageUrl: 'https://codexnotes.com/img/darkmode2.png'
+  - imageUrl: 'https://codexnotes.com/img/sql2.png'
