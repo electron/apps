@@ -1,7 +1,7 @@
 name: 'Standard Notes'
 description:
-  'A simple and private notes app. Encrypted, open-source, and extensible.'
-website: 'https://standardnotes.org'
+  'An end-to-end encrypted notes app for digitalists and professionals.'
+website: 'https://standardnotes.com'
 repository: 'https://github.com/standardnotes/desktop'
 keywords:
   - note
