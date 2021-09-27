@@ -1,0 +1,20 @@
+name: Minimal Image Viewer
+description:
+  Refining the image viewing experience. Focussing on what matters most. The
+  image in front of you.
+website: https://github.com/hayhaydz/MIV
+category: Photo & Video
+repository: https://github.com/hayhaydz/MIV
+keywords:
+  - image-viewer
+  - photo-viewer
+  - picture-viewer
+  - picture
+  - image
+  - png
+  - jpg
+  - jpeg
+  - minimalist
+  - minimalism
+  - clean
+license: GNU GPLv3
