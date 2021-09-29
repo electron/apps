@@ -1,0 +1,14 @@
+name: Dopamine
+description: 'An elegant audio player which tries to make organizing and listening to music as simple and pretty as possible.'
+website: 'https://www.digimezzo.com'
+category: Music
+repository: 'https://github.com/digimezzo/dopamine'
+keywords:
+  - music
+  - audio
+  - player
+  - organize
+  - simple
+  - pretty
+  - elegant
+license: 'GNU General Public License v3.0'
