@@ -1,0 +1,17 @@
+name: shadowsocks-electron
+description: 'Shadowsocks gui application made for Ubuntu / Mac users'
+website: 'https://github.com/nojsja/shadowsocks-electron'
+category: Utilities
+locales:
+  - zh-CN
+  - en-US
+repository: 'https://github.com/nojsja/shadowsocks-electron'
+keywords:
+  - shadowsocks-electron
+  - shadowsocks
+  - shadowsocks-libev
+  - shadowsocks-gui
+license: MIT
+screenshots:
+  - imageUrl: 'https://nojsja.gitee.io/static-resources/images/shadowsocks/screenshot.png'
+    caption: 'Main'
