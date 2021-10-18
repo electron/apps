@@ -1,0 +1,25 @@
+name: Believers Sword
+description:
+  A Bible Studying Software is a simple and an amazing application that helps you study the bible in an enjoyable and enriching manner.
+website: https://believers-sword-app.herokuapp.com/
+category: Productivity
+repository: https://github.com/Bible-Projects/believers-sword-app
+snapcraftName: believers-sword
+keywords:
+  - bible
+  - study
+  - happy
+  - prayer
+  - knowledge
+  - wise
+  - love
+  - Jesus
+  - God
+license: MIT
+screenshots:
+  - imageUrl: 'https://i.ibb.co/wwtctwK/Screenshot-2021-10-11-203108.png'
+    caption: 'Believers Sword Dark Interface'
+    imageLink: 'https://believers-sword-app.herokuapp.com/'
+  - imageUrl: 'https://i.ibb.co/1Rjvys7/Screenshot-2021-10-11-203049.png'
+    caption: 'Believers Sword Light Interface'
+    imageLink: 'https://believers-sword-app.herokuapp.com/'
