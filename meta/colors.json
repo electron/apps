@@ -831,6 +831,22 @@
       "revHash": "d67796315c"
     }
   },
+  "believers-sword": {
+    "faintColorOnWhite": "rgba(13, 17, 20, 0.1)",
+    "goodColorOnBlack": "#C1E0F8",
+    "goodColorOnWhite": "#0D1114",
+    "palette": [
+      "#e4a045",
+      "#c1e0f8",
+      "#587eab",
+      "#0d1114",
+      "#646c7c"
+    ],
+    "source": {
+      "path": "apps/believers-sword/believers-sword-icon.png",
+      "revHash": "7dc9079fcf"
+    }
+  },
   "beveldm": {
     "faintColorOnWhite": "rgba(0, 129, 82, 0.1)",
     "goodColorOnBlack": "#C0FFE8",
@@ -6783,6 +6799,22 @@
       "revHash": "77973db1c5"
     }
   },
+  "music-player2": {
+    "faintColorOnWhite": "rgba(167, 9, 28, 0.1)",
+    "goodColorOnBlack": "#FC9FC7",
+    "goodColorOnWhite": "#A7091C",
+    "palette": [
+      "#e4537b",
+      "#0e0406",
+      "#fbdde6",
+      "#a7091c",
+      "#fc9fc7"
+    ],
+    "source": {
+      "path": "apps/music-player2/music-player2-icon.png",
+      "revHash": "21f5807904"
+    }
+  },
   "musictube-player": {
     "faintColorOnWhite": "rgba(220, 23, 93, 0.1)",
     "goodColorOnBlack": "#E8256A",
@@ -7741,6 +7773,22 @@
     "source": {
       "path": "apps/phonepresenter/phonepresenter-icon.png",
       "revHash": "33e3712588"
+    }
+  },
+  "photo-viewer": {
+    "faintColorOnWhite": "rgba(7, 9, 11, 0.1)",
+    "goodColorOnBlack": "#44BCFC",
+    "goodColorOnWhite": "#07090B",
+    "palette": [
+      "#43a3f8",
+      "#07090b",
+      "#e2e2e2",
+      "#585858",
+      "#44bcfc"
+    ],
+    "source": {
+      "path": "apps/photo-viewer/photo-viewer-icon.png",
+      "revHash": "fb44dfaf24"
     }
   },
   "photoscreensaver": {
@@ -11917,6 +11965,22 @@
     "source": {
       "path": "apps/video-hub-app/video-hub-app-icon.png",
       "revHash": "33f98a48e9"
+    }
+  },
+  "video-player": {
+    "faintColorOnWhite": "rgba(90, 66, 248, 0.1)",
+    "goodColorOnBlack": "#7663F9",
+    "goodColorOnWhite": "#5A42F8",
+    "palette": [
+      "#040405",
+      "#5a42f8",
+      "#322087",
+      "#1e1556",
+      "#3c2cb4"
+    ],
+    "source": {
+      "path": "apps/video-player/video-player-icon.png",
+      "revHash": "e35b80d9bc"
     }
   },
   "violin": {
