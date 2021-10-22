@@ -1,0 +1,18 @@
+name: Taskana
+description: 'Wrapper for Asana.com the task tracking web app with helpfull keyboard shortcuts and notifications'
+website: 'https://mountainash.github.io/taskana/'
+repository: 'https://github.com/mountainash/taskana'
+category: 'Productivity'
+license: MIT
+keywords:
+  - Asana
+  - wrapper
+  - tasks
+  - tickets
+  - productivity
+  - tracking
+screenshots:
+  - 
+    imageUrl: 'https://raw.githubusercontent.com/mountainash/taskana/develop/build/screenshot.png'
+    caption: 'Taskana screen showing user created tasks'
+    imageLink: 'https://mountainash.github.io/taskana/'
