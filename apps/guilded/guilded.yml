@@ -1,0 +1,11 @@
+name: Guilded
+description: 'Better chat, happier communities'
+website: 'https://guilded.gg/'
+keywords:
+  - chat
+  - games
+  - messaging
+  - esports
+category: 'Social Networking'
+screenshots:
+  - imageUrl: 'https://img.guildedcdn.com/asset/App/Desktop_Screenshot.png'
