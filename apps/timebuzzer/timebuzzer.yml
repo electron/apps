@@ -1,0 +1,36 @@
+name: timeBuzzer
+description:
+  'The easiest and most accurate way to track your time.'
+website: 'https://timebuzzer.com/'
+category: 'Productivity'
+# snapcraftName:
+# homebrewCaskName: 
+# npmPackageName:
+# youtube_video_url:
+keywords:
+  - 'time tracking'
+  - 'time tracker'
+  - 'timer'
+  - 'time management'
+  - 'project management'
+  - 'timesheets'
+  - 'collaboration'
+  - 'time reports'
+  - 'productivity'
+  - 'time tracking software'
+  - 'time tracking app'
+  - 'employee time tracking'
+  - 'time tracking tools'
+  - 'time tracking device'
+locales:
+  - en-US
+  - de-DE
+screenshots:
+  - imageUrl: 'https://timebuzzer.com/wp-content/uploads/timeBuzzer-desktop-app-light.png'
+    caption: 'timeBuzzer Desktop 3.0 - time tracking app - light mode'
+    imageLink: 'https://timebuzzer.com/'
+  - imageUrl: 'https://timebuzzer.com/wp-content/uploads/timeBuzzer-desktop-app-black.png'
+    caption: 'timeBuzzer Desktop 3.0 - time tracking app - black mode'
+    imageLink: 'https://timebuzzer.com/'
+
+
