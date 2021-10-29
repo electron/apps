@@ -1,0 +1,12 @@
+name: DropPoint
+description: 'Make drag-and-drop easier using DropPoint. Drag content without having to open side-by-side windows.'
+website: 'https://droppoint.netlify.app/'
+repository: 'https://github.com/GameGodS3/DropPoint'
+keywords:
+  - productivity
+  - utilities
+  - dropover alternative
+  - dropover for windows
+  - dropover for linux
+  - open source
+category: 'Productivity'
