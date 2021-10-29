@@ -1,7 +1,6 @@
 name: Colorpicker
 description:
-  'Open Source colors software: Retrieve, manipulate and store your colors
-  easely'
+  'Modern and powerful color management software'
 website: 'https://colorpicker.fr'
 repository: 'https://github.com/Toinane/colorpicker'
 homebrewCaskName: 'toinane-colorpicker'
@@ -15,6 +14,7 @@ keywords:
   - hexadecimal
   - rgb
   - storage
+  - management
 license: GPL-3.0
 category: 'Graphics & Design'
 screenshots:
