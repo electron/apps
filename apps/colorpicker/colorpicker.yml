@@ -1,6 +1,5 @@
 name: Colorpicker
-description:
-  'Modern and powerful color management software'
+description: 'Modern and powerful color management software'
 website: 'https://colorpicker.fr'
 repository: 'https://github.com/Toinane/colorpicker'
 homebrewCaskName: 'toinane-colorpicker'
