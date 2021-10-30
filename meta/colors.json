@@ -10597,14 +10597,14 @@
     "goodColorOnWhite": "#CD2F41",
     "palette": [
       "#d44454",
-      "#fbfbfb",
+      "#fbfafa",
+      "#e0858e",
       "#e49ca4",
-      "#e4a4a4",
-      "#e48c94"
+      "#e4a4a4"
     ],
     "source": {
       "path": "apps/switchhosts/switchhosts-icon.png",
-      "revHash": "5027cb5d99"
+      "revHash": "3a067ef96d"
     }
   },
   "symphony": {
