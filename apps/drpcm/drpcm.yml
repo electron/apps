@@ -1,6 +1,6 @@
 name: Discord RPC Maker
 description:
-  Allows you to make custom Rich Presences for Discord, with clickable buttons!
+  Allows you to make custom Rich Presences for Discord, with clickable buttons.
 website: https://drpcm.t1c.dev
 category: Utilities
 repository: https://github.com/thatonecalculator/discordrpcmaker
