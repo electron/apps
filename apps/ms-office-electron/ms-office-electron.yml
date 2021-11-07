@@ -1,0 +1,14 @@
+name: MS Office - Electron
+description: Unofficial Microsoft Office Online Desktop Client.
+website: https://agam778.github.io/MS-Office-Electron/
+category: Utilities
+repository: https://github.com/agam778/MS-Office-Electron
+keywords:
+  - microsoft
+  - office
+  - open-source
+  - utility
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/agam778/MS-Office-Electron/website/images/Mac_Screenshot.png'
+    caption: 'App on a MacBook'
+license: MIT
