@@ -10863,22 +10863,6 @@
       "revHash": "99677612f3"
     }
   },
-  "termy": {
-    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
-    "goodColorOnBlack": "#FBFBFB",
-    "goodColorOnWhite": "#050505",
-    "palette": [
-      "#fbfbfb",
-      "#050505",
-      "#a0a0a0",
-      "#7c7c7c",
-      "#848484"
-    ],
-    "source": {
-      "path": "apps/termy/termy-icon.png",
-      "revHash": "260e464085"
-    }
-  },
   "teseve": {
     "faintColorOnWhite": "rgba(143, 108, 4, 0.1)",
     "goodColorOnBlack": "#FBD45F",
