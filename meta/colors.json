@@ -10597,14 +10597,14 @@
     "goodColorOnWhite": "#CD2F41",
     "palette": [
       "#d44454",
-      "#fbfbfb",
+      "#fbfafa",
+      "#e0858e",
       "#e49ca4",
-      "#e4a4a4",
-      "#e48c94"
+      "#e4a4a4"
     ],
     "source": {
       "path": "apps/switchhosts/switchhosts-icon.png",
-      "revHash": "5027cb5d99"
+      "revHash": "3a067ef96d"
     }
   },
   "symphony": {
@@ -10861,22 +10861,6 @@
     "source": {
       "path": "apps/ten-hands/ten-hands-icon.png",
       "revHash": "99677612f3"
-    }
-  },
-  "termy": {
-    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
-    "goodColorOnBlack": "#FBFBFB",
-    "goodColorOnWhite": "#050505",
-    "palette": [
-      "#fbfbfb",
-      "#050505",
-      "#a0a0a0",
-      "#7c7c7c",
-      "#848484"
-    ],
-    "source": {
-      "path": "apps/termy/termy-icon.png",
-      "revHash": "260e464085"
     }
   },
   "teseve": {
