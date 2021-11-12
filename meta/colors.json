@@ -6335,22 +6335,6 @@
       "revHash": "3308181c3a"
     }
   },
-  "minetime": {
-    "faintColorOnWhite": "rgba(115, 115, 115, 0.1)",
-    "goodColorOnBlack": "#F6F6F6",
-    "goodColorOnWhite": "#737373",
-    "palette": [
-      "#f6f6f6",
-      "#b4b4b4",
-      "#8d8d8d",
-      "#acacac",
-      "#c9c9c9"
-    ],
-    "source": {
-      "path": "apps/minetime/minetime-icon.png",
-      "revHash": "67a22c4ab1"
-    }
-  },
   "mingo": {
     "faintColorOnWhite": "rgba(7, 100, 236, 0.1)",
     "goodColorOnBlack": "#3484F9",
@@ -6621,6 +6605,22 @@
     "source": {
       "path": "apps/moonitor/moonitor-icon.png",
       "revHash": "55a89ad0af"
+    }
+  },
+  "morgen": {
+    "faintColorOnWhite": "rgba(157, 91, 3, 0.1)",
+    "goodColorOnBlack": "#FCC378",
+    "goodColorOnWhite": "#9D5B03",
+    "palette": [
+      "#fcc378",
+      "#fcaba8",
+      "#fbfbfb",
+      "#fcc5a6",
+      "#fcceda"
+    ],
+    "source": {
+      "path": "apps/morgen/morgen-icon.png",
+      "revHash": "1386fd3a5e"
     }
   },
   "motrix": {
@@ -10597,14 +10597,14 @@
     "goodColorOnWhite": "#CD2F41",
     "palette": [
       "#d44454",
-      "#fbfbfb",
+      "#fbfafa",
+      "#e0858e",
       "#e49ca4",
-      "#e4a4a4",
-      "#e48c94"
+      "#e4a4a4"
     ],
     "source": {
       "path": "apps/switchhosts/switchhosts-icon.png",
-      "revHash": "5027cb5d99"
+      "revHash": "3a067ef96d"
     }
   },
   "symphony": {
@@ -10861,22 +10861,6 @@
     "source": {
       "path": "apps/ten-hands/ten-hands-icon.png",
       "revHash": "99677612f3"
-    }
-  },
-  "termy": {
-    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
-    "goodColorOnBlack": "#FBFBFB",
-    "goodColorOnWhite": "#050505",
-    "palette": [
-      "#fbfbfb",
-      "#050505",
-      "#a0a0a0",
-      "#7c7c7c",
-      "#848484"
-    ],
-    "source": {
-      "path": "apps/termy/termy-icon.png",
-      "revHash": "260e464085"
     }
   },
   "teseve": {
@@ -11789,6 +11773,22 @@
     "source": {
       "path": "apps/unicopedia-plus/unicopedia-plus-icon.png",
       "revHash": "d3f4aadb7b"
+    }
+  },
+  "unicopedia-sinica": {
+    "faintColorOnWhite": "rgba(36, 124, 156, 0.1)",
+    "goodColorOnBlack": "#ABCCDB",
+    "goodColorOnWhite": "#247C9C",
+    "palette": [
+      "#fbfbfb",
+      "#247c9c",
+      "#7cb4c4",
+      "#8cbccc",
+      "#abccdb"
+    ],
+    "source": {
+      "path": "apps/unicopedia-sinica/unicopedia-sinica-icon.png",
+      "revHash": "0e8cc86ef7"
     }
   },
   "unlimited-clipboard": {
