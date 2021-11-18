@@ -1,0 +1,27 @@
+name: Flat
+description:
+  'Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.'
+website: 'https://flat.whiteboard.agora.io/'
+category: Education
+repository: 'https://github.com/netless-io/flat'
+keywords:
+  - classroom
+  - online-classroom
+  - whiteboard
+  - rtc
+  - rtm
+  - virtual-classroom
+  - e-class
+  - agora
+  - e-learning
+locales:
+  - en-US
+  - zh-CN
+license: MIT
+screenshots:
+  - imageUrl: 'https://flat.whiteboard.agora.io/en/image/smallclass.png'
+    caption: 'Small Class'
+  - imageUrl: 'https://flat.whiteboard.agora.io/en/image/onetoone.png'
+    caption: 'One On One'
+  - imageUrl: 'https://flat.whiteboard.agora.io/en/image/bigclass.png'
+    caption: 'Big Class'
