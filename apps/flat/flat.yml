@@ -1,6 +1,7 @@
 name: Flat
 description:
-  'Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.'
+  'Project flat is the Web, Windows and macOS client of Agora Flat open source
+  classroom.'
 website: 'https://flat.whiteboard.agora.io/'
 category: Education
 repository: 'https://github.com/netless-io/flat'
