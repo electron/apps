@@ -1,6 +1,6 @@
 name: Image Optimizer
 description:
-  A free and open source tool for optimizing images and vector graphics.
+  Open source tool for optimizing images and vector graphics.
 repository: https://github.com/antonreshetov/image-optimizer
 keywords:
   - image optimizing
