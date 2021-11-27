@@ -1,0 +1,19 @@
+name: Image Optimizer
+description:
+  A free and open source tool for optimizing images and vector graphics.
+repository: https://github.com/antonreshetov/image-optimizer
+keywords:
+  - image optimizing
+  - image compression
+  - minify
+  - images
+  - jpg compression
+  - png compression
+  - svg compression
+  - minify svg
+  - minify jpg
+  - tiny svg
+category: 'Photo & Video'
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/antonreshetov/image-optimizer/master/demo.gif'
