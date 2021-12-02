@@ -1,0 +1,24 @@
+name: Hearo 
+description: 'Amazing Watch Parties'
+website: 'https://hearo.live/'
+keywords:
+  - watch party
+  - video
+  - talk
+  - chat
+  - social  
+category: 'Entertainment'
+locales:
+  - en
+  - de
+  - ms-MY
+  - pt-BR
+  - es-419
+  - tr
+screenshots:
+  - 
+    imageUrl: 'https://mysite.com/awesome1.png'
+    caption: 'Awesome screenshot 1'
+  - 
+    imageUrl: 'https://mysite.com/awesome2.png'
+    caption: 'Awesome screenshot 2'
