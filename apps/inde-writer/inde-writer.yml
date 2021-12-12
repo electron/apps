@@ -1,0 +1,12 @@
+name: INDE Writer
+description: Novel writing software.
+website: https://indewriter.com
+category: Books
+keywords:
+  - novel
+  - writing
+  - writer
+screenshots:
+  - imageUrl: 'https://indewriter.com/images/interface_1.png'
+    caption: 'INDE Writer Library & Editor'
+    imageLink: 'https://indewriter.com/'
