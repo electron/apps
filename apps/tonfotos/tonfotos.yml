@@ -1,0 +1,15 @@
+name: tonfotos
+description: 'Intuitive photo and video archive manager and viewer'
+website: 'https://tonfotos.com/'
+keywords:
+  - tonfotos
+  - photo
+  - video
+  - archive
+  - viewer
+  - manager
+  - organizer
+category: Photo & Video
+screenshots:
+  - imageUrl: 'https://tonfotos.com/img/screenshots/scr5.png'
+  - imageUrl: 'https://tonfotos.com/img/screenshots/scr8.png'
