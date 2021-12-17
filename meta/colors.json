@@ -831,6 +831,22 @@
       "revHash": "d67796315c"
     }
   },
+  "believers-sword": {
+    "faintColorOnWhite": "rgba(13, 17, 20, 0.1)",
+    "goodColorOnBlack": "#C1E0F8",
+    "goodColorOnWhite": "#0D1114",
+    "palette": [
+      "#e4a045",
+      "#c1e0f8",
+      "#587eab",
+      "#0d1114",
+      "#646c7c"
+    ],
+    "source": {
+      "path": "apps/believers-sword/believers-sword-icon.png",
+      "revHash": "7dc9079fcf"
+    }
+  },
   "beveldm": {
     "faintColorOnWhite": "rgba(0, 129, 82, 0.1)",
     "goodColorOnBlack": "#C0FFE8",
@@ -3485,6 +3501,22 @@
     "source": {
       "path": "apps/fishing-funds/fishing-funds-icon.png",
       "revHash": "37bbe2b905"
+    }
+  },
+  "flat": {
+    "faintColorOnWhite": "rgba(4, 97, 239, 0.1)",
+    "goodColorOnBlack": "#5396FC",
+    "goodColorOnWhite": "#0461EF",
+    "palette": [
+      "#fbfbfc",
+      "#5396fc",
+      "#d3e3fc",
+      "#afccfc",
+      "#9cbcfc"
+    ],
+    "source": {
+      "path": "apps/flat/flat-icon.png",
+      "revHash": "9d43f67b33"
     }
   },
   "flawesome": {
@@ -6319,22 +6351,6 @@
       "revHash": "3308181c3a"
     }
   },
-  "minetime": {
-    "faintColorOnWhite": "rgba(115, 115, 115, 0.1)",
-    "goodColorOnBlack": "#F6F6F6",
-    "goodColorOnWhite": "#737373",
-    "palette": [
-      "#f6f6f6",
-      "#b4b4b4",
-      "#8d8d8d",
-      "#acacac",
-      "#c9c9c9"
-    ],
-    "source": {
-      "path": "apps/minetime/minetime-icon.png",
-      "revHash": "67a22c4ab1"
-    }
-  },
   "mingo": {
     "faintColorOnWhite": "rgba(7, 100, 236, 0.1)",
     "goodColorOnBlack": "#3484F9",
@@ -6607,6 +6623,22 @@
       "revHash": "55a89ad0af"
     }
   },
+  "morgen": {
+    "faintColorOnWhite": "rgba(157, 91, 3, 0.1)",
+    "goodColorOnBlack": "#FCC378",
+    "goodColorOnWhite": "#9D5B03",
+    "palette": [
+      "#fcc378",
+      "#fcaba8",
+      "#fbfbfb",
+      "#fcc5a6",
+      "#fcceda"
+    ],
+    "source": {
+      "path": "apps/morgen/morgen-icon.png",
+      "revHash": "1386fd3a5e"
+    }
+  },
   "motrix": {
     "faintColorOnWhite": "rgba(128, 95, 180, 0.1)",
     "goodColorOnBlack": "#E1CF04",
@@ -6781,6 +6813,22 @@
     "source": {
       "path": "apps/music-player/music-player-icon.png",
       "revHash": "77973db1c5"
+    }
+  },
+  "music-player2": {
+    "faintColorOnWhite": "rgba(167, 9, 28, 0.1)",
+    "goodColorOnBlack": "#FC9FC7",
+    "goodColorOnWhite": "#A7091C",
+    "palette": [
+      "#e4537b",
+      "#0e0406",
+      "#fbdde6",
+      "#a7091c",
+      "#fc9fc7"
+    ],
+    "source": {
+      "path": "apps/music-player2/music-player2-icon.png",
+      "revHash": "21f5807904"
     }
   },
   "musictube-player": {
@@ -7741,6 +7789,22 @@
     "source": {
       "path": "apps/phonepresenter/phonepresenter-icon.png",
       "revHash": "33e3712588"
+    }
+  },
+  "photo-viewer": {
+    "faintColorOnWhite": "rgba(7, 9, 11, 0.1)",
+    "goodColorOnBlack": "#44BCFC",
+    "goodColorOnWhite": "#07090B",
+    "palette": [
+      "#43a3f8",
+      "#07090b",
+      "#e2e2e2",
+      "#585858",
+      "#44bcfc"
+    ],
+    "source": {
+      "path": "apps/photo-viewer/photo-viewer-icon.png",
+      "revHash": "fb44dfaf24"
     }
   },
   "photoscreensaver": {
@@ -10549,14 +10613,14 @@
     "goodColorOnWhite": "#CD2F41",
     "palette": [
       "#d44454",
-      "#fbfbfb",
+      "#fbfafa",
+      "#e0858e",
       "#e49ca4",
-      "#e4a4a4",
-      "#e48c94"
+      "#e4a4a4"
     ],
     "source": {
       "path": "apps/switchhosts/switchhosts-icon.png",
-      "revHash": "5027cb5d99"
+      "revHash": "3a067ef96d"
     }
   },
   "symphony": {
@@ -10813,22 +10877,6 @@
     "source": {
       "path": "apps/ten-hands/ten-hands-icon.png",
       "revHash": "99677612f3"
-    }
-  },
-  "termy": {
-    "faintColorOnWhite": "rgba(5, 5, 5, 0.1)",
-    "goodColorOnBlack": "#FBFBFB",
-    "goodColorOnWhite": "#050505",
-    "palette": [
-      "#fbfbfb",
-      "#050505",
-      "#a0a0a0",
-      "#7c7c7c",
-      "#848484"
-    ],
-    "source": {
-      "path": "apps/termy/termy-icon.png",
-      "revHash": "260e464085"
     }
   },
   "teseve": {
@@ -11743,6 +11791,22 @@
       "revHash": "d3f4aadb7b"
     }
   },
+  "unicopedia-sinica": {
+    "faintColorOnWhite": "rgba(36, 124, 156, 0.1)",
+    "goodColorOnBlack": "#ABCCDB",
+    "goodColorOnWhite": "#247C9C",
+    "palette": [
+      "#fbfbfb",
+      "#247c9c",
+      "#7cb4c4",
+      "#8cbccc",
+      "#abccdb"
+    ],
+    "source": {
+      "path": "apps/unicopedia-sinica/unicopedia-sinica-icon.png",
+      "revHash": "0e8cc86ef7"
+    }
+  },
   "unlimited-clipboard": {
     "faintColorOnWhite": "rgba(129, 100, 129, 0.1)",
     "goodColorOnBlack": "#F1EDF1",
@@ -11917,6 +11981,22 @@
     "source": {
       "path": "apps/video-hub-app/video-hub-app-icon.png",
       "revHash": "33f98a48e9"
+    }
+  },
+  "video-player": {
+    "faintColorOnWhite": "rgba(90, 66, 248, 0.1)",
+    "goodColorOnBlack": "#7663F9",
+    "goodColorOnWhite": "#5A42F8",
+    "palette": [
+      "#040405",
+      "#5a42f8",
+      "#322087",
+      "#1e1556",
+      "#3c2cb4"
+    ],
+    "source": {
+      "path": "apps/video-player/video-player-icon.png",
+      "revHash": "e35b80d9bc"
     }
   },
   "violin": {
