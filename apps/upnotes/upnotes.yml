@@ -1,0 +1,10 @@
+name: Upnotes
+description: Notes app for software developers
+website: https://upnotes.io
+category: Developer Tools
+repository: https://github.com/upnotes-io/upnotes-website
+snapcraftName: upnotes
+keywords:
+  - notes
+  - git
+  - auto-organized
