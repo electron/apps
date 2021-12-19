@@ -32,3 +32,23 @@ screenshots:
 
   - imageUrl: 'https://morgen.so/screenshots/quick-join-button.png'
     caption: 'Quick join button'
+name: Morgen
+description:
+  All-in-one calendard and tasks. Connects to Google, Exchange, Office 365,
+  iCloud, and CalDAV. Import tasks from all your tools and create customized
+  scheduling links right in your calendar.
+website: https://morgen.so
+category: Productivity
+keywords:
+  - calendar
+  - task
+  - scheduler
+  - smart
+  - exchange
+  - icloud
+  - google
+  - scheduling
+  - monotasking
+  - time
+  - blocking
+  - organizer
