@@ -3,15 +3,14 @@ description: 'This is a minimal Markdown Editor desktop app based on Electron.'
 website: 'https://markdownify.js.org'
 repository: 'https://github.com/amitmerchant1990/electron-markdownify'
 keywords:
-    - markdown
-    - plain
-    - node
-    - minimal
-    - editor
-    - preview
-    - html
-    - desktop
+  - markdown
+  - plain
+  - node
+  - minimal
+  - editor
+  - preview
+  - html
+  - desktop
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/img/markdownify.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/66b9deb21d80e4053e950557e148ae0ed5bf99f2/img/markdownify.gif'

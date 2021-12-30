@@ -1,0 +1,15 @@
+name: 'Zap'
+description:
+  'Cross platform Lightning Network wallet focused on user experience and ease
+  of use ⚡️.'
+website: 'https://zaphq.io/'
+repository: 'https://github.com/LN-Zap/zap-desktop'
+keywords:
+  - 'Lightning Network'
+  - 'Bitcoin'
+  - 'Litecoin'
+  - 'Wallet'
+license: MIT
+category: Finance
+screenshots:
+  - imageUrl: 'https://zaphq.io/static/678cbe7de1ba4b04880d03d2006cf886/69278/desktop.png'

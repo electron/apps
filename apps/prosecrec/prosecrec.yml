@@ -4,24 +4,22 @@ website: 'https://prosecrec.com'
 category: Productivity
 repository: 'https://github.com/HydroCarbons/ProSecrec'
 keywords:
-    - password
-    - manager
-    - vault
-    - wallet
-    - security
-    - 'private key'
-    - aes
-    - encryption
-    - aes-256-ctr
-    - portable
-    - bitcoin
-    - crypto
-    - cryptocurrency
-    - electronjs
-    - secrec
-    - prosecrec
+  - password
+  - manager
+  - vault
+  - wallet
+  - security
+  - 'private key'
+  - aes
+  - encryption
+  - aes-256-ctr
+  - portable
+  - bitcoin
+  - crypto
+  - cryptocurrency
+  - secrec
+  - prosecrec
 license: 'All Rights Reserved, ProSecrec.com 2018.'
 screenshots:
-  -
-    imageUrl: 'https://prosecrec.com/img/ProSecrec-Flyer.png'
+  - imageUrl: 'https://prosecrec.com/img/ProSecrec-Flyer.png'
     caption: 'ProSecrec Flyer'

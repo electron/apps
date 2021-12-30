@@ -3,10 +3,11 @@ description: 'A Firebase data management tool.'
 website: 'https://firebaseadmin.com'
 repository: 'https://github.com/codefoxes/firebase-admin'
 keywords:
-    - Firebase
-    - database
-    - management
-    - 'user interface'
-    - 'admin ui'
+  - Firebase
+  - database
+  - management
+  - 'user interface'
+  - 'admin ui'
 license: GPLv3
 category: 'Developer Tools'
+disabled: true # Old Electron version: v1.3.5

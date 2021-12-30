@@ -4,11 +4,11 @@ website: 'https://github.com/e346m/Seton'
 category: Utilities
 repository: 'https://github.com/e346m/Seton'
 keywords:
-    - Github
-    - Issue
-    - GraphQL
+  - Github
+  - Issue
+  - GraphQL
 license: MIT
 screenshots:
-  -
-    imageUrl: 'https://github.com/e346m/Seton/blob/master/assets/demo.gif'
+  - imageUrl: 'https://github.com/e346m/Seton/blob/master/assets/demo.gif'
     caption: 'Demo'
+disabled: true # Old Electron version: v1.7.9

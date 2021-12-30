@@ -1,6 +1,8 @@
 name: Trym
-description: 'Beautiful small app for macOS to help you view, optimize and convert SVG icons'
-website: 'http://kontentapps.com/trym'
+description:
+  'Beautiful small app for macOS to help you view, optimize and convert SVG
+  icons'
+website: 'https://kontentapps.com/trym'
 keywords:
-    - svg
+  - svg
 category: 'Photo & Video'

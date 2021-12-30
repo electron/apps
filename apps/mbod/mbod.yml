@@ -1,0 +1,8 @@
+name: MBoD
+description: 'Minimalistic, fast and lightweight mobile browser on the desktop.'
+website: https://github.com/JKooll/mobile-browser-on-desktop
+repository: 'https://github.com/JKooll/mobile-browser-on-desktop'
+keywords:
+  - 'MBoD Mobile Browser Desktop'
+category: 'Developer Tools'
+disabled: true # Old Electron version: v2.0.4

@@ -2,5 +2,6 @@ name: Kakapo
 description: 'Ambient sound mixer to set a nice mood'
 website: 'http://www.kakapo.co/app.html#desktop'
 keywords:
-    - music
+  - music
 category: Music
+disabled: true # Project website not working

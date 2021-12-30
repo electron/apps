@@ -1,16 +1,17 @@
-name: cloudtag
+name: Cloudtag
 description: 'Sharing files, easier.'
 website: 'https://cloudtag.io/'
 keywords:
-    - cloud
-    - cloudtag
-    - easy
-    - easier
-    - file
-    - files
-    - hashtag
-    - 'sharing easier'
-    - 'sharing files'
-    - tag
-    - utility
+  - cloud
+  - cloudtag
+  - easy
+  - easier
+  - file
+  - files
+  - hashtag
+  - 'sharing easier'
+  - 'sharing files'
+  - tag
+  - utility
 category: Utilities
+snapcraftName: cloudtag

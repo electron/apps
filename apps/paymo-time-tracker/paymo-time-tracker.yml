@@ -3,12 +3,11 @@ description: 'Manage and track your work time'
 website: 'https://www.paymoapp.com'
 category: Productivity
 keywords:
-    - 'paymo'
-    - 'time tracker'
-    - 'free time tracker'
-    - 'work time tracker'
-    - 'time tracking'
+  - 'paymo'
+  - 'time tracker'
+  - 'free time tracker'
+  - 'work time tracker'
+  - 'time tracking'
 screenshots:
-  -
-    imageUrl: 'https://www.paymoapp.com/widget/screenshot-paymo-time-tracker.png'
+  - imageUrl: 'https://www.paymoapp.com/widget/screenshot-paymo-time-tracker.png'
     imageLink: 'https://www.paymoapp.com/download/'

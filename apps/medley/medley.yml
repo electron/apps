@@ -1,8 +1,8 @@
 name: Medley
 description: 'Programming note taking redefined'
-website: 'http://medleytext.net'
+website: 'https://medleytext.net/'
 keywords:
-    - productivity
-    - programming
-    - notes
+  - productivity
+  - programming
+  - notes
 category: Productivity

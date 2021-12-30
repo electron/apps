@@ -1,0 +1,18 @@
+name: TextureLab
+description:
+  'Free, Cross-Platform, GPU-Accelerated Procedural Texture Generator.'
+website: 'https://njbrown.itch.io/texturelab'
+category: 'Graphics & Design'
+repository: 'https://github.com/njbrown/texturelab'
+keywords:
+  - 'procedural art'
+  - 'gamedev'
+  - 'game development'
+  - 'game art'
+  - '3d graphics'
+  - 'textures'
+  - 'nodegraph'
+  - 'substance designer'
+license: GPLv3
+screenshots:
+  - imageUrl: 'https://camo.githubusercontent.com/32a5eb486a96faebcc9d444598010e5e6c3771e9a21a664a6e4307033d3bd3b0/68747470733a2f2f692e696d6775722e636f6d2f5642586b307a502e706e67'

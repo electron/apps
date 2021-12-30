@@ -1,12 +1,13 @@
 name: PokerClock
 description: 'Poker time & blind tracker.'
-website: 'http://phresh-it.hu/apps/pokerclock/'
+website: 'https://phresh-it.hu/apps/pokerclock/'
 license: MIT
 keywords:
-    - poker
-    - clock
-    - game
-    - tracker
-    - phresh
+  - poker
+  - clock
+  - game
+  - tracker
+  - phresh
 category: 'Games'
 repository: 'https://github.com/Phreshhh/PokerClock'
+disabled: true # Old Electron version: v2.0.8

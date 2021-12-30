@@ -1,0 +1,13 @@
+name: 'Raider for Instagram'
+description: 'API-Less instagram downloader.'
+website: 'https://getraider.com'
+repository: 'https://github.com/AssetKid/raider-release'
+category: 'Social Networking'
+keywords:
+  - Instagram
+  - Raider
+  - IG
+  - Insta
+screenshots:
+  - imageUrl: 'https://github.com/AssetKid/raider-release/blob/master/showcase/ss.png?raw=true'
+    caption: 'Showcase'

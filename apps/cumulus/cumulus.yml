@@ -1,13 +1,14 @@
 name: Cumulus
 description: 'A SoundCloud player that lives in your menubar'
-website: 'http://gillesdemey.github.io/Cumulus/'
+website: 'https://gillesdemey.github.io/Cumulus/'
 repository: 'https://github.com/gillesdemey/Cumulus'
 keywords:
-    - soundcloud
-    - music
-    - player
+  - soundcloud
+  - music
+  - player
 license: MIT
 category: Music
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/gillesdemey/Cumulus/master/assets/cumulus_app.png'
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/gillesdemey/Cumulus/master/assets/cumulus_app.png',
+    }

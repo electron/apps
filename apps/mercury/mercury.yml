@@ -4,13 +4,13 @@ website: 'https://github.com/Delni/mercury/releases'
 category: Finance
 repository: 'https://github.com/Delni/mercury/'
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/Delni/mercury/master/img/mainViewDark.png'
+  - imageUrl: 'https://raw.githubusercontent.com/Delni/mercury/master/img/mainViewDark.png'
     caption: 'Black screenshot'
     imageLink: 'https://github.com/Delni/mercury/releases'
 keywords:
-    - Finance
-    - budget
+  - Finance
+  - budget
 license: MIT
 locales:
   - fr
+disabled: true # Old Electron version: v1.8.1

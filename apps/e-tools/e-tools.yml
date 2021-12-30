@@ -4,8 +4,9 @@ website: 'https://github.com/Suremotoo/e-tools'
 category: 'Developer Tools'
 repository: 'https://github.com/Suremotoo/e-tools'
 keywords:
-    - offline
-    - format
-    - cryption
-    - tools
+  - offline
+  - format
+  - cryption
+  - tools
 license: MIT
+disabled: true # Old Electron version: v3.0.0

@@ -1,0 +1,27 @@
+name: Q-player
+description: 'Minimal player. Nonstop hardstyle, powered by Q-dance Radio.'
+website: 'http://www.q-player.com'
+category: Music
+repository: 'https://github.com/Toooorch/q-player/'
+keywords:
+  - music
+  - player
+  - minimal
+  - stream
+  - radio
+  - app
+  - qdance
+  - hardstyle
+  - hardcore
+license: MIT
+screenshots:
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/Toooorch/q-player/8c005e6c9378b8b11dfd442d2fe1d1b6a1f52884/Screenshots/screen1.png',
+      caption: 'Q-player Logo',
+      imageLink: 'http://www.q-player.com',
+    }
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/Toooorch/q-player/8c005e6c9378b8b11dfd442d2fe1d1b6a1f52884/Screenshots/screen2.png',
+      caption: 'Q-player on macOS Desktop',
+      imageLink: 'http://www.q-player.com',
+    }

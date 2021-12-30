@@ -1,0 +1,44 @@
+name: SmartHoldem
+description:
+  'Graphical user interface for desktop decentralized gaming platform'
+website: 'https://smartholdem.io'
+category: Finance
+repository: 'https://github.com/smartholdem/smartholdem-wallet'
+screenshots:
+  - imageUrl: 'https://user-images.githubusercontent.com/9394904/34045923-2ed9ad04-e1bc-11e7-9819-e3b37068a47b.png'
+    caption: 'SmartHoldem Wallet'
+    imageLink: 'https://github.com/smartholdem/smartholdem-wallet/releases'
+keywords:
+  - blockchain
+  - cryptocurrency
+  - wallet
+  - coin
+  - token
+license: MIT
+locales:
+  - zh-CN
+  - pt-BR
+  - en_US
+  - ru
+  - de
+  - ja
+  - ko
+  - it
+  - tr
+  - fr
+  - nl
+  - fi
+  - ro
+  - el
+  - hr
+  - hu
+  - id
+  - nn
+  - pl
+  - pt_PT
+  - zn_TW
+  - sk
+  - sl
+  - sr
+  - sv
+disabled: true # Old Electron version: v1.8.7

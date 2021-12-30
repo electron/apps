@@ -2,11 +2,11 @@ name: 'Autobeat Player'
 description: 'SoundCloud, YouTube and your local music united in one app.'
 website: 'http://www.autobeatplayer.com'
 keywords:
-    - 'music discovery'
-    - 'music organization'
-    - 'music synchronization'
-    - youtube
-    - soundcloud
+  - 'music discovery'
+  - 'music organization'
+  - 'music synchronization'
+  - youtube
+  - soundcloud
 category: Music
 locales:
   - en-us
@@ -15,19 +15,23 @@ locales:
   - ru
   - de-de
 screenshots:
-  -
-    imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/devices.jpg'
-    caption: 'Autobeat Player'
-    imageLink: 'http://www.autobeatplayer.com'
-  -
-    imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/search.jpg'
-    caption: 'Unified Search'
-    imageLink: 'http://www.autobeatplayer.com'
-  -
-    imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/discovery.jpg'
-    caption: 'Music Discovery'
-    imageLink: 'http://www.autobeatplayer.com'
-  -
-    imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/video.jpg'
-    caption: 'Video Playback'
-    imageLink: 'http://www.autobeatplayer.com'
+  - {
+      imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/devices.jpg',
+      caption: 'Autobeat Player',
+      imageLink: 'http://www.autobeatplayer.com',
+    }
+  - {
+      imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/search.jpg',
+      caption: 'Unified Search',
+      imageLink: 'http://www.autobeatplayer.com',
+    }
+  - {
+      imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/discovery.jpg',
+      caption: 'Music Discovery',
+      imageLink: 'http://www.autobeatplayer.com',
+    }
+  - {
+      imageUrl: 'https://s3-us-west-1.amazonaws.com/hytag/autobeat/video.jpg',
+      caption: 'Video Playback',
+      imageLink: 'http://www.autobeatplayer.com',
+    }

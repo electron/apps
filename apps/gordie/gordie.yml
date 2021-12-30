@@ -1,7 +1,7 @@
 name: Gordie
 description: 'The best app for your card collections!'
-website: 'http://gordie-app.bitbucket.org/'
+website: 'https://gordie-app.bitbucket.org/'
 keywords:
-    - cards
-    - collections
+  - cards
+  - collections
 category: Productivity

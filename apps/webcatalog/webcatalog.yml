@@ -1,15 +1,28 @@
 name: WebCatalog
-description: 'Run Thousands of Web Apps Like Real Apps'
-website: 'https://webcatalog.io'
+description: 'Turn Any Websites Into Real Desktop Apps'
+website: 'https://webcatalog.app'
 repository: 'https://github.com/webcatalog/webcatalog'
+license: MPL-2.0
+homebrewCaskName: webcatalog
+youtube_video_url: 'https://www.youtube.com/watch?v=kWuGFW42Vjo'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/webcatalog/webcatalog/master/build-resources/screenshot.png'
-        caption: 'WebCatalog on macOS'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Discover+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Custom+App+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Preferences+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/App+-+Multiple+Accounts+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Space+-+Multiple+Accounts%2BServices+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Space+-+Add+Account%2BService+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Space+-+Edit+Account%2BService+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Space+-+App+Lock+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/webcatalog/Space+-+Preferences+-+Light.png'
 keywords:
-    - 'site-specific browser'
-    - browser
-    - fluid
-    - fluidapp
-    - 'app store'
+  - 'app store'
+  - 'create desktop app'
+  - 'real app'
+  - 'site-specific browser'
+  - browser
+  - fluid
+  - fluidapp
+  - productivity
+  - ssb
 category: Productivity

@@ -1,12 +1,13 @@
 name: Wallapatta
 description: 'Markdown like editor with a layout inspired by Edward Tufte'
-website: 'http://wallapatta.github.io/'
+website: 'https://wallapatta.github.io/'
 repository: 'https://github.com/wallapatta/wallapatta'
 keywords:
-    - editor
-    - markdown
+  - editor
+  - markdown
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/wallapatta/wallapatta.github.io/master/assets/screenshot.png'
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/wallapatta/wallapatta.github.io/master/assets/screenshot.png',
+    }

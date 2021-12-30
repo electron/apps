@@ -1,27 +1,26 @@
 name: Riot
 description: 'A glossy Matrix collaboration client for the web'
-website: 'https://riot.im/'
-repository: 'https://github.com/vector-im/riot-web'
+website: 'https://element.io/'
+repository: 'https://github.com/vector-im/element-desktop'
 keywords:
-    - Riot
-    - chat
-    - Matrix
-    - client
-    - encrypted
-    - encryption
-    - end-to-end
-    - e2e
-    - message
-    - messaging
-    - voip
-    - video
-    - photo
-    - giphy
-    - gif
-    - share
-    - collaborate
+  - Riot
+  - chat
+  - Matrix
+  - client
+  - encrypted
+  - encryption
+  - end-to-end
+  - e2e
+  - message
+  - messaging
+  - voip
+  - video
+  - photo
+  - giphy
+  - gif
+  - share
+  - collaborate
 license: Apache-2.0
 category: 'Social Networking'
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/0a8a33d8624fe6cf01c696d6d701cf7a7f30bed2/68747470733a2f2f7472616e736c6174652e72696f742e696d2f776964676574732f72696f742d7765622f2d2f6d756c74692d6175746f2e737667'
+  - imageUrl: 'https://element.io/images/homepage-all-platforms-1_1.png'

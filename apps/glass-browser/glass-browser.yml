@@ -1,9 +1,10 @@
 name: 'Glass Browser'
 description: 'A floating transparent browser for Windows'
-website: 'https://mitch.works/apps/glass'
+website: 'https://github.com/mitchas/glass-browser'
 category: Productivity
 repository: 'https://github.com/mitchas/glass-browser'
 keywords:
-    - Browser
-    - Windows
-    - Multitask
+  - Browser
+  - Windows
+  - Multitask
+disabled: true # Old Electron version: v1.7.11

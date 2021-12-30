@@ -1,0 +1,17 @@
+name: 'Bootstrap Studio'
+description:
+  'Powerful desktop app for creating responsive websites using the Bootstrap
+  framework.'
+website: 'https://bootstrapstudio.io/'
+category: 'Developer Tools'
+keywords:
+  - bootstrap
+  - css
+  - sass
+  - js
+  - ide
+  - editor
+  - builder
+screenshots:
+  - imageUrl: 'https://bootstrapstudio.io/assets/img/app_4.jpg'
+    caption: 'Editing a design in Bootstrap Studio'

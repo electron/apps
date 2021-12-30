@@ -3,14 +3,14 @@ description: 'An Ultimate EXCEL Data Filter'
 website: 'https://xcel.aotu.io/'
 repository: 'https://github.com/o2team/xcel'
 keywords:
-    - xcel
-    - excel
-    - data-cleaning
-    - aotu.io
+  - xcel
+  - excel
+  - data-cleaning
+  - aotu.io
 license: GPL-3.0
 locales:
-    - zh-CN
+  - zh-CN
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/dc65b5c81b02e19d51b5d1505ff2fd3b86606b03/68747470733a2f2f6d6973632e616f74752e696f2f4a43686568652f7863656c2f66696c7465725f70616e656c2e706e67'
+  - imageUrl: 'https://camo.githubusercontent.com/dc65b5c81b02e19d51b5d1505ff2fd3b86606b03/68747470733a2f2f6d6973632e616f74752e696f2f4a43686568652f7863656c2f66696c7465725f70616e656c2e706e67'
+disabled: true # Old Electron version: v1.6.8

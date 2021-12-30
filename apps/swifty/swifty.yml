@@ -1,0 +1,15 @@
+name: Swifty
+description: 'Modern, lightweight, fast and free Passsword Manager.'
+website: 'https://github.com/alchaplinsky/swifty'
+category: Utilities
+repository: 'https://github.com/alchaplinsky/swifty'
+keywords:
+  - swifty
+  - password
+  - 'password manager'
+  - credentials
+  - privacy
+  - security
+  - encryption
+  - encrypted
+license: MIT

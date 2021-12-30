@@ -1,0 +1,22 @@
+name: Biblio
+description: 'Create APA, MLA, and Chicago-style citations.'
+website: 'https://joshuamanuel.github.io/biblio/'
+category: Education
+repository: 'https://github.com/JoshuaManuel/biblio'
+keywords:
+  - cite
+  - citation
+  - mla
+  - apa
+  - chicago
+  - paper
+  - college
+  - education
+  - write
+  - essay
+  - academia
+license: MIT
+screenshots:
+  - imageUrl: 'https://joshuamanuel.github.io/biblio/readme/Biblio-Feb-03-2019.gif'
+    caption: 'Biblio in action'
+    imageLink: https://joshuamanuel.github.io/biblio/

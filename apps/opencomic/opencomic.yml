@@ -1,0 +1,22 @@
+name: OpenComic
+description: 'Comic and manga reader.'
+website: 'https://github.com/ollm/OpenComic'
+repository: 'https://github.com/ollm/OpenComic'
+snapcraftName: opencomic
+keywords:
+  - comic
+  - manga
+  - cbr
+  - cbz
+  - cb7
+license: GPL-3.0
+category: Books
+locales:
+  - en
+  - es
+  - en-US
+  - es-ES
+screenshots:
+  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2020/08/OpenComic-ScreenShot.png'
+  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2020/08/OpenComic-ScreenShot-2.png'
+  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2020/08/OpenComic-ScreenShot-3.png'

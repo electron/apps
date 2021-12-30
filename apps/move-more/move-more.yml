@@ -1,0 +1,28 @@
+name: Move More
+description: 'Lightweight desktop app that reminds you to move more.'
+website: 'https://www.deskrelief.co.uk'
+category: Utilities
+repository: 'https://github.com/deskrelief/movemore'
+keywords:
+  - move more
+  - free
+  - timer
+  - time
+  - alarm
+  - clock
+  - pomodoro
+  - background
+  - active
+screenshots:
+  - imageUrl: 'https://deskrelief.co.uk/screenshots/1.jpg'
+    caption: 'Move More!'
+    imageLink: 'https://www.deskrelief.co.uk'
+  - imageUrl: 'https://deskrelief.co.uk/screenshots/2.jpg'
+    caption: 'Move More!'
+    imageLink: 'https://www.deskrelief.co.uk'
+  - imageUrl: 'https://deskrelief.co.uk/screenshots/3.jpg'
+    caption: 'Move More!'
+    imageLink: 'https://www.deskrelief.co.uk'
+  - imageUrl: 'https://deskrelief.co.uk/screenshots/4.jpg'
+    caption: 'Move More!'
+    imageLink: 'https://www.deskrelief.co.uk'

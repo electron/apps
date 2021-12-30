@@ -1,0 +1,16 @@
+name: FileCtor
+description: 'File inspector with interactive javascript console.'
+website: 'https://tomas-chyly.com/en/project/filector/'
+category: Developer Tools
+repository: 'https://github.com/tomaschyly/FileCtor'
+keywords:
+  - open source
+  - developer
+license: GPL v3
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/tomaschyly/FileCtor/master/screenshots/FileCtor-Console.png'
+    caption: 'Javascript console'
+  - imageUrl: 'https://raw.githubusercontent.com/tomaschyly/FileCtor/master/screenshots/FileCtor-Files.png'
+    caption: 'Files & directory view'
+  - imageUrl: 'https://raw.githubusercontent.com/tomaschyly/FileCtor/master/screenshots/FileCtor-Snippets.png'
+    caption: 'Saved code snippets'

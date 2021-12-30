@@ -1,6 +1,15 @@
 name: TagSpaces
-description: 'Your Hackable File Organizer'
-website: 'http://tagspaces.org/'
+description: 'Your offline file manager'
+website: 'https://www.tagspaces.org/'
+repository: 'https://github.com/tagspaces/tagspaces'
+license: AGPL3
 keywords:
-    - Productivity
-category: Productivity
+  - notetaking
+  - organization
+  - tagging
+  - productivity
+category: Utilities
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/tagspaces/documentation/master/static/media/v3/tagspaces-v3-themes.jpg'
+    caption: 'TagSpaces Desktop'
+    imageLink: 'https://www.tagspaces.org'

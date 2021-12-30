@@ -1,15 +1,16 @@
 name: Bitbloq
 description: 'Help children create programs for a microcontroller or robot'
-website: 'http://bitbloq.bq.com'
+website: 'https://bitbloq.bq.com/#/offline'
 repository: 'https://github.com/bq/bitbloq-offline'
 keywords:
-    - bq
-    - bitbloq
-    - robotics
-    - arduino
-    - electronics
-    - children
+  - bq
+  - bitbloq
+  - robotics
+  - arduino
+  - electronics
+  - children
 category: Education
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/bq/bitbloq-offline/master/docs/onlineVSoffline.jpg'
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/bq/bitbloq-offline/master/docs/onlineVSoffline.jpg',
+    }

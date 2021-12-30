@@ -1,0 +1,15 @@
+name: Lector
+description: 'Simple PDF Reader.'
+website: 'https://sagargurtu.github.io/lector/'
+category: Productivity
+repository: 'https://github.com/sagargurtu/lector'
+keywords:
+  - pdf
+  - reader
+  - viewer
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/sagargurtu/lector/master/docs/assets/screenshots/Tabbed%20View.png'
+    caption: 'Tabbed View'
+  - imageUrl: 'https://raw.githubusercontent.com/sagargurtu/lector/master/docs/assets/screenshots/Empty%20View.png'
+    caption: 'Empty View'

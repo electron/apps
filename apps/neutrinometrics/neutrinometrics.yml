@@ -1,9 +1,0 @@
-name: NeutrinoMetrics
-description: 'Analytics for apps made with electron'
-website: 'https://neutrinometrics.net'
-keywords:
-    - analytics
-    - data
-    - desktop
-license: GPLv2
-category: 'Developer Tools'

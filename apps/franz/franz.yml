@@ -1,8 +1,10 @@
 name: Franz
-description: 'Messaging app / former emperor of Austria, combining chat and messaging services into one application'
-website: 'http://meetfranz.com'
+description:
+  'Messaging app / former emperor of Austria, combining chat and messaging
+  services into one application'
+website: 'https://meetfranz.com/'
 keywords:
-    - messaging
-    - chat
-    - productivity
+  - messaging
+  - chat
+  - productivity
 category: Productivity

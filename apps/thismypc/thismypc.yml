@@ -1,0 +1,25 @@
+name: ThisMyPC
+description: 'Browse your PC remotely from any web browser.'
+website: 'https://github.com/supunlakmal/thismypc'
+category: 'Developer Tools'
+repository: 'https://github.com/supunlakmal/thismypc'
+keywords:
+  - 'remote pc'
+  - 'remote access'
+  - 'open source'
+  - experimental
+  - 'full stack'
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/supunlakmal/thismypc/master/doc/gifAnimations/web_site_system.gif'
+    caption: 'Web Site System'
+  - imageUrl: 'https://raw.githubusercontent.com/supunlakmal/thismypc/master/doc/gifAnimations/breadcrumb.gif'
+    caption: 'Breadcrumb'
+  - imageUrl: 'https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/src/assets/images/screen/app-login.PNG'
+    caption: 'Desktop App Login'
+  - imageUrl: 'https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/src/assets/images/screen/app-home.PNG'
+    caption: 'Desktop App Open'
+  - imageUrl: 'https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/src/assets/images/screen/web-system.PNG'
+    caption: 'Web App PC Drivers'
+  - imageUrl: 'https://raw.githubusercontent.com/supunlakmal/thismypc/master/thisMyPCWeb/src/assets/images/screen/open-drive.PNG'
+    caption: 'Web App PC Drivers Open'

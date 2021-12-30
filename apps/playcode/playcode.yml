@@ -1,14 +1,15 @@
 name: PlayCode
 description: 'Desktop client for Playcode Online Javascript Editor'
-website: 'http://github.com/meadowcottage/playcode-desktop'
+website: 'https://github.com/playcode/playcode-desktop'
 keywords:
-    - playcode
-    - editor
-    - 'developer tools'
-    - mac
+  - playcode
+  - editor
+  - 'developer tools'
+  - mac
 license: GPL-v3
 category: 'Developer Tools'
-repository: 'http://github.com/meadowcottage/playcode-desktop'
+repository: 'https://github.com/playcode/playcode-desktop'
 screenshots:
-    -
-        imageUrl: 'https://github.com/Meadowcottage/Playcode-desktop/blob/master/build/Screenshot.png?raw=true'
+  - {
+      imageUrl: 'https://github.com/playcode/Playcode-desktop/blob/master/build/Screenshot.png?raw=true',
+    }

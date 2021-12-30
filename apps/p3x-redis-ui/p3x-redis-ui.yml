@@ -1,0 +1,29 @@
+name: 'P3X Redis UI'
+description:
+  'A very functional handy database GUI and works in your pocket on the
+  responsive web or as a desktop app.'
+repository: 'https://github.com/patrikx3/redis-ui'
+website: 'https://www.corifeus.com/redis-ui'
+keywords:
+  - redis
+  - ui
+  - admin
+  - gui
+  - dark
+  - theme
+  - internationalization
+license: MIT
+category: 'Developer Tools'
+screenshots:
+  - imageUrl: 'https://cdn.corifeus.com/git/redis-ui/artifacts/preview-images/preview-6.png'
+    caption: 'JSON Editor'
+  - imageUrl: 'https://cdn.corifeus.com/git/redis-ui/artifacts/preview-images/preview-3.png'
+    caption: 'Light theme - Settings'
+  - imageUrl: 'https://cdn.corifeus.com/git/redis-ui/artifacts/preview-images/preview-2.png'
+    caption: 'Dark themed - JSON preview'
+  - imageUrl: 'https://cdn.corifeus.com/git/redis-ui/artifacts/preview-images/preview.png'
+    caption: 'Enterprise themed - Statistics'
+  - imageUrl: 'https://cdn.corifeus.com/git/redis-ui/artifacts/preview-images/preview-4.png'
+    caption: 'Redis themed - Key'
+  - imageUrl: 'https://cdn.corifeus.com/git/redis-ui/artifacts/preview-images/preview-5.png'
+    caption: 'Darko bluo - Key'

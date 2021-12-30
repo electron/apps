@@ -1,7 +1,0 @@
-name: 'Ionic Lab'
-description: 'Create, build, test and deploy Ionic apps'
-website: 'http://lab.ionic.io'
-disabled: true
-keywords:
-    - developer
-category: 'Developer Tools'

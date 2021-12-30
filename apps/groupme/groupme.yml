@@ -3,12 +3,12 @@ description: 'Unofficial desktop client for GroupMe'
 website: 'https://github.com/dcrousso/GroupMe#readme'
 repository: 'https://github.com/dcrousso/GroupMe'
 keywords:
-    - GroupMe
-    - chat
-    - messaging
-    - social
+  - GroupMe
+  - chat
+  - messaging
+  - social
 license: MIT
 category: 'Social Networking'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/dcrousso/GroupMe/master/media/screenshot.png'
+disabled: true # Old Electron version: v1.4.14

@@ -1,0 +1,12 @@
+name: ActiveChart
+description: 'Easily create interactive charts'
+website: 'https://activechart.futureglobe.de/'
+category: 'Productivity'
+keywords:
+  - chart
+  - interactive
+  - tool
+screenshots:
+  - imageUrl: 'https://activechart.futureglobe.de/images/screenshots/Screenshot03.PNG'
+    caption: 'ActiveChart'
+    imageLink: 'https://activechart.futureglobe.de/'

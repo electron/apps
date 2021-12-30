@@ -1,5 +1,6 @@
 name: MonteNote
-description: 'Note taking application with a rich set of editing and management features.'
+description:
+  'Note taking application with a rich set of editing and management features.'
 website: 'https://github.com/urbanogardun/monte-note'
 repository: 'https://github.com/urbanogardun/monte-note'
 keywords:
@@ -12,6 +13,6 @@ keywords:
 license: GNU General Public License v3.0
 category: Productivity
 screenshots:
-  -
-    imageUrl: 'https://github.com/urbanogardun/monte-note/raw/master/static/monte-note-note-page.gif'
+  - imageUrl: 'https://github.com/urbanogardun/monte-note/raw/master/static/monte-note-note-page.gif'
     imageLink: 'https://github.com/urbanogardun/monte-note'
+disabled: true # Old Electron version: v1.7.9

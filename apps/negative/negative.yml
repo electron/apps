@@ -2,14 +2,14 @@ name: Negative
 description: 'An app for making visual comparisons'
 website: 'https://github.com/atdrago/negative'
 keywords:
-    - diff
-    - 'visual diff'
-    - 'web development'
-    - 'web design'
-    - 'developer tools'
+  - diff
+  - 'visual diff'
+  - 'web development'
+  - 'web design'
+  - 'developer tools'
 license: MIT
 category: 'Developer Tools'
 repository: 'https://github.com/atdrago/negative'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/atdrago/negative/develop/docs/demo-usage.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/atdrago/negative/develop/docs/demo-usage.gif'
+disabled: true # Old Electron version: v1.7.9

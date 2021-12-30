@@ -3,13 +3,13 @@ description: 'Store, manage and switch your hosts easily'
 website: 'https://eshengsky.github.io/HostsDock/'
 repository: 'https://github.com/eshengsky/HostsDock'
 keywords:
-    - HostsDock
-    - storage
-    - manage
-    - switch
-    - hosts
+  - HostsDock
+  - storage
+  - manage
+  - switch
+  - hosts
 license: MIT
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/eshengsky/HostsDock/master/public/image/review_en.png'
+  - imageUrl: 'https://raw.githubusercontent.com/eshengsky/HostsDock/master/public/image/review_en.png'
+disabled: true # Old Electron version: v1.7.11

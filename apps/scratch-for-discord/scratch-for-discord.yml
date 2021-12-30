@@ -1,0 +1,20 @@
+name: Scratch For Discord
+description: 🐱 Create your own Discord Bot easily using Scratch-styled blocks.
+website: https://scratch-for-discord.netlify.app
+category: Developer Tools
+repository: https://github.com/scratch-for-discord/scratch-for-discord-app
+keywords:
+  - discord
+  - bot
+  - scratch
+  - javascript
+  - bot maker
+  - discord bot maker
+  - dbm
+  - desktop
+license: MIT
+screenshots:
+  - imageUrl: 'https://i.imgur.com/LsV7CsE.png'
+    caption: 'App preview'
+  - imageUrl: 'https://i.imgur.com/y2GmBXa.png'
+    caption: 'Scratch'

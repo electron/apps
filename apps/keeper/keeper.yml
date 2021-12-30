@@ -2,10 +2,10 @@ name: 'Keeper'
 description: 'Encrypts and decrypts your files with the password you specify'
 repository: 'https://github.com/ardagedikk/keeper'
 keywords:
-    - encrypt
-    - decrypt
+  - encrypt
+  - decrypt
 license: MIT
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/ardagedikk/keeper/master/media/Screenshot_1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/ardagedikk/keeper/master/media/Screenshot_1.png'
+disabled: true # Old Electron version: v1.7.9

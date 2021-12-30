@@ -1,10 +1,11 @@
 name: BrowserDispatcher
-description: 'Sends link to the right browser depending on a set of predefined rules'
+description:
+  'Sends link to the right browser depending on a set of predefined rules'
 website: 'https://github.com/andriyko/browser-dispatcher/releases'
 repository: 'https://github.com/andriyko/browser-dispatcher'
 keywords:
-    - utility
+  - utility
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/dd07e4ce405ee9d3682e4cd7d908a7ebf31c724a/687474703a2f2f692e696d6775722e636f6d2f62776a486c62352e706e67'
+  - imageUrl: 'https://camo.githubusercontent.com/dd07e4ce405ee9d3682e4cd7d908a7ebf31c724a/687474703a2f2f692e696d6775722e636f6d2f62776a486c62352e706e67'
+disabled: true # Old Electron version: v1.4.15

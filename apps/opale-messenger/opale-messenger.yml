@@ -3,19 +3,19 @@ description: 'Facebook Messenger wrapper with an android-like bubble'
 website: 'https://github.com/DavidMellul/Opale-Messenger'
 repository: 'https://github.com/DavidMellul/Opale-Messenger'
 keywords:
-    - chat
-    - message
-    - social
-    - facebook
-    - bubble
-    - wrapper
-    - messenger
-    - text
-    - online
-    - send
-    - toggle
+  - chat
+  - message
+  - social
+  - facebook
+  - bubble
+  - wrapper
+  - messenger
+  - text
+  - online
+  - send
+  - toggle
 license: MIT
 category: 'Social Networking'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/DavidMellul/Opale-Messenger/master/images/screen.png'
+  - imageUrl: 'https://raw.githubusercontent.com/DavidMellul/Opale-Messenger/master/images/screen.png'
+disabled: true # Old Electron version: v1.4.1

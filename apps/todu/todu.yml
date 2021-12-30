@@ -4,15 +4,14 @@ website: 'https://github.com/CyanSalt/todu'
 category: Productivity
 repository: 'https://github.com/CyanSalt/todu'
 keywords:
-    - to-do
-    - productivity
+  - to-do
+  - productivity
 license: MIT
 screenshots:
-    -
-        imageUrl: 'https://user-images.githubusercontent.com/5101076/31648366-ddd86026-b33f-11e7-8a20-35d857514e71.png'
-        caption: 'Main page'
-        imageLink: 'https://github.com/CyanSalt/todu'
-    -
-        imageUrl: 'https://user-images.githubusercontent.com/5101076/31696671-70c01f8c-b3e5-11e7-9db5-5c22401ae116.png'
-        caption: 'Hackable app'
-        imageLink: 'https://github.com/CyanSalt/todu'
+  - imageUrl: 'https://user-images.githubusercontent.com/5101076/31648366-ddd86026-b33f-11e7-8a20-35d857514e71.png'
+    caption: 'Main page'
+    imageLink: 'https://github.com/CyanSalt/todu'
+  - imageUrl: 'https://user-images.githubusercontent.com/5101076/31696671-70c01f8c-b3e5-11e7-9db5-5c22401ae116.png'
+    caption: 'Hackable app'
+    imageLink: 'https://github.com/CyanSalt/todu'
+disabled: true # Old Electron version: v3.0.8

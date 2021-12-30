@@ -1,9 +1,0 @@
-name: 'Egret Wing'
-description: 'Desktop client for Egret Wing'
-website: 'http://www.egret.com/products-wing'
-disabled: true # site if offline
-locales:
-    - zh_CN
-keywords:
-    - IDE
-category: 'Developer Tools'

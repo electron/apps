@@ -1,10 +1,10 @@
 name: Caption
 description: 'Find the right subtitles. Easy.'
 website: 'https://getcaption.co'
-repository: 'https://github.com/gielcobben/Caption'
+repository: 'https://github.com/gielcobben/caption'
 keywords:
-    - utility
+  - utility
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/62041be5f615c358dee76a4afb0880123d4d63da/68747470733a2f2f67657463617074696f6e2e636f2f636f7665722e6a7067'
+  - imageUrl: 'https://gielcobben.com/github/caption/github_cover.png'
+disabled: true # Old Electron version: v1.8.2

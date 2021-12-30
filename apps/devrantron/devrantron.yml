@@ -5,11 +5,8 @@ repository: 'https://github.com/tahnik/devRantron/'
 keywords: ['Social Network']
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/master/app/screenshots/custom.png'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/master/app/screenshots/profile.png'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/master/app/screenshots/notif.png'
-    -
-        imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/master/app/screenshots/view.png'
+  - imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/96448bbb598e0d238636e3b5a6a29683dff102a5/app/screenshots/custom.png'
+  - imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/96448bbb598e0d238636e3b5a6a29683dff102a5/app/screenshots/login.png'
+  - imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/96448bbb598e0d238636e3b5a6a29683dff102a5/app/screenshots/notif.png'
+  - imageUrl: 'https://raw.githubusercontent.com/tahnik/devRantron/96448bbb598e0d238636e3b5a6a29683dff102a5/app/screenshots/view.png'
+disabled: true # Old Electron version: v2.0.0

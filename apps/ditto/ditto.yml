@@ -1,0 +1,12 @@
+name: Ditto++
+description: Cross platform clipboard manager inspired by Ditto for windows.
+website: https://github.com/RubinderS/DittoPlusPlus/
+category: Productivity
+repository: https://github.com/RubinderS/DittoPlusPlus/
+keywords:
+  - clipboard
+  - clipboard-manager
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/RubinderS/DittoPlusPlus/master/screenshots/2021-08-02-19-36-11.png'
+    caption: 'Ditto++ Screenshot'

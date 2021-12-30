@@ -3,10 +3,10 @@ description: 'Implementation of a 21st century to-do list app.'
 website: 'https://wanna.js.org'
 repository: 'https://github.com/mkermani144/wanna'
 keywords:
-    - to-do
-    - productivity
+  - to-do
+  - productivity
 license: MIT
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/mkermani144/wanna/master/screenshots/s1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/mkermani144/wanna/master/screenshots/s1.png'
+disabled: true # Old Electron version: v1.7.11

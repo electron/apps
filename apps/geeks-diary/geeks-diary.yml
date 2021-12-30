@@ -1,0 +1,21 @@
+name: 'Geeks Diary'
+description: 'TIL writing tool for programmer'
+website: 'https://github.com/seokju-na/geeks-diary'
+category: Productivity
+repository: 'https://github.com/seokju-na/geeks-diary'
+screenshots:
+  - imageUrl: 'https://user-images.githubusercontent.com/13250888/50571138-5bc7bf80-0de5-11e9-8f4e-3193c085a5b9.png'
+    caption: 'Main Screenshot'
+  - imageUrl: 'https://user-images.githubusercontent.com/13250888/50571136-5b2f2900-0de5-11e9-92a2-cb002fb62a46.png'
+    caption: 'Commit Note'
+  - imageUrl: 'https://user-images.githubusercontent.com/13250888/50505413-bf38b100-0ab6-11e9-8d2f-6a1c8725c6cd.gif'
+    caption: 'Sync with remote repository'
+  - imageUrl: 'https://user-images.githubusercontent.com/13250888/50505410-bea01a80-0ab6-11e9-9794-33d6cadb64b8.gif'
+    caption: 'Contribute Measurement'
+keywords:
+  - Markdown
+  - 'Note App'
+  - Code
+  - Programmer
+  - TIL
+license: MIT

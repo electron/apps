@@ -4,10 +4,11 @@ website: 'http://www.monerite.com'
 category: Finance
 repository: 'https://github.com/connorgoggins/monerite-app'
 keywords:
-    - monerite
-    - monero
-    - mining
-    - miner
-    - crypto
-    - cryptocurrency
-    - bitcoin
+  - monerite
+  - monero
+  - mining
+  - miner
+  - crypto
+  - cryptocurrency
+  - bitcoin
+disabled: true # Old Electron version: v1.8.3

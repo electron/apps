@@ -3,13 +3,13 @@ description: 'Souncloud delivered in a wrapper with a mini player'
 website: 'https://github.com/MSandeep96/SoundKeys'
 repository: 'https://github.com/MSandeep96/SoundKeys'
 keywords:
-    - music
-    - soundcloud
-    - shortcuts
-    - keymappings
-    - mediakeys
-    - notifications
+  - music
+  - soundcloud
+  - shortcuts
+  - keymappings
+  - mediakeys
+  - notifications
 category: Music
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/MSandeep96/SoundKeys/master/ReadmeImages/Soundkeys.PNG'
+  - imageUrl: 'https://raw.githubusercontent.com/MSandeep96/SoundKeys/master/ReadmeImages/Soundkeys.PNG'
+disabled: true # Old Electron version: v1.7.9

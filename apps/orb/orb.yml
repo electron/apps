@@ -1,0 +1,17 @@
+name: Orb
+description:
+  'Object Based Browser built specifically for running Live Site for your
+  services used by Azure Engineers.'
+website: 'https://github.com/microsoft/Orb'
+category: 'Developer Tools'
+repository: 'https://github.com/microsoft/Orb'
+keywords:
+  - Azure
+  - 'Live Sites'
+  - 'Managing Services'
+  - 'Azure Devops'
+  - 'Azure Data Explorer'
+  - Browser
+  - PowerShell
+license: MIT
+disabled: true # Old Electron version: v2.0.9

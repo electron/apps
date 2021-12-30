@@ -1,11 +1,12 @@
 name: 'Wonder Reader'
 description: 'A digital comic book reader'
-website: 'http://alice-em.github.io/wonder-reader/'
+website: 'https://alice-em.github.io/wonder-reader/'
 repository: 'https://github.com/alice-em/wonder-reader'
 keywords:
-    - comics
-    - cbr
-    - cbz
-    - 'comic book'
+  - comics
+  - cbr
+  - cbz
+  - 'comic book'
 license: ISC
 category: Books
+disabled: true # Old Electron version: v3.1.13

@@ -1,0 +1,9 @@
+name: 'FNew Desktop'
+description:
+  'Natively use FNew from your device, without needing to wait for your browser
+  to start.'
+website: 'https://fnew-social.net/desktop-apps/'
+category: 'Social Networking'
+repository: 'https://github.com/0810-Software/FNew-Desktop-Windows'
+license: MIT
+disabled: true # Dead link(s): https://fnew-social.net/desktop-apps/

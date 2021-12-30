@@ -1,6 +1,6 @@
 name: Friends
 description: 'Peer to peer chat'
-website: 'http://moose-team.github.io/friends'
+website: 'https://moose-team.github.io/friends'
 keywords:
-    - chat
+  - chat
 category: 'Social Networking'

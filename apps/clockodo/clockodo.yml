@@ -1,0 +1,16 @@
+name: clockodo
+description: 'Time tracking for small and medium-sized companies.'
+website: 'https://www.clockodo.com/'
+category: Productivity
+keywords:
+  - 'Time tracking'
+  - 'Work time'
+  - 'Project reports'
+screenshots:
+  - imageUrl: 'https://www.clockodo.com/apps/electron-apps/stop.jpg'
+  - imageUrl: 'https://www.clockodo.com/apps/electron-apps/list.jpg'
+  - imageUrl: 'https://www.clockodo.com/apps/electron-apps/details.jpg'
+  - imageUrl: 'https://www.clockodo.com/apps/electron-apps/add.jpg'
+locales:
+  - en-US
+  - de-DE

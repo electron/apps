@@ -1,12 +1,13 @@
 name: CemUI
 description: 'Powerful all-in-one frontend UI for the WiiU emulator, Cemu'
-website: 'http://cemui.com'
+website: 'https://cemui.com/'
 repository: 'https://github.com/RedDuckss/CemUI'
 keywords:
-    - cemu
-    - cemui
-    - emulator
-    - frontend
-    - ui
-    - gui
-category: 'Utilities'
+  - cemu
+  - cemui
+  - emulator
+  - frontend
+  - ui
+  - gui
+category: Utilities
+disabled: true # Dead link(s): https://cemui.com/ & electron < v3

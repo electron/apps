@@ -3,13 +3,13 @@ description: 'Dead-simple cross-platform cryptocurrency tracker!'
 website: 'https://www.etherbit.in/open-source/donut'
 repository: 'https://github.com/etherbithq/donut'
 keywords:
-    - cryptocurrency
-    - bitcoin
-    - ethereum
-    - tracker
-    - ticker
+  - cryptocurrency
+  - bitcoin
+  - ethereum
+  - tracker
+  - ticker
 license: MIT
 category: Finance
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/etherbithq/donut/master/preview.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/etherbithq/donut/master/preview.gif'
+disabled: true # Old Electron version: v1.4.1

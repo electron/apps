@@ -1,6 +1,56 @@
 name: 'Basecamp 3'
-description: 'A place to work + a way to work'
-website: 'https://basecamp.com'
+description:
+  'Basecamp is everything teams need to manage projects in one place.'
+website: 'https://basecamp.com/via'
 keywords:
-    - productivity
+  - todo
+  - to-do
+  - productivity
+  - communication
+  - collaboration
+  - project management
 category: Productivity
+youtube_video_url: 'https://www.youtube.com/watch?v=su5xAZHF114'
+screenshots:
+  - imageUrl: 'https://basecamp.com/assets/general/device-callouts@2x-778756d093dee51fbd19b5df9903dd84cc553a426309582348a3b2a4eea46fe4.png'
+    caption: 'Basecamp 3 Features'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/todo-lists-long@2x-2841f9b96739930b4f4cfc71f56931bcddb127c5d01607eb458bdcbc33e9d614.jpg'
+    caption: 'To-do Lists'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/message-thread-short@2x-dcae94b3c3458bfee603bab923c9a7d870af4281cc8b944cf9a860a66acacc40.jpg'
+    caption: 'Message Boards'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/schedules@2x-f8eef18354cd81bd8cdc41ea2a0b2e5e1651d30430c3fbd202cf633d3fd9d1c0.jpg'
+    caption: 'Schedules'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/docs-and-files@2x-0b901bdecc47089307ec0e2353beb62c776f29e65275d862a368d197c4fff256.jpg'
+    caption: 'Documents & File Storage'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/campfire@2x-7e175e49ba023620f4a9ff0bf457652f7d72bb3cf639e600564e15b2b3a6a455.jpg'
+    caption: 'Real-time Group Chat'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/checkin-responses@2x-a12322bea701f9c86f155b470d6189defb29289ff36ec58d10349467fd104636.jpg'
+    caption: 'Check-in Questions'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/client-access@2x-7992dfb74bfdde69d609fb5ba12a8795df318b9ab35fcea4fa8a0c8de8981309.jpg'
+    caption: 'Client Access'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/hill-charts@2x-b652f2940d135ff7d140b8252db90e5f39a907a4fe1a32568f4039de625aaeff.jpg'
+    caption: 'Hill Charts'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/pings@2x-77ae9246b265c75ae35054bd44ee88391b6dfa5a8d52f3a554d05caa2fa10bc1.jpg'
+    caption: 'Direct Messages (Pings)'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/email-forwards@2x-b3842592b552fd1fb43bc3055976ed532773d52fc38a1c652734c41a18138b65.jpg'
+    caption: 'Email Forwards'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/activity@2x-9c1766a9881a14b98482c169fe751bf14b728009a831d421a7b9a195006150d0.jpg'
+    caption: 'Reports'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/hey@2x-5633b9075d02c53605f62f75814086f1c89982996066e2be5e0158dcb37e70fa.jpg'
+    caption: 'Notifications'
+    imageLink: 'https://basecamp.com/features'
+  - imageUrl: 'https://basecamp.com/assets/how-it-works/search@2x-5037e92566008173aeae591fe5bed755e6a7ec0760967b68bf180beeda883a7c.jpg'
+    caption: 'Search'
+    imageLink: 'https://basecamp.com/features'

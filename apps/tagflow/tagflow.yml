@@ -1,10 +1,10 @@
 name: TagFlow
 description: 'Cross-platform file manager with clever tags'
-website: 'http://www.tagflow.ch'
+website: 'https://www.tagflow.ch/'
 keywords:
-    - tags
-    - 'file manager'
-    - 'file sharing'
-    - productivity
-    - cross-platform
+  - tags
+  - 'file manager'
+  - 'file sharing'
+  - productivity
+  - cross-platform
 category: Productivity

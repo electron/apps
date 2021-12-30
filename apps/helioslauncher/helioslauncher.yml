@@ -1,0 +1,10 @@
+name: Helios Launcher
+description: 'Custom Launcher for Modded Minecraft.'
+website: 'https://github.com/dscalzi/HeliosLauncher'
+repository: 'https://github.com/dscalzi/HeliosLauncher'
+category: Games
+keywords:
+  - minecraft
+  - minecraft launcher
+  - forge
+  - liteloader

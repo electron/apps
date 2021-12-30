@@ -1,0 +1,17 @@
+name: Pixel Weather
+description: 'Compact 8 bit style clear weather widget.'
+website: 'https://home.aveek.io/blog/post/pixel-weather/'
+repository: 'https://github.com/Aveek-Saha/pixel-weather'
+category: 'Utilities'
+keywords:
+  - weather
+  - retro
+  - pixelated
+  - clear
+screenshots:
+  - imageUrl: 'https://aveeksaha.gitlab.io/pixelweather/screenshot1.png'
+    caption: 'Dark'
+    imageLink: 'https://aveek-saha.github.io/'
+  - imageUrl: 'https://aveeksaha.gitlab.io/pixelweather/screenshot2.png'
+    caption: 'Light'
+    imageLink: 'https://aveek-saha.github.io/'

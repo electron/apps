@@ -3,11 +3,11 @@ description: 'REST Client'
 website: 'https://github.com/talhasch/ling'
 repository: 'https://github.com/talhasch/ling'
 keywords:
-    - 'REST Client'
-    - HTTP
-    - 'developer tools'
+  - 'REST Client'
+  - HTTP
+  - 'developer tools'
 license: MIT
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/talhasch/ling/master/screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/talhasch/ling/master/screenshot.png'
+disabled: true # Old Electron version: v1.8.4

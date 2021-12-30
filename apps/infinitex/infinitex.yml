@@ -4,13 +4,11 @@ website: 'https://github.com/fetacore/Infinitex'
 category: Productivity
 repository: 'https://github.com/fetacore/Infinitex'
 keywords:
-    - react
-    - latex
-    - material-ui
-    - electron
-    - uglifyjs
-    - libgen
+  - react
+  - latex
+  - material-ui
+  - uglifyjs
+  - libgen
 license: GPL-3.0
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/fetacore/Infinitex/master/infinitex.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/fetacore/Infinitex/master/infinitex.gif'

@@ -1,0 +1,19 @@
+name: Metronome Wallet
+description: 'Desktop wallet for Metronome (MET) token.'
+website: 'https://metronome.io/wallet/'
+category: Finance
+repository: 'https://github.com/autonomoussoftware/metronome-wallet-desktop'
+keywords:
+  - metronome
+  - wallet
+  - token
+  - eth
+  - ethereum
+  - blokchain
+  - erc20
+license: MIT
+
+screenshots:
+  - imageUrl: 'https://metronome.io/dist/images/screen-desktop-wallet-gray-bar@2x.png'
+    caption: 'Metronome Desktop Wallet'
+    imageLink: 'https://metronome.io/wallet/'

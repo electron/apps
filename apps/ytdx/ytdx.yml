@@ -1,0 +1,21 @@
+name: YTDX
+description: 'Download audio from YouTube videos'
+website: 'https://home.aveek.io/blog/post/ytdx/'
+repository: 'https://github.com/Aveek-Saha/ytdx'
+category: 'Music'
+keywords:
+  - music
+  - audio
+  - mp3
+  - flac
+  - youtube
+  - download
+
+screenshots:
+  - imageUrl: 'https://aveeksaha.gitlab.io/ytdx/screenshot1.png'
+    caption: 'Screenshot'
+    imageLink: 'https://github.com/Aveek-Saha/ytdx/releases'
+  - imageUrl: 'https://aveeksaha.gitlab.io/ytdx/screenshot2.png'
+    caption: 'Notification'
+    imageLink: 'https://github.com/Aveek-Saha/ytdx/releases'
+disabled: true # Old Electron version: v3.0.13

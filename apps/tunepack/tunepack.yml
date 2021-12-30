@@ -1,0 +1,13 @@
+name: Tunepack
+description:
+  'Search and download high quality audio files. Uses Soulseek under the hood.'
+website: 'https://github.com/tunepack/tunepack-desktop'
+category: Music
+repository: 'https://github.com/tunepack/tunepack-desktop.git'
+keywords:
+  - Tunepack
+  - Music
+  - Audio
+  - Downloading
+  - Soulseek
+license: MIT

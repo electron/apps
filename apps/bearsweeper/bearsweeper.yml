@@ -1,0 +1,9 @@
+name: BearSweeper
+description: 'Watch out for bear in the field!'
+website: 'https://github.com/kyaroru/bear-sweeper'
+category: Games
+repository: 'https://github.com/kyaroru/bear-sweeper'
+keywords:
+  - minesweeper
+  - bear
+  - puzzle

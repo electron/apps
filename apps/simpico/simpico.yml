@@ -1,0 +1,13 @@
+name: Simpico
+description:
+  'Simple and useful application to find and download icons for your projects'
+website: 'https://simpico.futureglobe.de/'
+category: 'Developer Tools'
+keywords:
+  - iconfinder
+  - tool
+  - trayapp
+screenshots:
+  - imageUrl: 'https://simpico.futureglobe.de/images/appHeaderScreenshot.JPG'
+    caption: 'Simpico'
+    imageLink: 'https://simpico.futureglobe.de/'

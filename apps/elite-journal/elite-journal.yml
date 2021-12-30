@@ -3,12 +3,12 @@ description: 'Browse the Elite: Dangerous journal easily.'
 website: 'https://github.com/willyb321/elite-journal'
 repository: 'https://github.com/willyb321/elite-journal'
 keywords:
-    - elite
-    - journal
-    - parser
-    - games
+  - elite
+  - journal
+  - parser
+  - games
 license: MIT
 category: Games
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/willyb321/elite-journal/master/screenshot.png'
+  - imageUrl: 'https://raw.githubusercontent.com/willyb321/elite-journal/master/screenshot.png'
+disabled: true # Old Electron version: v1.7.5

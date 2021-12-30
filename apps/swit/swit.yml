@@ -1,0 +1,15 @@
+name: Swit
+description: 'Team Collaboration Suite.'
+website: 'https://swit.io/'
+keywords:
+  - messaging
+  - chat
+  - team
+  - schedule
+  - collaboration
+  - communicate
+  - timelines
+category: 'Business'
+screenshots:
+  - imageUrl: 'https://swit.io/assets/images/home/features/device_app.png'
+    caption: 'Swit'

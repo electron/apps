@@ -5,9 +5,9 @@ repository: 'https://github.com/ivan770/pinesql'
 category: 'Developer Tools'
 license: 'MIT'
 keywords:
-    - sql
-    - mysql
-    - database
+  - sql
+  - mysql
+  - database
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/ivan770/pinesql/master/img/screenshot2.png'
+  - imageUrl: 'https://raw.githubusercontent.com/ivan770/pinesql/master/img/screenshot2.png'
+disabled: true # Old Electron version: v2.0.8

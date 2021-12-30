@@ -3,11 +3,12 @@ description: 'Simple cross-platform PostgreSQL client'
 website: 'http://dbglass.web-pal.com'
 repository: 'https://github.com/web-pal/DBGlass'
 keywords:
-    - postgresql
-    - sql
-    - database
+  - postgresql
+  - sql
+  - database
 license: MIT
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/b448792b1df5995b83494f22d3323c325a74ab83/68747470733a2f2f6170692e636f646163792e636f6d2f70726f6a6563742f62616467652f47726164652f6361616466666531623963373432353362646136316231336234646536383861'
+  - {
+      imageUrl: 'https://camo.githubusercontent.com/b448792b1df5995b83494f22d3323c325a74ab83/68747470733a2f2f6170692e636f646163792e636f6d2f70726f6a6563742f62616467652f47726164652f6361616466666531623963373432353362646136316231336234646536383861',
+    }

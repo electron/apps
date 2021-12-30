@@ -1,0 +1,7 @@
+name: PubvendorsTool
+description: 'Help create pubvendors.json files for IAB consent solutions.'
+website: 'https://github.com/EniroScott/pubvendors-tool'
+category: 'Developer Tools'
+repository: 'https://github.com/EniroScott/pubvendors-tool'
+license: MIT
+disabled: true # Old Electron version: v3.0.10

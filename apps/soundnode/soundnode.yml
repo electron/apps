@@ -1,13 +1,14 @@
 name: Soundnode
 description: 'Unofficial desktop client for Soundcloud.'
-website: 'http://www.soundnodeapp.com'
+website: 'https://soundnode.github.io/soundnode-website/'
 repository: 'https://github.com/Soundnode/soundnode-app'
 keywords:
-    - music
-    - sound
-    - soundcloud
+  - music
+  - sound
+  - soundcloud
 license: 'GNU GENERAL PUBLIC LICENSE Version 3'
 category: Music
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/Soundnode/soundnode-app/master/Soundnode-app.png'
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/Soundnode/soundnode-app/master/Soundnode-app.png',
+    }

@@ -1,0 +1,23 @@
+name: Remindr
+description:
+  'Desktop app to help you keep track of what you need to get done. Free and
+  open-source.'
+website: 'https://davidrios.studio'
+repository: 'https://github.com/MrDavidRios/remindr_releases'
+keywords:
+  - todo
+  - productivity
+  - task manager
+  - todo manager
+  - open source
+  - reminders
+  - lists
+category: 'Productivity'
+license: MIT
+screenshots:
+  - imageUrl: 'https://i.imgur.com/Y3mY2lp.png'
+    caption: 'Dashboard'
+  - imageUrl: 'https://i.imgur.com/TxbKzjO.png'
+    caption: 'Edit Panel'
+  - imageUrl: 'https://i.imgur.com/Y3q9Isq.png'
+    caption: 'Custom Backgrounds'

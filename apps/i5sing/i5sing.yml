@@ -1,12 +1,13 @@
 name: i5sing
 description: 'A simple music client for 5sing.kugou.com'
-website: 'http://i5sing.com'
+website: 'https://github.com/i5sing/i5SING'
 repository: 'https://github.com/i5sing/i5SING'
 keywords:
-    - 5sing
-    - 'music client'
-    - kugou
+  - 5sing
+  - 'music client'
+  - kugou
 category: Music
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/i5sing/i5sing-images/master/i5sing-readme/0.png'
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/i5sing/i5sing-images/master/i5sing-readme/0.png',
+    }

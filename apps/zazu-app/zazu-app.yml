@@ -1,17 +1,20 @@
 name: 'Zazu App'
-description: 'A fully extensible and open source launcher for hackers, creators and dabblers.'
+description:
+  'A fully extensible and open source launcher for hackers, creators and
+  dabblers.'
 website: 'http://zazuapp.org/'
 repository: 'https://github.com/tinytacoteam/zazu'
 keywords:
-    - 'cross platform'
-    - oss
-    - launcher
-    - extensible
-    - clipboard
-    - vpn
-    - file-search
+  - 'cross platform'
+  - oss
+  - launcher
+  - extensible
+  - clipboard
+  - vpn
+  - file-search
 license: MIT
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/tinytacoteam/zazu/master/docs/images/action-shots/package-manager.png'
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/tinytacoteam/zazu/master/docs/images/action-shots/package-manager.png',
+    }

@@ -3,10 +3,10 @@ description: 'Menubar Calculator'
 website: 'https://github.com/Cwoodall6/quickcalc'
 repository: 'https://github.com/Cwoodall6/quickcalc'
 keywords:
-    - calculator
-    - menubar
+  - calculator
+  - menubar
 license: MIT
 category: Utilities
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/Cwoodall6/quickcalc/master/assets/quickcalc_design.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/Cwoodall6/quickcalc/master/assets/quickcalc_design.jpg'
+disabled: true # Old Electron version: v1.3.3

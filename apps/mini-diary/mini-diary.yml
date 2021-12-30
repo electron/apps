@@ -1,0 +1,28 @@
+name: 'Mini Diary'
+description: 'Simple and secure journal app.'
+website: 'https://minidiary.app'
+category: Lifestyle
+repository: 'https://github.com/samuelmeuli/mini-diary'
+keywords:
+  - mini
+  - diary
+  - journal
+  - text
+  - editor
+license: MIT
+screenshots:
+  - imageUrl: 'https://github.com/samuelmeuli/mini-diary/blob/master/website/img/screenshot-1.png'
+  - imageUrl: 'https://github.com/samuelmeuli/mini-diary/blob/master/website/img/screenshot-2.png'
+  - imageUrl: 'https://github.com/samuelmeuli/mini-diary/blob/master/website/img/screenshot-3.png'
+  - imageUrl: 'https://github.com/samuelmeuli/mini-diary/blob/master/website/img/screenshot-4.png'
+locales:
+  - de
+  - el
+  - en
+  - es
+  - fr
+  - is
+  - pt
+  - tr
+  - uk
+  - zh

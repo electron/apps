@@ -1,13 +1,13 @@
 name: Dext
 description: 'JavaScript launcher'
-website: 'https://github.com/vutran/dext'
+website: 'https://github.com/DextApp/dext'
 keywords:
-    - dext
-    - launcher
-    - search
+  - dext
+  - launcher
+  - search
 license: MIT
 category: Utilities
-repository: 'https://github.com/vutran/dext'
+repository: 'https://github.com/DextApp/dext'
 screenshots:
-    -
-        imageUrl: 'https://github.com/vutran/dext/raw/develop/screenshot.gif'
+  - imageUrl: 'https://github.com/DextApp/dext/raw/6c5207252ddc2faeaca9688b8e9023d9bfd14055/screenshot.gif'
+disabled: true # Old Electron version: v1.6.1

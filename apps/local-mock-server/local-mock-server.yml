@@ -1,0 +1,10 @@
+name: 'Local Mock Server'
+description: 'This is simple tool for creating mock API locally.'
+website: 'https://github.com/jayakumarreddy/Local-Mock-Server/'
+category: 'Developer Tools'
+repository: 'https://github.com/jayakumarreddy/Local-Mock-Server/'
+keywords:
+  - mock-api-server
+  - front-end
+  - api-design
+license: MIT

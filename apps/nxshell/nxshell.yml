@@ -1,0 +1,20 @@
+name: nxshell
+description: Easy to use new terminal on Windows, Linux and macOS.
+website: https://github.com/nxshell/nxshell
+category: Developer Tools
+repository: https://github.com/nxshell/nxshell
+keywords:
+  - sftp
+  - xshell
+  - next shell
+  - shell
+  - terminal shell
+  - powershell
+  - nxshell
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/nxshell/nxshell/main/screenshots/home.png'
+    caption: 'Home Page'
+  - imageUrl: 'https://raw.githubusercontent.com/nxshell/nxshell/main/screenshots/ssh-terminal.png'
+    caption: 'Terminal view'
+  - imageUrl: 'https://raw.githubusercontent.com/nxshell/nxshell/main/screenshots/sftp-download.png'
+    caption: 'Sftp download view'

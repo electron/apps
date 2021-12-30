@@ -1,13 +1,15 @@
 name: ironNode
 description: 'A Node.js JavaScript Debugger'
-website: 'http://s-a.github.io/iron-node/'
+website: 'https://s-a.github.io/iron-node/'
 repository: 'https://github.com/s-a/iron-node'
 keywords:
-    - debug
-    - debugger
-    - nodejs
+  - debug
+  - debugger
+  - nodejs
 license: MIT
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/s-a/iron-node/master/docs/iron-node-demo.gif'
+  - {
+      imageUrl: 'https://raw.githubusercontent.com/s-a/iron-node/master/docs/iron-node-demo.gif',
+    }
+disabled: true # Old Electron version: v2.0.8

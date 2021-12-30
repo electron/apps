@@ -1,10 +1,10 @@
 name: Blockbench
 description: 'A modern 3D model editor for cube-based models'
-website: 'http://blockbench.net'
+website: 'https://blockbench.net/'
 repository: 'https://github.com/JannisX11/blockbench'
 keywords:
-    - modeling
-    - minecraft
+  - modeling
+  - minecraft
 license: MIT
 category: 'Graphics & Design'
 goodColorOnWhite: '#282c34'

@@ -1,13 +1,12 @@
 name: PileMd
-description: 'Markdown Note App with Beautiful Markdown Editor and Local Syncing'
+description:
+  'Markdown Note App with Beautiful Markdown Editor and Local Syncing'
 website: 'https://pilemd.com/'
-repository: 'https://github.com/hirokiky/pilemd'
 keywords:
-    - markdown
-    - note
-    - productivity
+  - markdown
+  - note
+  - productivity
 license: GPLv3
 category: Productivity
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/c99a021c04c80c4ccc79653f83b02dde995fc32a/68747470733a2f2f70696c656d642e636f6d2f696d616765732f746f70312e706e67'
+  - imageUrl: 'https://camo.githubusercontent.com/c99a021c04c80c4ccc79653f83b02dde995fc32a/68747470733a2f2f70696c656d642e636f6d2f696d616765732f746f70312e706e67'

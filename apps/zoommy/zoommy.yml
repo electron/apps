@@ -1,6 +1,8 @@
 name: Zoommy
-description: 'Helps you find awesome free stock photos for your creative product or inspiration'
-website: 'http://zoommyapp.com'
+description:
+  'Helps you find awesome free stock photos for your creative product or
+  inspiration'
+website: 'https://zoommyapp.com/'
 keywords:
-    - photos
+  - photos
 category: 'Photo & Video'

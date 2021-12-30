@@ -1,0 +1,17 @@
+name: 'CryptoARM GOST'
+description:
+  'Create a digital signatures and files encryption using cryptographic
+  algorithms.'
+website: 'https://cryptoarm.ru/cryptoarm-gost/'
+category: Productivity
+repository: 'https://github.com/TrustedRu/CryptoARMGOST'
+keywords:
+  - crypto
+  - gost
+  - signature
+  - encryption
+  - typescript
+  - react
+license: 'Apache License 2.0 / Proprietary'
+locales:
+  - ru-RU

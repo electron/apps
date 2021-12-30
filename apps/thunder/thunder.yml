@@ -1,9 +1,0 @@
-name: Thunder
-description: 'Your Social Networks, Emails and your websites in an application'
-website: 'https://www.trollswebapp.com'
-keywords:
-    - chat
-locales:
-    - es-NI
-category: 'Social Networking'
-disabled: true # Thunder website is down, no info found anywhere else

@@ -4,6 +4,7 @@ website: 'https://github.com/jeodiong/TodoKit/'
 category: 'Developer Tools'
 repository: 'https://github.com/jeodiong/TodoKit/'
 keywords:
-    - 'TodoKit'
-    - 'project'
-    - 'tracking'
+  - 'TodoKit'
+  - 'project'
+  - 'tracking'
+disabled: true # Old Electron version: v1.7.5

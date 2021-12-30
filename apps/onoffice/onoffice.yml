@@ -1,0 +1,29 @@
+name: OnOffice
+description:
+  'Work in perfect isolation from the real world in your own virtual office,
+  powered by WebVR.'
+website: 'https://onoffice.app'
+repository: 'https://github.com/rvdleun/onoffice'
+keywords:
+  - office
+  - productivity
+  - vr
+  - webvr
+license: GPL-3.0
+category: Productivity
+locales:
+  - en
+screenshots:
+  - {
+      imageUrl: 'https://rvdleun.nl/assets/img/blog/onoffice/settings-screen.png',
+      caption: 'Settings screen',
+    }
+  - {
+      imageUrl: 'https://rvdleun.nl/assets/img/blog/onoffice/streaming-screen-1.png',
+      caption: 'Instructions how to connect via your WebVR-powered headset',
+    }
+  - {
+      imageUrl: 'https://rvdleun.nl/assets/img/blog/onoffice/in-office.png',
+      caption: 'A view from the virtual environment',
+    }
+youtube_video_url: https://www.youtube.com/watch?v=zWRjotzyXZw

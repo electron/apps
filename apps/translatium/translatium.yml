@@ -1,18 +1,22 @@
 name: Translatium
-description: 'Translate like a Pro'
-website: 'https://translatiumapp.com'
-repository: 'https://github.com/translatium/translatium'
+description: 'Translate 100+ Languages Instantly.'
+website: 'https://translatium.app'
+repository: 'https://github.com/webcatalog/translatium-desktop'
+license: MPL-2.0
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/translatium/translatium-landing/master/public/images/screenshot_1.png'
-        caption: 'Translatium on macOS'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/translatium/Home+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/translatium/Phrasebook+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/translatium/Preferences+-+Light.png'
 keywords:
-    - translator
-    - 'google translate'
-    - 'voice recognition'
-    - 'handwriting recognition'
-    - tts
-    - ocr
-    - 'material design'
-    - language
+  - 'google translate'
+  - 'material design'
+  - 'optical character recognition'
+  - 'text-to-speech'
+  - 'voice recognition'
+  - language
+  - languages
+  - ocr
+  - translate
+  - translator
+  - tts
 category: Productivity

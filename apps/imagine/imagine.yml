@@ -3,10 +3,7 @@ description: 'Image optimizer'
 website: 'https://github.com/meowtec/Imagine'
 repository: 'https://github.com/meowtec/Imagine'
 keywords:
-    - 'image compress'
-    - png
-    - jpg
+  - 'image compress'
+  - png
+  - jpg
 category: 'Photo & Video'
-screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/836d629e3e52033a6769bb3d65927f84445ba2a3/687474703a2f2f37716e3776662e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f496d6167696e652e706e67'

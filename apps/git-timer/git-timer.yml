@@ -1,0 +1,13 @@
+name: Git Timer
+description: 'Git Time Tracker - developer dedicated time tracker.'
+website: 'https://www.git-timer.com/'
+keywords:
+  - git
+  - code
+  - commits
+  - developer
+  - tool
+  - productivity
+category: Productivity
+screenshots:
+  - imageUrl: 'https://www.git-timer.com/git-timer.png'

@@ -1,23 +1,24 @@
 name: Patchwork
-description: 'A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB)'
+description:
+  'A decentralized messaging and sharing app built on top of Secure Scuttlebutt
+  (SSB)'
 website: 'https://www.scuttlebutt.nz/'
 category: 'Social Networking'
 repository: 'https://github.com/ssbc/patchwork'
 keywords:
-    - scuttlebutt
-    - ssb
-    - social
-    - social-network
-    - decentralized
-    - decent
-    - chat
-    - gossip
-    - crypto
-    - subjectivity
-    - offline
-    - p2p
+  - scuttlebutt
+  - ssb
+  - social
+  - social-network
+  - decentralized
+  - decent
+  - chat
+  - gossip
+  - crypto
+  - subjectivity
+  - offline
+  - p2p
 license: AGPL-3.0
 screenshots:
-  -
-    imageUrl: 'https://github.com/ssbc/patchwork/raw/master/screenshot.jpg'
+  - imageUrl: 'https://raw.githubusercontent.com/ssbc/patchwork/master/assets/screenshot.jpg'
     caption: 'Public Channels View'

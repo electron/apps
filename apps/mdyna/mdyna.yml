@@ -1,0 +1,23 @@
+name: MDyna
+description:
+  'Markdown notes and Personal Wiki application which offers Github gists sync
+  and many other features 🚀.'
+website: 'https://mdyna.dev/'
+category: 'Developer Tools'
+repository: 'https://github.com/mdyna/mdyna-app'
+keywords:
+  - notes
+  - markdown
+  - keep
+  - productivity
+  - wiki
+  - mac
+  - linux
+  - md
+  - cross-platform
+  - windows
+screenshots:
+  - imageUrl: 'https://mdyna.dev/static/bb58b997f918aa21f602f31258fdd2bf/3e65a/mockup2.png'
+    caption: 'MDyna'
+  - imageUrl: 'https://mdyna.dev/static/e140dad75e7383299f09e0f370d65607/3e65a/mockup.png'
+    caption: 'Dark Theme'

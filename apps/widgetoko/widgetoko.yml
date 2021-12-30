@@ -4,19 +4,17 @@ website: 'https://github.com/bridgedotnet/Widgetoko'
 category: 'Social Networking'
 repository: 'https://github.com/bridgedotnet/Widgetoko'
 keywords:
-    - c#
-    - dotnet
-    - tweet
-    - twitter
-    - bridge
-    - retyped
+  - c#
+  - dotnet
+  - tweet
+  - twitter
+  - bridge
+  - retyped
 screenshots:
-    -
-        imageUrl: 'https://user-images.githubusercontent.com/62210/31524623-2c2e3906-af78-11e7-9e00-4df7227fa219.png'
-        caption: 'Main page'
-        imageLink: 'https://github.com/bridgedotnet/Widgetoko'
-    -
-        imageUrl: 'https://user-images.githubusercontent.com/62210/31524622-2c17c1d0-af78-11e7-87ee-ef4add2af6ed.png'
-        caption: 'Options page'
-        imageLink: 'https://github.com/bridgedotnet/Widgetoko'
+  - imageUrl: 'https://user-images.githubusercontent.com/62210/31524623-2c2e3906-af78-11e7-9e00-4df7227fa219.png'
+    caption: 'Main page'
+    imageLink: 'https://github.com/bridgedotnet/Widgetoko'
+  - imageUrl: 'https://user-images.githubusercontent.com/62210/31524622-2c17c1d0-af78-11e7-87ee-ef4add2af6ed.png'
+    caption: 'Options page'
+    imageLink: 'https://github.com/bridgedotnet/Widgetoko'
 youtube_video_url: 'https://www.youtube.com/watch?v=5nL_WlEPHXU'

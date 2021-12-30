@@ -1,0 +1,19 @@
+name: 'SSHFS-Win Manager'
+description:
+  'Graphics User Interface for SSHFS-Win
+  (https://github.com/billziss-gh/sshfs-win).'
+website: 'https://github.com/evsar3/sshfs-win-manager'
+category: Productivity
+repository: 'https://github.com/evsar3/sshfs-win-manager'
+keywords:
+  - ssh
+  - sshfs
+  - sshfs-win
+  - gui
+  - interface
+  - tool
+  - developer
+  - productivity
+  - manager
+license: MIT
+disabled: true # Old Electron version: v3.1.13

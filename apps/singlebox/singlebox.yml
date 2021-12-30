@@ -1,0 +1,19 @@
+name: Singlebox
+description: 'All-in-One Messenger.'
+website: 'https://singlebox.app'
+repository: 'https://github.com/webcatalog/neutron'
+license: MPL-2.0
+screenshots:
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/singlebox/Multiple+Accounts+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/singlebox/Add+Account+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/singlebox/Edit+Account+-+Light.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/singlebox/Preferences+-+Dark.png'
+  - imageUrl: 'https://storage.webcatalog.app/screenshots/singlebox/App+Lock+-+Light.png'
+keywords:
+  - 'all-in-one messenger'
+  - chat
+  - messaging
+  - browser
+  - 'all apps in one app'
+  - productivity
+category: Productivity

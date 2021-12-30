@@ -1,11 +1,10 @@
 name: SwitchHosts
 description: 'Manage and switch your hosts files.'
-website: 'https://oldj.github.io/SwitchHosts/'
+website: 'https://swh.app'
 repository: 'https://github.com/oldj/SwitchHosts'
 keywords:
-    - 'developer tools'
-license: MIT
+  - 'developer tools'
+license: Apache-2.0
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/oldj/SwitchHosts/master/assets/capture.png'
+  - imageUrl: 'https://swh.app/images/sh_light.png'

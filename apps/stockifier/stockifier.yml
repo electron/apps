@@ -1,0 +1,14 @@
+name: Stockifier
+description: 'Notification and insights app for stock markets.'
+website: 'https://github.com/jainsamyak/Stockifier'
+category: Finance
+repository: 'https://github.com/jainsamyak/Stockifier'
+keywords:
+  - stock
+  - notifier
+  - prediction
+  - forecast
+  - insights
+  - equity
+  - analysis
+license: MIT

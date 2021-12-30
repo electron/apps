@@ -1,9 +1,12 @@
 name: Tunlookup
 description: 'Translate selected text with a keystroke'
-website: 'https://tun-application.github.io/'
-repository: 'https://github.com/tun-application/Tunlookup'
+website: 'https://thephucit.github.io/tunlookup/'
+repository: 'https://github.com/thephucit/tunlookup'
 keywords:
-    - Translator
-    - Vocabulary
-    - Dictionary
+  - Translator
+  - translate
+  - Vocabulary
+  - Dictionary
+  - Tunlookup
+  - Tunlookup translate
 category: Utilities

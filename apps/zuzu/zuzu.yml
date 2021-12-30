@@ -4,10 +4,10 @@ website: 'https://github.com/AungMyoKyaw/zuzu-menubar-app'
 category: Utilities
 repository: 'https://github.com/AungMyoKyaw/zuzu-menubar-app'
 keywords:
-    - 'myanmar zawgyi to unicode converter'
+  - 'myanmar zawgyi to unicode converter'
 screenshots:
-  -
-    imageUrl: 'https://raw.githubusercontent.com/AungMyoKyaw/zuzu-menubar-app/master/assets/zuzu.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/AungMyoKyaw/zuzu-menubar-app/master/assets/zuzu.gif'
     caption: 'ZUZU'
     imageLink: 'https://electronjs.org/apps/zuzu'
 license: MIT
+disabled: true # Old Electron version: v1.8.6

@@ -1,0 +1,25 @@
+name: 'Socially'
+description: 'Organise all your socials into just one app.'
+website: 'https://getsocially.app'
+repository: 'https://github.com/JackHumphries9/Socially'
+keywords:
+  - socially
+  - productivity
+  - utilities
+  - social media
+  - instagram
+  - facebook
+license: GNU General Public License v3.0
+category: 'Social Networking'
+screenshots:
+  - imageUrl: 'https://getsocially.app/assets/img/mockup1.png'
+    caption: 'Socially Screenshot 1'
+    imageLink: 'https://getsocially.app#show'
+
+  - imageUrl: 'https://getsocially.app/assets/img/mockup2.png'
+    caption: 'Socially Screenshot 2'
+    imageLink: 'https://getsocially.app#show'
+
+  - imageUrl: 'https://getsocially.app/assets/img/mockup3.png'
+    caption: 'Socially Screenshot 3'
+    imageLink: 'https://getsocially.app#show'

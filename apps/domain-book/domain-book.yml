@@ -1,0 +1,27 @@
+name: 'Domain Book'
+description:
+  'Elegant domain monitoring app, it’s like a phone book but for your domains.'
+website: 'https://darawish.io/domainbook/'
+repository: 'https://github.com/darawish/domainbook'
+license: Paid
+youtube_video_url: 'https://vimeo.com/479298720'
+keywords:
+  - domains
+  - windows app
+  - windows 10 app
+  - windows 10 64-bit
+  - macOS app
+  - monitoring
+category: Utilities
+screenshots:
+  - imageUrl: 'https://i.imgur.com/BXQ7KdJ.png'
+    caption: 'main window'
+  - imageUrl: 'https://i.imgur.com/6ttUPGE.png'
+    caption: 'Windows version'
+  - imageUrl: 'https://i.imgur.com/Dr11o85.png'
+    caption: 'adding domain'
+  - imageUrl: 'https://i.imgur.com/WrJBMmB.png'
+    caption: 'auto import feature'
+  - imageUrl: 'https://i.imgur.com/OaRMfBR.png'
+    caption: 'list of domains that will expire soon'
+  - imageUrl: 'https://i.imgur.com/uo3mnRI.png'

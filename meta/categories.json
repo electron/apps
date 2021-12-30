@@ -1,38 +1,53 @@
 [
   {
     "name": "Productivity",
-    "count": 185,
+    "count": 233,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 117,
+    "count": 184,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 96,
+    "count": 111,
     "slug": "utilities"
   },
   {
     "name": "Social Networking",
-    "count": 39,
+    "count": 45,
     "slug": "social-networking"
   },
   {
-    "name": "Photo & Video",
-    "count": 38,
-    "slug": "photo-video"
-  },
-  {
     "name": "Music",
-    "count": 38,
+    "count": 44,
     "slug": "music"
   },
   {
+    "name": "Photo & Video",
+    "count": 43,
+    "slug": "photo-video"
+  },
+  {
     "name": "Games",
-    "count": 25,
+    "count": 33,
     "slug": "games"
+  },
+  {
+    "name": "Business",
+    "count": 27,
+    "slug": "business"
+  },
+  {
+    "name": "Education",
+    "count": 24,
+    "slug": "education"
+  },
+  {
+    "name": "Graphics & Design",
+    "count": 20,
+    "slug": "graphics-design"
   },
   {
     "name": "Finance",
@@ -40,34 +55,19 @@
     "slug": "finance"
   },
   {
-    "name": "Business",
-    "count": 18,
-    "slug": "business"
-  },
-  {
-    "name": "Education",
-    "count": 11,
-    "slug": "education"
-  },
-  {
-    "name": "Graphics & Design",
-    "count": 9,
-    "slug": "graphics-design"
-  },
-  {
-    "name": "Books",
-    "count": 5,
-    "slug": "books"
-  },
-  {
     "name": "Entertainment",
-    "count": 4,
+    "count": 14,
     "slug": "entertainment"
   },
   {
     "name": "News",
-    "count": 3,
+    "count": 7,
     "slug": "news"
+  },
+  {
+    "name": "Books",
+    "count": 6,
+    "slug": "books"
   },
   {
     "name": "Lifestyle",
@@ -75,9 +75,24 @@
     "slug": "lifestyle"
   },
   {
+    "name": "Food & Drink",
+    "count": 2,
+    "slug": "food-drink"
+  },
+  {
+    "name": "Health & Fitness",
+    "count": 2,
+    "slug": "health-fitness"
+  },
+  {
     "name": "Travel",
     "count": 1,
     "slug": "travel"
+  },
+  {
+    "name": "Sports",
+    "count": 1,
+    "slug": "sports"
   },
   {
     "name": "Medical",

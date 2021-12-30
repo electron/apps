@@ -1,0 +1,11 @@
+name: Mockman
+description: 'Manage and start the mock servers on your local platform easily.'
+website: 'https://github.com/LanceGin/Mockman'
+category: 'Developer Tools'
+repository: 'https://github.com/LanceGin/Mockman'
+keywords:
+  - mock-server
+  - api-mock
+  - vue
+license: AGPL
+disabled: true # Old Electron version: v2.0.4

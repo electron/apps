@@ -2,13 +2,12 @@ name: FreeMAN
 description: 'Free, extensible, cross-platform file manager for power users.'
 website: 'https://github.com/matthew-matvei/freeman'
 repository: 'https://github.com/matthew-matvei/freeman'
-license: "GPL-3.0"
+license: 'GPL-3.0'
 screenshots:
-    -
-        imageUrl: 'https://github.com/matthew-matvei/freeman/blob/develop/resources/freeManScreenshot.png'
-        caption: 'Dual-pane with open integrated terminal'
+  - imageUrl: 'https://raw.githubusercontent.com/matthew-matvei/freeman/develop/resources/freeManLogo.png'
+    caption: 'Dual-pane with open integrated terminal'
 keywords:
-    - File Manager
-    - Electron
-    - Minimalistic
+  - File Manager
+  - Minimalistic
 category: Utilities
+disabled: true # Old Electron version: v3.0.10

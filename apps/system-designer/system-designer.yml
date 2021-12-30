@@ -3,13 +3,12 @@ description: 'IDE for designing JavaScript applications driven by the model'
 website: 'https://designfirst.io/systemdesigner/'
 repository: 'https://github.com/design-first/system-designer'
 keywords:
-    - uml
-    - model
-    - system
-    - IDE
-    - OSGI
+  - uml
+  - model
+  - system
+  - IDE
+  - OSGI
 license: Apache-2.0
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/8a7f9036190521bef11487f5d8e9d64e8b1a9499/68747470733a2f2f64657369676e66697273742e696f2f696d672f73797374656d64657369676e65722e706e67'
+  - imageUrl: 'https://designfirst.io/img/system-designer.png'

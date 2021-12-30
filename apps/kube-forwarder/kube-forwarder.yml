@@ -1,0 +1,13 @@
+name: 'Kube Forwarder'
+description: 'Easy to use Kubernetes port forwarding manager.'
+website: 'https://kube-forwarder.pixelpoint.io/'
+category: 'Developer Tools'
+repository: 'https://github.com/pixel-point/kube-forwarder'
+homebrewCaskName: kube-forwarder
+keywords:
+  - kubectl
+  - kubernetes
+  - devops
+  - k8s
+  - port-forwarding
+license: MIT

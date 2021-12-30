@@ -3,11 +3,12 @@ description: 'A simple word processor build with web technologies.'
 website: 'https://skrifa.xyz'
 repository: 'https://github.com/Skrifa/Skrifa'
 keywords:
-    - editor
-    - note
-    - notebook
-    - encrypted
-    - word
-    - office
+  - editor
+  - note
+  - notebook
+  - encrypted
+  - word
+  - office
 license: GPLv3
 category: Productivity
+disabled: true # Old Electron version: v2.0.3

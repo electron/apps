@@ -1,15 +1,16 @@
 name: WeFlow
 description: 'A Web development workflow tool based on tmt-workflow'
-website: 'http://weflow.io/'
+website: 'https://github.com/weixin/WeFlow'
 repository: 'https://github.com/weixin/WeFlow'
 keywords:
-    - 'Web Development'
-    - Workflow
-    - Gulp
-    - Grunt
-    - 'developer tools'
+  - 'Web Development'
+  - Workflow
+  - Gulp
+  - Grunt
+  - 'developer tools'
 license: MIT
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://camo.githubusercontent.com/ca868e1f68e90c2904045045f48c2f2784d9d628/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f36343465616330306a7731663468656463707176736a32316530316665646e712e6a7067'
+  - {
+      imageUrl: 'https://camo.githubusercontent.com/ca868e1f68e90c2904045045f48c2f2784d9d628/687474703a2f2f7777322e73696e61696d672e636e2f6c617267652f36343465616330306a7731663468656463707176736a32316530316665646e712e6a7067',
+    }

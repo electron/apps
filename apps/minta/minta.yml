@@ -3,11 +3,11 @@ description: 'Generate regular expressions'
 website: 'https://github.com/ecrmnn/minta'
 repository: 'https://github.com/ecrmnn/minta'
 keywords:
-    - regex
-    - generator
-    - regexgen
+  - regex
+  - generator
+  - regexgen
 license: MIT
 category: 'Developer Tools'
 screenshots:
-    -
-        imageUrl: 'https://raw.githubusercontent.com/ecrmnn/minta/master/resources/demo.gif'
+  - imageUrl: 'https://raw.githubusercontent.com/ecrmnn/minta/master/resources/demo.gif'
+disabled: true # Old Electron version: v1.7.10
