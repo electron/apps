@@ -1,0 +1,34 @@
+name: Morgen
+description:
+  All-in-one calendard and tasks. Connects to Google, Exchange, Office 365,
+  iCloud, and CalDAV. Import tasks from all your tools and create customized
+  scheduling links right in your calendar.
+website: https://morgen.so
+category: Productivity
+keywords:
+  - calendar
+  - task
+  - scheduler
+  - smart
+  - exchange
+  - icloud
+  - google
+  - scheduling
+  - monotasking
+  - time
+  - blocking
+  - organizer
+snapcraftName: morgen
+youtube_video_url: https://youtu.be/3H1V7X6SBDw
+screenshots:
+  - imageUrl: 'https://morgen.so/screenshots/hero-main.png'
+    caption: 'Calendar, tasks and scheduler. All-in-one.'
+
+  - imageUrl: 'https://morgen.so/screenshots/accounts.png'
+    caption: 'Native integration with all calendars.'
+
+  - imageUrl: 'https://morgen.so/screenshots/tasks-lists.png'
+    caption: 'Full task manager.'
+
+  - imageUrl: 'https://morgen.so/screenshots/quick-join-button.png'
+    caption: 'Quick join button'
