@@ -3503,6 +3503,22 @@
       "revHash": "37bbe2b905"
     }
   },
+  "flat": {
+    "faintColorOnWhite": "rgba(4, 97, 239, 0.1)",
+    "goodColorOnBlack": "#5396FC",
+    "goodColorOnWhite": "#0461EF",
+    "palette": [
+      "#fbfbfc",
+      "#5396fc",
+      "#d3e3fc",
+      "#afccfc",
+      "#9cbcfc"
+    ],
+    "source": {
+      "path": "apps/flat/flat-icon.png",
+      "revHash": "9d43f67b33"
+    }
+  },
   "flawesome": {
     "faintColorOnWhite": "rgba(165, 33, 37, 0.1)",
     "goodColorOnBlack": "#748C94",
