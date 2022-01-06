@@ -78,7 +78,6 @@
   "dependencies": {
     "json-stable-stringify": "^1.0.1",
     "mime-types": "^2.1.30",
-    "mkdirp": "^1.0.4",
     "rev-hash": "^3.0.0"
   },
   "lint-staged": {
