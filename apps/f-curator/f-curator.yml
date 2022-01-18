@@ -1,5 +1,5 @@
 name: 'F-Curator'
-description: 'F-Curator is an offline application that comes at you all day long, and curate your own web favorites.'
+description: 'F-Curator is an offline application that comes at you all day long and curates your own web favorites.'
 website: 'https://github.com/xizon/F-Curator'
 repository: 'https://github.com/xizon/F-Curator/tree/main/package/macOS'
 keywords:
@@ -12,7 +12,7 @@ keywords:
 license: MIT
 npmPackageName: 'f-curator'
 category: Productivity
-youtube_video_url: 'https://youtu.be/WEgNe33UNTs'
+youtube_video_url: 'https://youtu.be/Syrx3jYxgDw'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/xizon/F-Curator/main/public/assets/images/main/preview.jpg'
     caption: 'F-Curator Overview'
