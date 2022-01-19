@@ -1,7 +1,7 @@
 name: 'F-Curator'
 description: 'F-Curator is an offline application that comes at you all day long and curates your own web favorites.'
 website: 'https://xizon.github.io/F-Curator-Official-Website/'
-repository: 'https://github.com/xizon/F-Curator/tree/main/package/macOS'
+repository: 'https://github.com/xizon/F-Curator/tree/main/package'
 keywords:
   - curator
   - curation
