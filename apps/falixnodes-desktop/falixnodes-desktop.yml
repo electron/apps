@@ -1,0 +1,10 @@
+name: FalixNodes Desktop
+description: Simple and stylish to use! Access FalixNodes features such as your client and game panel, help center, phpMyAdmin, status, and more all from a centralized place.
+website: https://desktop.falixnodes.net/
+category: Utilities
+repository: https://github.com/FalixNodes-Software/FalixNodes-Desktop
+license:
+  MIT
+screenshots:
+  - imageUrl: 'https://i.imgur.com/63SCP42.png'
+    caption: 'Manage servers in client Area'

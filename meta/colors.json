@@ -3311,7 +3311,7 @@
       "revHash": "b2a9384959"
     }
   },
-  "falix-software": {
+  "falixnodes-desktop": {
     "faintColorOnWhite": "rgba(43, 114, 202, 0.1)",
     "goodColorOnBlack": "#92F2A2",
     "goodColorOnWhite": "#2B72CA",
@@ -3323,7 +3323,7 @@
       "#244474"
     ],
     "source": {
-      "path": "apps/falix-software/falix-software-icon.png",
+      "path": "apps/falixnodes-desktop/falixnodes-desktop-icon.png",
       "revHash": "fd01fb73b8"
     }
   },
