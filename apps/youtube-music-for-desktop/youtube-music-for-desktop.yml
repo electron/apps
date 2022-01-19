@@ -1,0 +1,24 @@
+name: Youtube Music for Desktop
+description: BeautifulYoutube Musicdesktop app that includes several
+  customizations for users and developers.
+website: https://youtube-music.app/
+category: Music
+repository: https://github.com/Venipa/ytmdesktop2
+keywords:
+  - music
+  - app
+  - youtube
+  - node
+  - music-player
+  - vue
+  - discord
+  - youtube-player
+  - youtube-music-player
+  - youtube-music
+  - vue3
+  - ytm
+  - ytmusic
+license: CC0-1.0
+screenshots:
+  -
+    imageUrl: 'https://youtube-music.app/_ipx/w_1920,q_75/%2Fimages%2Fexample-1.png'
