@@ -1,0 +1,10 @@
+name: MS-Office - Electron
+description: Open source Microsoft Office Online Desktop Client. Free of Cost.
+website: https://agam778.github.io/MS-Office-Electron/
+category: Utilities
+repository: https://github.com/agam778/MS-Office-Electron
+keywords:
+  - microsoft
+  - opensource
+  - office
+license: MIT
