@@ -1,7 +1,6 @@
 name: Backlog
 description:
   'Simple desktop app for storing lists of items (todo, tasks, backlog items)'
-website: 'http://www.backlog.cloud'
 category: Utilities
 repository: 'https://github.com/czytelny/backlog.git'
 keywords:
