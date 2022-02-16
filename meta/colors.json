@@ -2879,6 +2879,22 @@
       "revHash": "366635a16f"
     }
   },
+  "drpcm": {
+    "faintColorOnWhite": "rgba(148, 106, 3, 0.1)",
+    "goodColorOnBlack": "#FBC748",
+    "goodColorOnWhite": "#946A03",
+    "palette": [
+      "#fbc748",
+      "#749cdb",
+      "#ddcd9c",
+      "#b4b496",
+      "#bca47c"
+    ],
+    "source": {
+      "path": "apps/drpcm/drpcm-icon.png",
+      "revHash": "1de949c236"
+    }
+  },
   "dupfinder": {
     "faintColorOnWhite": "rgba(147, 106, 46, 0.1)",
     "goodColorOnBlack": "#F8BC63",
