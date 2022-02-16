@@ -1,0 +1,16 @@
+name: LogSnag
+description:
+  Sends you notifications for anything you want to track and creates a
+  timelines.
+website: https://logsnag.com
+category: Developer Tools
+repository: https://github.com/LogSnag/LogSnag
+keywords:
+  - notification
+  - event
+  - logging
+  - api
+screenshots:
+  - imageUrl: 'https://logsnag.com/og-image.png'
+    caption: 'LogSnag'
+    imageLink: 'https://logsnag.com'
