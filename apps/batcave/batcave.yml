@@ -7,3 +7,4 @@ category: 'Social Networking'
 repository: 'https://github.com/hsbalar/batcave'
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/hsbalar/batcave/master/public/images/screen.png'
+disabled: true # last release 2017
