@@ -8,7 +8,6 @@ keywords:
   - desktop
 license: MIT
 sceenshots:
--
-  imageUrl: 'https://raw.githubusercontent.com/GeekCornerGH/threema-for-desktop/master/docs/imgs/Landing_screen.png'
-  caption: 'Landing page'
-  imageLink: 'https://github.com/GeekCornerGH/Threema-For-Desktop/'
+  - imageUrl: 'https://raw.githubusercontent.com/GeekCornerGH/threema-for-desktop/master/docs/imgs/Landing_screen.png'
+    caption: 'Landing page'
+    imageLink: 'https://github.com/GeekCornerGH/Threema-For-Desktop/'

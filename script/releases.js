@@ -30,16 +30,34 @@ console.log(
 
 appsWithRepos.forEach((app) => {
   if (shouldUpdateAppReleaseData(app)) {
-    limiter.schedule(getLatestRelease, app)
+    limiter
+      .schedule(getLatestRelease, app)
+      .then((release) => {
+        console.log(`${app.slug}: got latest release`)
+        output[app.slug] = {
+          latestRelease: release.data,
+          latestReleaseFetchedAt: new Date(),
+        }
+      })
+      .catch((err) => {
+        console.error(`${app.slug}: no releases found`)
+        output[app.slug] = {
+          latestRelease: null,
+          latestReleaseFetchedAt: new Date(),
+        }
+        if (err.status !== 404) console.error(err)
+      })
   } else {
     output[app.slug] = oldReleaseData[app.slug]
   }
 })
 
 limiter.on('idle', () => {
-  fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
-  console.log(`Done fetching release data.\nWrote ${outputFile}`)
-  process.exit()
+  setTimeout(() => {
+    fs.writeFileSync(outputFile, JSON.stringify(output, null, 2))
+    console.log(`Done fetching release data.\nWrote ${outputFile}`)
+    process.exit()
+  }, 1000)
 })
 
 function shouldUpdateAppReleaseData(app) {
@@ -59,21 +77,5 @@ function getLatestRelease(app) {
     },
   }
 
-  return github.repos
-    .getLatestRelease(opts)
-    .then((release) => {
-      console.log(`${app.slug}: got latest release`)
-      output[app.slug] = {
-        latestRelease: release.data,
-        latestReleaseFetchedAt: new Date(),
-      }
-    })
-    .catch((err) => {
-      console.error(`${app.slug}: no releases found`)
-      output[app.slug] = {
-        latestRelease: null,
-        latestReleaseFetchedAt: new Date(),
-      }
-      if (err.code !== 404) console.error(err)
-    })
+  return github.repos.getLatestRelease(opts)
 }

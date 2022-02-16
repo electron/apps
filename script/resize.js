@@ -32,26 +32,30 @@ async function main() {
   )
 
   console.log(`Resizing ${icons.length} icons...`)
-  const resizes = icons
-    .reduce((acc, icon) => {
-      const iconName = path.basename(icon)
+  const resizes = icons.reduce((acc, icon) => {
+    const iconName = path.basename(icon)
 
-      // skip disabled app
-      const yamlFile = path.join(icon.replace('-icon.png', '.yml'))
-      const { disabled } = yaml.load(fs.readFileSync(yamlFile))
-      if (disabled) {
-        return acc
-      }
+    // skip disabled app
+    const yamlFile = path.join(icon.replace('-icon.png', '.yml'))
+    const { disabled } = yaml.load(fs.readFileSync(yamlFile))
+    if (disabled) {
+      return acc
+    }
 
-      return {
-        ...acc,
-        [iconName]: [resize(icon, 32), resize(icon, 64), resize(icon, 128), resize(icon, 256)]
-      }
-    }, {})
+    return {
+      ...acc,
+      [iconName]: [
+        resize(icon, 32),
+        resize(icon, 64),
+        resize(icon, 128),
+        resize(icon, 256),
+      ],
+    }
+  }, {})
 
   for (const icon in resizes) {
     const promises = await Promise.allSettled(Object.values(resizes[icon]))
-    const failed = promises.filter(p => p.status === 'rejected')
+    const failed = promises.filter((p) => p.status === 'rejected')
 
     if (failed.length > 0) {
       console.error(`🔴 Failed to resize icons for icon "${icon}"!`)
@@ -63,4 +67,4 @@ async function main() {
   }
 }
 
-main();
+main()
