@@ -5983,6 +5983,22 @@
       "revHash": "8227461064"
     }
   },
+  "manyverse": {
+    "faintColorOnWhite": "rgba(68, 100, 236, 0.1)",
+    "goodColorOnBlack": "#6C8CF4",
+    "goodColorOnWhite": "#4464EC",
+    "palette": [
+      "#f9fafb",
+      "#4464ec",
+      "#879df4",
+      "#9cb4f4",
+      "#6c8cf4"
+    ],
+    "source": {
+      "path": "apps/manyverse/manyverse-icon.png",
+      "revHash": "cc339de7ef"
+    }
+  },
   "markdown-c3": {
     "faintColorOnWhite": "rgba(3, 130, 117, 0.1)",
     "goodColorOnBlack": "#05E3CC",
@@ -7484,7 +7500,7 @@
     ],
     "source": {
       "path": "apps/openspeedtest-server/openspeedtest-server-icon.png",
-      "revHash": "aafa38c99b"
+      "revHash": "6fb5cdc0f2"
     }
   },
   "overlay": {
@@ -9212,7 +9228,7 @@
     ],
     "source": {
       "path": "apps/scratch-for-discord/scratch-for-discord-icon.png",
-      "revHash": "cdeb93aa97"
+      "revHash": "fa676886b7"
     }
   },
   "screencat": {
@@ -9756,7 +9772,7 @@
     ],
     "source": {
       "path": "apps/snailfm/snailfm-icon.png",
-      "revHash": "f24e7ca078"
+      "revHash": "0db02cbc7c"
     }
   },
   "snipaway": {
