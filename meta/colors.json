@@ -2879,6 +2879,22 @@
       "revHash": "366635a16f"
     }
   },
+  "drpcm": {
+    "faintColorOnWhite": "rgba(148, 106, 3, 0.1)",
+    "goodColorOnBlack": "#FBC748",
+    "goodColorOnWhite": "#946A03",
+    "palette": [
+      "#fbc748",
+      "#749cdb",
+      "#ddcd9c",
+      "#b4b496",
+      "#bca47c"
+    ],
+    "source": {
+      "path": "apps/drpcm/drpcm-icon.png",
+      "revHash": "1de949c236"
+    }
+  },
   "dupfinder": {
     "faintColorOnWhite": "rgba(147, 106, 46, 0.1)",
     "goodColorOnBlack": "#F8BC63",
@@ -3501,6 +3517,22 @@
     "source": {
       "path": "apps/fishing-funds/fishing-funds-icon.png",
       "revHash": "37bbe2b905"
+    }
+  },
+  "flat": {
+    "faintColorOnWhite": "rgba(4, 97, 239, 0.1)",
+    "goodColorOnBlack": "#5396FC",
+    "goodColorOnWhite": "#0461EF",
+    "palette": [
+      "#fbfbfc",
+      "#5396fc",
+      "#d3e3fc",
+      "#afccfc",
+      "#9cbcfc"
+    ],
+    "source": {
+      "path": "apps/flat/flat-icon.png",
+      "revHash": "9d43f67b33"
     }
   },
   "flawesome": {
@@ -7136,19 +7168,19 @@
     }
   },
   "notejoy": {
-    "faintColorOnWhite": "rgba(206, 52, 52, 0.1)",
-    "goodColorOnBlack": "#D0D4D4",
-    "goodColorOnWhite": "#CE3434",
+    "faintColorOnWhite": "rgba(218, 30, 30, 0.1)",
+    "goodColorOnBlack": "#E33232",
+    "goodColorOnWhite": "#DA1E1E",
     "palette": [
-      "#3a3737",
-      "#ce3434",
-      "#d0d4d4",
-      "#7b7777",
-      "#939394"
+      "#e33232",
+      "#fbfbfb",
+      "#efa1a1",
+      "#f4bcbc",
+      "#ec7c7c"
     ],
     "source": {
       "path": "apps/notejoy/notejoy-icon.png",
-      "revHash": "9972f7c580"
+      "revHash": "471094773f"
     }
   },
   "notion": {
