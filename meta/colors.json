@@ -2879,6 +2879,22 @@
       "revHash": "366635a16f"
     }
   },
+  "drpcm": {
+    "faintColorOnWhite": "rgba(148, 106, 3, 0.1)",
+    "goodColorOnBlack": "#FBC748",
+    "goodColorOnWhite": "#946A03",
+    "palette": [
+      "#fbc748",
+      "#749cdb",
+      "#ddcd9c",
+      "#b4b496",
+      "#bca47c"
+    ],
+    "source": {
+      "path": "apps/drpcm/drpcm-icon.png",
+      "revHash": "1de949c236"
+    }
+  },
   "dupfinder": {
     "faintColorOnWhite": "rgba(147, 106, 46, 0.1)",
     "goodColorOnBlack": "#F8BC63",
@@ -5967,6 +5983,22 @@
       "revHash": "8227461064"
     }
   },
+  "manyverse": {
+    "faintColorOnWhite": "rgba(68, 100, 236, 0.1)",
+    "goodColorOnBlack": "#6C8CF4",
+    "goodColorOnWhite": "#4464EC",
+    "palette": [
+      "#f9fafb",
+      "#4464ec",
+      "#879df4",
+      "#9cb4f4",
+      "#6c8cf4"
+    ],
+    "source": {
+      "path": "apps/manyverse/manyverse-icon.png",
+      "revHash": "cc339de7ef"
+    }
+  },
   "markdown-c3": {
     "faintColorOnWhite": "rgba(3, 130, 117, 0.1)",
     "goodColorOnBlack": "#05E3CC",
@@ -7152,19 +7184,19 @@
     }
   },
   "notejoy": {
-    "faintColorOnWhite": "rgba(206, 52, 52, 0.1)",
-    "goodColorOnBlack": "#D0D4D4",
-    "goodColorOnWhite": "#CE3434",
+    "faintColorOnWhite": "rgba(218, 30, 30, 0.1)",
+    "goodColorOnBlack": "#E33232",
+    "goodColorOnWhite": "#DA1E1E",
     "palette": [
-      "#3a3737",
-      "#ce3434",
-      "#d0d4d4",
-      "#7b7777",
-      "#939394"
+      "#e33232",
+      "#fbfbfb",
+      "#efa1a1",
+      "#f4bcbc",
+      "#ec7c7c"
     ],
     "source": {
       "path": "apps/notejoy/notejoy-icon.png",
-      "revHash": "9972f7c580"
+      "revHash": "471094773f"
     }
   },
   "notion": {
@@ -7468,7 +7500,7 @@
     ],
     "source": {
       "path": "apps/openspeedtest-server/openspeedtest-server-icon.png",
-      "revHash": "aafa38c99b"
+      "revHash": "6fb5cdc0f2"
     }
   },
   "overlay": {
@@ -9196,7 +9228,7 @@
     ],
     "source": {
       "path": "apps/scratch-for-discord/scratch-for-discord-icon.png",
-      "revHash": "cdeb93aa97"
+      "revHash": "fa676886b7"
     }
   },
   "screencat": {
@@ -9740,7 +9772,7 @@
     ],
     "source": {
       "path": "apps/snailfm/snailfm-icon.png",
-      "revHash": "f24e7ca078"
+      "revHash": "0db02cbc7c"
     }
   },
   "snipaway": {
