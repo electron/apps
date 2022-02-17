@@ -1,32 +1,32 @@
 [
   {
     "name": "Productivity",
-    "count": 233,
+    "count": 229,
     "slug": "productivity"
   },
   {
     "name": "Developer Tools",
-    "count": 184,
+    "count": 182,
     "slug": "developer-tools"
   },
   {
     "name": "Utilities",
-    "count": 112,
+    "count": 111,
     "slug": "utilities"
   },
   {
     "name": "Social Networking",
-    "count": 46,
+    "count": 44,
     "slug": "social-networking"
   },
   {
     "name": "Music",
-    "count": 44,
+    "count": 43,
     "slug": "music"
   },
   {
     "name": "Photo & Video",
-    "count": 43,
+    "count": 42,
     "slug": "photo-video"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Education",
-    "count": 24,
+    "count": 23,
     "slug": "education"
   },
   {
@@ -56,7 +56,7 @@
   },
   {
     "name": "Entertainment",
-    "count": 14,
+    "count": 13,
     "slug": "entertainment"
   },
   {
@@ -70,11 +70,6 @@
     "slug": "books"
   },
   {
-    "name": "Lifestyle",
-    "count": 2,
-    "slug": "lifestyle"
-  },
-  {
     "name": "Food & Drink",
     "count": 2,
     "slug": "food-drink"
@@ -85,9 +80,9 @@
     "slug": "health-fitness"
   },
   {
-    "name": "Travel",
+    "name": "Lifestyle",
     "count": 1,
-    "slug": "travel"
+    "slug": "lifestyle"
   },
   {
     "name": "Sports",
