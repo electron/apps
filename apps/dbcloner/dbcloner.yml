@@ -1,0 +1,14 @@
+name: DBcloner
+description: Database cloning tool for the desktop
+website: https://felipeleivav.github.io/dbcloner-app/
+category: Developer Tools
+repository: https://github.com/felipeleivav/dbcloner-app
+keywords:
+  - docker
+  - database
+  - postgresql
+  - developer-tool
+  - clone-database
+screenshots:
+  - imageUrl: https://raw.githubusercontent.com/felipeleivav/dbcloner-app/main/screenshot.png
+    caption: Database replica screen
