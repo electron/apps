@@ -911,22 +911,6 @@
       "revHash": "f9a583ca9b"
     }
   },
-  "booker": {
-    "faintColorOnWhite": "rgba(98, 116, 40, 0.1)",
-    "goodColorOnBlack": "#A5C149",
-    "goodColorOnWhite": "#627428",
-    "palette": [
-      "#a5c149",
-      "#fafafa",
-      "#b5c38a",
-      "#7a874f",
-      "#ccda92"
-    ],
-    "source": {
-      "path": "apps/booker/booker-icon.png",
-      "revHash": "d56a824fa6"
-    }
-  },
   "boost-changer": {
     "faintColorOnWhite": "rgba(134, 89, 51, 0.1)",
     "goodColorOnBlack": "#07953F",
