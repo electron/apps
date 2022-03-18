@@ -1,0 +1,19 @@
+name: Parsify Desktop
+description: Extendable notepad calculator for the 21st Century.
+website: https://parsify.app
+category: Utilities
+keywords:
+  - calculator
+  - notepad
+  - soulver
+  - numi
+  - calca
+homebrewCaskName: parsify
+screenshots:
+  - imageUrl: 'https://parsify.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fscreenshot.c9fc1806.png&w=750&q=75'
+    caption: 'Calculation interface'
+    imageLink: 'https://parsify.app'
+locales:
+  - en-US
+  - pl-PL
+  - ua-UA
