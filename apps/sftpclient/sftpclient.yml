@@ -1,7 +1,7 @@
 name: sFTP Client
 description:
   'Transfer files with FTP, FTPIS, FTPES and SFTP (Including SSH Terminal)'
-website: 'https://purpleio.uk/download'
+website: 'https://purpleio.uk/client/download'
 keywords:
   - sftp
   - ftp
