@@ -1,0 +1,35 @@
+name: 'Silex website builder'
+description:
+  'Silex, is a free and open source website builder in the cloud. It is suitable for professional designers to produce great websites without constraints.'
+website: 'https://www.silex.me/'
+category: 'Developer Tools'
+repository: 'https://github.com/silexlabs/silex-desktop/'
+license: '(GPL-3.0 OR MPL-2.0)'
+npmPackageName: 'silex-website-builder'
+youtube_video_url: 'https://www.youtube.com/watch?v=7w2Q4kV7qME'
+keywords:
+  - css
+  - js
+  - nodejs
+  - javascript
+  - ide
+  - editor
+  - builder
+  - website builder
+  - free website builder
+  - design
+  - designer
+  - cloud
+  - sass
+  - drag and drop
+  - silex
+  - open source
+  - webdesign
+screenshots:
+  - imageUrl: 'https://user-images.githubusercontent.com/715377/36344714-bf264de2-141e-11e8-8c87-f698e96d91c9.png'
+    caption: 'Silex website builder UI'
+  - imageUrl: 'https://user-images.githubusercontent.com/715377/49300343-3d0e9a00-f4c2-11e8-8b48-f164607bbd75.png'
+    caption: 'Silex dashboard with free community templates'
+  - imageUrl: 'https://raw.githubusercontent.com/silexlabs/www.silex.me/gh-pages/assets/silex-ui.gif'
+    caption: 'Editing a design in Silex website builder'
+
