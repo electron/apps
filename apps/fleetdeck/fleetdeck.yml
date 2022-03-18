@@ -1,7 +1,6 @@
 name: 'FleetDeck'
 description:
-  'Remote Desktop & Virtual Terminal solution, tailored for techs to securely
-  manage large fleets of computers.'
+  'Remote Desktop & Virtual Terminal solution, tailored for techs to securely manage large fleets of computers.'
 website: 'https://fleetdeck.io'
 keywords:
   - 'remote powershell'
