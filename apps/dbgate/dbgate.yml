@@ -1,5 +1,5 @@
 name: DbGate
-description: Open Source Database manager for MySQL, PostgreSQL and SQL Server.
+description: Open Source Database manager for MySQL, PostgreSQL, SQL Server, SQLite and MongoDB.
 website: https://dbgate.org
 category: Developer Tools
 repository: https://github.com/dbgate/dbgate
@@ -10,6 +10,8 @@ keywords:
   - sql
   - mysql
   - postgres
+  - sqlite
+  - mongodb
   - mssql
   - excel
   - csv
@@ -17,7 +19,7 @@ license: MIT
 screenshots:
   - imageUrl: https://dbgate.org/assets/screenshots/datagrid.png
     caption: DbGate - data grid
-  - imageUrl: https://dbgate.org/assets/screenshots/querydesigner.png
-    caption: DbGate - query designer
+  - imageUrl: https://dbgate.org/assets/screenshots/dbcompare.png
+    caption: DbGate - compare databases
   - imageUrl: https://dbgate.org/assets/screenshots/darkmode.png
     caption: DbGate - dark theme
