@@ -2303,6 +2303,22 @@
       "revHash": "1e786113d2"
     }
   },
+  "dbcloner": {
+    "faintColorOnWhite": "rgba(4, 104, 216, 0.1)",
+    "goodColorOnBlack": "#55A4FC",
+    "goodColorOnWhite": "#0468D8",
+    "palette": [
+      "#55a4fc",
+      "#fbfbfc",
+      "#b5d8fc",
+      "#99ccfc",
+      "#cee4fc"
+    ],
+    "source": {
+      "path": "apps/dbcloner/dbcloner-icon.png",
+      "revHash": "04e30e5db8"
+    }
+  },
   "dbgate": {
     "faintColorOnWhite": "rgba(143, 104, 4, 0.1)",
     "goodColorOnBlack": "#FBD167",
@@ -5568,19 +5584,19 @@
     }
   },
   "linked": {
-    "faintColorOnWhite": "rgba(176, 28, 74, 0.1)",
-    "goodColorOnBlack": "#DE2F66",
-    "goodColorOnWhite": "#B01C4A",
+    "faintColorOnWhite": "rgba(102, 10, 42, 0.1)",
+    "goodColorOnBlack": "#F8045A",
+    "goodColorOnWhite": "#660A2A",
     "palette": [
-      "#b01c4a",
-      "#141414",
-      "#831b3b",
-      "#531428",
-      "#3c1424"
+      "#0b0b0b",
+      "#f8045a",
+      "#b31b4b",
+      "#660a2a",
+      "#441424"
     ],
     "source": {
       "path": "apps/linked/linked-icon.png",
-      "revHash": "69e00364fa"
+      "revHash": "69785bb188"
     }
   },
   "lisk-hub": {
@@ -5645,6 +5661,22 @@
     "source": {
       "path": "apps/lode/lode-icon.png",
       "revHash": "80ad7161a3"
+    }
+  },
+  "logsnag": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FAFAFA",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#040404",
+      "#fafafa",
+      "#545454",
+      "#7c7c7c",
+      "#747474"
+    ],
+    "source": {
+      "path": "apps/logsnag/logsnag-icon.png",
+      "revHash": "002595b296"
     }
   },
   "loom": {
@@ -8591,6 +8623,22 @@
       "revHash": "3388d25d07"
     }
   },
+  "react-explorer": {
+    "faintColorOnWhite": "rgba(15, 117, 164, 0.1)",
+    "goodColorOnBlack": "#D2EEFB",
+    "goodColorOnWhite": "#0F75A4",
+    "palette": [
+      "#448cc4",
+      "#d2eefb",
+      "#8cbceb",
+      "#9fc4e8",
+      "#b4d4ec"
+    ],
+    "source": {
+      "path": "apps/react-explorer/react-explorer-icon.png",
+      "revHash": "6690390b14"
+    }
+  },
   "rebaslight": {
     "faintColorOnWhite": "rgba(99, 99, 196, 0.1)",
     "goodColorOnBlack": "#8C8CF9",
@@ -10109,6 +10157,22 @@
     "source": {
       "path": "apps/stockifier/stockifier-icon.png",
       "revHash": "db8a03255a"
+    }
+  },
+  "stopawu": {
+    "faintColorOnWhite": "rgba(4, 116, 156, 0.1)",
+    "goodColorOnBlack": "#FC0404",
+    "goodColorOnWhite": "#04749C",
+    "palette": [
+      "#04abeb",
+      "#f40c0c",
+      "#fc0404",
+      "#348cc4",
+      "#04749c"
+    ],
+    "source": {
+      "path": "apps/stopawu/stopawu-icon.png",
+      "revHash": "9097f1a4d3"
     }
   },
   "stoplight": {
@@ -12797,6 +12861,22 @@
     "source": {
       "path": "apps/zeplin/zeplin-icon.png",
       "revHash": "ff77720f9c"
+    }
+  },
+  "zerabase": {
+    "faintColorOnWhite": "rgba(81, 89, 105, 0.1)",
+    "goodColorOnBlack": "#54BCA4",
+    "goodColorOnWhite": "#515969",
+    "palette": [
+      "#515969",
+      "#54bca4",
+      "#92ccc1",
+      "#899baa",
+      "#7c8c94"
+    ],
+    "source": {
+      "path": "apps/zerabase/zerabase-icon.png",
+      "revHash": "657ca88182"
     }
   },
   "zettlr": {
