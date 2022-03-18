@@ -7,3 +7,4 @@ screenshots:
   - {
       imageUrl: 'https://raw.githubusercontent.com/brrd/Abricotine/develop/screenshot.jpg',
     }
+disabled: true
