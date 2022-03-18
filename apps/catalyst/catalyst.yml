@@ -1,5 +1,5 @@
-name: Catalyst
+name: Catalyst Web Browser
 description: Beautiful and fast tailwindcss web browser designed with the user in mind. Browse the selection of customization options, install plugins to add to your experience, and experience the benefits of lightweight electron browsers. Elegant UX/UI and features to bring you the experience you deserve.
-website: 'https://jaydendev.github.io/catalyst'
+website: 'https://get-catalyst.github.io'
 repository: 'https://github.com/JaydenDev/Catalyst'
 category: 'Internet'
