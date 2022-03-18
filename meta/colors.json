@@ -127,6 +127,22 @@
       "revHash": "40f3ec4bbc"
     }
   },
+  "aeon": {
+    "faintColorOnWhite": "rgba(12, 30, 217, 0.1)",
+    "goodColorOnBlack": "#0D94FC",
+    "goodColorOnWhite": "#0C1ED9",
+    "palette": [
+      "#fbfbfb",
+      "#0c1ed9",
+      "#0d94fc",
+      "#a4a4a4",
+      "#7c7ce0"
+    ],
+    "source": {
+      "path": "apps\\aeon\\aeon-icon.png",
+      "revHash": "db84ad6340"
+    }
+  },
   "aether": {
     "faintColorOnWhite": "rgba(206, 75, 19, 0.1)",
     "goodColorOnBlack": "#EE7A48",
@@ -3231,6 +3247,22 @@
       "revHash": "b2a9384959"
     }
   },
+  "f-curator": {
+    "faintColorOnWhite": "rgba(74, 124, 28, 0.1)",
+    "goodColorOnBlack": "#E3C252",
+    "goodColorOnWhite": "#4A7C1C",
+    "palette": [
+      "#4a7c1c",
+      "#e3c252",
+      "#86c03b",
+      "#0f1b08",
+      "#8faf6c"
+    ],
+    "source": {
+      "path": "apps\\f-curator\\f-curator-icon.png",
+      "revHash": "aea750f27e"
+    }
+  },
   "falix-software": {
     "faintColorOnWhite": "rgba(43, 114, 202, 0.1)",
     "goodColorOnBlack": "#92F2A2",
@@ -4429,6 +4461,22 @@
     "source": {
       "path": "apps/homura/homura-icon.png",
       "revHash": "e81a3ad179"
+    }
+  },
+  "horen": {
+    "faintColorOnWhite": "rgba(92, 36, 252, 0.1)",
+    "goodColorOnBlack": "#8454FC",
+    "goodColorOnWhite": "#5C24FC",
+    "palette": [
+      "#fafafc",
+      "#5c24fc",
+      "#9571fc",
+      "#ac8cfc",
+      "#8454fc"
+    ],
+    "source": {
+      "path": "apps\\horen\\horen-icon.png",
+      "revHash": "f8435c93e3"
     }
   },
   "hoster": {
@@ -7487,6 +7535,22 @@
       "revHash": "8381ceb763"
     }
   },
+  "parsify-desktop": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FBFBFB",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#040404",
+      "#fbfbfb",
+      "#3c3c3c",
+      "#5c5c5c",
+      "#8c8c8c"
+    ],
+    "source": {
+      "path": "apps\\parsify-desktop\\parsify-desktop-icon.png",
+      "revHash": "eb1c562594"
+    }
+  },
   "particle-dev": {
     "faintColorOnWhite": "rgba(14, 118, 165, 0.1)",
     "goodColorOnBlack": "#13A3E4",
@@ -9375,6 +9439,22 @@
       "revHash": "38b333905d"
     }
   },
+  "silex": {
+    "faintColorOnWhite": "rgba(52, 52, 52, 0.1)",
+    "goodColorOnBlack": "#FB8004",
+    "goodColorOnWhite": "#343434",
+    "palette": [
+      "#fb8004",
+      "#04abfb",
+      "#343434",
+      "#04ca05",
+      "#fafafa"
+    ],
+    "source": {
+      "path": "apps\\silex\\silex-icon.png",
+      "revHash": "972ccfca18"
+    }
+  },
   "simpico": {
     "faintColorOnWhite": "rgba(20, 68, 99, 0.1)",
     "goodColorOnBlack": "#9BF323",
@@ -10975,6 +11055,22 @@
       "revHash": "e9bd268e84"
     }
   },
+  "tilde": {
+    "faintColorOnWhite": "rgba(27, 90, 101, 0.1)",
+    "goodColorOnBlack": "#88B4B5",
+    "goodColorOnWhite": "#1B5A65",
+    "palette": [
+      "#1b5a65",
+      "#fbfbfb",
+      "#9ab4bc",
+      "#88b4b5",
+      "#89acb4"
+    ],
+    "source": {
+      "path": "apps\\tilde\\tilde-icon.png",
+      "revHash": "b828d19931"
+    }
+  },
   "tiliq": {
     "faintColorOnWhite": "rgba(4, 107, 203, 0.1)",
     "goodColorOnBlack": "#2493FB",
@@ -12253,6 +12349,22 @@
     "source": {
       "path": "apps/webkiosk-wrapper/webkiosk-wrapper-icon.png",
       "revHash": "3293e68803"
+    }
+  },
+  "webkitty": {
+    "faintColorOnWhite": "rgba(79, 79, 79, 0.1)",
+    "goodColorOnBlack": "#F3F3F3",
+    "goodColorOnWhite": "#4F4F4F",
+    "palette": [
+      "#4f4f4f",
+      "#f3f3f3",
+      "#acacac",
+      "#a4a4a4",
+      "#9c9c9c"
+    ],
+    "source": {
+      "path": "apps\\webkitty\\webkitty-icon.png",
+      "revHash": "24c1b7cab7"
     }
   },
   "webnet": {

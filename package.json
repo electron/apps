@@ -79,7 +79,7 @@
     "json-stable-stringify": "^1.0.1",
     "mime-types": "^2.1.35",
     "mkdirp": "^1.0.4",
-    "rev-hash": "^4.0.0"
+    "rev-hash": "^3.0.0"
   },
   "lint-staged": {
     "*.{js,ts,yml}": "prettier --write"
