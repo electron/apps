@@ -48,7 +48,7 @@
     "human-interval": "^2.0.1",
     "husky": "^7.0.4",
     "image-size": "^1.0.1",
-    "imagemin": "^8.0.1",
+    "imagemin": "^7.0.1",
     "imagemin-pngquant": "^9.0.2",
     "inquirer": "^8.2.1",
     "is-hexcolor": "^1.0.0",
@@ -78,6 +78,7 @@
   "dependencies": {
     "json-stable-stringify": "^1.0.1",
     "mime-types": "^2.1.35",
+    "mkdirp": "^1.0.4",
     "rev-hash": "^4.0.0"
   },
   "lint-staged": {
