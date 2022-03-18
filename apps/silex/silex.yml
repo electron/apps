@@ -1,6 +1,7 @@
 name: 'Silex website builder'
 description:
-  'Silex, is a free and open source website builder in the cloud. It is suitable for professional designers to produce great websites without constraints.'
+  'Silex, is a free and open source website builder in the cloud. It is suitable
+  for professional designers to produce great websites without constraints.'
 website: 'https://www.silex.me/'
 category: 'Developer Tools'
 repository: 'https://github.com/silexlabs/silex-desktop/'
@@ -32,4 +33,3 @@ screenshots:
     caption: 'Silex dashboard with free community templates'
   - imageUrl: 'https://raw.githubusercontent.com/silexlabs/www.silex.me/gh-pages/assets/silex-ui.gif'
     caption: 'Editing a design in Silex website builder'
-
