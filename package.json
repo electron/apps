@@ -31,7 +31,7 @@
     "collection",
     "showcase"
   ],
-  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+  "author": "Toinane <toinane@electronjs.org> (https://electronjs.org/apps)",
   "license": "MIT",
   "devDependencies": {
     "@octokit/rest": "^18.12.0",
