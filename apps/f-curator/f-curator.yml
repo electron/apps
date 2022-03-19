@@ -1,0 +1,20 @@
+name: 'F-Curator'
+description:
+  'Offline application that comes at you all day long and curates your own web
+  favorites.'
+website: 'https://xizon.github.io/F-Curator-Official-Website/'
+repository: 'https://github.com/xizon/F-Curator/tree/main/package'
+keywords:
+  - curator
+  - curation
+  - efficiency
+  - 'web favorites'
+  - bookmark
+  - collection
+license: MIT
+npmPackageName: 'f-curator'
+category: Productivity
+youtube_video_url: 'https://youtu.be/VYdzttKU5H0'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/xizon/F-Curator/main/public/assets/images/main/preview.jpg'
+    caption: 'F-Curator Overview'

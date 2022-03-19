@@ -1,0 +1,21 @@
+name: Aeon
+description:
+  '📡 Scan the internet for your personal information and modify or remove it.'
+website: https://aeon.technology
+category: Productivity
+repository: https://github.com/leinelissen/aeon
+keywords:
+  - data
+  - gdpr
+  - personal data
+  - data request
+  - facebook
+  - instagram
+  - spotify
+  - linkedin
+license: EUPL-1.2
+screenshots:
+  - imageUrl: https://github.com/leinelissen/aeon/raw/master/docs/.gitbook/assets/aeon-demo.gif
+  - imageUrl: https://github.com/leinelissen/aeon/blob/master/docs/.gitbook/assets/timeline.png
+  - imageUrl: https://github.com/leinelissen/aeon/blob/master/docs/.gitbook/assets/graph.png
+  - imageUrl: https://github.com/leinelissen/aeon/blob/master/docs/.gitbook/assets/erasure.png
