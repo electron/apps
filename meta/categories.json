@@ -11,8 +11,13 @@
   },
   {
     "name": "Utilities",
-    "count": 114,
+    "count": 117,
     "slug": "utilities"
+  },
+  {
+    "name": "Music",
+    "count": 47,
+    "slug": "music"
   },
   {
     "name": "Social Networking",
@@ -20,13 +25,8 @@
     "slug": "social-networking"
   },
   {
-    "name": "Music",
-    "count": 44,
-    "slug": "music"
-  },
-  {
     "name": "Photo & Video",
-    "count": 42,
+    "count": 43,
     "slug": "photo-video"
   },
   {
@@ -41,7 +41,7 @@
   },
   {
     "name": "Education",
-    "count": 23,
+    "count": 24,
     "slug": "education"
   },
   {
@@ -60,14 +60,14 @@
     "slug": "entertainment"
   },
   {
+    "name": "Books",
+    "count": 8,
+    "slug": "books"
+  },
+  {
     "name": "News",
     "count": 7,
     "slug": "news"
-  },
-  {
-    "name": "Books",
-    "count": 6,
-    "slug": "books"
   },
   {
     "name": "Food & Drink",
@@ -78,6 +78,11 @@
     "name": "Health & Fitness",
     "count": 2,
     "slug": "health-fitness"
+  },
+  {
+    "name": "Navigation",
+    "count": 1,
+    "slug": "navigation"
   },
   {
     "name": "Lifestyle",
