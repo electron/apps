@@ -4,3 +4,4 @@ website: 'https://www.makeappicon.com/desktop'
 keywords:
   - developer
 category: 'Developer Tools'
+disabled: true # Dead link(s): https://www.makeappicon.com/desktop

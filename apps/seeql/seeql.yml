@@ -11,3 +11,4 @@ keywords:
   - visualizer
   - 'developer tool'
 license: MIT
+disabled: true # Old Electron version: v4.0.1

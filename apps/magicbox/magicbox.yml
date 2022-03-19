@@ -45,3 +45,4 @@ screenshots:
   - imageUrl: 'https://katrukhin.com/magic-box/screen-shot-9.png'
     caption: 'Light/Dark Theme'
     imageLink: 'https://github.com/akatrukhin/MagicBox/releases'
+disabled: true # Old Electron version: v3.1.13

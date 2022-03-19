@@ -14,3 +14,4 @@ screenshots:
   - imageUrl: 'https://github.com/trazyn/ieaseMusic/blob/dev/screenshots/fm.png?raw=true'
 locales:
   - zh-CN
+disabled: true # Old Electron version: v4.0.1

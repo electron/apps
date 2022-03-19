@@ -15,3 +15,4 @@ keywords:
 screenshots:
   - imageUrl: 'https://watercooler.work/img/electron-app-page-screenshot.png'
     caption: 'Screenshot of the Water Cooler MacOS App'
+disabled: true # Dead link(s): https://watercooler.work, https://watercooler.work/img/electron-app-page-screenshot.png

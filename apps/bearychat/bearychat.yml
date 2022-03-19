@@ -4,3 +4,4 @@ website: 'https://bearychat.com'
 keywords:
   - chat
 category: 'Social Networking'
+disabled: true # Dead link(s): https://bearychat.com

@@ -27,3 +27,4 @@ screenshots:
   - imageUrl: 'https://camo.githubusercontent.com/ade7b31288e6f738216f0bc5eedf88f99c073102221d55d6686719c721ef24ab/68747470733a2f2f692e696d6775722e636f6d2f6571586c614e422e706e67'
     caption: 'The main view of BudgetP'
     imageLink: 'https://kellojo.github.io/Budget-Book/'
+disabled: true # Dead link(s): https://github.com/Kellojo/Budget-Book

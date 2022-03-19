@@ -4,3 +4,4 @@ website: 'https://www.devspectrum.com'
 keywords:
   - developers
 category: 'Developer Tools'
+disabled: true # Dead link(s): https://www.devspectrum.com

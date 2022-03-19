@@ -11,3 +11,4 @@ keywords:
 category: Productivity
 screenshots:
   - imageUrl: 'https://chronos.web-pal.com/static/chronos-screenshot.eafbd89a.png'
+disabled: true # Old Electron version: v4.2.0

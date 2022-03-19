@@ -11,3 +11,4 @@ keywords:
 license: GPL-3.0
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/IceEnd/Yosoro-Img/img/yosoro/20190629190325-image.png'
+disabled: true # Old Electron version: v5.0.1

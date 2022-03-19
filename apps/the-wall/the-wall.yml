@@ -22,3 +22,4 @@ screenshots:
     caption: 'Set how often you want wallpaper to change automatically'
   - imageUrl: 'https://raw.githubusercontent.com/aakashbhadana/The-Wall/master/screenshots/App.jpg'
     caption: 'Beautiful and minimal interface'
+disabled: true # Old Electron version: v5.0.6

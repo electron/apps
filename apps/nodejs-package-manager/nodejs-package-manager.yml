@@ -26,3 +26,4 @@ screenshots:
     caption: 'bower init'
     imageLink: 'https://github.com/gurayyarar/NodeJsPackageManager'
 license: MIT
+disabled: true # Old Electron version: v4.1.0

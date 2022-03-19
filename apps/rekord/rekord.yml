@@ -9,3 +9,4 @@ keywords:
   - MP3
   - Music
   - Vidéo
+disabled: true # Old Electron version: v5.0.1

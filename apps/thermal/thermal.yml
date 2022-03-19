@@ -21,3 +21,4 @@ screenshots:
 
   - imageUrl: 'https://i.imgur.com/vn9cYDA.png'
     caption: 'Git Commands feature'
+disabled: true # Old Electron version: v5.0.6

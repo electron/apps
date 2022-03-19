@@ -13,3 +13,4 @@ screenshots:
     caption: 'Tabbed View'
   - imageUrl: 'https://raw.githubusercontent.com/sagargurtu/lector/master/docs/assets/screenshots/Empty%20View.png'
     caption: 'Empty View'
+disabled: true # Old Electron version: v5.0.4
