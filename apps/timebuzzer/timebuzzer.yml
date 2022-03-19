@@ -1,6 +1,5 @@
 name: timeBuzzer
-description:
-  'The easiest and most accurate way to track your time.'
+description: 'The easiest and most accurate way to track your time.'
 website: 'https://timebuzzer.com/'
 category: 'Productivity'
 keywords:
@@ -28,5 +27,3 @@ screenshots:
   - imageUrl: 'https://timebuzzer.com/wp-content/uploads/timeBuzzer-desktop-app-black.png'
     caption: 'timeBuzzer Desktop 3.0 - time tracking app - black mode'
     imageLink: 'https://timebuzzer.com/'
-
-

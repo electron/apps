@@ -2799,6 +2799,22 @@
       "revHash": "65d3c3a8b9"
     }
   },
+  "dopamine": {
+    "faintColorOnWhite": "rgba(65, 68, 124, 0.1)",
+    "goodColorOnBlack": "#6188E4",
+    "goodColorOnWhite": "#41447C",
+    "palette": [
+      "#6188e4",
+      "#eeeeee",
+      "#323232",
+      "#4cc5e1",
+      "#41447c"
+    ],
+    "source": {
+      "path": "apps/dopamine/dopamine-icon.png",
+      "revHash": "b308f0b679"
+    }
+  },
   "dotgrid": {
     "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
     "goodColorOnBlack": "#F2F2F2",
@@ -3021,6 +3037,22 @@
     "source": {
       "path": "apps/electrocrud/electrocrud-icon.png",
       "revHash": "89de518556"
+    }
+  },
+  "electron-app-store": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#F2F2F2",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#f2f2f2",
+      "#040404",
+      "#555555",
+      "#7c7c7c",
+      "#747474"
+    ],
+    "source": {
+      "path": "apps/electron-app-store/electron-app-store-icon.png",
+      "revHash": "1e519654b9"
     }
   },
   "electron-clippy": {
@@ -11295,6 +11327,22 @@
       "revHash": "b5388d49f9"
     }
   },
+  "timebuzzer": {
+    "faintColorOnWhite": "rgba(4, 89, 191, 0.1)",
+    "goodColorOnBlack": "#04B7EC",
+    "goodColorOnWhite": "#0459BF",
+    "palette": [
+      "#0459bf",
+      "#f9fafb",
+      "#04b7ec",
+      "#04a7e2",
+      "#064087"
+    ],
+    "source": {
+      "path": "apps/timebuzzer/timebuzzer-icon.png",
+      "revHash": "b50afd7bd5"
+    }
+  },
   "timeseriesadmin": {
     "faintColorOnWhite": "rgba(36, 103, 112, 0.1)",
     "goodColorOnBlack": "#24DEF6",
@@ -11869,6 +11917,22 @@
     "source": {
       "path": "apps/ueli/ueli-icon.png",
       "revHash": "d5aceafff1"
+    }
+  },
+  "umlboard": {
+    "faintColorOnWhite": "rgba(124, 108, 8, 0.1)",
+    "goodColorOnBlack": "#F4D620",
+    "goodColorOnWhite": "#7C6C08",
+    "palette": [
+      "#3d3d3c",
+      "#ededea",
+      "#f4d620",
+      "#989898",
+      "#7c6c08"
+    ],
+    "source": {
+      "path": "apps/umlboard/umlboard-icon.png",
+      "revHash": "96b8479e45"
     }
   },
   "unfx-proxy-checker": {
