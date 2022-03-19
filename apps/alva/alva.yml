@@ -14,3 +14,4 @@ screenshots:
   - imageUrl: 'https://media.meetalva.io/video/website-02.png'
     caption: 'Alva view with the Alva website as a example.'
     imageLink: 'https://meetalva.io'
+disabled: true # Dead link(s): https://meetalva.io/, https://media.meetalva.io/video/website-02.png, https://meetalva.io

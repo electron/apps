@@ -12,3 +12,4 @@ screenshots:
   - imageUrl: 'https://getshaper.com/images/demo-segmentation.gif'
     caption: 'Creating segments with Shaper'
     imageLink: 'https://getshaper.com/'
+disabled: true # Dead link(s): https://getshaper.com/, https://getshaper.com/images/demo-segmentation.gif, https://getshaper.com/

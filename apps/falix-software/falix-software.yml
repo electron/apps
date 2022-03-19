@@ -9,3 +9,4 @@ license:
 screenshots:
   - imageUrl: 'https://i.imgur.com/63SCP42.png'
     caption: 'Manage servers in client Area'
+disabled: true # Dead link(s): https://software.falixnodes.net/, https://github.com/FalixNodes-Software/Desktop-App

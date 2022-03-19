@@ -40,3 +40,4 @@ screenshots:
     caption: 'Programming page'
   - imageUrl: 'https://raw.githubusercontent.com/AderitoNeto/AfterLife/Master/src/images/Readme/6.PNG'
     caption: 'Utilities page'
+disabled: true # Dead link(s): https://aderitoneto.me/

@@ -3,7 +3,7 @@
 const fs = require('fs').promises
 const semver = require('semver')
 
-const findOldElectronApps = require('../lib/old-electron')
+const findOldElectronApps = require('../lib/old-electron-apps')
 
 /* Links can break at any time and it's outside of the repo's control,
    so it doesn't make sense to run this script as part of CI. Instead,

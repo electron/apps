@@ -6,3 +6,4 @@ keywords:
   - email
   - productivity
 category: Productivity
+disabled: true # Old Electron version: v1.7.8

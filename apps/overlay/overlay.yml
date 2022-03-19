@@ -28,3 +28,4 @@ screenshots:
       imageUrl: 'https://raw.githubusercontent.com/singuerinc/overlay/master/resources/images/toolbox.png',
       caption: 'Overlay - Toolbox',
     }
+disabled: true # Old Electron version: v3.0.2
