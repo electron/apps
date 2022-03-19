@@ -1,5 +1,5 @@
 name: shadowsocks-electron
-description: 'Shadowsocks GUI application made for Ubuntu/Mac users'
+description: 'Shadowsocks GUI application made for Ubuntu/Mac users.'
 website: 'https://github.com/nojsja/shadowsocks-electron'
 category: Utilities
 locales:
