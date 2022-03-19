@@ -18,3 +18,4 @@ screenshots:
   - {
       imageUrl: 'https://raw.githubusercontent.com/tinytacoteam/zazu/master/docs/images/action-shots/package-manager.png',
     }
+disabled: true # Old Electron version: v5.0.4

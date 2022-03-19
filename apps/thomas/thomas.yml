@@ -9,3 +9,4 @@ keywords:
 license: MIT
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/andrepolischuk/thomas/master/media/screenshot.png'
+disabled: true # Old Electron version: v4.0.3

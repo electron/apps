@@ -27,3 +27,4 @@ screenshots:
       caption: 'A view from the virtual environment',
     }
 youtube_video_url: https://www.youtube.com/watch?v=zWRjotzyXZw
+disabled: true # Old Electron version: v4.2.12

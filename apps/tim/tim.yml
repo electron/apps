@@ -15,3 +15,4 @@ screenshots:
     caption: 'TIM screenshot'
     imageLink: 'https://github.com/tborychowski/tim'
 license: MIT
+disabled: true # Old Electron version: v5.0.13

@@ -7,3 +7,4 @@ category: Finance
 licence: MIT
 homebrewCaskName: 'bunqcommunity-bunq'
 snapcraftName: bunqdesktop
+disabled: true # Old Electron version: v4.2.2

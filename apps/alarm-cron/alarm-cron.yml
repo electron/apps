@@ -16,3 +16,4 @@ keywords:
   - time management
   - productivity
 category: Productivity
+disabled: true # Old Electron version: v5.0.0

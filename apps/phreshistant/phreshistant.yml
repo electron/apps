@@ -11,3 +11,4 @@ keywords:
   - timetrack
 category: 'Productivity'
 repository: 'https://github.com/Phreshhh/Phreshistant'
+disabled: true # Old Electron version: v4.0.0

@@ -12,3 +12,4 @@ screenshots:
   - imageUrl: 'https://res.cloudinary.com/dy6smijxx/image/upload/v1557365228/day-mode_vaqois.png'
     caption: 'Ubuntu (Day Mode)'
     imageLink: 'https://github.com/tayoogunbiyi/clippy'
+disabled: true # Old Electron version: v4.1.0

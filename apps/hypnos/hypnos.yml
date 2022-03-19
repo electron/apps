@@ -16,3 +16,4 @@ keywords:
   - link
   - rest
 license: MIT
+disabled: true # Old Electron version: v5.0.7
