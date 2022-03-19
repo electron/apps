@@ -3,10 +3,6 @@ description:
   'The easiest and most accurate way to track your time.'
 website: 'https://timebuzzer.com/'
 category: 'Productivity'
-# snapcraftName:
-# homebrewCaskName: 
-# npmPackageName:
-# youtube_video_url:
 keywords:
   - 'time tracking'
   - 'time tracker'
