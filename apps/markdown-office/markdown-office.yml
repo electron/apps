@@ -1,8 +1,0 @@
-name: 'Markdown Office'
-description: 'Office for teams using Google Drive'
-website: 'https://mdoffice.shwld.net'
-keywords:
-  - markdown
-  - 'google drive'
-category: Productivity
-disabled: true # Dead link(s): https://mdoffice.shwld.net

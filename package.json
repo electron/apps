@@ -24,7 +24,8 @@
     "release": "script/release.sh",
     "purge": "npm-run-all remove:*",
     "remove:links": "node script/remove-broken-links",
-    "remove:old": "node script/remove-old-electron-apps"
+    "remove:old": "node script/remove-old-electron-apps",
+    "remove:disabled": "node script/remove-disabled-apps"
   },
   "repository": "https://github.com/electron/apps",
   "keywords": [
