@@ -11,3 +11,4 @@ screenshots:
   - {
       imageUrl: 'https://raw.githubusercontent.com/wallapatta/wallapatta.github.io/master/assets/screenshot.png',
     }
+disabled: true
