@@ -1,0 +1,12 @@
+name: Moosync
+description: Simple and customizable desktop music player.
+website: https://moosync.app
+category: Music
+repository: https://github.com/Moosync/Moosync
+keywords:
+  - music
+  - musicplayer
+  - themes
+  - customizable
+  - extension
+license: GPL-3.0
