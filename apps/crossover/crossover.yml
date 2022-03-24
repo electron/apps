@@ -1,7 +1,7 @@
 name: CrossOver
 description: '🎯 A Crosshair Overlay for any game and screen.'
 website: 'https://lacymorrow.github.io/crossover/'
-category: Games
+category: Utilities, Games
 repository: 'https://github.com/lacymorrow/crossover'
 keywords:
   - crosshair
@@ -12,7 +12,7 @@ keywords:
   - dot
   - mark
   - center
-license: MIT
+license: LGPLv3
 screenshots:
   - imageUrl: 'https://github.com/lacymorrow/crossover/raw/master/src/static/demo.png'
     caption: 'Crossover screenshots (lacymorrow.github.io/CrossOver)'
