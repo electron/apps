@@ -1,6 +1,0 @@
-name: Wharf
-description: 'Tray app for viewing and killing local processes'
-website: 'https://github.com/MarkRabey/wharf'
-repository: 'https://github.com/MarkRabey/wharf'
-category: 'Utilities'
-disabled: true # Old Electron version: v1.8.4

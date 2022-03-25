@@ -1,6 +1,6 @@
 name: Kube Dev Dashboard
 description: Dev Dashboard for Kubernetes.
-website: https://prsh9.github.io/KubeCtl-Dashboard/
+website: https://prsh9.github.io/kubectl-dashboard/
 category: Developer Tools
 repository: https://github.com/prsh9/KubeCtl-Dashboard
 keywords:
