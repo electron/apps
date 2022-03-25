@@ -1679,6 +1679,22 @@
       "revHash": "229770e211"
     }
   },
+  "converse": {
+    "faintColorOnWhite": "rgba(4, 4, 4, 0.1)",
+    "goodColorOnBlack": "#FAFAFA",
+    "goodColorOnWhite": "#040404",
+    "palette": [
+      "#fafafa",
+      "#040404",
+      "#7c7c7c",
+      "#848484",
+      "#747474"
+    ],
+    "source": {
+      "path": "apps/converse/converse-icon.png",
+      "revHash": "0e3419993a"
+    }
+  },
   "copy-2-online": {
     "faintColorOnWhite": "rgba(84, 108, 212, 0.1)",
     "goodColorOnBlack": "#C3E3FB",
@@ -6269,6 +6285,22 @@
     "source": {
       "path": "apps/moonitor/moonitor-icon.png",
       "revHash": "55a89ad0af"
+    }
+  },
+  "moosync": {
+    "faintColorOnWhite": "rgba(66, 115, 84, 0.1)",
+    "goodColorOnBlack": "#59AF75",
+    "goodColorOnWhite": "#427354",
+    "palette": [
+      "#1d1d1d",
+      "#59af75",
+      "#375c43",
+      "#2c3e31",
+      "#427354"
+    ],
+    "source": {
+      "path": "apps/moosync/moosync-icon.png",
+      "revHash": "66184d85be"
     }
   },
   "morgen": {
