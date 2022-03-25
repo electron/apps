@@ -1,5 +1,5 @@
 name: 'Converse'
-description: 'A free and open-source XMPP chat client.'
+description: 'Free and open-source XMPP chat client.'
 website: 'https://conversejs.org/'
 repository: 'https://github.com/conversejs/converse-desktop'
 keywords:
