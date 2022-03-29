@@ -1,0 +1,17 @@
+name: echo
+description:
+  It is a standalone Text-to-Speech desktop app written in pure vanilla js &
+  css.
+website: https://afractal.github.io/echo-app
+category: Music
+repository: https://github.com/afractal/echo-app
+keywords:
+  - echo
+  - text-to-speech
+license: Proprietary
+screenshots:
+  - imageUrl: 'https://afractal.github.io/echo-app/hero_screenshot.png'
+    imageLink: 'https://afractal.github.io/echo-app'
+goodColorOnWhite: '#343e40'
+goodColorOnBlack: '#fafbfc'
+faintColorOnWhite: 'rgba(138, 43, 226, 0.6)'

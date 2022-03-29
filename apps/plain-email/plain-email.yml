@@ -1,8 +1,0 @@
-name: 'Plain Email'
-description: 'An app concept for efficient one-touch email processing'
-website: 'http://www.plainemail.com'
-repository: https://github.com/apancik/plain-email
-keywords:
-  - email
-  - productivity
-category: Productivity

@@ -10,11 +10,4 @@ keywords:
   - rocket
   - Emogenie
 license: MIT
-screenshots:
-  - imageUrl: 'https://virejdasani.github.io/Geniemoji/assets/SC-navigation.png'
-    caption: 'Geniemoji start page'
-    imageLink: 'https://virejdasani.github.io/Geniemoji/index.html'
-  - imageUrl: 'https://virejdasani.github.io/Geniemoji/assets/SC-angryEmoji.png'
-    caption: 'Geniemoji search'
-    imageLink: 'https://virejdasani.github.io/Geniemoji/index.html'
 youtube_video_url: 'https://youtu.be/0I18p8e1Z5Y'

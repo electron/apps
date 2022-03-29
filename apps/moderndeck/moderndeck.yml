@@ -5,8 +5,6 @@ category: 'Social Networking'
 website: 'https://moderndeck.org/'
 repository: 'https://github.com/dangeredwolf/ModernDeck'
 license: MIT
-screenshots:
-  - imageUrl: 'https://moderndeck.org/61b688c033c51d4cfc18.webp'
 keywords:
   - moderndeck
   - tweetdeck
