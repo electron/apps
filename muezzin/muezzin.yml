@@ -1,0 +1,25 @@
+name: muezzin
+description:
+  'Prayer times and Adhan application for Windows, macOS and GNU/Linux.'
+website: 'https://github.com/DBChoco/Muezzin'
+repository: 'https://github.com/DBChoco/Muezzin'
+keywords:
+  - islam
+  - prayer
+  - muezzin
+  - athan
+  - azan
+  - adhan
+  - times
+  - windows
+  - macos
+  - linux
+license: MIT
+category: 'Utilities'
+screenshots:
+  - imageUrl: 'https://github.com/DBChoco/Muezzin/blob/master/screenshots/darkMode.png?raw=true'
+    caption: 'Muezzin main screen - dark mode'
+    imageLink: 'https://github.com/DBChoco/Muezzin'
+  - imageUrl: 'https://github.com/DBChoco/Muezzin/blob/master/screenshots/settingsDark.png?raw=true'
+    caption: 'Muezzin settings page'
+    imageLink: 'https://github.com/DBChoco/Muezzin'
