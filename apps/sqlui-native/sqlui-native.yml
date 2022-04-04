@@ -1,6 +1,6 @@
 name: sqlui-native
 description:
-  'A simple UI client for most SQL Engines written in Electron. It is compatible with Windows, Mac, Ubuntu / Debian and Redhat. It supports most dialects of RMBDs like MySQL, Microsoft SQL Server, Postgres, SQLite and has limited supports for Cassandra, MongoDB and Redis.'
+  'Simple UI client for most SQL Engines. It is compatible with Windows, Mac, Ubuntu / Debian and Redhat. It supports most dialects of RMBDs like MySQL, Microsoft SQL Server, Postgres, SQLite and has limited supports for Cassandra, MongoDB and Redis.'
 website: 'https://synle.github.io/sqlui-native/'
 repository: 'https://github.com/synle/sqlui-native'
 keywords:
