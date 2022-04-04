@@ -1,0 +1,23 @@
+name: 'eSearch'
+description: 'Screenshot OCR search or search from clipboard or paste images.'
+website: 'https://esearch.vercel.app/'
+repository: 'https://github.com/xushengfeng/eSearch'
+license: GPL-3.0
+keywords:
+  - code
+  - search
+  - screenshot
+  - clipboard
+  - ocr
+  - cross-platform
+  - color-picker
+  - image-editing
+  - image-editor
+  - screen-capture
+  - live-text
+category: 'Productivity'
+screenshots:
+  - imageUrl: 'https://esearch.vercel.app/assets/clip.png'
+  - imageUrl: 'https://esearch.vercel.app/assets/main.png'
+locales:
+  - zh-CN
