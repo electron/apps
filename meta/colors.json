@@ -2447,6 +2447,22 @@
       "revHash": "7ada64034d"
     }
   },
+  "display-dj": {
+    "faintColorOnWhite": "rgba(70, 70, 70, 0.1)",
+    "goodColorOnBlack": "#88E0F8",
+    "goodColorOnWhite": "#464646",
+    "palette": [
+      "#9cd4ec",
+      "#848484",
+      "#464646",
+      "#fcfcfc",
+      "#88e0f8"
+    ],
+    "source": {
+      "path": "apps/display-dj/display-dj-icon.png",
+      "revHash": "74cc24c91c"
+    }
+  },
   "ditto": {
     "faintColorOnWhite": "rgba(84, 108, 124, 0.1)",
     "goodColorOnBlack": "#B49434",
@@ -2669,6 +2685,22 @@
     "source": {
       "path": "apps/dynobase/dynobase-icon.png",
       "revHash": "d67c96ca0f"
+    }
+  },
+  "e-search": {
+    "faintColorOnWhite": "rgba(49, 97, 252, 0.1)",
+    "goodColorOnBlack": "#119FFC",
+    "goodColorOnWhite": "#3161FC",
+    "palette": [
+      "#2677fc",
+      "#119ffc",
+      "#3161fc",
+      "#1494fc",
+      "#1c8dfc"
+    ],
+    "source": {
+      "path": "apps/e-search/e-search-icon.png",
+      "revHash": "8ddbcf06d3"
     }
   },
   "eagle": {
@@ -10285,6 +10317,22 @@
     "source": {
       "path": "apps/testrec/testrec-icon.png",
       "revHash": "602c0eaf2b"
+    }
+  },
+  "texpaste": {
+    "faintColorOnWhite": "rgba(79, 66, 44, 0.1)",
+    "goodColorOnBlack": "#E6E8E9",
+    "goodColorOnWhite": "#4F422C",
+    "palette": [
+      "#e6e8e9",
+      "#4f422c",
+      "#84867e",
+      "#797c86",
+      "#847c74"
+    ],
+    "source": {
+      "path": "apps/texpaste/texpaste-icon.png",
+      "revHash": "49cae985e6"
     }
   },
   "texturelab": {

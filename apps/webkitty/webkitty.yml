@@ -1,5 +1,7 @@
 name: WebKitty
-description: All-in-one environment for editing, testing, and debugging web development projects.
+description:
+  All-in-one environment for editing, testing, and debugging web development
+  projects.
 website: 'https://github.com/yikuansun/webkitty'
 repository: 'https://github.com/yikuansun/webkitty'
 license: MIT
@@ -12,11 +14,9 @@ keywords:
   - 'Web Development'
 category: 'Developer Tools'
 screenshots:
-  - 
-    imageUrl: 'https://raw.githubusercontent.com/yikuansun/webkitty/master/screenshots/Screen%20Shot%202022-04-01%20at%204.40.07%20PM.png'
+  - imageUrl: 'https://raw.githubusercontent.com/yikuansun/webkitty/master/screenshots/Screen%20Shot%202022-04-01%20at%204.40.07%20PM.png'
     caption: 'Hello World on MacOS'
     imageLink: 'https://github.com/yikuansun/webkitty/blob/master/screenshots/Screen%20Shot%202022-04-01%20at%204.40.07%20PM.png'
-  - 
-    imageUrl: 'https://raw.githubusercontent.com/yikuansun/webkitty/master/screenshots/yikuansun.PNG'
+  - imageUrl: 'https://raw.githubusercontent.com/yikuansun/webkitty/master/screenshots/yikuansun.PNG'
     caption: 'Editing my portfolio site'
     imageLink: 'https://github.com/yikuansun/webkitty/blob/master/screenshots/yikuansun.PNG'

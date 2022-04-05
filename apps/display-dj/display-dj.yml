@@ -1,6 +1,9 @@
 name: sqlui-native
 description:
-  'Cross platform desktop application that supports brightness adjustment for integrated laptop monitor as well as external monitors and dark mode toggle supporting Windows and MacOSX at the moment. Adjustment brightness will be quicker and does not require tinkering with the external monitor controls.'
+  'Cross platform desktop application that supports brightness adjustment for
+  integrated laptop monitor as well as external monitors and dark mode toggle
+  supporting Windows and MacOSX at the moment. Adjustment brightness will be
+  quicker and does not require tinkering with the external monitor controls.'
 website: 'https://synle.github.io/display-dj/'
 repository: 'https://github.com/synle/display-dj'
 keywords:
