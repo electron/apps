@@ -9503,6 +9503,22 @@
       "revHash": "d050a4326c"
     }
   },
+  "sqlui-native": {
+    "faintColorOnWhite": "rgba(100, 100, 100, 0.1)",
+    "goodColorOnBlack": "#838383",
+    "goodColorOnWhite": "#646464",
+    "palette": [
+      "#838383",
+      "#646464",
+      "#ababab",
+      "#525252",
+      "#6c6c6c"
+    ],
+    "source": {
+      "path": "apps/sqlui-native/sqlui-native-icon.png",
+      "revHash": "896d2b0a13"
+    }
+  },
   "stack": {
     "faintColorOnWhite": "rgba(35, 52, 69, 0.1)",
     "goodColorOnBlack": "#84949C",
