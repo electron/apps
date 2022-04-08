@@ -1887,6 +1887,22 @@
       "revHash": "65ed609242"
     }
   },
+  "csgo-tracker": {
+    "faintColorOnWhite": "rgba(36, 36, 44, 0.1)",
+    "goodColorOnBlack": "#F7F7F8",
+    "goodColorOnWhite": "#24242C",
+    "palette": [
+      "#24242c",
+      "#f7f7f8",
+      "#949494",
+      "#898b8c",
+      "#8c9494"
+    ],
+    "source": {
+      "path": "apps/csgo-tracker/csgo-tracker-icon.png",
+      "revHash": "ae49f515e3"
+    }
+  },
   "csv-to-sqlite": {
     "faintColorOnWhite": "rgba(4, 124, 100, 0.1)",
     "goodColorOnBlack": "#04FBDB",
