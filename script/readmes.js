@@ -107,8 +107,11 @@ function cleanReadme(readme, defaultBranch, app) {
     )
     $relativeImages.each((i, img) => {
       $(img).attr({
-        'src': `${app.repository.replace('github.com', 'raw.githubusercontent.com')}/${defaultBranch}/${$(img).attr('src')}`,
-        crossorigin: ''
+        src: `${app.repository.replace(
+          'github.com',
+          'raw.githubusercontent.com'
+        )}/${defaultBranch}/${$(img).attr('src')}`,
+        crossorigin: '',
       })
     })
   }
