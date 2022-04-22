@@ -1,0 +1,20 @@
+name: TidGi
+description:
+  Privatcy, free deploy Tiddlywiki knowledge management Desktop Note taking app.
+website: https://github.com/tiddly-gittly/TidGi-Desktop
+category: Productivity
+repository: https://github.com/tiddly-gittly/TidGi-Desktop
+keywords:
+  - notebook
+  - knowledge-graph
+  - tiddlywiki
+  - note-taking
+  - evernote
+  - anki
+  - tiddlywiki5
+  - obsidian
+  - pkm
+  - notion
+  - knowledge-management
+  - notes-app
+license: 'MPL-2.0 License '
