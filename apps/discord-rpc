@@ -1,0 +1,9 @@
+name: Discord RPC
+description: 'This application for Discord Rich Presence.'
+website: https://github.com/cenapyuce/Discord-rpc
+category: Utilities
+repository: https://github.com/cenapyuce/Discord-rpc
+keywords:
+  - discord
+  - rpc
+license: MIT
