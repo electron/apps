@@ -1,0 +1,18 @@
+name: 'MonAmi Note'
+description:
+  'Simple yet robust Markdown note-taking app featuring folder/tag organization, stealth data protection, and web app with cloud storage'
+website: 'https://simbust.com'
+category: Productivity
+keywords:
+  - markdown
+  - note
+  - stealth
+  - 'hide data'
+  - folder
+  - tag
+  - cloud
+  - encryption
+  - journal
+  - diary
+screenshots:
+  - imageUrl: 'https://simbust.com/images/ss_monami_desktop_main.png'
