@@ -1,4 +1,4 @@
-name: "Check Semantic Commit"
+name: 'Check Semantic Commit'
 
 on:
   pull_request_target:
