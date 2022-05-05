@@ -1,0 +1,19 @@
+name: FAIRshare
+description:
+  Your one-stop tool for curating and sharing research data and software
+  according to FAIR guidelines.
+website: https://fairdataihub.org/fairshare
+category: Science & Medicine
+repository: https://github.com/fairdataihub/FAIRshare
+keywords:
+  - fair
+  - metadata
+  - curation
+  - sharing
+  - windows
+  - macos
+  - ubuntu
+license: MIT
+screenshots:
+  - imageUrl: 'https://fairdataihub.org/images/hero/fairshare-macos.png'
+    caption: 'A screenshot of the FAIRshare app on macOS.'
