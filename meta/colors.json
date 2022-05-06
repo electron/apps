@@ -3135,6 +3135,22 @@
       "revHash": "aea750f27e"
     }
   },
+  "fairshare": {
+    "faintColorOnWhite": "rgba(36, 100, 235, 0.1)",
+    "goodColorOnBlack": "#FB6404",
+    "goodColorOnWhite": "#2464EB",
+    "palette": [
+      "#2464eb",
+      "#fb6404",
+      "#5764b7",
+      "#846484",
+      "#7c648e"
+    ],
+    "source": {
+      "path": "apps/fairshare/fairshare-icon.png",
+      "revHash": "a88ba44023"
+    }
+  },
   "fangyuanjian": {
     "faintColorOnWhite": "rgba(44, 60, 68, 0.1)",
     "goodColorOnBlack": "#949CA4",

@@ -70,14 +70,14 @@
     "slug": "news"
   },
   {
+    "name": "Science & Medicine",
+    "count": 3,
+    "slug": "science-medicine"
+  },
+  {
     "name": "Food & Drink",
     "count": 2,
     "slug": "food-drink"
-  },
-  {
-    "name": "Science & Medicine",
-    "count": 2,
-    "slug": "science-medicine"
   },
   {
     "name": "Navigation",
