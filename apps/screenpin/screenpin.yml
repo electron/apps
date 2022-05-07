@@ -1,0 +1,12 @@
+name: ScreenPin
+description:
+  Tool which lets you pin things to your screen and make them always stay over
+  other apps.
+website: https://screenpin.isaacdoescodes.com
+category: Productivity
+repository: https://www.github.com/isaacdoescodes/screenpin
+keywords:
+  - screenpin
+  - utilities
+  - productivity
+license: MIT
