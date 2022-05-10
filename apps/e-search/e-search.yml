@@ -1,5 +1,7 @@
 name: 'eSearch'
-description: 'Screenshot OCR search or search from clipboard or paste images or search for picture.'
+description:
+  'Screenshot OCR search or search from clipboard or paste images or search for
+  picture.'
 website: 'https://esearch.vercel.app/'
 repository: 'https://github.com/xushengfeng/eSearch'
 license: GPL-3.0

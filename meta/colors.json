@@ -6255,6 +6255,22 @@
       "revHash": "32577f1024"
     }
   },
+  "monami-note": {
+    "faintColorOnWhite": "rgba(188, 72, 0, 0.1)",
+    "goodColorOnBlack": "#FF6404",
+    "goodColorOnWhite": "#BC4800",
+    "palette": [
+      "#fc6404",
+      "#ff6404",
+      "#ff6404",
+      "#ff6404",
+      "#ff6404"
+    ],
+    "source": {
+      "path": "apps/monami-note/monami-note-icon.png",
+      "revHash": "1d7c0fcc0d"
+    }
+  },
   "mongodb-compass": {
     "faintColorOnWhite": "rgba(68, 119, 60, 0.1)",
     "goodColorOnBlack": "#5CA251",
