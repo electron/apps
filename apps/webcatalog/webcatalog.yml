@@ -1,7 +1,6 @@
 name: WebCatalog
 description: 'Turn Any Websites Into Real Desktop Apps'
 website: 'https://webcatalog.app'
-repository: 'https://github.com/webcatalog/webcatalog'
 license: MPL-2.0
 homebrewCaskName: webcatalog
 youtube_video_url: 'https://www.youtube.com/watch?v=kWuGFW42Vjo'
