@@ -1,0 +1,23 @@
+name: Sturdy
+description:
+  'Open-source version control platform that allows you to interact with your
+  code at a higher abstraction level.'
+website: 'https://getsturdy.com/'
+category: Developer Tools
+repository: 'https://github.com/sturdy-dev/sturdy'
+keywords:
+  - coding
+  - version-control
+  - vcs
+  - real-time
+  - development
+  - git
+  - code
+  - collaboration
+  - productivity
+locales:
+  - en-US
+screenshots:
+  - imageUrl: 'https://getsturdy.com/assets/app.faccd53f.png'
+    imageLink: 'https://getsturdy.com/'
+    caption: 'Sturdy App'
