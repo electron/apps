@@ -34,9 +34,6 @@ keywords:
 category: 'Productivity'
 license: MIT
 screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/linux/todo_list.png'
-    caption: 'sleeks main view'
-    imageLink: 'https://github.com/ransome1/sleek'
   - imageUrl: 'https://raw.githubusercontent.com/ransome1/sleek/master/assets/screenshots/linux/sort_by_due_date_dark.png'
     caption: 'sleeks main view in dark mode, sorted by due date'
     imageLink: 'https://github.com/ransome1/sleek'

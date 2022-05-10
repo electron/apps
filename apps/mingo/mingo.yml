@@ -6,9 +6,6 @@ description:
 website: 'https://mingo.io'
 repository: 'https://github.com/mingo-app/mingo'
 youtube_video_url: 'https://www.youtube.com/watch?v=nt4xhRmaaOc'
-screenshots:
-  - imageUrl: 'https://mingo.io/_nuxt/img/ae5506b.png'
-  - imageUrl: 'https://mingo.io/_nuxt/img/645a839.png'
 keywords:
   - MongoDB
   - databases
