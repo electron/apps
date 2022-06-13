@@ -1,0 +1,9 @@
+name: discordbot
+description: 'An app to send messages on discord exclusively as a bot.'
+website: 'https://aryxstocratic.github.io/apps/discordbot'
+repository: 'https://github.com/Aryxstocratic/discordbot'
+category: 'Utilities'
+keywords:
+  - discord
+  - bot
+license: MIT
