@@ -1,0 +1,12 @@
+name: Barklarm
+description: Display the status of projects as an item in the tray menu bar.
+website: https://www.barklarm.com/
+category: Developer Tools
+repository: https://github.com/kanekotic/barklarm
+keywords:
+  - build
+  - observability
+  - CI
+  - CD
+license: Apache License 2.0
+youtube_video_url: https://www.youtube.com/watch?v=lJhVdrje63w
