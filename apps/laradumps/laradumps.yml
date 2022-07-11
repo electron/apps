@@ -1,0 +1,14 @@
+name: LaraDumps
+description:
+  Is a friendly app designed to boost your Laravel PHP coding and debugging
+  experience.
+website: https://laradumps.dev
+category: Developer Tools
+repository: https://github.com/laradumps/app
+keywords:
+  - laravel
+  - debug
+  - php
+  - tool
+  - livewire
+license: MIT
