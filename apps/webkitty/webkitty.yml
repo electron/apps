@@ -2,7 +2,7 @@ name: WebKitty
 description:
   All-in-one environment for editing, testing, and debugging web development
   projects.
-website: 'https://github.com/yikuansun/webkitty'
+website: 'https://yikuansun.github.io/dartfling/product.html?pid=3'
 repository: 'https://github.com/yikuansun/webkitty'
 license: MIT
 keywords:
@@ -20,3 +20,6 @@ screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/yikuansun/webkitty/master/screenshots/yikuansun.PNG'
     caption: 'Editing my portfolio site'
     imageLink: 'https://github.com/yikuansun/webkitty/blob/master/screenshots/yikuansun.PNG'
+  - imageUrl: 'https://github.com/yikuansun/webkitty/blob/master/screenshots/Screen%20Shot%202022-05-12%20at%209.22.25%20PM.png?raw=true'
+    caption: 'HTML Template: Ethereal by HTML5 UP'
+    imageLink: 'https://github.com/yikuansun/webkitty/blob/master/screenshots/Screen%20Shot%202022-05-12%20at%209.22.25%20PM.png?raw=true'
