@@ -19,3 +19,5 @@ screenshots:
     caption: 'Strimio desktop'
   - imageUrl: 'https://www.strimio.com/images/strimio-dark-home.jpg'
     caption: 'Strimio desktop'
+disabled: true
+disabledComment: 'See https://github.com/electron/apps/issues/2037'
