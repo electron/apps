@@ -1,0 +1,23 @@
+name: marmota.app
+description: Create presentations by simply writing Markdown.
+website: https://marmota.app/
+category: Productivity
+keywords:
+  - slides
+  - presentation
+  - markdown
+  - preview
+  - drawing
+screenshots:
+  - imageUrl: 'https://marmota.app/images/docs/getting-started-main-window.png'
+    caption: 'Main window: Presentation editor'
+    imageLink: 'https://marmota.app/docs/getting-started/main-window/'
+  - imageUrl: 'https://marmota.app/images/docs/getting-started-presenter-screen.png'
+    caption: 'Presenter screen: Information while presenting'
+    imageLink: 'https://marmota.app/docs/getting-started/presenter-screen/'
+  - imageUrl: 'https://marmota.app/images/docs/export-dialog.png'
+    caption: 'Export / print your slides'
+    imageLink: 'https://marmota.app/docs/managing/exporting/'
+  - imageUrl: 'https://marmota.app/images/docs/design-edit-editor-window.png'
+    caption: 'Create and edit custom slide designs'
+    imageLink: 'https://marmota.app/docs/design/create-custom-design/'
