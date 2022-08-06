@@ -1,0 +1,13 @@
+name: Robust Vault
+description: Backup your data from anywhere to anywhere (local drives only).
+website: https://github.com/relloccate/robust-vault
+category: Utilities
+repository: https://github.com/relloccate/robust-vault
+keywords:
+  - backup
+  - files
+  - data
+  - storage
+  - robust
+  - vault
+license: MIT
