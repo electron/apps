@@ -106,10 +106,13 @@ function cleanReadme(readme, defaultBranch, app) {
       `${app.slug}: updating ${$relativeImages.length} relative image URLs`
     )
     $relativeImages.each((i, img) => {
-      $(img).attr(
-        'src',
-        `${app.repository}/raw/${defaultBranch}/${$(img).attr('src')}`
-      )
+      $(img).attr({
+        src: `${app.repository.replace(
+          'github.com',
+          'raw.githubusercontent.com'
+        )}/${defaultBranch}/${$(img).attr('src')}`,
+        crossorigin: '',
+      })
     })
   }
 

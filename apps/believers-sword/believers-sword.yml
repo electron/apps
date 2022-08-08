@@ -6,6 +6,9 @@ website: https://believers-sword-app.herokuapp.com/
 category: Productivity
 repository: https://github.com/Bible-Projects/believers-sword-app
 keywords:
+  - believer
+  - sword
+  - software
   - bible
   - study
   - happy
@@ -15,11 +18,12 @@ keywords:
   - love
   - Jesus
   - God
+  - Gospel
 license: MIT
 screenshots:
-  - imageUrl: 'https://i.ibb.co/wwtctwK/Screenshot-2021-10-11-203108.png'
-    caption: 'Believers Sword Dark Interface'
-    imageLink: 'https://believers-sword-app.herokuapp.com/'
-  - imageUrl: 'https://i.ibb.co/1Rjvys7/Screenshot-2021-10-11-203049.png'
-    caption: 'Believers Sword Light Interface'
-    imageLink: 'https://believers-sword-app.herokuapp.com/'
+  - imageUrl: "https://i.imgur.com/DicpyKK.png"
+    caption: "Believers Sword Dark Interface"
+    imageLink: "https://believers-sword-app.herokuapp.com/"
+  - imageUrl: "https://i.imgur.com/jyS2DK6.png"
+    caption: "Believers Sword Light Interface"
+    imageLink: "https://believers-sword-app.herokuapp.com/"

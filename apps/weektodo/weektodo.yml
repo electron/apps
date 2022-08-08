@@ -1,0 +1,24 @@
+name: WeekToDo
+description: Free Minimalist Weekly Planner App Focused on Privacy.
+website: https://weektodo.me
+category: Productivity
+snapcraftName: weektodo
+keywords:
+  - tasks
+  - todos
+  - productivity
+  - lists
+  - calendar
+  - scheduler
+  - organizer
+  - planner
+screenshots:
+  - imageUrl: 'https://weektodo.me/assets/images/snaps/WeekToDo_snap_1.png'
+    caption: 'WeekToDo Weekly planner software'
+    imageLink: 'https://weektodo.me'
+  - imageUrl: 'https://weektodo.me/assets/images/snaps/WeekToDo_snap_2.png'
+    caption: 'WeekToDo Weekly planner software'
+    imageLink: 'https://weektodo.me'
+  - imageUrl: 'https://weektodo.me/assets/images/snaps/WeekToDo_snap_3.png'
+    caption: 'WeekToDo Weekly planner software'
+    imageLink: 'https://weektodo.me'

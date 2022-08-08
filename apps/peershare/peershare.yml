@@ -1,0 +1,11 @@
+name: PeerShare
+description: Share your files with peer-to-peer technology, simply.
+website: https://github.com/connor-davis/peershare
+category: Utilities
+repository: https://github.com/connor-davis/peershare
+keywords:
+  - p2p
+  - hypercore
+  - hyperswarm
+  - filesharing
+license: GPL-3.0

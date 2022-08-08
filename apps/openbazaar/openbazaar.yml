@@ -1,6 +1,6 @@
 name: OpenBazaar
 description: 'Decentralized p2p marketplace for Bitcoin'
-website: 'https://openbazaar.org'
+website: 'https://github.com/OpenBazaar/openbazaar-desktop'
 repository: 'https://github.com/OpenBazaar/openbazaar-desktop'
 keywords:
   - ecommerce

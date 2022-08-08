@@ -1,0 +1,15 @@
+name: WORKSHEETS Data Studio
+description: 'Online SQL Client, Exploratory Data Analysis, Data Processing and Low Code Apps.'
+website: https://worksheet.systems/
+repository: https://github.com/FalconSoft/worksheets-data.studio
+keywords:
+  - Online SQL Client
+  - REST Client
+  - API testing
+  - Low Code
+  - JSPython
+  - developer tools
+license: Commercial
+category: 'Developer Tools'
+screenshots:
+  - imageUrl: 'https://user-images.githubusercontent.com/6579079/174428313-98274c8c-248c-45b8-9caa-6ada1bac1b31.png'
