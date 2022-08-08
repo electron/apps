@@ -1,7 +1,6 @@
 name: StreamBop
 description:
-  This is a utility that allows creators to play NCS music easily. With Themes,
-  auto credits and more.
+  StreamBop allows creators to play NCS music easily. With Themes, auto credits and more, integrate with any streaming software and have background music.
 website: https://snaildos.com/streambop
 category: Music
 repository: https://github.com/snaildos/StreamBop
