@@ -2,7 +2,7 @@ name: Primate
 description: 'Modern desktop client for Kong Admins.'
 website: 'https://www.getprimate.xyz'
 repository: 'https://github.com/getprimate/primate'
-keywords: 
+keywords:
   - dashboard
   - kong
   - admin-api

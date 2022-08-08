@@ -1,5 +1,7 @@
 name: SnailFM
-description: Powerful tool, that allows you to tune into great music, the app is a unique clean app that allows you to listen at any time.
+description:
+  Powerful tool, that allows you to tune into great music, the app is a unique
+  clean app that allows you to listen at any time.
 website: https://snaildos.com/snailfm
 category: Music
 repository: https://github.com/snaildos/SnailFM-Application

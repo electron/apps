@@ -21,9 +21,9 @@ keywords:
   - Gospel
 license: MIT
 screenshots:
-  - imageUrl: "https://i.imgur.com/DicpyKK.png"
-    caption: "Believers Sword Dark Interface"
-    imageLink: "https://believers-sword-app.herokuapp.com/"
-  - imageUrl: "https://i.imgur.com/jyS2DK6.png"
-    caption: "Believers Sword Light Interface"
-    imageLink: "https://believers-sword-app.herokuapp.com/"
+  - imageUrl: 'https://i.imgur.com/DicpyKK.png'
+    caption: 'Believers Sword Dark Interface'
+    imageLink: 'https://believers-sword-app.herokuapp.com/'
+  - imageUrl: 'https://i.imgur.com/jyS2DK6.png'
+    caption: 'Believers Sword Light Interface'
+    imageLink: 'https://believers-sword-app.herokuapp.com/'

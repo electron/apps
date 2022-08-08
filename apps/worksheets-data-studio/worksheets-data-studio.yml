@@ -1,5 +1,7 @@
 name: WORKSHEETS Data Studio
-description: 'Online SQL Client, Exploratory Data Analysis, Data Processing and Low Code Apps.'
+description:
+  'Online SQL Client, Exploratory Data Analysis, Data Processing and Low Code
+  Apps.'
 website: https://worksheet.systems/
 repository: https://github.com/FalconSoft/worksheets-data.studio
 keywords:
