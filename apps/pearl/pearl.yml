@@ -1,0 +1,10 @@
+name: pearl
+description: draw your thoughts graphically
+website: https://ahmadkhaefi.github.io/pearl
+category: Graphics & Design
+repository: https://github.com/ahmadkhaefi/pearl
+keywords:
+  - whiteboard
+  - graphics
+  - drawing
+license: MIT
