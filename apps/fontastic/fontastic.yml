@@ -1,9 +1,15 @@
 name: fontastic
-description: 'Visually stunning font cataloging application.'
-website: 'https://github.com/tomshaw/fontastic'
-category: 'Graphics & Design'
-repository: 'https://github.com/tomshaw/fontastic'
+description: Visually stunning font management browsing and cataloging application.
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/tomshaw/fontastic/master/docs/screenshots/screen-grab1.png'
+    caption: 'Fontastic Font Management'
+    imageLink: 'https://github.com/tomshaw/fontastic'
+website: https://github.com/tomshaw/fontastic
+category: Graphics & Design
+repository: https://github.com/tomshaw/fontastic
 keywords:
   - font
   - typography
+  - typeface
+  - catalog
 license: MIT
