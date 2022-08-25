@@ -1,8 +1,18 @@
 name: fontastic
-description: Visually stunning font management browsing and cataloging application.
+description:
+  Visually stunning font management browsing and cataloging application.
 screenshots:
   - imageUrl: 'https://raw.githubusercontent.com/tomshaw/fontastic/master/docs/screenshots/screen-grab1.png'
-    caption: 'Fontastic Font Management'
+    caption: 'Fontastic Font Manager'
+    imageLink: 'https://github.com/tomshaw/fontastic'
+  - imageUrl: 'https://raw.githubusercontent.com/tomshaw/fontastic/master/docs/screenshots/screen-grab2.png'
+    caption: 'Fontastic Preview Pane'
+    imageLink: 'https://github.com/tomshaw/fontastic'
+  - imageUrl: 'https://raw.githubusercontent.com/tomshaw/fontastic/master/docs/screenshots/screen-grab4.png'
+    caption: 'Fontastic Black Theme Grid View'
+    imageLink: 'https://github.com/tomshaw/fontastic'
+  - imageUrl: 'https://raw.githubusercontent.com/tomshaw/fontastic/master/docs/screenshots/screen-grab6.png'
+    caption: 'Fontastic Glyph View'
     imageLink: 'https://github.com/tomshaw/fontastic'
 website: https://github.com/tomshaw/fontastic
 category: Graphics & Design
