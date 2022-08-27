@@ -2,7 +2,7 @@ name: SQL Client
 description: Multiplatform SQL client made for developers. Fast, stable and
   developer friendly.
 screenshots:
-  - imageUrl: 'https://d2lilrqghxogi1.cloudfront.net/assets/electron-apps/1-browse-table.png'
+  - imageUrl: 'https://d2lilrqghxogi1.cloudfront.net/assets/electron-apps/1-browse-table2.png'
     caption: 'Browse, Filter Tables, Inline Edit'
     imageLink: 'https://sql-client.com/'
   - imageUrl: 'https://d2lilrqghxogi1.cloudfront.net/assets/electron-apps/2-structure.png'
