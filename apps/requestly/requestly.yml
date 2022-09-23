@@ -1,5 +1,5 @@
 name: Requestly
-description: 'Requestly lets you debug Frontend Apps. Intercept & Modify HTTP Requests directly in Production.'
+description: 'Tool to debug your Frontend Apps. Intercept & Modify HTTP Requests directly in Production.'
 website: 'https://requestly.io'
 repository: 'https://github.com/requestly/requestly-desktop-app'
 keywords:
