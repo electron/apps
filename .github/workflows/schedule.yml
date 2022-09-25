@@ -4,6 +4,9 @@ on:
 
 name: Update and release
 
+permissions:
+  contents: read # to fetch code (actions/checkout)
+
 jobs:
   updateDataAndRelease:
     name: Update data and release
