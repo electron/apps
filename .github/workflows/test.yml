@@ -8,11 +8,12 @@ on:
     branches:
       - master
 
-permissions:
-  contents: read # to fetch code (actions/checkout)
+permissions: {}
 
 jobs:
   build:
+    permissions:
+      contents: read # to fetch code (actions/checkout)
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
