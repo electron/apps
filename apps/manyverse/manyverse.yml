@@ -1,0 +1,12 @@
+name: Manyverse
+description: Cross-platform SSB app.
+website: https://manyver.se
+category: Social Networking
+repository: https://gitlab.com/staltz/manyverse
+keywords:
+  - ssb
+  - scuttlebutt
+  - decentralized
+  - p2p
+  - cryptography
+license: MPL-2.0

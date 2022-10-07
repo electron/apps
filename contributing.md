@@ -98,13 +98,13 @@ apps
 - Lifestyle
 - Kids
 - Magazines & Newspapers
-- Medical
 - Music
 - Navigation
 - News
 - Photo & Video
 - Productivity
 - Reference
+- Science & Medicine
 - Shopping
 - Social Networking
 - Sports

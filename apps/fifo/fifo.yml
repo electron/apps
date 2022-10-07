@@ -1,0 +1,13 @@
+name: Fifo
+description:
+  This app is a nonprofit, fast free and secure Web Browser. Includes news and
+  tons of features out of the box. Fifo is resource effecient, and is updated
+  often.
+website: https://fifo.snaildos.com
+category: Productivity
+repository: https://github.com/snaildos/Fifo-Browser
+keywords:
+  - Browser
+  - Privacy
+  - Secure
+  - React

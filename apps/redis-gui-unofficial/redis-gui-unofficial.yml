@@ -11,6 +11,3 @@ keywords:
   - redis-client
   - redis-desktop
   - vue
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/ekvedaras/redis-gui/master/artifacts/previews/json-key.png'
-  - imageUrl: 'https://raw.githubusercontent.com/ekvedaras/redis-gui/master/artifacts/previews/console.png'

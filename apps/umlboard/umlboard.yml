@@ -1,0 +1,13 @@
+name: UMLBoard
+description: 'Create UML class diagrams with a nice whiteboard look.'
+website: https://www.umlboard.com
+category: Developer Tools
+keywords:
+  - UML
+  - whiteboard
+  - class designer
+  - handdrawn
+
+locales:
+  - en-US
+  - de-DE
