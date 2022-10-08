@@ -14,5 +14,3 @@ license: MIT
 screenshots:
   - imageUrl: 'https://strimio.com/screenshot.png'
     caption: 'Strimio desktop'
-disabled: false
-disabledComment: 'See https://github.com/electron/apps/issues/2037'
