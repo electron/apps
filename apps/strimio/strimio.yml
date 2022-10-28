@@ -1,7 +1,5 @@
 name: Strimio
-description:
-  Free cloud-based streaming service that provides you access to tens of
-  thousands of live streams from all over the world.
+description: Free media player for macOS, Windows, and Linux, that enables you to play and organize your live streams like never before.
 website: https://strimio.com
 category: Entertainment
 keywords:
@@ -10,14 +8,9 @@ keywords:
   - live
   - radio
   - tv
+  - media player
 snapcraftName: strimio-desktop
-license: https://dtexpk7nyglo5.cloudfront.net/terms.html
+license: MIT
 screenshots:
-  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2021/01/Strimio_banner_1920_1080_copy.png'
+  - imageUrl: 'https://strimio.com/screenshot.png'
     caption: 'Strimio desktop'
-  - imageUrl: 'https://www.strimio.com/images/hero.png'
-    caption: 'Strimio desktop'
-  - imageUrl: 'https://www.strimio.com/images/strimio-dark-home.jpg'
-    caption: 'Strimio desktop'
-disabled: true
-disabledComment: 'See https://github.com/electron/apps/issues/2037'
