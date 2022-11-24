@@ -2,7 +2,7 @@ name: Ezra Bible App
 description: Modern Bible app for topical study.
 website: https://ezrabibleapp.net
 category: Education
-repository: https://github.com/ezra-bible-app/ezra-bible-app.git
+repository: https://github.com/ezra-bible-app/ezra-bible-app
 keywords:
   - bible
   - bible-study
