@@ -1,0 +1,16 @@
+name: Beak
+description: 'Cross platform API crafting tool.'
+website: 'https://getbeak.com'
+repository: 'https://github.com/getbeak/beak'
+keywords:
+  - api
+  - api-client
+  - api-testing
+  - api-building
+  - http
+  - https
+  - testing
+  - privacy
+category: Developer Tools
+screenshots:
+  - imageUrl: https://github.com/getbeak/beak/blob/master/assets/home-dark.png?raw=true
