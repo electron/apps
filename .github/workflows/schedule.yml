@@ -4,8 +4,13 @@ on:
 
 name: Update and release
 
+permissions: {}
+
 jobs:
   updateDataAndRelease:
+    permissions:
+      contents: read # to fetch code (actions/checkout)
+
     name: Update data and release
     runs-on: ubuntu-latest
     steps:
