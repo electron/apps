@@ -1,0 +1,13 @@
+name: Agregore
+description:
+  Surf and publish on the decentralized web via Agregore's peer to peer protocol
+  integration.
+website: https://agregore.mauve.moe/
+category: Productivity
+repository: https://github.com/AgregoreWeb/agregore-browser/
+keywords:
+  - p2p
+  - browser
+  - web
+  - dweb
+license: AGPL-3.0
