@@ -1,0 +1,16 @@
+name: Penpot Desktop
+description: Provides a desktop-like experience for Penpot users, with the additional features like tabs, offline usage by choosing your own Penpot instance, and some other minor stuff.
+website: https://code.korbsstudio.com/KorbsStudio/Penpot-Desktop
+repository: https://code.korbsstudio.com/KorbsStudio/Penpot-Desktop
+keywords:
+  - Penpot
+  - UX Design
+  - Protoyping
+  - Wireframing
+license: MIT
+snapcraftName: 'penpot-desktop'
+
+category: Graphics & Design
+
+screenshots:
+  - imageUrl: https://cdn.korbsstudio.com/images/Promo%20-%20%20Pro%20Display%20XDR.png
