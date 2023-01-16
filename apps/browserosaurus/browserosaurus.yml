@@ -1,6 +1,6 @@
 name: Browserosaurus
-description: 'Browser prompter for macOS.'
-website: 'https://github.com/will-stone/browserosaurus'
+description: 'For macOS multi-browser users.'
+website: 'https://browserosaurus.com/'
 repository: 'https://github.com/will-stone/browserosaurus'
 keywords:
   - productivity
@@ -9,3 +9,7 @@ keywords:
   - macos
 category: Utilities
 license: MIT
+screenshots:
+  - 
+    imageUrl: 'https://browserosaurus.com/screenshot.jpg'
+    caption: 'Clicking a link shows the Browserosaurus picker.'
