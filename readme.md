@@ -13,7 +13,7 @@ please read the [contributing](contributing.md) doc.~~
 
 ~~See [contributing.md#how-it-works](contributing.md#how-it-works)~~
 
-**We do not accept any new applications at this time.**
+**2023/01/25: We are not accepting any new applications at this time.**
 
 We are currently reworking the guidelines for adding applications and the organization of the repository.
 
