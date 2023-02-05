@@ -1,6 +1,7 @@
 # electron-apps
 
 [![CI](https://github.com/electron/apps/actions/workflows/test.yml/badge.svg)](https://github.com/electron/apps/actions/workflows/test.yml)
+[![Update and release](https://github.com/electron/apps/actions/workflows/schedule.yml/badge.svg)](https://github.com/electron/apps/actions/workflows/schedule.yml)
 
 A collection of apps built on Electron. [electronjs.org/apps](http://electronjs.org/apps).
 
