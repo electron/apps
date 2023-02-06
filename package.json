@@ -52,7 +52,7 @@
     "human-interval": "^2.0.1",
     "husky": "^8.0.1",
     "image-size": "^1.0.1",
-    "imagemin": "^8.0.1",
+    "imagemin": "^7.0.1",
     "imagemin-pngquant": "^9.0.2",
     "inquirer": "^8.2.4",
     "is-hexcolor": "^1.0.0",
