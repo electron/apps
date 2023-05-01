@@ -1,0 +1,15 @@
+name: Radiant
+description:
+  'Radiant is a revolutionary network designed to solve the problems with all existing blockchains in terms of scale, parallelism and Turing Complete programming. Radiant is a peer-to-peer digital asset system that enables direct exchange of value without going through a central party. Similarly to Bitcoin, the Radiant network requires minimal structure, and timestamps transactions into an ongoing hash-based chain of proof-of-work (SHA512/256).'
+website: 'https://radiantblockchain.org/'
+repository: 'https://github.com/RadiantBlockchain/electron-radiant'
+keywords:
+  - Decentralized
+  - RADIANT
+  - P2P Network
+  - Cryptocurrency
+  - RXD
+license: MIT
+category: 'Productivity'
+screenshots:
+  - imageUrl: 'https://github.com/RadiantBlockchain/electron-radiant/blob/master/icons/electron-radiant.png'
