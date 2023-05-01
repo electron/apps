@@ -1,6 +1,6 @@
 name: Radiant
 description:
-  'Radiant is a peer-to-peer digital asset system that enables direct exchange of value without going through a central party.'
+  'The Radiant network is a peer-to-peer digital asset system that enables direct exchange of value without going through a central party.'
 website: 'https://radiantblockchain.org/'
 repository: 'https://github.com/RadiantBlockchain/electron-radiant'
 keywords:
