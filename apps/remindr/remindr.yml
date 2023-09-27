@@ -1,7 +1,5 @@
 name: Remindr
-description:
-  'Desktop app to help you keep track of what you need to get done. Free and
-  open-source.'
+description: 'Desktop app to help you keep track of what you need to get done.'
 website: 'https://davidrios.studio'
 repository: 'https://github.com/MrDavidRios/remindr_releases'
 keywords:
@@ -9,7 +7,6 @@ keywords:
   - productivity
   - task manager
   - todo manager
-  - open source
   - reminders
   - lists
 category: 'Productivity'

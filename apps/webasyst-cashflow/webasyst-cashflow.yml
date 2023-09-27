@@ -1,0 +1,28 @@
+name: 'Webasyst Cash Flow'
+description: 'Cash flow management and forecasting for small businesses and teams.'
+website: 'https://www.webasyst.com/store/app/cash/'
+category: 'Finance'
+keywords:
+  - finance
+  - accounting
+  - management
+  - cash
+  - cashflow
+  - money
+  - 'cash flow'
+  - bookkepeening
+  - budget
+  - chart
+  - graph
+locales:
+  - en-US
+  - ru-RU
+screenshots:
+  - imageUrl: 'https://1312.io/wa-data/public/site/img-external/electron-webasyst-cashflow-01.png'
+    caption: 'Login screen'
+  - imageUrl: 'https://1312.io/wa-data/public/site/img-external/electron-webasyst-cashflow-02.png'
+    caption: 'Cash flow chart'
+  - imageUrl: 'https://1312.io/wa-data/public/site/img-external/electron-webasyst-cashflow-03.png'
+    caption: 'Add transaction dialog'
+  - imageUrl: 'https://1312.io/wa-data/public/site/img-external/electron-webasyst-cashflow-04.png'
+    caption: 'Transaction list'

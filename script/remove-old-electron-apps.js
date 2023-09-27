@@ -3,7 +3,9 @@
 const fs = require('fs').promises
 const semver = require('semver')
 
-const findOldElectronApps = require('../lib/old-electron')
+const findOldElectronApps = require('../lib/old-electron-apps')
+
+const OLD_ELECTRON_VERSION = '6.0.0'
 
 /* Links can break at any time and it's outside of the repo's control,
    so it doesn't make sense to run this script as part of CI. Instead,
@@ -31,7 +33,7 @@ async function main() {
   ).filter((old) => {
     if (old.result === undefined) return false
     try {
-      return semver.lt(old.result, '4.0.0')
+      return semver.lt(old.result, OLD_ELECTRON_VERSION)
     } catch (err) {
       return false
     }
@@ -40,7 +42,6 @@ async function main() {
   console.log(`Will disable ${oldArrays.length} entries`)
 
   for (const old of oldArrays) {
-    console.timeLog(old.entry.name)
     let data = await fs.readFile(old.entry.fullPath, { encoding: 'utf-8' })
 
     if (!data.endsWith('\n')) {

@@ -1,0 +1,23 @@
+name: SQL Client
+description: Multiplatform SQL client made for developers. Fast, stable and
+  developer friendly.
+screenshots:
+  - imageUrl: 'https://d2lilrqghxogi1.cloudfront.net/assets/electron-apps/1-browse-table2.png'
+    caption: 'Browse, Filter Tables, Inline Edit'
+    imageLink: 'https://sql-client.com/'
+  - imageUrl: 'https://d2lilrqghxogi1.cloudfront.net/assets/electron-apps/2-structure.png'
+    caption: 'Edit Table Structure, Search Collations'
+    imageLink: 'https://sql-client.com/'
+  - imageUrl: 'https://d2lilrqghxogi1.cloudfront.net/assets/electron-apps/3-servers.png'
+    caption: 'Manage Servers, Connect via SSH Tunnel'
+    imageLink: 'https://sql-client.com/'
+  - imageUrl: 'https://d2lilrqghxogi1.cloudfront.net/assets/electron-apps/4-insert-form.png'
+    caption: 'Insert Form, Preview Query'
+    imageLink: 'https://sql-client.com/'
+website: https://sql-client.com/
+category: Developer Tools
+keywords:
+  - sql
+  - mysql
+  - gui
+  - windows

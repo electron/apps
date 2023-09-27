@@ -31,6 +31,3 @@ screenshots:
   - imageUrl: 'https://cleavr.io/images/newsite.png'
     caption: 'Quickly spin up a server for your site'
     imageLink: 'https://cleavr.io'
-  - imageUrl: 'https://cleavr.io/images/slide-deployment.png'
-    caption: 'Deploy your web apps'
-    imageLink: 'https://cleavr.io'

@@ -5,7 +5,7 @@ description:
   screen.'
 website: 'https://mugen.karaokes.moe/en'
 license: MIT
-repository: 'https://lab.shelter.moe/karaokemugen/karaokemugen-app'
+repository: 'https://gitlab.com/karaokemugen/karaokemugen-app'
 screenshots:
   - imageUrl: 'https://mugen.karaokes.moe/images/presentation.png'
     imageLink: 'https://mugen.karaokes.moe/en'
