@@ -1,13 +1,13 @@
 name: 'monolith code'
-description: Minimalistic code editor.
-website: 'https://haeri.github.io/MonolithCode2/'
+description: minimalistic but powerful code editor.
+website: 'https://haeri.github.io/monolith-code/'
 category: 'Developer Tools'
-repository: 'https://github.com/Haeri/MonolithCode2'
+repository: 'https://github.com/Haeri/monolith-code'
 keywords:
   - code
   - editor
   - minimalistic
 license: MIT
 screenshots:
-  - imageUrl: 'https://github.com/Haeri/MonolithCode2/raw/master/docs/res/img/screenshot.png'
+  - imageUrl: 'https://github.com/Haeri/monolith-code/raw/master/docs/res/img/screenshot.png'
     caption: 'monolith code screenshoot'
