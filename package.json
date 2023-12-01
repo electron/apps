@@ -70,7 +70,7 @@
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^3.0.2",
     "semver": "^7.3.7",
-    "sharp": "^0.30.4",
+    "sharp": "^0.32.6",
     "sinon": "^14.0.0",
     "slugg": "^1.2.1",
     "tinycolor2": "^1.4.2",
