@@ -1,0 +1,25 @@
+name: Ezra Bible App
+description: Modern Bible app for topical study.
+website: https://ezrabibleapp.net
+category: Education
+repository: https://github.com/ezra-bible-app/ezra-bible-app
+keywords:
+  - bible
+  - bible-study
+  - bible-verse
+  - education
+locales:
+  - de
+  - en
+  - es
+  - fr
+  - nl
+  - pt-BR
+  - ro
+  - ru
+  - sk
+  - uk 
+license: GPL-2.0
+screenshots:
+  -
+     imageUrl: 'https://raw.githubusercontent.com/ezra-bible-app/ezrabibleapp.net/master/assets/screenshots/ezra_bible_app_1.8.0_scaled_down.png'
