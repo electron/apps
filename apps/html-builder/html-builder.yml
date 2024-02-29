@@ -1,6 +1,5 @@
 name: HTML Builder
-description:
-  Effortlessly compile HTML projects into desktop apps.
+description: Effortlessly compile HTML projects into desktop apps.
 website: 'https://dartfling.vercel.app/product?pid=9'
 repository: 'https://github.com/yikuansun/html-builder'
 license: MIT

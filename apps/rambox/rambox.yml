@@ -1,6 +1,8 @@
 name: Rambox
 description:
-  'Workspace organizer that allows you to unify as many applications as you want, all in one place. It is perfect for those who care about productivity while working with many business and personal apps.'
+  'Workspace organizer that allows you to unify as many applications as you
+  want, all in one place. It is perfect for those who care about productivity
+  while working with many business and personal apps.'
 website: 'https://rambox.app'
 keywords:
   - productivity
@@ -19,12 +21,6 @@ keywords:
   - tweetdeck
 category: Productivity
 screenshots:
-  - {
-      imageUrl: 'https://rambox.app/img/download_windows.png',
-    }
-  - {
-      imageUrl: 'https://rambox.app/img/download_macos.png',
-    }
-  - {
-      imageUrl: 'https://rambox.app/img/download_linux.png',
-    }
+  - { imageUrl: 'https://rambox.app/img/download_windows.png' }
+  - { imageUrl: 'https://rambox.app/img/download_macos.png' }
+  - { imageUrl: 'https://rambox.app/img/download_linux.png' }

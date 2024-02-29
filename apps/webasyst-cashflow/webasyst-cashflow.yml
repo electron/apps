@@ -1,5 +1,6 @@
 name: 'Webasyst Cash Flow'
-description: 'Cash flow management and forecasting for small businesses and teams.'
+description:
+  'Cash flow management and forecasting for small businesses and teams.'
 website: 'https://www.webasyst.com/store/app/cash/'
 category: 'Finance'
 keywords:
