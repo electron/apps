@@ -1,10 +1,8 @@
-name: "Docker Desktop"
-description: "The fastest way to containerize applications"
-website: "https://www.docker.com/products/docker-desktop/"
+name: 'Docker Desktop'
+description: 'The fastest way to containerize applications.'
+website: 'https://www.docker.com/products/docker-desktop/'
 homebrewCaskName: docker
 license: Proprietary
 keywords:
   - docker
-category: "Developer Tools"
-screenshots:
-  - imageUrl: "https://www.docker.com/wp-content/uploads/2023/08/docker-desktop-hero-v2.svg"
+category: 'Developer Tools'
