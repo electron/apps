@@ -10,6 +10,5 @@ keywords:
 category: Utilities
 license: MIT
 screenshots:
-  - 
-    imageUrl: 'https://browserosaurus.com/screenshot.jpg'
+  - imageUrl: 'https://browserosaurus.com/screenshot.jpg'
     caption: 'Clicking a link shows the Browserosaurus picker.'
