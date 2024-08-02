@@ -1,0 +1,9 @@
+name: OpenVPN Connect
+description: Secure access and network connectivity reimagined.
+website: https://openvpn.net/client/
+category: Utilities
+keywords:
+  - vpn
+  - openvpn
+  - networking
+license: Proprietary
