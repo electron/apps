@@ -1,0 +1,25 @@
+name: Poe
+description: 'Distraction-free writing app, built by writers for writers.'
+website: https://getpoe.com
+category: Productivity
+keywords:
+  - poe
+  - poe-writer
+  - focus
+  - writing
+  - book
+  - author
+  - write
+  - editor
+  - novel
+  - 'distraction free writing'
+  - markdown
+  - win
+  - mac
+  - linux
+  - notepad
+repository: 'https://github.com/roryok/poe-auto-updater'
+snapcraftName: 'poe-writer'
+screenshots:
+  - imageUrl: 'https://getpoe.com/images/app-hero.png'
+    caption: 'Poe'
