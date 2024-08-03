@@ -1,0 +1,12 @@
+name: Musicly
+description: Simple and elegant open-source music player.
+website: https://m7kra.github.io/Musicly/
+category: Music
+repository: https://github.com/m7kra/Musicly
+keywords:
+  - music player
+  - music
+  - simple
+  - open-source
+  - elegant
+license: MIT
