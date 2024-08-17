@@ -1,0 +1,18 @@
+name: Revisionary
+description:
+  'A minimalist grammar checker (and word processor) that displays suggestions one screen-at-a-time.'
+website: 'https://revisionary.xyz'
+repository: 'https://github.com/InternetProducts/Revisionary',
+snapcraftName: 'revisionary',
+screenshots:
+  - imageUrl: 'https://revisionary.xyz/assets/img/screenshots/revisionary-editor-screenshot.png'
+    caption: 'Revisionary Editor screen'
+  - imageUrl: 'https://revisionary.xyz/assets/img/screenshots/revisionary-auditor-screenshot.png'
+    caption: 'Revisionary Auditor screen'
+keywords:
+  - grammar
+  - spelling
+  - markdown
+  - html
+  - text
+category: Productivity
