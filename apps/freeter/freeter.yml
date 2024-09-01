@@ -1,6 +1,7 @@
 name: Freeter
 description: 'The smartest way to work on your projects'
 website: 'https://freeter.io'
+repository: 'https://github.com/FreeterApp/Freeter'
 keywords:
   - productivity
   - organizer
