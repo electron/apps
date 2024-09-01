@@ -1,0 +1,12 @@
+name: 'Webasyst X'
+description: 'Boilerplate desktop application with Webasyst ID authorization and API access on board. Allows to easily create desktop apps for any Webasyst API-enabled cloud apps.'
+website: 'https://www.webasyst.com'
+repository: 'https://github.com/1312inc/Webasyst-X-Electron'
+license: 'MIT'
+category: 'Developer Tools'
+locales:
+  - en-US
+  - ru-RU
+screenshots:
+  - imageUrl: 'https://1312.io/wa-data/public/site/img-external/electron-webasyst-x-01.png'
+    caption: 'Login screen'
