@@ -12,10 +12,3 @@ locales:
   - en
   - ja-JP
 category: 'Photo & Video'
-screenshots:
-  - {
-      imageUrl: 'https://user-images.githubusercontent.com/52094761/86218179-679f6800-bbbb-11ea-97b0-95dd1482b2ba.png',
-    }
-  - {
-      imageUrl: 'https://user-images.githubusercontent.com/52094761/86218257-7ede5580-bbbb-11ea-8df1-1f000f5e3716.png',
-    }

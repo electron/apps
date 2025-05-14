@@ -4,15 +4,3 @@ description:
 website: https://frontapp.com/
 category: Productivity
 youtube_video_url: https://www.youtube.com/watch?v=AkY7_beL1FU
-screenshots:
-  - imageUrl: 'https://frontapp.com/extra/electron-screenshots/1%20-%20Front%20splash.png'
-  - imageUrl: 'https://frontapp.com/extra/electron-screenshots/2%20-%20Collaborative%20email.png'
-    caption: 'Collaborative email'
-  - imageUrl: 'https://frontapp.com/extra/electron-screenshots/3%20-%20Shared%20draft%20editing.png'
-    caption: 'Shared draft editing'
-  - imageUrl: 'https://frontapp.com/extra/electron-screenshots/4%20-%20Snooze%20for%20later.png'
-    caption: 'Snooze for later'
-  - imageUrl: 'https://frontapp.com/extra/electron-screenshots/5%20-%20Rule%20automations.png'
-    caption: 'Rule automations'
-  - imageUrl: 'https://frontapp.com/extra/electron-screenshots/6%20-%20Internal%20discussions.png'
-    caption: 'Internal discussions'

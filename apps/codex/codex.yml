@@ -14,7 +14,3 @@ keywords:
 license: 'CC BY-NC 4.0'
 goodColorOnWhite: '#BE4D07'
 goodColorOnBlack: '#FF8C4A'
-screenshots:
-  - imageUrl: 'https://codexnotes.com/img/main2.png'
-  - imageUrl: 'https://codexnotes.com/img/darkmode2.png'
-  - imageUrl: 'https://codexnotes.com/img/sql2.png'

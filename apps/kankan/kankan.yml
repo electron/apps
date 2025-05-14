@@ -9,8 +9,3 @@ locales:
   - zh-CN
   - en
 license: 'GPL'
-screenshots:
-  - imageUrl: 'https://github.com/newham/kankan/raw/master/cap_1.png'
-    caption: 'Light Mode'
-  - imageUrl: 'https://github.com/newham/kankan/raw/master/cap_2.png'
-    caption: 'Dark Mode'

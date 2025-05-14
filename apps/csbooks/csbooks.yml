@@ -16,8 +16,3 @@ keywords:
   - "'audio books'"
 license: Proprietary
 category: Books
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/hero.png'
-  - imageUrl: 'https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/dark-mode.png'
-  - imageUrl: 'https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/audio-books.png'
-  - imageUrl: 'https://raw.githubusercontent.com/caesiumstudio/csBooks-updates/master/assets/screenshots/themes.png'

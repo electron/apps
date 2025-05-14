@@ -10,12 +10,3 @@ keywords:
   - file-management
   - file-aggregation
 license: MIT
-screenshots:
-  - {
-      imageUrl: 'https://i.imgur.com/XbhWo01.png',
-      caption: 'Mr.Dclutterer main page',
-    }
-  - {
-      imageUrl: 'https://i.imgur.com/gP98Jyi.png',
-      caption: 'Mr.Dclutterer settings',
-    }

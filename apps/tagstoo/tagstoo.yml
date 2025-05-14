@@ -22,18 +22,3 @@ locales:
   - fr-FR
   - es-ES
 
-screenshots:
-  - imageUrl: 'https://tagstoo.sourceforge.io/img/01-b-Specific_Searches.png'
-    caption: 'Specific Searches'
-
-  - imageUrl: 'https://tagstoo.sourceforge.io/img/02-e-Various_tag_Shapes_to_select.png'
-    caption: 'Various tag Shapes to select'
-
-  - imageUrl: 'https://tagstoo.sourceforge.io/img/02-a-Video_Previews.png'
-    caption: 'Video previews'
-
-  - imageUrl: 'https://tagstoo.sourceforge.io/img/02-d-Grey_and_Color_modes.png'
-    caption: 'Interface in Grey'
-
-  - imageUrl: 'https://tagstoo.sourceforge.io/img/02-b-Epub_Previews.png'
-    caption: 'Epub previews'

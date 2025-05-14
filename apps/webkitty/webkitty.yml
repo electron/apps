@@ -13,13 +13,3 @@ keywords:
   - 'Text Editor'
   - 'Web Development'
 category: 'Developer Tools'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/yikuansun/webkitty/master/screenshots/Screen%20Shot%202022-04-01%20at%204.40.07%20PM.png'
-    caption: 'Hello World on MacOS'
-    imageLink: 'https://github.com/yikuansun/webkitty/blob/master/screenshots/Screen%20Shot%202022-04-01%20at%204.40.07%20PM.png'
-  - imageUrl: 'https://raw.githubusercontent.com/yikuansun/webkitty/master/screenshots/yikuansun.PNG'
-    caption: 'Editing my portfolio site'
-    imageLink: 'https://github.com/yikuansun/webkitty/blob/master/screenshots/yikuansun.PNG'
-  - imageUrl: 'https://github.com/yikuansun/webkitty/blob/master/screenshots/Screen%20Shot%202022-05-12%20at%209.22.25%20PM.png?raw=true'
-    caption: 'HTML Template: Ethereal by HTML5 UP'
-    imageLink: 'https://github.com/yikuansun/webkitty/blob/master/screenshots/Screen%20Shot%202022-05-12%20at%209.22.25%20PM.png?raw=true'

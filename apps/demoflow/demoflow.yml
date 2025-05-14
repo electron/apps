@@ -11,13 +11,3 @@ keywords:
   - remote
   - teams
 youtube_video_url: 'https://www.youtube.com/watch?v=YzCaUmp6AwE'
-screenshots:
-  - imageUrl: 'https://demoflow-public.s3.us-east-2.amazonaws.com/images/marketing/DemoflowPresentationView.png'
-    caption: 'Presentation View'
-    imageLink: 'https://demoflow.io'
-  - imageUrl: 'https://demoflow-public.s3.us-east-2.amazonaws.com/images/marketing/DemoflowGDriveDemoUsage.png'
-    caption: 'Asset Management'
-    imageLink: 'https://demoflow.io'
-  - imageUrl: 'https://demoflow-public.s3.us-east-2.amazonaws.com/images/marketing/DemoflowSalesforceActivitySync.png'
-    caption: 'Salesforce Sync'
-    imageLink: 'https://demoflow.io'

@@ -13,16 +13,3 @@ npmPackageName: timeseriesadmin
 category: Developer Tools
 goodColorOnWhite: '#000000'
 goodColorOnBlack: '#02e5ff'
-screenshots:
-  - imageUrl: 'https://timeseriesadmin.github.io/images-mini/timeseriesadmin--browse-results.png'
-    caption: 'Influx query results easily browsable'
-  - imageUrl: 'https://timeseriesadmin.github.io/images-mini/timeseriesadmin--time-format.png'
-    caption: 'Selectable time format'
-  - imageUrl: 'https://timeseriesadmin.github.io/images-mini/timeseriesadmin--panel-connect.png'
-    caption: 'Saved connections list'
-  - imageUrl: 'https://timeseriesadmin.github.io/images-mini/timeseriesadmin--panel-explorer.png'
-    caption: 'Explorer panel'
-  - imageUrl: 'https://timeseriesadmin.github.io/images-mini/timeseriesadmin--panel-history.png'
-    caption: 'Query history panel'
-  - imageUrl: 'https://timeseriesadmin.github.io/images-mini/timeseriesadmin--understand-errors.png'
-    caption: 'Detailed error messages'

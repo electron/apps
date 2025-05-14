@@ -10,8 +10,3 @@ keywords:
   - 'web archive collections'
   - 'personal web archiving'
   - 'high fidelity preservation'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/N0taN3rd/wail/wail-electron/images/wailHome.png'
-    caption: 'Web Archive Collections Screen'
-    imageLink: 'https://github.com/N0taN3rd/wail'
-license: GPL-3.0

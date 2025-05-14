@@ -9,8 +9,3 @@ keywords:
   - kubectl
   - kubernetes-dashboard
 license: MPL-2.0
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/prsh9/KubeCtl-Dashboard/master/docs/images/Preview_1.png'
-  - imageUrl: 'https://raw.githubusercontent.com/prsh9/KubeCtl-Dashboard/master/docs/images/Preview_2.png'
-  - imageUrl: 'https://raw.githubusercontent.com/prsh9/KubeCtl-Dashboard/master/docs/images/Preview_3.png'
-  - imageUrl: 'https://raw.githubusercontent.com/prsh9/KubeCtl-Dashboard/master/docs/images/Preview_4.png'

@@ -24,14 +24,3 @@ keywords:
 license: GPL-3.0-or-later
 snapcraftName: Pendulums
 youtube_video_url: https://youtu.be/74dkDmcz1OI
-screenshots:
-  - imageUrl: 'https://pendulums.io/img/features/projects.png'
-    caption: 'Unlimited Projects'
-  - imageUrl: 'https://pendulums.io/img/features/team-members.png'
-    caption: 'Unlimited Team Members'
-  - imageUrl: 'https://pendulums.io/img/features/chart.png'
-    caption: 'User Friendly Charts And Reports'
-  - imageUrl: 'https://pendulums.io/img/features/notes.png'
-    caption: 'Unlimited Notes'
-  - imageUrl: 'https://pendulums.io/img/features/rest-time.png'
-    caption: 'We All Want To Live Healthy'

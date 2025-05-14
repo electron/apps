@@ -5,5 +5,3 @@ repository: 'https://github.com/albertosantini/argo'
 keywords:
   - trading
 category: Finance
-screenshots:
-  - { imageUrl: 'https://argo.js.org/images/screenshot-v5.jpg' }

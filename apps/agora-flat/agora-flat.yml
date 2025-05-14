@@ -19,10 +19,3 @@ locales:
   - en-US
   - zh-CN
 license: MIT
-screenshots:
-  - imageUrl: 'https://flat.whiteboard.agora.io/en/image/smallclass.png'
-    caption: 'Small Class'
-  - imageUrl: 'https://flat.whiteboard.agora.io/en/image/onetoone.png'
-    caption: 'One On One'
-  - imageUrl: 'https://flat.whiteboard.agora.io/en/image/bigclass.png'
-    caption: 'Big Class'

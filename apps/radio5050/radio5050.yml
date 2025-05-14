@@ -12,9 +12,4 @@ keywords:
   - fip
 license: PRIVATE
 category: Music
-screenshots:
-  - imageUrl: 'https://media.giphy.com/media/C8KAlv9PZJBltbjNo9/giphy.gif'
-    caption: 'Screenshot of the app version 1.0.2'
-    imageLink: 'https://www.radio5050.com/downloads'
-locales:
   - fr-FR

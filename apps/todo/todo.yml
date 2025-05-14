@@ -12,10 +12,3 @@ keywords:
   - react
   - webapp
 license: gpl-3.0
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/luapp/ToDo/main/images/desktop-electron-screenshot%2001.png'
-    caption: 'Authentification page'
-  - imageUrl: 'https://raw.githubusercontent.com/luapp/ToDo/main/images/desktop-electron-screenshot%2002.png'
-    caption: 'Home page (light mode)'
-  - imageUrl: 'https://raw.githubusercontent.com/luapp/ToDo/main/images/desktop-electron-screenshot%2003.png'
-    caption: 'Home page (dark mode)'

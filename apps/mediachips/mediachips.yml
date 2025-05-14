@@ -15,19 +15,3 @@ keywords:
   - video
   - videos
 license: GPL-3.0
-screenshots:
-  - {
-      imageUrl: 'https://mediachips.app/wp-content/uploads/2021/08/videos_dark.jpg',
-      caption: Videos,
-      imageLink: 'https://mediachips.app/',
-    }
-  - {
-      imageUrl: 'https://mediachips.app/wp-content/uploads/2021/08/videos_player_dark.jpg',
-      caption: 'Video Player',
-      imageLink: 'https://mediachips.app/',
-    }
-  - {
-      imageUrl: 'https://mediachips.app/wp-content/uploads/2021/08/meta_page.jpg',
-      caption: Metadata,
-      imageLink: 'https://mediachips.app/',
-    }

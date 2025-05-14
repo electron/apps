@@ -21,13 +21,3 @@ keywords:
   - lambda
   - commandeer
 license: Private
-screenshots:
-  - imageUrl: 'https://images.commandeer.be/_screenshots/dynamo-dashboard.png'
-    caption: 'View Your Data'
-    imageLink: 'https://getcommandeer.com'
-  - imageUrl: 'https://images.commandeer.be/_screenshots/ansible-runner.png'
-    caption: 'Build Your IAC'
-    imageLink: 'https://getcommandeer.com'
-  - imageUrl: 'https://images.commandeer.be/_screenshots/system-diagrams.png'
-    caption: 'Test Your Plumbing'
-    imageLink: 'https://getcommandeer.com'

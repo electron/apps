@@ -8,6 +8,3 @@ repository: 'https://github.com/davidaf3/csgo-tracker'
 keywords:
   - CSGO
 license: 'MIT'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/davidaf3/csgo-tracker/master/screenshot1.png'
-  - imageUrl: 'https://raw.githubusercontent.com/davidaf3/csgo-tracker/master/screenshot2.png'

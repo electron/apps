@@ -18,7 +18,3 @@ keywords:
   - r3
   - network
 license: Apache
-screenshots:
-  - imageUrl: 'https://docs.corda.net/docs/corda-os/4.5/resources/node-explorer/node-explorer-map.png'
-  - imageUrl: 'https://docs.corda.net/docs/corda-os/4.5/resources/node-explorer/node-explorer-transactions.png'
-  - imageUrl: 'https://docs.corda.net/docs/corda-os/4.5/resources/node-explorer/node-explorer-vault.png'

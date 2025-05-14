@@ -13,7 +13,3 @@ keywords:
   - postgres
   - developers
 license: MIT
-screenshots:
-  - imageUrl: 'https://camo.githubusercontent.com/96adc4bc74ebf4f918233c1cc764bee10e2c2371/68747470733a2f2f692e696d6775722e636f6d2f436f744e6934472e706e67'
-  - imageUrl: 'https://camo.githubusercontent.com/4ce0f68ef2c302a7ec269c3b37b72e6e0d92381a/68747470733a2f2f692e696d6775722e636f6d2f7970736f776c532e706e67'
-  - imageUrl: 'https://camo.githubusercontent.com/a24dc11434fd60d5a1dcfb8fed80ec09ddd3c6ec/68747470733a2f2f692e696d6775722e636f6d2f3032446f597a312e706e67'

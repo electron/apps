@@ -10,8 +10,3 @@ keywords:
   - experimental
   - 'full stack'
 license: MIT
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/supunlakmal/thismypc/master/doc/gifAnimations/web_site_system.gif'
-    caption: 'Web Site System'
-  - imageUrl: 'https://raw.githubusercontent.com/supunlakmal/thismypc/master/doc/gifAnimations/breadcrumb.gif'
-    caption: 'Breadcrumb'

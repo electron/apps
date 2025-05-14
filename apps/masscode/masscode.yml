@@ -10,7 +10,3 @@ keywords:
   - code
 license: AGPLv3
 category: Productivity
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/antonreshetov/massCode/master/preview.png',
-    }

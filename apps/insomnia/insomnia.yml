@@ -11,5 +11,3 @@ keywords:
 license: MIT
 category: 'Developer Tools'
 homebrewCaskName: insomnia
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/getinsomnia/insomnia/master/screenshots/main.png'

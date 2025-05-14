@@ -8,8 +8,3 @@ keywords:
   - kit
   - php
 category: 'Developer Tools'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/tmdh/laravel-kit/master/screenshots/artisan-dark.jpg'
-  - imageUrl: 'https://raw.githubusercontent.com/tmdh/laravel-kit/master/screenshots/tinker-dark.jpg'
-  - imageUrl: 'https://raw.githubusercontent.com/tmdh/laravel-kit/master/screenshots/artisan-light.jpg'
-  - imageUrl: 'https://raw.githubusercontent.com/tmdh/laravel-kit/master/screenshots/tinker-light.jpg'

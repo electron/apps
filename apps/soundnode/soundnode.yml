@@ -8,7 +8,3 @@ keywords:
   - soundcloud
 license: 'GNU GENERAL PUBLIC LICENSE Version 3'
 category: Music
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/Soundnode/soundnode-app/master/Soundnode-app.png',
-    }

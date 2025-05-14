@@ -13,7 +13,3 @@ keywords:
   - mark
   - center
 license: LGPLv3
-screenshots:
-  - imageUrl: 'https://github.com/lacymorrow/crossover/raw/master/src/static/demo.png'
-    caption: 'Crossover screenshots (lacymorrow.github.io/CrossOver)'
-    imageLink: 'https://lacymorrow.github.io/crossover/'

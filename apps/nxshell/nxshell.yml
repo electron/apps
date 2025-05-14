@@ -11,6 +11,3 @@ keywords:
   - terminal shell
   - powershell
   - nxshell
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/nxshell/nxshell/main/screenshots/ssh-terminal.png'
-    caption: 'Terminal view'

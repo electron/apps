@@ -10,7 +10,3 @@ keywords:
   - selfhosted
 license: GPL-3.0
 category: Music
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/IrosTheBeggar/mStream/master/docs/designs/mstreamv5.png',
-    }

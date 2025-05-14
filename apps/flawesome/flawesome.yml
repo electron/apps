@@ -17,10 +17,3 @@ keywords:
 locales:
   - en-US
 license: MIT
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/ashishBharadwaj/flawesome/master/assets/ScreenShotsTab1.png'
-    caption: 'Rich text editor (Notepad)'
-  - imageUrl: 'https://raw.githubusercontent.com/ashishBharadwaj/flawesome/master/assets/ScreenShotTab2.png'
-    caption: 'Sticky Notes'
-  - imageUrl: 'https://raw.githubusercontent.com/ashishBharadwaj/flawesome/master/assets/ScreenShotTab3.png'
-    caption: 'Todo List'

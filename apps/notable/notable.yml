@@ -11,12 +11,3 @@ keywords:
   - mac
   - windows
 category: Productivity
-screenshots:
-  - imageUrl: 'https://img.notable.app/screenshot-main.png'
-    caption: 'Notable'
-  - imageUrl: 'https://img.notable.app/screenshot-dark.png'
-    caption: 'Dark Theme'
-  - imageUrl: 'https://img.notable.app/screenshot-editor.png'
-    caption: 'Editor'
-  - imageUrl: 'https://img.notable.app/screenshot-zen.png'
-    caption: 'Multi-Note Editor'

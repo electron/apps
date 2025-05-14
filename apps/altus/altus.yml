@@ -9,10 +9,3 @@ keywords:
   - themes
 license: GPLv3
 category: 'Social Networking'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-First-Start.png'
-    caption: 'First Start'
-  - imageUrl: 'https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-Default-Theme.png'
-    caption: 'Default Theme'
-  - imageUrl: 'https://raw.githubusercontent.com/ShadyThGod/altus/master/img/Altus-Dark-Theme.png'
-    caption: 'Dark Theme'

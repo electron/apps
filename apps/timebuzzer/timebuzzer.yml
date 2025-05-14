@@ -20,10 +20,3 @@ keywords:
 locales:
   - en-US
   - de-DE
-screenshots:
-  - imageUrl: 'https://timebuzzer.com/wp-content/uploads/timeBuzzer-desktop-app-light.png'
-    caption: 'timeBuzzer Desktop 3.0 - time tracking app - light mode'
-    imageLink: 'https://timebuzzer.com/'
-  - imageUrl: 'https://timebuzzer.com/wp-content/uploads/timeBuzzer-desktop-app-black.png'
-    caption: 'timeBuzzer Desktop 3.0 - time tracking app - black mode'
-    imageLink: 'https://timebuzzer.com/'

@@ -11,11 +11,3 @@ keywords:
   - networking
   - social
 license: 'https://github.com/zulip/zulip-desktop/blob/master/LICENSE'
-screenshots:
-  - imageUrl: 'https://i.imgur.com/m8o0mjR.png'
-    caption: 'Zulip Desktop Homescreen (Day Mode)'
-    imageLink: 'https://github.com/zulip/zulip-desktop'
-
-  - imageUrl: 'https://i.imgur.com/oYTlKNk.png'
-    caption: 'Zulip Desktop Homescreen (Night Mode)'
-    imageLink: 'https://github.com/zulip/zulip-desktop'

@@ -13,7 +13,3 @@ keywords:
   - diagram
   - 'business process'
 license: MIT
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/camunda/camunda-modeler/master/docs/screenshot.png'
-    caption: 'BPMN Editor with properties panel'
-    imageLink: 'https://github.com/camunda/camunda-modeler'

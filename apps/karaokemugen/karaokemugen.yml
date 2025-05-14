@@ -6,14 +6,6 @@ description:
 website: 'https://mugen.karaokes.moe/en'
 license: MIT
 repository: 'https://gitlab.com/karaokemugen/karaokemugen-app'
-screenshots:
-  - imageUrl: 'https://mugen.karaokes.moe/images/presentation.png'
-    imageLink: 'https://mugen.karaokes.moe/en'
-  - imageUrl: 'https://mugen.karaokes.moe/images/features/admin.png'
-    imageLink: 'https://mugen.karaokes.moe/en'
-  - imageUrl: 'https://mugen.karaokes.moe/images/features/options.png'
-    imageLink: 'https://mugen.karaokes.moe/en'
-keywords:
   - karaoke
   - video
   - mpv

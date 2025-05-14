@@ -10,10 +10,3 @@ keywords:
   - privacy
   - 'open source'
 license: MIT
-screenshots:
-  - imageUrl: 'https://exifcleaner.com/images/batchprocessing.png'
-    caption: 'Multi-Core Batch Processing'
-  - imageUrl: 'https://exifcleaner.com/images/darkmode.png'
-    caption: 'Dark Mode'
-  - imageUrl: 'https://exifcleaner.com/images/screenshot.png'
-    caption: 'Drag and Drop'

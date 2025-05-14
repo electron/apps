@@ -15,12 +15,3 @@ keywords:
   - regex
   - OCR
 license: MIT
-screenshots:
-  - imageUrl: 'https://github.com/amwebexpert/etoolbox/raw/main/public/screen-captures/JSONFormatter-demo.gif'
-    caption: 'JSON Formatter'
-  - imageUrl: 'https://github.com/amwebexpert/etoolbox/raw/main/public/screen-captures/ImageEncoder-demo.gif'
-    caption: 'Base64 Image Encoder'
-  - imageUrl: 'https://github.com/amwebexpert/etoolbox/raw/main/public/screen-captures/RegexTester-demo.gif'
-    caption: 'Regular Expression Tester'
-  - imageUrl: 'https://github.com/amwebexpert/etoolbox/raw/main/public/screen-captures/ImageOCR-demo.gif'
-    caption: 'Image OCR (extract text from image)'

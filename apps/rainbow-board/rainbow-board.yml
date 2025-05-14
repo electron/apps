@@ -7,10 +7,3 @@ snapcraftName: rainbow-board
 keywords:
   - whiteboard
 license: MIT
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-1.png'
-  - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-2.png'
-  - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-3.png'
-  - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-4.png'
-  - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-5.png'
-  - imageUrl: 'https://raw.githubusercontent.com/HarshKhandeparkar/rainbow-board/master/img/screenshot-6.png'

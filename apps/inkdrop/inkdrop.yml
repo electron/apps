@@ -10,13 +10,3 @@ keywords:
 category: Productivity
 snapcraftName: inkdrop
 youtube_video_url: https://www.youtube.com/watch?v=O_hyFYdkxkQ
-screenshots:
-  - imageUrl: 'https://site-cdn.inkdrop.app/site/screenshots/desktop-v5/ss-macos-01.png'
-    caption: 'macOS light theme'
-    imageLink: 'https://www.inkdrop.app/'
-  - imageUrl: 'https://site-cdn.inkdrop.app/site/screenshots/desktop-v5/ss-macos-02.png'
-    caption: 'macOS dark theme'
-    imageLink: 'https://www.inkdrop.app/'
-  - imageUrl: 'https://site-cdn.inkdrop.app/site/screenshots/desktop-v5/ss-macos-04.png'
-    caption: 'Markdown plugins'
-    imageLink: 'https://www.inkdrop.app/'

@@ -4,11 +4,3 @@ website: 'https://getstation.com/'
 category: Productivity
 keywords:
   - browser
-screenshots:
-  - imageUrl: 'https://station-website.cdn.prismic.io/station-website/99fc8818d14bcebdebadaa49765c6ac4447172f4_feature---dock.png'
-    caption: 'Keep your work neatly organized with the smart dock'
-  - imageUrl: 'https://station-website.cdn.prismic.io/station-website/4c9ab1f3791c1b78b6b7ea358230e1a4df4731a8_feature---quick-switch.png'
-    caption: 'Become a multitasking beast with quick switch'
-  - imageUrl: 'https://station-website.cdn.prismic.io/station-website/0a48b3224588e853be417fcae51e66fd8adc80c4_feature---focus-mode.png'
-    caption:
-      'Station has been designed as a work only, distraction-free platform'

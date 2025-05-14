@@ -12,16 +12,3 @@ keywords:
   - productivity
   - 'productivity tools'
 category: Productivity
-screenshots:
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/light/tockler-timeline.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/light/tockler-settings.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/light/tockler-summary-calendar.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/light/tockler-summary-chart.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/light/tockler-search.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/light/tockler-tray.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/dark/tockler-timeline.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/dark/tockler-settings.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/dark/tockler-summary-calendar.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/dark/tockler-summary-chart.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/dark/tockler-search.png'
-  - imageUrl: 'https://github.com/MayGo/tockler/raw/master/screenshots/dark/tockler-tray.png'

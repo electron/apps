@@ -14,13 +14,3 @@ keywords:
   - encode
   - codec
 category: Productivity
-screenshots:
-  - imageUrl: 'https://compress.ohzi.io/images/promo-1.png'
-    caption: 'Drag a video into the app.'
-    imageLink: 'https://compress.ohzi.io'
-  - imageUrl: 'https://compress.ohzi.io/images/promo-2.png'
-    caption: 'Wait until the compression ends.'
-    imageLink: 'https://compress.ohzi.io'
-  - imageUrl: 'https://compress.ohzi.io/images/promo-3.png'
-    caption: 'Find the compressed video in the same location.'
-    imageLink: 'https://compress.ohzi.io'

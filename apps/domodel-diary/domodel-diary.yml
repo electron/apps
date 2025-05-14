@@ -3,7 +3,3 @@ description: Universal password protected diary application.
 website: 'https://github.com/thoughtsunificator/domodel-diary-electron'
 category: Productivity
 repository: 'https://github.com/thoughtsunificator/domodel-diary-electron'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/thoughtsunificator/domodel-diary-electron/master/screenshot-auth.png'
-  - imageUrl: 'https://raw.githubusercontent.com/thoughtsunificator/domodel-diary-electron/master/screenshot-calendar.png'
-  - imageUrl: 'https://raw.githubusercontent.com/thoughtsunificator/domodel-diary-electron/master/screenshot-editor.png'

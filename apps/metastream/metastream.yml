@@ -14,7 +14,3 @@ keywords:
   - browser
   - p2p
 license: 'MIT'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/samuelmaddock/metastream/master/resources/screenshots/screenshot1.png'
-  - imageUrl: 'https://raw.githubusercontent.com/samuelmaddock/metastream/master/resources/screenshots/screenshot2.png'
-  - imageUrl: 'https://raw.githubusercontent.com/samuelmaddock/metastream/master/resources/screenshots/screenshot3.png'

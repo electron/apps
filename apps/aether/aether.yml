@@ -15,19 +15,3 @@ keywords:
   - peer-to-peer
   - privacy
 license: AGPLv3
-screenshots:
-  - imageUrl: 'https://getaether.net/images/product-images-v2/pi-1.png'
-    caption: 'Aether subs'
-    imageLink: 'https://getaether.net'
-  - imageUrl: 'https://getaether.net/images/product-images-v2/pi-2.png'
-    caption: 'Aether thread'
-    imageLink: 'https://getaether.net'
-  - imageUrl: 'https://getaether.net/images/product-images-v2/pi-3.png'
-    caption: 'Nested thread'
-    imageLink: 'https://getaether.net'
-  - imageUrl: 'https://getaether.net/images/product-images-v2/pi-4.png'
-    caption: 'Threads by popularity'
-    imageLink: 'https://getaether.net'
-  - imageUrl: 'https://getaether.net/images/product-images-v2/pi-5.png'
-    caption: 'Posts by profile'
-    imageLink: 'https://getaether.net'

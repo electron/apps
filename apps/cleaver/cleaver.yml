@@ -27,7 +27,3 @@ keywords:
   - Redis
   - Memcached
   - 'deploy desktop'
-screenshots:
-  - imageUrl: 'https://cleavr.io/images/newsite.png'
-    caption: 'Quickly spin up a server for your site'
-    imageLink: 'https://cleavr.io'

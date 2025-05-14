@@ -8,10 +8,3 @@ keywords:
   - productivity
   - art
 license: MIT
-screenshots:
-  - imageUrl: 'https://github.com/starbrat/refviewer/raw/main/docs/rv_image.png'
-    caption: 'RefViewer in action'
-  - imageUrl: 'https://github.com/starbrat/refviewer/raw/main/docs/rv_settings.png'
-    caption: 'RefViewer settings'
-  - imageUrl: 'https://github.com/starbrat/refviewer/raw/main/docs/rv_home.png'
-    caption: 'RefViewer with no image selected'

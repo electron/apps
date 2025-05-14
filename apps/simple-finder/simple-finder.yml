@@ -9,16 +9,3 @@ keywords:
   - file-explorer
   - file-browser
 license: MIT
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/seniya/electron-finder-normal/main/desc_picture/finder_sample_01.gif'
-    caption: 'Basic Usage'
-    imageLink: 'https://github.com/seniya/electron-finder-normal'
-  - imageUrl: 'https://raw.githubusercontent.com/seniya/electron-finder-normal/main/desc_picture/finder_sample_02.gif'
-    caption: 'Change List Type'
-    imageLink: 'https://github.com/seniya/electron-finder-normal'
-  - imageUrl: 'https://raw.githubusercontent.com/seniya/electron-finder-normal/main/desc_picture/finder_sample_03.gif'
-    caption: 'Favorite Folder'
-    imageLink: 'https://github.com/seniya/electron-finder-normal'
-  - imageUrl: 'https://raw.githubusercontent.com/seniya/electron-finder-normal/main/desc_picture/finder_sample-pic-01.png'
-    caption: 'Get MetaInfo'
-    imageLink: 'https://github.com/seniya/electron-finder-normal'

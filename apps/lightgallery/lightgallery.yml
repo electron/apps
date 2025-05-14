@@ -10,7 +10,3 @@ keywords:
   - gallery
 license: MIT
 category: 'Photo & Video'
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/sachinchoolur/lightgallery-desktop/gh-pages/lightgallery.png',
-    }

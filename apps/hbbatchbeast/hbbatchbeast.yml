@@ -5,10 +5,6 @@ description:
   Can also perform a basic scan for corrupt videos.'
 website: 'https://github.com/HaveAGitGat/HBBatchBeast'
 repository: 'https://github.com/HaveAGitGat/HBBatchBeast'
-screenshots:
-  - imageUrl: 'https://i.imgur.com/XMLxDxs.png'
-    caption: 'Health check example'
-keywords:
   - conversion
   - transcoding
   - videos

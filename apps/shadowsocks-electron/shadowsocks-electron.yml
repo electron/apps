@@ -13,7 +13,3 @@ keywords:
   - shadowsocks-gui
   - shadowsocks-client
 license: MIT
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/nojsja/shadowsocks-electron/7964c3309e137742414eec9b43d3236908a3261b/assets/main.png'
-    caption: 'Main'
-    imageLink: 'https://github.com/nojsja/shadowsocks-electron'

@@ -29,7 +29,3 @@ keywords:
   - mnemonic
   - aragon
 license: GPL-3.0
-screenshots:
-  - imageUrl: 'https://frame.nyc3.cdn.digitaloceanspaces.com/Frame0-3-4.png'
-    caption: 'Frame 0.3.4'
-    imageLink: 'https://frame.sh'

@@ -12,18 +12,4 @@ keywords:
   - desktop
 goodColorOnWhite: '#2e3141'
 goodColorOnBlack: '#ffffff'
-screenshots:
-  - imageUrl: https://feugy.github.io/melodie/images/screenshot-ui-en.png
-    caption: Album library
-    imageLink: https://feugy.github.io/melodie
-  - imageUrl: https://feugy.github.io/melodie/images/screenshot-player-en.png
-    caption: Player controls
-    imageLink: https://feugy.github.io/melodie
-  - imageUrl: https://feugy.github.io/melodie/images/screenshot-artists-en.png
-    caption: Artist library
-    imageLink: https://feugy.github.io/melodie
-  - imageUrl: https://feugy.github.io/melodie/images/screenshot-artist-details-en.png
-    caption: Artist details
-    imageLink: https://feugy.github.io/melodie
-locales:
   - fr-FR

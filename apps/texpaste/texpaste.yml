@@ -10,11 +10,5 @@ keywords:
   - 'clipboard'
 license: 'GPL-3.0'
 category: 'Science & Medicine'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/jonasmusall/texpaste/main/docs/images/ui_preview.png'
-    caption: 'UI preview'
-  - imageUrl: 'https://raw.githubusercontent.com/jonasmusall/texpaste/main/docs/images/live_demo.gif'
-    caption: 'Live demo'
-goodColorOnWhite: '#000000'
 goodColorOnBlack: '#ffffff'
 faintColorOnWhite: 'rgba(0, 0, 0, 0.6)'

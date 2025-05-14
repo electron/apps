@@ -10,10 +10,3 @@ keywords:
   - browser
 category: Productivity
 license: 'Freeware (see https://mongomix.sigma-solutions.fr/license.txt)'
-screenshots:
-  - imageUrl: 'https://mongomix.sigma-solutions.fr/scmain_mac.png'
-    caption: 'Screenshot main screen (MacOS)'
-    imageLink: 'https://mongomix.sigma-solutions.fr'
-  - imageUrl: 'https://mongomix.sigma-solutions.fr/scmodif_pc.png'
-    caption: 'Screenshot editing (Windows 10)'
-    imageLink: 'https://mongomix.sigma-solutions.fr'

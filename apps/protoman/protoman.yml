@@ -7,7 +7,3 @@ keywords:
   - protocol-buffers
   - api-client
 license: MIT
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/spluxx/Protoman/master/assets/req_resp.png'
-    caption: 'Request-Response with protobuf bodies'
-    imageLink: 'https://github.com/spluxx/Protoman'

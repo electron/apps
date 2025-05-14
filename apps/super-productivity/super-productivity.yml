@@ -11,10 +11,3 @@ keywords:
   - productivity
 license: 'MIT'
 category: 'Productivity'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/johannesjo/super-productivity/47fb076b896c826dc5cc717cdbf17986b11009cc/screens/screen_standard.png'
-    caption: 'Daily Planner'
-    imageLink: 'https://super-productivity.com/'
-  - imageUrl: 'https://raw.githubusercontent.com/johannesjo/super-productivity/47fb076b896c826dc5cc717cdbf17986b11009cc/screens/screen_daily-summary.png'
-    caption: 'Daily Summary'
-    imageLink: 'https://super-productivity.com/'

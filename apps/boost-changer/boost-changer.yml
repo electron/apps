@@ -13,10 +13,3 @@ keywords:
   - system
   - battery
 license: MIT
-screenshots:
-  - imageUrl: 'https://user-images.githubusercontent.com/57049550/105500022-9483ab80-5cc2-11eb-88e1-260d326c0ba0.png'
-    caption: 'Dashboard'
-  - imageUrl: 'https://user-images.githubusercontent.com/57049550/105500026-95b4d880-5cc2-11eb-96f9-0ab83e7ed054.png'
-    caption: 'Settings'
-  - imageUrl: 'https://user-images.githubusercontent.com/57049550/105500025-95b4d880-5cc2-11eb-9940-7f97a9344080.png'
-    caption: 'About'

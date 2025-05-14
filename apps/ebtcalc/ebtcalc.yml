@@ -12,16 +12,3 @@ keywords:
   - linux
   - osx
 license: GPL3
-screenshots:
-  - imageUrl: 'https://www.ericbt.com/artwork/ebtcalc_electron/main_screen.png'
-    caption: 'EBTCalc Main Window'
-    imageLink: 'https://www.ericbt.com/ebtcalc_electron'
-  - imageUrl: 'https://www.ericbt.com/artwork/ebtcalc_electron/adding_a_function.png'
-    caption: 'EBTCalc Code Editor'
-    imageLink: 'https://www.ericbt.com/ebtcalc_electron'
-  - imageUrl: 'https://www.ericbt.com/artwork/ebtcalc_electron/graph.png'
-    caption: 'EBTCalc Graph (Function)'
-    imageLink: 'https://www.ericbt.com/ebtcalc_electron'
-  - imageUrl: 'https://www.ericbt.com/artwork/ebtcalc_electron/julia.png'
-    caption: 'EBTCalc Graph (Julia Set)'
-    imageLink: 'https://www.ericbt.com/ebtcalc_electron'

@@ -15,6 +15,3 @@ license: MIT
 npmPackageName: 'f-curator'
 category: Productivity
 youtube_video_url: 'https://youtu.be/VYdzttKU5H0'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/xizon/F-Curator/main/public/assets/images/main/preview.jpg'
-    caption: 'F-Curator Overview'

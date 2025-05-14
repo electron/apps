@@ -18,14 +18,3 @@ category: 'Developer Tools'
 locales:
   - en-US
   - en-GB
-screenshots:
-  - imageUrl: 'https://docs.snipline.io/images/snipline/search-copy.png'
-    caption: 'Searching and copying a snippet'
-    imageLink: 'https://docs.snipline.io/desktop/basics/first-snippet/'
-  - imageUrl: 'https://docs.snipline.io/images/snipline/copy-process.png'
-    caption:
-      'Copying a snippet and updating a parameter while viewing documentation'
-    imageLink: 'https://docs.snipline.io/desktop/basics/dynamic-snippets/'
-  - imageUrl: 'https://docs.snipline.io/images/snipline/multi-choice.png'
-    caption: 'Set predefined options to choose between'
-    imageLink: 'https://docs.snipline.io/desktop/advanced/multi-choice/'
