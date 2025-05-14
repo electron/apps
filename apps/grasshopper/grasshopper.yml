@@ -25,7 +25,4 @@ keywords:
   - keyfile
   - admin
   - gui
-screenshots:
-  - imageUrl: 'https://grasshopper.coding.kiwi/img/client.png'
-goodColorOnWhite: '#162427'
 goodColorOnBlack: '#8fc255'

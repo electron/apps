@@ -13,8 +13,3 @@ license: GPL-3.0
 category: Productivity
 locales:
   - en-US
-screenshots:
-  - imageUrl: https://user-images.githubusercontent.com/10564265/88597069-0fc61680-d02c-11ea-8922-56ab0b05d477.png
-    caption: 'Twitter Interface'
-  - imageUrl: https://user-images.githubusercontent.com/10564265/88597110-25d3d700-d02c-11ea-9671-9fe1c423116d.png
-    caption: 'Reddit Interface'

@@ -13,9 +13,3 @@ keywords:
   - notepad
   - 'focus mode'
 category: Productivity
-screenshots:
-  - imageUrl: 'https://calmlywriter.com/imgs/screen1.png'
-    caption: 'Calmly Writer'
-  - imageUrl: 'https://calmlywriter.com/imgs/screen2.png'
-    caption: 'Dark Mode and Focus Mode'
-homebrewCaskName: 'calmly-writer'

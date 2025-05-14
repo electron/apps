@@ -3,11 +3,6 @@ description: 'Translate 100+ Languages Instantly.'
 website: 'https://translatium.app'
 repository: 'https://github.com/webcatalog/translatium-desktop'
 license: MPL-2.0
-screenshots:
-  - imageUrl: 'https://storage.webcatalog.app/screenshots/translatium/Home+-+Light.png'
-  - imageUrl: 'https://storage.webcatalog.app/screenshots/translatium/Phrasebook+-+Dark.png'
-  - imageUrl: 'https://storage.webcatalog.app/screenshots/translatium/Preferences+-+Light.png'
-keywords:
   - 'google translate'
   - 'material design'
   - 'optical character recognition'

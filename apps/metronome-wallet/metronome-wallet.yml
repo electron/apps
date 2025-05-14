@@ -13,7 +13,3 @@ keywords:
   - erc20
 license: MIT
 
-screenshots:
-  - imageUrl: 'https://metronome.io/dist/images/screen-desktop-wallet-gray-bar@2x.png'
-    caption: 'Metronome Desktop Wallet'
-    imageLink: 'https://metronome.io/wallet/'

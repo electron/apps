@@ -10,12 +10,3 @@ keywords:
   - WebGL
   - Game Development
 license: MIT
-screenshots:
-  - imageUrl: 'https://geppetto.js.org/screenshots/layers.png'
-    caption: 'Create layers from a texture file'
-  - imageUrl: 'https://geppetto.js.org/screenshots/composition.png'
-    caption: 'Combine the layers and add control to your image'
-  - imageUrl: 'https://geppetto.js.org/screenshots/animation.png'
-    caption: 'Use controls to create animation timelines'
-  - imageUrl: 'https://geppetto.js.org/screenshots/animation2.png'
-    caption: 'You can even create talking characters'

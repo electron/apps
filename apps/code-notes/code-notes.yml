@@ -12,9 +12,5 @@ keywords:
   - vuejs
   - vue2
 license: MIT
-screenshots:
-  - imageUrl: 'https://lauthieb.github.io/code-notes/img/screen.png'
-    caption: 'Code Notes - Home page'
-locales:
   - en-US
   - en-GB

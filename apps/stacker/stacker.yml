@@ -13,8 +13,3 @@ keywords:
   - amqp
   - mqtt
 license: MIT
-screenshots:
-  - imageUrl: 'https://enqueuer-land.github.io/stacker/screenshot-1.png'
-    caption: 'Stacker screenshot 1'
-  - imageUrl: 'https://enqueuer-land.github.io/stacker/screenshot-2.png'
-    caption: 'Stacker screenshot 2'

@@ -13,8 +13,3 @@ keywords:
   - dbm
   - desktop
 license: MIT
-screenshots:
-  - imageUrl: 'https://i.imgur.com/LsV7CsE.png'
-    caption: 'App preview'
-  - imageUrl: 'https://i.imgur.com/y2GmBXa.png'
-    caption: 'Scratch'

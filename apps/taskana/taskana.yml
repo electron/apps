@@ -13,7 +13,3 @@ keywords:
   - tickets
   - productivity
   - tracking
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/mountainash/taskana/develop/build/screenshot.png'
-    caption: 'Taskana screen showing user created tasks'
-    imageLink: 'https://mountainash.github.io/taskana/'

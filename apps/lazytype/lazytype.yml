@@ -12,7 +12,3 @@ keywords:
   - type
   - lazyType
 license: MIT
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/ngudbhav/lazyType/master/static/images/ss1.png'
-    caption: 'Screenshot 1'
-    imageLink: 'https://github.com/ngudbhav/lazyType'

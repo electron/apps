@@ -12,10 +12,3 @@ keywords:
   - tasks
 category: Productivity
 youtube_video_url: 'https://www.youtube.com/watch?v=CJ4ENgj66fQ'
-screenshots:
-  - imageUrl: 'https://notejoy.s3.amazonaws.com/static_images/electron1.png'
-    caption: 'Notejoy Overview'
-  - imageUrl: 'https://notejoy.s3.amazonaws.com/static_images/electron2.png'
-    caption: 'Rich Media in Notejoy'
-  - imageUrl: 'https://notejoy.s3.amazonaws.com/static_images/electron3.png'
-    caption: 'Notejoy Search'

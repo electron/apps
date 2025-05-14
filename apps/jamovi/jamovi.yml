@@ -7,8 +7,3 @@ keywords:
   - spreadsheet
   - statistics
 license: AGPL3
-screenshots:
-  - imageUrl: 'https://www.jamovi.org/misc/screenshot-descriptives.png'
-    caption: 'Descriptive statistics in jamovi'
-  - imageUrl: 'https://www.jamovi.org/misc/screenshot-anova.png'
-    caption: 'An ANOVA in jamovi'

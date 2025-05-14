@@ -18,13 +18,3 @@ keywords:
   - protonmail
   - tweetdeck
 category: Productivity
-screenshots:
-  - {
-      imageUrl: 'https://rambox.app/img/download_windows.png',
-    }
-  - {
-      imageUrl: 'https://rambox.app/img/download_macos.png',
-    }
-  - {
-      imageUrl: 'https://rambox.app/img/download_linux.png',
-    }

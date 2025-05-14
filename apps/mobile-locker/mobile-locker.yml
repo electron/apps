@@ -8,7 +8,3 @@ keywords:
   - 'sales enablement'
   - CRM
   - marketing
-screenshots:
-  - imageUrl: 'https://teams.mobilelocker.com/demo_team/assets/mobilelocker-electron-mac.png'
-    caption: 'Mobile Locker for macOS'
-    imageLink: 'https://www.mobilelocker.com/?utm_source=github&utm_medium=repo&utm_campaign=electron-apps'

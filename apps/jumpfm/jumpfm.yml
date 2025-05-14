@@ -7,9 +7,3 @@ keywords:
   - 'file manager'
   - developers
   - git
-screenshots:
-  - {
-      imageUrl: 'https://jumpfm.org/jumpfm.png',
-      caption: 'JumpFm Screenshot',
-      imageLink: 'https://jumpfm.org/',
-    }

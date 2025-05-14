@@ -6,10 +6,3 @@ license: 'CC BY-NC-ND 4.0'
 category: 'Developer Tools'
 goodColorOnWhite: '#b72414'
 
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/mhmdkrmabd/md5-app/master/assets/1.jpg'
-    caption: 'Screenshot 1'
-  - imageUrl: 'https://raw.githubusercontent.com/mhmdkrmabd/md5-app/master/assets/2.jpg'
-    caption: 'Screenshot 2'
-  - imageUrl: 'https://raw.githubusercontent.com/mhmdkrmabd/md5-app/master/assets/3.jpg'
-    caption: 'Screenshot 3'

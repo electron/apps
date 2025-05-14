@@ -8,7 +8,3 @@ keywords:
   - testing
 license: 'Public Domain'
 category: 'Developer Tools'
-screenshots:
-  - {
-      imageUrl: 'https://camo.githubusercontent.com/dec09622646548962ee986787c2e5189e23ea337/687474703a2f2f7465736576652e6769746875622e696f2f6173736574732f696d672f73637265656e73686f742e706e67',
-    }

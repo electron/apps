@@ -11,12 +11,3 @@ keywords:
   - students
 category: 'Education'
 license: GPL-3.0
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/MissterHao/WannaClass/release/assets/Index%20Demo.png'
-    caption: 'Index Screen'
-  - imageUrl: 'https://raw.githubusercontent.com/MissterHao/WannaClass/release/assets/Course%20Selection%20Screen.png'
-    caption: 'Course Selection Screen'
-  - imageUrl: 'https://raw.githubusercontent.com/MissterHao/WannaClass/release/assets/Login%20Screen%20Demo.png'
-    caption: 'Login Screen'
-  - imageUrl: 'https://raw.githubusercontent.com/MissterHao/WannaClass/release/assets/Loading%20Screen%20Demo.png'
-    caption: 'Loading Screen'

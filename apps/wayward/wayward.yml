@@ -10,19 +10,3 @@ keywords:
   - survival
   - sandbox
 youtube_video_url: 'https://www.youtube.com/watch?v=kc69XEXiPzE'
-screenshots:
-  - {
-      imageUrl: 'https://i.imgur.com/3KEdsiv.png',
-      caption: 'Desert Farm',
-      imageLink: 'http://www.waywardgame.com/',
-    }
-  - {
-      imageUrl: 'https://i.imgur.com/SiZVYlv.png',
-      caption: Abode,
-      imageLink: 'http://www.waywardgame.com/',
-    }
-  - {
-      imageUrl: 'https://i.imgur.com/YafWmhI.png',
-      caption: 'Lava Home',
-      imageLink: 'http://www.waywardgame.com/',
-    }

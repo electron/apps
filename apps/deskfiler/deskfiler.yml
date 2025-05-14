@@ -8,7 +8,3 @@ keywords:
   - 'cross platform deployment'
   - 'fast development'
 license: GPLv3
-screenshots:
-  - imageUrl: 'https://www.deskfiler.org/img/gif/intuitivedf.png'
-    caption: 'Add plugins for your daily tasks quickly'
-    imageLink: 'https://plugins.deskfiler.org/'

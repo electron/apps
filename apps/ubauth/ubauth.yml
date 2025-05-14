@@ -12,7 +12,3 @@ keywords:
   - tools
 license: MIT
 category: 'Developer Tools'
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/chrisenytc/ubauth/master/resources/screenshot.png',
-    }

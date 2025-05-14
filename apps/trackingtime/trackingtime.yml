@@ -10,8 +10,3 @@ keywords:
   - 'collaboration'
   - 'time cards'
   - 'time reports'
-screenshots:
-  - imageUrl: 'https://trackingtime.co/screenshots/tracking-time-tray.png'
-    caption: 'Sleek tray app for Windows & Mac'
-  - imageUrl: 'https://trackingtime.co/screenshots/tracking-time-tray-dark-mode.png'
-    caption: 'Available in Dark mode'

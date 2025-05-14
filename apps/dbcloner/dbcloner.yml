@@ -9,6 +9,3 @@ keywords:
   - postgresql
   - developer-tool
   - clone-database
-screenshots:
-  - imageUrl: https://raw.githubusercontent.com/felipeleivav/dbcloner-app/main/screenshot.png
-    caption: Database replica screen

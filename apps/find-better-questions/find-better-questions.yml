@@ -13,16 +13,5 @@ keywords:
   - research
   - findbetterquestions
 category: 'Business'
-screenshots:
-  - imageUrl: 'https://findbetterquestions.com/assets/findbetterquestions-how-it-works.png'
-    caption: 'How It Works'
-    imageLink: 'https://findbetterquestions.com'
-  - imageUrl: 'https://findbetterquestions.com/assets/findbetterquestions-screenshot-create-new-list.png'
-    caption: 'Create a New List'
-    imageLink: 'https://findbetterquestions.com'
-  - imageUrl: 'https://findbetterquestions.com/assets/findbetterquestions-screenshot-example-list.png'
-    caption: 'Example List'
-    imageLink: 'https://findbetterquestions.com'
-colors:
   goodColorOnWhite: '#2E4057'
   goodColorOnBlack: '#FFF8E8'

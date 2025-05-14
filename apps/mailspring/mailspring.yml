@@ -10,9 +10,3 @@ keywords:
   - imap
   - gmail
 license: GPL-3.0
-screenshots:
-  - {
-      imageUrl: 'https://getmailspring.com/static/img/hero_graphic_mac@2x.png',
-      caption: 'Mailspring on Mac',
-      imageLink: 'http://getmailspring.com/',
-    }

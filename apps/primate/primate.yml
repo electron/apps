@@ -14,13 +14,3 @@ snapcraftName: primate
 category: 'Developer Tools'
 goodColorOnWhite: '#181922'
 goodColorOnBlack: '#EB453D'
-screenshots:
-  - imageUrl: 'https://www.getprimate.xyz/static/scr-desktop-linux-1.png'
-    caption: 'Primate running on Linux'
-    imageLink: 'https://www.getprimate.xyz'
-  - imageUrl: 'https://www.getprimate.xyz/static/scr-desktop-mac-1.png'
-    caption: 'Primate running on Mac OS'
-    imageLink: 'https://www.getprimate.xyz'
-  - imageUrl: 'https://www.getprimate.xyz/static/scr-desktop-win-1.png'
-    caption: 'Primate running on Windows'
-    imageLink: 'https://www.getprimate.xyz'

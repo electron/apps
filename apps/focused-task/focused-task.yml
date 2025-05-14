@@ -15,10 +15,3 @@ keywords:
   - menubar
 license: MIT
 youtube_video_url: https://www.youtube.com/watch?v=Vp2ASWq-S04
-screenshots:
-  - imageUrl: 'https://focused-tasks.s3.eu-central-1.amazonaws.com/screenshot-1.png'
-    caption: 'Screenshot'
-    imageLink: 'https://github.com/RStankov/FocusedTask'
-  - imageUrl: 'https://focused-tasks.s3.eu-central-1.amazonaws.com/screenshot-2.png'
-    caption: 'Shortcuts'
-    imageLink: 'https://github.com/RStankov/FocusedTask'

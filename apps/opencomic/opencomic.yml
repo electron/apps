@@ -16,7 +16,3 @@ locales:
   - es
   - en-US
   - es-ES
-screenshots:
-  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2020/08/OpenComic-ScreenShot.png'
-  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2020/08/OpenComic-ScreenShot-2.png'
-  - imageUrl: 'https://dashboard.snapcraft.io/site_media/appmedia/2020/08/OpenComic-ScreenShot-3.png'

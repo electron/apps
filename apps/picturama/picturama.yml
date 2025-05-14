@@ -11,7 +11,4 @@ keywords:
   - photo-manager
 license: MIT
 category: 'Photo & Video'
-screenshots:
-  - imageUrl: 'https://picturama.github.io/assets/picturama-screenshot.jpg'
-goodColorOnWhite: '#37474f'
 goodColorOnBlack: '#ff5722'

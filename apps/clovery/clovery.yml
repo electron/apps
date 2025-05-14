@@ -3,10 +3,6 @@ description: 'All Google Apps in One.'
 website: 'https://clovery.app'
 repository: 'https://github.com/webcatalog/neutron'
 license: MPL-2.0
-screenshots:
-  - imageUrl: 'https://storage.webcatalog.app/screenshots/clovery/Preferences+-+Dark.png'
-  - imageUrl: 'https://storage.webcatalog.app/screenshots/clovery/App+Lock+-+Light.png'
-keywords:
   - 'google apps'
   - browser
   - 'all apps in one app'

@@ -7,12 +7,3 @@ keywords:
   - pdf
   - protect
 license: 'AGPL 3.0 or later'
-screenshots:
-  - imageUrl: 'https://i.imgur.com/Ce0G0Mg.png'
-    caption: 'ProtegoPDF'
-  - imageUrl: 'https://i.imgur.com/kqj9yMH.png'
-    caption: 'Drag & Drop'
-  - imageUrl: 'https://i.imgur.com/0Wvryp8.png'
-    caption: 'Set password'
-  - imageUrl: 'https://i.imgur.com/DeK8XP2.png'
-    caption: 'Protect!'

@@ -6,6 +6,3 @@ repository: https://github.com/ujw0l/pic-crop
 keywords:
   - Image crop
 license: MIT
-screenshots:
-  - imageUrl: 'https://ujwolbastakoti.files.wordpress.com/2020/08/screen-shot-2020-08-11-at-17.08.44.png'
-    caption: 'Fontend View'

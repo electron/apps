@@ -9,20 +9,3 @@ keywords:
 locales:
   - zh-CN
 license: GPL-3.0
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/main/screenshots/1.png'
-    caption: 'Funds'
-  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/main/screenshots/2.png'
-    caption: 'Indexes'
-  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/main/screenshots/3.png'
-    caption: 'Sections'
-  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/main/screenshots/4.png'
-    caption: 'Stocks'
-  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/main/screenshots/5.png'
-    caption: 'Fund Statistics'
-  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/main/screenshots/6.png'
-    caption: 'Fund Detail'
-  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/main/screenshots/7.png'
-    caption: 'Fund Manager'
-  - imageUrl: 'https://raw.githubusercontent.com/1zilc/fishing-funds/main/screenshots/8.png'
-    caption: 'Fund Flow'

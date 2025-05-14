@@ -9,10 +9,3 @@ keywords:
   - music
 license: MIT
 category: Music
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/will-stone/SpotSpot/80c21c76c6f4a27d9e07e389e3f8409dbda0e04e/docs/screenshotSm1.png',
-    }
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/will-stone/SpotSpot/80c21c76c6f4a27d9e07e389e3f8409dbda0e04e/docs/screenshotSm2.png',
-    }

@@ -8,8 +8,3 @@ category: Productivity
 locales:
   - en-US
   - zh-CN
-screenshots:
-  - imageUrl: https://snowyowl.app/asset/img/ss1.png
-    caption: 'Main Interface'
-  - imageUrl: https://snowyowl.app/asset/img/ss2.png
-    caption: 'Note Editor'

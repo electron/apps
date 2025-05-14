@@ -19,10 +19,6 @@ keywords:
   - live-text
   - screen-recorder
 category: 'Productivity'
-screenshots:
-  - imageUrl: 'https://esearch.vercel.app/assets/clip.png'
-  - imageUrl: 'https://esearch.vercel.app/assets/main.png'
-locales:
   - zh
   - en
   - ar

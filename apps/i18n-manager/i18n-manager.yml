@@ -13,8 +13,3 @@ keywords:
 license: MIT
 locales:
   - en-US
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/gilmarsquinelato/i18n-manager/97dac026b5cd3c38c48754b9feba2deb0448d5ea/picture1.jpg'
-    caption: 'Translation changes detection'
-  - imageUrl: 'https://raw.githubusercontent.com/gilmarsquinelato/i18n-manager/97dac026b5cd3c38c48754b9feba2deb0448d5ea/picture2.jpg'
-    caption: 'Translation missing detection'

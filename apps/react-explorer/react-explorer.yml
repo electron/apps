@@ -12,5 +12,3 @@ keywords:
 license: MIT
 locales:
   - fr-FR
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/warpdesign/react-explorer/master/img/react-explorer-theme.png'

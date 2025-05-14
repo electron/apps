@@ -8,17 +8,3 @@ keywords:
   - productivity
   - snippets
 category: 'Utilities'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/tkainrad/keycombiner/59624a5feeb88e0175e43747add9001d9c6ab6d6/Resources/desktop/lookup-three-apps.gif'
-    caption:
-      'Instant Shortcut Lookup for the current application and all combinations
-      in personal collections.'
-    imageLink: 'https://keycombiner.com/desktop/'
-  - imageUrl: 'https://raw.githubusercontent.com/tkainrad/keycombiner/59624a5feeb88e0175e43747add9001d9c6ab6d6/Resources/desktop/train-browser-reserved.gif'
-    caption:
-      'Learning keyboard shortcuts and text snippets with an interactive
-      trainer.'
-    imageLink: 'https://keycombiner.com/features/'
-  - imageUrl: 'https://raw.githubusercontent.com/tkainrad/keycombiner/59624a5feeb88e0175e43747add9001d9c6ab6d6/Resources/desktop/collection-with-visualizer.png'
-    caption: 'Personal KeyCombiner collection with Visualizer'
-    imageLink: 'https://keycombiner.com/desktop/'

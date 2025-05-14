@@ -16,15 +16,5 @@ keywords:
   - management
 license: GPL-3.0
 category: 'Graphics & Design'
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/pin.png'
-    caption: 'Pin Feature'
-  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/picker.png'
-    caption: 'Picker Feature'
-  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/tint.png'
-    caption: 'Tint Feature'
-  - imageUrl: 'https://raw.githubusercontent.com/Toinane/colorpicker/master/.github/screenshots/colorsbook.png'
-    caption: 'Colorsbook System Storage'
-goodColorOnWhite: '#1678AD'
 goodColorOnBlack: '#1A8AC7'
 faintColorOnWhite: 'rgba(26, 138, 174, 0.1)'

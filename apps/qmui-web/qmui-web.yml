@@ -11,7 +11,3 @@ keywords:
   - 'developer tools'
 license: MIT
 category: 'Developer Tools'
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/QMUI/qmuidemo_web/master/public/style/images/independent/App.gif',
-    }

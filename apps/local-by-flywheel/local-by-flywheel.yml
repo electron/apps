@@ -9,10 +9,3 @@ keywords:
   - wp-cli
   - wpengine
 youtube_video_url: 'https://www.youtube.com/watch?v=M238QnTcnXE'
-screenshots:
-  - imageUrl: 'https://localbyflywheel.com/local-assets/home-page-device.jpg'
-    caption: 'Create local WordPress sites with hassle-free SSL'
-    imageLink: 'https://localbyflywheel.com/features/'
-  - imageUrl: 'https://localbyflywheel.com/local-assets/local-features-developers-opt.png'
-    caption: 'Go deeper with developer tools'
-    imageLink: 'https://localbyflywheel.com/features/'

@@ -7,10 +7,3 @@ keywords:
   - open source
   - developer
 license: GPL v3
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/tomaschyly/FileCtor/master/screenshots/FileCtor-Console.png'
-    caption: 'Javascript console'
-  - imageUrl: 'https://raw.githubusercontent.com/tomaschyly/FileCtor/master/screenshots/FileCtor-Files.png'
-    caption: 'Files & directory view'
-  - imageUrl: 'https://raw.githubusercontent.com/tomaschyly/FileCtor/master/screenshots/FileCtor-Snippets.png'
-    caption: 'Saved code snippets'

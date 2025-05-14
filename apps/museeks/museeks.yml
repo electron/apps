@@ -8,7 +8,3 @@ keywords:
   - 'music player'
 license: MIT
 category: Music
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/martpie/museeks/master/screenshot.png',
-    }

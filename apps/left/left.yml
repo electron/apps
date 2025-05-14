@@ -4,11 +4,6 @@ description:
   writing statistics, markup-based navigation and a speed-reader.'
 website: 'https://hundredrabbits.itch.io/left'
 repository: 'https://hundredrabbits.itch.io/left'
-screenshots:
-  - {
-      imageUrl: 'https://raw.githubusercontent.com/hundredrabbits/Left/master/PREVIEW.jpg',
-    }
-keywords:
   - writing
   - text
   - edit

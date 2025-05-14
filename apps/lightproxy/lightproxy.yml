@@ -5,7 +5,3 @@ repository: 'https://github.com/alibaba/lightproxy'
 category: Developer Tools
 keywords:
   - proxy
-screenshots:
-  - imageUrl: 'https://img.alicdn.com/tfs/TB157bJF.T1gK0jSZFrXXcNCXXa-1393-921.png'
-    caption: 'screenshot'
-    imageLink: 'https://github.com/alibaba/lightproxy'

@@ -17,12 +17,3 @@ keywords:
 locales:
   - en-US
   - ru-RU
-screenshots:
-  - imageUrl: 'https://1312.io/wa-data/public/site/img-external/electron-webasyst-cashflow-01.png'
-    caption: 'Login screen'
-  - imageUrl: 'https://1312.io/wa-data/public/site/img-external/electron-webasyst-cashflow-02.png'
-    caption: 'Cash flow chart'
-  - imageUrl: 'https://1312.io/wa-data/public/site/img-external/electron-webasyst-cashflow-03.png'
-    caption: 'Add transaction dialog'
-  - imageUrl: 'https://1312.io/wa-data/public/site/img-external/electron-webasyst-cashflow-04.png'
-    caption: 'Transaction list'

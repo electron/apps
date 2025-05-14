@@ -19,6 +19,3 @@ keywords:
   - offline
   - p2p
 license: AGPL-3.0
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/ssbc/patchwork/master/assets/screenshot.jpg'
-    caption: 'Public Channels View'

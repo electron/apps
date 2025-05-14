@@ -15,12 +15,3 @@ license: MIT
 snapcraftName: iptvnator
 locales:
   - en-US
-screenshots:
-  - imageUrl: 'https://raw.githubusercontent.com/4gray/iptvnator/electron/playlists.png'
-    caption: 'Overview with added playlists'
-  - imageUrl: 'https://raw.githubusercontent.com/4gray/iptvnator/electron/iptv-main.png'
-    caption: 'Channels list with video player'
-  - imageUrl: 'https://raw.githubusercontent.com/4gray/iptvnator/electron/upload-via-url.png'
-    caption: 'Upload playlist via URL'
-  - imageUrl: 'https://raw.githubusercontent.com/4gray/iptvnator/electron/iptv-settings.png'
-    caption: 'Settings page'

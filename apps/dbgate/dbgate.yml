@@ -18,10 +18,3 @@ keywords:
   - excel
   - csv
 license: MIT
-screenshots:
-  - imageUrl: https://dbgate.org/assets/screenshots/datagrid.png
-    caption: DbGate - data grid
-  - imageUrl: https://dbgate.org/assets/screenshots/dbcompare.png
-    caption: DbGate - compare databases
-  - imageUrl: https://dbgate.org/assets/screenshots/darkmode.png
-    caption: DbGate - dark theme

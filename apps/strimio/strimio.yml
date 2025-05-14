@@ -11,6 +11,3 @@ keywords:
   - media player
 snapcraftName: strimio-desktop
 license: MIT
-screenshots:
-  - imageUrl: 'https://strimio.com/screenshot.png'
-    caption: 'Strimio desktop'

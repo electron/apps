@@ -15,8 +15,3 @@ locales:
 license: MIT
 goodColorOnWhite: '#6246ea'
 goodColorOnBlack: '#7f5af0'
-screenshots:
-  - imageUrl: 'https://murgatt.github.io/recode-converter/img/app.png'
-    caption: 'Dark Theme'
-  - imageUrl: 'https://murgatt.github.io/recode-converter/img/app-light.png'
-    caption: 'Light Theme'

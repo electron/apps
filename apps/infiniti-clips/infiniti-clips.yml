@@ -8,8 +8,4 @@ repository: 'https://github.com/azure06/infiniti-clips.git'
 keywords:
   - clipboard
   - notes
-screenshots:
-  - imageUrl: 'https://infiniticlips.com/app.png'
-    caption: 'Browse, search, bookmark, and more...'
-locales:
   - en-US
