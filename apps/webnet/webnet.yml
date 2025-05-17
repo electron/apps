@@ -1,6 +1,6 @@
 name: 'Web Net'
 description: 'Chromium Web Browser'
-website: 'https://www.web-net.ml'
+website: 'https://web-net.netlify.app/'
 repository: 'https://github.com/MEGAMINDMK'
 category: 'Utilities'
 keywords:

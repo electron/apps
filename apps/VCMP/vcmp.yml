@@ -1,0 +1,12 @@
+name: 'VCMP Browser'
+description: 'Vice City Multiplayer Browser'
+website: 'https://vc-mp.org/'
+repository: 'https://github.com/MEGAMINDMK/VCMP-BROWSER'
+category: 'Utilities'
+keywords:
+  - 'vcmp'
+  - browser
+  - 'Utilities'
+license: MIT
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/MEGAMINDMK/VCMP-BROWSER/main/new.jpg'
