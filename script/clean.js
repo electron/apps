@@ -6,7 +6,6 @@
 
 const fs = require('fs')
 const path = require('path')
-const rimraf = require('rimraf').sync
 
 fs.readdirSync(path.join(__dirname, '../apps'))
   .filter((filename) => {
@@ -22,5 +21,5 @@ fs.readdirSync(path.join(__dirname, '../apps'))
   .forEach((filename) => {
     const appDir = path.join(__dirname, `../apps/${filename}`)
     console.log(`Removing leftover artifacts from ${appDir}`)
-    rimraf(appDir)
+    fs.rmSync(appDir, { recursive: true, force: true })
   })

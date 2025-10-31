@@ -2,7 +2,6 @@
 
 const fs = require('fs')
 const path = require('path')
-const rimraf = require('rimraf').sync
 const yaml = require('js-yaml')
 
 fs.readdirSync(path.join(__dirname, '../apps'))
@@ -19,5 +18,5 @@ fs.readdirSync(path.join(__dirname, '../apps'))
   .forEach((filename) => {
     const appDir = path.join(__dirname, `../apps/${filename}`)
     console.log(`Removing disabled ${filename} app`)
-    rimraf(appDir)
+    fs.rmSync(appDir, { recursive: true, force: true })
   })

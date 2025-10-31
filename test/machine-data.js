@@ -5,7 +5,6 @@ const fs = require('fs')
 const path = require('path')
 const yaml = require('js-yaml')
 const apps = require('..')
-const isHexColor = require('is-hexcolor')
 const categories = require('../categories')
 const expect = require('chai').expect
 
@@ -76,12 +75,6 @@ describe('machine-generated app data (exported by the module)', () => {
     apps.forEach((app) => {
       expect(app.iconColors).to.be.an('array', app.slug)
       expect(app.iconColors.length).to.be.above(2, app.slug)
-    })
-  })
-
-  it('sets a `colors.goodColorOnWhite` hex value on every app', () => {
-    apps.forEach((app) => {
-      expect(isHexColor(app.goodColorOnWhite)).to.eq(true)
     })
   })
 

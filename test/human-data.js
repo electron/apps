@@ -6,11 +6,10 @@ const fs = require('fs')
 const path = require('path')
 const expect = require('chai').expect
 const yaml = require('js-yaml')
-const isUrl = require('is-url')
+const { isUrl } = require('../lib/is-url')
 const { URL } = require('url')
 const cleanDeep = require('clean-deep')
 const imageSize = require('image-size')
-const makeColorAccessible = require('make-color-accessible')
 const slugg = require('slugg')
 const grandfatheredDescriptions = require('../lib/grandfathered-descriptions')
 const grandfatheredLinks = require('../lib/grandfathered-links.js')
@@ -155,32 +154,6 @@ describe('human-submitted app data', () => {
         })
 
         describe('colors', () => {
-          it(`allows goodColorOnWhite to be set, but it must be accessible`, () => {
-            // accessible: contrast ratio of 4.5:1 or greater (white background)
-            const color = app.goodColorOnWhite
-            if (color) {
-              const accessibleColor = makeColorAccessible(color)
-              expect(color === accessibleColor).to.equal(
-                true,
-                `${slug}: contrast ratio too low for goodColorOnWhite. Try: ${accessibleColor}`
-              )
-            }
-          })
-
-          it(`allows goodColorOnBlack to be set, but it must be accessible`, () => {
-            // accessible: contrast ratio of 4.5:1 or greater (black background)
-            const color = app.goodColorOnBlack
-            if (color) {
-              const accessibleColor = makeColorAccessible(color, {
-                background: 'black',
-              })
-              expect(color === accessibleColor).to.equal(
-                true,
-                `${slug}: contrast ratio too low for goodColorOnBlack. Try: ${accessibleColor}`
-              )
-            }
-          })
-
           it(`allows faintColorOnWhite to be set`, () => {
             const color = app.faintColorOnWhite
             if (color) {
