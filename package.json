@@ -1,6 +1,6 @@
 {
-  "name": "electron-apps",
-  "version": "2.0.0",
+  "name": "@electron/apps",
+  "version": "0.0.0-development",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -34,15 +34,12 @@
   "author": "Toinane <toinane@electronjs.org> (https://electronjs.org/apps)",
   "license": "MIT",
   "devDependencies": {
-    "@octokit/rest": "^18.12.0",
     "chai": "^4.3.6",
-    "cheerio": "^1.0.0-rc.10",
     "clean-deep": "^3.4.0",
     "color-convert": "^2.0.1",
     "dotenv-safe": "^8.2.0",
     "get-image-colors": "^4.0.1",
     "github-url-to-object": "^4.0.6",
-    "human-interval": "^2.0.1",
     "husky": "^8.0.1",
     "image-size": "^1.0.1",
     "imagemin": "^7.0.1",
@@ -50,26 +47,23 @@
     "inquirer": "^8.2.4",
     "jimp": "^0.16.1",
     "js-yaml": "^4.1.0",
+    "json-stable-stringify": "^1.0.1",
     "lint-staged": "^12.4.1",
+    "mime-types": "^2.1.35",
     "mocha": "^10.0.0",
     "npm-run-all": "^4.1.5",
     "pick-a-good-color": "^1.1.1",
     "prettier": "^2.6.2",
     "readdirp": "^3.6.0",
     "semver": "^7.7.3",
-    "sharp": "^0.30.4",
+    "sharp": "^0.34.4",
     "sinon": "^14.0.0",
     "slugg": "^1.2.1",
     "tinycolor2": "^1.4.2",
-    "yaml": "^2.0.1"
+    "yaml": "^2.8.1"
   },
   "engines": {
     "node": ">=12"
-  },
-  "dependencies": {
-    "json-stable-stringify": "^1.0.1",
-    "mime-types": "^2.1.35",
-    "rev-hash": "^3.0.0"
   },
   "lint-staged": {
     "*.{js,ts,yml}": "prettier --write"
