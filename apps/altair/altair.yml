@@ -12,6 +12,7 @@ license: MIT
 homebrewCaskName: altair-graphql-client
 snapcraftName: altair
 youtube_video_url: 'https://www.youtube.com/watch?v=zTFYOo4uD-M'
+locales:
   - en-US
   - fr-FR
   - es-ES

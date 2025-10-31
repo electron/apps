@@ -4,5 +4,6 @@ description:
   clipboard from anywhere on any device'
 website: 'http://1clipboard.io'
 repository: 'https://github.com/wiziple/1clipboard'
+keywords:
   - clipboard
 category: Utilities

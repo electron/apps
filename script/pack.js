@@ -3,8 +3,6 @@ const path = require('path')
 const yaml = require('js-yaml')
 const dates = require('../meta/dates.json')
 const colors = require('../meta/colors.json')
-const releases = require('../meta/releases.json')
-const readmes = require('../meta/readmes.json')
 const parseGitHubUrl = require('github-url-to-object')
 const apps = []
 
@@ -22,21 +20,15 @@ fs.readdirSync(path.join(__dirname, '../apps'))
       return
     }
 
-    const app = Object.assign(
-      { slug: slug },
-      meta,
-      {
-        icon: `${slug}-icon.png`,
-        icon32: `${slug}-icon-32.png`,
-        icon64: `${slug}-icon-64.png`,
-        icon128: `${slug}-icon-128.png`,
-        icon256: `${slug}-icon-256.png`,
-        date: dates[slug],
-        iconColors: colors[slug].palette,
-      },
-      releases[slug],
-      readmes[slug]
-    )
+    const app = Object.assign({ slug: slug }, meta, {
+      icon: `${slug}-icon.png`,
+      icon32: `${slug}-icon-32.png`,
+      icon64: `${slug}-icon-64.png`,
+      icon128: `${slug}-icon-128.png`,
+      icon256: `${slug}-icon-256.png`,
+      date: dates[slug],
+      iconColors: colors[slug].palette,
+    })
 
     app.goodColorOnWhite = app.goodColorOnWhite || colors[slug].goodColorOnWhite
     app.goodColorOnBlack = app.goodColorOnBlack || colors[slug].goodColorOnBlack

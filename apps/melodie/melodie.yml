@@ -12,4 +12,5 @@ keywords:
   - desktop
 goodColorOnWhite: '#2e3141'
 goodColorOnBlack: '#ffffff'
+locales:
   - fr-FR

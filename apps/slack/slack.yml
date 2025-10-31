@@ -1,5 +1,7 @@
 name: Slack
-description: 'A messaging app for teams'
+description:
+  'New way to communicate with your team. It’s faster, better organized, and
+  more secure than email.'
 website: 'https://slack.com'
 homebrewCaskName: slack
 keywords:
@@ -10,4 +12,4 @@ keywords:
   - voip
   - phone
   - community
-category: 'Social Networking'
+category: 'Business'

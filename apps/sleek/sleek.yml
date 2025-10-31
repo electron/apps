@@ -33,6 +33,7 @@ keywords:
   - linux
 category: 'Productivity'
 license: MIT
+locales:
   - de-DE
   - en-GB
   - fr-FR

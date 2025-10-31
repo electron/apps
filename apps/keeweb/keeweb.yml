@@ -9,6 +9,7 @@ keywords:
 category: Utilities
 license: MIT
 repository: https://github.com/keeweb/keeweb
+homebrewCaskName: keeweb
 youtube_video_url: https://www.youtube.com/watch?v=2I2gXUihqe8
 locales:
   - en-US

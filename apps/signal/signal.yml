@@ -1,5 +1,7 @@
 name: Signal
-description: 'Private Messenger'
+description:
+  'Say "hello" to a different messaging experience. An unexpected focus on
+  privacy, combined with all of the features you expect.'
 website: 'https://signal.org'
 repository: 'https://github.com/signalapp/Signal-Desktop'
 keywords:
@@ -9,5 +11,5 @@ keywords:
   - messenger
   - messaging
   - p2p
-category: 'Social Networking'
+category: 'Social'
 license: AGPL-3.0-only

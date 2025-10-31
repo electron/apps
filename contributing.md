@@ -106,7 +106,7 @@ apps
 - Reference
 - Science & Medicine
 - Shopping
-- Social Networking
+- Social
 - Sports
 - Travel
 - Utilities
@@ -118,12 +118,10 @@ following format if provided:
 
 ```yml
 screenshots:
-  - 
-    imageUrl: 'https://mysite.com/awesome1.png'
+  - imageUrl: 'https://mysite.com/awesome1.png'
     caption: 'Awesome screenshot 1'
     imageLink: 'https://mysite.com/awesome.html'
-  - 
-    imageUrl: 'https://mysite.com/awesome2.png'
+  - imageUrl: 'https://mysite.com/awesome2.png'
     caption: 'Awesome screenshot 2'
     imageLink: 'https://mysite.com/awesome.html'
 ```

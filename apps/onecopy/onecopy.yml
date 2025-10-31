@@ -1,6 +1,7 @@
 name: One Copy
 description: 'Save all information and paste them whenever you need them.'
 website: 'https://github.com/HiroshiFuu/onecopy-electron'
+keywords:
   - clipboard
   - password-manager
 category: Utilities

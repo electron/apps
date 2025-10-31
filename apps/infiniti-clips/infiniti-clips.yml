@@ -8,4 +8,5 @@ repository: 'https://github.com/azure06/infiniti-clips.git'
 keywords:
   - clipboard
   - notes
+locales:
   - en-US

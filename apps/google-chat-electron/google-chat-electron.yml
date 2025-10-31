@@ -1,7 +1,7 @@
 name: Unofficial Google Chat App
 description: 'Unofficial desktop app for Google Chat.'
 website: https://github.com/ankurk91/google-chat-electron
-category: 'Social Networking'
+category: 'Social'
 repository: https://github.com/ankurk91/google-chat-electron
 snapcraftName: google-chat-electron
 keywords:

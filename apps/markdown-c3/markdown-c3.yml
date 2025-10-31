@@ -3,6 +3,7 @@ description:
   'A Markdown Editor and Previewer built with Construct 3 and ElectronJs'
 website: 'https://github.com/el3um4s/markdown-c3/blob/master/README.md'
 repository: 'https://github.com/el3um4s/markdown-c3/blob/master/README.md'
+keywords:
   - markdwown
   - construct3
   - showdownjs

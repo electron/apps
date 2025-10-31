@@ -1,7 +1,7 @@
 name: Manyverse
 description: Cross-platform SSB app.
 website: https://manyver.se
-category: Social Networking
+category: Social
 repository: https://gitlab.com/staltz/manyverse
 keywords:
   - ssb

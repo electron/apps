@@ -5,6 +5,7 @@ description:
   Can also perform a basic scan for corrupt videos.'
 website: 'https://github.com/HaveAGitGat/HBBatchBeast'
 repository: 'https://github.com/HaveAGitGat/HBBatchBeast'
+keywords:
   - conversion
   - transcoding
   - videos

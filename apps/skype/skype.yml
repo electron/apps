@@ -1,5 +1,7 @@
 name: Skype
-description: 'Free IM & video calls'
+description:
+  'Keep in touch with free video chat, messaging & affordable international
+  calls.'
 website: 'https://skype.com'
 keywords:
   - free calls
@@ -10,4 +12,4 @@ keywords:
   - chat
   - voip
   - screen sharing
-category: 'Social Networking'
+category: 'Social'

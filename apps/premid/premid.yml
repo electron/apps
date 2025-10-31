@@ -12,6 +12,7 @@ keywords:
   - Service
   - integration
 license: MPL 2.0
+locales:
   - ar
   - cs
   - de

@@ -1,8 +1,8 @@
 name: 'GraphQL Playground'
 description: ' GraphQL IDE for better development workflows'
-website: 'https://github.com/graphcool/graphql-playground'
+website: 'https://github.com/graphql/graphql-playground'
 category: 'Developer Tools'
-repository: 'https://github.com/graphcool/graphql-playground'
+repository: 'https://github.com/graphql/graphql-playground'
 keywords:
   - GraphQL
   - data

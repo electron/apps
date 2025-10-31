@@ -1,7 +1,7 @@
 name: Hyper
-description: 'HTML/JS/CSS Terminal'
+description: 'A terminal built on web technologies'
 website: 'https://hyper.is'
-repository: 'https://github.com/zeit/hyper'
+repository: 'https://github.com/vercel/hyper'
 homebrewCaskName: hyper
 keywords:
   - terminal

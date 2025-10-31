@@ -6,6 +6,7 @@ description:
   supports Redis 6.'
 website: 'https://racompass.com'
 repository: 'https://github.com/racompass/racompass'
+keywords:
   - Redis
   - admin
   - redis-desktop-manager

@@ -6,6 +6,7 @@ description:
 website: 'https://mugen.karaokes.moe/en'
 license: MIT
 repository: 'https://gitlab.com/karaokemugen/karaokemugen-app'
+keywords:
   - karaoke
   - video
   - mpv

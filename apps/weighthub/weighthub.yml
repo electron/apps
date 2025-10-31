@@ -22,4 +22,5 @@ locales:
   - de
   - fr
   - it
+goodColorOnWhite: '#1672b8'
 goodColorOnBlack: '#428bca'

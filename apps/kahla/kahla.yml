@@ -2,7 +2,7 @@ name: Kahla
 description:
   'Cross-platform business messaging app, completely open source and free.'
 website: 'https://www.kahla.app/'
-category: 'Social Networking'
+category: 'Social'
 repository: 'https://github.com/AiursoftWeb/Kahla.App'
 keywords:
   - chat

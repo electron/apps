@@ -1,9 +1,0 @@
-name: 'Network Status Check'
-description: 'Simple desktop app to check port status of applications.'
-website: 'https://claytonerrington.com/net-check/'
-category: 'Developer Tools'
-repository: 'https://github.com/cjerrington/net-check'
-keywords:
-  - network
-  - 'port status'
-  - 'network tools'

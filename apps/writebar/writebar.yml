@@ -4,6 +4,7 @@ description:
   keyboard (on the Macbook Pro TouchBar).'
 website: 'https://writebar.js.org'
 repository: 'https://github.com/alexander-shvets/writebar'
+keywords:
   - macbook-pro
   - touchbar
   - distraction-free

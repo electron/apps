@@ -3,6 +3,7 @@ description: 'TIL writing tool for programmer'
 website: 'https://github.com/seokju-na/geeks-diary'
 category: Productivity
 repository: 'https://github.com/seokju-na/geeks-diary'
+keywords:
   - Markdown
   - 'Note App'
   - Code

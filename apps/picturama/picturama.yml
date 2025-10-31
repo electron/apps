@@ -11,4 +11,5 @@ keywords:
   - photo-manager
 license: MIT
 category: 'Photo & Video'
+goodColorOnWhite: '#37474f'
 goodColorOnBlack: '#ff5722'

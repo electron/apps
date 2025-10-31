@@ -1,8 +1,0 @@
-name: 'bot-messages-for-discord'
-description:
-  'Bot-Messages allows you to send messages on discord exclusively as a bot.'
-repository: 'https://github.com/Aryxstocratic/bot-messages-for-discord/'
-category: 'Utilities'
-keywords:
-  - bot
-license: MIT

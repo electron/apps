@@ -2,6 +2,7 @@ name: luna
 description: 'Manage npm dependencies through a modern UI'
 website: 'https://github.com/rvpanoz/luna'
 repository: 'https://github.com/rvpanoz/luna'
+keywords:
   - npm
   - 'npm-management'
   - 'npm-desktop-manager'

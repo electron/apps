@@ -10,6 +10,7 @@ keywords:
   - text
   - editor
 license: MIT
+locales:
   - de
   - el
   - en

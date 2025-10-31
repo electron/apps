@@ -1,9 +1,0 @@
-name: Electron App Store (Unofficial)
-description: The world's first Open-Source Cross-Platform App Store.
-website: https://electron-app-store.ml
-category: Utilities
-repository: https://github.com/Electron-Store/electron-app-store
-keywords:
-  - App Store
-  - Cross Platform
-license: MIT

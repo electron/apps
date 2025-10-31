@@ -2,6 +2,7 @@ name: SparkChess
 description:
   'Play chess against the computer or challenge your friends in multiplayer'
 website: 'https://www.sparkchess.com'
+keywords:
   - chess
   - game
   - multiplayer

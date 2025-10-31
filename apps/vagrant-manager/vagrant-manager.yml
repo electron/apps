@@ -10,6 +10,7 @@ keywords:
   - 'developer tools'
 license: MIT
 category: 'Developer Tools'
+locales:
   - cs-CZ
   - hi-IN
   - ja-JP

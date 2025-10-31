@@ -10,5 +10,6 @@ keywords:
   - 'clipboard'
 license: 'GPL-3.0'
 category: 'Science & Medicine'
+goodColorOnWhite: '#000000'
 goodColorOnBlack: '#ffffff'
 faintColorOnWhite: 'rgba(0, 0, 0, 0.6)'

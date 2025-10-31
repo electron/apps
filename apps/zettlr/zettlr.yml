@@ -13,6 +13,7 @@ keywords:
   - share
 category: Productivity
 license: 'GNU GPL v3'
+locales:
   - de-DE
   - en-US
   - en-GB

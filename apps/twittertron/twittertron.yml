@@ -7,5 +7,6 @@ repository: https://github.com/afractal/twittertron-app
 keywords:
   - twitter
 license: Proprietary
+goodColorOnWhite: '#343e40'
 goodColorOnBlack: '#fafbfc'
 faintColorOnWhite: 'rgba(138, 43, 226, 0.6)'

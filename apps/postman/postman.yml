@@ -1,5 +1,8 @@
 name: Postman
-description: 'Build, test and document your APIs'
+description:
+  'API platform for building and using APIs. Postman simplifies each step of the
+  API lifecycle and streamlines collaboration so you can create better
+  APIs—faster.'
 website: 'https://www.getpostman.com/'
 keywords:
   - developer

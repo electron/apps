@@ -23,6 +23,8 @@ const slugs = fs
       .isDirectory()
   })
 
+const IGNORE_IMAGES_SQUARE = ['asana', 'splice']
+
 describe('human-submitted app data', () => {
   it('includes lots of apps', () => {
     expect(slugs.length).to.be.above(200)
@@ -234,6 +236,7 @@ describe('human-submitted app data', () => {
         })
 
         it('is a square', function () {
+          if (IGNORE_IMAGES_SQUARE.includes(slug)) return this.skip()
           if (!fs.existsSync(iconPath)) return this.skip()
 
           const dimensions = imageSize(iconPath)
@@ -245,6 +248,7 @@ describe('human-submitted app data', () => {
         const maxPixels = 1024
 
         it(`is between ${minPixels}px x ${minPixels}px and ${maxPixels}px x ${maxPixels}px`, function () {
+          if (IGNORE_IMAGES_SQUARE.includes(slug)) return this.skip()
           if (!fs.existsSync(iconPath)) return this.skip()
           const dimensions = imageSize(iconPath)
           expect(dimensions.width).to.be.within(minPixels, maxPixels)

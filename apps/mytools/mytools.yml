@@ -2,6 +2,7 @@ name: MyTools
 description: 'Set of tools for developers.'
 website: 'https://github.com/hiql/mytools-desktop'
 repository: 'https://github.com/hiql/mytools-desktop'
+keywords:
   - utility
   - tools
 category: 'Developer Tools'

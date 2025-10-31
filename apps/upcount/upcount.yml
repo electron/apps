@@ -12,6 +12,7 @@ keywords:
   - 'open source'
   - configurable
 license: GPLv3
+goodColorOnWhite: '#222222'
 goodColorOnBlack: '#41DB7F'
 faintColorOnWhite: rgba(34, 34, 34, 0.3)
 locales:

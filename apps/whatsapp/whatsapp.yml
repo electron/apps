@@ -1,5 +1,7 @@
 name: WhatsApp
-description: 'Free IM, voice & video calls'
+description:
+  'Free and offers simple, secure, reliable messaging and calling, available on
+  phones all over the world.'
 website: 'https://www.whatsapp.com'
 keywords:
   - free calls
@@ -8,4 +10,4 @@ keywords:
   - messaging
   - chat
   - voip
-category: 'Social Networking'
+category: 'Social'

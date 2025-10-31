@@ -1,5 +1,7 @@
 name: Loom
-description: 'Instantly shareable screen and camera recordings.'
+description:
+  'Record your screen, share your thoughts, and get things done faster with
+  async video.'
 website: 'https://www.loom.com'
 category: 'Developer Tools'
 keywords:

@@ -3,6 +3,7 @@ description: 'Data analysis and visualization for JavaScript.'
 website: 'https://www.data-forge-notebook.com/'
 category: 'Developer Tools'
 youtube_video_url: 'https://www.youtube.com/watch?v=nRRl-97qVQw'
+keywords:
   - data
   - 'data analysis'
   - 'data visualization'

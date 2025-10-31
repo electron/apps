@@ -1,5 +1,7 @@
 name: Twitch
-description: 'Fast and free communication for gamers'
+description:
+  'Interactive livestreaming service for content spanning gaming, entertainment,
+  sports, music, and more.'
 website: 'https://app.twitch.tv'
 keywords:
   - games

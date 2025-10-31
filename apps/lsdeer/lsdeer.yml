@@ -2,6 +2,7 @@ name: lsdeer
 description: Customizable file manager.
 website: 'https://lsdeer.vercel.app/'
 repository: 'https://github.com/AlexanderPershin/lsdeer'
+keywords:
   - file
   - 'file management'
 category: Utilities

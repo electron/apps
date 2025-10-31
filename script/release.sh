@@ -5,6 +5,8 @@ set -o errexit    # always exit on error
 set -o pipefail   # honor exit codes when piping
 set -o nounset    # fail on unset variables
 
+git clone "https://electron-bot:$GH_TOKEN@github.com/electron/apps" app
+cd app
 npm ci
 
 npm run test-all

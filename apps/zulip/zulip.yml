@@ -2,7 +2,7 @@ name: Zulip
 description:
   'It combines the immediacy of real-time chat with an email threading model.'
 website: 'https://zulip.com/'
-category: 'Social Networking'
+category: 'Social'
 repository: 'https://github.com/zulip/zulip-desktop'
 keywords:
   - zulip

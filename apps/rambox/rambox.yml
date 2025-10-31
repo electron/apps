@@ -1,20 +1,23 @@
 name: Rambox
 description:
-  'Workspace organizer that allows you to unify as many applications as you want, all in one place. It is perfect for those who care about productivity while working with many business and personal apps.'
-website: 'https://rambox.app'
+  'Free and Open Source messaging and emailing app that combines common web
+  applications into one.'
+website: 'https://rambox.app/'
+repository: 'https://github.com/saenzramiro/rambox'
 keywords:
   - productivity
   - whatsapp
   - slack
-  - teams
   - messenger
   - skype
   - gitter
   - telegram
-  - chat
+  - hangouts
+  - hipchat
   - gmail
   - inbox
   - outlook
   - protonmail
   - tweetdeck
+license: MIT
 category: Productivity

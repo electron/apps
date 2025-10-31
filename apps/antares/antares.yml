@@ -2,7 +2,7 @@ name: Antares
 description: Free and open source SQL client made to be simple and complete.
 website: https://antares-sql.app
 category: Developer Tools
-repository: https://github.com/Fabio286/antares
+repository: https://github.com/antares-sql/antares
 keywords:
   - sql client
   - databases

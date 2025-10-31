@@ -1,6 +1,8 @@
 name: Discord
-description: 'Imagine a place'
+description:
+  'The easiest way to talk over voice, video, and text. Talk, chat, hang out,
+  and stay close with your friends and communities.'
 website: 'https://discord.com/'
 keywords:
   - chat
-category: 'Social Networking'
+category: 'Social'

@@ -3,4 +3,5 @@ description: 'Generate ICO and ICNS files for your desktop apps.'
 website: 'https://github.com/sprout2000/elephicon'
 repository: 'https://github.com/sprout2000/elephicon'
 category: 'Developer Tools'
+locales:
   - en-US

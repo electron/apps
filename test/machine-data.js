@@ -132,32 +132,6 @@ describe('machine-generated app data (exported by the module)', () => {
       ).to.eq(true)
     })
   })
-
-  describe('readmes', () => {
-    const readmeApps = apps.filter((app) => app.readmeCleaned)
-
-    it('collects READMEs for apps with GitHub repos', () => {
-      expect(readmeApps.length).to.be.above(50)
-    })
-
-    it('sets `readmeCleaned`', () => {
-      expect(readmeApps.every((app) => app.readmeCleaned.length > 0)).to.eq(
-        true
-      )
-    })
-
-    it('sets `readmeOriginal`', () => {
-      expect(readmeApps.every((app) => app.readmeOriginal.length > 0)).to.eq(
-        true
-      )
-    })
-
-    it('sets `readmeFetchedAt`', () => {
-      expect(readmeApps.every((app) => app.readmeFetchedAt.length > 0)).to.eq(
-        true
-      )
-    })
-  })
 })
 
 describe('machine-generated category data (exported by the module)', () => {

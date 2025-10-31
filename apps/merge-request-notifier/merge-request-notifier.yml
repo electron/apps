@@ -4,6 +4,7 @@ description:
 website: 'https://github.com/codecentric/merge-request-notifier'
 category: 'Developer Tools'
 repository: 'https://github.com/codecentric/merge-request-notifier'
+homebrewCaskName: 'merge-request-notifier'
 keywords:
   - gitlab
   - merge-request

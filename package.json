@@ -1,6 +1,6 @@
 {
   "name": "electron-apps",
-  "version": "1.9312.0",
+  "version": "2.0.0",
   "description": "A collection of apps built on Electron",
   "main": "index.json",
   "scripts": {
@@ -10,8 +10,6 @@
     "build:dates": "node script/dates",
     "build:colors": "node script/colors",
     "build:categories": "node script/categories",
-    "build:releases": "node script/releases",
-    "build:readmes": "node script/readmes",
     "build:pack": "node script/pack",
     "prepack": "check-for-leaks",
     "prepush": "check-for-leaks",
@@ -70,7 +68,7 @@
     "recursive-readdir-sync": "^1.0.6",
     "rimraf": "^3.0.2",
     "semver": "^7.3.7",
-    "sharp": "^0.32.6",
+    "sharp": "^0.30.4",
     "sinon": "^14.0.0",
     "slugg": "^1.2.1",
     "tinycolor2": "^1.4.2",

@@ -3,7 +3,7 @@ description:
   'A decentralized messaging and sharing app built on top of Secure Scuttlebutt
   (SSB)'
 website: 'https://www.scuttlebutt.nz/'
-category: 'Social Networking'
+category: 'Social'
 repository: 'https://github.com/ssbc/patchwork'
 keywords:
   - scuttlebutt
