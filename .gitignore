@@ -7,3 +7,4 @@
 node_modules
 yarn.lock
 .gitsync_lock
+.yarn/install-state.gz
