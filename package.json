@@ -11,7 +11,7 @@
     "build:colors": "node script/colors",
     "build:categories": "node script/categories",
     "build:pack": "node script/pack",
-    "prettier": "prettier --check \"./**/*.{ts,js,yml}\"",
+    "prettier": "prettier --check \"./**/*.{ts,js,yml}\" --experimental-cli",
     "test": "mocha --reporter min test/human-data.js test/colors-spec.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "test:debug": "mocha --reporter spec test/human-data.js test/colors-spec.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "pretest-all": "npm run build",
@@ -50,7 +50,7 @@
     "mocha": "^10.0.0",
     "npm-run-all": "^4.1.5",
     "pick-a-good-color": "^1.1.1",
-    "prettier": "^2.6.2",
+    "prettier": "^3.6.2",
     "readdirp": "^3.6.0",
     "semver": "^7.7.3",
     "sharp": "^0.34.4",
@@ -60,9 +60,9 @@
     "yaml": "^2.8.1"
   },
   "engines": {
-    "node": ">=12"
+    "node": ">=22"
   },
   "lint-staged": {
-    "*.{js,ts,yml}": "prettier --write"
+    "*.{js,ts,yml}": "prettier --write --experimental-cli"
   }
 }
