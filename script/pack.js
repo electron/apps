@@ -1,6 +1,6 @@
 const fs = require('fs')
 const path = require('path')
-const yaml = require('js-yaml')
+const yaml = require('yaml')
 const dates = require('../meta/dates.json')
 const colors = require('../meta/colors.json')
 const parseGitHubUrl = require('github-url-to-object')
@@ -14,7 +14,7 @@ fs.readdirSync(path.join(__dirname, '../apps'))
   })
   .forEach((slug) => {
     const yamlFile = path.join(__dirname, `../apps/${slug}/${slug}.yml`)
-    const meta = yaml.load(fs.readFileSync(yamlFile))
+    const meta = yaml.parse(fs.readFileSync(yamlFile, 'utf-8'))
 
     if (meta.disabled) {
       return

@@ -4,7 +4,7 @@ const fs = require('fs')
 const readdirp = require('readdirp')
 const imagemin = require('imagemin')
 const imageminPngquant = require('imagemin-pngquant')
-const yaml = require('js-yaml')
+const yaml = require('yaml')
 
 async function resize(file, size) {
   const newFile = file.replace('.png', `-${size}.png`)
@@ -40,7 +40,7 @@ async function main() {
 
     // skip disabled app
     const yamlFile = path.join(icon.replace('-icon.png', '.yml'))
-    const { disabled } = yaml.load(fs.readFileSync(yamlFile))
+    const { disabled } = yaml.parse(fs.readFileSync(yamlFile, 'utf-8'))
     if (disabled) {
       return acc
     }

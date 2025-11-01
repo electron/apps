@@ -45,8 +45,6 @@
     "imagemin-pngquant": "^9.0.2",
     "inquirer": "^8.2.4",
     "jimp": "^0.16.1",
-    "js-yaml": "^4.1.0",
-    "json-stable-stringify": "^1.0.1",
     "lint-staged": "^12.4.1",
     "mime-types": "^2.1.35",
     "mocha": "^10.0.0",

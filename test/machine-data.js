@@ -3,7 +3,7 @@ const describe = mocha.describe
 const it = mocha.it
 const fs = require('fs')
 const path = require('path')
-const yaml = require('js-yaml')
+const yaml = require('yaml')
 const apps = require('..')
 const categories = require('../categories')
 const expect = require('chai').expect
@@ -24,7 +24,7 @@ describe('machine-generated app data (exported by the module)', () => {
           __dirname,
           `../apps/${filename}/${filename}.yml`
         )
-        const meta = yaml.load(fs.readFileSync(yamlFile))
+        const meta = yaml.parse(fs.readFileSync(yamlFile, 'utf-8'))
 
         if (meta.disabled) {
           return false
