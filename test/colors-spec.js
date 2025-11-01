@@ -1,13 +1,10 @@
 'use strict'
 
 const fs = require('fs')
-const os = require('os')
 const path = require('path')
 const sinon = require('sinon')
 
 const chai = require('chai')
-const Jimp = require('jimp')
-const tinyColor = require('tinycolor2')
 
 chai.should()
 
@@ -21,23 +18,23 @@ describe('colors', function () {
   let testDir
   let slugsAndIconPaths
 
-  const colors = ['white', 'black']
-
   beforeEach(async function () {
     slugsAndIconPaths = []
     // create a couple of test icons in a tmpdir
-    testDir = fs.mkdtempSync(path.join(os.tmpdir(), 'colors-spec-'))
-    for (const colorName of colors) {
-      const c = parseInt(tinyColor(colorName).toHex8(), 16)
-      const image = new Jimp(2, 2, c)
-      const iconPath = path.join(testDir, colorName + '.png')
-      await new Promise((resolve, reject) =>
-        image.write(iconPath, (err, buffer) =>
-          err ? reject(err) : resolve(buffer)
-        )
-      )
-      fs.chmodSync(iconPath, 511)
-      slugsAndIconPaths.push({ slug: colorName, iconPath })
+    testDir = fs.mkdirSync(path.join(__dirname, 'colors-spec'), {
+      recursive: true,
+    })
+
+    fs.cpSync(path.join(__dirname, 'fixture'), testDir, {
+      recursive: true,
+    })
+
+    const fixtures = fs.readdirSync(path.join(testDir))
+
+    for (const fixture of fixtures) {
+      const iconPath = path.join(testDir, fixture)
+      const slug = path.basename(fixture, path.extname(fixture))
+      slugsAndIconPaths.push({ slug, iconPath })
     }
 
     consoleError = sinon.stub(console, 'error')
