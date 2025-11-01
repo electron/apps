@@ -17,7 +17,6 @@
     "pretest-all": "npm run build",
     "test-all": "mocha --reporter min && prettier --check \"./**/*.{ts,js,yml}\" --write",
     "wizard": "node wizard.js",
-    "release": "script/release.sh",
     "purge": "npm-run-all remove:*",
     "remove:links": "node script/remove-broken-links",
     "remove:old": "node script/remove-old-electron-apps",
