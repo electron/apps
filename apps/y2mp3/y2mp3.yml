@@ -11,8 +11,5 @@ keywords:
   - free
   - audio
 license: MIT
-colors:
-  goodColorOnWhite: '#148544'
-  goodColorOnBlack: '#27ae60'
 locales:
   - en-US

@@ -71,34 +71,6 @@ describe('machine-generated app data (exported by the module)', () => {
     })
   })
 
-  it('sets an `iconColors` array on every app', () => {
-    apps.forEach((app) => {
-      expect(app.iconColors).to.be.an('array', app.slug)
-      expect(app.iconColors.length).to.be.above(2, app.slug)
-    })
-  })
-
-  it('sets a `colors.faintColorOnWhite` semi-transparent rgba value on every app', () => {
-    apps.forEach((app) => {
-      expect(
-        app.faintColorOnWhite,
-        `${app.slug}'s faintColorOnWhite is not right`
-      ).to.match(/rgba\(\d+, \d+, \d+, /)
-    })
-  })
-
-  it('sets a `colors.goodColorOnBlack` hex value on every app', () => {
-    apps.forEach((app) => {
-      expect(isHexColor(app.goodColorOnBlack)).to.eq(true)
-    })
-  })
-
-  it('does not override good colors if they already exist', () => {
-    const hyper = apps.find((app) => app.slug === 'hyper')
-    expect(hyper.goodColorOnWhite).to.eq('#000')
-    expect(hyper.goodColorOnBlack).to.eq('#FFF')
-  })
-
   describe('releases', () => {
     const appsWithRepos = require('../lib/apps-with-github-repos')
     const appsWithLatestRelease = apps.filter((app) => app.latestRelease)

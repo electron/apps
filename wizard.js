@@ -1,10 +1,9 @@
 const categories = require('./lib/app-categories')
-const inquirer = require('inquirer')
 const { isUrl } = require('./lib/is-url')
+const inquirer = require('inquirer')
 const path = require('path')
 const fs = require('fs')
-const slugify = require('slugg')
-const cleanDeep = require('clean-deep')
+const slugify = require('slugify')
 const yaml = require('yaml')
 const existingSlugs = fs.readdirSync(path.join(__dirname, 'apps'))
 
@@ -72,7 +71,17 @@ const questions = [
 inquirer
   .prompt(questions)
   .then(function (answers) {
-    const app = cleanDeep(answers)
+    const app = Object.entries(answers).reduce((acc, [key, value]) => {
+      if (
+        value === '' ||
+        (Array.isArray(value) && value.length === 1 && value[0] === '')
+      ) {
+        return acc
+      }
+      acc[key] = value
+      return acc
+    }, {})
+    console.log({ app })
     const slug = slugify(app.name)
     const basepath = path.join(path.join(__dirname, 'apps'), slug)
     const yamlPath = path.join(basepath, `${slug}.yml`)
