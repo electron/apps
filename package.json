@@ -2,6 +2,7 @@
   "name": "@electron/apps",
   "version": "0.0.0-development",
   "description": "A collection of apps built on Electron",
+  "private": true,
   "main": "index.json",
   "scripts": {
     "build:clean": "node script/clean",
