@@ -1,0 +1,17 @@
+name: CoilPad
+description:
+  description:
+    Native macOS Python playground designed for instant prototyping and
+    interactive learning.
+website: https://coilpad.com
+category: Developer Tools
+keywords:
+  - python
+  - playground
+  - repl
+  - education
+  - developer-tools
+  - productivity
+  - macos
+  - scratchpad
+license: Proprietary
