@@ -1,0 +1,14 @@
+name: KeyForge Master Configurator
+description:
+  It turns your KeyForge device into a tailored productivity powerhouse.
+website: https://keyforge.tech/configurator/
+category: Utilities
+keywords:
+  - macropad
+  - keyboard
+  - configurator
+  - shortcuts
+  - macros
+locales:
+  - en-US
+license: Proprietary
