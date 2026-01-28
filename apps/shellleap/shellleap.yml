@@ -1,0 +1,13 @@
+name: ShellLeap
+description: 'Premium, secure cross-platform SSH & SFTP client with AES-256-GCM vault.'
+website: 'https://shareefsakk2.github.io/shellleap/'
+repository: 'https://github.com/shareefsakk2/shellleap'
+keywords:
+  - ssh
+  - sftp
+  - terminal
+  - security
+  - encryption
+  - cross-platform
+license: MIT
+category: 'Developer Tools'
