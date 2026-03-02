@@ -1,0 +1,10 @@
+name: Focusbase
+description: 'Desktop productivity HUD that monitors long-running terminal processes.'
+website: 'https://focusbase.com'
+category: 'Developer Tools'
+keywords:
+  - terminal
+  - productivity
+  - monitoring
+  - developer-tools
+  - hud
