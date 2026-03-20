@@ -1,0 +1,34 @@
+name: JupyLite
+description:
+  'Lightweight Jupyter Notebook viewer with multi-tab support, syntax
+  highlighting, and three themes.'
+website: 'https://jupylite.msjahid.me'
+category: 'Developer Tools'
+repository: 'https://github.com/msjahid/jupylite'
+keywords:
+  - jupyter
+  - notebook
+  - ipynb
+  - viewer
+  - python
+  - data-science
+  - machine-learning
+  - developer-tools
+  - productivity
+  - cross-platform
+license: 'MIT'
+snapcraftName: 'jupylite'
+youtube_video_url: 'https://www.youtube.com/watch?v=vhXH52sU3nM'
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/msjahid/jupylite-docs/refs/heads/main/images/Light_theme.png'
+    caption: 'Light theme — single notebook view with TOC sidebar'
+  - imageUrl: 'https://raw.githubusercontent.com/msjahid/jupylite-docs/refs/heads/main/images/Multi-Tab.png'
+    caption: 'Multi-tab — open multiple notebooks as tabs'
+  - imageUrl: 'https://raw.githubusercontent.com/msjahid/jupylite-docs/refs/heads/main/images/Rosepine_theme.png'
+    caption: 'Rosé Pine dark theme with syntax highlighting'
+  - imageUrl: 'https://raw.githubusercontent.com/msjahid/jupylite-docs/refs/heads/main/images/Dark_theme.png'
+    caption: 'Dark theme with blue accents'
+  - imageUrl: 'https://raw.githubusercontent.com/msjahid/jupylite-docs/refs/heads/main/images/Font_settings.png'
+    caption: 'Font settings — customize app, code, and UI font'
+locales:
+  - en-US
