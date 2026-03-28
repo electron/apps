@@ -1,0 +1,12 @@
+name: PATAPIM
+description: 'Terminal IDE for AI coding agents with 9-terminal grid, state detection, voice dictation, and LAN remote access'
+website: 'https://patapim.ai'
+keywords:
+  - terminal
+  - ide
+  - ai
+  - developer-tools
+  - voice
+  - electron
+  - coding-agents
+category: 'Developer Tools'
