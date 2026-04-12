@@ -1,0 +1,12 @@
+name: Lumia
+description: 'Cross-platform screen capture and annotation tool with sharing capabilities.'
+website: 'https://lumia.beer'
+repository: 'https://github.com/emtyty/lumia'
+keywords:
+  - screenshot
+  - screen capture
+  - annotation
+  - screen recording
+  - sharing
+category: Utilities
+license: MIT
