@@ -148,7 +148,9 @@ describe('human-submitted app data', () => {
 
           it('requires imageUrl to be a fully-qualified HTTPS URL', () => {
             screenshots.forEach((screenshot) => {
-              expect(isUrl(screenshot.imageUrl) && screenshot.imageUrl.startsWith('https')).to.equal(
+              expect(
+                isUrl(screenshot.imageUrl) && screenshot.imageUrl.startsWith('https'),
+              ).to.equal(
                 true,
                 `${app.slug} screenshot imageUrl must be a fully-qualified HTTPS URL`,
               );
