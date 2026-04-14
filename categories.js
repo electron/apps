@@ -1,1 +1,1 @@
-module.exports = require('./meta/categories.json')
+module.exports = require('./meta/categories.json');

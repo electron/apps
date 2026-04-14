@@ -4,22 +4,18 @@
 // files are present in the repo. This script cleans up any leftover local
 // artifacts that were created by `npm run build`, such as `apps/foo-icon-128.png`
 
-const fs = require('fs')
-const path = require('path')
+const fs = require('fs');
+const path = require('path');
 
 fs.readdirSync(path.join(__dirname, '../apps'))
   .filter((filename) => {
-    return fs
-      .statSync(path.join(__dirname, `../apps/${filename}`))
-      .isDirectory()
+    return fs.statSync(path.join(__dirname, `../apps/${filename}`)).isDirectory();
   })
   .filter((filename) => {
-    return !fs.existsSync(
-      path.join(__dirname, `../apps/${filename}/${filename}.yml`)
-    )
+    return !fs.existsSync(path.join(__dirname, `../apps/${filename}/${filename}.yml`));
   })
   .forEach((filename) => {
-    const appDir = path.join(__dirname, `../apps/${filename}`)
-    console.log(`Removing leftover artifacts from ${appDir}`)
-    fs.rmSync(appDir, { recursive: true, force: true })
-  })
+    const appDir = path.join(__dirname, `../apps/${filename}`);
+    console.log(`Removing leftover artifacts from ${appDir}`);
+    fs.rmSync(appDir, { recursive: true, force: true });
+  });

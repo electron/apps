@@ -10,15 +10,17 @@
     "build:dates": "node script/dates",
     "build:categories": "node script/categories",
     "build:pack": "node script/pack",
-    "prettier": "prettier --check \"./**/*.{ts,js,yml}\" --experimental-cli",
-    "test": "mocha --reporter min test/human-data.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
-    "test:debug": "mocha --reporter spec test/human-data.js && prettier --check \"./**/*.{ts,js,yml}\" --write",
+    "lint": "oxfmt --check . && oxlint",
+    "lint:fix": "oxfmt --write . && oxlint --fix",
+    "test": "mocha --reporter min test/human-data.js && oxfmt --check .",
+    "test:debug": "mocha --reporter spec test/human-data.js && oxfmt --check .",
     "pretest-all": "npm run build",
-    "test-all": "mocha --reporter min && prettier --check \"./**/*.{ts,js,yml}\" --write",
+    "test-all": "mocha --reporter min && oxfmt --check .",
     "wizard": "node wizard.js",
     "remove:links": "node script/remove-broken-links",
     "remove:old": "node script/remove-old-electron-apps",
-    "remove:disabled": "node script/remove-disabled-apps"
+    "remove:disabled": "node script/remove-disabled-apps",
+    "prepare": "husky"
   },
   "repository": "https://github.com/electron/apps",
   "keywords": [
@@ -39,7 +41,8 @@
     "inquirer": "^8.2.4",
     "lint-staged": "^12.4.1",
     "mocha": "^11.7.4",
-    "prettier": "^3.6.2",
+    "oxfmt": "^0.44.0",
+    "oxlint": "^1.59.0",
     "readdirp": "^3.6.0",
     "semver": "^7.7.3",
     "sharp": "^0.34.4",
@@ -51,7 +54,13 @@
     "node": ">=22"
   },
   "lint-staged": {
-    "*.{js,ts,yml}": "prettier --write --experimental-cli"
+    "*.js": [
+      "oxfmt --write",
+      "oxlint --fix"
+    ],
+    "*.json": [
+      "oxfmt --write"
+    ]
   },
   "packageManager": "yarn@4.10.3+sha512.c38cafb5c7bb273f3926d04e55e1d8c9dfa7d9c3ea1f36a4868fa028b9e5f72298f0b7f401ad5eb921749eb012eb1c3bb74bf7503df3ee43fd600d14a018266f"
 }

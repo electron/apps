@@ -1,11 +1,12 @@
 # electron-apps [![CI](https://github.com/electron/apps/actions/workflows/test.yml/badge.svg)](https://github.com/electron/apps/actions/workflows/test.yml)
 
-A collection of apps built on Electron. [electronjs.org/apps](http://electronjs.org/apps).
+A collection of apps built on Electron.
+[electronjs.org/apps](http://electronjs.org/apps).
 
 ## Adding your app
 
-If you have an Electron application you'd like to see added,
-please read the [contributing](contributing.md) doc.
+If you have an Electron application you'd like to see added, please read the
+[contributing](contributing.md) doc.
 
 ## How it Works
 
