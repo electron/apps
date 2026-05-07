@@ -1,0 +1,13 @@
+name: WhereMyTokens
+description: 'Local-first Windows tray app for monitoring AI coding token usage.'
+website: 'https://github.com/jeongwookie/WhereMyTokens'
+repository: 'https://github.com/jeongwookie/WhereMyTokens'
+keywords:
+  - ai
+  - coding
+  - tokens
+  - usage
+  - tray
+  - windows
+license: MIT
+category: 'Developer Tools'
