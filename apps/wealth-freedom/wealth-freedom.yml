@@ -1,0 +1,11 @@
+name: Wealth Freedom
+description: Personal finance app with a 3-stage roadmap to financial independence. Local-first, cross-platform, AI-powered.
+website: 'https://wealth-freedom.vercel.app'
+repository: 'https://github.com/petterobam/wealth-freedom'
+keywords:
+  - finance
+  - budget
+  - money
+  - investment
+  - personal-finance
+category: Finance
