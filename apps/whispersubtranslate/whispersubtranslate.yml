@@ -1,0 +1,12 @@
+name: WhisperSubTranslate
+description: 'A desktop app that turns any video into translated subtitles, fully offline-capable. Uses whisper.cpp for local speech recognition and a local LLM or DeepL/OpenAI/Gemini for translation.'
+website: 'https://github.com/Blue-B/WhisperSubTranslate'
+repository: 'https://github.com/Blue-B/WhisperSubTranslate'
+license: GPL-3.0
+keywords:
+  - subtitle
+  - translation
+  - whisper
+  - offline
+  - srt
+category: Photo & Video
