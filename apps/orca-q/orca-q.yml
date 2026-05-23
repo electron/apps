@@ -1,0 +1,14 @@
+name: OrcaQ
+description: Modern, open-source database client and IDE for managing, querying, and exploring multiple database types with built-in AI assistant.
+website: https://orca-q.com
+category: Developer Tools
+repository: https://github.com/cin12211/orca-q
+keywords:
+  - database
+  - postgres
+  - mysql
+  - redis
+  - sqlite
+  - ai
+  - sql
+license: MIT
