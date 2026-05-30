@@ -1,0 +1,9 @@
+name: NexCode IDE
+description: NexCode IDE — desktop code editor
+repository: https://github.com/Hyggshi-OS-project-center/NexCode
+keywords:
+  - developer tools
+  - ide
+  - code editor
+license: MIT
+category: Developer Tools
