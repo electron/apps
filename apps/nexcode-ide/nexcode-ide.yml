@@ -1,9 +1,13 @@
 name: NexCode IDE
-description: NexCode IDE — desktop code editor
+description: A lightweight, cross-platform code editor built with Electron 
+  and TypeScript. Supports syntax highlighting, file explorer, integrated 
+  terminal, and font customization.
 repository: https://github.com/Hyggshi-OS-project-center/NexCode
 keywords:
-  - developer tools
+  - developer-tools
   - ide
-  - code editor
+  - code-editor
+  - electron
+  - typescript
 license: MIT
 category: Developer Tools
