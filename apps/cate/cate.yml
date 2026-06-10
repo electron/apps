@@ -1,0 +1,12 @@
+name: Cate
+description: 'Infinite zoomable canvas IDE with editor, terminal, browser, and AI agent panels.'
+website: 'https://cate.cero-ai.com'
+repository: 'https://github.com/0-AI-UG/cate'
+keywords:
+  - ide
+  - editor
+  - terminal
+  - canvas
+  - developer-tools
+license: MIT
+category: 'Developer Tools'
