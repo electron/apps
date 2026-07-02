@@ -1,0 +1,10 @@
+name: Nav0
+description: 'Minimal, privacy-focused web browser with zero telemetry, tracking, or data collection.'
+website: 'https://nav0.org'
+repository: 'https://github.com/nav0-org/nav0-browser'
+keywords:
+  - browser
+  - privacy
+  - minimal
+license: MIT
+category: Productivity
