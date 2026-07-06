@@ -1,0 +1,10 @@
+name: Bodega One
+description: 'Local-first AI IDE with chat and agentic code modes. Bring your own model: swap between local (Ollama, llama.cpp) and cloud providers per request, with a full offline air-gap mode and verified code edits'
+website: 'https://bodegaone.ai'
+repository: 'https://github.com/BodegaoneAI/bodegaone-releases'
+keywords:
+  - ai
+  - developer-tools
+  - llm
+  - ide
+category: Developer Tools
