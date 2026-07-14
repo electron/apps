@@ -1,0 +1,22 @@
+name: Remote Code IDE
+description: Code remotelly SSH/SFTP files and folders.
+website: https://github.com/minasvisual/remote-code-ide
+category: Developer Tools
+repository: https://github.com/minasvisual/remote-code-ide
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/minasvisual/remote-code-ide/refs/heads/main/resources/print-1.png'
+    caption: 'Connection example'
+    imageLink: 'https://raw.githubusercontent.com/minasvisual/remote-code-ide/refs/heads/main/resources/print-1.png'
+  - imageUrl: 'https://raw.githubusercontent.com/minasvisual/remote-code-ide/refs/heads/main/resources/print-2.png'
+    caption: 'Editor example'
+    imageLink: 'https://raw.githubusercontent.com/minasvisual/remote-code-ide/refs/heads/main/resources/print-2.png'
+keywords:
+  - ide
+  - code
+  - ssh
+  - sft
+  - coding
+  - terminal
+  - developer
+  - remote
+license: MIT
