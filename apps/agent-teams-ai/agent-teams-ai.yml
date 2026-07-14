@@ -1,0 +1,12 @@
+name: Agent Teams AI
+description: 'Desktop control center for coordinating autonomous coding agent teams across projects, providers, and models.'
+website: 'https://agentteams.live/'
+category: Developer Tools
+repository: 'https://github.com/777genius/agent-teams-ai'
+keywords:
+  - ai
+  - agents
+  - coding
+  - orchestration
+  - developer-tools
+license: 'AGPL-3.0'
