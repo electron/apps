@@ -1,0 +1,11 @@
+name: Orkas
+description: 'Coordinate specialist AI agents from a local-first desktop workspace.'
+website: 'https://orkas.ai?source=github_electron_apps'
+category: 'Productivity'
+repository: 'https://github.com/Orkas-AI/Orkas'
+keywords:
+  - ai
+  - agents
+  - multi-agent
+  - productivity
+license: 'MIT'
