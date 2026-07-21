@@ -1,0 +1,20 @@
+# LocalForge entry draft for electron/apps
+# Copy to: apps/localforge/localforge.yml in https://github.com/electron/apps
+# Before opening a PR, align field names with current repo examples / CONTRIBUTING.
+
+name: LocalForge
+description: 'Local-first AI desktop workbench with multi-model chat, agents, knowledge base, workspace tools, and MCP — your keys stay on your machine.'
+website: 'https://github.com/lkjhgfdsallx/electron-aitool'
+repository: 'https://github.com/lkjhgfdsallx/electron-aitool'
+keywords:
+  - AI
+  - productivity
+  - chat
+  - knowledge-base
+  - agent
+  - privacy
+  - local-first
+  - mcp
+license: MIT
+# If the apps repo requires a category enum, prefer Productivity (or closest allowed value):
+# category: 'Productivity'
