@@ -1,0 +1,16 @@
+name: LynxHub
+description: Cross-platform, extensible terminal and browser for AI management.
+website: https://lynxhub.app
+category: Utilities
+repository: https://github.com/KindaBrazy/LynxHub
+keywords:
+  - lynxhub
+  - terminal
+  - browser
+  - ai
+  - artificial intelligence
+  - chat
+license: AGPL-3.0
+screenshots:
+  - imageUrl: 'https://raw.githubusercontent.com/KindaBrazy/LynxHub/refs/heads/master/readme/lynxhub_screenshot.png'
+    caption: 'Main Screenshot'
