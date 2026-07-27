@@ -1,0 +1,23 @@
+name: OpenFiles
+description: 'Opens, edits, and understands more than 350 file formats in one AI-native desktop workspace.'
+website: 'https://openfiles.pansysoft.app/'
+category: Utilities
+keywords:
+  - file manager
+  - file viewer
+  - editor
+  - cad
+  - markdown
+  - jupyter
+  - sqlite
+  - productivity
+locales:
+  - en-US
+  - zh-CN
+  - zh-TW
+  - ja-JP
+  - ko-KR
+screenshots:
+  - imageUrl: 'https://leungwensen.com/static/images/openfiles-desktop-screenshot.jpg'
+    caption: 'OpenFiles desktop workspace'
+    imageLink: 'https://openfiles.pansysoft.app/'
