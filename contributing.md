@@ -2,11 +2,6 @@
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
-This project adheres to the Contributor Covenant
-[code of conduct](https://github.com/electron/electron/blob/master/CODE_OF_CONDUCT.md).
-By participating, you are expected to uphold this code. Please report
-unacceptable behavior to electron@github.com.
-
 The following is a set of guidelines for contributing to `electron-apps`. These
 are just guidelines, not rules. Use your best judgment and feel free to propose
 changes to this document in a pull request.
