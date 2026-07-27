@@ -1,0 +1,13 @@
+name: DynoTable
+description:
+  Desktop GUI for Amazon DynamoDB with a SQL workbench, visual editing, and an AI
+  agent on your own Bedrock keys.
+website: https://dynotable.com
+category: Developer Tools
+keywords:
+  - dynamodb
+  - aws
+  - database
+  - nosql
+  - sql
+  - gui
