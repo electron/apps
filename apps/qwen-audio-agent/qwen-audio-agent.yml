@@ -1,0 +1,12 @@
+name: qwen-audio-agent
+description: Full-duplex voice interface for AI coding agents. Speak to Claude Code, Codex, and OpenCode hands-free, with local wake word and barge-in.
+website: https://github.com/QwenAudio/qwen-audio-agent
+repository: https://github.com/QwenAudio/qwen-audio-agent
+keywords:
+  - voice
+  - ai
+  - coding agent
+  - acp
+license: Apache-2.0
+npmPackageName: qwen-audio-agent
+category: Developer Tools
