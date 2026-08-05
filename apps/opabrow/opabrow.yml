@@ -1,0 +1,16 @@
+name: opabrow
+description: 'Transparent overlay browser with adjustable opacity, always-on-top, and click-through.'
+website: 'https://claytonpetrosian.github.io/opabrow/'
+repository: 'https://github.com/ClaytonPetrosian/opabrow'
+keywords:
+  - browser
+  - overlay
+  - transparent
+  - productivity
+  - utility
+license: MPL-2.0
+category: Utilities
+locales:
+  - zh-CN
+  - en
+  - ja
