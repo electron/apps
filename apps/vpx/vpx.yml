@@ -1,0 +1,13 @@
+name: VPX
+description: 'Music player with a real-time per-channel oscilloscope that plays nearly 70 audio formats, from MP3 and FLAC to MOD, S3M and other tracker files.'
+website: 'https://vpx-landing.vercel.app/en/'
+keywords:
+  - music
+  - audio
+  - 'music player'
+  - oscilloscope
+  - tracker
+  - retro
+category: Music
+locales:
+  - pt-BR
