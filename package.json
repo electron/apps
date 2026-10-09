@@ -41,7 +41,7 @@
     "inquirer": "^8.2.4",
     "lint-staged": "^17.4.1",
     "mocha": "^11.7.4",
-    "oxfmt": "^0.44.0",
+    "oxfmt": "^0.71.0",
     "oxlint": "^1.59.0",
     "readdirp": "^3.6.0",
     "semver": "^7.7.3",
